@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Aviation Intelligence Dashboard V4</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"/>
+<style>
+body{margin:0;font-family:Arial}
+header{background:#0f172a;color:white;padding:10px 20px}
+#utcClock{font-size:12px;color:#cbd5e1}
+#map{height:65vh}
+#sidebar,#details,#alerts{
+position:absolute;z-index:1000;background:white;border-radius:10px;
+padding:12px;box-shadow:0 0 10px rgba(0,0,0,.3)
+}
+#sidebar{left:10px;top:80px;width:260px}
+#details{right:10px;top:80px;width:300px}
+#alerts{right:10px;top:350px;width:300px}
+.card{background:#f1f5f9;padding:8px;margin-top:8px;border-radius:6px}
+.legend div{margin:4px 0}
+table{width:100%;border-collapse:collapse}
+th,td{border:1px solid #ccc;padding:6px;font-size:12px}
+th{background:#0f172a;color:white}
+#footerBrand{position:fixed;right:10px;bottom:10px;background:#0f172a;color:white;padding:6px 10px;border-radius:6px;font-size:12px}
+</style>
+</head>
+<body>
+<header>
+<h2>Aviation Intelligence Dashboard V4</h2>
+<div id="utcClock"></div>
+</header>
+
+<div id="sidebar">
+<h3>Search Country</h3>
+<input id="searchBox" style="width:95%;padding:6px">
+
+<div class="card"><b>Active CZIBs:</b> 5</div>
+
+<h4>Risk Legend</h4>
+<div class="legend">
+<div>🔴 High</div>
+<div>🟠 Elevated</div>
+<div>🟢 Normal</div>
+</div>
+
+<h4>Layers</h4>
+<label><input type="checkbox" id="firToggle" checked> FIR Boundaries</label><br>
+<label><input type="checkbox" id="airportToggle" checked> Airports</label>
+</div>
+
+<div id="details">
+<h3>Country Details</h3>
+<div id="info">Select a country</div>
+</div>
+
+<div id="alerts">
+<h3>Security Alerts</h3>
+<div class="card">🆕 New CZIB - Iraq</div>
+<div class="card">🔄 Updated CZIB - Iran</div>
+<div class="card">⏰ Expiring CZIB - Libya</div>
+</div>
+
+<div id="map"></div>
+
+<table>
+<thead>
+<tr>
+<th>Country</th><th>CZIB</th><th>Issued</th><th>Expires</th><th>Risk</th><th>Status</th>
+</tr>
+</thead>
+<tbody id="tbl"></tbody>
+</table>
+
+<div id="footerBrand">Aegean Airlines Security Dep</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script>
+const countries={
+Iraq:{lat:33.3,lng:44.3,czib:'CZIB-2025-02',risk:'HIGH'},
+Iran:{lat:32.4,lng:53.6,czib:'CZIB-2025-03',risk:'HIGH'},
+Israel:{lat:31.0,lng:34.8,czib:'CZIB-2025-04',risk:'ELEVATED'},
+Libya:{lat:26.3,lng:17.2,czib:'CZIB-2025-05',risk:'HIGH'},
+Sudan:{lat:15.5,lng:32.5,czib:'CZIB-2025-06',risk:'HIGH'}
+};
+
+function clock(){document.getElementById('utcClock').innerHTML=new Date().toUTCString();}
+setInterval(clock,1000);clock();
+
+var map=L.map('map').setView([33,25],4);
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png',{maxZoom:18}).addTo(map);
+
+let firLayer=L.layerGroup().addTo(map);
+let airportLayer=L.layerGroup().addTo(map);
+
+L.rectangle([[37,19],[34,30]],{color:'blue',weight:1,fill:false}).addTo(firLayer).bindPopup('Athens FIR');
+L.rectangle([[35,41],[31,48]],{color:'blue',weight:1,fill:false}).addTo(firLayer).bindPopup('Baghdad FIR');
+L.rectangle([[36,44],[25,63]],{color:'blue',weight:1,fill:false}).addTo(firLayer).bindPopup('Tehran FIR');
+
+L.marker([37.936,23.944]).addTo(airportLayer).bindPopup('ATH');
+L.marker([33.262,44.234]).addTo(airportLayer).bindPopup('BGW');
+L.marker([30.121,31.406]).addTo(airportLayer).bindPopup('CAI');
+L.marker([32.011,34.886]).addTo(airportLayer).bindPopup('TLV');
+
+function showCountry(name){
+let c=countries[name];
+document.getElementById('info').innerHTML=`<b>${name}</b><br>${c.czib}<br>Risk: ${c.risk}`;
+map.setView([c.lat,c.lng],6);
+}
+
+Object.keys(countries).forEach(name=>{
+let c=countries[name];
+L.circle([c.lat,c.lng],{
+color:c.risk==='ELEVATED'?'orange':'red',
+fillColor:c.risk==='ELEVATED'?'orange':'red',
+fillOpacity:0.4,radius:250000
+}).addTo(map).on('click',()=>showCountry(name));
+
+document.getElementById('tbl').innerHTML+=`
+<tr onclick="showCountry('${name}')">
+<td>${name}</td><td>${c.czib}</td>
+<td>2025</td><td>2025</td>
+<td>${c.risk}</td><td>ACTIVE</td>
+</tr>`;
+});
+
+document.getElementById('searchBox').addEventListener('keyup',e=>{
+let v=e.target.value.trim();
+if(countries[v]) showCountry(v);
+});
+
+document.getElementById('firToggle').onchange=function(){
+if(this.checked) map.addLayer(firLayer); else map.removeLayer(firLayer);
+};
+document.getElementById('airportToggle').onchange=function(){
+if(this.checked) map.addLayer(airportLayer); else map.removeLayer(airportLayer);
+};
+</script>
+</body>
+</html>
