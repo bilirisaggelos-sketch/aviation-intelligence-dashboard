@@ -41,7 +41,7 @@ async function loadCZIBData() {
     try {
 
         const response =
-            await fetch('./data/czib.json');
+            await fetch('./data/czib-live.json');
 
         const data =
             await response.json();
