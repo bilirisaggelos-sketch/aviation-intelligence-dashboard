@@ -91,7 +91,7 @@ async function loadCZIBData() {
 
         });
 
-        window.czibData = data;
+        window.czibData = data.conflict_zones;
 
     } catch (err) {
 
