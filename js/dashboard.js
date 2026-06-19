@@ -51,7 +51,7 @@ async function loadCZIBData() {
 
         document.getElementById("tbl").innerHTML = "";
 
-        data.forEach(item => {
+       data.conflict_zones.forEach(item => {
 
             const coords =
                 countryCoords[item.country];
