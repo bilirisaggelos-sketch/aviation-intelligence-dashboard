@@ -43,15 +43,27 @@ async function loadCZIBData() {
         const response =
             await fetch('./data/czib-live.json');
 
-        const data =
-            await response.json();
+        const raw =
+    await response.json();
+
+const data =
+    raw.conflict_zones
+       .filter(x => x.status === "Active")
+       .map(x => ({
+            country: x.country.split(",")[0].trim(),
+            czib: x.Nid,
+            issued: x.issued_date,
+            expires: x.valid_until_date,
+            risk: "HIGH",
+            status: x.status.toUpperCase()
+       }));
 
         document.getElementById("lastUpdate").innerHTML =
             "Last Update: " + new Date().toUTCString();
 
         document.getElementById("tbl").innerHTML = "";
 
-       data.conflict_zones.forEach(item => {
+      data.forEach(item => {
 
             const coords =
                 countryCoords[item.country];
