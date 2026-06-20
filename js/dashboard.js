@@ -27,28 +27,29 @@ async function loadCountries() {
 );
         const geojson = await response.json();
 
-        countriesLayer = L.geoJSON(geojson, {
+countriesLayer = L.geoJSON(geojson, {
   style: function(feature) {
 
-    let color = "#cccccc";
+    const country = feature.properties.ADMIN;
 
-    if (feature.properties.ADMIN === "Iran")
-      color = "red";
+    let color = "#d9d9d9";
 
-    if (feature.properties.ADMIN === "Iraq")
-      color = "red";
-
-    if (feature.properties.ADMIN === "Syria")
-      color = "red";
-
-    if (feature.properties.ADMIN === "Libya")
-      color = "red";
+    if (
+      country === "Iran" ||
+      country === "Iraq" ||
+      country === "Syria" ||
+      country === "Libya" ||
+      country === "Sudan" ||
+      country === "Yemen"
+    ) {
+      color = "#ff0000";
+    }
 
     return {
       color: "#666",
       weight: 1,
       fillColor: color,
-      fillOpacity: 0.4
+      fillOpacity: 0.5
     };
   }
 }).addTo(map);
