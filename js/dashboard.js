@@ -20,20 +20,28 @@ L.tileLayer(
 let countriesLayer = null;
 
 async function loadCountries() {
+    try {
 
-    const response = await fetch(
-        'https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson'
-    );
+        const response = await fetch(
+            'https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson'
+        );
 
-    const geojson = await response.json();
+        const geojson = await response.json();
 
-    countriesLayer = L.geoJSON(geojson, {
-        style: {
-            color: '#666',
-            weight: 1,
-            fillOpacity: 0
-        }
-    }).addTo(map);
+        countriesLayer = L.geoJSON(geojson, {
+            style: {
+                color: '#666',
+                weight: 1,
+                fillOpacity: 0
+            }
+        }).addTo(map);
+
+    } catch(err) {
+        console.error('Countries error:', err);
+    }
+
+    loadCZIBData();
+}
 }
 const countryCoords = {
     Iraq: [33.3, 44.3],
@@ -195,4 +203,3 @@ document.getElementById("searchBox")
 
 });
 
-loadCountries();
