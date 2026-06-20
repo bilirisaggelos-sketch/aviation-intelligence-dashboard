@@ -203,3 +203,4 @@ document.getElementById("searchBox")
 
 });
 
+// loadCountries();
