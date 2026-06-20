@@ -23,9 +23,8 @@ async function loadCountries() {
     try {
 
         const response = await fetch(
-            'https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson'
-        );
-
+  './data/countries.geojson'
+);
         const geojson = await response.json();
 
         countriesLayer = L.geoJSON(geojson, {
