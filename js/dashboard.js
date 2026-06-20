@@ -17,7 +17,24 @@ L.tileLayer(
         maxZoom: 18
     }
 ).addTo(map);
+let countriesLayer = null;
 
+async function loadCountries() {
+
+    const response = await fetch(
+        'https://raw.githubusercontent.com/datasets/geo-countries/master/data/countries.geojson'
+    );
+
+    const geojson = await response.json();
+
+    countriesLayer = L.geoJSON(geojson, {
+        style: {
+            color: '#666',
+            weight: 1,
+            fillOpacity: 0
+        }
+    }).addTo(map);
+}
 const countryCoords = {
     Iraq: [33.3, 44.3],
     Iran: [32.4, 53.6],
@@ -178,4 +195,4 @@ document.getElementById("searchBox")
 
 });
 
-loadCZIBData();
+loadCountries();
