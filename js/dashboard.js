@@ -30,7 +30,7 @@ async function loadCountries() {
 countriesLayer = L.geoJSON(geojson, {
   style: function(feature) {
 
-    const country = feature.properties.ADMIN;
+    const country = feature.properties.name;
 
     let color = "#d9d9d9";
 
