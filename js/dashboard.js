@@ -51,7 +51,9 @@ if (
     color = "#ff0000";
 }
 
-    return {
+console.log(country, window.activeCountries?.[country]);
+
+return {
       color: "#666",
       weight: 1,
       fillColor: color,
