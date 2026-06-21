@@ -51,12 +51,25 @@ if (
 }
 
 return {
-      color: "#666",
-      weight: 1,
-      fillColor: color,
-      fillOpacity: 0.5
-    };
-  }
+    color: "#666",
+    weight: 1,
+    fillColor: color,
+    fillOpacity: 0.5
+};
+},
+
+onEachFeature: function(feature, layer) {
+
+    layer.on("click", function() {
+
+        const country = feature.properties.name;
+
+        showCountry(country);
+
+    });
+
+}
+
 }).addTo(map);
 
     } catch(err) {
