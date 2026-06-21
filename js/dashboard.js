@@ -127,7 +127,7 @@ async function loadCZIBData() {
     await response.json();
 
 const data =
-    raw.conflict_zones
+    raw.conflict_zones?.conflict_zones || raw.conflict_zones;
        .map(x => ({
             country: x.country.split(",")[0].trim(),
             czib: x.Nid,
