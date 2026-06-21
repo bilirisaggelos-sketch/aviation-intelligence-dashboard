@@ -167,7 +167,10 @@ window.activeCountries = activeCountries;
         });
 
         window.czibData = data;
-
+        
+if (countriesLayer) {
+    countriesLayer.setStyle(countriesLayer.options.style);
+}
     } catch (err) {
 
         console.error(err);
@@ -222,6 +225,5 @@ document.getElementById("searchBox")
 
 });
 
+loadCZIBData();
 loadCountries();
-
-// loadCZIBData();
