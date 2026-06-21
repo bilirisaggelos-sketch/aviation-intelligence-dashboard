@@ -126,16 +126,15 @@ async function loadCZIBData() {
         const raw =
     await response.json();
 
-const data =
-    raw.conflict_zones?.conflict_zones || raw.conflict_zones;
-       .map(x => ({
-            country: x.country.split(",")[0].trim(),
-            czib: x.Nid,
-            issued: x.issued_date,
-            expires: x.valid_until_date,
-            risk: x.status === "Active" ? "HIGH" : "NORMAL",
-            status: x.status
-       }));
+const data = (raw.conflict_zones?.conflict_zones || raw.conflict_zones)
+    .map(x => ({
+        country: x.country.split(",")[0].trim(),
+        czib: x.Nid,
+        issued: x.issued_date,
+        expires: x.valid_until_date,
+        risk: x.status === "Active" ? "HIGH" : "NORMAL",
+        status: x.status
+    }));
 const activeCountries = {};
 
 data.forEach(item => {
