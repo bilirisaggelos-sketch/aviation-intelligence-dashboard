@@ -271,7 +271,27 @@ function updateSecurityFeed() {
         </div>
 
         `).join("");
+document.getElementById("intelFeed").innerHTML = `
 
+<div class="card">
+🚨 Drone activity near Erbil Airport
+<br>
+<small>10:42 UTC | Reuters</small>
+</div>
+
+<div class="card">
+⚠ GPS interference Eastern Med
+<br>
+<small>10:30 UTC | EASA</small>
+</div>
+
+<div class="card">
+⚠ Security incident Red Sea
+<br>
+<small>09:55 UTC | UKMTO</small>
+</div>
+
+`;
 }
 loadCZIBData();
 loadCountries();
