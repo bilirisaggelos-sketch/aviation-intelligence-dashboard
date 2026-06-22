@@ -275,10 +275,14 @@ fetch("data/security-feed.json")
 .then(r => r.json())
 .then(feedData => {
 
-    document.getElementById("intelFeed").innerHTML =
-        feedData.map(item => `
+    window.intelData = feedData;
 
-       <div class="card feed-${item.severity}">
+    document.getElementById("intelFeed").innerHTML =
+   feedData.map((item,index) => `
+
+     <div class="card feed-${item.severity}"
+onclick="showIntelEvent(${index})"
+style="cursor:pointer">
             ${item.icon} ${item.text}
             <br>
             <small>${item.time} | ${item.source}</small>
@@ -295,6 +299,28 @@ fetch("data/security-feed.json")
         "<div class='card'>Feed unavailable</div>";
 
 });
+}
+window.intelData = [];
+
+function showIntelEvent(index){
+
+    const item = window.intelData[index];
+
+    document.getElementById("info").innerHTML = `
+        <b>${item.country}</b><br><br>
+
+        <b>Event:</b><br>
+        ${item.text}<br><br>
+
+        <b>Source:</b><br>
+        ${item.source}<br><br>
+
+        <b>Time:</b><br>
+        ${item.time}<br><br>
+
+        <b>Severity:</b><br>
+        ${item.severity}
+    `;
 }
 loadCZIBData();
 loadCountries();
