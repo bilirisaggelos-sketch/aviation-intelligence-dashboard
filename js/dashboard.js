@@ -24,6 +24,7 @@ L.tileLayer(
     }
 ).addTo(map);
 let countriesLayer = null;
+let intelMarker = null;
 
 async function loadCountries() {
     try {
@@ -313,8 +314,19 @@ function showIntelEvent(index){
         8
     );
 
-}
+    if(intelMarker){
+        map.removeLayer(intelMarker);
+    }
 
+    intelMarker = L.marker(
+        [item.lat, item.lon]
+    ).addTo(map);
+
+    intelMarker.bindPopup(
+        item.text
+    ).openPopup();
+}
+   
     document.getElementById("info").innerHTML = `
         <b>${item.country}</b><br><br>
 
