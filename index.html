@@ -51,13 +51,18 @@ header{
 }
 #utcClock{font-size:12px;color:#cbd5e1}
 #map{height:65vh}
-#sidebar,#details,#alerts{
+#sidebar,#details,#alerts,#intelPanel{
 position:absolute;z-index:1000;background:white;border-radius:10px;
 padding:12px;box-shadow:0 0 10px rgba(0,0,0,.3)
 }
 #sidebar{left:10px;top:170px;width:260px}
 #details{right:10px;top:90px;width:300px}
 #alerts{right:10px;top:260px;width:300px}
+  #intelPanel{
+    right:10px;
+    top:620px;
+    width:300px;
+}
 .card{background:#f1f5f9;padding:8px;margin-top:8px;border-radius:6px}
 .legend div{margin:4px 0}
 table{width:100%;border-collapse:collapse}
@@ -133,10 +138,18 @@ Last EASA Update: Loading...
 </div>
 
 <div id="alerts">
-    <h3>Live Security Feed</h3>
+    <h3>Recent CZIB Updates</h3>
 
     <div id="securityFeed">
         Loading...
+    </div>
+</div>
+
+<div id="intelPanel">
+    <h3>Live Security Intelligence</h3>
+
+    <div id="intelFeed">
+        Loading intelligence...
     </div>
 </div>
 
