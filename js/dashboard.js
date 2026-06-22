@@ -13,6 +13,12 @@ var map = L.map('map', {
     zoomControl: false
 }).setView([33,25],4);
 
+const alertIcon = L.divIcon({
+    html: "🚨",
+    className: "intel-alert-icon",
+    iconSize: [30,30]
+});
+
 L.control.zoom({
     position: 'bottomleft'
 }).addTo(map);
@@ -319,8 +325,9 @@ function showIntelEvent(index){
     }
 
     intelMarker = L.marker(
-        [item.lat, item.lon]
-    ).addTo(map);
+    [item.lat, item.lon],
+    { icon: alertIcon }
+).addTo(map);
 
     intelMarker.bindPopup(
         item.text
