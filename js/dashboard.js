@@ -31,6 +31,7 @@ L.tileLayer(
 ).addTo(map);
 let countriesLayer = null;
 let intelMarker = null;
+let airportsLayer = L.layerGroup().addTo(map);
 
 async function loadCountries() {
     try {
@@ -90,6 +91,86 @@ onEachFeature: function(feature, layer) {
     }
 
     loadCZIBData();
+    const airports = [
+
+{
+name:"Erbil",
+icao:"ORER",
+lat:36.237,
+lon:43.963
+},
+
+{
+name:"Bahrain",
+icao:"OBBI",
+lat:26.270,
+lon:50.633
+},
+
+{
+name:"Beirut",
+icao:"OLBA",
+lat:33.820,
+lon:35.488
+},
+
+{
+name:"Tehran",
+icao:"OIII",
+lat:35.689,
+lon:51.313
+},
+
+{
+name:"Dubai",
+icao:"OMDB",
+lat:25.253,
+lon:55.365
+},
+
+{
+name:"Cairo",
+icao:"HECA",
+lat:30.121,
+lon:31.406
+},
+
+{
+name:"Istanbul",
+icao:"LTBA",
+lat:40.976,
+lon:28.814
+},
+
+{
+name:"Larnaca",
+icao:"LCLK",
+lat:34.875,
+lon:33.624
+}
+
+];
+
+airports.forEach(airport => {
+
+L.circleMarker(
+    [airport.lat, airport.lon],
+    {
+        radius:4,
+        color:"#2563eb",
+        fillColor:"#2563eb",
+        fillOpacity:1
+    }
+)
+.addTo(airportsLayer)
+.bindPopup(
+    "✈ " +
+    airport.icao +
+    " - " +
+    airport.name
+);
+
+});
 
 }const countryCoords = {
     Iraq: [33.3, 44.3],
