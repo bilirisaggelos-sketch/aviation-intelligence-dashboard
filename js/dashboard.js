@@ -330,8 +330,11 @@ function showIntelEvent(index){
 ).addTo(map);
 
     intelMarker.bindPopup(
-        item.text
-    ).openPopup();
+    item.text,
+    {
+        offset:[0,-35]
+    }
+).openPopup();
 }
    
     document.getElementById("info").innerHTML = `
