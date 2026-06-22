@@ -1,23 +1,20 @@
 [
   {
-    "time": "21:14 UTC",
-    "level": "critical",
-    "country": "Iraq",
-    "event": "Drone attack near Erbil Airport",
-    "source": "Reuters"
+    "time":"10:42 UTC",
+    "source":"Reuters",
+    "icon":"🚨",
+    "text":"Drone activity near Erbil Airport"
   },
   {
-    "time": "18:52 UTC",
-    "level": "warning",
-    "country": "Eastern Mediterranean",
-    "event": "GPS jamming reported",
-    "source": "EASA"
+    "time":"10:30 UTC",
+    "source":"EASA",
+    "icon":"⚠️",
+    "text":"GPS interference Eastern Med"
   },
   {
-    "time": "16:30 UTC",
-    "level": "warning",
-    "country": "Red Sea",
-    "event": "Missile activity reported",
-    "source": "UKMTO"
+    "time":"09:55 UTC",
+    "source":"UKMTO",
+    "icon":"⚠️",
+    "text":"Security incident Red Sea"
   }
 ]
