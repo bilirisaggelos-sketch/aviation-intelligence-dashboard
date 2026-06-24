@@ -148,8 +148,43 @@ name:"Larnaca",
 icao:"LCLK",
 lat:34.875,
 lon:33.624
+},
+
+{
+name:"Delhi",
+icao:"VIDP",
+lat:28.556,
+lon:77.100
+},
+
+{
+name:"Mumbai",
+icao:"VABB",
+lat:19.089,
+lon:72.865
 }
 
+{
+name:"Islamabad",
+icao:"OPIS",
+lat:33.549,
+lon:72.825
+},
+
+{
+name:"Lahore",
+icao:"OPLA",
+lat:31.521,
+lon:74.403
+},
+
+{
+name:"Karachi",
+icao:"OPKC",
+lat:24.906,
+lon:67.161
+},
+   
 ];
 
 airports.forEach(airport => {
