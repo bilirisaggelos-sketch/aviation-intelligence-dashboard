@@ -162,7 +162,7 @@ name:"Mumbai",
 icao:"VABB",
 lat:19.089,
 lon:72.865
-}
+},
 
 {
 name:"Islamabad",
