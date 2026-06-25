@@ -506,8 +506,22 @@ function showCountry(countryName) {
 
 }
 
-document.getElementById("searchBox")
-.addEventListener("keyup", function() {
+document.getElementById("airportToggle")
+.addEventListener("change", function () {
+
+    console.log("Airport Toggle:", this.checked);
+
+    if (this.checked) {
+
+        map.addLayer(airportsLayer);
+
+    } else {
+
+        map.removeLayer(airportsLayer);
+
+    }
+
+});
 
     const value =
         this.value.trim().toLowerCase();
