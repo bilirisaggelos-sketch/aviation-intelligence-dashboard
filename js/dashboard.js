@@ -1,6 +1,25 @@
 // =====================
-// Aviation Intelligence Dashboard V6
+// Aviation Intelligence Dashboard V7
 // =====================
+
+const APP = {
+
+    airports: [],
+
+    countries: [],
+
+    czib: [],
+
+    security: [],
+
+    activeCountries: {},
+
+    settings: {
+        showAirports: true,
+        showFIR: true
+    }
+
+};
 
 function clock() {
     document.getElementById("utcClock").innerHTML =
