@@ -254,7 +254,7 @@ airports.forEach(airport => {
     const marker = L.circleMarker(
         [airport.lat, airport.lon],
         {
-            radius:12,
+            radius:10,
             color:"#2563eb",
             fillColor:"#2563eb",
             fillOpacity:1
