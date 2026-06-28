@@ -88,7 +88,7 @@ onEachFeature: function(feature, layer) {
     loadCZIBData();
 
     loadCountries();
-
+} 
 const countryCoords = {
     Iraq:[33.3, 44.3],
     Iran:[32.4, 53.6],
@@ -336,19 +336,6 @@ function showIntelEvent(index){
         ${item.severity}
     `;
 }
-document.getElementById("airportToggle")
-.addEventListener("change", function () {
-
-    if (this.checked) {
-
-        map.addLayer(airportsLayer);
-
-    } else {
-
-        map.removeLayer(airportsLayer);
-
-    }
 
 });
-loadCZIBData();
-loadCountries();
+
