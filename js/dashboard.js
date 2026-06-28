@@ -276,3 +276,13 @@ function showIntelEvent(index){
     `;
 
 }
+// =====================
+// INITIALIZE
+// =====================
+
+loadAirports();
+
+loadCountries()
+.then(() => {
+    return loadCZIBData();
+});
