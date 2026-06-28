@@ -28,14 +28,6 @@ function clock() {
 setInterval(clock, 1000);
 clock();
 
-const countryCoords = {
-    Iraq:[33.3, 44.3],
-    Iran:[32.4, 53.6],
-    Israel:[31.0, 34.8],
-    Libya:[26.3, 17.2],
-    Sudan:[15.5, 32.5]
-};
-
 async function loadCZIBData() {
 
     try {
