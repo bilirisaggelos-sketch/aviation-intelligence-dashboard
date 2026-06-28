@@ -85,9 +85,7 @@ onEachFeature: function(feature, layer) {
         console.error('Countries error:', err);
     }
 
-    loadCZIBData();
 
-    loadCountries();
 } 
 const countryCoords = {
     Iraq:[33.3, 44.3],
