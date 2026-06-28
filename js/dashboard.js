@@ -219,6 +219,7 @@ style="cursor:pointer">
 
 }
 window.intelData = [];
+window.airports = airports;
 
 function showIntelEvent(index){
 
