@@ -165,20 +165,6 @@ lon:58.284
 },
 
 {
-name:"Riyadh",
-icao:"OERK",
-lat:24.957,
-lon:46.698
-},
-
-{
-name:"Jeddah",
-icao:"OEJN",
-lat:21.670,
-lon:39.152
-},
-
-{
 name:"Alexandria",
 icao:"HEBA",
 lat:31.184,
