@@ -250,7 +250,9 @@ airports.forEach(airport => {
 
     marker.addTo(airportsLayer);
 
-    marker.bringToFront();
+marker.bringToFront();
+
+airportMarkers.push(marker);
 
 });
 
