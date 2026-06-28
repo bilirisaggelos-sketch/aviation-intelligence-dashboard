@@ -9,7 +9,9 @@ var map = L.map('map', {
 const alertIcon = L.divIcon({
     html:"<div class='alert-marker'>🚨</div>",
     className:"",
-    iconSize:[90,90]
+    iconSize:[90,90],
+    iconAnchor:[45,45],
+    popupAnchor:[0,-40]
 });
 
 L.control.zoom({
