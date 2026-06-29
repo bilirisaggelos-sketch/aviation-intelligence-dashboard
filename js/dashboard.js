@@ -28,33 +28,6 @@ function clock() {
 setInterval(clock, 1000);
 clock();
 
-function showCountry(countryName) {
-
-const item =
-    APP.czib.find(
-            x => x.country === countryName
-        );
-
-    if (!item) return;
-
-    document.getElementById("info").innerHTML = `
-       <b>${item.country || "Security Event"}</b><br><br>
-        CZIB: ${item.czib}<br>
-        Issued: ${formatDate(item.issued)}<br>
-        Expires: ${formatDate(item.expires)}<br>
-        Risk: ${item.risk}<br>
-        Status: ${item.status}
-    `;
-
-    const coords =
-        countryCoords[item.country];
-
-    if (coords) {
-        map.setView(coords, 6);
-    }
-
-}
-
 document.getElementById("airportToggle")
 .addEventListener("change", function () {
 
