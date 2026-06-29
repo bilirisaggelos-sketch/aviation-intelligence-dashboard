@@ -33,6 +33,9 @@ data.forEach(item => {
 });
 
 window.activeCountries = activeCountries;
+
+        document.getElementById("activeCZIBCount").textContent =
+    Object.keys(activeCountries).length;
       
         document.getElementById("tbl").innerHTML = "";
 
