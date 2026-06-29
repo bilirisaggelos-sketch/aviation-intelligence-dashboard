@@ -2,8 +2,6 @@
 // CZIB
 // =====================
 
-console.log("CZIB.JS LOADED");
-
 async function loadCZIBData() {
 
     try {
