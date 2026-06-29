@@ -12,14 +12,13 @@ function updateSecurityFeed() {
     if (!feed || !window.czibData) return;
 
     const latest =
-        window.czibData
-        .slice()
-        .sort(
-            (a,b) =>
-            new Date(b.issued) -
-            new Date(a.issued)
-        )
-        .slice(0,10);
+    window.czibData
+    .filter(item => item.status === "Active")
+    .sort(
+        (a,b) =>
+        new Date(b.issued) -
+        new Date(a.issued)
+    );
 
     feed.innerHTML =
         latest.map(item => `
