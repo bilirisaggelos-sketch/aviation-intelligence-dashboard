@@ -23,3 +23,14 @@ const aviationKeywords = [
     "closure"
 
 ];
+function isAviationRelevant(text){
+
+    if(!text) return false;
+
+    const message = text.toLowerCase();
+
+    return aviationKeywords.some(keyword =>
+        message.includes(keyword)
+    );
+
+}
