@@ -5,15 +5,17 @@
 const INTEL_SOURCES = [
 
     {
-        id: "local",
+        id: "live",
 
-        name: "Local Security Feed",
+        name: "Live Intelligence",
 
         type: "json",
 
-        url: "data/security-feed.json",
+        url: "data/live-intel.json",
 
-        enabled: true
+        enabled: true,
+
+        priority: 1
     }
 
 ];
