@@ -97,20 +97,20 @@ function showIntelEvent(index){
 
     }
 
-    document.getElementById("info").innerHTML = `
-        <b>${item.country}</b><br><br>
+   document.getElementById("info").innerHTML = `
+    <b>${item.location}</b><br><br>
 
-        <b>Event:</b><br>
-        ${item.text}<br><br>
+    <b>Event:</b><br>
+    ${item.text}<br><br>
 
-        <b>Source:</b><br>
-        ${item.source}<br><br>
+    <b>Source:</b><br>
+    ${item.source}<br><br>
 
-        <b>Time:</b><br>
-        ${item.time}<br><br>
+    <b>Time:</b><br>
+    ${item.timestamp}<br><br>
 
-        <b>Severity:</b><br>
-        ${item.severity}
-    `;
+    <b>Severity:</b><br>
+    ${item.severity}
+`;
 
 }
