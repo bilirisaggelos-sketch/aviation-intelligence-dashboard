@@ -40,9 +40,8 @@ function updateSecurityFeed() {
 
     `).join("");
 
-    fetch("data/security-feed.json")
-    .then(r => r.json())
-    .then(feedData => {
+    loadIntelFeed()
+.then(feedData => {
 
         window.intelData = feedData;
 
