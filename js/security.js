@@ -50,12 +50,12 @@ filteredFeed.map((item,index) => `
 
             ${item.icon} ${item.text}<br>
 
-            <small>${item.time} | ${item.source}</small>
+<small>${timeAgo(item.timestamp)} | ${item.source}</small>
 
         </div>
 
         `).join("");
-
+updateIntelStatus();
     })
     .catch(err => {
 
@@ -63,7 +63,7 @@ filteredFeed.map((item,index) => `
 
         document.getElementById("intelFeed").innerHTML =
             "<div class='card'>Feed unavailable</div>";
-
+        
     });
 
 }
@@ -112,5 +112,44 @@ function showIntelEvent(index){
     <b>Severity:</b><br>
     ${item.severity}
 `;
+
+}
+
+function updateIntelStatus() {
+
+    const status =
+        document.getElementById("intelStatus");
+
+    if (!status || !window.intelData.length)
+        return;
+
+    const latest =
+        window.intelData[0];
+
+    const age =
+        timeAgo(latest.timestamp);
+
+    let color = "#22c55e";
+    let label = "🟢 LIVE";
+
+    if (age.includes("hour")) {
+
+        color = "#f59e0b";
+        label = "🟡 STALE";
+
+    }
+
+    if (age.includes("Yesterday") ||
+        age.includes("days")) {
+
+        color = "#ef4444";
+        label = "🔴 OFFLINE";
+
+    }
+
+    status.style.color = color;
+
+    status.innerHTML =
+        `${label} | Last Intelligence Update: ${age}`;
 
 }
