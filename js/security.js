@@ -107,7 +107,7 @@ function showIntelEvent(index){
     ${item.source}<br><br>
 
     <b>Time:</b><br>
-    ${item.timestamp}<br><br>
+  ${timeAgo(item.timestamp)}<br><br>
 
     <b>Severity:</b><br>
     ${item.severity}
