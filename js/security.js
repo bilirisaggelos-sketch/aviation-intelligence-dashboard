@@ -35,9 +35,13 @@ function updateSecurityFeed() {
 .then(feedData => {
 
         window.intelData = feedData;
+    const filteredFeed =
+    feedData.filter(item =>
+        isAviationRelevant(item.text)
+    );
 
-        document.getElementById("intelFeed").innerHTML =
-        feedData.map((item,index) => `
+       document.getElementById("intelFeed").innerHTML =
+filteredFeed.map((item,index) =>
 
         <div class="card feed-${item.severity}"
              onclick="showIntelEvent(${index})"
