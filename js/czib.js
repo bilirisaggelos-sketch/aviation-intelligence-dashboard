@@ -64,12 +64,11 @@ window.activeCountries = activeCountries;
 
         });
 
-        APP.czib = data;
+APP.czib = data;
 window.czibData = data;
 
-console.error("CZIB DATA:", data);
-console.error("ACTIVE:", data.filter(item => item.status === "Active").length);
-console.error(document.getElementById("activeCZIBCount"));
+document.getElementById("activeCZIBCount").textContent =
+    data.filter(item => item.status === "Active").length;
 
 updateSecurityFeed();
 
@@ -83,6 +82,32 @@ if (countriesLayer) {
 
         console.error(err);
 
+    }
+
+}
+function showCountry(countryName) {
+
+    const item =
+        APP.czib.find(
+            x => x.country === countryName
+        );
+
+    if (!item) return;
+
+    document.getElementById("info").innerHTML = `
+        <b>${item.country}</b><br><br>
+        CZIB: ${item.czib}<br>
+        Issued: ${formatDate(item.issued)}<br>
+        Expires: ${formatDate(item.expires)}<br>
+        Risk: ${item.risk}<br>
+        Status: ${item.status}
+    `;
+
+    const coords =
+        countryCoords[item.country];
+
+    if (coords) {
+        map.setView(coords, 6);
     }
 
 }
