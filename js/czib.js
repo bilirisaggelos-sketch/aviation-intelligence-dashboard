@@ -67,9 +67,9 @@ window.activeCountries = activeCountries;
         APP.czib = data;
 window.czibData = data;
 
-console.log("CZIB DATA:", data);
-console.log("ACTIVE:", data.filter(item => item.status === "Active").length);
-console.log(document.getElementById("activeCZIBCount"));
+console.error("CZIB DATA:", data);
+console.error("ACTIVE:", data.filter(item => item.status === "Active").length);
+console.error(document.getElementById("activeCZIBCount"));
 
 updateSecurityFeed();
 
