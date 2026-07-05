@@ -1,0 +1,42 @@
+{
+  "official": [
+    {
+      "name": "EASA",
+      "enabled": true
+    },
+    {
+      "name": "UKMTO",
+      "enabled": true
+    },
+    {
+      "name": "FAA",
+      "enabled": true
+    },
+    {
+      "name": "Eurocontrol",
+      "enabled": true
+    }
+  ],
+
+  "trusted": [
+    {
+      "name": "ISW",
+      "enabled": true
+    },
+    {
+      "name": "Reuters",
+      "enabled": true
+    }
+  ],
+
+  "osint": [
+    {
+      "name": "OSINT Defender",
+      "enabled": true
+    },
+    {
+      "name": "Middle East Spectator",
+      "enabled": true
+    }
+  ]
+}

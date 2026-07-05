@@ -32,30 +32,42 @@ function updateSecurityFeed() {
     `).join("");
 
     loadIntelFeed()
-.then(feedData => {
+    .then(feedData => {
 
-const filteredFeed =
-    feedData.filter(item =>
-        isAviationRelevant(item.text)
-    );
+        const filteredFeed =
+            feedData.filter(item => {
 
-window.intelData = filteredFeed;
+                // Official aviation sources bypass keyword filtering
+                if (
+                    item.source === "FAA" ||
+                    item.source === "EASA"
+                ) {
+                    return true;
+                }
 
-document.getElementById("intelFeed").innerHTML =
-filteredFeed.map((item,index) => `
+                return isAviationRelevant(item.text);
 
-        <div class="card feed-${item.severity}"
-             onclick="showIntelEvent(${index})"
-             style="cursor:pointer">
+            });
 
-            ${item.icon} ${item.text}<br>
+        window.intelData = filteredFeed;
 
-<small>${timeAgo(item.timestamp)} | ${item.source}</small>
+        document.getElementById("intelFeed").innerHTML =
+        filteredFeed.map((item,index) => `
 
-        </div>
+            <div class="card feed-${item.severity}"
+                 onclick="showIntelEvent(${index})"
+                 style="cursor:pointer">
+
+                ${item.icon} ${item.text}<br>
+
+                <small>${timeAgo(item.timestamp)} | ${item.source}</small>
+
+            </div>
 
         `).join("");
-updateIntelStatus();
+
+        updateIntelStatus();
+
     })
     .catch(err => {
 
@@ -63,7 +75,7 @@ updateIntelStatus();
 
         document.getElementById("intelFeed").innerHTML =
             "<div class='card'>Feed unavailable</div>";
-        
+
     });
 
 }
@@ -107,7 +119,7 @@ function showIntelEvent(index){
     ${item.source}<br><br>
 
     <b>Time:</b><br>
-  ${timeAgo(item.timestamp)}<br><br>
+    ${timeAgo(item.timestamp)}<br><br>
 
     <b>Severity:</b><br>
     ${item.severity}

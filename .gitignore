@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Runtime data
+data/live-intel.json
+
+# Local testing
+test_*.py
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
