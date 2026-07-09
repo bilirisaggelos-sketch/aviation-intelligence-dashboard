@@ -1,15 +1,40 @@
+# =========================
 # Python
+# =========================
 __pycache__/
 *.py[cod]
+*.pyo
+*.pyd
 
+# Virtual environments
+.venv/
+venv/
+env/
+
+# =========================
 # Runtime data
+# =========================
 data/live-intel.json
 
+# =========================
+# Secrets
+# =========================
+.env
+telegram_session.session
+
+# =========================
 # Local testing
+# =========================
 test_*.py
 
-# VS Code
+# =========================
+# IDE
+# =========================
 .vscode/
+.idea/
 
-# macOS
+# =========================
+# Operating System
+# =========================
 .DS_Store
+Thumbs.db
