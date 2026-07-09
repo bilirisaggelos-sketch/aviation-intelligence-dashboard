@@ -1,7 +1,7 @@
 import json
 
-from collectors.demo import collect as noaa_collect
 from collectors.official.faa import collect as faa_collect
+from collectors.official.noaa import collect as noaa_collect
 
 
 def load_sources():
