@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-09-07T10:22:49.080939+00:00",
+  "generated_at": "2026-09-07T16:00:13.842012+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nBrunswick, GA, Monday, September 14, 2026 through Friday, October 2, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/07/2026",
+      "location": "ZJX GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nHutchinson, KS, Friday, September 11, 2026 through Sunday, September 20, 2026 Local\nFacility: ZKC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/07/2026",
+      "location": "ZKC KS",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nHampton, NH, Friday, September 11, 2026 through Sunday, September 13, 2026 Local\nFacility: ZBW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/07/2026",
+      "location": "ZBW NH",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Tuesday, September 8, 2026 through Friday, September 11, 2026 Local\nFacility: ZJX",
@@ -22,7 +79,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -41,7 +98,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -155,6 +212,44 @@
     },
     {
       "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5413\r\nIssue Time: 2026 Sep 07 1413 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5412\nValid From: 2026 Sep 07 0854 UTC\nNow Valid Until: 2026 Sep 08 0900 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-07 14:13:31.250",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2682\r\nIssue Time: 2026 Sep 07 1108 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 07 1107 UTC\nSynoptic Period: 0900-1200\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-07 11:08:18.677",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5412\r\nIssue Time: 2026 Sep 07 0855 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 07 0854 UTC\nValid To: 2026 Sep 07 1800 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -211,52 +306,33 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: SUMPX1\r",
-      "text": "Space Weather Message Code: SUMPX1\r\nSerial Number: 134\r\nIssue Time: 2026 Sep 06 1155 UTC\r\n\r\nSUMMARY: Proton Event 10MeV Integral Flux exceeded 10pfu \nBegin Time: 2026 Sep 05 1615 UTC\nMaximum Time: 2026 Sep 05 1645 UTC\nEnd Time: 2026 Sep 05 2135 UTC\nMaximum 10MeV Flux: 18 pfu\nNoaa Scale: S1 - Minor\nComment: \r\n\r\nNOAA Scale: S1 - Minor",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-06 11:55:17.633",
+      "title": "Probe begins into why cargo plane overran Miami runway",
+      "text": "Probe begins into why cargo plane overran Miami runway\nFive people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-07T09:54:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARPX1\r",
-      "text": "Space Weather Message Code: WARPX1\r\nSerial Number: 632\r\nIssue Time: 2026 Sep 05 2358 UTC\r\n\r\nEXTENDED WARNING: Proton 10MeV Integral Flux above 10pfu expected\nExtension to Serial Number: 631\nValid From: 2026 Sep 05 1620 UTC\nNow Valid Until: 2026 Sep 06 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Scale: S1 - Minor",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-05 23:58:16.843",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: The Secretary of Iran\u2019s Supreme National Security Council, Major General Mohsen Rezaei, says that Iran tested a new advanced anti-ship ballistic missile against U.S. Navy vessels 48 hours ago",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi airstrikes against Al-Bayda Governorate, Yemen\nThis coincides with a PLC offensive in the same sector.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T18:54:39+00:00",
+      "timestamp": "2026-09-07T15:40:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -270,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "High likelihood for the launch of Yemeni ballistic missiles towards Saudi Arabia in the next 24 hours.",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 MUST WATCH: Ansarallah (the Houthis) have released footage targeting Saudi-backed PLC troop concentrations and logistics hubs with ballistic missiles in Al-Wadi\u2019ah, Yemen",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T16:37:56+00:00",
+      "timestamp": "2026-09-07T13:51:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -289,12 +365,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "Some kind of precision-guided Iranian rocket, rather than a ballistic missile.\nIn any case, those vehicles got decimated beyond any recognition.",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces, Ansarallah, have released images of targeting Saudi-backed PLC troop concentrations and supply hubs in the Al-Wadi\u2019ah camp with ballistic missiles and precision-guided artillery rockets",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T14:15:39+00:00",
+      "timestamp": "2026-09-07T13:34:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -308,32 +384,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Yemen\u2019s Ansarallah shared footage of striking three Saudi-backed PLC armored vehicles with a ballistic missile",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Jazan Aramco refinery is on fire as a result of Yemeni drone strikes",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T14:13:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Yemeni ballistic missiles above the city of Taizz, controlled by Saudi-backed PLC forces",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T01:45:44+00:00",
+      "timestamp": "2026-09-07T12:36:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -347,12 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Ansarallah forces are also engaging with Saudi-backed PLC fighters East of Taizz, Yemen\nTaizz is under attack from both sides.",
+      "text": "There are some indications that while the main underground sections of Ali Taher complex have been cleared, the hill still retains a Hezbollah presence.\nIntermittent Israeli airstrikes against ridges and bushy areas are not just paranoia, Hezbollah\u2019s fighters have likely left behind a substantial amount of boobytraps & some hidden soldiers.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T00:33:55+00:00",
+      "timestamp": "2026-09-07T12:13:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,96 +421,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Azerbaijan is now jointly producing Turkish unmanned naval vessels domestically. \nPresident Aliyev visited a production line run by Azerbaijan's MIRAS and T\u00fcrkiye's Dearsan Shipyard, inspecting two platforms.\nThe SALVO armed USV (15m, missiles and guns, recoverable) and the KAYRA kamikaze drone boat (7.6m, 60+ knots, rams targets with a warhead). \nBoth platforms are designed for Caspian coastal defense and energy infrastructure protection.",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Ansarallah (Houthi) ballistic missiles, drone, and rocket systems targeted the advancing PLC forces in Al-Jawf",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T09:57:14+00:00",
+      "timestamp": "2026-09-07T11:46:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Pakistan Air Force officially revealed T\u00fcrkiye's KORKUT 35mm anti-aircraft gun system in its Defence Day video, the first confirmation of induction. \nThe PAF showed a layered air defense stack.\nChinese HQ-17 SAMs, Turkish KORKUT guns (twin 35mm, 1,100 rounds per minute, 4km range with airburst ammo), and Turkish \u015eAH\u0130N 40mm counter-drone turrets. \nThe same video featured multiple Turkish drones including AKINCI and Bayraktar TB2. \nThe combination is designed as a gun-missile-point defense layer against drones, loitering munitions, and low-flying aircraft.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T09:55:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "UAE presidential adviser Gargash says \"rebuilding trust with Iran may take decades.\" \nAt the Hili Forum in Abu Dhabi he said:\nUAE energy exports \"will not be held hostage\" to the Hormuz crisis, that no single state should control the strait, and called the UAE's response to Iranian missile attacks a \"military success story.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T09:50:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "China asked Ukraine not to strike Vladivostok while its No. 6 leader was visiting Putin at the Eastern Economic Forum, and Ukraine agreed. \nThe city is 6,500 km from Ukraine, but Beijing was apparently worried after Ukraine's 2025 \"Spider Web\" operation smuggled 100+ drones deep into Russia. \nZelensky had already hinted at it, saying \"another major power\" requested a pause without naming China. \nUkraine reportedly agreed hoping China might later help end the war.\nSource: Kyodo",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T07:31:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former Ukrainian Defense Minister Reznikov says women are physiologically better at operating drones. \nCiting his father's research at a physical education institute, he said: \nGirls have a faster reaction to threats. Peripheral vision in girls is better developed.\nHe argued women could replace men in rear positions including drone operations, potentially doubling Ukraine's mobilization pool.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T07:27:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -524,82 +504,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-06T15:43:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 Russian missile and drone attack towards Ukrainian capital Kiev impacts reported\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T23:38:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 Islamic Revolutionary Guard Corps:\nCommuniqu\u00e9 No. 10 / An American aircraft carrier and a destroyer of the child-killing aggressor army were attacked\nIn the name of Allah, the Subduer of the Tyrants\nO missioned Ummah of Islamic Iran;\nThe Aerospace Force of the Islamic Revolutionary Guard Corps targeted and attacked an American aircraft carrier and a destroyer belonging to the child-killing aggressor army, which had been creating harassment for Iranian ships and participating in the maritime blockade, using several ballistic missiles.\nThese two combat vessels, after sustaining damage and fearing a renewed attack, were forced to flee from the engagement zone.\nThe aggressor enemy, which for years roamed the region with false pride and hollow claims, was forced today to officially confess that two U.S. Navy warships were attacked.\nCENTCOM's confession confirming this operation is living proof of the enemy's strategic defeat and a testament to the offensive power of the Islamic Revolutionary Guard Corps.\nThe Islamic Revolutionary Guard Corps and the other armed forces of the Islamic Republic of Iran are determined and resolute in defending the sovereignty of Islamic Iran.\nThe magnificent presence of the Islamic Ummah in the arena and the relentless struggle of the zealous Islamic fighters prevent the enemy from achieving its wicked goals....\nIn the event of the continuation of hostile and aggressive actions, the American regime must await the heavy responses of the armed forces of the Islamic Republic of Iran. \nWe stand stronger than ever. Victory belongs to the resilient nation of Islamic Iran, and defeat and regret are the definitive fate of the aggressors.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T22:45:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 A video clip circulating during the 40-day war shows personnel from Iranian missile units fueling medium-range ballistic missiles (MRBMs) prior to launch.\nThe Qader family of missiles utilizes liquid fuel; the clip likely depicts the fueling process using Red Fuming Nitric Acid (RFNA)\u2014a highly reactive and toxic liquid oxidizer\u2014carried out within the tunnels of Iran's \"missile cities.\" The advantage of liquid fuel is that it allows for relatively long-term storage, unlike propellants that must be loaded immediately before launch.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T22:37:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8| The IRGC published, for the first time, footage of their drone strikes against ships that took \u201cunauthorised\u201d routes in the Strait of Hormoz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-05T20:58:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -727,12 +631,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran calls out \u2018preposterous\u2019 US bid to cast itself as victim of its own war \nThe Strait of Hormuz was \u201cwide open\u201d until the US \u201cunleashed an unlawful and savage war on the region,\u201d reminds Iranian Foreign Ministry spokesperson Esmail Baghaei in an X post.\nHe slams as utterly preposterous that the US is now trying to paint Iran as the villain and \u201chand the world the bill for the chaos it created.\u201d\nBaghaei points to the disastrous fallout: \u201cdisrupted normal flow of commercial shipping, tankers are halted, trade is disrupted, and energy prices are rising.\u201d\nFor all of Trump\u2019s bluster, the reality is:\n\ud83d\udd34 [ Iran ](https://t.me/geopolitics_prime/74173)now controls Hormuz\n\ud83d\udd34 shipping through the chokepoint collapsed, with[ global trade routes](https://t.me/geopolitics_prime/69116) in chaos\n\ud83d\udd34 oil prices[ rocketed](https://t.me/geopolitics_prime/73892)\n\ud83d\udd34 war cost the US around $3.7 billion, per Center for Strategic and International Studies \n\ud83d\udd34 Pentagon munitions stocks [are drained ](https://t.me/geopolitics_prime/72941)\n\ud83d\udd34 US households footed a massive bill of over $1,200 as of late July / mid-August per Moody\u2019s\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\udd14 Ansar Allah\u2019s crucial Bab al-Mandab gambit behind push against Saudi-backed forces\nAnsar Allah (aka the Houthis) is seeking to isolate the port of Mokha, currently held by pro-Saudi forces, while pushing toward territory overlooking the Bab al-Mandab Strait, one of the world\u2019s key maritime gateways linking the Red Sea to the Gulf of Aden.\n\ud83d\udc41 Mokha and Yemen\u2019s west coast\n\ud83d\udccdStrategically located on Yemen\u2019s western coast near the Bab al-Mandab Strait, the port city of Mokha serves as a key gateway to the Red Sea.\n\ud83c\udf0fThe Houthis\u2019 current objective appears to center on the critical corridor linking Taiz \u2013 major parts of which are also controlled by Saudi-backed forces \u2013 with Mokha, according to the Weichart Report.\n\ud83c\udf0f West of Taiz, fighting has centered on Al Kaqhah, Maqbanah, and Jabal Habashi.\n\ud83c\udf0fBy completely seizing the mountainous district of Jabal Habashi, Ansar Allah would be able to monitor and target all the main supply routes serving the Saudi-backed mercenary forces in the area, effectively strangling them and isolating the territory they control from the Houthi-controlled side.\nSaudi-backed forces are fighting back \u2013 but paying a steep price in equipment, funding, and lives. Reports from September 5\u20136 described dozens of deaths, with some sources putting military casualties on both sides at as many as 300 \u2013 underscoring the intensity of the fighting.\n\ud83e\ude96 Their resistance is driven by the fact that Saudi Arabia is now routing its oil exports through pipelines to ports on the Red Sea, allowing tankers to bypass the Strait of Hormuz closed by Iran.\nIn July, Ansar Allah [announced a naval blockade](https://t.me/geopolitics_prime/72474) of Saudi Arabia in the Bab al-Mandab Strait, following the targeting by Saudi-backed forces of a Mahan Air Airbus A340 carrying a high-ranking Houthi delegation, as well as an attack on Sana\u2019a airport.\nAnsar Allah is pushing to seize Yemen\u2019s western coast, tightening its grip on the Bab al-Mandab Strait. Combined with Iran\u2019s resistance in the Strait of Hormuz, this could further pressure the US-Israeli coalition and its allies, while expanding Houthi leverage over the Red Sea coast facing Africa \u2013 another key theater in the broader Middle Eastern power struggle.\n\u2694\ufe0f Ansar Allah vs. Saudi-backed forces\nWestern estimates put Ansar Allah\u2019s standing force at more than 200,000 fighters, with tens of thousands more reportedly available through the Popular Committees.\nIts Saudi-backed adversaries are estimated at around 500,000 personnel, but they are dispersed across a vast territory and the figure is difficult to verify. The force has long suffered from \u201cghost soldiers,\u201d fragmented command structures, and chronic salary delays, with commanders reportedly inflating troop numbers to divert funds.\nBy contrast, Ansar Allah operates under a more centralized and ideologically cohesive command. This disparity in organization and cohesion may prove more decisive than raw numbers \u2013 and could allow the Houthis the ability to further consolidate their position around Bab al-Mandab, military experts claim.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T07:31:01+00:00",
+      "timestamp": "2026-09-07T14:59:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -746,32 +650,50 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\u2694\ufe0f Houthis strike three Saudi-backed leaders\u2019 vehicles in one hit\nThe cars of the leaders of the Presidential Leadership Council were presumably destroyed with a ballistic missile.\nThe footage comes amid escalating hostilities following the collapse of the 2022 UN-brokered truce last month, triggered by a Saudi strike on Sanaa airport. \nSince, the Houthis have ramped-up retaliatory attacks \u2014 both against Saudi forces on Yemeni soil and targets inside Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udcccIran creates new restricted zone in Strait of Hormuz\nThe area will stretch all the way from the US blockade into the Persian Gulf, Iran's Supreme National Security Council secretary Mohsen Rezaei announced.\nThe maps of a new Iran-managed corridor through Iranian and Omani waters, through which the strait's traffic will be obliged to pass, have already been agreed upon and will be signed soon, Rezaei added.\nHe also insisted that Iran will commit to the opening of the Strait of Hormuz only upon cessation of US threats and attacks.\nIran shut down unsupervised traffic through the Strait of Hormuz shortly after the US and Israel launched a joint attack on the Islamic republic in a bid to overthrow the Iranian government.\nAll vessels that attempt to navigate the waterway without following the route and regulations approved by Iran can become targets of punitive strikes.\nThe US attempted to mirror this move by imposing its own naval blockade of Iran and attacking Iranian ships, even threatening to impose a 20% fee for all cargo shipped through the strait.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T17:13:01+00:00",
+      "timestamp": "2026-09-07T12:01:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf9\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Are Turkey and Israel on collision course across the Mediterranean, Black and Arabian Seas?\nIsrael and Turkey are not just trading barbs following the Israel Defense Forces (IDF) strike on an abandoned Syrian air base \u2014 the geography of their confrontation is expanding, reaching into the seas and surrounding regions.\n\ud83d\udc49 The rise in tensions followed Israel's attack on the Abu al-Duhur military airbase in northwestern Syria's Idlib province on August 18. Days later, Israel's Kan News reported that Israeli security officials had informed the US that Turkey was preparing to deploy a radar system at the airfield which could have shifted the regional balance of power.\nAmid the diplomatic war of words, Turkey has moved into northern Syria \u2014 despite Israel's warning against moving its troops south. Turkish forces entered Deir ez-Zor on August 29 to build a temporary bridge across the Euphrates alongside Syrian troops, while Turkish drones provided aerial security, a source told the Middle East Eye.\n\ud83d\udea2 Meanwhile, the Israeli Navy claimed growing preparations by the Turkish Navy in recent months, including military exercises and an increased naval presence in the Mediterranean and in areas where the Israeli Navy operates, Israel's Channel 11 News reported on August 30. Israeli naval officials view the preparations as a possible sign of a strategic shift, underscoring the need for operational readiness in case of a military confrontation.\nTurkey's presence in the Eastern Mediterranean is highly sensitive for Israel because it threatens the security, profitability, and export routes of Israel's massive Leviathan gas field \u2013 a cornerstone of Israel\u2019s economy.\nOn September 2, Turkey warned Greece against the militarization of its Aegean islands, after Athens and Israel sealed a multi-billion-dollar deal for the \u201cAchilles Shield\u201d air defense umbrella.\n\ud83d\udc49 That\u2019s what happened on the surface, but there are other developments that some foreign affairs experts attribute to rising tensions between Israel and Turkey.\n\ud83d\udd34 On August 17, pirates seized MV LUTUF, a vessel carrying weapons and satellite equipment intended for Mogadishu, Somalia, in an area intersecting the Arabian Sea and the wider Indian Ocean. On August 29 the ship was freed. It's no secret that Turkey supports Somalia, while Israel backs the breakaway territory of Somaliland. Tensions between Tel Aviv and Ankara intensified, when Israel recognized Somaliland\u2019s independence in 2025.\n\ud83d\udd34 Ukraine attacked two Turkish vessels in the Black Sea on August 26 and 27. The first strike hit the Lider Bordeaux Mavi; a day later, the Lider Kocatepe, which had been dispatched to tow the damaged vessel, was also attacked.\n\ud83d\udd34 A passenger ferry carrying 267 people capsized off the northern coast of the self-declared Turkish Republic of Northern Cyprus on August 30, leaving at least 13 people dead. While formal investigations focused on documented negligence and mechanical issues, media reports cite survivors who heard a blast near the vessel\u2019s bow before the catamaran-style ship rolled over.\n\ud83d\udd34 Some experts suggest an Israeli hand or influence in all three cases, as Tel Aviv and its intelligence agencies have a long record of conducting sabotage and clandestine operations against countries they consider adversaries.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udca3 Iran strikes reduced US army units to rubble at Kuwaiti base, imagery shows\nComparison of before and after high-resolution satellite imagery from Soar Atlas appears to depict the decimation of two US military accommodations at Kuwait's Ali Al Salem Air Base.\nThe imagery also indicated debris clearance from another building nearby in progress.\nThe physical evidence matches Iran's claims that it struck the base on September 2 and 3. Specifically, the IRGC announced that its ground forces carried out a combined missile-and-drone attack, reporting US casualties and damage to military infrastructure.\n[The base](https://t.me/geopolitics_prime/72447), has been a recurring target of IRGC retaliatory strikes amid US hostilities against Iran.\nThe IRGC has also urged Kuwaitis to push US forces out of the country \"by any means possible.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T16:33:01+00:00",
+      "timestamp": "2026-09-07T10:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran calls out \u2018preposterous\u2019 US bid to cast itself as victim of its own war \nThe Strait of Hormuz was \u201cwide open\u201d until the US \u201cunleashed an unlawful and savage war on the region,\u201d reminds Iranian Foreign Ministry spokesperson Esmail Baghaei in an X post.\nHe slams as utterly preposterous that the US is now trying to paint Iran as the villain and \u201chand the world the bill for the chaos it created.\u201d\nBaghaei points to the disastrous fallout: \u201cdisrupted normal flow of commercial shipping, tankers are halted, trade is disrupted, and energy prices are rising.\u201d\nFor all of Trump\u2019s bluster, the reality is:\n\ud83d\udd34 [ Iran ](https://t.me/geopolitics_prime/74173)now controls Hormuz\n\ud83d\udd34 shipping through the chokepoint collapsed, with[ global trade routes](https://t.me/geopolitics_prime/69116) in chaos\n\ud83d\udd34 oil prices[ rocketed](https://t.me/geopolitics_prime/73892)\n\ud83d\udd34 war cost the US around $3.7 billion, per Center for Strategic and International Studies \n\ud83d\udd34 Pentagon munitions stocks [are drained ](https://t.me/geopolitics_prime/72941)\n\ud83d\udd34 US households footed a massive bill of over $1,200 as of late July / mid-August per Moody\u2019s\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T07:31:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
