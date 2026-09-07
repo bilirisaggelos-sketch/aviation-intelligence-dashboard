@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T19:53:30.730650+00:00",
+  "generated_at": "2026-09-07T22:42:55.796103+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -79,7 +79,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -98,7 +98,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -192,6 +192,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2262\r\nIssue Time: 2026 Sep 07 2001 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Sep 07 2000 UTC\nValid To: 2026 Sep 08 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-07 20:01:31.767",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1123\r\nIssue Time: 2026 Sep 07 1635 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 08: G1 (Minor) Sep 09: G1 (Minor) Sep 10: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -268,33 +287,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3736\r\nIssue Time: 2026 Sep 06 1824 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 06 1822 UTC\nStation: GOES-19\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-06 18:24:48.893",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Investigators begin work on why cargo plane overran Miami runway",
-      "text": "Investigators begin work on why cargo plane overran Miami runway\nFive people died and five others were injured as the Amazon plane overshot the runway after landing at Miami International Airport.",
+      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
+      "text": "Flight recorders recovered from 'devastating' Amazon cargo plane crash\nFive people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-07T17:46:25+00:00",
+      "timestamp": "2026-09-07T22:23:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -302,6 +302,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 Sameee Al-Sabri, Yemen's Saudi-backed PLC Deputy Defense Minister:\n\u2018The decision has been made to retake Sanaa from the Houthis. There are surprises we will not reveal now. We will be the ones to end this war.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T20:33:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -421,6 +440,26 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israeli National Security Minister Itamar Ben-Gvir:\nIt's time for the State of Israel to publicly recognize that the Malvinas Islands are Argentine territory under occupation, which the British violently steal from the Argentine people. \nThe British are not content with merely occupying the territory; they also carry out oil drilling there and steal the money from the Argentine people.\nI call upon Prime Minister Benjamin Netanyahu to recognize Argentina's sovereignty over the Malvinas Islands and to impose sanctions on Great Britain as long as the occupation continues.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T21:03:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Ukraine war latest: US envoys make first visit to Kyiv, protecting city from Russian missiles but producing few results...](https://t.me/KyivIndependent_official/55278)\nUkraine war latest: US envoys make first visit to Kyiv, protecting city from\nRussian missiles but producing few results\n[https://kyivindependent.com/ukraine-war-latest-us-envoys-make-first-visit-to-kyiv-protecting-city-from-russian-missiles-but-producing-few-results/]\nPresident Volodymyr Zelensky held talks with U.S. President Donald Trump's\nenvoys, Steve Witkoff and Jared Kushner, as they arrived in Kyiv for the first\ntime on Sept. 6, amid Washington's renewed diplomatic efforts to end the\nRussia-Ukraine war.\nPhoto: Genya Savilov / AFP via Getty Images \u2013 Join Telegrams: t.me/ourwarstoday\n\u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT:\nhttps://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/55278)\n | t\u200b.me \u2022 Sep 6, 2026",
       "source": "Telegram",
@@ -512,6 +551,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 There\u2019s a possibility of a Russian missile and drone attack on Ukraine tonight. Two Tu-160s took off and are now 6 hours away from their launch points. More activity is likely to occur in the coming hours.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T22:40:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -632,6 +690,45 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83d\udde3 Ben-Gvir calls on Netanyahu to recognize Malvinas as Argentine territory\nIsraeli National Security Minister Itamar Ben-Gvir has called on Prime Minister Benjamin Netanyahu to officially recognize Argentina's sovereignty over the Malvinas (Falkland) Islands, branding the British presence there a \"violent\" occupation.\nHe also called on Netanyahu to impose sanctions on Great Britain \"as long as the occupation continues.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T22:36:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\u2694\ufe0f Minister Katz threatens 'full-scale war' against Palestinian Authority\n\u201cIf the Palestinian Authority\u2019s security mechanisms and related bodies initiate, or we know with certainty that they are about to initiate, a terror attack in the style of October 7 against [Israeli] forces and Jewish settlements \u2014 Prime Minister Benjamin Netanyahu and I have instructed the [military] to prepare for the opening of a full-scale war,\u201d Israeli Defense Minister Israel Katz stated following the stabbing of a settler in the occupied West Bank.\n\u27a1\ufe0fThe incident follows a weeks-long wave of sieges on Palestinian lands, during which settlers targeted multiple homes, families with children, and journalist crews \u2014 actions which the UN described as \u201cpogroms against defenseless civilians.\u201d\nDuring the latest wave of illegal and unprovoked attacks, Zionist settlers:\n\ud83c\udf0f Killed and stole livestock\n\ud83c\udf0f Cut off water, electricity, and other crucial supplies\n\ud83c\udf0f Extensively damaged property in efforts to drive residents from their homes\nIsraeli authorities have not only enabled settler and military aggression in occupied territories but have also pushed the E1 settlement expansion plan, which aims to construct over 1,200 Israeli homes in the West Bank that would effectively sever the Palestinian territory in two.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T20:59:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\ude80\ud83c\uddee\ud83c\uddf7 Iran test-fires ballistic missile toward US warship - Major General Rezaei\nThe weapon was deployed for the first time in a live operational environment above a US warship and forced the vessel to retreat, Secretary of Iran\u2019s Supreme National Security Council Major General Mohsen Rezaei told the Fars news agency. \n\ud83d\udd25\u201cA real hell broke out\u201d for the targeted warship, and the action is turning earlier naval warnings into field operations, designed to prove the credibility of Iran's military posture, he added.\nThe action followed Islamic Revolutionary Guard Corps (IRGC) Aerospace Force ballistic missile firings at a US aircraft carrier and destroyer, showing Iran's readiness to use its anti-ship capabilities against active US naval forces.\n\ud83d\udd34 Ballistic threat to American carriers \nIran now fields a suite of anti-ship ballistic missiles built specifically to endanger the largest surface combatants afloat-aircraft carriers.\n\ud83d\udd34 Persian Gulf missile\nThe missile is a solid-fuel weapon with a 300-kilometer reach and a 650-kilogram warhead that uses optical terminal guidance to lock onto ships in the final stretch. \n\ud83d\udd34 Hormuz series\nThe Hormuz-1 model is tuned to hunt radars by homing in on their emissions, while the newer Hormuz-2 is built for moving vessels and claimed to hit Mach 4\u20135. These systems, first shown striking maritime targets more than a decade ago, still form the backbone of Iran\u2019s land-based anti-access shield across the Persian Gulf and Strait of Hormuz.\n\ud83d\udd34 Qassem Basir\nUnveiled in 2025 as a major upgrade of the Shahid Haj Qassem. It is solid-fueled, with a range beyond 1,200 kilometers, and carries a maneuverable warhead guided by thermal imaging that works without GPS. The missile can pick out a chosen target among several ships, shrug off electronic jamming, and challenge even layered defenses such as the THAAD system.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -696,44 +793,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-07T12:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udca3 Iran strikes reduced US army units to rubble at Kuwaiti base, imagery shows\nComparison of before and after high-resolution satellite imagery from Soar Atlas appears to depict the decimation of two US military accommodations at Kuwait's Ali Al Salem Air Base.\nThe imagery also indicated debris clearance from another building nearby in progress.\nThe physical evidence matches Iran's claims that it struck the base on September 2 and 3. Specifically, the IRGC announced that its ground forces carried out a combined missile-and-drone attack, reporting US casualties and damage to military infrastructure.\n[The base](https://t.me/geopolitics_prime/72447), has been a recurring target of IRGC retaliatory strikes amid US hostilities against Iran.\nThe IRGC has also urged Kuwaitis to push US forces out of the country \"by any means possible.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T10:34:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran calls out \u2018preposterous\u2019 US bid to cast itself as victim of its own war \nThe Strait of Hormuz was \u201cwide open\u201d until the US \u201cunleashed an unlawful and savage war on the region,\u201d reminds Iranian Foreign Ministry spokesperson Esmail Baghaei in an X post.\nHe slams as utterly preposterous that the US is now trying to paint Iran as the villain and \u201chand the world the bill for the chaos it created.\u201d\nBaghaei points to the disastrous fallout: \u201cdisrupted normal flow of commercial shipping, tankers are halted, trade is disrupted, and energy prices are rising.\u201d\nFor all of Trump\u2019s bluster, the reality is:\n\ud83d\udd34 [ Iran ](https://t.me/geopolitics_prime/74173)now controls Hormuz\n\ud83d\udd34 shipping through the chokepoint collapsed, with[ global trade routes](https://t.me/geopolitics_prime/69116) in chaos\n\ud83d\udd34 oil prices[ rocketed](https://t.me/geopolitics_prime/73892)\n\ud83d\udd34 war cost the US around $3.7 billion, per Center for Strategic and International Studies \n\ud83d\udd34 Pentagon munitions stocks [are drained ](https://t.me/geopolitics_prime/72941)\n\ud83d\udd34 US households footed a massive bill of over $1,200 as of late July / mid-August per Moody\u2019s\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T07:31:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
