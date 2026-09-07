@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T05:06:58.528172+00:00",
+  "generated_at": "2026-09-07T10:22:49.080939+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -22,7 +22,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -41,7 +41,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -154,6 +154,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5412\r\nIssue Time: 2026 Sep 07 0855 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 07 0854 UTC\nValid To: 2026 Sep 07 1800 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-07 08:55:00.770",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3736\r\nIssue Time: 2026 Sep 06 1824 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 06 1822 UTC\nStation: GOES-19\nComment:",
       "source": "NOAA Space Weather",
@@ -226,83 +245,6 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: SUMPC0\r",
-      "text": "Space Weather Message Code: SUMPC0\r\nSerial Number: 41\r\nIssue Time: 2026 Sep 05 2341 UTC\r\n\r\nSUMMARY: Proton Event 100MeV Integral Flux exceeded 1pfu \nBegin Time: 2026 Sep 05 1545 UTC\nMaximum Time: 2026 Sep 05 1550 UTC\nEnd Time: 2026 Sep 05 1615 UTC\nMaximum 100MeV Flux: 1 pfu\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-05 23:41:18.807",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Five dead after Amazon cargo plane crashes at Miami airport",
-      "text": "Five dead after Amazon cargo plane crashes at Miami airport\nFive people are dead and five seriously injured after a Boeing 767-300 cargo plane \"overran\" the runway and caught fire, officials say.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-07T00:57:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
-      "text": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain\nDespite talks between US envoys and both Putin and Zelensky, the expectation in Kyiv is the fighting will continue, writes James Landale.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-06T20:52:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
-      "text": "Volcano eruption leaves 170,000 passengers stranded in Indonesia\nMore than 170,000 airline passengers are stranded after ash was detected in airspace near Jakarta following the eruptions.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-06T16:00:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -424,12 +366,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "POLITICO reports that Chinese state-owned Jilin Chemical Fiber Group supplied 46 tons of PAN precursor to a sanctioned Rosatom subsidiary that produces carbon fiber for Russia\u2019s Shahed-style attack drones.\nDocuments reviewed by U.S., U.K. and Ukrainian officials allegedly show the shipment was disguised under a civilian customs code. \nExperts estimate the material could support production of up to 1,300 drones and say the evidence may justify new sanctions on the Chinese supplier.\nBeijing denies supplying lethal weapons and says it strictly controls dual-use exports.\nSource: POLITICO",
+      "text": "Azerbaijan is now jointly producing Turkish unmanned naval vessels domestically. \nPresident Aliyev visited a production line run by Azerbaijan's MIRAS and T\u00fcrkiye's Dearsan Shipyard, inspecting two platforms.\nThe SALVO armed USV (15m, missiles and guns, recoverable) and the KAYRA kamikaze drone boat (7.6m, 60+ knots, rams targets with a warhead). \nBoth platforms are designed for Caspian coastal defense and energy infrastructure protection.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T22:23:06+00:00",
+      "timestamp": "2026-09-07T09:57:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -443,32 +385,69 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "At least five people were killed and five injured after an Amazon Prime Air cargo plane overran a runway while landing at Miami International Airport on Sunday.\nThree of the injured are in critical condition.\nSource: Reuters",
+      "text": "Pakistan Air Force officially revealed T\u00fcrkiye's KORKUT 35mm anti-aircraft gun system in its Defence Day video, the first confirmation of induction. \nThe PAF showed a layered air defense stack.\nChinese HQ-17 SAMs, Turkish KORKUT guns (twin 35mm, 1,100 rounds per minute, 4km range with airburst ammo), and Turkish \u015eAH\u0130N 40mm counter-drone turrets. \nThe same video featured multiple Turkish drones including AKINCI and Bayraktar TB2. \nThe combination is designed as a gun-missile-point defense layer against drones, loitering munitions, and low-flying aircraft.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T21:56:55+00:00",
+      "timestamp": "2026-09-07T09:55:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Israel killed five-year-old Wafaa Yusuf Akilah and her father on Sunday in a drone strike on their vehicle in western Gaza City.\nSource: [Drop Site](https://x.com/DropSiteNews/status/2096689691269431715)",
+      "text": "UAE presidential adviser Gargash says \"rebuilding trust with Iran may take decades.\" \nAt the Hili Forum in Abu Dhabi he said:\nUAE energy exports \"will not be held hostage\" to the Hormuz crisis, that no single state should control the strait, and called the UAE's response to Iranian missile attacks a \"military success story.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T20:39:47+00:00",
+      "timestamp": "2026-09-07T09:50:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "China asked Ukraine not to strike Vladivostok while its No. 6 leader was visiting Putin at the Eastern Economic Forum, and Ukraine agreed. \nThe city is 6,500 km from Ukraine, but Beijing was apparently worried after Ukraine's 2025 \"Spider Web\" operation smuggled 100+ drones deep into Russia. \nZelensky had already hinted at it, saying \"another major power\" requested a pause without naming China. \nUkraine reportedly agreed hoping China might later help end the war.\nSource: Kyodo",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T07:31:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Former Ukrainian Defense Minister Reznikov says women are physiologically better at operating drones. \nCiting his father's research at a physical education institute, he said: \nGirls have a faster reaction to threats. Peripheral vision in girls is better developed.\nHe argued women could replace men in rear positions including drone operations, potentially doubling Ukraine's mobilization pool.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T07:27:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -748,6 +727,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran calls out \u2018preposterous\u2019 US bid to cast itself as victim of its own war \nThe Strait of Hormuz was \u201cwide open\u201d until the US \u201cunleashed an unlawful and savage war on the region,\u201d reminds Iranian Foreign Ministry spokesperson Esmail Baghaei in an X post.\nHe slams as utterly preposterous that the US is now trying to paint Iran as the villain and \u201chand the world the bill for the chaos it created.\u201d\nBaghaei points to the disastrous fallout: \u201cdisrupted normal flow of commercial shipping, tankers are halted, trade is disrupted, and energy prices are rising.\u201d\nFor all of Trump\u2019s bluster, the reality is:\n\ud83d\udd34 [ Iran ](https://t.me/geopolitics_prime/74173)now controls Hormuz\n\ud83d\udd34 shipping through the chokepoint collapsed, with[ global trade routes](https://t.me/geopolitics_prime/69116) in chaos\n\ud83d\udd34 oil prices[ rocketed](https://t.me/geopolitics_prime/73892)\n\ud83d\udd34 war cost the US around $3.7 billion, per Center for Strategic and International Studies \n\ud83d\udd34 Pentagon munitions stocks [are drained ](https://t.me/geopolitics_prime/72941)\n\ud83d\udd34 US households footed a massive bill of over $1,200 as of late July / mid-August per Moody\u2019s\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T07:31:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddf8\ud83c\udde6\u2694\ufe0f Houthis strike three Saudi-backed leaders\u2019 vehicles in one hit\nThe cars of the leaders of the Presidential Leadership Council were presumably destroyed with a ballistic missile.\nThe footage comes amid escalating hostilities following the collapse of the 2022 UN-brokered truce last month, triggered by a Saudi strike on Sanaa airport. \nSince, the Houthis have ramped-up retaliatory attacks \u2014 both against Saudi forces on Yemeni soil and targets inside Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -774,25 +772,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-06T16:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\u2708\ufe0f Ukraine\u2019s F-16 jets forced into daytime gun-runs as missile crunch spreads\nAs Russia increases the [intensity of its strikes on Ukrainian military infrastructure](https://t.me/geopolitics_prime/74117), [Ukraine\u2019s Patriot interceptor woes ](https://t.me/geopolitics_prime/73351)are by far not the only problem.\nThe Ukrainian [Air Force's Western-supplied F-16 fighter jets](https://t.me/geopolitics_prime/62946) are being neutered by a crippling shortage of air-to-air missiles, reports TWZ. \nThe shortage has become so severe that Ukrainian F-16s have flown daytime sorties forced to rely solely on their internal 20 mm guns against Russian drones and cruise missiles, the report cites a Ukrainian commander as complaining. \nAvailable stocks are being tightly rationed. \n\u2666\ufe0f The F-16\u2019s primary weapons are the AIM-120 AMRAAM for medium range and the AIM-9 Sidewinder for closer engagements\n\u2666\ufe0f The onboard M61A1 Vulcan cannon is a last-resort option that carries far higher risks, especially against small or slow targets and at night\n\u2666\ufe0f Laser-guided 70 mm APKWS II rockets offer a cheaper alternative against drones and subsonic cruise missiles, yet they cannot replace dedicated air-to-air missiles\nSo, besides begging for Patriot interceptors, Ukraine has been clamoring for more AIM-9s, and AIM-120s. The AIM-120s also arm West-supplied National Advanced Surface to Air Missile System (NASAMS) batteries protecting other key Ukrainian sites, further stretching supplies. \n\ud83d\udc49 [Patriot stocks have been heavily depleted](https://t.me/geopolitics_prime/73162) with only a trickle of replacements, leaving limited capacity against ballistic missiles. \nSophisticated fighters are only as useful as the weapons available to them, and with global demand for advanced interceptors surging amid multiple conflicts and production lagging, Ukraine\u2019s F-16s are increasingly flying with empty racks.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T12:55:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
