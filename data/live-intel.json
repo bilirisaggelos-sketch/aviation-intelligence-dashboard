@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T00:43:56.893462+00:00",
+  "generated_at": "2026-09-08T05:21:29.441931+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -79,7 +79,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -98,7 +98,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -268,8 +268,8 @@
       "verified_source_count": 1
     },
     {
-      "title": "Flight recorders recovered from 'devastating' Amazon cargo plane crash",
-      "text": "Flight recorders recovered from 'devastating' Amazon cargo plane crash\nFive people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
+      "title": "Flight recorders recovered from Amazon cargo plane crash",
+      "text": "Flight recorders recovered from Amazon cargo plane crash\nFive people were killed and five others seriously injured when the Boeing 767-300 overshot the runway at Miami International Airport.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
@@ -384,44 +384,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi airstrikes against Al-Bayda Governorate, Yemen\nThis coincides with a PLC offensive in the same sector.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T15:40:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 MUST WATCH: Ansarallah (the Houthis) have released footage targeting Saudi-backed PLC troop concentrations and logistics hubs with ballistic missiles in Al-Wadi\u2019ah, Yemen",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T13:51:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Israeli National Security Minister Itamar Ben-Gvir:\nIt's time for the State of Israel to publicly recognize that the Malvinas Islands are Argentine territory under occupation, which the British violently steal from the Argentine people. \nThe British are not content with merely occupying the territory; they also carry out oil drilling there and steal the money from the Argentine people.\nI call upon Prime Minister Benjamin Netanyahu to recognize Argentina's sovereignty over the Malvinas Islands and to impose sanctions on Great Britain as long as the occupation continues.",
       "source": "Telegram",
@@ -500,6 +462,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "Updated missile map: \nThe following has been launched so far.\n~16 Iskander-M/S-400 ballistic missiles. \n~6 Kn-23 ballistic missiles. \n~2 Zircon hypersonic cruise missiles. \n~2 Iskander-K cruise missiles. \n~2 Oniks supersonic cruise missiles. \nSo far, I can confirm the interception of 2 Kn-23 ballistic missiles and 2 Iskander-K cruise missiles. \nThe rest of the missiles (apart from the 2 Oniks which hit Chornomorsk, Odesa Oblast) impacted Kyiv.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T01:20:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6\u2014 Two more Iskander-M missiles enroute to eastern Kiev.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T01:13:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u2014 Plumes of smoke reported over Jizan Oil Refinery after Yemeni drone and missile attack.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -557,44 +557,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Spokesperson of Ansarllah (Houthis) Movement Yahya Saree: \nThanks to God, the Yemeni armed forces were able to shoot down a Saudi enemy reconnaissance aircraft of the CH4 type while it was carrying out hostile operations in the airspace of the Khab wa ash-Sha'af district in the Al-Jawf province, using appropriate weaponry.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T02:55:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Spokesperson for the Ansar Allah (Houthi) movement Yahya Saree: \nThanks to God, the Yemeni armed forces were able to shoot down an armed reconnaissance aircraft of the \"Wing Loong II\" type, belonging to the Saudi enemy, while it was carrying out hostile missions this morning in the airspace north of Maqbana, in the Taiz governorate. The aircraft was targeted with an appropriate weapon.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T15:43:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 There\u2019s a possibility of a Russian missile and drone attack on Ukraine tonight. Two Tu-160s took off and are now 6 hours away from their launch points. More activity is likely to occur in the coming hours.",
       "source": "Telegram",
@@ -615,12 +577,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 The IDF has issued an urgent evacuation warning to residents of Deir al-Zahrani, Lebanon, following what it described as a Hezbollah drone attack against Israeli forces. The IDF said it intends to strike what it identified as a Hezbollah facility in the area and does not intend to harm civilians.\nResidents inside the building marked in red on the accompanying map, as well as those in surrounding buildings, have been instructed to evacuate immediately. The IDF urged residents to move at least 300 metres away from the designated area.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian attack drones struck the Saratov oil refinery in Russia earlier this morning, triggering fires across the facility. Smoke and flames were seen rising from multiple areas of the refinery, which is the largest in the region.\nContributed by",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T02:33:10+00:00",
+      "timestamp": "2026-09-08T04:59:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -634,12 +596,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli drone strike targeted a car in the town of Kfar Romman, southern Lebanon.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 The IDF confirms that Youssef Aqila, who was killed in yesterday\u2019s drone strike on a vehicle in western Gaza City, was a Hamas Nukhba company commander.\nAccording to the IDF, Aqila had recently been advancing attacks against Israeli troops and civilians and working to rebuild Hamas\u2019s capabilities.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T02:32:54+00:00",
+      "timestamp": "2026-09-08T03:04:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -653,12 +615,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Earlier tonight, IDF drone carried out another airstrike killing one and injuring several others in an area west of Gaza City.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea German authorities have found a total of 21 homemade explosive devices near high\u2011voltage power lines in the eastern state of Saxony, prosecutors have said. \nNine additional devices were discovered over the weekend near the Graustein substation in the district of Goerlitz. \nThe discovery follows a series of sabotage incidents on Germany\u2019s power grid last week, including a drone attack at Leipzig/Halle airport in August for which the government formally blamed Russia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T02:32:49+00:00",
+      "timestamp": "2026-09-08T03:03:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -672,12 +634,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf3\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddec\ud83c\udde7 [Politico](https://www.politico.eu/article/china-state-firm-supplies-russia-materials-kamikaze-drones/): A Chinese state-owned firm has supplied Russia with materials sufficient to produce carbon fibre for up to 1,300 kamikaze drones. \nThe US House Select Committee on China has reviewed the documents and determined them legitimate. Weapons experts say the shipment could not have escaped Chinese government attention, with one former CIA official stating: \"The idea that Chinese state-owned enterprises can hide things from the Chinese government just doesn't wash.\"\nExperts say Russia has been \"totally dependent on China\" for the specialised fibre used in drone airframes, and that Beijing now provides more than 60 percent of components necessary to sustain Russia's military industrial complex.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Israeli drone strike targets a car in the Municipality of Nabatieh Al Fawqa, southern Lebanon.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T02:32:33+00:00",
+      "timestamp": "2026-09-08T03:01:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -691,12 +653,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Several explosive-laden drones attacked the El Carmelo police station in Cajib\u00edo, Cauca department, Colombia, with the detonations generating panic among residents, as FARC dissidents are preliminarily blamed for the assault.\nNo official report on injuries, damage, or the number of devices used has been issued yet, as authorities and emergency crews remain on the scene.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [WSJ](https://www.wsj.com/world/russia/how-ukrainian-drone-strikes-are-pounding-russias-economy-a03652a7?mod=hp_lead_pos7): Ukraine's long-range drone campaign is inflicting mounting damage on strategic sectors of the Russian economy, targeting refineries, shipping terminals, aviation, agriculture, and e-commerce warehouses to pressure Moscow toward ending the war. \nRefinery strikes triggered fuel shortages and rationing over the summer, cutting Russian oil processing to 3.8 million barrels a day in August from 5 million a year earlier, forcing Russia to import gasoline and ban diesel exports while domestic gas prices climbed 19% this year.\nOver 30 strikes since July have hit logistics hubs used by Wildberries and Ozon, causing more than $10 billion in damage and an estimated $12 billion in lost sales over the next year, with worries about state lender VTB's exposure to Wildberries debt. Attacks on Black Sea export terminals cut Russian wheat exports by more than half in August, their lowest level since 2010, while airport closures across the country jumped roughly fivefold from half a year earlier.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T02:31:46+00:00",
+      "timestamp": "2026-09-08T03:00:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -710,12 +672,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 A short while ago, an IDF drone strike targeted a vehicle inside a parking lot on Mahmoud Fakih Street, near the Husseiniya in the city of Nabatieh, southern Lebanon.\n3 Hezbollah operatives were killed, according to local reports.",
+      "text": "The Houthis are currently launching several ballistic missiles and drones towards southern Saudi Arabia. (1)\nLocals are reporting explosions in Khamis Mushait, southern Saudi Arabia. (2)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T02:29:20+00:00",
+      "timestamp": "2026-09-08T02:57:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -723,6 +685,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "IDF: Two terrorists from the Hamas and PIJ terror organizations eliminated in the Gaza Strip.\nA strike yesterday in the Shati area killed Zevhi Hadar Asam Al-Batarchi, a terrorist from the PIJ, who took part in planting explosives against IDF forces operating in Gaza.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T02:55:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\ude80\ud83c\uddee\ud83c\uddf7 Russia Helps Iran Master Supersonic Cruise Missile Technology\nRussia is [reportedly](https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3?syn-25a6b1a6=1) helping Iran develop a ramjet propulsion system that could form the basis of a new generation of Iranian supersonic cruise missiles.\nThe multiyear program, known as C430L, reportedly began taking shape in 2023. Its importance goes beyond a possible new missile: the cooperation appears aimed at helping Iran acquire the engineering expertise needed to develop the technology itself.\n\ud83d\udd38 At the center is the ramjet. Unlike a conventional rocket motor, it uses incoming air during flight to sustain combustion at high speed. For a cruise missile, that means the ability to remain supersonic through much of its flight rather than simply accelerating briefly before slowing down.\n\ud83d\udd38 Iran has reportedly already built and flight-tested the propulsion system. Iranian specialists later provided Russian engineers with technical materials from the work, which were analyzed and returned with detailed feedback.\n\ud83d\udd38 The Russian side reportedly included specialists in cruise missiles, aerodynamics and air-breathing propulsion from Rosoboronexport and NPO Mashinostroyeniya, one of Russia\u2019s leading missile design bureaus.\nThe value of this kind of cooperation is difficult to reduce to a conventional arms sale. A finished missile gives Iran another weapon. Access to experienced engineers, testing data and solutions to propulsion problems can help Iran build the underlying technological base for an entire family of weapons.\nSuch a system could eventually be adapted for both anti-ship and land-attack cruise missiles. Sustained supersonic speed would shorten the time available for hostile radars, air-defense systems and warships to detect a missile, classify the threat and launch an interception.\nThere is still no evidence that a Russian-assisted C430L missile has entered Iranian service, and the current state of the program remains unclear. But the propulsion work itself has reportedly advanced to flight testing, while Russian experts were still discussing the project as recently as June.\nFor Iran, the practical benefit is obvious: Russian expertise could help shorten development cycles, solve difficult propulsion problems faster and reduce dependence on imported finished weapons.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T04:59:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Trump says fuel prices will drop after Iran war ends \u2014 reality says otherwise\n\"Oil prices will drop precipitously, like everything else is dropping (but more!), when we WIN the war with Iran... ultimately, below Two Dollars a gallon,\" Trump wrote on Truth Social.\nThe promise is bold, but the fundamentals tell a different story \u2014 and the market isn't buying it.\nWhy prices are staying high:\n\ud83c\udf0f Supply disruptions\u00a0\u2014 conflicts in the Middle East, particularly the Iran war and Houthi attacks on Saudi Aramco facilities, have taken key production and refining capacity offline. The war is now directly targeting oil infrastructure.\n\ud83c\udf0f Shipping routes under threat\u00a0\u2014 the Strait of Hormuz is operating at a fraction of pre-war capacity. The Panama Canal is shallowing. The Red Sea remains dangerous. Global shipping is squeezed on multiple choke points simultaneously.\n\ud83c\udf0f Inventories are depleted\u00a0\u2014 global oil and refined product stocks are well below seasonal averages. Gasoline and diesel inventories in key hubs are at record lows. There is no buffer to absorb additional shocks.\n\ud83c\udf0f Refining capacity constraints\u00a0\u2014 refineries from Kuwait's Al-Zour to Nigeria's Dangote are prioritizing more profitable products like diesel and gasoline, limiting fuel oil supply and raising shipping costs.\n\ud83c\udf0f Reopening won't be quick\u00a0\u2014 even if the war ended tomorrow, restoring full production, unblocking sea lanes, and rebuilding inventories would take weeks or months. Storage facilities don't refill overnight.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T03:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -804,25 +823,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udfce \ud83d\ude97 Volkswagen turns to militarization as auto crisis deepens\nThe car producer's plant in Germany's Lower Saxony region is set to partner with Israeli defense company Rafael Advanced Defense Systems and investment Aurelius Capital to manufacture components.\nAs part of the partnership that starts in 2027, the site will manufacture:\n\u2666\ufe0f Iron Dome components\n\u2666\ufe0f Military vehicles\n\u2666\ufe0f Missile launchers\n\u2666\ufe0f Support equipment and power generators\nThis is not the Zionist regime's first venture into Germany, as Israeli defense companies Dynamit Nobel Defence, EuroSpike, and EuroTrophy GmbH have been active in Germany for over twenty years.\nThe Rafael-Volkswagen deal comes as the carmaker struggles to keep up with competition:\n\ud83d\udd34 Budget-related layoffs affected over 100,000 Volkswagen employees\n\ud83d\udd34 Product complexity to be reduced by 75%\n\ud83d\udd34 Vehicle portfolio to drop by 50% by 2030\n\ud83d\udd34 Global deliveries fell by 6.3% this year alone, costing the company over $1.6 billion in revenue\nBut despite the crisis, Volkswagen somehow still finds the funds to appease Israel\u2026\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T16:29:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
