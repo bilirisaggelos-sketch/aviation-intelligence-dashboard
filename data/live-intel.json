@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T10:01:33.164663+00:00",
+  "generated_at": "2026-09-08T14:35:30.006311+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -268,6 +268,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "At least two people dead after Russian strikes on Kyiv",
+      "text": "At least two people dead after Russian strikes on Kyiv\nAir raid alerts and sounds of explosions rang out in Ukraine's capital as Russian forces launched drone strikes early on Tuesday.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-08T10:23:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
       "text": "Five killed in Miami plane crash were in two vehicles on ground, investigators say\nInvestigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
       "source": "BBC",
@@ -289,12 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni ballistic missiles and drones targeted an Aramco storage and distribution site in Abha, Saudi Arabia",
+      "text": "NOTE: Only one drone was shot down, reports saying a second drone was downed are mistaken, there was a confusion about the location.\nIran\u2019s Army confirmed it was shot down as the drone entered the coastal airspace of Bandar Abbas.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T23:52:19+00:00",
+      "timestamp": "2026-09-08T13:28:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -308,12 +327,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 Footage of the Yemeni missiles recorded by Bangladeshi workers in Saudi Arabia",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Three confirmed ballistic missile impacts at King Khalid Airbase, Saudi Arabia\nOne of the missiles seems to have directly struck an F-15 hangar.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T23:44:40+00:00",
+      "timestamp": "2026-09-08T12:48:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -326,156 +345,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Insane footage of a drone impact (or a low altitude interception) in Khamis Mushait, KSA",
+      "publisher": "Our Wars Today",
+      "text": "[Russian drones and missiles kill 2 in Ukraine's capital, ending pause in attacks](https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e)\nLocal authorities say Russia has struck the Ukrainian capital Kyiv with drones and missiles, killing two people and injuring at least 10. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e)\napnews\u200b.com \u2022 Sep 8, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T23:38:36+00:00",
+      "timestamp": "2026-09-08T10:05:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemen\u2019s Ansarallah are carrying out a large scale ballistic missile and drone attack against King Khalid Airbase and Abha International Airport in Saudi Arabia",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T23:27:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 Sameee Al-Sabri, Yemen's Saudi-backed PLC Deputy Defense Minister:\n\u2018The decision has been made to retake Sanaa from the Houthis. There are surprises we will not reveal now. We will be the ones to end this war.\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T20:33:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nWe need ballistic packages from the Americans. \nThey heard in detail what we need and when we need it. \nI am counting on a meeting in the 20th [of September] with President Trump.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T09:16:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The UK will provide Ukraine with a \u00a3100 million winter air defense package, including missiles for Patriot systems.\nThe package will also include interceptor missiles, large-caliber artillery shells, and drones based on Ukraine\u2019s priority needs identified through NATO\u2019s PURL initiative.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T08:28:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A key limitation of Greece\u2019s \u20ac3 billion Achilles\u2019 Shield agreement with Israel is that Greece will not receive the source code for the command-and-control (C2) systems.\nMoshe Patel, head of Israel\u2019s Missile Defense Organization, said source-code access was not included in the licensing agreement, despite Athens\u2019 interest in maintaining control over the software architecture of the new air-defense network.\nIsrael will instead provide ongoing support, maintenance and future technical assistance. \nThis means Greece will operate the Spyder, Barak MX and David\u2019s Sling systems without full access to the underlying proprietary software controlling them.\nSource: Kathimerini",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T08:00:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen\u2019s Houthis said Tuesday they launched dozens of ballistic missiles and drones at Aramco facilities and military targets in southern Saudi Arabia.\nThe group said the attack was in response to 121 Saudi airstrikes carried out over the past three days across several Yemeni provinces, including Ma\u2019rib, Al-Bayda, Al-Hudaydah, Taiz and Al-Jawf.\nThe Houthis said one Saudi strike hit a prison in Al-Hazm, Al-Jawf, causing multiple casualties, including women and children.\nThey warned that further Saudi attacks would be met with wider strikes.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T07:46:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Eyewitnesses in Kyiv film the moment two ballistic missiles hitting the same location.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T07:31:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -519,20 +402,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Iran warns US against Israeli attack on south Lebanon ridge held by Hezbollah, sources say](https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/)\nIran has warned the United States that it would respond forcefully to an Israeli offensive on a mountainous ridge in southern \u200bLebanon where Iranian military personnel are holed up alongside Hezbollah fighters, three officials briefed on the message told Reuters. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/iran-warns-us-against-israeli-attack-south-lebanon-ridge-held-by-hezbollah-2026-09-03/)\nMaya Gebeily | reuters\u200b.com \u2022 Sep 3, 2026",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Initial Reports of missile launched from Iran to Strait of Hormuz\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-06T00:29:32+00:00",
+      "timestamp": "2026-09-08T12:17:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -548,13 +431,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -565,63 +447,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-08T01:20:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6\u2014 Two more Iskander-M missiles enroute to eastern Kiev.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T01:13:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u2014 Plumes of smoke reported over Jizan Oil Refinery after Yemeni drone and missile attack.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T23:39:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u2014 Yemeni ballistic missiles en route to Jizan Oil Refinery.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T23:36:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -758,13 +583,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -782,6 +606,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83d\udca3 Temporary ceasefire clock hits zero: Russian missiles return to Kiev\nJust as Donald Trump\u2019s negotiators left the Ukrainian capital, Russia launched a large overnight strike wave targeting Ukrainian military and energy infrastructure, including:\n\ud83d\udd34 Vasylkov airbase, fuel depot, and SBU radio intelligence center\n\ud83d\udd34 Khimtransagro military cargo distribution hub\n\ud83d\udd34 Ukrspetsystems warehouse complex\n\ud83d\udd34 Element UA drone manufacturer\nUkrainian forces were forced to rely again on Patriot air defense systems, which, as Volodymyr Zelensky rightfully noted, aren\u2019t very effective.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T13:18:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udee2\ud83d\udcb5 Oil prices surge to $100 amid intensified Houthi retaliation\nGlobal crude benchmarks Brent and WTI have approached the $100-per-barrel mark after Houthi strikes on Saudi Aramco\u2019s oil facilities near the Yemen border on Monday brought production to a halt.\nThe strikes targeted the industrial city of Jazan, where refineries previously produced upwards of 400,000 barrels per day, in what the Houthis described as retaliation for the Saudi blockade of Yemen\u2019s ports and airports.\nIn recent months, the Houthis have significantly intensified their retaliation campaign against Saudi Arabia, including:\n\ud83c\udf0f Targeting Saudi Aramco oil refineries and energy facilities\n\ud83c\udf0f Imposing a maritime embargo on Saudi vessels in the Red Sea\n\ud83c\udf0f Intensifying strikes on military and aviation infrastructure, including Abha airport and King Khalid Air Base\nThe unfolding conflict with the Houthis adds to Saudi Arabia's long list of problems triggered by the outbreak of the Iran war in late February, during which Saudis decided to ally with the US-Israeli aggressors.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T11:47:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -813,83 +675,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-08T03:28:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Houthis launch largest attack on Saudi Arabia in years\nYemen's Ansarallah forces have launched a large-scale ballistic missile and drone attack against strategic targets across Saudi Arabia \u2014 the most extensive operation targeting the kingdom in years, according to local reports.\nTargets include King Khalid Airbase, Abha International Airport, and ARAMCO facilities, such as a bulk plant in Abha and a refinery in Jazan.\n\ud83d\udcf9 Multiple videos circulating online show potential impacts on the sites. The scale and coordination of the attack suggest a significant escalation in Houthi capabilities \u2014 striking deep into Saudi territory at multiple locations simultaneously.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T00:08:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83d\udde3 Ben-Gvir calls on Netanyahu to recognize Malvinas as Argentine territory\nIsraeli National Security Minister Itamar Ben-Gvir has called on Prime Minister Benjamin Netanyahu to officially recognize Argentina's sovereignty over [the Malvinas (Falkland) Islands,](https://t.me/geopolitics_prime/74141) branding the British presence there a \"violent\" occupation.\nHe also called on Netanyahu to impose sanctions on Great Britain \"as long as the occupation continues.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T22:36:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\u2694\ufe0f Minister Katz threatens 'full-scale war' against Palestinian Authority\n\u201cIf the Palestinian Authority\u2019s security mechanisms and related bodies initiate, or we know with certainty that they are about to initiate, a terror attack in the style of October 7 against [Israeli] forces and Jewish settlements \u2014 Prime Minister Benjamin Netanyahu and I have instructed the [military] to prepare for the opening of a full-scale war,\u201d Israeli Defense Minister Israel Katz stated following the stabbing of a settler in the occupied West Bank.\n\u27a1\ufe0fThe incident follows a weeks-long wave of sieges on Palestinian lands, during which settlers targeted multiple homes, families with children, and journalist crews \u2014 actions which the UN described as \u201cpogroms against defenseless civilians.\u201d\nDuring the latest wave of illegal and unprovoked attacks, Zionist settlers:\n\ud83c\udf0f Killed and stole livestock\n\ud83c\udf0f Cut off water, electricity, and other crucial supplies\n\ud83c\udf0f Extensively damaged property in efforts to drive residents from their homes\nIsraeli authorities have not only enabled settler and military aggression in occupied territories but have also pushed the E1 settlement expansion plan, which aims to construct over 1,200 Israeli homes in the West Bank that would effectively sever the Palestinian territory in two.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T20:59:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80\ud83c\uddee\ud83c\uddf7 Iran test-fires ballistic missile toward US warship - Major General Rezaei\nThe weapon was deployed for the first time in a live operational environment above a US warship and forced the vessel to retreat, Secretary of Iran\u2019s Supreme National Security Council Major General Mohsen Rezaei told the Fars news agency. \n\ud83d\udd25\u201cA real hell broke out\u201d for the targeted warship, and the action is turning earlier naval warnings into field operations, designed to prove the credibility of Iran's military posture, he added.\nThe action followed Islamic Revolutionary Guard Corps (IRGC) Aerospace Force ballistic missile firings at a US aircraft carrier and destroyer, showing Iran's readiness to use its anti-ship capabilities against active US naval forces.\n\ud83d\udd34 Ballistic threat to American carriers \nIran now fields a suite of anti-ship ballistic missiles built specifically to endanger the largest surface combatants afloat-aircraft carriers.\n\ud83d\udd34 Persian Gulf missile\nThe missile is a solid-fuel weapon with a 300-kilometer reach and a 650-kilogram warhead that uses optical terminal guidance to lock onto ships in the final stretch. \n\ud83d\udd34 Hormuz series\nThe Hormuz-1 model is tuned to hunt radars by homing in on their emissions, while the newer Hormuz-2 is built for moving vessels and claimed to hit Mach 4\u20135. These systems, first shown striking maritime targets more than a decade ago, still form the backbone of Iran\u2019s land-based anti-access shield across the Persian Gulf and Strait of Hormuz.\n\ud83d\udd34 Qassem Basir\nUnveiled in 2025 as a major upgrade of the Shahid Haj Qassem. It is solid-fueled, with a range beyond 1,200 kilometers, and carries a maneuverable warhead guided by thermal imaging that works without GPS. The missile can pick out a chosen target among several ships, shrug off electronic jamming, and challenge even layered defenses such as the THAAD system.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T19:29:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
