@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-09-08T21:12:25.240985+00:00",
+  "generated_at": "2026-09-08T23:26:33.135027+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nShanksville, PA, Friday, September 11, 2026 Local\nFacility: ZOB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/08/2026",
+      "location": "ZOB PA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLos Angeles, CA, Friday, September 11, 2026 Local\nFacility: ZLA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/08/2026",
+      "location": "ZLA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nProvo, UT, Thursday, September 10, 2026 through Thursday, September 10, 2026 Local\nFacility: ZLC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/08/2026",
+      "location": "ZLC UT",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDallas, TX, Wednesday, September 9, 2026 through Thursday, September 10, 2026 Local\nFacility: ZFW",
@@ -117,7 +174,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -136,7 +193,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -325,33 +382,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Five killed in Miami plane crash were in two vehicles on ground, investigators say",
-      "text": "Five killed in Miami plane crash were in two vehicles on ground, investigators say\nInvestigators described the scene as \"utter devastation\" after a Boeing 767-300 overshot the runway at Miami airport.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-08T16:38:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 NEW: Iran launched another attack against U.S. Navy vessels on Monday that the U.S. military has not publicly acknowledged, following ballistic missile attacks against an American aircraft carrier and guided-missile destroyer over the weekend, though no U.S. ships were hit, WSJ reports.\nU.S. officials say the attacks have raised concerns that Iran is employing increasingly sophisticated weapons and could be receiving assistance from China or Russia in locating American warships.",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 WATCH: Israeli military censorship has permitted the release of footage from the 12-Day War, showing two Iranian ballistic missiles directly impacting the Haifa refinery",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T20:38:48+00:00",
+      "timestamp": "2026-09-08T23:21:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,52 +403,323 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Yemeni ballistics & drones were launched at Saudi Arabia; still unknown if there were impacts",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 IRGC Statement (2):\n\u2018In response to the aggression by the Great Satan against Iranian oil tankers, in the operation codenamed \u2018Ya Haidar Al-Karrar\u2019, the IRGC Aerospace Force targeted the USS Delbert D. Black (DDG-119) and USS John Paul Jones (DDG-53) with ballistic missiles. As a result, the ships suffered significant damage.\u2019",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T17:34:22+00:00",
+      "timestamp": "2026-09-08T23:14:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 WATCH: Iran has released footage of downing an American MQ-1 \u2018Gray Eagle\u2019 drone in Hormuz",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4 MUST WATCH: Insane footage of multiple Iranian ballistic missiles directly impacting Muwaffaq Salti Airbase, Jordan",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T17:28:30+00:00",
+      "timestamp": "2026-09-08T23:03:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "NOTE: Iranian statements always use the term \u2018Al-Azraq Base\u2019 to refer to Muwaffaq Salti Airbase. \nIran refuses to use the name Muwaffaq Salti, which is the name of a Jordanian fighter jet pilot killed by Israel during a patrol in 1966.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:56:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 WATCH: The IRGC Aerospace Force has released footage of targeting U.S. bases in Jordan with ballistic missiles\nKheybar Shekan, Qadr, Emad, and Qadr-H (cluster warhead) missiles were used in tonight\u2019s attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:48:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4/\ud83c\uddee\ud83c\uddf7 IRGC Statement (1):\n\u2018In retaliation for the unprovoked U.S. attack against Iranian oil tankers, the IRGC Aerospace Force launched a powerful ballistic missile strike on American bases in Jordan with the codename \u2018Ya Haidar Al-Karrar\u2019.\nIn this operation to punish the aggressor with a heavy attack using a combination of solid and liquid fuel ballistic missiles, maintenance hangars, forward hangars and shelters of F-35, F-16, and F-15 fighter jets were struck, and heavy damage was inflicted on the enemy.\u2018",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:41:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 Closeup footage of Iranian ballistic missile, likely \u2018Ghadr\u2019 type, being launched at Jordan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:17:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "I would like to humbly remind everyone that most of Iran\u2019s long range missiles are intended for Israel, not Jordan.\nThe fact that 40+ of these missiles were comfortably launched at Jordan shows that Iran\u2019s missile stockpiles are in EXCELLENT shape.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:13:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 More than 12 different missile bases were used in tonight\u2019s attack",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:07:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4 Missiles incoming",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:02:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "40+ missiles upto this moment",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:59:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 BREAKING: More ballistic launches from Iran",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:59:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: Iran launched a second wave of missile attacks on U.S. Navy ships within three days, but none of the American vessels were hit. \nThe strikes are raising concern in Washington because Iran appears to be using more advanced missiles capable of targeting moving ships.\nU.S. officials are also examining whether China or Russia may be helping Iran locate American warships.\nSource: WSJ",
+      "text": "IRGC:\nWe struck the U.S. destroyers USS Delbert D. Black (DDG-119) and USS John Paul Jones (DDG-53) with ballistic missiles, causing significant damage.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T20:17:24+00:00",
+      "timestamp": "2026-09-08T23:19:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The IRGC releases a video showing tonight\u2019s missile launches targeting U.S. bases in Jordan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:51:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The IRGC says it launched a heavy ballistic missile strike on the Al-Azraq base in Jordan in retaliation for attacks on Iranian oil tankers.\nAccording to the statement, the strike targeted maintenance hangars, aircraft preparation areas, fighter shelters, and locations housing F-35, F-16, and F-15 jets, causing significant damage.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:39:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "CENTCOM:\nCENTCOM forces destroyed five Iranian crude oil carriers, Sept. 8, after the Islamic Revolutionary Guard Corps (IRGC) targeted a U.S. Navy warship with ballistic missiles twice over the past two days. \nThe U.S. warship successfully evaded the attempted Iranian attacks and continued to patrol regional waters. \nNo American personnel were harmed.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:19:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Skies over Jordan during the latest Iranian missile barrage.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:59:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "It appears that Iran's latest missile barrage targeting U.S. bases in Jordan is forcing defenders to expend a large number of interceptors.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:57:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -425,12 +734,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "German AfD co-leader Tino Chrupalla on Ukraine:\nWe are producing drones in Germany that are being used to launch attacks into the Russian hinterland, and we reject that.\nWe have always said \u2014 and this is also in our party program \u2014 no arms deliveries to crisis regions and war zones.",
+      "text": "Iranian forces are using missiles armed with cluster munitions to attack U.S. bases in Jordan.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T19:49:18+00:00",
+      "timestamp": "2026-09-08T21:49:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian missiles are targeting U.S. bases in Jordan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:39:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The Iranians have begun launching ballistic missiles in response to the U.S. strikes.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:29:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -501,12 +848,31 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7 \u2014 Wall Street Journal: Iran launched a second wave of missile attacks on U.S. Navy ships within three days, but none of the American vessels were hit. \n\u27a1\ufe0f The strikes are raising concern in Washington because Iran appears to be using more advanced missiles capable of targeting moving ships.\n\u27a1\ufe0f U.S. officials are also examining whether China or Russia may be helping Iran locate American warships.\n\ud83d\udd34",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 The moment several missiles were launched from Iran toward U.S. bases in Jordan a short while ago.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T20:24:46+00:00",
+      "timestamp": "2026-09-08T22:09:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 A large number of interceptor missiles have been launched over Jordan.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T22:02:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -521,12 +887,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 Tasnim News Agency: U.S. forces targeted an Iranian oil tanker with a missile approximately four miles from Kharg Island.\n\ud83d\udd34",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Additional footage of Iranian cluster missiles in the skies over Jordan.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T19:35:26+00:00",
+      "timestamp": "2026-09-08T21:54:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -540,33 +906,260 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014WATCH: IRGC released footage showing the interception of a U.S. MQ-1 drone over the Strait of Hormuz today.\n\ud83d\udd34",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Missiles launched from Iran toward U.S. bases.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T17:18:33+00:00",
+      "timestamp": "2026-09-08T21:52:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Additional footage of Iranian missiles in the skies over Jordan.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:49:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4Iranian missiles carrying multiple warheads were reportedly heading toward U.S. bases in Jordan. The footage was filmed from southern Israel.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:44:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Direct impacts from Iranian missiles have reportedly been reported at the U.S. Mwaffaq Salti Air Base in Jordan.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:41:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Footage of Iranian missiles seen in the skies over Jordan.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:41:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 There\u2019s a possibility of a Russian missile and drone attack on Ukraine tonight. Two Tu-160s took off and are now 6 hours away from their launch points. More activity is likely to occur in the coming hours.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Footage of missile launches from Iran.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T22:40:45+00:00",
+      "timestamp": "2026-09-08T22:00:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 According to reports, Iranian missiles were launched from 12 different cities across the country, and this is considered one of the heaviest missile attacks Iran has launched in a good while.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:56:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Jordan has apparently decided that Ukraine will starve by eating all the Patriot missiles it had in its inventory",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:53:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 More footage of the attack on US bases in Jordan by Iranian missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:51:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Preliminary reports, a new batch of missiles is going out from Iran.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:50:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Image of the Iranian missiles attack on US bases in Jordan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:47:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Explosions can be heard in Eilat, Israel, as a result of it's proximity to Jordanian territory due to Iranian missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:45:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Purported footage of the air defences in Jordan clashing with Iranian missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:45:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 After three Iranian tankers were hit off the southern coast of Iran earlier by the United States, Iran has launched a substantial barrage of missiles towards Jordan, targeting United States military bases in the country.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:42:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -713,12 +1306,32 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia\u2019s return to war in Yemen could permanently shut Bab el-Mandeb, ignite Africa\nAnsar Allah (the Houthis) has carried out a large-scale military operation targeting Saudi Aramco facilities in Abha, Najran, the Economic City, and Jizan, as well as [the King Khalid Air Base in Khamis Mushait.](https://t.me/geopolitics_prime/74235)\nThe attack was in retaliation for 121 airstrikes across Marib, Al-Bayda, Hodeidah, Taiz, and Al-Jawf, launched by Saudi Arabia, according to Ansar Allah.\nMeanwhile, Saudi proxy forces supported by the kingdom\u2019s airpower have vowed to seize Sanaa.\n\ud83d\udc41 Saudi proxy advance on Al-Jawf and Al-Bayda\nOn September 7, fighting intensified in Taiz, Al-Jawf, and Al-Bayda, along key routes toward Houthi-held Sanaa. Ansar Allah said it repelled an offensive in Al-Jawf, inflicting significant casualties on pro-Saudi forces and [destroying military equipment.](https://t.me/geopolitics_prime/74216)\nAl-Jawf is strategically important because it borders Saudi Arabia and provides a potential corridor toward Saada, the Houthis\u2019 main stronghold, according to Al Jazeera.\nAl-Bayda is important for its central position in Yemen, linking eight governorates \u2013 four in the north and four in the south \u2013 and making it a key route for the movement of forces and supplies.\n\ud83e\ude96 War is expanding: are Saudis engaging African mercs?\nEarlier, unconfirmed reports claimed Saudi Arabia had deployed more than 30,000 troops from South Sudan, 10,000 from Somalia, and Syrian mercenaries into northern Yemen for a major, air-backed offensive on Sanaa.\nIf confirmed, the deployment would signal that Riyadh resumed its use of foreign ground forces in Yemen. Sudan previously contributed up to 30,000 troops to the Saudi-led coalition, according to a senior Sudanese military official in 2019, during the war that began in 2015 and largely subsided after[ the 2022 ceasefire.](https://t.me/geopolitics_prime/72131)\nIs Saudi Arabia up to a long-term conflict?\nThe US State Department has approved two weapons deals with Saudi Arabia worth $5.75 billion: $5 billion for 10,000 Boeing-made precision bomb kits and $750 million for Honeywell tank engines. The package also includes a comparable number of unguided bombs, making it one of the largest US-Saudi defense deals since the Iran war began.\nThe purchase indicates Riyadh is preparing to resume its war against the Houthis, with Saudi-backed mercenaries conducting ground operations inside Yemen while Saudi warplanes provide air support, the Weichert Report argues.\n\ud83d\udcca Oil prices will only go up\nSaudi Arabia\u2019s previous war effort failed to defeat Ansar Allah and instead strengthened its resilience. Now, backed by defense pacts [with Turkey and Pakistan, ](https://t.me/geopolitics_prime/73198)Riyadh believes it is better positioned to renew the war. Reports about Syrian mercenaries on the ground suggest Turkish involvement, while Donald Trump\u2019s backing for Saudi Arabia\u2019s July strike on Sanaa signals Washington\u2019s support for further regional escalation.\nBut the consequences will extend far beyond Yemen. The Weichert Report predicts the escalation will close [the Bab el-Mandeb Strait](https://t.me/geopolitics_prime/72095), potentially permanently, and pull Africa deeper into the conflict. The resulting disruption to Red Sea shipping could choke Saudi oil exports, while renewed Houthi strikes on Saudi energy infrastructure could further destabilize global [oil markets.](https://t.me/geopolitics_prime/74250)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8\u00a0Iran launches massive missile attack on US bases in Jordan \u2014 retaliation for tanker strike\nIran has launched a large-scale ballistic missile attack on US military facilities in Jordan, with over 40 missiles fired so far in response to CENTCOM's strike on Iranian oil tankers in Persian Gulf.\nSocial media footage shows dozens of Patriot interceptors launched near US military facilities as air defenses scramble to respond.\n\ud83d\udccc Local media report direct impacts at\u00a0Muwaffaq Salti Airbase,\u00a0Prince Hassan Airbase, and\u00a0Aqabah.\nThe attack follows IRGC Commander Abdollahi's warning that any action against Iranian tankers would trigger strikes on official US bases in the region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T20:28:01+00:00",
+      "timestamp": "2026-09-08T22:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25 Trump\u2019s failed Iran war is stinging American wallets - and its painful\nThe US has found itself trapped in an energy crisis of its own making:\n\ud83d\udd34 the national average for regular gasoline hit a Labor Day record of $4.14 per gallon\n\ud83d\udd34 reached an all-time high of $5.85 per gallon, raising freight and shipping costs\n\ud83d\udd34 surging diesel prices forced shipping and delivery companies to pass higher transport fees on to everyday grocery and retail items\nFamilies planning holiday travel for Labor Day confronted costs nearly a dollar higher than a year ago, with no relief in sight.\u00a0\nThese hikes are the direct result of the unprovoked assault by the US (jointly with Israel) on Iran in February that promptly backfired.\nAfter Iran\u2019s swift and strategically precise retaliatory strikes against US bases across the Gulf\u2014followed by sustained operations that effectively sealed the Strait of Hormuz\u2014the strategic landscape shifted dramatically.\n\ud83d\udd34 roughly a fifth of the world\u2019s seaborne [oil traffic](https://t.me/geopolitics_prime/74216) has been throttled\n\ud83d\udd34 US missile inventories [have been exhausted ](https://t.me/geopolitics_prime/73602)including critical shortages of Patriot and THAAD interceptors, with almost half of its global supply of [Tomahawk cruise missiles expended](https://t.me/geopolitics_prime/73938)\n\ud83d\udd34 US oil companies and refiners are posting massive record profits driven by wartime supply disruptions and constrained global refining capacity\n\ud83d\udd34 Meanwhile, Americans bear the brunt of higher food and transport costs\nDomestic political backlash is mounting ahead of November\u2019s midterm elections, threatening Republican majorities.\u00a0\n[Delusional Trump says](https://t.me/geopolitics_prime/74244) fuel prices will drop \u201cprecipitously\u201d after the Iran war ends, but no one is buying that line.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T21:59:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -728,6 +1341,26 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia\u2019s return to war in Yemen could permanently shut Bab el-Mandeb, ignite Africa\nAnsar Allah (the Houthis) has carried out a large-scale military operation targeting Saudi Aramco facilities in Abha, Najran, the Economic City, and Jizan, as well as [the King Khalid Air Base in Khamis Mushait.](https://t.me/geopolitics_prime/74235)\nThe attack was in retaliation for 121 airstrikes across Marib, Al-Bayda, Hodeidah, Taiz, and Al-Jawf, launched by Saudi Arabia, according to Ansar Allah.\nMeanwhile, Saudi proxy forces supported by the kingdom\u2019s airpower have vowed to seize Sanaa.\n\ud83d\udc41 Saudi proxy advance on Al-Jawf and Al-Bayda\nOn September 7, fighting intensified in Taiz, Al-Jawf, and Al-Bayda, along key routes toward Houthi-held Sanaa. Ansar Allah said it repelled an offensive in Al-Jawf, inflicting significant casualties on pro-Saudi forces and [destroying military equipment.](https://t.me/geopolitics_prime/74216)\nAl-Jawf is strategically important because it borders Saudi Arabia and provides a potential corridor toward Saada, the Houthis\u2019 main stronghold, according to Al Jazeera.\nAl-Bayda is important for its central position in Yemen, linking eight governorates \u2013 four in the north and four in the south \u2013 and making it a key route for the movement of forces and supplies.\n\ud83e\ude96 War is expanding: are Saudis engaging African mercs?\nEarlier, unconfirmed reports claimed Saudi Arabia had deployed more than 30,000 troops from South Sudan, 10,000 from Somalia, and Syrian mercenaries into northern Yemen for a major, air-backed offensive on Sanaa.\nIf confirmed, the deployment would signal that Riyadh resumed its use of foreign ground forces in Yemen. Sudan previously contributed up to 30,000 troops to the Saudi-led coalition, according to a senior Sudanese military official in 2019, during the war that began in 2015 and largely subsided after[ the 2022 ceasefire.](https://t.me/geopolitics_prime/72131)\nIs Saudi Arabia up to a long-term conflict?\nThe US State Department has approved two weapons deals with Saudi Arabia worth $5.75 billion: $5 billion for 10,000 Boeing-made precision bomb kits and $750 million for Honeywell tank engines. The package also includes a comparable number of unguided bombs, making it one of the largest US-Saudi defense deals since the Iran war began.\nThe purchase indicates Riyadh is preparing to resume its war against the Houthis, with Saudi-backed mercenaries conducting ground operations inside Yemen while Saudi warplanes provide air support, the Weichert Report argues.\n\ud83d\udcca Oil prices will only go up\nSaudi Arabia\u2019s previous war effort failed to defeat Ansar Allah and instead strengthened its resilience. Now, backed by defense pacts [with Turkey and Pakistan, ](https://t.me/geopolitics_prime/73198)Riyadh believes it is better positioned to renew the war. Reports about Syrian mercenaries on the ground suggest Turkish involvement, while Donald Trump\u2019s backing for Saudi Arabia\u2019s July strike on Sanaa signals Washington\u2019s support for further regional escalation.\nBut the consequences will extend far beyond Yemen. The Weichert Report predicts the escalation will close [the Bab el-Mandeb Strait](https://t.me/geopolitics_prime/72095), potentially permanently, and pull Africa deeper into the conflict. The resulting disruption to Red Sea shipping could choke Saudi oil exports, while renewed Houthi strikes on Saudi energy infrastructure could further destabilize global [oil markets.](https://t.me/geopolitics_prime/74250)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T20:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -747,27 +1380,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9Iran releases footage showing the interception and destruction of a US MQ-1 drone over the Strait of Hormuz by its advanced air defense systems.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T17:21:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
     },
     {
       "title": "Telegram",
