@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-09-08T18:07:53.802970+00:00",
+  "generated_at": "2026-09-08T21:12:25.240985+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDallas, TX, Wednesday, September 9, 2026 through Thursday, September 10, 2026 Local\nFacility: ZFW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/08/2026",
+      "location": "ZFW TX",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPuyallup, WA, Friday, September 11, 2026 through Sunday, September 27, 2026 Local\nFacility: ZSE",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/08/2026",
+      "location": "ZSE WA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nBrunswick, GA, Monday, September 14, 2026 through Friday, October 2, 2026 Local\nFacility: ZJX",
@@ -79,7 +117,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -98,7 +136,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -308,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 NEW: Iran launched another attack against U.S. Navy vessels on Monday that the U.S. military has not publicly acknowledged, following ballistic missile attacks against an American aircraft carrier and guided-missile destroyer over the weekend, though no U.S. ships were hit, WSJ reports.\nU.S. officials say the attacks have raised concerns that Iran is employing increasingly sophisticated weapons and could be receiving assistance from China or Russia in locating American warships.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T20:38:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Yemeni ballistics & drones were launched at Saudi Arabia; still unknown if there were impacts",
       "source": "Telegram",
       "source_type": "telegram",
@@ -317,13 +374,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -337,60 +393,24 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "A third American drone is being tracked, again in the same location.\nIt seems they are trying to locate the captured Dive LD AUV to destroy it & prevent it from being in Iranian hands.",
+      "publisher": "Clash Report",
+      "text": "NEW: Iran launched a second wave of missile attacks on U.S. Navy ships within three days, but none of the American vessels were hit. \nThe strikes are raising concern in Washington because Iran appears to be using more advanced missiles capable of targeting moving ships.\nU.S. officials are also examining whether China or Russia may be helping Iran locate American warships.\nSource: WSJ",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T16:02:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Moments ago, Iran\u2019s air defenses shot down a second American MQ-1C \u2018Gray Eagle\u2019 drone above the Strait of Hormuz",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T15:51:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: As part of Operation Economic Outcast, the U.S. Department of Treasury has sanctioned every civilian Iranian airline",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T15:48:05+00:00",
+      "timestamp": "2026-09-08T20:17:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -398,38 +418,19 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "CENTCOM Spokesperson says the drone malfunctioned more than a day before Iran's announcement, was an \"older model,\" and carried no classified sensors or sensitive data. \nWashington hasn't confirmed Iran actually recovered it or that it's a Dive-LD.",
+      "text": "German AfD co-leader Tino Chrupalla on Ukraine:\nWe are producing drones in Germany that are being used to launch attacks into the Russian hinterland, and we reject that.\nWe have always said \u2014 and this is also in our party program \u2014 no arms deliveries to crisis regions and war zones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T18:02:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Footage shows Iranian air defenses intercepting and destroying a U.S. MQ-1 drone over the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T17:26:07+00:00",
+      "timestamp": "2026-09-08T19:49:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -500,6 +501,45 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7 \u2014 Wall Street Journal: Iran launched a second wave of missile attacks on U.S. Navy ships within three days, but none of the American vessels were hit. \n\u27a1\ufe0f The strikes are raising concern in Washington because Iran appears to be using more advanced missiles capable of targeting moving ships.\n\u27a1\ufe0f U.S. officials are also examining whether China or Russia may be helping Iran locate American warships.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T20:24:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 Tasnim News Agency: U.S. forces targeted an Iranian oil tanker with a missile approximately four miles from Kharg Island.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T19:35:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014WATCH: IRGC released footage showing the interception of a U.S. MQ-1 drone over the Strait of Hormuz today.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
@@ -509,110 +549,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 BREAKING: Ansar Allah (the Houthis) attacked the Jazan refinery in southern Saudi Arabia using ballistic missiles and drones.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T16:59:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 JUST IN: The U.S. Treasury Department has imposed sanctions on all Iranian civilian airlines.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T16:10:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 NEW: The IRGC announced that it had intercepted an MQ-1 drone over the skies of the Strait of Hormuz.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T15:45:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\u2757\ufe0f BREAKING: IRGC Navy:\nOur fighters managed to intercept and seize one of the U.S. military\u2019s latest intelligent unmanned submarines at the entrance to the Strait of Hormuz in a complex operation based on intelligence and operational support early this morning. Images of the vessel will be released within hours.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T15:40:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Initial Reports of missile launched from Iran to Strait of Hormuz\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T12:17:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -769,6 +713,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia\u2019s return to war in Yemen could permanently shut Bab el-Mandeb, ignite Africa\nAnsar Allah (the Houthis) has carried out a large-scale military operation targeting Saudi Aramco facilities in Abha, Najran, the Economic City, and Jizan, as well as [the King Khalid Air Base in Khamis Mushait.](https://t.me/geopolitics_prime/74235)\nThe attack was in retaliation for 121 airstrikes across Marib, Al-Bayda, Hodeidah, Taiz, and Al-Jawf, launched by Saudi Arabia, according to Ansar Allah.\nMeanwhile, Saudi proxy forces supported by the kingdom\u2019s airpower have vowed to seize Sanaa.\n\ud83d\udc41 Saudi proxy advance on Al-Jawf and Al-Bayda\nOn September 7, fighting intensified in Taiz, Al-Jawf, and Al-Bayda, along key routes toward Houthi-held Sanaa. Ansar Allah said it repelled an offensive in Al-Jawf, inflicting significant casualties on pro-Saudi forces and [destroying military equipment.](https://t.me/geopolitics_prime/74216)\nAl-Jawf is strategically important because it borders Saudi Arabia and provides a potential corridor toward Saada, the Houthis\u2019 main stronghold, according to Al Jazeera.\nAl-Bayda is important for its central position in Yemen, linking eight governorates \u2013 four in the north and four in the south \u2013 and making it a key route for the movement of forces and supplies.\n\ud83e\ude96 War is expanding: are Saudis engaging African mercs?\nEarlier, unconfirmed reports claimed Saudi Arabia had deployed more than 30,000 troops from South Sudan, 10,000 from Somalia, and Syrian mercenaries into northern Yemen for a major, air-backed offensive on Sanaa.\nIf confirmed, the deployment would signal that Riyadh resumed its use of foreign ground forces in Yemen. Sudan previously contributed up to 30,000 troops to the Saudi-led coalition, according to a senior Sudanese military official in 2019, during the war that began in 2015 and largely subsided after[ the 2022 ceasefire.](https://t.me/geopolitics_prime/72131)\nIs Saudi Arabia up to a long-term conflict?\nThe US State Department has approved two weapons deals with Saudi Arabia worth $5.75 billion: $5 billion for 10,000 Boeing-made precision bomb kits and $750 million for Honeywell tank engines. The package also includes a comparable number of unguided bombs, making it one of the largest US-Saudi defense deals since the Iran war began.\nThe purchase indicates Riyadh is preparing to resume its war against the Houthis, with Saudi-backed mercenaries conducting ground operations inside Yemen while Saudi warplanes provide air support, the Weichert Report argues.\n\ud83d\udcca Oil prices will only go up\nSaudi Arabia\u2019s previous war effort failed to defeat Ansar Allah and instead strengthened its resilience. Now, backed by defense pacts [with Turkey and Pakistan, ](https://t.me/geopolitics_prime/73198)Riyadh believes it is better positioned to renew the war. Reports about Syrian mercenaries on the ground suggest Turkish involvement, while Donald Trump\u2019s backing for Saudi Arabia\u2019s July strike on Sanaa signals Washington\u2019s support for further regional escalation.\nBut the consequences will extend far beyond Yemen. The Weichert Report predicts the escalation will close [the Bab el-Mandeb Strait](https://t.me/geopolitics_prime/72095), potentially permanently, and pull Africa deeper into the conflict. The resulting disruption to Red Sea shipping could choke Saudi oil exports, while renewed Houthi strikes on Saudi energy infrastructure could further destabilize global [oil markets.](https://t.me/geopolitics_prime/74250)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T20:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel\u2019s Galilee land grab: Ruthless demographic engineering and Palestinian erasure\nAs elections approach, Israel\u2019s Zionists have trained their sights on the Galilee, reports +972. \n[After Gaza\u2019s ](https://t.me/geopolitics_prime/74175)destruction,[ West Bank annexation frenzy,](https://t.me/geopolitics_prime/73946) Jerusalem\u2019s erasure of [Palestinian presence,](https://t.me/geopolitics_prime/73285) and [the Negev\u2019s demolitions,](https://t.me/geopolitics_prime/71325) the same machinery now targets Palestinian citizens inside[ Israel\u2019s 1948 borders. ](https://t.me/geopolitics_prime/540830)\nThe old Zionist [doctrine of \u201cJudaization\u201d](https://t.me/geopolitics_prime/59272) is back in full force.\nFrom the early years of the Zionist state, large-scale land confiscations, tight restrictions on the expansion of Arab towns, and the establishment of Jewish settlements were used to disrupt Palestinian territorial continuity and entrench Jewish control over the land.\nThat policy never ended. \n\ud83d\udd34 Arab communities still control only about 3.4% of land within the Green Line\n\ud83d\udd34 Building permits take roughly eight years - more than three times longer than in Jewish localities, and master plans are routinely frozen or reduced\nTo breathe fresh life into the land grab, in mid-August, the right-wing outlet HaKol HaYehudi published a fabricated \u201cexpose\u201d titled \u201cThe Khamaisi Plan.\u201d \nIt transformed the public, official work of Palestinian urban planner Prof. Rassem Khamaisi into an alleged secret plot for an Arab \u201ctakeover from within.\u201d \nOrdinary master plans and housing needs were used to concoct an alleged threat of strategic encirclement of Jewish communities aimed to cut off the north.\nThe campaign rapidly escalated:\n\u27a1\ufe0f Knesset member Ohad Tal (Religious Zionism) declared \u201cJudaization of the Galilee is a Zionist and national goal\u201d\n\u27a1\ufe0f Party candidate Tzvika Mor demanded an immediate freeze on all Arab expansion plans plus new Jewish settlements guarded by the military\n\u27a1\ufe0f Yesha Council head Omer Rahamim urged replicating the West Bank model of first seizing land, then formalizing settlement \n\u27a1\ufe0f Finance Minister Bezalel Smotrich released an AI video openly gloating over the project: \u201cYes, we\u2019re Judaizing\u201d\nPalestinian planners and architects are highlighting the hypocritical double standard: Jewish communities \u201cexpand\u201d and \u201csettle,\u201d while Arab ones are framed as \u201cinvading.\u201d \nIn the Negev, Benjamin Netanyahu\u2019s butcher, National Security Minister Itamar Ben-Gvir, boasted of 5,700 demolitions in 2025. \nGalilee is now staring at a future with dwindling homes, fewer jobs, weaker local authorities, and ever-deeper poverty.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T18:59:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcf9Iran releases footage showing the interception and destruction of a US MQ-1 drone over the Strait of Hormuz by its advanced air defense systems.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -778,89 +760,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude0fKiev air defenses: Another 'success story' with smoke in the background\nUkrainian officials can count the interceptions. But the cameras can count the smoke.\n\u201cEverything was shot down\u201d, they said \u2014 until the smoke started rising.\nRussian Geran drones reportedly hammered military warehouses and logistics facilities across Kiev, leaving the Ukrainian capital with another day of fires and explanations.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T16:02:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7US Navy\u2019s newest underwater drone became Iran\u2019s latest trophy\nThe IRGC Navy says it has seized one of the US military\u2019s most advanced unmanned underwater systems near the Strait of Hormuz in what it called a complex intelligence operation.\nThe captured platform is the Dive-LD autonomous submarine developed by Anduril Industries, delivered to the US Navy in 2025.\nThe system is designed for long-duration underwater missions, with capabilities including seabed mapping, surveillance, mine detection and underwater infrastructure inspection.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T14:55:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\udca3 Temporary ceasefire clock hits zero: Russian missiles return to Kiev\nJust as Donald Trump\u2019s negotiators left the Ukrainian capital, Russia launched a large overnight strike wave targeting Ukrainian military and energy infrastructure, including:\n\ud83d\udd34 Vasylkov airbase, fuel depot, and SBU radio intelligence center\n\ud83d\udd34 Khimtransagro military cargo distribution hub\n\ud83d\udd34 Ukrspetsystems warehouse complex\n\ud83d\udd34 Element UA drone manufacturer\nUkrainian forces were forced to rely again on Patriot air defense systems, which, as Volodymyr Zelensky rightfully noted, aren\u2019t very effective.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T13:18:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee2\ud83d\udcb5 Oil prices surge to $100 amid intensified Houthi retaliation\nGlobal crude benchmarks Brent and WTI have approached the $100-per-barrel mark after Houthi strikes on Saudi Aramco\u2019s oil facilities near the Yemen border on Monday brought production to a halt.\nThe strikes targeted the industrial city of Jazan, where refineries previously produced upwards of 400,000 barrels per day, in what the Houthis described as retaliation for the Saudi blockade of Yemen\u2019s ports and airports.\nIn recent months, the Houthis have significantly intensified their retaliation campaign against Saudi Arabia, including:\n\ud83c\udf0f Targeting Saudi Aramco oil refineries and energy facilities\n\ud83c\udf0f Imposing a maritime embargo on Saudi vessels in the Red Sea\n\ud83c\udf0f Intensifying strikes on military and aviation infrastructure, including Abha airport and King Khalid Air Base\nThe unfolding conflict with the Houthis adds to Saudi Arabia's long list of problems triggered by the outbreak of the Iran war in late February, during which Saudis decided to ally with the US-Israeli aggressors.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T11:47:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
