@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:42:55.796103+00:00",
+  "generated_at": "2026-09-08T00:43:56.893462+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -173,25 +173,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMorristown, NJ, Friday, September 4, 2026 through Monday, September 7, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/03/2026",
-      "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: WARK05\r",
       "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2262\r\nIssue Time: 2026 Sep 07 2001 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Sep 07 2000 UTC\nValid To: 2026 Sep 08 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -308,6 +289,83 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni ballistic missiles and drones targeted an Aramco storage and distribution site in Abha, Saudi Arabia",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T23:52:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 Footage of the Yemeni missiles recorded by Bangladeshi workers in Saudi Arabia",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T23:44:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Insane footage of a drone impact (or a low altitude interception) in Khamis Mushait, KSA",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T23:38:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemen\u2019s Ansarallah are carrying out a large scale ballistic missile and drone attack against King Khalid Airbase and Abha International Airport in Saudi Arabia",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T23:27:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 Sameee Al-Sabri, Yemen's Saudi-backed PLC Deputy Defense Minister:\n\u2018The decision has been made to retake Sanaa from the Houthis. There are surprises we will not reveal now. We will be the ones to end this war.\u2019",
       "source": "Telegram",
       "source_type": "telegram",
@@ -364,82 +422,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces, Ansarallah, have released images of targeting Saudi-backed PLC troop concentrations and supply hubs in the Al-Wadi\u2019ah camp with ballistic missiles and precision-guided artillery rockets",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T13:34:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Jazan Aramco refinery is on fire as a result of Yemeni drone strikes",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T12:36:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "There are some indications that while the main underground sections of Ali Taher complex have been cleared, the hill still retains a Hezbollah presence.\nIntermittent Israeli airstrikes against ridges and bushy areas are not just paranoia, Hezbollah\u2019s fighters have likely left behind a substantial amount of boobytraps & some hidden soldiers.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T12:13:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Ansarallah (Houthi) ballistic missiles, drone, and rocket systems targeted the advancing PLC forces in Al-Jawf",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T11:46:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Israeli National Security Minister Itamar Ben-Gvir:\nIt's time for the State of Israel to publicly recognize that the Malvinas Islands are Argentine territory under occupation, which the British violently steal from the Argentine people. \nThe British are not content with merely occupying the territory; they also carry out oil drilling there and steal the money from the Argentine people.\nI call upon Prime Minister Benjamin Netanyahu to recognize Argentina's sovereignty over the Malvinas Islands and to impose sanctions on Great Britain as long as the occupation continues.",
       "source": "Telegram",
@@ -457,6 +439,25 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Iran touts ballistic missile and warns it will take preemptive action against threats](https://apnews.com/article/iran-strait-hormuz-war-washington-shipping-missile-563212b3d68eb50ac3e16e18dd2e6e01)\nIran state media says a ballistic missile with improved capabilities demonstrates Tehran's shifting stance toward taking preemptive action against threats. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/iran-strait-hormuz-war-washington-shipping-missile-563212b3d68eb50ac3e16e18dd2e6e01)\nAmir-hussein Radjy,Cara Anna | apnews\u200b.com \u2022 Sep 7, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T22:56:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -493,6 +494,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u2014 Plumes of smoke reported over Jizan Oil Refinery after Yemeni drone and missile attack.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T23:39:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u2014 Yemeni ballistic missiles en route to Jizan Oil Refinery.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-07T23:36:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -690,7 +729,27 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83d\udde3 Ben-Gvir calls on Netanyahu to recognize Malvinas as Argentine territory\nIsraeli National Security Minister Itamar Ben-Gvir has called on Prime Minister Benjamin Netanyahu to officially recognize Argentina's sovereignty over the Malvinas (Falkland) Islands, branding the British presence there a \"violent\" occupation.\nHe also called on Netanyahu to impose sanctions on Great Britain \"as long as the occupation continues.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Houthis launch largest attack on Saudi Arabia in years\nYemen's Ansarallah forces have launched a large-scale ballistic missile and drone attack against strategic targets across Saudi Arabia \u2014 the most extensive operation targeting the kingdom in years, according to local reports.\nTargets include King Khalid Airbase, Abha International Airport, and ARAMCO facilities, such as a bulk plant in Abha and a refinery in Jazan.\n\ud83d\udcf9 Multiple videos circulating online show potential impacts on the sites. The scale and coordination of the attack suggest a significant escalation in Houthi capabilities \u2014 striking deep into Saudi territory at multiple locations simultaneously.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-08T00:08:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83d\udde3 Ben-Gvir calls on Netanyahu to recognize Malvinas as Argentine territory\nIsraeli National Security Minister Itamar Ben-Gvir has called on Prime Minister Benjamin Netanyahu to officially recognize Argentina's sovereignty over [the Malvinas (Falkland) Islands,](https://t.me/geopolitics_prime/74141) branding the British presence there a \"violent\" occupation.\nHe also called on Netanyahu to impose sanctions on Great Britain \"as long as the occupation continues.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -755,44 +814,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-07T16:29:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd14 Ansar Allah\u2019s crucial Bab al-Mandab gambit behind push against Saudi-backed forces\nAnsar Allah (aka the Houthis) is seeking to isolate the port of Mokha, currently held by pro-Saudi forces, while pushing toward territory overlooking the Bab al-Mandab Strait, one of the world\u2019s key maritime gateways linking the Red Sea to the Gulf of Aden.\n\ud83d\udc41 Mokha and Yemen\u2019s west coast\n\ud83d\udccdStrategically located on Yemen\u2019s western coast near the Bab al-Mandab Strait, the port city of Mokha serves as a key gateway to the Red Sea.\n\ud83c\udf0fThe Houthis\u2019 current objective appears to center on the critical corridor linking Taiz \u2013 major parts of which are also controlled by Saudi-backed forces \u2013 with Mokha, according to the Weichart Report.\n\ud83c\udf0f West of Taiz, fighting has centered on Al Kaqhah, Maqbanah, and Jabal Habashi.\n\ud83c\udf0fBy completely seizing the mountainous district of Jabal Habashi, Ansar Allah would be able to monitor and target all the main supply routes serving the Saudi-backed mercenary forces in the area, effectively strangling them and isolating the territory they control from the Houthi-controlled side.\nSaudi-backed forces are fighting back \u2013 but paying a steep price in equipment, funding, and lives. Reports from September 5\u20136 described dozens of deaths, with some sources putting military casualties on both sides at as many as 300 \u2013 underscoring the intensity of the fighting.\n\ud83e\ude96 Their resistance is driven by the fact that Saudi Arabia is now routing its oil exports through pipelines to ports on the Red Sea, allowing tankers to bypass the Strait of Hormuz closed by Iran.\nIn July, Ansar Allah [announced a naval blockade](https://t.me/geopolitics_prime/72474) of Saudi Arabia in the Bab al-Mandab Strait, following the targeting by Saudi-backed forces of a Mahan Air Airbus A340 carrying a high-ranking Houthi delegation, as well as an attack on Sana\u2019a airport.\nAnsar Allah is pushing to seize Yemen\u2019s western coast, tightening its grip on the Bab al-Mandab Strait. Combined with Iran\u2019s resistance in the Strait of Hormuz, this could further pressure the US-Israeli coalition and its allies, while expanding Houthi leverage over the Red Sea coast facing Africa \u2013 another key theater in the broader Middle Eastern power struggle.\n\u2694\ufe0f Ansar Allah vs. Saudi-backed forces\nWestern estimates put Ansar Allah\u2019s standing force at more than 200,000 fighters, with tens of thousands more reportedly available through the Popular Committees.\nIts Saudi-backed adversaries are estimated at around 500,000 personnel, but they are dispersed across a vast territory and the figure is difficult to verify. The force has long suffered from \u201cghost soldiers,\u201d fragmented command structures, and chronic salary delays, with commanders reportedly inflating troop numbers to divert funds.\nBy contrast, Ansar Allah operates under a more centralized and ideologically cohesive command. This disparity in organization and cohesion may prove more decisive than raw numbers \u2013 and could allow the Houthis the ability to further consolidate their position around Bab al-Mandab, military experts claim.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T14:59:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udcccIran creates new restricted zone in Strait of Hormuz\nThe area will stretch all the way from the US blockade into the Persian Gulf, Iran's Supreme National Security Council secretary Mohsen Rezaei announced.\nThe maps of a new Iran-managed corridor through Iranian and Omani waters, through which the strait's traffic will be obliged to pass, have already been agreed upon and will be signed soon, Rezaei added.\nHe also insisted that Iran will commit to the opening of the Strait of Hormuz only upon cessation of US threats and attacks.\nIran shut down unsupervised traffic through the Strait of Hormuz shortly after the US and Israel launched a joint attack on the Islamic republic in a bid to overthrow the Iranian government.\nAll vessels that attempt to navigate the waterway without following the route and regulations approved by Iran can become targets of punitive strikes.\nThe US attempted to mirror this move by imposing its own naval blockade of Iran and attacking Iranian ships, even threatening to impose a 20% fee for all cargo shipped through the strait.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-07T12:01:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
