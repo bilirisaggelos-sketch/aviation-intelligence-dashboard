@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T16:24:02.111627+00:00",
+  "generated_at": "2026-09-09T19:24:45.778585+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -174,25 +174,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/06/2026",
-      "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
@@ -212,14 +193,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, September 9, 2026 through Friday, September 11, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
-      "timestamp": "09/05/2026",
-      "location": "ZTL GA",
+      "timestamp": "09/06/2026",
+      "location": "ZNY NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -364,13 +345,13 @@
     },
     {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "text": "Two die at Moldovan border as Russia-Ukraine drone war rages\nThree deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "text": "Two die at Moldovan border as Russia-Ukraine drone war rages\nFive deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-09T16:01:54+00:00",
+      "timestamp": "2026-09-09T18:53:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -421,53 +402,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: An Iranian \u2018Kheybar Shekan\u2019 missile directly impacts after evading Patriot missiles",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T00:56:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 WATCH: The IRGC Aerospace Force has uploaded footage of targeting U.S. warships in the Gulf of Oman and Arabian Sea with missiles",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T23:45:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Turkish Air Force pilots training under the Eurofighter Typhoon procurement agreement with the UK Government have completed terminology training and begun flight training.",
+      "text": "Massive fire erupts at Sochi port, Russia, following reported Ukrainian drone attacks.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T14:41:24+00:00",
+      "timestamp": "2026-09-09T18:59:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -481,22 +422,21 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A Panama-flagged tanker carrying about 2 million barrels of Iraqi fuel oil was hit by a drone in Iraqi waters, sparking a fire. \nNo casualties were reported among its 22 crew.\nSource: Reuters",
+      "text": "A plane carrying Zelensky was \u201calmost hit\u201d by a drone while taking off from Moldova en route to Oslo, Norwegian Prime Minister Jonas Gahr St\u00f8re said.\n\u201cHis flight was almost hit by a drone when it was taking off from Moldova,\u201d St\u00f8re told Norwegian broadcaster NRK, adding: \u201cThat is the reality he lives in.\u201d\nZelensky arrived in Oslo to attend the funeral of Norway\u2019s King Harald V and later met St\u00f8re to discuss European air defence cooperation.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T13:34:16+00:00",
+      "timestamp": "2026-09-09T18:50:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -571,142 +511,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Cruise missiles launched from Sirik in southern Iran toward the Strait of Hormuz.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T15:54:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf6The Iraqi ISOF released footage of airstrikes targeting ISIS positions in Salah al-Din province using.F-16c fighter jets",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T15:28:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Footage shows a Houthi anti-tank guided missile striking a convoy of Saudi-backed PLC vehicles near Lubnat Camp in Yemen\u2019s Al-Jawf Governorate, destroying at least one truck and killing those inside.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T13:57:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ufe0f\ud83c\uddfa\ud83c\uddf8 Two Iraqi officials have reported that a Panama-flagged oil tanker was targeted by a drone in Iraqi territorial waters.\nThe attack caused a fire on the tanker but resulted in no casualties.\n \nAccording to Iraqi officials, the tanker was carrying two million barrels of Iraqi fuel oil",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T13:16:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\udde6 EXPOSED: Israel\u2019s secret war in Ukraine \u2014 the truth they didn\u2019t want you to see!\ud83d\udea8\nFor 4 YEARS, they told you Israel was \"neutral.\"\nBut behind closed doors?\ud83d\udc47 \nSatellite intel, drone tactics, specialists training battalions that include neo-Nazis, Chabad figures tied to special-forces deployments, and Azov fighters treated in Jerusalem.\n\ud83d\udcd1 READ THE FULL UNREDACTED STORY \nhttps://t.me/geopolitics_prime/72268",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T09:39:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd34\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Tonight, Iran fired 20 ballistic missiles toward the Al-Azraq area in Jordan, with Jordan reporting 18 interceptions and two missiles landing in uninhabited areas. Footage shows a very large Patriot response, while OSINT estimates suggest roughly 60\u2013100+ interceptors may have been launched, though no official total has been released. That would equal about 3\u20135 defensive missiles for every incoming Iranian missile. At roughly $4\u20135 million per PAC-3 MSE, a 60-interceptor response would cost around $240\u2013300 million, while 100 launches would push the total toward $400\u2013500 million. A barrage of that size would also consume a notable share of already strained Patriot inventories in a single engagement.\nThis is not sustainable.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T01:27:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Al Jazeera Correspondent: New missile interceptions reported east of Jordan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T01:09:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -846,6 +650,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf5\ud83c\uddf0\ud83e\udd14Pakistan's warning to the Houthis: rhetoric or readiness?\nFollowing Houthi attacks on Saudi Arabia \u2014 including a major oil refinery that injured 73 people \u2014 Pakistan's Defense Minister Khawaja Asif stated that the Mecca Defense Pact (Pakistan, Saudi Arabia, Turkey) would be activated if the conflict spills over into Saudi territory. The pact treats an attack on one as an attack on all.\nBut is Pakistan truly prepared for military confrontation with the Houthis?\n\u2694\ufe0f Arguments for intervention\nDecades of strategic ties bind Pakistan and Saudi Arabia. Asif noted that Pakistan already assisted Riyadh during the early stages of the Yemen conflict in 2014. Some reports even suggest that Islamabad has considered limited airstrikes against Houthi positions under the pact's framework.\n\ud83d\udc41 Arguments against intervention\nHowever, significant obstacles remain. Pakistan's navy lacks power-projection capabilities in the Red Sea, being geared primarily toward coastal defense. Direct conflict with Iran-backed Houthis would endanger Pakistan's delicate relationship with Tehran. Domestically, parliament has historically opposed deeper involvement in Yemen, and a military escalation could fuel internal political instability.\n\ud83d\udee1The most likely scenario: defense, not offense\nPakistan's response would likely focus on protecting Saudi territory rather than launching offensive operations. Asif himself stressed that the pact is defensive in nature. \nExpected measures include:\n\ud83c\udf0fBolstering air defenses (Pakistan already has HQ-9 systems, JF-17 jets, and drones in the kingdom)\n\ud83c\udf0fExpanding the existing military contingent (media reports cite 8,000 troops, with potential for further increase) to serve as advisors or border guards\n\ud83d\udcac Deterrence first\nPakistan's leadership ultimately prioritizes deterrence over direct engagement. Asif explicitly stated that the three allies \"should not respond with aggression to aggression,\" expressing hope that the alliance's combined military weight alone would dissuade the Houthis.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T19:13:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\uddfe\ud83c\uddf9\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Syria's security turns into Turkey-Israel tug of war\nA rare high-level meeting between Syrian Foreign Minister Asaad al-Shaibani and Mossad chief Roman Gofman opened a direct channel between Damascus and Tel Aviv \u2014 but also exposed a deeper problem: Syria is caught between two competing powers.\nDays before the meeting, Israel struck the Abu al-Duhur Air Base in northwestern Syria, hammering runways and hangars. Damascus insisted the facility was simply being repaired, not prepared for Turkish forces. Israel saw any potential Turkish military presence there as a red line \u2014 and bombed it anyway.\nThree realities on the ground:\n\ud83d\udd34 Turkey wields significant influence in post-Assad Syria \u2014 politically and militarily\n\ud83d\udd34 Israel enforces its red lines with strikes and incursions, refusing to limit its freedom of action in southern Syria\n\ud83d\udd34 Syria is caught in the middle \u2014 negotiating with both, but unable to satisfy either without triggering the other\n\u00a0\n\ud83d\udcac \"Syria's political decision rests in Ankara because Damascus cannot escape Turkish influence, while the security decision rests in Tel Aviv. If those limits are crossed, bombing becomes the answer,\" a Syrian official told the Cradle.\u00a0\nThe Sharaa government says it has already accepted many Israeli security demands and that a written framework was reached through US-mediated talks. Israel, however, continues to reject restrictions on its military freedom of action and refuses to treat the territory it controls in southern Syria as negotiable.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T17:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddfa\ud83c\uddf8 The US confirms loss of advanced underwater drone to Iran\u2014then rushes to downplay it\nThe US has confirmed that Iran captured an advanced American Dive-LD underwater drone\u2014but was quick to add that the vehicle was \u201cessentially dead in the water\u201d before Tehran got its hands on it.\nThe drone \u201cmalfunctioned more than a day\u201d before Iran captured it, CENTCOM spokesperson Navy Capt. Tim Hawkins argued.\n\ud83d\udc49 Iran\u2019s Revolutionary Guards Corps (IRGC) Navy earlier touted a complex intelligence operation to capture the 2.7-ton Dive-LD, designed for reconnaissance and mine-countermeasure missions, near the Strait of Hormuz.\nIRGC spokesman Brigadier General Hossein Mohebbi stressed that the seizure showed the strength of Iran\u2019s surveillance capabilities in the strategic waterway. \u201cDominance over the Persian Gulf belongs to our young technology specialists,\u201d he underscored.\nFor the US, Iran\u2019s capture of an advanced American unmanned system is yet another awkward reminder that Tehran is proving far harder to intimidate \u2014 let alone defeat \u2014 than Washington likes to admit.\nAfter months of costly military actions and growing pressure on US weapons stocks, the idea that Iran can simply be overwhelmed by American firepower looks increasingly questionable. Meanwhile, US forces have already burned through large portions of key missile inventories, with some estimates putting Patriot interceptor depletion at up to three-fifths and THAAD at around half. Replenishing some of these systems could take years.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -899,27 +741,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25\ud83d\udcb5 US burns half a billion dollars in Patriot interceptors in a single night\nIran launched 25\u201340 missiles at Al-Azraq Air Base in Jordan. US air defenses responded with massive Patriot salvos \u2014 OSINT counts suggest 60+ interceptors, some estimates even exceeding 100.\nThe cost calculus is staggering:\n\ud83d\udd36 Each PAC-3 MSE interceptor:\u00a0$4\u20135 million\n\ud83d\udd36 60 interceptors:\u00a0$240\u2013300 million\n\ud83d\udd36 100 interceptors:\u00a0$400\u2013500+ million\n\ud83d\udd36 Half a billion dollars \u2014 expended in minutes\nDuring the 2nd and 3rd waves of Iranian missile attacks, Patriot batteries experienced almost no interception attempts. They did not launch a single interceptor.\nThe implications are alarming for the US:\n\ud83c\udf0f The batteries were\u00a0exhausted\u00a0\u2014 unable to keep up with the pace of incoming fire\n\ud83c\udf0f They\u00a0ran out\u00a0\u2014 stockpiles depleted faster than anticipated\n\ud83c\udf0f Or they were\u00a0damaged\u00a0\u2014 cluster submunitions from Iran's missiles degraded their capabilities\nMonths of high-intensity use have already burned through a significant share of US PAC-3 inventory. Production can't keep pace with consumption at this rate \u2014 and the bill is mounting.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T06:02:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
     },
     {
       "title": "Telegram",
