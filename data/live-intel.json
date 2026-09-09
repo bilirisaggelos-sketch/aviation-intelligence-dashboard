@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T19:24:45.778585+00:00",
+  "generated_at": "2026-09-09T21:53:28.506398+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -193,25 +193,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/06/2026",
-      "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nManhattan, NY, Wednesday, September 9, 2026 through Thursday, September 10, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
@@ -245,6 +226,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA30\r",
+      "text": "Space Weather Message Code: WATA30\r\nSerial Number: 282\r\nIssue Time: 2026 Sep 09 2101 UTC\r\n\r\nCANCEL WATCH: Geomagnetic Storm Category G2 Predicted \nCancel Serial Number: 281\nOriginal Issue Time: 2026 Sep 08 1702 UTC\nCancelled Level Predicted:\nSep 08 : None (Bellow G1) Sep 09 : None (Bellow G1) Sep 10 : None (Bellow G1) \nConditions no longer warrant watch criteria.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-09 21:01:32.307",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -325,25 +325,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2264\r\nIssue Time: 2026 Sep 08 1727 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\nExtension to Serial Number: 2263\nValid From: 2026 Sep 07 2000 UTC\nNow Valid Until: 2026 Sep 08 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-08 17:27:15.710",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
       "text": "Two die at Moldovan border as Russia-Ukraine drone war rages\nFive deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
       "source": "BBC",
@@ -351,7 +332,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-09T18:53:15+00:00",
+      "timestamp": "2026-09-09T20:28:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Alerts in Saudi Arabia; Yemeni drones are targeting Abha and Khamis Mushait",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf1\ud83c\udde7/\ud83c\uddee\ud83c\uddf1 NEW: Drone alerts in Northern Israel\nUPDATE: It was a false alarm.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T14:33:51+00:00",
+      "timestamp": "2026-09-09T21:26:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,12 +365,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi-backed PLC forces seem to have captured the Lubnat Camp from Ansarallah in Al-Jawf Governorate, Al-Hazm direction\nThey also managed to capture this same camp two days ago in the morning, and then immediately lost it in the afternoon.\nIt remains to be seen whether the PLC forces can hold onto their newly captured position; the frontline in Yemen is dynamic and evolving.",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 BREAKING: Large amounts of Saudi-backed PLC forces are withdrawing from Hays, the last major city on the road to Al-Khokha, on the western Yemeni coast\nAnsarallah (the Houthis) carried out heavy ballistic missile and drone strikes against troop concentrations around the city the past few hours, but it has not yet been captured.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T11:38:37+00:00",
+      "timestamp": "2026-09-09T19:46:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -511,6 +492,64 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Israeli Home Front Command: Air raid sirens sounded following a suspected drone infiltration in the areas of Ghajar and Kfar Yuval along the border with Lebanon.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T21:27:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Satellite images document damage to Aramco facilities and King Khalid Air Base in southern Saudi Arabia following their targeting by ballistic missiles and drones by the Houthis",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T20:50:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Cruise missiles launched from Sirik, southern Iran, toward the Strait of Hormuz.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T20:23:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -650,6 +689,26 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25Houthis wreak havoc on Saudi-backed mercs along the entire front\nSaudi Arabia\u2019s July 13 attack on Sanaa International Airport is proving a catastrophically costly mistake, not only boomeranging into direct [counterstrikes on the kingdom\u2019s energy infrastructure](https://t.me/geopolitics_prime/74240) and [shutting down its Red Sea oil exports](https://t.me/geopolitics_prime/74250), but threatening to culminate in the total collapse of its Yemeni puppet state.\nFrom the northeast to the southwest across a front stretching hundreds of kilometers, fierce battles are underway across nearly a dozen areas in the provinces of Al-Jawf, Marib, Al-Bayda, Ad-Dhale, Al-Hudaydah and Taiz.\n\ud83d\udd34 In Taiz, Houthi forces have been attacking the massive Khalid bin Walid garrison overlooking Mokha Port \u2013 a vital chokepoint for Saudi puppet government supplies. Regional media reported Wednesday that the Houthis had captured the garrison\n\ud83d\udd34 The Houthi media office posted footage of its warriors\u2019 attacks on merc pickups and MRAPs, captured and killed enemy troops, and the wreckage of downed enemy drones in Al-Jawf\n\ud83d\udd34 In Saudi Arabia proper, the Houthis launched fresh attacks targeting Aramco sites\n\ud83d\udd34 Houthi Yemeni Armed Forces spokesman Yahya Saree reported Wednesday that Saudi warplanes had carried out over fifty airstrikes in a 12-hour period in the provinces of Al-Jawf, Marib, Taiz, Al-Hodeidah, Saada and Al-Bayda. These attacks will not go unanswered and unpunished, he warned\n\ud83d\udc49The fighting is by far the biggest escalation in Yemen since the 2022 ceasefire. Time is on the Houthis\u2019 side, with the fighters controlling a majority of the country\u2019s population centers, and deeply entrenched in mountain hideouts impenetrable even to attacks by hostile superpowers. They also enjoy military near-self-sufficiency and innovation, and tolerances for attrition far higher than their soft, moneyed Gulf enemies [thanks to their faith](https://t.me/geopolitics_prime/66077).\nThe Houthis\u2019 direct tribal ancestors have kept Yemen a graveyard of empires since at least 26 BC. The Saudis and their Gulf allies had better get in line if they want to join the list.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T20:48:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddf5\ud83c\uddf0\ud83e\udd14Pakistan's warning to the Houthis: rhetoric or readiness?\nFollowing Houthi attacks on Saudi Arabia \u2014 including a major oil refinery that injured 73 people \u2014 Pakistan's Defense Minister Khawaja Asif stated that the Mecca Defense Pact (Pakistan, Saudi Arabia, Turkey) would be activated if the conflict spills over into Saudi territory. The pact treats an attack on one as an attack on all.\nBut is Pakistan truly prepared for military confrontation with the Houthis?\n\u2694\ufe0f Arguments for intervention\nDecades of strategic ties bind Pakistan and Saudi Arabia. Asif noted that Pakistan already assisted Riyadh during the early stages of the Yemen conflict in 2014. Some reports even suggest that Islamabad has considered limited airstrikes against Houthi positions under the pact's framework.\n\ud83d\udc41 Arguments against intervention\nHowever, significant obstacles remain. Pakistan's navy lacks power-projection capabilities in the Red Sea, being geared primarily toward coastal defense. Direct conflict with Iran-backed Houthis would endanger Pakistan's delicate relationship with Tehran. Domestically, parliament has historically opposed deeper involvement in Yemen, and a military escalation could fuel internal political instability.\n\ud83d\udee1The most likely scenario: defense, not offense\nPakistan's response would likely focus on protecting Saudi territory rather than launching offensive operations. Asif himself stressed that the pact is defensive in nature. \nExpected measures include:\n\ud83c\udf0fBolstering air defenses (Pakistan already has HQ-9 systems, JF-17 jets, and drones in the kingdom)\n\ud83c\udf0fExpanding the existing military contingent (media reports cite 8,000 troops, with potential for further increase) to serve as advisors or border guards\n\ud83d\udcac Deterrence first\nPakistan's leadership ultimately prioritizes deterrence over direct engagement. Asif explicitly stated that the three allies \"should not respond with aggression to aggression,\" expressing hope that the alliance's combined military weight alone would dissuade the Houthis.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -713,25 +772,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-09T09:05:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Russia hits Ukraine's war supply hubs overnight \n\ud83d\udd36 In Kiev, Russian forces hit a warehouse that made drone parts and unmanned boats. \n\ud83d\udd36 In Nikolaev and the surrounding area, they struck several big logistics centers \u2014 places like Nika-Tera, Metro, Nova Poshta \u2014 that were being used to store fuel and military equipment. They also knocked out a power station that kept the port running.\n\ud83d\udd36 At the port of Nikolaev itself, four more fuel tanks and another weapons warehouse were destroyed.\n\ud83d\udd36 Meanwhile, a cargo ship carrying military gear was hit on its way to Odessa. And at the Starokozache border crossing, they took out logistics facilities used to bring in military supplies.\nBasically, Russia is systematically cutting off Ukraine's supply lines \u2014 hitting them where they store, move, and receive military equipment.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T07:34:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
