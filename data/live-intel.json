@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T11:55:11.000262+00:00",
+  "generated_at": "2026-09-09T16:24:02.111627+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -174,7 +174,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -193,7 +193,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -363,14 +363,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
-      "text": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv\nPresident Zelensky describes the daytime drone attack in Ukraine's capital as a \"new page in Russian degradation\"",
+      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
+      "text": "Two die at Moldovan border as Russia-Ukraine drone war rages\nThree deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-08T17:10:54+00:00",
+      "timestamp": "2026-09-09T16:01:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -378,6 +378,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Alerts in Saudi Arabia; Yemeni drones are targeting Abha and Khamis Mushait",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T14:33:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -412,13 +431,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -441,128 +461,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 NEW: The Jordanian Army claims 20 missiles were launched at Jordan, 18 of them were intercepted and 2 landed in \u2018open areas\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T23:36:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 WATCH: Israeli military censorship has permitted the release of footage from the 12-Day War, showing two Iranian ballistic missiles directly impacting the Haifa refinery",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T23:21:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 IRGC Statement (2):\n\u2018In response to the aggression by the Great Satan against Iranian oil tankers, in the operation codenamed \u2018Ya Haidar Al-Karrar\u2019, the IRGC Aerospace Force targeted the USS Delbert D. Black (DDG-119) and USS John Paul Jones (DDG-53) with ballistic missiles. As a result, the ships suffered significant damage.\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T23:14:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddef\ud83c\uddf4 MUST WATCH: Insane footage of multiple Iranian ballistic missiles directly impacting Muwaffaq Salti Airbase, Jordan",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T23:03:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "NOTE: Iranian statements always use the term \u2018Al-Azraq Base\u2019 to refer to Muwaffaq Salti Airbase. \nIran refuses to use the name Muwaffaq Salti, which is the name of a Jordanian fighter jet pilot killed by Israel during a patrol in 1966.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T22:56:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 WATCH: The IRGC Aerospace Force has released footage of targeting U.S. bases in Jordan with ballistic missiles\nKheybar Shekan, Qadr, Emad, and Qadr-H (cluster warhead) missiles were used in tonight\u2019s attack.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T22:48:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukraine's Intelligence Quietly Eroding Russia\u2019s Ability to Bomb Its Cities\nUkraine\u2019s SBU is using intelligence-led long-range drone strikes to damage scarce Tu-95 bombers, one of the hardest parts of Russia\u2019s long-range strike arsenal to replace.\n[READ MORE](https://clashreport.com/world/articles/ukraine-s-intelligence-quietly-eroding-russia-s-ability-to-bomb-its-cities-iag2bol9y2)",
+      "text": "Turkish Air Force pilots training under the Eurofighter Typhoon procurement agreement with the UK Government have completed terminology training and begun flight training.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T10:07:32+00:00",
+      "timestamp": "2026-09-09T14:41:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -572,6 +477,26 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A Panama-flagged tanker carrying about 2 million barrels of Iraqi fuel oil was hit by a drone in Iraqi waters, sparking a fire. \nNo casualties were reported among its 22 crew.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T13:34:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -652,6 +577,83 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Cruise missiles launched from Sirik in southern Iran toward the Strait of Hormuz.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T15:54:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf6The Iraqi ISOF released footage of airstrikes targeting ISIS positions in Salah al-Din province using.F-16c fighter jets",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T15:28:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Footage shows a Houthi anti-tank guided missile striking a convoy of Saudi-backed PLC vehicles near Lubnat Camp in Yemen\u2019s Al-Jawf Governorate, destroying at least one truck and killing those inside.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T13:57:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ufe0f\ud83c\uddfa\ud83c\uddf8 Two Iraqi officials have reported that a Panama-flagged oil tanker was targeted by a drone in Iraqi territorial waters.\nThe attack caused a fire on the tanker but resulted in no casualties.\n \nAccording to Iraqi officials, the tanker was carrying two million barrels of Iraqi fuel oil",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T13:16:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\udde6 EXPOSED: Israel\u2019s secret war in Ukraine \u2014 the truth they didn\u2019t want you to see!\ud83d\udea8\nFor 4 YEARS, they told you Israel was \"neutral.\"\nBut behind closed doors?\ud83d\udc47 \nSatellite intel, drone tactics, specialists training battalions that include neo-Nazis, Chabad figures tied to special-forces deployments, and Azov fighters treated in Jerusalem.\n\ud83d\udcd1 READ THE FULL UNREDACTED STORY \nhttps://t.me/geopolitics_prime/72268",
       "source": "Telegram",
       "source_type": "telegram",
@@ -680,12 +682,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -708,117 +712,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 WATCH: An Iranian \u2018Kheybar Shekan\u2019 missile directly impacts after evading Patriot missiles",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf8\ud83c\uddfe/\ud83c\uddf1\ud83c\udde7/\ud83c\uddee\ud83c\uddf7 BREAKING: Israeli Prime Minister Benjamin Netanyahu said Israel now exercises \u201cunprecedented total control\u201d over the area from Mount Hermon to the Yarmouk and westward to the Mediterranean Sea.\n\u201cWe will not allow any terrorist army to establish itself on our borders.\u201d\n\u201cThe main task is to defeat the regime in Iran. We are very close to it.\u201d\nNetanyahu said Israel remains committed to bringing down what he described as the wider Iranian \u201caxis.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T01:01:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "NOTE: Iranian statements always use the term \u2018Al-Azraq Base\u2019 to refer to Muwaffaq Salti Airbase. \nIran refuses to use the name Muwaffaq Salti, which is the name of a Jordanian fighter jet pilot killed by Israel during a patrol in 1966.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T23:58:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 The moment several missiles were launched from Iran toward U.S. bases in Jordan a short while ago.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T22:09:20+00:00",
+      "timestamp": "2026-09-09T13:55:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 A large number of interceptor missiles have been launched over Jordan.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T22:02:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Additional footage of Iranian cluster missiles in the skies over Jordan.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T21:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 \u2014 Missiles launched from Iran toward U.S. bases.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T21:52:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -831,44 +738,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-09T10:53:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Footage of missile launches from Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T22:00:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 According to reports, Iranian missiles were launched from 12 different cities across the country, and this is considered one of the heaviest missile attacks Iran has launched in a good while.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T21:56:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1043,12 +912,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
