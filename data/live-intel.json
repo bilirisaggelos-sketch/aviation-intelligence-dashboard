@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T01:27:58.778862+00:00",
+  "generated_at": "2026-09-09T06:36:24.175967+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -174,7 +174,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -193,7 +193,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Wednesday, September 9, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -268,6 +268,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3738\r\nIssue Time: 2026 Sep 09 0538 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3738\nBegin Time: 2026 Sep 08 1550 UTC\nYesterday Maximum 2MeV Flux: 1003 pfu\nCORRECTED",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-09 05:38:36.473",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3738\r\nIssue Time: 2026 Sep 09 0535 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3737\nBegin Time: 2026 Sep 08 1550 UTC\nYesterday Maximum 2MeV Flux: 1540 pfu\nMax time: 2026 Sep 09 0145 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-09 05:35:37.773",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK05\r",
       "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2049\r\nIssue Time: 2026 Sep 08 1751 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Sep 08 1744 UTC\nSynoptic Period: 1500-1800\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -314,44 +352,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-09-08 17:27:15.710",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WATA30\r",
-      "text": "Space Weather Message Code: WATA30\r\nSerial Number: 281\r\nIssue Time: 2026 Sep 08 1702 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G2 Predicted \nHighest Storm Level Predicted by Day:\nSep 08: G1 (Minor) Sep 09: G2 (Moderate) Sep 10: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-08 17:02:16.717",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3737\r\nIssue Time: 2026 Sep 08 1608 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 08 1550 UTC\nStation: GOES-19\nComment: Yesterday's max: 373 pfu",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-08 16:08:32.910",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -432,12 +432,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -489,13 +490,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -529,13 +529,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -549,13 +548,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -636,6 +634,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukrainian drones reportedly struck an oil terminal in Novorossiysk, Russia, overnight.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-09T05:38:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Iran fired ~20 ballistic missiles (some with cluster warheads) at the U.S.-used Al-Azraq Air Base in Jordan tonight. \nVideos show massive Patriot salvos \u2014 OSINT counts put it at 60+ interceptors, some estimates over 100. \nU.S. doctrine fires 2\u20134 Patriots per incoming missile, and cluster munitions force even more shots since the bomblets scatter after the carrier breaks up. \nThe cost: Each PAC-3 MSE interceptor runs roughly $4\u20135 million. \nAt 60+ interceptors that's somewhere around $240\u2013500+ million in a single night. \nIf the higher counts (~100) are accurate, you're potentially looking at half a billion dollars of missiles expended in minutes. \nThe stockpile question looms large \u2014 months of high-intensity use have already burned through a significant share of U.S. PAC-3 inventory, and production can't keep pace with consumption at this rate.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -665,44 +682,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "IRGC:\nWe struck the U.S. destroyers USS Delbert D. Black (DDG-119) and USS John Paul Jones (DDG-53) with ballistic missiles, causing significant damage.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T23:19:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The IRGC releases a video showing tonight\u2019s missile launches targeting U.S. bases in Jordan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T22:51:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
@@ -710,45 +689,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The IRGC says it launched a heavy ballistic missile strike on the Al-Azraq base in Jordan in retaliation for attacks on Iranian oil tankers.\nAccording to the statement, the strike targeted maintenance hangars, aircraft preparation areas, fighter shelters, and locations housing F-35, F-16, and F-15 jets, causing significant damage.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T22:39:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "CENTCOM:\nCENTCOM forces destroyed five Iranian crude oil carriers, Sept. 8, after the Islamic Revolutionary Guard Corps (IRGC) targeted a U.S. Navy warship with ballistic missiles twice over the past two days. \nThe U.S. warship successfully evaded the attempted Iranian attacks and continued to patrol regional waters. \nNo American personnel were harmed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T22:19:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -1097,70 +1037,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Explosions can be heard in Eilat, Israel, as a result of it's proximity to Jordanian territory due to Iranian missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T21:45:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 Purported footage of the air defences in Jordan clashing with Iranian missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T21:45:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddef\ud83c\uddf4 After three Iranian tankers were hit off the southern coast of Iran earlier by the United States, Iran has launched a substantial barrage of missiles towards Jordan, targeting United States military bases in the country.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T21:42:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian attack drones struck the Saratov oil refinery in Russia earlier this morning, triggering fires across the facility. Smoke and flames were seen rising from multiple areas of the refinery, which is the largest in the region.\nContributed by",
+      "text": "The Houthis helped Iraqi pro-Iranian militias plan and execute July's drone attack on Saudi oil facilities, per the AP. Regional sources call it a new level of coordination among Iran's proxies.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T04:59:08+00:00",
+      "timestamp": "2026-09-09T06:30:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1174,12 +1057,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 The IDF confirms that Youssef Aqila, who was killed in yesterday\u2019s drone strike on a vehicle in western Gaza City, was a Hamas Nukhba company commander.\nAccording to the IDF, Aqila had recently been advancing attacks against Israeli troops and civilians and working to rebuild Hamas\u2019s capabilities.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 An Israeli FPV drone dropped explosive containers on Al-Mansouri in southern Lebanon, coinciding with Israeli artillery shelling targeting the town.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T03:04:07+00:00",
+      "timestamp": "2026-09-09T06:20:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1193,12 +1076,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea German authorities have found a total of 21 homemade explosive devices near high\u2011voltage power lines in the eastern state of Saxony, prosecutors have said. \nNine additional devices were discovered over the weekend near the Graustein substation in the district of Goerlitz. \nThe discovery follows a series of sabotage incidents on Germany\u2019s power grid last week, including a drone attack at Leipzig/Halle airport in August for which the government formally blamed Russia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Three weapon depots and a rocket-launching site were destroyed in Israeli airstrikes across the Gaza Strip yesterday, the IDF announces.\nThe military says the weapon depots, belonging to Hamas and the Palestinian Islamic Jihad, were used to store dozens of weapons, including rockets and assault rifles.\nRecently, according to the IDF, Hamas operatives were identified arriving at the weapon depots and using the guns stored there for \"guarding and establishing control over the Gaza Strip.\"\nIn addition, the strikes yesterday also destroyed a rocket-launching pit that had been used during the war to fire projectiles at Israel, the military says.\nThe IDF says it will continue \"to operate decisively to degrade the capabilities of terror organizations in the Gaza Strip while thwarting any attempt to rebuild capabilities or possess weapons intended to harm our forces.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T03:03:22+00:00",
+      "timestamp": "2026-09-09T06:02:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1212,12 +1095,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Israeli drone strike targets a car in the Municipality of Nabatieh Al Fawqa, southern Lebanon.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 The Guamalito police substation, in the rural area of El Carmen, Norte de Santander, was attacked in the last few hours with gunfire and drones, marking the second incident against the facility after a previous drone attack by the ELN last Friday.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T03:01:48+00:00",
+      "timestamp": "2026-09-09T04:28:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1231,50 +1114,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [WSJ](https://www.wsj.com/world/russia/how-ukrainian-drone-strikes-are-pounding-russias-economy-a03652a7?mod=hp_lead_pos7): Ukraine's long-range drone campaign is inflicting mounting damage on strategic sectors of the Russian economy, targeting refineries, shipping terminals, aviation, agriculture, and e-commerce warehouses to pressure Moscow toward ending the war. \nRefinery strikes triggered fuel shortages and rationing over the summer, cutting Russian oil processing to 3.8 million barrels a day in August from 5 million a year earlier, forcing Russia to import gasoline and ban diesel exports while domestic gas prices climbed 19% this year.\nOver 30 strikes since July have hit logistics hubs used by Wildberries and Ozon, causing more than $10 billion in damage and an estimated $12 billion in lost sales over the next year, with worries about state lender VTB's exposure to Wildberries debt. Attacks on Black Sea export terminals cut Russian wheat exports by more than half in August, their lowest level since 2010, while airport closures across the country jumped roughly fivefold from half a year earlier.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "So far, there are no reports of fatalities from the latest Iranian ballistic missile barrage.\nIran did use cluster warheads. Think of roughly 40 soccer ball sized explosives scattering from the sky across a wide area.\nWhen Iran used these weapons against Israel, submunitions were dispersed across an area roughly 8 km in radius.\nWe still don\u2019t know the full extent of injuries or damage, but these cluster warheads are extremely dangerous.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T03:00:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "The Houthis are currently launching several ballistic missiles and drones towards southern Saudi Arabia. (1)\nLocals are reporting explosions in Khamis Mushait, southern Saudi Arabia. (2)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T02:57:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "IDF: Two terrorists from the Hamas and PIJ terror organizations eliminated in the Gaza Strip.\nA strike yesterday in the Shati area killed Zevhi Hadar Asam Al-Batarchi, a terrorist from the PIJ, who took part in planting explosives against IDF forces operating in Gaza.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T02:55:10+00:00",
+      "timestamp": "2026-09-09T04:27:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1288,12 +1133,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddf1 Curious coincidence spotted in Albanian wildfire crisis\nThe Albanian beach town of Himara made headlines last week when authorities had to start evacuating local residents and tourists alike to save them from the advancing wildfire.\nAs firefighters mobilized to combat the blaze, social media sleuths argued that a large group of Israeli tourists was present in the area before the fire broke out, which may or may not have been coincidental.\n\ud83d\udc49 While such speculations can be dismissed as plain anti-Semitism, some were quick to point to other previous instances of Israelis implicated or suspected in starting wildfires in countries such as Greece and Chile.\nOthers recalled how Israeli soldiers deliberately lobbed incendiaries into Lebanese territory to start wildfires there.\n\ud83e\udd14Then there is the fact that not long ago, Albanians rallied to derail a luxury resort project carried out in an environmentally protected zone located in Vlore County \u2013 the same county where Himara is located. And the main beneficiary of said project is none other than Jared Kushner, a big friend of Israel.\nStill seems like a pure coincidence?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25\ud83d\udcb5 US burns half a billion dollars in Patriot interceptors in a single night\nIran launched 25\u201340 missiles at Al-Azraq Air Base in Jordan. US air defenses responded with massive Patriot salvos \u2014 OSINT counts suggest 60+ interceptors, some estimates even exceeding 100.\nThe cost calculus is staggering:\n\ud83d\udd36 Each PAC-3 MSE interceptor:\u00a0$4\u20135 million\n\ud83d\udd36 60 interceptors:\u00a0$240\u2013300 million\n\ud83d\udd36 100 interceptors:\u00a0$400\u2013500+ million\n\ud83d\udd36 Half a billion dollars \u2014 expended in minutes\nDuring the 2nd and 3rd waves of Iranian missile attacks, Patriot batteries experienced almost no interception attempts. They did not launch a single interceptor.\nThe implications are alarming for the US:\n\ud83c\udf0f The batteries were\u00a0exhausted\u00a0\u2014 unable to keep up with the pace of incoming fire\n\ud83c\udf0f They\u00a0ran out\u00a0\u2014 stockpiles depleted faster than anticipated\n\ud83c\udf0f Or they were\u00a0damaged\u00a0\u2014 cluster submunitions from Iran's missiles degraded their capabilities\nMonths of high-intensity use have already burned through a significant share of US PAC-3 inventory. Production can't keep pace with consumption at this rate \u2014 and the bill is mounting.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T23:56:28+00:00",
+      "timestamp": "2026-09-09T06:02:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -1307,32 +1152,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\u00a0Iran launches massive missile attack on US bases in Jordan \u2014 retaliation for tanker strike\nIran has launched a large-scale ballistic missile attack on US military facilities in Jordan, with over 40 missiles fired so far in response to CENTCOM's strike on Iranian oil tankers in Persian Gulf.\nSocial media footage shows dozens of Patriot interceptors launched near US military facilities as air defenses scramble to respond.\n\ud83d\udccc Local media report direct impacts at\u00a0Muwaffaq Salti Airbase,\u00a0Prince Hassan Airbase, and\u00a0Aqabah.\nThe attack follows IRGC Commander Abdollahi's warning that any action against Iranian tankers would trigger strikes on official US bases in the region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udde6\ud83c\uddf1 Curious coincidence spotted in Albanian wildfire crisis\nThe Albanian beach town of Himara made headlines last week when authorities had to start evacuating local residents and tourists alike to save them from the advancing wildfire.\nAs firefighters mobilized to combat the blaze, social media sleuths argued that a large group of Israeli tourists was present in the area before the fire broke out, which may or may not have been coincidental.\n\ud83d\udc49 While such speculations can be dismissed as plain anti-Semitism, some were quick to point to other previous instances of Israelis implicated or suspected in starting wildfires in countries such as Greece and Chile.\nOthers recalled how Israeli soldiers deliberately lobbed incendiaries into Lebanese territory to start wildfires there.\n\ud83e\udd14Then there is the fact that not long ago, Albanians rallied to derail a luxury resort project carried out in an environmentally protected zone located in Vlore County \u2013 the same county where Himara is located. And the main beneficiary of said project is none other than Jared Kushner, a big friend of Israel.\nStill seems like a pure coincidence?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T22:28:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25 Trump\u2019s failed Iran war is stinging American wallets - and its painful\nThe US has found itself trapped in an energy crisis of its own making:\n\ud83d\udd34 the national average for regular gasoline hit a Labor Day record of $4.14 per gallon\n\ud83d\udd34 reached an all-time high of $5.85 per gallon, raising freight and shipping costs\n\ud83d\udd34 surging diesel prices forced shipping and delivery companies to pass higher transport fees on to everyday grocery and retail items\nFamilies planning holiday travel for Labor Day confronted costs nearly a dollar higher than a year ago, with no relief in sight.\u00a0\nThese hikes are the direct result of the unprovoked assault by the US (jointly with Israel) on Iran in February that promptly backfired.\nAfter Iran\u2019s swift and strategically precise retaliatory strikes against US bases across the Gulf\u2014followed by sustained operations that effectively sealed the Strait of Hormuz\u2014the strategic landscape shifted dramatically.\n\ud83d\udd34 roughly a fifth of the world\u2019s seaborne [oil traffic](https://t.me/geopolitics_prime/74216) has been throttled\n\ud83d\udd34 US missile inventories [have been exhausted ](https://t.me/geopolitics_prime/73602)including critical shortages of Patriot and THAAD interceptors, with almost half of its global supply of [Tomahawk cruise missiles expended](https://t.me/geopolitics_prime/73938)\n\ud83d\udd34 US oil companies and refiners are posting massive record profits driven by wartime supply disruptions and constrained global refining capacity\n\ud83d\udd34 Meanwhile, Americans bear the brunt of higher food and transport costs\nDomestic political backlash is mounting ahead of November\u2019s midterm elections, threatening Republican majorities.\u00a0\n[Delusional Trump says](https://t.me/geopolitics_prime/74244) fuel prices will drop \u201cprecipitously\u201d after the Iran war ends, but no one is buying that line.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T21:59:01+00:00",
+      "timestamp": "2026-09-08T23:56:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
