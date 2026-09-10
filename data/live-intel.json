@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-10T17:16:05.895500+00:00",
+  "generated_at": "2026-09-10T19:59:10.952846+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 11, 2026 through Saturday, September 12, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/10/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nShanksville, PA, Friday, September 11, 2026 Local\nFacility: ZOB",
@@ -327,33 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: Iran's Islamic Revolutionary Guard Corps (IRGC) Navy announced it targeted a US-operated Saildrone \u2014 an unmanned surface vessel (USV) used for maritime surveillance and reconnaissance \u2014 at the entrance to the Strait of Hormuz.",
+      "text": "Zelensky:\nWe signed the beginning of our drone co-production, and 30% of these drones will go to Ukraine immediately \u2014 to the battlefield, to our people, to our soldiers \u2014 to save our children and our families.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T17:06:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian weapons and military advice helped Yemen\u2019s Houthis seize the strategic Red Sea port city of Mocha.\nSources said Iran\u2019s Revolutionary Guards helped guide the Houthi offensive, supplied weapons and personnel, and urged the group to step up attacks on Saudi Arabia.\nSaudi-backed Yemeni forces sought more air support, but Riyadh mostly provided logistics, intelligence and weapons to avoid escalation and Houthi drone attacks.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T16:54:55+00:00",
+      "timestamp": "2026-09-10T19:10:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -367,12 +365,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: Iran is resuming limited ballistic missile production underground, assembling weapons from stockpiled parts since U.S.-Israeli strikes damaged factories and a naval blockade restricts fuel imports. \nProduction is far below pre-war levels, but Tehran still holds a usable arsenal and is building new underground sites to protect against future attacks. \nSource: WSJ",
+      "text": "Satellite imagery of Al-Azraq air base in Jordan shows what appears to be a strike on a fighter shelter and possible runway craters from Iran's latest ballistic missile barrage. \nThe imagery corroborates CBS reporting that eight F-15s took light damage (returned to service) and one A-10 lost a wing.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T16:49:59+00:00",
+      "timestamp": "2026-09-10T18:42:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -386,12 +384,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: Russian Shahed drones strike a shopping center in Pavlohrad, killing 3 people and injuring over 30.",
+      "text": "WATCH: Myanmar resistance forces (PDF) hit the country's main military airbase near Mandalay with FPV kamikaze drones, releasing first-person footage showing strikes on Russian-made Yak-130 jets parked under blue shelters. \nFour aircraft reportedly hit, two assessed destroyed.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T15:20:51+00:00",
+      "timestamp": "2026-09-10T18:36:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine hit Russia's Novorossiysk naval base \u2014 the Black Sea Fleet's main remaining port \u2014 with a combined drone and missile strike overnight.\nThe confirmed damage list is significant.\nThe General Staff says three warships hit (minesweeper Zheleznyakov, Kalibr-carrying frigate Admiral Essen, and landing ship Pyotr Morgunov) plus fuel storage. \nUkrainian intelligence and OSINT add frigate Admiral Makarov, a Buyan-M missile ship (assessed inoperable), patrol ship Vasily Bykov, several missile boats, and two air defense radars near Gelendzhik. \nUkraine says a domestically built Neptune anti-ship missile hit Admiral Essen. \nSeparately, Ukraine struck Makhachkala port on the Caspian \u2014 a key Russia-Iran logistics hub. \nZelensky said Ukrainian forces hit eight Russian infrastructure sites \"from the Arctic to the Caspian\" in the same period. \nSatellite imagery from Exilenova+ shows fires and damage consistent with the claims. \nThis is the deepest sustained pressure on Russia's Black Sea Fleet since Ukraine forced the partial evacuation of Sevastopol.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T18:31:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Polish PM Tusk said he received a \"fairly precise\" CIA briefing from Director Ratcliffe on what's coming in the months ahead, and revealed that Polish and Ukrainian services jointly averted a direct threat to a Poland-Ukraine border crossing overnight. \nHe didn't specify the crossing or threat type. \nThis came a day after Russian drones hit the Ukraine-Moldova border crossing at Starokozache, killing two.\nTusk said Poland should expect similar provocations and that Russia is systematically targeting border infrastructure to weaken Ukraine economically. \nCIA Director Ratcliffe had visited Moscow and met Russian intelligence leadership in late August before briefing Poland's security coordinator.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T18:27:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -481,6 +517,84 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nPresident Trump announced this evening that Iran is trying to arm itself again with nuclear weapons. That is correct.\nAfter we destroyed its immediate capability to produce nuclear bombs, they are trying again.\nI pledge to you here, at the Western Wall, ahead of Rosh Hashanah: as long as I am Prime Minister, Iran will not have nuclear weapons.\nAt the same time, we are striking the Iranian axis\u2014not only very hard in the Gaza Strip, but also in Lebanon. We destroyed the Beaufort Ridge, and now we are dealing with the Ali Taher Ridge.\nMore to come.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T17:59:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\u26a1 Destruction of an American Unmanned Surface Vessel in the Strait of Hormuz\nThe IRGC Navy announced that it had targeted an American unmanned surface vessel\u2014specifically a Saildrone Explorer\u2014at the entrance to the Strait of Hormuz.\nThe vessel, bearing hull number 5838, was targeted while conducting a mission in the Strait of Hormuz.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T17:53:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7Jet and UAV activity over Kermanshah, near the Iraqi borders\nKermanshah Province",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T17:34:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah released footage showing the wreckage of a Saudi-operated Karayel armed reconnaissance drone that it says was downed over Hajjah Governorate earlier today.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T17:30:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u26a1 Yemen's Houthi fighters enter Al Mokha city as armed forces patrol the main streets, receiving a warm welcome from residents on the ground.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -500,25 +614,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Israeli Home Front Command: Air raid sirens sounded following a suspected drone infiltration in the areas of Ghajar and Kfar Yuval along the border with Lebanon.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-09T21:27:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 The public relations department of the IRGC reports that it destroyed an American Saildrone near Strait of Hormuz\nIran\u2019s Islamic Revolutionary Guard Corps says its Navy targeted and destroyed a U.S. unmanned Saildrone, near the entrance to the strategic Strait of Hormuz.\nThe IRGC said the USV drone was deployed as part of an \u201caggressive mission\u201d and warned that any hostile presence in the strait would be targeted.",
       "source": "Telegram",
@@ -532,7 +627,7 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "Clash Report",
+        "Alsaa Plus EN",
         "Geopolitics Prime",
         "Mediterranean Man"
       ],
@@ -750,7 +845,26 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25IRGC destroys US drone near Strait of Hormuz\nA US \u201cSea Drone\u201d was destroyed near the entrance of the Strait of Hormuz, the Islamic Revolutionary Guard Corps Navy said in a statement.\nThe drone, identified as hull number 5838, was targeted after entering the strategic waterway, with Iranian forces saying the operation prevented a hostile mission.\nThe IRGC declared that the Strait of Hormuz remains under its control and warned that any hostile presence in the area will be targeted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran doesn\u2019t have to sink a carrier to torpedo US war effort \u2013 a bloody nose would be enough\n\u00a0\nThe IRGC debuted its new Qasem Bassir long-range anti-ship ballistic missile last Saturday in a \u201ccombat test\u201d targeting the US Navy\u2019s defensive capabilities in real wartime conditions. The attack targeted the USS George Washington and a guided-missile destroyer.\nIRGC talk of live \u201ccombat testing\u201d on US vessels should send chills up CENTCOM planners\u2019 spines. The last such \u201ctests\u201d (Operations True Promise I through III) saw Iran inflict incremental amounts of pain on their enemies, methodically mapping out targets and defenses, and using increasingly [sophisticated weapons and tactics.](https://t.me/geopolitics_prime/59557)\n\u00a0\n\ud83e\udd14 Can Iran sink a carrier?\n\u00a0\nSinking a modern supercarrier is exceptionally difficult. In 2005, the Navy spent nearly a month trying to sink the decommissioned USS America using conventional weaponry, from JDAMs and Mavericks to Harpoon anti-ship missiles and Mark 48 torpedoes. After that failed, engineers had to mount explosive charges in and around the ship to finally sink the hull.\nStrikes involving one or more Qasem Bassir, Abu Mahdi, or even Fattah-2 missiles probably won\u2019t be enough to send a US carrier to the bottom of the sea, but they don\u2019t have to:\n\u00a0\n\ud83d\udd34 Carriers are the US\u2019s ultimate power projection tool: significant damage to their flight deck, aircraft complement, elevators, catapults, or arresting equipment would be enough to put them out of action.\n\ud83d\udd34 The warships are extremely finnicky. This spring, a massive laundry room fire and clogged pipes ultimately forced the USS Gerald Ford to quit the fight against Iran.\n\ud83d\udd34 Only 2-3 of the Navy\u2019s 11 ship carrier fleet are deployed at any one time, with 1-2 more available in an emergency. The rest are undergoing routine or deep maintenance, repairs and training. The US has already deployed four carriers in the 2026 war (Lincoln, Ford, Bush, Washington) and preparing a fifth (USS Roosevelt) to replace the Washington, stretching deployments beyond their absolute limits.\n\u27a1\ufe0f USS Stennis and Truman: in the middle of a multi-year overhaul. Unusable\n\u27a1\ufe0f USS Ford: stuck in structural repairs and deep resupply until at least mid-2027\n\u27a1\ufe0f USS Eisenhower, Vinson and Reagan: lack certification and airwings for immediate deployment\n\u27a1\ufe0f USS Nimitz: preparing for decommissioning and replacement by the new USS John F. Kennedy (whose commissioning has been delayed)\n\u00a0\nThis means if Iran successfully strikes even one of the carriers arrayed against it \u2013 slamming a missile or heavy drone into a flight deck, detonating aircraft, fuel or weaponry, or triggering a chain reaction that reaches deep into the ship\u2019s belly, it would be enough to put it out of action [until the end of the war.](https://t.me/geopolitics_prime/72904)\nThe carrier would instantly turn from a force multiplier into a burden \u2013 forcing the rest of its strike group, and other ships in CENTCOM\u2019s AOR, to come to its aid, and effectively crippling US offensive operations. Any other carrier groups would likely pull back from Iran to avoid targeting.\nWith American bases in the Persian Gulf on fire, the carrier would have to limp to Diego Garcia, Oman, Souda Bay or Singapore for immediate repairs, or Yokosuka, Washington State or Virginia for a deep overhaul.\n\u00a0\nMaybe Iran hasn\u2019t taken a carrier out of action yet is because they\u2019re master diplomats, reserving the option [for the next step up the escalation ladder? ](https://t.me/geopolitics_prime/74049)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T18:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25IRGC destroys US drone near Strait of Hormuz\nA US Saildrone was destroyed near the entrance of the Strait of Hormuz, the Islamic Revolutionary Guard Corps Navy said in a statement.\nThe drone, identified as hull number 5838, was targeted after entering the strategic waterway, with Iranian forces saying the operation prevented a hostile mission.\nThe IRGC declared that the Strait of Hormuz remains under its control and warned that any hostile presence in the area will be targeted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -762,7 +876,7 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "Clash Report",
+        "Alsaa Plus EN",
         "Geopolitics Prime",
         "Mediterranean Man"
       ],
@@ -787,25 +901,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 Deep state mouthpiece warns Ukraine war\u2019s outcome may be decided \u2018in next few months\u2019: here\u2019s why they\u2019re panicking\n\u00a0\nUkraine\u2019s air defenses are dwindling, Russia is \u201cmaking the most of it,\u201d and the coming months could prove \u201cdecisive\u201d in the war\u2019s outcome, says NYT guest contributor Rajan Menon \u2013 a card-carrying deep state Council on Foreign Relations and Carnegie Endowment analyst, congressional and intel aide.\nMenon\u2019s logic is simple:\n\ud83d\udd36 the Iran war has slashed America\u2019s Patriot interceptor missiles stocks by 65%, with Trump dangling and then reneging on a promise to allow Ukraine to build the missiles domestically\n\ud83d\udd36 Russia has \u201csignificantly\u201d ramped up its strikes, using new, upgraded missiles and jet-powered drones, targeting energy, [logistics, steel plants,](https://t.me/geopolitics_prime/74051) and Ukraine\u2019s Black Sea port grain-exporting economic lifelines.\nMenon\u2019s advice is, hang in there Ukraine, no matter how much more pain you have to endure (basically, the same old \u2018to the last Ukrainian\u2019 logic expressed by NATO elites since the start of the war).\nHis op-ed follows the media storm in a teacup around Trump\u2019s deployment of the Tweedledee and Tweedledum twins for urgent high-profile [\u2018peace talks\u2019 in Moscow and Kiev.](https://t.me/geopolitics_prime/74190)\nWhy is the West suddenly so desperate to freeze the conflict?\u00a0\n\u27a1\ufe0f Russian troops are in the process of creating two massive pockets of Ukrainian forces \u2013 [in the Donbass ](https://t.me/geopolitics_prime/73557)and Kharkov\n\u27a1\ufe0f Western support is falling (from ~$105B in 2024 to $85B in 2025; a further drop is expected in 2026)\n\u27a1\ufe0f the Europeans are facing growing problems financing the war, facing growing debt and deficits, austerity, and spiking inflation and energy costs, thanks to the twin shocks of the Ukraine and Iran crises\n\u27a1\ufe0f Ukraine\u2019s manpower crisis is accelerating (more and more people are fighting back against recruiter thugs roving city streets, and losses have prompted some EU members to draft plans to [deport military-age men](https://t.me/geopolitics_prime/73739))\n\u00a0\nRada MP Anna Skorokhod pointed out that the proposals Witkoff and Kushner brought with them to Kiev over the weekend had worse conditions than previous drafts, including constitutional changes and official recognition of territorial losses.\n\ud83d\udcac \u201cEvery subsequent deal for Ukraine will only be worse,\u201d because the country is losing people, territory and its economy, Zelensky\u2019s former press secretary Iuliia Mendel previously warned.\n[Oleksiy Arestovych,](https://t.me/geopolitics_prime/48753) another former Zelensky aide, said Ukraine missed a major opportunity by rejecting a peace deal in 2022, and is now reaping the democidal consequences.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T10:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
