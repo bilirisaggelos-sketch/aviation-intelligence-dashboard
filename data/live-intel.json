@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T09:13:17.032081+00:00",
+  "generated_at": "2026-09-10T13:40:32.425745+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,6 +230,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3739\r\nIssue Time: 2026 Sep 10 1306 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 10 1304 UTC\nStation: GOES-19\nComment: Yesterday's max: 1037 pfu",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-10 13:06:18.310",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA30\r",
       "text": "Space Weather Message Code: WATA30\r\nSerial Number: 282\r\nIssue Time: 2026 Sep 09 2101 UTC\r\n\r\nCANCEL WATCH: Geomagnetic Storm Category G2 Predicted \nCancel Serial Number: 281\nOriginal Issue Time: 2026 Sep 08 1702 UTC\nCancelled Level Predicted:\nSep 08 : None (Bellow G1) Sep 09 : None (Bellow G1) Sep 10 : None (Bellow G1) \nConditions no longer warrant watch criteria.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
       "source": "NOAA Space Weather",
@@ -306,33 +325,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5415\r\nIssue Time: 2026 Sep 08 1730 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5414\nValid From: 2026 Sep 07 0854 UTC\nNow Valid Until: 2026 Sep 09 0900 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-08 17:30:02.647",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Two die at Moldovan border as Russia-Ukraine drone war rages",
-      "text": "Two die at Moldovan border as Russia-Ukraine drone war rages\nFive deaths are reported in Ukraine and four in Russia as both sides launch new drone strikes.",
+      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
+      "text": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches\nThe new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-09T20:28:04+00:00",
+      "timestamp": "2026-09-10T04:43:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: A Yemeni ballistic missile directly impacted at King Khalid Airbase, Saudi Arabia, an hour ago",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Brent Crude Oil skyrockets to $105 per barrel, as the war with Iran continues to drag on",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T01:41:28+00:00",
+      "timestamp": "2026-09-10T12:38:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,12 +365,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 All clear for Abha and Khamais Mushait, KSA. It was a ballistic missile attack, results unclear.",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran has rebuilt its missile capabilities, and White House advisors have warned the war could last until 2029 \u2013 Bloomberg",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T01:01:58+00:00",
+      "timestamp": "2026-09-10T11:50:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -383,20 +383,96 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Alerts in Khamis Mushait and Abha, KSA\nYemeni ballistic missiles and drones are headed towards Saudi Arabia.",
+      "publisher": "Clash Report",
+      "text": "The family of Army Reserve Capt. Cody Khork is demanding the Army release its investigation into the March 1 Iranian drone strike in Kuwait that killed Khork and five other U.S. troops.\n\u201cMy son died unnecessarily,\u201d his mother, Stacey Khork, told CBS News.\nKhork, a force protection officer stationed at the Port of Shuaiba, had repeatedly warned commanders that Iran could target the position, his family said. \nSurvivors also told CBS News the unit had received intelligence about the threat and lacked adequate defenses and medical resources.\n\u201cThe general kept asking Cody to call an \u2018all clear,\u2019\u201d his father, Jim Khork, said. \u201cA captain can only tell the general \u2018no\u2019 so many times.\u201d\nThe Army completed its investigation in early July but has not publicly released the findings, saying families are still being briefed and asking for \u201cpatience.\u201d\nSource: CBS News",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T00:54:08+00:00",
+      "timestamp": "2026-09-10T13:39:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Attack Drone Nearly Struck Zelensky\u2019s Plane: Ukrainian Official\nA Ukrainian official says a jet-powered Shahed-type attack drone came close to Volodymyr Zelensky\u2019s aircraft in Moldova, prompting an airspace closure and an investigation.\n[READ MORE](https://clashreport.com/world/articles/attack-drone-nearly-struck-zelensky-s-plane-ukrainian-official-06w55sxrdxii)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T10:50:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "German Foreign Minister Wadephul:\nWith Leipzig, the threat from Russia has become particularly tangible. \nWe are seeing increasing Russian drone incidents and airspace violations in several of our member states on the eastern flank. \nWe must have no illusions: Russia is threatening us not only militarily on the eastern flank and is continuing its war of aggression against Ukraine relentlessly. \nWe are still seeing more hybrid attacks, cyberattacks, sabotage, disinformation and attacks on critical infrastructure.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T10:33:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "One Iranian Salvo May Have Cost US $500M in Patriot Interceptors\nDuring Iran\u2019s latest ballistic missile attack, the US launched an estimated 60 to 100 Patriot missiles within minutes, threatening interceptor stocks that are already critically low.\n[READ MORE](https://clashreport.com/defense/articles/one-iranian-salvo-may-have-cost-us-500m-in-patriot-interceptors-whlrcey4ir)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T09:24:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russia's Medvedev on NATO:\nI am not saying they should accept the Russian point of view, but they could simply assess what is happening \u2014 why we have these concerns, why we don't like it when a particular state joins NATO.\nI say: \"Our missiles are aimed at your cities, and your missiles are aimed at ours. If you move closer to us, the flight time becomes shorter and shorter.\" \n\"Why should we be happy about NATO coming closer?\" They all understand this, but they ignored our position.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T09:16:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -726,6 +802,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 Deep state mouthpiece warns Ukraine war\u2019s outcome may be decided \u2018in next few months\u2019: here\u2019s why they\u2019re panicking\n\u00a0\nUkraine\u2019s air defenses are dwindling, Russia is \u201cmaking the most of it,\u201d and the coming months could prove \u201cdecisive\u201d in the war\u2019s outcome, says NYT guest contributor Rajan Menon \u2013 a card-carrying deep state Council on Foreign Relations and Carnegie Endowment analyst, congressional and intel aide.\nMenon\u2019s logic is simple:\n\ud83d\udd36 the Iran war has slashed America\u2019s Patriot interceptor missiles stocks by 65%, with Trump dangling and then reneging on a promise to allow Ukraine to build the missiles domestically\n\ud83d\udd36 Russia has \u201csignificantly\u201d ramped up its strikes, using new, upgraded missiles and jet-powered drones, targeting energy, [logistics, steel plants,](https://t.me/geopolitics_prime/74051) and Ukraine\u2019s Black Sea port grain-exporting economic lifelines.\nMenon\u2019s advice is, hang in there Ukraine, no matter how much more pain you have to endure (basically, the same old \u2018to the last Ukrainian\u2019 logic expressed by NATO elites since the start of the war).\nHis op-ed follows the media storm in a teacup around Trump\u2019s deployment of the Tweedledee and Tweedledum twins for urgent high-profile [\u2018peace talks\u2019 in Moscow and Kiev.](https://t.me/geopolitics_prime/74190)\nWhy is the West suddenly so desperate to freeze the conflict?\u00a0\n\u27a1\ufe0f Russian troops are in the process of creating two massive pockets of Ukrainian forces \u2013 [in the Donbass ](https://t.me/geopolitics_prime/73557)and Kharkov\n\u27a1\ufe0f Western support is falling (from ~$105B in 2024 to $85B in 2025; a further drop is expected in 2026)\n\u27a1\ufe0f the Europeans are facing growing problems financing the war, facing growing debt and deficits, austerity, and spiking inflation and energy costs, thanks to the twin shocks of the Ukraine and Iran crises\n\u27a1\ufe0f Ukraine\u2019s manpower crisis is accelerating (more and more people are fighting back against recruiter thugs roving city streets, and losses have prompted some EU members to draft plans to [deport military-age men](https://t.me/geopolitics_prime/73739))\n\u00a0\nRada MP Anna Skorokhod pointed out that the proposals Witkoff and Kushner brought with them to Kiev over the weekend had worse conditions than previous drafts, including constitutional changes and official recognition of territorial losses.\n\ud83d\udcac \u201cEvery subsequent deal for Ukraine will only be worse,\u201d because the country is losing people, territory and its economy, Zelensky\u2019s former press secretary Iuliia Mendel previously warned.\n[Oleksiy Arestovych,](https://t.me/geopolitics_prime/48753) another former Zelensky aide, said Ukraine missed a major opportunity by rejecting a peace deal in 2022, and is now reaping the democidal consequences.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-10T10:04:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8 Russian drones hit Ukrainian gas stations in Kiev \nStrikes on refueling points are part of Russia's campaign against Ukraine's fuel infrastructure \u2014 supply lines for troops, vehicles, and generators.\nEvery hit makes it harder for Ukraine's war machine to keep moving.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -789,25 +884,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-10T02:40:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea\u2694\ufe0f Houthis advance westward \u2014 shelling Mokha, just 15 km from strategic port city\nAnsarallah forces continue their push along Yemen's western coast, engaging Saudi-backed mercenaries in fierce battles around Jabal Al-Nar.\n\ud83d\udd36 Local media reported that Houthis have already liberated the coastal town of\u00a0Al-Khukha, abandoned by Saudi coalition forces.\n\ud83d\udd36 Ansarallah is now shelling Saudi mercenaries in the port of\u00a0Mokha\u00a0with rocket artillery.\n\ud83d\udd36 If captured, Houthis will have\u00a0unrestricted control over the Bab Al-Mandab strait and the Red Sea.\nIn a significant political move, the President of the Houthi-led government has announced a\u00a0presidential pardon\u00a0to all Saudi-backed PLC forces currently fighting on the western coast \u2014 provided they lay down their arms and surrender to Ansarallah.\nThe Saudi coalition is in full retreat.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T00:02:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
