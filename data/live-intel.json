@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:50:03.183216+00:00",
+  "generated_at": "2026-09-11T23:08:50.397145+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -154,25 +154,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/06/2026",
-      "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3741\r\nIssue Time: 2026 Sep 11 0501 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3740\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 1391 pfu\nMax time: 2026 Sep 11 0455 UTC",
       "source": "NOAA Space Weather",
@@ -270,12 +251,32 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Large amounts of newly arrived Saudi reinforcements, including armored vehicles, trucks, and mercenaries have been targeted in eastern Al-Jawf Governorate with ballistic missiles \u2013 Saba News",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni ballistic missiles targeting King Fahd Airbase, Saudi Arabia",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T18:00:18+00:00",
+      "timestamp": "2026-09-11T23:04:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 The last six months for the Kingdom of Saudi Arabia:\n\u2014 Iran takes control of the Strait of Hormuz\n\u2014 Aramco facilities targeted by Iran's IRGC \n\u2014 Aramco facilities targeted by the Houthis\n\u2014 Houthis seize control of Bab el-Mandeb\n\u2014 Houthis imposed maritime embargo against Saudi Arabia\n\u2014 Crude output falls to lowest level since 1990\n\u2014 East-West pipeline shut down following drone attacks by Iraqi militias\n\u2014 Mecca Defence Alliance with Pakistan and T\u00fcrkiye proves ineffective (only condemnations)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T21:54:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -403,21 +404,42 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Video footage shows Ansar Allah (the Houthis) seizing anti-tank missiles belonging to the Saudi-backed PLC on the coastal front, following the capture of the area.\n\ud83d\udd34",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Likely ballistic missiles targeting Royal Saudi Air Force facilities:\n- King Khalid AB, east of Khamis Mushait\n- King Fahd AB, Taif",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T18:25:50+00:00",
+      "timestamp": "2026-09-11T23:07:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah missiles target King Fahd air base in Taif.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T23:02:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -618,44 +640,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-11T19:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udfd7\ud83d\udd2a\ud83d\udca5 Jet fuel can\u2019t melt steel beams: Evidence that the Twin Towers were brought down by bombs\n\u00a0\nControlled demolition is one of the most explosive theories surrounding the 9/11 terror attacks.\nFrom U of Alaska Fairbanks\u2019 painstaking four-year study on Building 7\u2019s destruction, to Architects & Engineers for 9/11 Truth\u2019s broader campaign asserting that jet fuel and office fires can\u2019t burn hot enough to cause a symmetrical, near-free-fall collapse of steel skyscrapers, [the controlled demolition theory](https://t.me/geopolitics_prime/54613) has credibility partly due to officials\u2019 obtuse refusal to even consider the idea.\n\ud83d\udc49 Thankfully, their control the narrative isn\u2019t complete.\nFrom an interview with toxic dust-covered first responders talking about \u201csecondary explosions\u201d inside one of the buildings (at least three of them), to analyses of amateur footage showing flashes of light blowing out window panes outside Building 7, to oddities about the way the planes slipped into the towers without any discernable loss to structural integrity, there is plenty of amateur footage out there debunking, or at least credibly challenging, the official narrative.\n\u203c\ufe0f Then there\u2019s the political aspect and motives.\nOn September 10, 2001, Defense Secretary Donald Rumsfeld revealed that the Pentagon lost track of $2.3T. The same day, the stock market processed ~45 times the average trading volume of put options on American Airlines and United Airlines, and saw a surge in call options in defense stocks. Larry Silverstein took out a massive insurance policy out on the WTC complex in the months prior.\n\ud83d\udd0d A New Jersey woman caught five \u2018Middle Eastern-looking\u2019 men sitting on the roof of their van watching the towers burn across the Hudson and celebrating. Authorities arrested them, discovering they were Israelis, and finding maps of the WTC, cash, boxcutters and trace amounts of explosives in their vehicle. After being deported to Israel, one of the men told local TV they were in [NYC \u201cto document the event.\u201d](https://t.me/geopolitics_prime/52620)\nIn the days and weeks after 9/11, retired Army General Wesley Clark visited the Pentagon, learning that the [Bush administration had greenlit an invasion of Iraq](https://t.me/geopolitics_prime/51409), and six Middle Eastern countries after that \u2013 none of them having anything to do with 9/11.\n\u27a1\ufe0f And now you know[ the rest of the story](https://t.me/geopolitics_prime/52569)\u2026\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T15:57:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udfa4\ud83c\udf0d BRICS summit in New Delhi: what to expect?\nThe BRICS summit opened in India on September 11, with leaders of member states already on the ground and sitting down with Indian PM Modi.\nIndia's chairmanship year has been anything but smooth: both for global geopolitics, and for BRICS members in particular.\nSo what challenges will the leaders of the Global South have to confront at this summit, and which of them are likely to make it into the final declaration? Geopolitics Prime has a receipt:\n\ud83c\udf0f Logistics and shipping. The world's key maritime corridors sit in BRICS hands: the Strait of Hormuz with Iran, the Suez Canal with Egypt, the Northern Sea Route with Russia. Each of them is a lifeline of international trade, and the global economy runs on these corridors. As the US scrambles to pull the Strait of Hormuz under its own control, the question is: how do BRICS nations guarantee the security of their trade routes and shipping lanes? The answer will be crucial both for the BRICS group frames and for the global markets.\n\ud83c\udf0f Energy supplies. The US tried to bar India from buying Russian oil, effectively launching a trade war, and failed. It tried to physically choke off Iranian oil sales, and failed again. Now is the time to build safeguards so that third-country interference can never paralyze energy trade within the BRICS group. China has a stake here too, with Trump forever threatening a fresh round of trade war \u2014 as does Brazil, geographically the closest BRICS member to the US.\n\ud83c\udf0f Reconciling Iran and the UAE. Because of US aggression against Iran and American muscle-flexing in the Persian Gulf, ties between two BRICS members, Iran and the UAE, have gone ice-cold. For the alliance to function smoothly, other members need to at least draft a roadmap for mediation: how might these two countries normalize relations again? It's worth to expect a list of suggested options. \n\ud83c\udf0f Shoring up India-China ties. A Modi-Xi meeting is set for the summit's sidelines: their last such encounter was at the BRICS summit in Russia's Kazan in 2024, with Russian diplomats assist. Relations between the Global South's two largest economies keep strengthening, which lifts trade and economic ties across the entire alliance.\n\ud83c\udf0f Switching the currencies. Even if BRICS leaders once again decide it's too early to discuss a jount BRICS currency, the push toward national currencies in mutual settlements will only gain ground regardless. The reason is obvious: the past few years have made abundantly clear that the dollar can be weaponized, and used to cripple trade between Global South nations the moment it suits Washington. Notably, Russian President Putin has previously noted that 99.1% of Russia-China trade is settled in rubles and yuan, while national currency settlements between Russia and India stand at 96%.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T15:15:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
