@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-11T09:46:39.923162+00:00",
+  "generated_at": "2026-09-11T14:13:27.974550+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/11/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, September 11, 2026 through Sunday, September 13, 2026 Local\nFacility: ZAB",
@@ -173,25 +192,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDallas, TX, Tuesday, September 8, 2026 through Friday, September 11, 2026 Local\nFacility: ZFW",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/04/2026",
-      "location": "ZFW TX",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3741\r\nIssue Time: 2026 Sep 11 0501 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3740\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 1391 pfu\nMax time: 2026 Sep 11 0455 UTC",
       "source": "NOAA Space Weather",
@@ -289,32 +289,110 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Today, for the first time, Yemen struck Saudi Arabia\u2019s East-West Pipeline, which carries crude oil from Abqaiq to Yanbu on the Red Sea coast\nMultiple fire hotspots were detected at six points along the pipeline route at roughly the same time, around 17:56 UTC.",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 What was Iran's reaction to the September 11 attacks?\nThe morning following 9/11, thousands of Iranians gathered in the streets of the capital Tehran to hold a candlelight vigil for the victims. According to eyewitnesses, the vigil lasted for several miles.\nAt Tehran's largest soccer stadium, a crowd of 60,000 people observed a minute of silence and recited prayers for those killed, before the start of Iran's World Cup qualification match.\nOn the same day, the Iranian President at the time, Mohammad Khatami, said the following: 'On behalf of the Iranian people and the Islamic Republic of Iran, I denounce this terrorist act, which led to the killing of defenseless people, and I express my deepest sorrow and sympathy with the American people.'\nThe Supreme Leader, Ayatollah Ali Khamenei, also commented on the attack: 'Islam condemns the massacre of defenseless people, whether Muslim or Christian or others, anywhere and by any means. However, this act should not be used as a pretext to carry out any attack on Afghanistan, which will lead to another human tragedy.'",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T21:20:13+00:00",
+      "timestamp": "2026-09-11T14:04:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces announce the successful completion of the military operation dubbed \u2018God is Strongest in Might and Severe in Punishment\u2019, which liberated 5,400 square kilometers of territory on the Red Sea coast\nIt is announced that international maritime navigation remains safe and permitted, with the exception of vessels affiliated to Saudi Arabia.\nDuring the offensive, a total of 9 Saudi drones were downed, and hundreds of Saudi-backed soldiers were taken captive. \nThe Yemeni Armed Forces reiterate the siege against Saudi Arabia will continue and the policy of \u2018escalation for escalation\u2019 shall remain.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T13:09:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "T\u00fcrkiye\u2019s AKINCI drone has now successfully test-fired both ROKETSAN\u2019s UAV-300 and UAV-122 missiles.\nThe key milestone was the UAV-300 supersonic ballistic missile, which scored a bull\u2019s-eye at 250+ km, confirming AKINCI\u2019s long-range ballistic strike capability.\nThe smaller UAV-122 was also successfully fired during the test.",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea/\ud83c\udde6\ud83c\uddea WATCH: A pro-Emirati faction member drives around the outskirts of Aden, showing the annihilation of Saudi-backed forces by Ansarallah\u2019s ballistic missiles",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T09:37:17+00:00",
+      "timestamp": "2026-09-11T12:22:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6/\ud83c\udde6\ud83c\uddea NEW: The gatherings of Saudi-backed PLC forces, which were prevented by pro-Emirati factions from entering Aden, were targeted with ballistic missiles by Ansarallah",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T12:15:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic\nAnthropic says operators in northern Yemen ran parallel Claude Code instances to design guidance software, simulate trajectories, and analyze a failed rocket test.\n[READ MORE](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T13:49:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "An Israeli official told Channel 12 that Houthi control of Bab-el-Mandeb is more dangerous than the current Hormuz situation, and the reason is simple geometry. \nThe eastern shipping channel past Perim Island is only about 3 km wide. \nShips will pass within visual range of Houthi positions. \nIsraeli official:\nThey will be able to fire at whatever they want with anti-tank missiles. \nThey will be able to see the ships with their own eyes.\nThat's the difference. \nAt Hormuz, Iran needs radar, surveillance systems, and anti-ship missiles to threaten traffic. \nAt Bab-el-Mandeb, a fighter with a basic ATGM on Perim Island can hit a tanker he can physically see. \nNo sophisticated targeting required. The official said this gives the Houthis \"enormous power.\"\nhters on the island.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T13:33:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -328,12 +406,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The UAE is redesigning parts of its planned 5GW Abu Dhabi AI campus after Iranian drone and missile attacks exposed the vulnerability of Gulf data centers.\nOfficials are considering dedicated air defenses around the compute clusters and underground or hardened facilities for critical servers, power and cooling infrastructure.\nThe attacks damaged AWS facilities and other UAE infrastructure, while Iran\u2019s IRGC later identified G42\u2019s planned campus among potential targets.\nConstruction has not stopped. The first 200MW phase is reportedly nearing completion, with executives saying work \u201cnever stopped.\u201d \nOpenAI\u2019s planned 1GW Stargate UAE cluster remains part of the larger project.",
+      "text": "Videos show the scale of equipment the Houthis captured during the western coast offensive. \nThe \"booty\" footage from Mokha and surrounding positions includes U.S.-made Oshkosh M-ATV mine-resistant vehicles, pickup trucks mounted with heavy weapons (technicals), armored vehicles, artillery pieces, and large quantities of ammunition and small arms abandoned by retreating National Resistance and Giants Brigade forces.\nHouthi fighters are filming themselves inspecting, posing with, and driving captured vehicles around Mokha's port and airport. \nSome clips show rows of intact military vehicles left behind, suggesting parts of the retreat were disorganized enough that equipment wasn't destroyed or disabled before withdrawal.\nThe captured gear originally came from Saudi Arabia and the UAE, who supplied their Yemeni proxy forces over years of fighting.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T09:13:05+00:00",
+      "timestamp": "2026-09-11T13:25:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -347,12 +425,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "BREAKING: Yemen's Houthis seized Perim (Mayyun) Island and completed control of the Bab-el-Mandeb Strait. \nReuters separately reports they've reached Dhubab, the coastal city directly on the strait. \nThe Houthis now control nearly the entire Yemeni Red Sea coast.\nThis is arguably the most strategically significant territorial gain in the entire Yemen war. \nPerim sits in the middle of the 29 km-wide strait and physically splits it into two shipping channels. \nHolding the island plus the adjacent coastline means the Houthis can threaten passing ships with artillery and short-range weapons \u2014 not just longer-range missiles and drones from further inland.\nThe strategic nightmare is now real. \nIran already controls pressure on Hormuz. \nSaudi Arabia has been routing more oil west through the East-West pipeline to the Red Sea port of Yanbu to bypass Hormuz. \nThe Houthis have now closed off that workaround at the exit point. \nBoth of the Middle East's critical shipping chokepoints are under Iranian-axis pressure simultaneously. \nThere is no easy third route. Roughly 10% of global seaborne trade normally passes through Bab-el-Mandeb.\nBrent crude is above $107. \nSource: AFP, Reuters",
+      "text": "Yemen\u2019s Houthis say they launched a large-scale military operation on September 3 against Saudi-backed forces on Yemen\u2019s western coast, citing continued attacks, military buildups, and the blockade imposed on the country.\nThe group said the operation was carried out from several directions with support from local tribes.\nAccording to the Houthis, the operation resulted in the capture of six districts in Taiz and Hodeidah governorates, covering around 5,400 square kilometers.\nThey also said seven military divisions, including 38 brigades, were targeted, with hundreds of fighters killed, wounded, or captured.\nThe Houthis said a number of their prisoners held on the western coast were also freed.\nThey added that their air defenses carried out 32 interception operations and shot down nine Saudi aircraft.\nThe Houthis also said maritime navigation remains safe for all companies except Saudi vessels, which they said remain subject to blockade.\nThey reiterated their policy of \u201ca siege for a siege\u201d and said attacks on Saudi military positions would continue until the fighting stops and the blockade on Yemen is lifted.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T08:26:20+00:00",
+      "timestamp": "2026-09-11T13:05:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -461,6 +539,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces announce the successful completion of the military operation dubbed \u2018God is Strongest in Might and Severe in Punishment\u2019, which liberated 5,400 square kilometers of territory on the Red Sea coast\nIt is announced that international maritime navigation remains safe and permitted, with the exception of vessels affiliated to Saudi Arabia.\nDuring the offensive, a total of 9 Saudi drones were downed, and hundreds of Saudi-backed soldiers were taken captive. \nThe Yemeni Armed Forces reiterate the siege against Saudi Arabia will continue and the policy of \u2018escalation for escalation\u2019 shall remain.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T13:18:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83d\udee2\ufe0f\u26a1 Brent Prices are skyrocketing crude oil today\nCurrent price: 108.04\n24-hour change: +6.83 (+6.75%)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -508,45 +606,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7Jet and UAV activity over Kermanshah, near the Iraqi borders\nKermanshah Province",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T17:34:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah released footage showing the wreckage of a Saudi-operated Karayel armed reconnaissance drone that it says was downed over Hajjah Governorate earlier today.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T17:30:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
@@ -557,41 +616,23 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 The public relations department of the IRGC reports that it destroyed an American Saildrone near Strait of Hormuz\nIran\u2019s Islamic Revolutionary Guard Corps says its Navy targeted and destroyed a U.S. unmanned Saildrone, near the entrance to the strategic Strait of Hormuz.\nThe IRGC said the USV drone was deployed as part of an \u201caggressive mission\u201d and warned that any hostile presence in the strait would be targeted.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfe\ud83c\uddea Anthropic says Yemen-based actors (most likely Ansar-Allah) used Claude to develop guided weapons\nAnthropic says it identified a group of threat actors in northern Yemen that used Claude Code to develop software for guided weapons, including a guided rocket, a ballistic missile programme and a missile variant involving a hypersonic glide vehicle.\nThe company said the actors used multiple Claude instances for coding, research and code review, while attempting to evade safeguards by hiding their goals and splitting work across sessions.\nAnthropic said its safeguards blocked many requests, but not all. The group eventually test-fired a guided rocket, which appears to have failed, and returned to Claude to investigate the failure.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T17:04:05+00:00",
+      "timestamp": "2026-09-11T11:49:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Russia will build between 70-105 Il-114-300 aircraft for India.\nThe United Aircraft Corporation has signed agreements to supply 50 aircraft for the Pinnacle Air airline and up to 20 aircraft for the Air Kerala airline. A memorandum of understanding was also signed with Sleek Aviation, on the supply of 35 aircraft but has not yet been finalised as a contract.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T15:21:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -729,6 +770,27 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83d\udc64 Yemeni weapons cell used Anthropic's Claude to build missile software \u2014 report\nA weapons engineering cell in Yemen used Anthropic's Claude models to create guidance and control software for rockets and missiles, a new report from Anthropic titled \"Detecting and countering misuse of AI: September 2026\" shows.\n\ud83d\udc49 The cell was juggling three weapons programs at once: a guided rocket with final-phase homing, a multi-stage ballistic missile aiming for a range beyond 2,000 km, and something called the \"R2000\" \u2014 which included a hypersonic glide vehicle variant.\nInstead of hiring a team of software engineers, they leaned on Claude Code as their entire development layer. They ran several instances of Claude side by side, each with a different job \u2014 one writing code, one doing technical research, one checking the others' work.\n\u27a1\ufe0f Anthropic's filters blocked plenty of their direct requests. So the operators got creative: they hid what the work was actually for, split their prompts across isolated sessions so no single log showed the full picture, and used other workarounds to stay under the radar.\nAnthropic says there is no evidence the group succeeded in fielding a working long-range weapon. That said, the cell did test-fire a guided rocket \u2014 and the test appears to have failed. Within hours, they were back in Claude running a failure analysis on the telemetry.\nOnce Anthropic caught on, it banned the accounts and shared what it found with security partners in both the public and private sectors. But by then, the group had already compiled some offline simulation tools \u2014 meaning they could keep working without Claude.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T10:51:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "US builds $1.2M 'bunker-buster lab' after failing to crack Iran\u2019s underground sites\n\u00a0\nThe Pentagon is spending millions trying to solve a problem it has already struggled with: how to destroy Iran\u2019s deeply buried nuclear infrastructure.\n\u00a0\n\ud83d\udc49 Several days before the conflict with Iran began in late February, the Pentagon\u2019s Defense Threat Reduction Agency published a document showing it had awarded almost a $1.2 million contract to upgrade a \u201cunique subterranean test facility\u201d at White Sands Missile Range in New Mexico for a live-fire test aimed at developing capabilities against emerging underground threats.\n\u00a0\nSince early March, the remote location known as the Alternate Seismic Hardrock in Situ Test Site has continued to accumulate excavations, with the test site also carved into granite, similarly to Pickaxe Mountain.\n\u00a0\n\u27a1\ufe0f Now, the US is reportedly preparing new tests at the simulated underground facility to develop methods for striking Iran\u2019s Pickaxe Mountain site\u2014a hardened underground complex near Natanz that Washington and Israel believe houses Iran\u2019s enriched uranium stockpiles.\n\u00a0\nPresident Donald Trump has repeatedly threatened to target the site, arguing that hitting the underground facility would be necessary to limit Iran\u2019s nuclear capabilities.\n\u00a0\nThe challenge for the US is that even its largest conventional bunker-busting weapons may not guarantee the destruction of facilities built deep underground. Earlier strikes on facilities such as Natanz and Fordow were presented as major blows, yet Iran maintained the ability to preserve key underground infrastructure and continue operations. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -763,26 +825,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Saudi Arabia's East-West pipeline on fire \u2014 another Houthi's win\nSatellite imagery suggests Yemen's Houthis have directly hit Saudi Arabia's East-West crude oil pipeline in the desert southeast of Medina \u2014 a strike on the kingdom's most strategic energy artery.\n\ud83c\udf0f Sentinel-3 imagery from today reveals a massive black smoke plume nearly\u00a0100 km long\u00a0stretching across the desert between Medina and Mahd adh Dhahab\n\ud83c\udf0f NASA FIRMS fire data shows multiple heat anomalies clustered along a stretch of under 10 km\n\ud83c\udf0f Fire radiative power\u00a0above 70 megawatts\u00a0\u2014 more than double a conventional fire\n\ud83c\udf0f The burn sustained for\u00a0at least 8 hours\nThe East-West pipeline carries Saudi crude from Abqaiq to Yanbu on the Red Sea \u2014 the kingdom's\u00a0only export route that does not pass through the Strait of Hormuz. The one corridor the kingdom built specifically to survive a Hormuz closure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T03:03:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
