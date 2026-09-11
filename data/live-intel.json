@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T00:29:53.568340+00:00",
+  "generated_at": "2026-09-11T05:09:37.441903+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,44 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/08/2026",
       "location": "ZLA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nProvo, UT, Thursday, September 10, 2026 through Thursday, September 10, 2026 Local\nFacility: ZLC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/08/2026",
-      "location": "ZLC UT",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDallas, TX, Wednesday, September 9, 2026 through Thursday, September 10, 2026 Local\nFacility: ZFW",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/08/2026",
-      "location": "ZFW TX",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -250,6 +212,44 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3741\r\nIssue Time: 2026 Sep 11 0501 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3740\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 1391 pfu\nMax time: 2026 Sep 11 0455 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-11 05:01:52.037",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3740\r\nIssue Time: 2026 Sep 11 0045 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3739\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 3080 pfu\nMax time: 2026 Sep 10 1745 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-11 00:45:33.580",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3739\r\nIssue Time: 2026 Sep 10 1306 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 10 1304 UTC\nStation: GOES-19\nComment: Yesterday's max: 1037 pfu",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -306,44 +306,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3738\r\nIssue Time: 2026 Sep 09 0535 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3737\nBegin Time: 2026 Sep 08 1550 UTC\nYesterday Maximum 2MeV Flux: 1540 pfu\nMax time: 2026 Sep 09 0145 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-09 05:35:37.773",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2049\r\nIssue Time: 2026 Sep 08 1751 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Sep 08 1744 UTC\nSynoptic Period: 1500-1800\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-08 17:51:10.343",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
       "text": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches\nThe new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
       "source": "BBC",
@@ -374,10 +336,31 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "CASELS",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Q: How is Iran getting missiles off if we decimated them?\nTrump: They can always get off missiles. They had plenty of them.\nThey will always have some missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T01:29:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -402,77 +385,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nWe signed the beginning of our drone co-production, and 30% of these drones will go to Ukraine immediately \u2014 to the battlefield, to our people, to our soldiers \u2014 to save our children and our families.",
+      "publisher": "Our Wars Today",
+      "text": "[Yemen risks return to civil war as Iran-backed Houthis target vital oil shipping route](https://www.pbs.org/newshour/world/yemen-risks-return-to-civil-war-as-iran-backed-houthis-target-vital-oil-shipping-route)\nYemen\u00a0is moving closer to a return to civil war as\u00a0Iran-backed rebels\u00a0threaten a crucial shipping alternative to the\u00a0Strait of Hormuz. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/yemen-risks-return-to-civil-war-as-iran-backed-houthis-target-vital-oil-shipping-route)\npbs\u200b.org \u2022 Sep 11, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T19:10:43+00:00",
+      "timestamp": "2026-09-11T02:23:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Satellite imagery of Al-Azraq air base in Jordan shows what appears to be a strike on a fighter shelter and possible runway craters from Iran's latest ballistic missile barrage. \nThe imagery corroborates CBS reporting that eight F-15s took light damage (returned to service) and one A-10 lost a wing.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T18:42:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Myanmar resistance forces (PDF) hit the country's main military airbase near Mandalay with FPV kamikaze drones, releasing first-person footage showing strikes on Russian-made Yak-130 jets parked under blue shelters. \nFour aircraft reportedly hit, two assessed destroyed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T18:36:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine hit Russia's Novorossiysk naval base \u2014 the Black Sea Fleet's main remaining port \u2014 with a combined drone and missile strike overnight.\nThe confirmed damage list is significant.\nThe General Staff says three warships hit (minesweeper Zheleznyakov, Kalibr-carrying frigate Admiral Essen, and landing ship Pyotr Morgunov) plus fuel storage. \nUkrainian intelligence and OSINT add frigate Admiral Makarov, a Buyan-M missile ship (assessed inoperable), patrol ship Vasily Bykov, several missile boats, and two air defense radars near Gelendzhik. \nUkraine says a domestically built Neptune anti-ship missile hit Admiral Essen. \nSeparately, Ukraine struck Makhachkala port on the Caspian \u2014 a key Russia-Iran logistics hub. \nZelensky said Ukrainian forces hit eight Russian infrastructure sites \"from the Arctic to the Caspian\" in the same period. \nSatellite imagery from Exilenova+ shows fires and damage consistent with the claims. \nThis is the deepest sustained pressure on Russia's Black Sea Fleet since Ukraine forced the partial evacuation of Sevastopol.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T18:31:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -602,14 +528,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -661,13 +586,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -681,14 +605,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -712,12 +635,33 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Reuters: Iran acquired millions of dollars in Chinese air defense systems over the past year. The purchases ran through a barter mechanism: Iran shipped oil to China and received credit for Chinese goods instead of cash, letting both sides sidestep sanctions. Medicines, vehicles, and communication equipment moved through the same channel.",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Multiple thermal anomalies and visible smoke plumes have been detected on satellite imagery along the route of Saudi Arabia\u2019s East\u2011West pipeline, which carries crude oil from Abqaiq on the Gulf coast to Yanbu on the Red Sea. \nThe heat signatures were recorded earlier today at: \n```\n \n 23.8811, 39.7044\n23.8955, 39.6197{}\n \n```\nThe visible smoke on the satellite timelapse over the area has raised concern about the scale of the incident, suggesting a significant hydrocarbon fire. \nThe number and spread of alerts along the same corridor have raised suspicions of a coordinated attack conducted by the Houthi's. Houthi forces have previously threatened to strike Saudi energy infrastructure. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T07:08:46+00:00",
+      "timestamp": "2026-09-11T02:46:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "CASELS",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 GRAPHIC: An IDF drone strike targeted a group of people near the Al-Quba Mosque, west of Khan Younis, Gaza according to local reports.\nThree people were reportedly killed. Locals say that one of those killed was identified as the 'Engineer' Huthaifa Hamdi Muammar.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T02:45:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -731,12 +675,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Three Hamas weapon depots were destroyed in Israeli strikes in the Gaza Strip yesterday, the IDF and Shin Bet announce.\nThe military says the sites were used by Hamas to store firearms, explosive devices, anti-tank rockets, and other equipment.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 An IDF drone strike targeted a vehicle inside Hamad City, north of Khan Younis, Gaza, according to local reports.\nTwo people were reportedly killed in the strike.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T06:37:51+00:00",
+      "timestamp": "2026-09-11T02:45:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -749,79 +693,24 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukrainian drones hit the Russian Caspian port of Makhachkala this morning, setting it on fire.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Saudi Arabia's East-West pipeline on fire \u2014 another Houthi's win\nSatellite imagery suggests Yemen's Houthis have directly hit Saudi Arabia's East-West crude oil pipeline in the desert southeast of Medina \u2014 a strike on the kingdom's most strategic energy artery.\n\ud83c\udf0f Sentinel-3 imagery from today reveals a massive black smoke plume nearly\u00a0100 km long\u00a0stretching across the desert between Medina and Mahd adh Dhahab\n\ud83c\udf0f NASA FIRMS fire data shows multiple heat anomalies clustered along a stretch of under 10 km\n\ud83c\udf0f Fire radiative power\u00a0above 70 megawatts\u00a0\u2014 more than double a conventional fire\n\ud83c\udf0f The burn sustained for\u00a0at least 8 hours\nThe East-West pipeline carries Saudi crude from Abqaiq to Yanbu on the Red Sea \u2014 the kingdom's\u00a0only export route that does not pass through the Strait of Hormuz. The one corridor the kingdom built specifically to survive a Hormuz closure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T06:28:35+00:00",
+      "timestamp": "2026-09-11T03:03:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 The police station in Guamalito, in the municipality of El Carmen, has been taken over by ELN members after helicopters evacuated the 20 officers who had been trapped inside, under repeated attacks with explosive drones and rifle fire.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T04:00:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Footage shows the moment of clashes took place, east of the Jabalia camp in Gaza, allegedly between Hamas fighters and another Israeli-backed militia after two explosions took place.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T02:28:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Hamas has announced the death of Farah Hamed, a top commander in its military wing, in an Israeli strike in Gaza City\u2019s Sheikh Ijlin neighbourhood today. \nHamed was described as a member of the Military Council of the Al\u2011Qassam Brigades in the West Bank.\nHamed was allegedly part of the \u201cSilwad cell\u201d which carried out attacks during the Second Intifada. \nOriginally from the Ramallah area, he was deported to Gaza in 2011 as part of the Gilad Shalit prisoner exchange deal. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T02:28:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -860,66 +749,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran doesn\u2019t have to sink a carrier to torpedo US war effort \u2013 a bloody nose would be enough\n\u00a0\nThe IRGC debuted its new Qasem Bassir long-range anti-ship ballistic missile last Saturday in a \u201ccombat test\u201d targeting the US Navy\u2019s defensive capabilities in real wartime conditions. The attack targeted the USS George Washington and a guided-missile destroyer.\nIRGC talk of live \u201ccombat testing\u201d on US vessels should send chills up CENTCOM planners\u2019 spines. The last such \u201ctests\u201d (Operations True Promise I through III) saw Iran inflict incremental amounts of pain on their enemies, methodically mapping out targets and defenses, and using increasingly [sophisticated weapons and tactics.](https://t.me/geopolitics_prime/59557)\n\u00a0\n\ud83e\udd14 Can Iran sink a carrier?\n\u00a0\nSinking a modern supercarrier is exceptionally difficult. In 2005, the Navy spent nearly a month trying to sink the decommissioned USS America using conventional weaponry, from JDAMs and Mavericks to Harpoon anti-ship missiles and Mark 48 torpedoes. After that failed, engineers had to mount explosive charges in and around the ship to finally sink the hull.\nStrikes involving one or more Qasem Bassir, Abu Mahdi, or even Fattah-2 missiles probably won\u2019t be enough to send a US carrier to the bottom of the sea, but they don\u2019t have to:\n\u00a0\n\ud83d\udd34 Carriers are the US\u2019s ultimate power projection tool: significant damage to their flight deck, aircraft complement, elevators, catapults, or arresting equipment would be enough to put them out of action.\n\ud83d\udd34 The warships are extremely finnicky. This spring, a massive laundry room fire and clogged pipes ultimately forced the USS Gerald Ford to quit the fight against Iran.\n\ud83d\udd34 Only 2-3 of the Navy\u2019s 11 ship carrier fleet are deployed at any one time, with 1-2 more available in an emergency. The rest are undergoing routine or deep maintenance, repairs and training. The US has already deployed four carriers in the 2026 war (Lincoln, Ford, Bush, Washington) and preparing a fifth (USS Roosevelt) to replace the Washington, stretching deployments beyond their absolute limits.\n\u27a1\ufe0f USS Stennis and Truman: in the middle of a multi-year overhaul. Unusable\n\u27a1\ufe0f USS Ford: stuck in structural repairs and deep resupply until at least mid-2027\n\u27a1\ufe0f USS Eisenhower, Vinson and Reagan: lack certification and airwings for immediate deployment\n\u27a1\ufe0f USS Nimitz: preparing for decommissioning and replacement by the new USS John F. Kennedy (whose commissioning has been delayed)\n\u00a0\nThis means if Iran successfully strikes even one of the carriers arrayed against it \u2013 slamming a missile or heavy drone into a flight deck, detonating aircraft, fuel or weaponry, or triggering a chain reaction that reaches deep into the ship\u2019s belly, it would be enough to put it out of action [until the end of the war.](https://t.me/geopolitics_prime/72904)\nThe carrier would instantly turn from a force multiplier into a burden \u2013 forcing the rest of its strike group, and other ships in CENTCOM\u2019s AOR, to come to its aid, and effectively crippling US offensive operations. Any other carrier groups would likely pull back from Iran to avoid targeting.\nWith American bases in the Persian Gulf on fire, the carrier would have to limp to Diego Garcia, Oman, Souda Bay or Singapore for immediate repairs, or Yokosuka, Washington State or Virginia for a deep overhaul.\n\u00a0\nMaybe Iran hasn\u2019t taken a carrier out of action yet is because they\u2019re master diplomats, reserving the option [for the next step up the escalation ladder? ](https://t.me/geopolitics_prime/74049)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T18:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25IRGC destroys US drone near Strait of Hormuz\nA US Saildrone was destroyed near the entrance of the Strait of Hormuz, the Islamic Revolutionary Guard Corps Navy said in a statement.\nThe drone, identified as hull number 5838, was targeted after entering the strategic waterway, with Iranian forces saying the operation prevented a hostile mission.\nThe IRGC declared that the Strait of Hormuz remains under its control and warned that any hostile presence in the area will be targeted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T16:59:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udfc6Houthis just seized historic crown jewel of Yemen\u2019s Red Sea ports: here\u2019s what happens next\n\u00a0\nIn the list of vital strategic locations controlled by Yemen\u2019s Gulf-backed puppet government, the Red Sea port city of Mokha ranked comfortably in the top three.\n\ud83d\udccd Serving as the historic crown jewel of Yemeni ports, Mokha is a UNESCO World Heritage List contender, the birthplace of modern coffee culture, and a geostrategic prize situated just ~60-80 km from Bab al-Mandab Strait.\n\ud83c\udf0f The Houthis shattered the stronghold\u2019s defenses in a week, launching a rapid, coordinated ground offensive September 3, surrounding the city and cutting off enemy logistics and reinforcement routes, and entering Mokha proper on September 10. Ahead of the advance, fighters spent much of August bombarding key port targets, crippling its operations.\n\ud83c\udf0f Before the rout began, Mocha\u2019s defenses were considered among the most elite, disciplined and well-equipped anti-Houthi units in all of Yemen, with National Resistance Forces commander Tareq Saleh\u2019s forces paid directly by Gulf monarchies, and armed with tanks, howitzers and anti-missile batteries.\n\ud83c\udf0f Other anti-Houthi factions in the area included the Giants Brigades, the Taiz Military Axis, Tihama Resistance tribesmen and Nation\u2019s Shield Forces. Together, these forces, numbering up to ~50k men, were supposed to hold out indefinitely. Instead, they crumbled in days. Saleh was forced to beat a hasty retreat, and reports suggest up to three full brigades, complete with equipment, have surrendered.\n\u00a0\nWhat Mokha\u2019s liberation means\n\u27a1\ufe0f the city\u2019s capture puts Houthi artillery and shorter-range drones within striking distance of Bab el-Mandeb, meaning they no longer have to use costlier missiles and UAVs to target Saudi shipping in and around the strait\n\u27a1\ufe0f the seizure deprives defenders in Taiz, Yemen\u2019s third-largest city, of their main logistics artery, leaving them semi-isolated and vulnerable to Houthi encirclement\n\u27a1\ufe0f Mokha in Houthi hands cripples the puppet government\u2019s ability to disrupt Sanaa\u2019s modest foreign resupply corridors\n\u27a1\ufe0f perhaps most importantly, it gives the Houthis a staging area for attacks on nearby strategic islands, including Perim and the Hanish Archipelago. Media report that the fighters have already captured the archipelago island of Zuqar in a coordinated attack involving ballistic and rocket attacks and speedboats\n\u27a1\ufe0f with Mokha secured, the Houthis are now a ~45 km drive south to Dhubab \u2013 the absolute last Red Sea coastal town still in control of enemy forces\n\ud83e\udd14 It\u2019s all beginning to look a lot like Afghanistan, circa August 2021.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T14:37:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
