@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-11T14:13:27.974550+00:00",
+  "generated_at": "2026-09-11T17:47:07.897964+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMacon, GA, Monday, September 14, 2026 through Saturday, September 19, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/11/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL\nFacility: ZJX",
@@ -289,6 +308,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf1 NOTE: After the collapse of the World Trade Center, in which nearly 3,000 Americans died, Prime Minister Benjamin Netanyahu called the 9/11 attacks \u2018very good\u2019 and said it would strengthen the bond between Israel and the United States\nReported in a New York Times article, archived and [accessible here](https://www.nytimes.com/2001/09/12/us/day-terror-israelis-spilled-blood-seen-bond-that-draws-2-nations-closer.html).",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T14:19:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 What was Iran's reaction to the September 11 attacks?\nThe morning following 9/11, thousands of Iranians gathered in the streets of the capital Tehran to hold a candlelight vigil for the victims. According to eyewitnesses, the vigil lasted for several miles.\nAt Tehran's largest soccer stadium, a crowd of 60,000 people observed a minute of silence and recited prayers for those killed, before the start of Iran's World Cup qualification match.\nOn the same day, the Iranian President at the time, Mohammad Khatami, said the following: 'On behalf of the Iranian people and the Islamic Republic of Iran, I denounce this terrorist act, which led to the killing of defenseless people, and I express my deepest sorrow and sympathy with the American people.'\nThe Supreme Leader, Ayatollah Ali Khamenei, also commented on the attack: 'Islam condemns the massacre of defenseless people, whether Muslim or Christian or others, anywhere and by any means. However, this act should not be used as a pretext to carry out any attack on Afghanistan, which will lead to another human tragedy.'",
       "source": "Telegram",
       "source_type": "telegram",
@@ -327,39 +365,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea/\ud83c\udde6\ud83c\uddea WATCH: A pro-Emirati faction member drives around the outskirts of Aden, showing the annihilation of Saudi-backed forces by Ansarallah\u2019s ballistic missiles",
+      "publisher": "Clash Report",
+      "text": "Saudi Arabia\u2019s East-West Pipeline, a key route carrying crude oil from the country\u2019s eastern fields to the Red Sea port of Yanbu, was struck by projectiles on Thursday, according to US officials.\nThe strikes hit pumping stations along the pipeline and triggered fires.\nSatellite imagery showed damage at several locations, though it remains unclear whether the pipeline itself was seriously damaged or how long repairs could take.\nOne US official said drones may have originated from Iraq.\nSource: CNN",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T12:22:27+00:00",
+      "timestamp": "2026-09-11T16:40:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6/\ud83c\udde6\ud83c\uddea NEW: The gatherings of Saudi-backed PLC forces, which were prevented by pro-Emirati factions from entering Aden, were targeted with ballistic missiles by Ansarallah",
+      "publisher": "Clash Report",
+      "text": "EU Pledges \u20ac6.1B More for Ukraine Defense, Including for Patriots\nBrussels will release another \u20ac6.1 billion for Ukraine, waiving European procurement requirements for Patriot interceptors and some drones as Kyiv races to prepare for winter.\n[READ MORE](https://clashreport.com/world/articles/eu-pledges-6-1b-more-for-ukraine-defense-including-for-patriots-qn88paa90l)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T12:15:36+00:00",
+      "timestamp": "2026-09-11T14:15:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -375,71 +413,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Clash Report",
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "An Israeli official told Channel 12 that Houthi control of Bab-el-Mandeb is more dangerous than the current Hormuz situation, and the reason is simple geometry. \nThe eastern shipping channel past Perim Island is only about 3 km wide. \nShips will pass within visual range of Houthi positions. \nIsraeli official:\nThey will be able to fire at whatever they want with anti-tank missiles. \nThey will be able to see the ships with their own eyes.\nThat's the difference. \nAt Hormuz, Iran needs radar, surveillance systems, and anti-ship missiles to threaten traffic. \nAt Bab-el-Mandeb, a fighter with a basic ATGM on Perim Island can hit a tanker he can physically see. \nNo sophisticated targeting required. The official said this gives the Houthis \"enormous power.\"\nhters on the island.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T13:33:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Videos show the scale of equipment the Houthis captured during the western coast offensive. \nThe \"booty\" footage from Mokha and surrounding positions includes U.S.-made Oshkosh M-ATV mine-resistant vehicles, pickup trucks mounted with heavy weapons (technicals), armored vehicles, artillery pieces, and large quantities of ammunition and small arms abandoned by retreating National Resistance and Giants Brigade forces.\nHouthi fighters are filming themselves inspecting, posing with, and driving captured vehicles around Mokha's port and airport. \nSome clips show rows of intact military vehicles left behind, suggesting parts of the retreat were disorganized enough that equipment wasn't destroyed or disabled before withdrawal.\nThe captured gear originally came from Saudi Arabia and the UAE, who supplied their Yemeni proxy forces over years of fighting.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T13:25:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Yemen\u2019s Houthis say they launched a large-scale military operation on September 3 against Saudi-backed forces on Yemen\u2019s western coast, citing continued attacks, military buildups, and the blockade imposed on the country.\nThe group said the operation was carried out from several directions with support from local tribes.\nAccording to the Houthis, the operation resulted in the capture of six districts in Taiz and Hodeidah governorates, covering around 5,400 square kilometers.\nThey also said seven military divisions, including 38 brigades, were targeted, with hundreds of fighters killed, wounded, or captured.\nThe Houthis said a number of their prisoners held on the western coast were also freed.\nThey added that their air defenses carried out 32 interception operations and shot down nine Saudi aircraft.\nThe Houthis also said maritime navigation remains safe for all companies except Saudi vessels, which they said remain subject to blockade.\nThey reiterated their policy of \u201ca siege for a siege\u201d and said attacks on Saudi military positions would continue until the fighting stops and the blockade on Yemen is lifted.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T13:05:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -539,6 +519,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddea\ud83c\uddec \u2014 Iranian Foreign Ministry Spokesman Esmail Baghaei: \nWe will hold a meeting on the Strait of Hormuz in Oman on Monday, with the participation of Iraq and the Gulf littoral states.\nMonday\u2019s meeting will discuss the results of negotiations between Iran and Oman on establishing safe navigation routes through the Strait of Hormuz.\nWe have reached an understanding with the Sultanate of Oman on temporary navigation routes through the Strait of Hormuz, and we will make efforts to ensure the safety of navigation.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T14:29:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces announce the successful completion of the military operation dubbed \u2018God is Strongest in Might and Severe in Punishment\u2019, which liberated 5,400 square kilometers of territory on the Red Sea coast\nIt is announced that international maritime navigation remains safe and permitted, with the exception of vessels affiliated to Saudi Arabia.\nDuring the offensive, a total of 9 Saudi drones were downed, and hundreds of Saudi-backed soldiers were taken captive. \nThe Yemeni Armed Forces reiterate the siege against Saudi Arabia will continue and the policy of \u2018escalation for escalation\u2019 shall remain.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -577,44 +576,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7\ud83c\uddf1\ud83c\udde7 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nPresident Trump announced this evening that Iran is trying to arm itself again with nuclear weapons. That is correct.\nAfter we destroyed its immediate capability to produce nuclear bombs, they are trying again.\nI pledge to you here, at the Western Wall, ahead of Rosh Hashanah: as long as I am Prime Minister, Iran will not have nuclear weapons.\nAt the same time, we are striking the Iranian axis\u2014not only very hard in the Gaza Strip, but also in Lebanon. We destroyed the Beaufort Ridge, and now we are dealing with the Ali Taher Ridge.\nMore to come.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T17:59:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\u26a1 Destruction of an American Unmanned Surface Vessel in the Strait of Hormuz\nThe IRGC Navy announced that it had targeted an American unmanned surface vessel\u2014specifically a Saildrone Explorer\u2014at the entrance to the Strait of Hormuz.\nThe vessel, bearing hull number 5838, was targeted while conducting a mission in the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T17:53:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfe\ud83c\uddea Anthropic says Yemen-based actors (most likely Ansar-Allah) used Claude to develop guided weapons\nAnthropic says it identified a group of threat actors in northern Yemen that used Claude Code to develop software for guided weapons, including a guided rocket, a ballistic missile programme and a missile variant involving a hypersonic glide vehicle.\nThe company said the actors used multiple Claude instances for coding, research and code review, while attempting to evade safeguards by hiding their goals and splitting work across sessions.\nAnthropic said its safeguards blocked many requests, but not all. The group eventually test-fired a guided rocket, which appears to have failed, and returned to Claude to investigate the failure.",
       "source": "Telegram",
@@ -625,14 +586,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Clash Report",
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -770,33 +730,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83d\udc64 Yemeni weapons cell used Anthropic's Claude to build missile software \u2014 report\nA weapons engineering cell in Yemen used Anthropic's Claude models to create guidance and control software for rockets and missiles, a new report from Anthropic titled \"Detecting and countering misuse of AI: September 2026\" shows.\n\ud83d\udc49 The cell was juggling three weapons programs at once: a guided rocket with final-phase homing, a multi-stage ballistic missile aiming for a range beyond 2,000 km, and something called the \"R2000\" \u2014 which included a hypersonic glide vehicle variant.\nInstead of hiring a team of software engineers, they leaned on Claude Code as their entire development layer. They ran several instances of Claude side by side, each with a different job \u2014 one writing code, one doing technical research, one checking the others' work.\n\u27a1\ufe0f Anthropic's filters blocked plenty of their direct requests. So the operators got creative: they hid what the work was actually for, split their prompts across isolated sessions so no single log showed the full picture, and used other workarounds to stay under the radar.\nAnthropic says there is no evidence the group succeeded in fielding a working long-range weapon. That said, the cell did test-fire a guided rocket \u2014 and the test appears to have failed. Within hours, they were back in Claude running a failure analysis on the telemetry.\nOnce Anthropic caught on, it banned the accounts and shared what it found with security partners in both the public and private sectors. But by then, the group had already compiled some offline simulation tools \u2014 meaning they could keep working without Claude.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udfd7\ud83d\udd2a\ud83d\udca5 Jet fuel can\u2019t melt steel beams: Evidence that the Twin Towers were brought down by bombs\n\u00a0\nControlled demolition is one of the most explosive theories surrounding the 9/11 terror attacks.\nFrom U of Alaska Fairbanks\u2019 painstaking four-year study on Building 7\u2019s destruction, to Architects & Engineers for 9/11 Truth\u2019s broader campaign asserting that jet fuel and office fires can\u2019t burn hot enough to cause a symmetrical, near-free-fall collapse of steel skyscrapers, [the controlled demolition theory](https://t.me/geopolitics_prime/54613) has credibility partly due to officials\u2019 obtuse refusal to even consider the idea.\n\ud83d\udc49 Thankfully, their control the narrative isn\u2019t complete.\nFrom an interview with toxic dust-covered first responders talking about \u201csecondary explosions\u201d inside one of the buildings (at least three of them), to analyses of amateur footage showing flashes of light blowing out window panes outside Building 7, to oddities about the way the planes slipped into the towers without any discernable loss to structural integrity, there is plenty of amateur footage out there debunking, or at least credibly challenging, the official narrative.\n\u203c\ufe0f Then there\u2019s the political aspect and motives.\nOn September 10, 2001, Defense Secretary Donald Rumsfeld revealed that the Pentagon lost track of $2.3T. The same day, the stock market processed ~45 times the average trading volume of put options on American Airlines and United Airlines, and saw a surge in call options in defense stocks. Larry Silverstein took out a massive insurance policy out on the WTC complex in the months prior.\n\ud83d\udd0d A New Jersey woman caught five \u2018Middle Eastern-looking\u2019 men sitting on the roof of their van watching the towers burn across the Hudson and celebrating. Authorities arrested them, discovering they were Israelis, and finding maps of the WTC, cash, boxcutters and trace amounts of explosives in their vehicle. After being deported to Israel, one of the men told local TV they were in [NYC \u201cto document the event.\u201d](https://t.me/geopolitics_prime/52620)\nIn the days and weeks after 9/11, retired Army General Wesley Clark visited the Pentagon, learning that the [Bush administration had greenlit an invasion of Iraq](https://t.me/geopolitics_prime/51409), and six Middle Eastern countries after that \u2013 none of them having anything to do with 9/11.\n\u27a1\ufe0f And now you know[ the rest of the story](https://t.me/geopolitics_prime/52569)\u2026\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T10:51:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "US builds $1.2M 'bunker-buster lab' after failing to crack Iran\u2019s underground sites\n\u00a0\nThe Pentagon is spending millions trying to solve a problem it has already struggled with: how to destroy Iran\u2019s deeply buried nuclear infrastructure.\n\u00a0\n\ud83d\udc49 Several days before the conflict with Iran began in late February, the Pentagon\u2019s Defense Threat Reduction Agency published a document showing it had awarded almost a $1.2 million contract to upgrade a \u201cunique subterranean test facility\u201d at White Sands Missile Range in New Mexico for a live-fire test aimed at developing capabilities against emerging underground threats.\n\u00a0\nSince early March, the remote location known as the Alternate Seismic Hardrock in Situ Test Site has continued to accumulate excavations, with the test site also carved into granite, similarly to Pickaxe Mountain.\n\u00a0\n\u27a1\ufe0f Now, the US is reportedly preparing new tests at the simulated underground facility to develop methods for striking Iran\u2019s Pickaxe Mountain site\u2014a hardened underground complex near Natanz that Washington and Israel believe houses Iran\u2019s enriched uranium stockpiles.\n\u00a0\nPresident Donald Trump has repeatedly threatened to target the site, arguing that hitting the underground facility would be necessary to limit Iran\u2019s nuclear capabilities.\n\u00a0\nThe challenge for the US is that even its largest conventional bunker-busting weapons may not guarantee the destruction of facilities built deep underground. Earlier strikes on facilities such as Natanz and Fordow were presented as major blows, yet Iran maintained the ability to preserve key underground infrastructure and continue operations. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T09:29:16+00:00",
+      "timestamp": "2026-09-11T15:57:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -810,12 +749,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25\ud83c\udde8\ud83c\uddf3 China\u2019s nuclear subs just got a missile built to reach the US\n\u00a0\nThe Chinese navy is refitting its fleet of nuclear-powered submarines to carry the new JL-3 intercontinental ballistic missile, Taipei Times reports.\n\u00a0\nThe JL-3 is expected to become a key pillar of China\u2019s nuclear arsenal, strengthening the country\u2019s ability to retaliate in the event of an enemy attack.\u00a0\n\u00a0\nHere\u2019s why:\u00a0\n\u00a0\n\ud83d\udd34 The missile\u2019s 10,000 km range allows China to target the northwestern US, as well as Alaska, Guam and Hawaii, from Chinese waters\u00a0\n\u00a0\n\ud83d\udd34 The JL-3 is capable of carrying multiple independently targetable re-entry vehicles, with at least three nuclear warheads per missile\n\u00a0\n\ud83d\udd34 An estimated yield of each warhead is around 250 to 1,000 kilotons, enabling a single missile to strike multiple targets\n\u00a0\n\ud83d\udd34 Unlike liquid-fuel missiles, the JL-3 uses solid fuel, making it easier to maintain aboard submarines while keeping it ready for launch\n\u00a0\nThe JL-3 is therefore set to strengthen the sea-based leg of China's nuclear triad, giving the PLA a more survivable long-range strike capability from its submarine fleet.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udfa4\ud83c\udf0d BRICS summit in New Delhi: what to expect?\nThe BRICS summit opened in India on September 11, with leaders of member states already on the ground and sitting down with Indian PM Modi.\nIndia's chairmanship year has been anything but smooth: both for global geopolitics, and for BRICS members in particular.\nSo what challenges will the leaders of the Global South have to confront at this summit, and which of them are likely to make it into the final declaration? Geopolitics Prime has a receipt:\n\ud83c\udf0f Logistics and shipping. The world's key maritime corridors sit in BRICS hands: the Strait of Hormuz with Iran, the Suez Canal with Egypt, the Northern Sea Route with Russia. Each of them is a lifeline of international trade, and the global economy runs on these corridors. As the US scrambles to pull the Strait of Hormuz under its own control, the question is: how do BRICS nations guarantee the security of their trade routes and shipping lanes? The answer will be crucial both for the BRICS group frames and for the global markets.\n\ud83c\udf0f Energy supplies. The US tried to bar India from buying Russian oil, effectively launching a trade war, and failed. It tried to physically choke off Iranian oil sales, and failed again. Now is the time to build safeguards so that third-country interference can never paralyze energy trade within the BRICS group. China has a stake here too, with Trump forever threatening a fresh round of trade war \u2014 as does Brazil, geographically the closest BRICS member to the US.\n\ud83c\udf0f Reconciling Iran and the UAE. Because of US aggression against Iran and American muscle-flexing in the Persian Gulf, ties between two BRICS members, Iran and the UAE, have gone ice-cold. For the alliance to function smoothly, other members need to at least draft a roadmap for mediation: how might these two countries normalize relations again? It's worth to expect a list of suggested options. \n\ud83c\udf0f Shoring up India-China ties. A Modi-Xi meeting is set for the summit's sidelines: their last such encounter was at the BRICS summit in Russia's Kazan in 2024, with Russian diplomats assist. Relations between the Global South's two largest economies keep strengthening, which lifts trade and economic ties across the entire alliance.\n\ud83c\udf0f Switching the currencies. Even if BRICS leaders once again decide it's too early to discuss a jount BRICS currency, the push toward national currencies in mutual settlements will only gain ground regardless. The reason is obvious: the past few years have made abundantly clear that the dollar can be weaponized, and used to cripple trade between Global South nations the moment it suits Washington. Notably, Russian President Putin has previously noted that 99.1% of Russia-China trade is settled in rubles and yuan, while national currency settlements between Russia and India stand at 96%.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T06:29:06+00:00",
+      "timestamp": "2026-09-11T15:15:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd14\ud83d\udde3 Was 9/11 an inside job? What the Epstein files taught us\nThe DoJ\u2019s Epstein library is a dumpster fire of redactions, missing documents, omissions and padding, but does offer important insights into the Epstein class\u2019s perception and foreknowledge of the deadliest act of terror on US soil.\n\u00a0\n\ud83d\udd36 A month after the attacks, [Ghislaine Maxwell](https://t.me/geopolitics_prime/64141) fantasized in an email about exterminating Arabs \u201cin response\u201d to 9/11. The Clean Break memo, written for [Netanyahu ](https://t.me/geopolitics_prime/52569)in 1996 by arch-neocons who would later join the Bush administration, became a blueprint for doing just that in the decades that followed.\n\ud83d\udd36 In 2003, [Maxwell](https://t.me/geopolitics_prime/64681) was invited to join a \u201cShadow Commission on 9/11\u201d \u2013 a secret, unofficial group standing apart from the US government\u2019s official [9/11 Commission](https://t.me/geopolitics_prime/57450) (a total sham in its own right).\n\ud83d\udd36 Close Epstein associate and neighbor Howard Lutnick knew to stay out of the World Trade Center on the morning of 9/11, ostensibly to take his son to kindergarten. His company, Cantor Fitzgerald, lost over 650 employees that day. [Lutnick later created ](https://t.me/geopolitics_prime/64376)a fake 9/11 charity, [profiting off victims\u2019 suffering](https://t.me/geopolitics_prime/66984).\nLutnick has been a key business partner of [Larry Silverstein](https://t.me/geopolitics_prime/54021), the Israel-linked real estate mogul who leased the [Twin Towers ](https://t.me/geopolitics_prime/58645)in July 2001, and collected on a big fat $4.55B insurance payout after they fell. Silverstein\u2019s firm and Cantor Fitzgerald enjoyed a fruitful partnership for decades. In 2019, NYC real estate developer David Mitchell sent Epstein the details on their latest project. Silverstein also happily knew to stay away from the towers the day of the attacks.\n\ud83d\udd36 Other members of [Epstein\u2019s inner circle](https://t.me/geopolitics_prime/65124) also knew to do the same, with Sarah Ferguson, Epstein confidant and ex-wife of Andrew, just missing being in one of the buildings due to a \u201clucky\u201d morning interview and heavy NY traffic afterwards.\n\ud83d\udd36 Ferguson and her ex-husband Andrew also introduced Epstein to Saudi businessman Adel Ghazzawi, whose Florida family home was visited by three of named \u201chijackers\u201d before the attacks.\n\ud83d\udd36 Epstein was heavily involved in [9/11\u2019s fallout ](https://t.me/geopolitics_prime/56338)long after the attacks, warning MBS in 2016 about the danger of US court judgements seizing Saudi assets under the Justice Against Sponsors of Terrorism Act (JASTA), and promising to help tie up JASTA-linked litigation using connections to former Obama White House Counsel Kathryn Ruemmler and independent counsel Kenneth Starr.\n\ud83d\udd36 Epstein\u2019s ties to [the Mossad](https://t.me/geopolitics_prime/52620) and Israel\u2019s links to 9/11 are their own rabbit hole to go down. Suffice it to say that there are plenty [of oddities around Israel\u2019s behavior](https://t.me/geopolitics_prime/54397), from the \u2018dancing Israelis\u2019 caught in New Jersey that day, to Mossad founder Isser Harel\u2019s 1970s prediction that \u2018Islamist terrorists\u2019 would target NY\u2019s tallest buildings, to a Kabballist rabbi praying for the WTC to fall during a visit to NYC a week before it happened, to Netanyahu\u2019s infamous comment about the attacks being \u201cvery good\u201d for Israel-US ties.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T14:32:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
