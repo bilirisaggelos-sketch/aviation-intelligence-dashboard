@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T17:47:07.897964+00:00",
+  "generated_at": "2026-09-11T20:50:03.183216+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,44 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/10/2026",
       "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nShanksville, PA, Friday, September 11, 2026 Local\nFacility: ZOB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/08/2026",
-      "location": "ZOB PA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLos Angeles, CA, Friday, September 11, 2026 Local\nFacility: ZLA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/08/2026",
-      "location": "ZLA CA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -308,12 +270,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf1 NOTE: After the collapse of the World Trade Center, in which nearly 3,000 Americans died, Prime Minister Benjamin Netanyahu called the 9/11 attacks \u2018very good\u2019 and said it would strengthen the bond between Israel and the United States\nReported in a New York Times article, archived and [accessible here](https://www.nytimes.com/2001/09/12/us/day-terror-israelis-spilled-blood-seen-bond-that-draws-2-nations-closer.html).",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Large amounts of newly arrived Saudi reinforcements, including armored vehicles, trucks, and mercenaries have been targeted in eastern Al-Jawf Governorate with ballistic missiles \u2013 Saba News",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T14:19:40+00:00",
+      "timestamp": "2026-09-11T18:00:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -323,55 +285,16 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 What was Iran's reaction to the September 11 attacks?\nThe morning following 9/11, thousands of Iranians gathered in the streets of the capital Tehran to hold a candlelight vigil for the victims. According to eyewitnesses, the vigil lasted for several miles.\nAt Tehran's largest soccer stadium, a crowd of 60,000 people observed a minute of silence and recited prayers for those killed, before the start of Iran's World Cup qualification match.\nOn the same day, the Iranian President at the time, Mohammad Khatami, said the following: 'On behalf of the Iranian people and the Islamic Republic of Iran, I denounce this terrorist act, which led to the killing of defenseless people, and I express my deepest sorrow and sympathy with the American people.'\nThe Supreme Leader, Ayatollah Ali Khamenei, also commented on the attack: 'Islam condemns the massacre of defenseless people, whether Muslim or Christian or others, anywhere and by any means. However, this act should not be used as a pretext to carry out any attack on Afghanistan, which will lead to another human tragedy.'",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T14:04:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces announce the successful completion of the military operation dubbed \u2018God is Strongest in Might and Severe in Punishment\u2019, which liberated 5,400 square kilometers of territory on the Red Sea coast\nIt is announced that international maritime navigation remains safe and permitted, with the exception of vessels affiliated to Saudi Arabia.\nDuring the offensive, a total of 9 Saudi drones were downed, and hundreds of Saudi-backed soldiers were taken captive. \nThe Yemeni Armed Forces reiterate the siege against Saudi Arabia will continue and the policy of \u2018escalation for escalation\u2019 shall remain.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T13:09:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Saudi Arabia\u2019s East-West Pipeline, a key route carrying crude oil from the country\u2019s eastern fields to the Red Sea port of Yanbu, was struck by projectiles on Thursday, according to US officials.\nThe strikes hit pumping stations along the pipeline and triggered fires.\nSatellite imagery showed damage at several locations, though it remains unclear whether the pipeline itself was seriously damaged or how long repairs could take.\nOne US official said drones may have originated from Iraq.\nSource: CNN",
+      "text": "Saudi Ministry of Foreign Affairs:\nSaudi Arabia condemns the targeting of the East-West Pipeline by drones coming from Iraq.\nThe Kingdom has chosen not to respond at this stage to the attacks originating from Iraq, in support of the Iraqi government\u2019s efforts.\nThe Kingdom gave the Iraqi government an opportunity to take the necessary measures to prevent such attacks.\nThe Kingdom reserves its right to take all necessary measures to protect its sovereignty, security, and facilities.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T16:40:26+00:00",
+      "timestamp": "2026-09-11T20:11:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -381,45 +304,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "EU Pledges \u20ac6.1B More for Ukraine Defense, Including for Patriots\nBrussels will release another \u20ac6.1 billion for Ukraine, waiving European procurement requirements for Patriot interceptors and some drones as Kyiv races to prepare for winter.\n[READ MORE](https://clashreport.com/world/articles/eu-pledges-6-1b-more-for-ukraine-defense-including-for-patriots-qn88paa90l)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T14:15:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic\nAnthropic says operators in northern Yemen ran parallel Claude Code instances to design guidance software, simulate trajectories, and analyze a failed rocket test.\n[READ MORE](https://clashreport.com/world/articles/houthis-used-claude-code-to-develop-missile-guidance-software-anthropic-s52mnx4pwpo)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T13:49:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -519,12 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddea\ud83c\uddec \u2014 Iranian Foreign Ministry Spokesman Esmail Baghaei: \nWe will hold a meeting on the Strait of Hormuz in Oman on Monday, with the participation of Iraq and the Gulf littoral states.\nMonday\u2019s meeting will discuss the results of negotiations between Iran and Oman on establishing safe navigation routes through the Strait of Hormuz.\nWe have reached an understanding with the Sultanate of Oman on temporary navigation routes through the Strait of Hormuz, and we will make efforts to ensure the safety of navigation.\n\ud83d\udd34",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Video footage shows Ansar Allah (the Houthis) seizing anti-tank missiles belonging to the Saudi-backed PLC on the coastal front, following the capture of the area.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T14:29:15+00:00",
+      "timestamp": "2026-09-11T18:25:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -537,40 +421,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea NEW: The Yemeni Armed Forces announce the successful completion of the military operation dubbed \u2018God is Strongest in Might and Severe in Punishment\u2019, which liberated 5,400 square kilometers of territory on the Red Sea coast\nIt is announced that international maritime navigation remains safe and permitted, with the exception of vessels affiliated to Saudi Arabia.\nDuring the offensive, a total of 9 Saudi drones were downed, and hundreds of Saudi-backed soldiers were taken captive. \nThe Yemeni Armed Forces reiterate the siege against Saudi Arabia will continue and the policy of \u2018escalation for escalation\u2019 shall remain.",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddee\ud83c\uddf6\ud83c\uddf8\ud83c\udde6 Earlier today, UAVs targeted two Saudi Arabia's East-West Crude Oil Pipeline, causing major damage to at least two pumping stations. One near al-Mesba'ah was hit, and another near al-Dhekra was hit.\nSaudi Ministry of Foreign Affairs reports the UAVs originated from Iraq, and reports by both Saudi and U.S. officials to media outlets corroborate this claim.\nThe East-West pipeline has been entirely shut down by this attack, disrupting the transit of 7 million barrels of crude oil per day.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T13:18:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udee2\ufe0f\u26a1 Brent Prices are skyrocketing crude oil today\nCurrent price: 108.04\n24-hour change: +6.83 (+6.75%)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T20:59:00+00:00",
+      "timestamp": "2026-09-11T20:38:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -586,13 +450,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -730,6 +593,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25\ud83d\udc7d\ud83d\udde3 Just in time to distract from Epstein, Iran dumpster fires: Trump reportedly plans big \u2018aliens\u2019 reveal\n\u00a0\nTrump is reportedly \u201csitting on a finished speech confirming humanity isn\u2019t alone\u201d in the universe, and the US government is gradually setting the stage for disclosure day, Wired reports.\nFrom hints by his officials that the administration is treating the issue with the utmost seriousness, to fan service to UFO enthusiasts via a trickle of videos and docs on mysterious flying objects (five batches and counting), [to congressional hearings](https://t.me/geopolitics_prime/73321) and priming of the public through media, celebrities and Hollywood (Spielberg\u2019s new Disclosure Day movie), something [\u2018big\u2019 may be on the horizon](https://t.me/geopolitics_prime/70870).\nIn August, GOP megadonor and UFO enthusiast Robert Bigelow said he met with Trump and personally saw an excerpt from his aliens speech, reading: \u201cA non-human, intelligent presence has been on Earth for a very long time, using spacecraft and with performances completely beyond our capabilities and our human physics.\u201d\nTrump has reportedly also told members of his inner circle there are aliens living in the Earth\u2019s oceans.\nThat\u2019s all well and good, but why now? What could possibly be going on in the world that requires [an urgent distraction](https://t.me/geopolitics_prime/61356)? [The Middle East and Eastern Europe on fire](https://t.me/geopolitics_prime/74410)? Check. [Energy prices skyrocketing](https://t.me/geopolitics_prime/73674)? Check. US debt on the brink of a potentially irreversible calamity? Check. Global elites implicated in a monstrous child abuse scandal? Big check. Quick: release the little green men!\nIn 1958, Soviet-Russian sci-fi author Ivan Efremov speculated on humanity\u2019s first contact with an alien lifeform, concluding that this could take place only between civilizations that had resolved all the economic and social contradictions on their home planets to reach for the stars.\nLook around \u2013 does our world look anything like it\u2019s anywhere close? Why would aliens want to hang out with an orange man-child [threatening to wipe out whole civilizations](https://t.me/geopolitics_prime/73029), anyway?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T20:01:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\u2694\ufe0f Why Saudi Arabia stands alone as Houthi strikes test the Mecca Pact\nIn August 2026, Saudi Arabia, Pakistan, and Turkey signed a joint defense pact in Mecca: an attack on one is an attack on all. Today, Saudi Arabia is under Houthi missile and drone strikes. Its partners, however, are in no hurry to fight\u2014and the US, its traditional ally, now limits itself to arms supplies and intelligence, avoiding direct combat.\nTurkey has not committed to fighting for Saudi Arabia. It competes with Riyadh for leadership in the Islamic world, and the Red Sea crisis benefits Ankara: 12\u201315% of global trade and nearly 30% of container traffic to Europe passes through Bab-el-Mandeb, and any disruption hits Saudi and UAE ports hardest. Turkey poses as a \"mediator,\" strengthening influence while rivals lose logistical advantages. It has officially condemned Houthi attacks but will not join strikes. Iran, backing the Houthis, could also strike Turkish interests in Syria. Helping Saudi Arabia means stabilizing a competitor.\nPakistan is cautious of getting involved as an estimated 15\u201320% of its population is Shia\u2014the second-largest Shia population after Iran. War against fellow believers risks interconfessional tensions. Officially, Islamabad cites the pact's defensive nature and demands \"additional \"mechanisms\"\u2014diplomatic language for indefinite postponement. Defense Minister Khawaja Asif has made harsher statements than the Foreign Ministry, revealing internal divergence. Pakistan's fragile economy is also at risk.\nThe US avoids being a belligerent. Over 100 American military advisers are in Saudi Arabia providing targeting and intelligence, but no direct strikes or aerial refueling. After more than six months of war with Iran, the US military is exhausted, with focus shifted to the Strait of Hormuz. The White House formula: give partners capabilities, not fight for them.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T19:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udfd7\ud83d\udd2a\ud83d\udca5 Jet fuel can\u2019t melt steel beams: Evidence that the Twin Towers were brought down by bombs\n\u00a0\nControlled demolition is one of the most explosive theories surrounding the 9/11 terror attacks.\nFrom U of Alaska Fairbanks\u2019 painstaking four-year study on Building 7\u2019s destruction, to Architects & Engineers for 9/11 Truth\u2019s broader campaign asserting that jet fuel and office fires can\u2019t burn hot enough to cause a symmetrical, near-free-fall collapse of steel skyscrapers, [the controlled demolition theory](https://t.me/geopolitics_prime/54613) has credibility partly due to officials\u2019 obtuse refusal to even consider the idea.\n\ud83d\udc49 Thankfully, their control the narrative isn\u2019t complete.\nFrom an interview with toxic dust-covered first responders talking about \u201csecondary explosions\u201d inside one of the buildings (at least three of them), to analyses of amateur footage showing flashes of light blowing out window panes outside Building 7, to oddities about the way the planes slipped into the towers without any discernable loss to structural integrity, there is plenty of amateur footage out there debunking, or at least credibly challenging, the official narrative.\n\u203c\ufe0f Then there\u2019s the political aspect and motives.\nOn September 10, 2001, Defense Secretary Donald Rumsfeld revealed that the Pentagon lost track of $2.3T. The same day, the stock market processed ~45 times the average trading volume of put options on American Airlines and United Airlines, and saw a surge in call options in defense stocks. Larry Silverstein took out a massive insurance policy out on the WTC complex in the months prior.\n\ud83d\udd0d A New Jersey woman caught five \u2018Middle Eastern-looking\u2019 men sitting on the roof of their van watching the towers burn across the Hudson and celebrating. Authorities arrested them, discovering they were Israelis, and finding maps of the WTC, cash, boxcutters and trace amounts of explosives in their vehicle. After being deported to Israel, one of the men told local TV they were in [NYC \u201cto document the event.\u201d](https://t.me/geopolitics_prime/52620)\nIn the days and weeks after 9/11, retired Army General Wesley Clark visited the Pentagon, learning that the [Bush administration had greenlit an invasion of Iraq](https://t.me/geopolitics_prime/51409), and six Middle Eastern countries after that \u2013 none of them having anything to do with 9/11.\n\u27a1\ufe0f And now you know[ the rest of the story](https://t.me/geopolitics_prime/52569)\u2026\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -755,25 +656,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-11T15:15:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd14\ud83d\udde3 Was 9/11 an inside job? What the Epstein files taught us\nThe DoJ\u2019s Epstein library is a dumpster fire of redactions, missing documents, omissions and padding, but does offer important insights into the Epstein class\u2019s perception and foreknowledge of the deadliest act of terror on US soil.\n\u00a0\n\ud83d\udd36 A month after the attacks, [Ghislaine Maxwell](https://t.me/geopolitics_prime/64141) fantasized in an email about exterminating Arabs \u201cin response\u201d to 9/11. The Clean Break memo, written for [Netanyahu ](https://t.me/geopolitics_prime/52569)in 1996 by arch-neocons who would later join the Bush administration, became a blueprint for doing just that in the decades that followed.\n\ud83d\udd36 In 2003, [Maxwell](https://t.me/geopolitics_prime/64681) was invited to join a \u201cShadow Commission on 9/11\u201d \u2013 a secret, unofficial group standing apart from the US government\u2019s official [9/11 Commission](https://t.me/geopolitics_prime/57450) (a total sham in its own right).\n\ud83d\udd36 Close Epstein associate and neighbor Howard Lutnick knew to stay out of the World Trade Center on the morning of 9/11, ostensibly to take his son to kindergarten. His company, Cantor Fitzgerald, lost over 650 employees that day. [Lutnick later created ](https://t.me/geopolitics_prime/64376)a fake 9/11 charity, [profiting off victims\u2019 suffering](https://t.me/geopolitics_prime/66984).\nLutnick has been a key business partner of [Larry Silverstein](https://t.me/geopolitics_prime/54021), the Israel-linked real estate mogul who leased the [Twin Towers ](https://t.me/geopolitics_prime/58645)in July 2001, and collected on a big fat $4.55B insurance payout after they fell. Silverstein\u2019s firm and Cantor Fitzgerald enjoyed a fruitful partnership for decades. In 2019, NYC real estate developer David Mitchell sent Epstein the details on their latest project. Silverstein also happily knew to stay away from the towers the day of the attacks.\n\ud83d\udd36 Other members of [Epstein\u2019s inner circle](https://t.me/geopolitics_prime/65124) also knew to do the same, with Sarah Ferguson, Epstein confidant and ex-wife of Andrew, just missing being in one of the buildings due to a \u201clucky\u201d morning interview and heavy NY traffic afterwards.\n\ud83d\udd36 Ferguson and her ex-husband Andrew also introduced Epstein to Saudi businessman Adel Ghazzawi, whose Florida family home was visited by three of named \u201chijackers\u201d before the attacks.\n\ud83d\udd36 Epstein was heavily involved in [9/11\u2019s fallout ](https://t.me/geopolitics_prime/56338)long after the attacks, warning MBS in 2016 about the danger of US court judgements seizing Saudi assets under the Justice Against Sponsors of Terrorism Act (JASTA), and promising to help tie up JASTA-linked litigation using connections to former Obama White House Counsel Kathryn Ruemmler and independent counsel Kenneth Starr.\n\ud83d\udd36 Epstein\u2019s ties to [the Mossad](https://t.me/geopolitics_prime/52620) and Israel\u2019s links to 9/11 are their own rabbit hole to go down. Suffice it to say that there are plenty [of oddities around Israel\u2019s behavior](https://t.me/geopolitics_prime/54397), from the \u2018dancing Israelis\u2019 caught in New Jersey that day, to Mossad founder Isser Harel\u2019s 1970s prediction that \u2018Islamist terrorists\u2019 would target NY\u2019s tallest buildings, to a Kabballist rabbi praying for the WTC to fall during a visit to NYC a week before it happened, to Netanyahu\u2019s infamous comment about the attacks being \u201cvery good\u201d for Israel-US ties.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T14:32:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
