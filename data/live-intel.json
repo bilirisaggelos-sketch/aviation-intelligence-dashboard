@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T05:09:37.441903+00:00",
+  "generated_at": "2026-09-11T09:46:39.923162+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -155,25 +155,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Tuesday, September 8, 2026 through Friday, September 11, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/06/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNew York, NY, Friday, September 11, 2026 through Friday, September 11, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
@@ -306,25 +287,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches",
-      "text": "Russia's new jet-powered drones outpacing Ukraine's air defences with daily launches\nThe new models can travel at speeds of up to 300mph, faster than Ukraine's air defence interceptors.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-10T04:43:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Today, for the first time, Yemen struck Saudi Arabia\u2019s East-West Pipeline, which carries crude oil from Abqaiq to Yanbu on the Red Sea coast\nMultiple fire hotspots were detected at six points along the pipeline route at roughly the same time, around 17:56 UTC.",
@@ -336,24 +298,23 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Q: How is Iran getting missiles off if we decimated them?\nTrump: They can always get off missiles. They had plenty of them.\nThey will always have some missiles.",
+      "text": "T\u00fcrkiye\u2019s AKINCI drone has now successfully test-fired both ROKETSAN\u2019s UAV-300 and UAV-122 missiles.\nThe key milestone was the UAV-300 supersonic ballistic missile, which scored a bull\u2019s-eye at 250+ km, confirming AKINCI\u2019s long-range ballistic strike capability.\nThe smaller UAV-122 was also successfully fired during the test.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T01:29:24+00:00",
+      "timestamp": "2026-09-11T09:37:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -367,12 +328,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Vice President JD Vance privately sought direct, unfiltered assessments from U.S. military commanders about the Iran war, and what he heard was much more concerning than the administration\u2019s public message. \nCommanders warned that the war was draining critical U.S. weapons stockpiles, particularly Patriot interceptors and long-range missiles, while potentially weakening America\u2019s ability to deter China, Russia and North Korea.\nThey also told Vance that Iran was proving more resilient than expected and willing to absorb enormous damage rather than collapse.\nVance, who had opposed the war before it began, used these private assessments to advise Trump and became increasingly involved in efforts to negotiate an end to the conflict.\nSource: NYT",
+      "text": "The UAE is redesigning parts of its planned 5GW Abu Dhabi AI campus after Iranian drone and missile attacks exposed the vulnerability of Gulf data centers.\nOfficials are considering dedicated air defenses around the compute clusters and underground or hardened facilities for critical servers, power and cooling infrastructure.\nThe attacks damaged AWS facilities and other UAE infrastructure, while Iran\u2019s IRGC later identified G42\u2019s planned campus among potential targets.\nConstruction has not stopped. The first 200MW phase is reportedly nearing completion, with executives saying work \u201cnever stopped.\u201d \nOpenAI\u2019s planned 1GW Stargate UAE cluster remains part of the larger project.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T20:21:31+00:00",
+      "timestamp": "2026-09-11T09:13:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BREAKING: Yemen's Houthis seized Perim (Mayyun) Island and completed control of the Bab-el-Mandeb Strait. \nReuters separately reports they've reached Dhubab, the coastal city directly on the strait. \nThe Houthis now control nearly the entire Yemeni Red Sea coast.\nThis is arguably the most strategically significant territorial gain in the entire Yemen war. \nPerim sits in the middle of the 29 km-wide strait and physically splits it into two shipping channels. \nHolding the island plus the adjacent coastline means the Houthis can threaten passing ships with artillery and short-range weapons \u2014 not just longer-range missiles and drones from further inland.\nThe strategic nightmare is now real. \nIran already controls pressure on Hormuz. \nSaudi Arabia has been routing more oil west through the East-West pipeline to the Red Sea port of Yanbu to bypass Hormuz. \nThe Houthis have now closed off that workaround at the exit point. \nBoth of the Middle East's critical shipping chokepoints are under Iranian-axis pressure simultaneously. \nThere is no easy third route. Roughly 10% of global seaborne trade normally passes through Bab-el-Mandeb.\nBrent crude is above $107. \nSource: AFP, Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T08:26:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -576,25 +556,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\u26a1 Yemen's Houthi fighters enter Al Mokha city as armed forces patrol the main streets, receiving a warm welcome from residents on the ground.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T15:28:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 The public relations department of the IRGC reports that it destroyed an American Saildrone near Strait of Hormuz\nIran\u2019s Islamic Revolutionary Guard Corps says its Navy targeted and destroyed a U.S. unmanned Saildrone, near the entrance to the strategic Strait of Hormuz.\nThe IRGC said the USV drone was deployed as part of an \u201caggressive mission\u201d and warned that any hostile presence in the strait would be targeted.",
       "source": "Telegram",
@@ -635,33 +596,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Multiple thermal anomalies and visible smoke plumes have been detected on satellite imagery along the route of Saudi Arabia\u2019s East\u2011West pipeline, which carries crude oil from Abqaiq on the Gulf coast to Yanbu on the Red Sea. \nThe heat signatures were recorded earlier today at: \n```\n \n 23.8811, 39.7044\n23.8955, 39.6197{}\n \n```\nThe visible smoke on the satellite timelapse over the area has raised concern about the scale of the incident, suggesting a significant hydrocarbon fire. \nThe number and spread of alerts along the same corridor have raised suspicions of a coordinated attack conducted by the Houthi's. Houthi forces have previously threatened to strike Saudi energy infrastructure. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ozon has suspended all e-commerce orders in Russia's Saratov region after Ukrainian attack drones set its distribution center ablaze this morning.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T02:46:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "CASELS",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 GRAPHIC: An IDF drone strike targeted a group of people near the Al-Quba Mosque, west of Khan Younis, Gaza according to local reports.\nThree people were reportedly killed. Locals say that one of those killed was identified as the 'Engineer' Huthaifa Hamdi Muammar.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T02:45:36+00:00",
+      "timestamp": "2026-09-11T07:08:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -675,12 +615,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 An IDF drone strike targeted a vehicle inside Hamad City, north of Khan Younis, Gaza, according to local reports.\nTwo people were reportedly killed in the strike.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Israeli military:\n\"Last night (Thursday), IDF surveillance identified indications of activity in preparation for a smuggling attempt in the eastern border area.\nFollowing the findings, forces from the Jordan Valley and Foothills Brigade, officers from the Israel Police Jordan Border Unit of the Judea and Samaria District, and Border Police forces in Judea and Samaria operated jointly and established ambushes in the area.\nDuring the operation, two residents of Jericho were arrested. More than 30 pistols and two M-16 rifles were seized.\nThe suspects and weapons were transferred for further investigation by the Judea and Samaria District Central Unit.\nSecurity forces are deployed along the eastern border and continue to operate to thwart smuggling attempts and safeguard the security of the citizens of Israel.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T02:45:18+00:00",
+      "timestamp": "2026-09-11T07:08:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,6 +628,139 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Footage shows the moment of a missile impact in Volgograd during the combined Ukrainian missile and drone attack overnight. Damage assessment is still ongoing.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T07:07:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukrainian drones struck the Azot branch of Uralchem in Berezniki, Perm region, on the morning of September 11. A fire was reported at the facility following the attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T07:07:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russian observers report Ukrainian FP-1 long-range drones moving toward Berezniki in Russia's Perm region, where a suspected attack on a chemical facility is underway. The city hosts Uralchem's Azot plant, a major producer of ammonia, nitric acid and ammonium nitrate. Investigative reporting and railway data have linked its shipments to Russian defense manufacturers including the Sverdlov explosives plant, Biysk Oleum Plant and Perm Gunpowder Plant.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T07:07:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine launched a combined drone and missile attack on Volgograd overnight. Multiple sources claim drones and FP-5 Flamingo cruise missiles were used. Regional governor Andrey Bocharov confirmed an \"industrial enterprise\" in southern Volgograd was affected, while \"debris\" was also reported in the area. The Volgograd oil refinery is suspected to have been the target, but this has not been confirmed.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T07:07:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fUkrainian drones attacked the Saratov oil refinery in Russia, a Rosneft facility that has been targeted several times before. The plant can process up to 7 million tonnes of crude oil annually, around 2.2% of Russia's total refining capacity. It produces gasoline, diesel and fuel oil, and directly supplies fuel and lubricants to the Russian Armed Forces and military-industrial complex.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T07:07:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "US builds $1.2M 'bunker-buster lab' after failing to crack Iran\u2019s underground sites\n\u00a0\nThe Pentagon is spending millions trying to solve a problem it has already struggled with: how to destroy Iran\u2019s deeply buried nuclear infrastructure.\n\u00a0\n\ud83d\udc49 Several days before the conflict with Iran began in late February, the Pentagon\u2019s Defense Threat Reduction Agency published a document showing it had awarded almost a $1.2 million contract to upgrade a \u201cunique subterranean test facility\u201d at White Sands Missile Range in New Mexico for a live-fire test aimed at developing capabilities against emerging underground threats.\n\u00a0\nSince early March, the remote location known as the Alternate Seismic Hardrock in Situ Test Site has continued to accumulate excavations, with the test site also carved into granite, similarly to Pickaxe Mountain.\n\u00a0\n\u27a1\ufe0f Now, the US is reportedly preparing new tests at the simulated underground facility to develop methods for striking Iran\u2019s Pickaxe Mountain site\u2014a hardened underground complex near Natanz that Washington and Israel believe houses Iran\u2019s enriched uranium stockpiles.\n\u00a0\nPresident Donald Trump has repeatedly threatened to target the site, arguing that hitting the underground facility would be necessary to limit Iran\u2019s nuclear capabilities.\n\u00a0\nThe challenge for the US is that even its largest conventional bunker-busting weapons may not guarantee the destruction of facilities built deep underground. Earlier strikes on facilities such as Natanz and Fordow were presented as major blows, yet Iran maintained the ability to preserve key underground infrastructure and continue operations. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T09:29:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25\ud83c\udde8\ud83c\uddf3 China\u2019s nuclear subs just got a missile built to reach the US\n\u00a0\nThe Chinese navy is refitting its fleet of nuclear-powered submarines to carry the new JL-3 intercontinental ballistic missile, Taipei Times reports.\n\u00a0\nThe JL-3 is expected to become a key pillar of China\u2019s nuclear arsenal, strengthening the country\u2019s ability to retaliate in the event of an enemy attack.\u00a0\n\u00a0\nHere\u2019s why:\u00a0\n\u00a0\n\ud83d\udd34 The missile\u2019s 10,000 km range allows China to target the northwestern US, as well as Alaska, Guam and Hawaii, from Chinese waters\u00a0\n\u00a0\n\ud83d\udd34 The JL-3 is capable of carrying multiple independently targetable re-entry vehicles, with at least three nuclear warheads per missile\n\u00a0\n\ud83d\udd34 An estimated yield of each warhead is around 250 to 1,000 kilotons, enabling a single missile to strike multiple targets\n\u00a0\n\ud83d\udd34 Unlike liquid-fuel missiles, the JL-3 uses solid fuel, making it easier to maintain aboard submarines while keeping it ready for launch\n\u00a0\nThe JL-3 is therefore set to strengthen the sea-based leg of China's nuclear triad, giving the PLA a more survivable long-range strike capability from its submarine fleet.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T06:29:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -703,52 +776,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Your iPhone is getting smarter... and so is its surveillance\nApple has spent years posing as the guardian of user privacy. Its latest AI push, however, raises a familiar question: where does convenience end and surveillance begin?\nDuring its latest presentation, Apple unveiled Siri Audio Intelligence \u2014 a feature designed to make your devices constantly listen, process conversations and turn everyday interactions into searchable summaries.\nThe tech giant frames it as a productivity tool:\n\ud83d\udd34 Siri Recap can \u201ctake notes on your conversations throughout your day\u201d and generate summaries using Apple Intelligence\n\ud83d\udd34 Live Rewind can store the last 15 seconds of a conversation, allowing users to revisit something they missed\n\ud83d\udd34 Conversations can be stored for up to seven days \u2014 or saved indefinitely through the Siri app and iCloud.\nApple insists that your privacy remains protected, claiming that \u201caudio is never recorded or stored\u201d and that raw audio is inaccessible. Yet just a few paragraphs later the same release says that users can ask Siri about their conversations, share transcripts and save them to iCloud.\nIn other words, the company says your audio is not being stored \u2014 while introducing a system built around remembering what you said.\nA few months before the release, Apple acquired an Israeli AI startup, Q.ai, a company specializing in audio processing and technologies that analyze facial micromovements to detect speech, identify individuals and assess physiological signals such as emotions, heart rate and breathing patterns.\nQ.ai founder Aviad Maizels, also behind PrimeSense \u2014 the technology that helped enable Apple\u2019s Face ID \u2014 described the merger as opening \u201cextraordinary possibilities.\u201d\nWhen governments can combine facial recognition, location data and behavioral analysis, surveillance stops being just about security and becomes a question of how much power institutions should have over individual lives.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T23:59:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc40 Palantir's new partner: Meet Nebius, the company based in Israel\nNebius, once a subsidiary of Russian tech giant Yandex, is now Palantir's infrastructure partner of choice for sovereign AI. Palantir's clients, from the industrial and defense sectors of the US, Ukraine, and Israel to intelligence agencies further afield, will build custom systems tailored to their own missions.\n\ud83d\udc41 What is Nebius?\nNebius Group, formerly Yandex N.V., spent 2014 to 2022 as a subsidiary of Russia's Yandex, operating mainly across Europe and Israel. In 2022, its chief, Arkady Volozh, fled Russia for Israel, declared the company's break from the Yandex ecosystem, and gave it a new name, Nebius Group. Ever since, both Volozh and the company have called Israel's Haifa as home.\nThe rebranded outfit wasted no time drawing investment: from Nvidia, along with the funds Accel and Orbis Investments, as it moved into close cooperation with Mossad and the IDF, and through them, via international channels, with the US. \nSince 2023, with Israeli backing, Nebius has been building its own data centers on American soil, namely in New Jersey and Missouri.\n\ud83d\udcc8 The American partnership grows\nIn 2025, Microsoft signed a $19.4 billion deal with Nebius for AI compute capacity. That same year, Meta struck a $3 billion contract, then followed up in 2026 with another worth up to $27 billion.\nThe thing is Arkady Volozh, who has loudly severed every tie to Russia, first threw in with Israeli security services long dominant in cybersecurity and digital espionage, and then led his company collaborating with American big tech, [including Palantir](https://t.me/geopolitics_prime/71524). \nIt was almost the same time when Palantir CEO Alex Carp [officially handed](https://t.me/geopolitics_prime/69475) Zelensky its military AI to strike targets inside Russia and plan Ukraine's on the front line.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-10T20:49:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
