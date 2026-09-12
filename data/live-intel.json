@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T13:43:45.050746+00:00",
+  "generated_at": "2026-09-12T16:33:27.493453+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -260,12 +260,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News"
+        "BBC World News",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -308,12 +309,88 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukrainian drones hit sanctioned Russian tanker Armada Leader off Sochi despite a Russian helicopter firing at the incoming drone.\nThe drone evaded and struck anyway. \nThis is part of Operation MoLoChKa, which Ukraine says has hit 285 Russian vessels since July.",
+      "text": "Russia has been drone-striking gas stations inside Kyiv, hitting them district by district during morning rush hour, including a double-tap strike that hit first responders 15 minutes after the initial attack. \nA target list of ~20 Kyiv stations is circulating. \nThis is an expansion of a months-long campaign that's already hit 200\u2013300 stations nationwide, mostly near the front lines.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T12:50:41+00:00",
+      "timestamp": "2026-09-12T15:59:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "T\u00fcrkiye strongly condemned drone attacks launched from Iraqi territory against Saudi Arabia, reaffirming its support for Saudi Arabia\u2019s sovereignty and territorial integrity.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T15:40:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Myanmar resistance launched fiber-optic FPV drones at Russian Yak-130 jets parked at Tada-U Air Base near Mandalay, piloted by female PDF operators. \nThe drones evaded radio jamming but footage shows them failing to get past protective netting draped over the hangars, making three close runs without threading the gaps. \nResistance claims hits on four jets; junta says nothing was damaged.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T14:21:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Houthi fighters somewhere near Bab el-Mandeb:\nEritrea is opposite us... and Djibouti. This strait was under American rule, under international guardianship, under American agendas. \nNow, it is in the hands of Yemen. What does that mean? It means safety for the whole world.\nDeath to America! Death to Israel! \nA curse upon the Jews! Victory to Islam!",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T14:17:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nRussia is producing 140 ballistic missiles per month. According to NATO standards, intercepting 140 missiles requires 280 interceptors. \nThe ratio is one to two. However, you will never get 280 missiles for \"Patriot\" systems per month. Even 100 missiles would be a huge challenge.\nBut that's what I want: to have 100-120 interceptors for the difficult, cold months ahead.\nWill the Americans be willing to provide us with something from their reserves? I don't know. We'll see.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T14:13:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -516,25 +593,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfe\ud83c\uddea Anthropic says Yemen-based actors (most likely Ansar-Allah) used Claude to develop guided weapons\nAnthropic says it identified a group of threat actors in northern Yemen that used Claude Code to develop software for guided weapons, including a guided rocket, a ballistic missile programme and a missile variant involving a hypersonic glide vehicle.\nThe company said the actors used multiple Claude instances for coding, research and code review, while attempting to evade safeguards by hiding their goals and splitting work across sessions.\nAnthropic said its safeguards blocked many requests, but not all. The group eventually test-fired a guided rocket, which appears to have failed, and returned to Claude to investigate the failure.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T11:49:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddf5 U.S. PACOM on recent North Korean missile launch:\nWe are aware of the recent missile launch and are consulting closely with our allies and partners. Based on current assessments, this event does not pose an immediate threat to U.S. personnel or territory, or to our allies. The United States remains committed to the defense of the U.S. homeland and our allies in the region.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -570,6 +628,83 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83c\uddec\ud83c\udde7Britain sanctions Israeli settlers \u2014 while keeping Israel\u2019s military machine close\n\u00a0\nDays before London announced sanctions on Israeli settlers, more than 300 British soldiers took part in Pegasus Athena, a major training exercise facilitated by Elbit Systems UK, the British subsidiary of Israeli defense giant Elbit Systems.\n\ud83d\udc49 That is just one example of how deeply Israel\u2019s defense industry is embedded in Britain\u2019s military \u2014 raising serious questions about whether London can claim to oppose the occupation while maintaining such extensive military ties with Israel.\n\u00a0\nElbit\u2019s involvement goes far beyond Pegasus Athena:\n\ud83d\udfe5 $138m \u2014 a five-year MoD contract awarded in 2021 for a system allowing frontline troops to detect and engage targets within seconds.\n\ud83d\udfe5 $139m \u2014 a 2021 contract for the Maritime Electronic Warfare System, providing anti-missile defense for British warships, including Queen Elizabeth-class aircraft carriers and Type 45 destroyers.\n\ud83d\udfe5 $88m \u2014 a 12-year contract awarded in 2021 to an Elbit-linked joint venture to operate training aircraft for Britain\u2019s Military Flying Training System.\n\ud83d\udfe5 $19m \u2014 a 2023 contract for ground-based surveillance radar systems delivered to the Royal Artillery.\n\ud83d\udfe5 $16m \u2014 an initial contract for night-vision equipment supplied to the British Army by Elbit subsidiary Instro Precision, followed by more than $22m in additional orders.\n\ud83d\udfe5 $2.7bn \u2014 the value of the Watchkeeper drone program overseen by U-TacS, a joint venture involving Elbit UK.\n\u00a0\nAnd Elbit is only one part of the picture. Rafael, Israel\u2019s state-owned defense company, has also secured major British contracts:\n\u2666\ufe0f $51m \u2014 a 2024 MoD contract for counter-drone systems.\n\u2666\ufe0f $27m \u2014 a 2023 contract for protection systems for Britain\u2019s Challenger 3 tanks.\nRafael supplies key technology for Sky Sabre, Britain\u2019s air-defense system, including systems deployed at sensitive sites such as the Falklands.\nIts Litening targeting pods are used by RAF Eurofighter Typhoons.\nIts UK subsidiary Pearson Engineering secured a $14m contract for mine-clearing equipment for the British Army.\nThen there is Project HEZUK \u2014 a secret UK-Israel defense program developed in 2019 to counter Iran and Hezbollah.\nThe cooperation reportedly covered:\n\ud83d\udd34 Autonomous warfare\n\ud83d\udd34 Space\n\ud83d\udd34 Maritime capabilities\n\ud83d\udd34 Quantum technologies and advanced manufacturing\n\ud83d\udd34 Potential energy weapons and other advanced defense systems\n\u00a0\nThe military relationship is only part of it. Britain\u2019s intelligence ties with Israel are also set to remain intact, with no indication that the 2020 UK-Israel military cooperation agreement or the 2023 bilateral relations roadmap will be suspended.\n\u00a0\nThe International Court of Justice ruled in 2024 that Israel\u2019s occupation is unlawful and said states must not provide aid or assistance in maintaining the situation created by the occupation. Yet Britain continues to train with, buy from, and develop military capabilities alongside Israel\u2019s defense industry.\n\u00a0\nSanctions on settlers and military integration with Israel: the UK\u2019s double standards are hard to miss.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T15:45:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f MTV\u2019s Cribs: Bab al-Mandab Edition\n\u201cBelieve it or not, today we are at the most important point in the world. We are in Bab al-Mandab,\u201d a Houthi warrior said, standing with his comrades on Perim \u2013 the volcanic island jutting out in the center of the immensely strategically important strait.\n\u201cThis is the Red Sea. This is Mayun Island [Perim\u2019s Arabic name, ed.], and this is the continent of Africa. Here is the Gulf of Aden, and over there is the Arabian Sea,\u201d the fighter explained, pointing in different directions.\nThe makeshift video report was made possible by the Houthis\u2019 surprise lightning blitz this week against Saudi-backed puppet Yemeni government forces in Mokha, which culminated in the liberation of the entire Red Sea coast, Perim to the south, and the Hanish Archipelago to the north, leaving them in total, undisputed control over Bab al-Mandab and the surrounding area.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T15:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russia\u2019s strike drone slammed into a military train in Ukraine's Lutsk\nLocal social media are reporting the hit and posting related footage.\nUkrainian Railways has officially confirmed it: notably, they didn't even bother to call it an \"attack on civilian infrastructure.\"\nLocals on social media report the train was hauling equipment and personnel for the Ukrainian army.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T13:54:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96Could Ansar Allah\u2019s military gains push Gulf states into a new security pact with Iran?\nAnsar Allah (Houthis)' blitzkrieg to Mokha and Yemen's western coast has killed several birds with one stone, siezing control over Bab el-Mandeb, giving a lesson to Saudi Arabia, nixing the UAE-Israeli surveillance bid, and potentially opening the door to a new West Asian security architecture.\nSaudi Arabia's major push against the Yemenis, which started with Trump-blessed airstrikes on Sanaa in July, has so far ended up miserably: neither the US nor Pakistan has met Riyadh's request for military backing in [its new round of the Yemen war.](https://t.me/geopolitics_prime/74276)\nMeanwhile:\n\u2666\ufe0f Ansar Allah has liberated the[ strategic port of Mokha](https://t.me/geopolitics_prime/74480), the surrounding region, the coastline down to Bab el-Mandeb, and[ a number of key islands in the Red Sea.](https://t.me/geopolitics_prime/74392)\n\u2666\ufe0f Attacks on S[audi Arabia's trans-Indo-Pacific East-West oil pipeline](https://t.me/geopolitics_prime/74389), used by Riyadh to circumvent the nearly completely closed Strait of Hormuz, forced the Saudis to shut it down. The pipeline carried Saudi oil from Abqaiq to Yanbu on the Red Sea.\n\u2666\ufe0f Saudi Arabia's extensive network of mercenary forces in [Western Yemen has de facto collapsed.](https://t.me/geopolitics_prime/74329)\nAnsar Allah's capture of vital islands in the Red Sea has serious geostrategic consequences:\n\ud83c\udf0f The Houthis' capture of the strategically important island of Perim, which sits at the narrowest point of the Bab al-Mandeb Strait, gives them ultimate control of the waterway.\n\ud83c\udf0f The reported liberation of Zuqar \u2013 part of the Hanish Islands \u2013 appears to have undermined Emirati-Israeli spy efforts in the region, military experts claim.\nIn October 2025, satellite images showed an [airstrip built on Zuqar](https://t.me/geopolitics_prime/58447), a strategic island in the Red Sea about 88.5 km south of the port of Hodeidah, held by the Houthis. AP reported at the time that the UAE was involved in the military construction project, aimed at establishing a launching point against Ansar Allah and surveillance over its activities in the Red Sea and the nearby coastline. The construction reportedly started in April 2025.\n\u203c\ufe0f A strategic foothold by the UAE in the Red Sea would have enabled the Israeli-UAE Hexagon Alliance, aka the Abraham Accords Axis, to exert pressure on Yemen, making its liberation crucial for Ansar Allah.\nPersian Gulf states meeting in Oman\nA September 14 meeting in Muscat bringing together Iran, Iraq, and other countries bordering the Persian Gulf and Gulf of Oman has been announced by Iranian Foreign Ministry spokesman Esmaeil Baghaei on Friday.\nBaghaei noted that Iran had sought to build regional trust and cooperation for peace and stability, free from \u201cdestructive and divisive\u201d outside intervention. He also stressed that the meeting would address the outcome of Iran-Oman talks on commercial shipping through the Strait of Hormuz.\nThe timing, which coincided with successful Houthi advancements, is telling.\nIf Saudi Arabia and other regional powers attend the meeting, it will be game over for Trump's ambitions in the Gulf as well as for US and Israeli war planners' dream to keep the region under their military control, geopolitical observers say. At the same time, it could open the door to a new regional security architecture.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T13:48:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -618,63 +753,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-12T11:02:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 Ukraine's air defenses fail to intercept a single ballistic missile overnight\nUkraine intercepted none of Russia's ballistic missiles launched overnight, according to the Ukrainian military's morning report.\nAnd the brunt of the strikes came from Iskander missiles: a fact previously confirmed across local social media.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T07:25:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83e\ude78Failing to defeat Iran on the battlefield, Mossad adopts \u2018death by a thousand cuts\u2019 strategy\n\u00a0\n[Gut-punched by the Iranians](https://t.me/geopolitics_prime/73222) after unleashing a war they spent generations planning, Israel\u2019s premier intelligence agency has suffered a series of high-profile purges at new Mossad boss [Roman Gofman\u2019s hands](https://t.me/geopolitics_prime/73620).\n\ud83d\udc49 That includes the sacking of his deputy, the head of the Iran desk, and the chief of the intelligence directorate \u2013 all of them intimately involved in [plotting Mossad\u2019s effort to break up the Islamic Republic from within.](https://t.me/geopolitics_prime/62120)\nBut besides personnel changes, Gofman reportedly also plans to change the agency\u2019s entire approach to Iran. JPost says the shakeup includes recognition that \u201cthe old Mossad Kurdish revolt plan\u201d and bonkers plot to try replace Ali Khamenei with former president Mahmoud Ahmadinejad are in tatters, and that Mossad could face resistance from Washington in any new regime-change-by-assassination scheme.\n\u203c\ufe0f Gofman is reportedly betting on a \u201cdeath by a thousand cuts\u201d strategy, including more \u201ckinetic\u201d Hezbollah beepers-style attacks, renewed efforts to thwart Iran\u2019s missile programs, plus expanded[ Mossad social media and psychological warfare operations ](https://t.me/geopolitics_prime/65472)(seems the twerking IDF girl videos are proving less effective than expected, particularly on younger Americans).\nJPost even hints at[ potential \u201coffensive-minded\u201d Mossad attacks](https://t.me/geopolitics_prime/67951), although this frames it as [a tit-for-tat response](https://t.me/geopolitics_prime/74182) to supposed Iranian plots against Jews worldwide [(last time we checked it was Israel, not Iran, that was the one bombing Tehran\u2019s Jewish community](https://t.me/geopolitics_prime/74031), and[ ](https://t.me/geopolitics_prime/74182)using jihadists implicated in global terror plots[ ](https://t.me/geopolitics_prime/74182)to push its interests in the Middle East against genuinely anti-imperialist Islamic warriors).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T06:05:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf1Israel levels chunk of south Lebanon with suitcase nuke-sized 1.1 kiloton blast\nThe IDF says it used over 1.1k tons of explosives to destroy \u201cHezbollah tunnels\u201d under Ali al-Taher Ridge \u2013 a commanding height overlooking vital transit corridors in southern Lebanon.\nThat amount of TNT, equivalent to the throw-weight of a mini-nuke, triggered a 4.1 magnitude tremor felt across the area.\nBesides the tunnels, Israeli forces continued their systematic destruction of civilian infrastructure, destroying homes, a school, two water wells, a waste-storage facility, industrial and agricultural sites.\n\ud83d\udcac \u201cSince midnight last night, Mansouri and its surrounding areas have witnessed more than 10 powerful explosions, causing strong tremors that were felt by residents of the city of Tyre and surrounding villages,\u201d an Al Mayadeen correspondent reported.\nLebanon\u2019s National News Agency reported that the IDF rampage featured a novel means of destruction \u2013 drones dropping explosive barrels onto the rooftops of homes and detonating them (\u2018indiscriminate barrel bomb bombardment by Assad\u2019 was a favorite talking point of legacy media during the Syrian civil war, but is apparently fine when Israel does it, judging by the lack of coverage).\nA retired Lebanese Army general told Saudi-UK media that Israel\u2019s campaign is effectively \u201creshaping the geography\u201d of southern Lebanon \u201cand altering the terrain to create a military landscape better suited to its army.\u201d\n\ud83d\udd0a \u201cThe natural geography is being changed to make surveillance, observation and monitoring easier for the Israeli Army,\u201d and homes standing \u201cat commanding, elevated locations\u2026are being destroyed because of the importance of their position \u2013 not necessarily because they contain infrastructure or ammunition, or belong to Hezbollah or its members.\u201d\nIsrael has been open about its goals, demanding that residents of more than 100 towns and villages and up to 300 municipalities evacuate their communities. The ethnic cleansing campaign covers up to 2k sq. km of Lebanese territory (close to 20% of the country\u2019s land area) and includes the entire area south of the Litani River, and since expanded to beyond the Zahrani River.\n\ud83d\udc49 Lebanese researchers fear up to 85k buildings have been damaged or destroyed to date, accounting for more than 70% of all structures in these regions, including housing, schools, mosques and churches.\nLebanon\u2019s Agricultural Research Institute and ministry of agriculture have also reported the use of bulldozers, white phosphorous and fires to destroy tens of thousands of centuries- and [even millennia-old olive trees](https://t.me/geopolitics_prime/68093), and generational fruit orchards \u2013 [the same tactic the IDF and settlers have used](https://t.me/geopolitics_prime/73395) to effect in the West Bank and Gaza.\nSome of these trees date back to the Roman era. It seems Israel is intent on turning the popular historical myth of Rome\u2019s use of salt the earth-tactics against Carthage into a modern-day reality in Lebanon.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T05:25:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
