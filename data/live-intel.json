@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T05:51:14.253886+00:00",
+  "generated_at": "2026-09-12T10:30:25.234883+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -60,25 +60,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/11/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, September 11, 2026 through Sunday, September 13, 2026 Local\nFacility: ZAB",
       "source": "FAA",
       "source_type": "official",
@@ -87,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/10/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 11, 2026 through Saturday, September 12, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/10/2026",
-      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -193,6 +155,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3742\r\nIssue Time: 2026 Sep 12 0645 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3741\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 7008 pfu\nMax time: 2026 Sep 11 1355 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-12 06:45:35.603",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3741\r\nIssue Time: 2026 Sep 11 0501 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3740\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 1391 pfu\nMax time: 2026 Sep 11 0455 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -268,25 +249,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3738\r\nIssue Time: 2026 Sep 09 0538 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3738\nBegin Time: 2026 Sep 08 1550 UTC\nYesterday Maximum 2MeV Flux: 1003 pfu\nCORRECTED",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-09 05:38:36.473",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
       "text": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq\nIraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
       "source": "BBC",
@@ -301,8 +263,8 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News",
-        "Clash Report"
+        "Alsaa Plus EN",
+        "BBC World News"
       ],
       "verified_source_count": 2
     },
@@ -344,46 +306,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iraq has dismissed a military commander after investigations found that recent drone attacks targeting Saudi Arabia were launched from Iraqi territory, the prime minister\u2019s office said. \nThe commander, who oversaw operations in Maysan province in southern Iraq, was removed following the findings.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T03:41:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: U.S. officials say Iran obtained high-resolution satellite imagery from Chinese entities before a July 17 ballistic-missile strike on Muwaffaq Salti Air Base in Jordan that killed three U.S. soldiers and wounded four others. \nOfficials believe the imagery was connected to the attack and may have helped Iran identify valuable targets more accurately. \nThey have not accused the Chinese government of directly taking part, and the specific Chinese entities involved have not been identified.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T03:24:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -511,12 +433,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "BBC World News"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -530,13 +453,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -627,13 +549,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -708,6 +629,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 Ukraine's air defenses fail to intercept a single ballistic missile overnight\nUkraine intercepted none of Russia's ballistic missiles launched overnight, according to the Ukrainian military's morning report.\nAnd the brunt of the strikes came from Iskander missiles: a fact previously confirmed across local social media.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T07:25:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83e\ude78Failing to defeat Iran on the battlefield, Mossad adopts \u2018death by a thousand cuts\u2019 strategy\n\u00a0\n[Gut-punched by the Iranians](https://t.me/geopolitics_prime/73222) after unleashing a war they spent generations planning, Israel\u2019s premier intelligence agency has suffered a series of high-profile purges at new Mossad boss [Roman Gofman\u2019s hands](https://t.me/geopolitics_prime/73620).\n\ud83d\udc49 That includes the sacking of his deputy, the head of the Iran desk, and the chief of the intelligence directorate \u2013 all of them intimately involved in [plotting Mossad\u2019s effort to break up the Islamic Republic from within.](https://t.me/geopolitics_prime/62120)\nBut besides personnel changes, Gofman reportedly also plans to change the agency\u2019s entire approach to Iran. JPost says the shakeup includes recognition that \u201cthe old Mossad Kurdish revolt plan\u201d and bonkers plot to try replace Ali Khamenei with former president Mahmoud Ahmadinejad are in tatters, and that Mossad could face resistance from Washington in any new regime-change-by-assassination scheme.\n\u203c\ufe0f Gofman is reportedly betting on a \u201cdeath by a thousand cuts\u201d strategy, including more \u201ckinetic\u201d Hezbollah beepers-style attacks, renewed efforts to thwart Iran\u2019s missile programs, plus expanded[ Mossad social media and psychological warfare operations ](https://t.me/geopolitics_prime/65472)(seems the twerking IDF girl videos are proving less effective than expected, particularly on younger Americans).\nJPost even hints at[ potential \u201coffensive-minded\u201d Mossad attacks](https://t.me/geopolitics_prime/67951), although this frames it as [a tit-for-tat response](https://t.me/geopolitics_prime/74182) to supposed Iranian plots against Jews worldwide [(last time we checked it was Israel, not Iran, that was the one bombing Tehran\u2019s Jewish community](https://t.me/geopolitics_prime/74031), and[ ](https://t.me/geopolitics_prime/74182)using jihadists implicated in global terror plots[ ](https://t.me/geopolitics_prime/74182)to push its interests in the Middle East against genuinely anti-imperialist Islamic warriors).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T06:05:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
