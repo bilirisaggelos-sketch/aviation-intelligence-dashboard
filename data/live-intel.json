@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-09-12T01:09:55.574257+00:00",
+  "generated_at": "2026-09-12T05:51:14.253886+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Thursday, September 17, 2026 through Friday, September 18, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/12/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nConcord, CA, Wednesday, September 16, 2026 through Wednesday, September 30, 2026 Local\nFacility: ZOA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/12/2026",
+      "location": "ZOA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Monday, September 14, 2026 through Saturday, September 19, 2026 Local\nFacility: ZTL",
@@ -249,6 +287,26 @@
       "verified_source_count": 1
     },
     {
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "text": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq\nIraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-12T04:43:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni ballistic missiles targeting King Fahd Airbase, Saudi Arabia",
@@ -290,12 +348,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Saudi Ministry of Foreign Affairs:\nSaudi Arabia condemns the targeting of the East-West Pipeline by drones coming from Iraq.\nThe Kingdom has chosen not to respond at this stage to the attacks originating from Iraq, in support of the Iraqi government\u2019s efforts.\nThe Kingdom gave the Iraqi government an opportunity to take the necessary measures to prevent such attacks.\nThe Kingdom reserves its right to take all necessary measures to protect its sovereignty, security, and facilities.",
+      "text": "Iraq has dismissed a military commander after investigations found that recent drone attacks targeting Saudi Arabia were launched from Iraqi territory, the prime minister\u2019s office said. \nThe commander, who oversaw operations in Maysan province in southern Iraq, was removed following the findings.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T20:11:40+00:00",
+      "timestamp": "2026-09-12T03:41:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: U.S. officials say Iran obtained high-resolution satellite imagery from Chinese entities before a July 17 ballistic-missile strike on Muwaffaq Salti Air Base in Jordan that killed three U.S. soldiers and wounded four others. \nOfficials believe the imagery was connected to the attack and may have helped Iran identify valuable targets more accurately. \nThey have not accused the Chinese government of directly taking part, and the specific Chinese entities involved have not been identified.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T03:24:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -405,6 +483,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Possible drone and missile attack on targets in Sharorah Governorate.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T01:10:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "Iraq's Prime Minister Ali al-Zaidi ordered the formation of an investigative council and dismissed the commander of military operations in Maysan province, from which Saudi Arabia says the drones that struck its East-West pipeline were launched, according to the Iraqi News Agency. \nAl-Zaidi separately ordered an urgent investigation into the circumstances of the attacks and the parties responsible, with the Iraqi government saying its policy rests on respecting the sovereignty of states and rejecting any aggression against them.\nAl Mayadeen's Iraq bureau chief reported that three senior Iraqi security officials traveled to several Gulf states, including Kuwait, amid the fallout from the attack.\nSaudi Arabia's Foreign Ministry said drones launched from Iraq struck the Riyadh-Medina pipeline, and that it reserves the right to take all necessary measures to protect its sovereignty, security, and critical facilities. Riyadh said it would hold off on retaliating for now, at the request of Iraq's prime minister.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -414,13 +511,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -434,12 +530,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -579,12 +676,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ozon has suspended all e-commerce orders in Russia's Saratov region after Ukrainian attack drones set its distribution center ablaze this morning.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddf5 U.S. PACOM on recent North Korean missile launch:\nWe are aware of the recent missile launch and are consulting closely with our allies and partners. Based on current assessments, this event does not pose an immediate threat to U.S. personnel or territory, or to our allies. The United States remains committed to the defense of the U.S. homeland and our allies in the region.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T07:08:04+00:00",
+      "timestamp": "2026-09-12T04:23:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -598,107 +695,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Israeli military:\n\"Last night (Thursday), IDF surveillance identified indications of activity in preparation for a smuggling attempt in the eastern border area.\nFollowing the findings, forces from the Jordan Valley and Foothills Brigade, officers from the Israel Police Jordan Border Unit of the Judea and Samaria District, and Border Police forces in Judea and Samaria operated jointly and established ambushes in the area.\nDuring the operation, two residents of Jericho were arrested. More than 30 pistols and two M-16 rifles were seized.\nThe suspects and weapons were transferred for further investigation by the Judea and Samaria District Central Unit.\nSecurity forces are deployed along the eastern border and continue to operate to thwart smuggling attempts and safeguard the security of the citizens of Israel.\"",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 The IDF confirmed that Muhammad Yazouri, the commander of Hamas\u2019s Khan Younis Brigade, was killed in last night\u2019s airstrike in Khan Younis.\nAccording to the IDF, Yazouri had recently been directing dozens of attacks against Israeli troops and working to rebuild the brigade\u2019s capabilities.\nThe IDF also confirmed that Hudheifa Muammar, a Hamas company commander, and another Khan Younis Brigade operative, Muhammad Bahjat Rashi, were killed in the same [strike.](https://t.me/wfwitness/110632)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T07:08:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Footage shows the moment of a missile impact in Volgograd during the combined Ukrainian missile and drone attack overnight. Damage assessment is still ongoing.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T07:07:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukrainian drones struck the Azot branch of Uralchem in Berezniki, Perm region, on the morning of September 11. A fire was reported at the facility following the attack.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T07:07:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russian observers report Ukrainian FP-1 long-range drones moving toward Berezniki in Russia's Perm region, where a suspected attack on a chemical facility is underway. The city hosts Uralchem's Azot plant, a major producer of ammonia, nitric acid and ammonium nitrate. Investigative reporting and railway data have linked its shipments to Russian defense manufacturers including the Sverdlov explosives plant, Biysk Oleum Plant and Perm Gunpowder Plant.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T07:07:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine launched a combined drone and missile attack on Volgograd overnight. Multiple sources claim drones and FP-5 Flamingo cruise missiles were used. Regional governor Andrey Bocharov confirmed an \"industrial enterprise\" in southern Volgograd was affected, while \"debris\" was also reported in the area. The Volgograd oil refinery is suspected to have been the target, but this has not been confirmed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T07:07:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian drones attacked the Saratov oil refinery in Russia, a Rosneft facility that has been targeted several times before. The plant can process up to 7 million tonnes of crude oil annually, around 2.2% of Russia's total refining capacity. It produces gasoline, diesel and fuel oil, and directly supplies fuel and lubricants to the Russian Armed Forces and military-industrial complex.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T07:07:31+00:00",
+      "timestamp": "2026-09-12T04:17:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -712,12 +714,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\ud83d\udc7d\ud83d\udde3 Just in time to distract from Epstein, Iran dumpster fires: Trump reportedly plans big \u2018aliens\u2019 reveal\n\u00a0\nTrump is reportedly \u201csitting on a finished speech confirming humanity isn\u2019t alone\u201d in the universe, and the US government is gradually setting the stage for disclosure day, Wired reports.\nFrom hints by his officials that the administration is treating the issue with the utmost seriousness, to fan service to UFO enthusiasts via a trickle of videos and docs on mysterious flying objects (five batches and counting), [to congressional hearings](https://t.me/geopolitics_prime/73321) and priming of the public through media, celebrities and Hollywood (Spielberg\u2019s new Disclosure Day movie), something [\u2018big\u2019 may be on the horizon](https://t.me/geopolitics_prime/70870).\nIn August, GOP megadonor and UFO enthusiast Robert Bigelow said he met with Trump and personally saw an excerpt from his aliens speech, reading: \u201cA non-human, intelligent presence has been on Earth for a very long time, using spacecraft and with performances completely beyond our capabilities and our human physics.\u201d\nTrump has reportedly also told members of his inner circle there are aliens living in the Earth\u2019s oceans.\nThat\u2019s all well and good, but why now? What could possibly be going on in the world that requires [an urgent distraction](https://t.me/geopolitics_prime/61356)? [The Middle East and Eastern Europe on fire](https://t.me/geopolitics_prime/74410)? Check. [Energy prices skyrocketing](https://t.me/geopolitics_prime/73674)? Check. US debt on the brink of a potentially irreversible calamity? Check. Global elites implicated in a monstrous child abuse scandal? Big check. Quick: release the little green men!\nIn 1958, Soviet-Russian sci-fi author Ivan Efremov speculated on humanity\u2019s first contact with an alien lifeform, concluding that this could take place only between civilizations that had resolved all the economic and social contradictions on their home planets to reach for the stars.\nLook around \u2013 does our world look anything like it\u2019s anywhere close? Why would aliens want to hang out with an orange man-child [threatening to wipe out whole civilizations](https://t.me/geopolitics_prime/73029), anyway?\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf1Israel levels chunk of south Lebanon with suitcase nuke-sized 1.1 kiloton blast\nThe IDF says it used over 1.1k tons of explosives to destroy \u201cHezbollah tunnels\u201d under Ali al-Taher Ridge \u2013 a commanding height overlooking vital transit corridors in southern Lebanon.\nThat amount of TNT, equivalent to the throw-weight of a mini-nuke, triggered a 4.1 magnitude tremor felt across the area.\nBesides the tunnels, Israeli forces continued their systematic destruction of civilian infrastructure, destroying homes, a school, two water wells, a waste-storage facility, industrial and agricultural sites.\n\ud83d\udcac \u201cSince midnight last night, Mansouri and its surrounding areas have witnessed more than 10 powerful explosions, causing strong tremors that were felt by residents of the city of Tyre and surrounding villages,\u201d an Al Mayadeen correspondent reported.\nLebanon\u2019s National News Agency reported that the IDF rampage featured a novel means of destruction \u2013 drones dropping explosive barrels onto the rooftops of homes and detonating them (\u2018indiscriminate barrel bomb bombardment by Assad\u2019 was a favorite talking point of legacy media during the Syrian civil war, but is apparently fine when Israel does it, judging by the lack of coverage).\nA retired Lebanese Army general told Saudi-UK media that Israel\u2019s campaign is effectively \u201creshaping the geography\u201d of southern Lebanon \u201cand altering the terrain to create a military landscape better suited to its army.\u201d\n\ud83d\udd0a \u201cThe natural geography is being changed to make surveillance, observation and monitoring easier for the Israeli Army,\u201d and homes standing \u201cat commanding, elevated locations\u2026are being destroyed because of the importance of their position \u2013 not necessarily because they contain infrastructure or ammunition, or belong to Hezbollah or its members.\u201d\nIsrael has been open about its goals, demanding that residents of more than 100 towns and villages and up to 300 municipalities evacuate their communities. The ethnic cleansing campaign covers up to 2k sq. km of Lebanese territory (close to 20% of the country\u2019s land area) and includes the entire area south of the Litani River, and since expanded to beyond the Zahrani River.\n\ud83d\udc49 Lebanese researchers fear up to 85k buildings have been damaged or destroyed to date, accounting for more than 70% of all structures in these regions, including housing, schools, mosques and churches.\nLebanon\u2019s Agricultural Research Institute and ministry of agriculture have also reported the use of bulldozers, white phosphorous and fires to destroy tens of thousands of centuries- and [even millennia-old olive trees](https://t.me/geopolitics_prime/68093), and generational fruit orchards \u2013 [the same tactic the IDF and settlers have used](https://t.me/geopolitics_prime/73395) to effect in the West Bank and Gaza.\nSome of these trees date back to the Roman era. It seems Israel is intent on turning the popular historical myth of Rome\u2019s use of salt the earth-tactics against Carthage into a modern-day reality in Lebanon.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T20:01:01+00:00",
+      "timestamp": "2026-09-12T05:25:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian ballistic missiles turned another night in Ukraine red-hot\nAccording to local social media, explosions rocked Krivoy Rog, Dnepropetrovsk, Zaporozhye, and the Odessa, Sumy, Chernigov and Kiev regions.\nIts residents report incoming Iskander missiles and glide bombs.\nIn Krivoy Rog, as local authorities say, the strike hit an industrial facility.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T04:41:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
