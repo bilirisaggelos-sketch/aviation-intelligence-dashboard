@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-12T16:33:27.493453+00:00",
+  "generated_at": "2026-09-12T18:48:22.371446+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nWhite Sands, NM, Tuesday, September 15, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/12/2026",
+      "location": "ZAB NM",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Thursday, September 17, 2026 through Friday, September 18, 2026 Local\nFacility: ZNY",
@@ -271,12 +290,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni ballistic missiles targeting King Fahd Airbase, Saudi Arabia",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Alerts in Khamis Mushait and Abha\nYemeni ballistic missile and drone attacks against Saudi Arabia have become an almost daily occurence.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T23:04:39+00:00",
+      "timestamp": "2026-09-12T18:03:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -290,12 +309,31 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 The last six months for the Kingdom of Saudi Arabia:\n\u2014 Iran takes control of the Strait of Hormuz\n\u2014 Aramco facilities targeted by Iran's IRGC \n\u2014 Aramco facilities targeted by the Houthis\n\u2014 Houthis seize control of Bab el-Mandeb\n\u2014 Houthis imposed maritime embargo against Saudi Arabia\n\u2014 Crude output falls to lowest level since 1990\n\u2014 East-West pipeline shut down following drone attacks by Iraqi militias\n\u2014 Mecca Defence Alliance with Pakistan and T\u00fcrkiye proves ineffective (only condemnations)",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Marib situation update:\nIn the past 24 hours, Ansarallah (Houthi) forces have positioned themselves on the southern and western highlands surrounding Marib, making limited progress but taking up strategic positions.\nOverall, the frontline situation has not changed much, but Ansarallah is bringing additional equipment and forces into the area to prepare for a possible offensive in the near future.\nAt the same time, morale among Saudi-backed PLC fighters stationed in the city is low, and there are rumors that local tribal leaders are already negotiating with Ansarallah.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T21:54:59+00:00",
+      "timestamp": "2026-09-12T17:55:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni ballistic missiles targeting King Fahd Airbase, Saudi Arabia",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-11T23:04:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -334,63 +372,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-12T15:40:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Myanmar resistance launched fiber-optic FPV drones at Russian Yak-130 jets parked at Tada-U Air Base near Mandalay, piloted by female PDF operators. \nThe drones evaded radio jamming but footage shows them failing to get past protective netting draped over the hangars, making three close runs without threading the gaps. \nResistance claims hits on four jets; junta says nothing was damaged.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T14:21:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Houthi fighters somewhere near Bab el-Mandeb:\nEritrea is opposite us... and Djibouti. This strait was under American rule, under international guardianship, under American agendas. \nNow, it is in the hands of Yemen. What does that mean? It means safety for the whole world.\nDeath to America! Death to Israel! \nA curse upon the Jews! Victory to Islam!",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T14:17:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nRussia is producing 140 ballistic missiles per month. According to NATO standards, intercepting 140 missiles requires 280 interceptors. \nThe ratio is one to two. However, you will never get 280 missiles for \"Patriot\" systems per month. Even 100 missiles would be a huge challenge.\nBut that's what I want: to have 100-120 interceptors for the difficult, cold months ahead.\nWill the Americans be willing to provide us with something from their reserves? I don't know. We'll see.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T14:13:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -493,6 +474,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f Reports of Iranian missile launches towards the Strait of Hormuz",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T17:13:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udd92\ud83d\udeab\ud83c\uddf8\ud83c\udde6\u26a1\ufe0fYemeni missile strike on Saudi Arabia right now\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T16:59:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -632,6 +651,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25\u2721\ufe0f Trump closes in on the British Falklands, with Argentina\u2019s Milei and Israeli Zionists joining his push\nTrump is turning the Falklands into a new flashpoint with the UK \u2013 suggesting his repeated provocations over the disputed islands, also known as Islas Malvinas, are more than rhetoric and point to a distinct geopolitical design.\nTrump addressed on September 12 a potential clash between the UK and Argentina over the disputed islands, describing it as a \u201cdisaster\u201d and stressing that he could \u201csettle\u201d it.\nHe also suggested that the UK would not \u201cbe willing to travel that far\u201d to reclaim the islands if Argentina invaded the Falklands as it did in 1982, citing Britain\u2019s surging domestic problems.\nTraditionally, the US has maintained diplomatic neutrality on the ultimate sovereignty of the Falklands while recognizing British de facto administration. But the tone has abruptly changed over the past several months, with first the Pentagon and then the US president himself casting doubt on continued US recognition of [British sovereignty over the islands](https://t.me/geopolitics_prime/63176).\nLast week, Trump hinted that he would not come to the UK\u2019s aid in a potential future conflict with Argentina because the UK had \u201cnot been there to help\u201d him in his war with Iran. In a separate statement, he noted that Washington\u2019s position on the Falkland Islands is \u201cone of many\u201d under review.\nPrior to that, Pentagon officials had repeatedly signaled that the US could stop backing the UK on the Falklands.\n\ud83d\udd28Milei steps up Argentina\u2019s claim to Malvinas\nThose signals from Washington seemed to have emboldened Argentine President Javier Milei, who spoke last week about \u201cwinds of change\u201d favorable to Argentina. \u201cRecently, President Trump declared that the US is re-evaluating its historic position in relation to the Malvinas,\u201d Milei claimed.\nHe pointed out that the UK was facing \"multiple crises\" \u2013 meaning it no longer has enough stamina to protect its distant territory.\n\ud83e\udd14 Does Israel have foreknowledge of the Falklands\u2019 future?\nThe UK has also come under fire from Israel after announcing a ban on imports from illegal Israeli settlements in the West Bank.\nIn response, Israeli political figures, including notorious National Security Minister Itamar Ben-Gvir, called on September 8 for the Israeli government to recognize Argentine sovereignty over the Falklands.\nThe move has raised eyebrows, as Argentina on the same day imposed sanctions on Israeli energy company Navitas Petroleum for \u201cillegal oil exploration\u201d in the disputed islands. Apparently, the Israeli Zionist cabinet, which remains close to Trump\u2019s inner circle, knows something others do not.\n\u2709\ufe0fWhat's behind the game?\nThe Falklands seem indispensable to Trump\u2019s Donroe Doctrine, but the only legitimate way to bring the islands into [the US military fold ](https://t.me/geopolitics_prime/73974) is to back Argentina\u2019s claim \u2014 given that Milei is [Trump\u2019s prot\u00e9g\u00e9](https://t.me/geopolitics_prime/73889).\nAsserting Argentine control over the Falklands would have also helped keep the US-backed government at the helm, as Milei\u2019s economic \u201cmiracle\u201d has largely failed.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T18:14:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\ude96\ud83c\uddec\ud83c\udde7Britain sanctions Israeli settlers \u2014 while keeping Israel\u2019s military machine close\n\u00a0\nDays before London announced sanctions on Israeli settlers, more than 300 British soldiers took part in Pegasus Athena, a major training exercise facilitated by Elbit Systems UK, the British subsidiary of Israeli defense giant Elbit Systems.\n\ud83d\udc49 That is just one example of how deeply Israel\u2019s defense industry is embedded in Britain\u2019s military \u2014 raising serious questions about whether London can claim to oppose the occupation while maintaining such extensive military ties with Israel.\n\u00a0\nElbit\u2019s involvement goes far beyond Pegasus Athena:\n\ud83d\udfe5 $138m \u2014 a five-year MoD contract awarded in 2021 for a system allowing frontline troops to detect and engage targets within seconds.\n\ud83d\udfe5 $139m \u2014 a 2021 contract for the Maritime Electronic Warfare System, providing anti-missile defense for British warships, including Queen Elizabeth-class aircraft carriers and Type 45 destroyers.\n\ud83d\udfe5 $88m \u2014 a 12-year contract awarded in 2021 to an Elbit-linked joint venture to operate training aircraft for Britain\u2019s Military Flying Training System.\n\ud83d\udfe5 $19m \u2014 a 2023 contract for ground-based surveillance radar systems delivered to the Royal Artillery.\n\ud83d\udfe5 $16m \u2014 an initial contract for night-vision equipment supplied to the British Army by Elbit subsidiary Instro Precision, followed by more than $22m in additional orders.\n\ud83d\udfe5 $2.7bn \u2014 the value of the Watchkeeper drone program overseen by U-TacS, a joint venture involving Elbit UK.\n\u00a0\nAnd Elbit is only one part of the picture. Rafael, Israel\u2019s state-owned defense company, has also secured major British contracts:\n\u2666\ufe0f $51m \u2014 a 2024 MoD contract for counter-drone systems.\n\u2666\ufe0f $27m \u2014 a 2023 contract for protection systems for Britain\u2019s Challenger 3 tanks.\nRafael supplies key technology for Sky Sabre, Britain\u2019s air-defense system, including systems deployed at sensitive sites such as the Falklands.\nIts Litening targeting pods are used by RAF Eurofighter Typhoons.\nIts UK subsidiary Pearson Engineering secured a $14m contract for mine-clearing equipment for the British Army.\nThen there is Project HEZUK \u2014 a secret UK-Israel defense program developed in 2019 to counter Iran and Hezbollah.\nThe cooperation reportedly covered:\n\ud83d\udd34 Autonomous warfare\n\ud83d\udd34 Space\n\ud83d\udd34 Maritime capabilities\n\ud83d\udd34 Quantum technologies and advanced manufacturing\n\ud83d\udd34 Potential energy weapons and other advanced defense systems\n\u00a0\nThe military relationship is only part of it. Britain\u2019s intelligence ties with Israel are also set to remain intact, with no indication that the 2020 UK-Israel military cooperation agreement or the 2023 bilateral relations roadmap will be suspended.\n\u00a0\nThe International Court of Justice ruled in 2024 that Israel\u2019s occupation is unlawful and said states must not provide aid or assistance in maintaining the situation created by the occupation. Yet Britain continues to train with, buy from, and develop military capabilities alongside Israel\u2019s defense industry.\n\u00a0\nSanctions on settlers and military integration with Israel: the UK\u2019s double standards are hard to miss.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -734,25 +772,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-12T12:22:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude97\ud83d\udcd1 This is how Yemen's Houthis are hauling off US-made vehicles seized in clashes near Mocha airport\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T11:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
