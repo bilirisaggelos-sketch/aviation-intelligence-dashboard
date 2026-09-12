@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T21:21:08.628620+00:00",
+  "generated_at": "2026-09-12T23:13:17.976538+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -279,13 +279,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "Geopolitics Prime"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
@@ -366,31 +365,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Yemen\u2019s Houthis say they carried out a missile and drone attack on a Saudi military base in Sharurah, targeting weapons depots and command centers.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T21:35:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Russia has been drone-striking gas stations inside Kyiv, hitting them district by district during morning rush hour, including a double-tap strike that hit first responders 15 minutes after the initial attack. \nA target list of ~20 Kyiv stations is circulating. \nThis is an expansion of a months-long campaign that's already hit 200\u2013300 stations nationwide, mostly near the front lines.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-12T15:59:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "T\u00fcrkiye strongly condemned drone attacks launched from Iraqi territory against Saudi Arabia, reaffirming its support for Saudi Arabia\u2019s sovereignty and territorial integrity.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T15:40:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -495,6 +495,45 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0fAnti-ship missile strikes on unidentified vessels.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T22:08:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udd92\ud83d\udeab\ud83c\uddf8\ud83c\udde6\u26a1\ufe0fOfficial Spokesperson for the Yemeni Armed Forces, Brigadier General Yahya Saree:\nIn response to the criminal Saudi enemy's continued aggression against our country, the Yemeni Armed Forces carried out a qualitative military operation targeting weapons depots and command-and-control centers\u2014which manage the aggression against our country and people\u2014at the military base in the Sharurah area of Saudi Arabia.\nThe operation was executed using a large salvo of ballistic missiles and drones, achieving precise and direct hits, by the grace and aid of God.\nWe affirm to the criminal Saudi enemy that the continuation of its aggression against our people will be met with even more severe and massive operations deep within its territory, the consequences of which will be dire for the enemy, by the permission and power of God.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T21:51:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -818,45 +857,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russia\u2019s strike drone slammed into a military train in Ukraine's Lutsk\nLocal social media are reporting the hit and posting related footage.\nUkrainian Railways has officially confirmed it: notably, they didn't even bother to call it an \"attack on civilian infrastructure.\"\nLocals on social media report the train was hauling equipment and personnel for the Ukrainian army.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T13:54:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96Could Ansar Allah\u2019s military gains push Gulf states into a new security pact with Iran?\nAnsar Allah (Houthis)' blitzkrieg to Mokha and Yemen's western coast has killed several birds with one stone, siezing control over Bab el-Mandeb, giving a lesson to Saudi Arabia, nixing the UAE-Israeli surveillance bid, and potentially opening the door to a new West Asian security architecture.\nSaudi Arabia's major push against the Yemenis, which started with Trump-blessed airstrikes on Sanaa in July, has so far ended up miserably: neither the US nor Pakistan has met Riyadh's request for military backing in [its new round of the Yemen war.](https://t.me/geopolitics_prime/74276)\nMeanwhile:\n\u2666\ufe0f Ansar Allah has liberated the[ strategic port of Mokha](https://t.me/geopolitics_prime/74480), the surrounding region, the coastline down to Bab el-Mandeb, and[ a number of key islands in the Red Sea.](https://t.me/geopolitics_prime/74392)\n\u2666\ufe0f Attacks on S[audi Arabia's trans-Indo-Pacific East-West oil pipeline](https://t.me/geopolitics_prime/74389), used by Riyadh to circumvent the nearly completely closed Strait of Hormuz, forced the Saudis to shut it down. The pipeline carried Saudi oil from Abqaiq to Yanbu on the Red Sea.\n\u2666\ufe0f Saudi Arabia's extensive network of mercenary forces in [Western Yemen has de facto collapsed.](https://t.me/geopolitics_prime/74329)\nAnsar Allah's capture of vital islands in the Red Sea has serious geostrategic consequences:\n\ud83c\udf0f The Houthis' capture of the strategically important island of Perim, which sits at the narrowest point of the Bab al-Mandeb Strait, gives them ultimate control of the waterway.\n\ud83c\udf0f The reported liberation of Zuqar \u2013 part of the Hanish Islands \u2013 appears to have undermined Emirati-Israeli spy efforts in the region, military experts claim.\nIn October 2025, satellite images showed an [airstrip built on Zuqar](https://t.me/geopolitics_prime/58447), a strategic island in the Red Sea about 88.5 km south of the port of Hodeidah, held by the Houthis. AP reported at the time that the UAE was involved in the military construction project, aimed at establishing a launching point against Ansar Allah and surveillance over its activities in the Red Sea and the nearby coastline. The construction reportedly started in April 2025.\n\u203c\ufe0f A strategic foothold by the UAE in the Red Sea would have enabled the Israeli-UAE Hexagon Alliance, aka the Abraham Accords Axis, to exert pressure on Yemen, making its liberation crucial for Ansar Allah.\nPersian Gulf states meeting in Oman\nA September 14 meeting in Muscat bringing together Iran, Iraq, and other countries bordering the Persian Gulf and Gulf of Oman has been announced by Iranian Foreign Ministry spokesman Esmaeil Baghaei on Friday.\nBaghaei noted that Iran had sought to build regional trust and cooperation for peace and stability, free from \u201cdestructive and divisive\u201d outside intervention. He also stressed that the meeting would address the outcome of Iran-Oman talks on commercial shipping through the Strait of Hormuz.\nThe timing, which coincided with successful Houthi advancements, is telling.\nIf Saudi Arabia and other regional powers attend the meeting, it will be game over for Trump's ambitions in the Gulf as well as for US and Israeli war planners' dream to keep the region under their military control, geopolitical observers say. At the same time, it could open the door to a new regional security architecture.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T13:48:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
