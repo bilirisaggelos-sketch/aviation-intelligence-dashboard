@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T10:30:25.234883+00:00",
+  "generated_at": "2026-09-12T13:43:45.050746+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -256,17 +256,16 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-12T04:43:10+00:00",
+      "timestamp": "2026-09-12T12:15:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -280,13 +279,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -304,6 +302,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones hit sanctioned Russian tanker Armada Leader off Sochi despite a Russian helicopter firing at the incoming drone.\nThe drone evaded and struck anyway. \nThis is part of Operation MoLoChKa, which Ukraine says has hit 285 Russian vessels since July.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T12:50:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -405,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Possible drone and missile attack on targets in Sharorah Governorate.\n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7 \u2014 Iraqi News Agency: Prime Minister Ali Faleh Al-Zaidi has approved an Iranian request to conduct a joint investigation into the discovery of drone launch platforms near the Iraq-Iran border.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T01:10:37+00:00",
+      "timestamp": "2026-09-12T13:20:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -424,32 +441,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "Iraq's Prime Minister Ali al-Zaidi ordered the formation of an investigative council and dismissed the commander of military operations in Maysan province, from which Saudi Arabia says the drones that struck its East-West pipeline were launched, according to the Iraqi News Agency. \nAl-Zaidi separately ordered an urgent investigation into the circumstances of the attacks and the parties responsible, with the Iraqi government saying its policy rests on respecting the sovereignty of states and rejecting any aggression against them.\nAl Mayadeen's Iraq bureau chief reported that three senior Iraqi security officials traveled to several Gulf states, including Kuwait, amid the fallout from the attack.\nSaudi Arabia's Foreign Ministry said drones launched from Iraq struck the Riyadh-Medina pipeline, and that it reserves the right to take all necessary measures to protect its sovereignty, security, and critical facilities. Riyadh said it would hold off on retaliating for now, at the request of Iraq's prime minister.",
+      "text": "\ud83c\uddee\ud83c\uddf6 \ud83d\udd34\ud83c\uddfe\ud83c\uddea \u2014 Islamic Resistance of Iraq:\nIn the Name of God, the Most Gracious, the Most Merciful\nAt a time when we congratulate the proud Yemeni people on their continuous battlefield victories against the Saudi forces and their mercenaries, we affirm: that the accusations leveled against the Iraqi Resistance regarding the targeting of vital Saudi installations last Friday are (an honor we do not claim); and we express at the same time our astonishment at the Iraqi government's haste in adopting these claims without relying on credible evidence or tangible investigations.\nThe repeated policy of leveling accusations and diverting attention is nothing but a failed attempt to cover up the successive defeats suffered by the Saudi forces and their proxies at the hands of the defiant sons of Yemen.\nAs we renew our affirmation of the Iraqi Resistance's firm position in supporting the oppressed Yemeni people, besieged by the Saudi regime for more than a decade, we warn against being dragged behind the malicious Zionist-American schemes that seek to plunge Iraq into crises that serve none but its enemies.\nIn conclusion, we declare our readiness to participate in any government investigation committee with the aim of establishing the truth, instead of being swept along by suspicious narratives.\nSeptember 12, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T01:09:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "BBC World News"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 High ballistic missile threat on Kiev.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T00:13:04+00:00",
+      "timestamp": "2026-09-12T12:24:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -463,12 +460,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 \u2014 A surveillance drone is reported over the headquarters of the Popular Mobilization Forces (PMF) in the Ninewa province of Iraq.\n\ud83d\udd34",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udd92\ud83d\udeab\ud83c\uddf8\ud83c\udde6\ud83d\udee2\u26a1\ufe0f ALSAA ANALYSYS \u200b The Houthis have just put Saudi Arabia under severe pressure regarding oil.\nSeven weeks. That is how long it took Yemeni forces to bring Saudi production down to its lowest level since 1990.\n\u200bThe timeline:\n\u2022 July 25 \u2014 First direct strikes on Saudi territory since 2022. Jizan and Yanbu hit on the same day. The Jizan refinery (400,000 bpd) brought to a standstill.\n\u2022 July 27 \u2014 Abqaiq on fire. The largest crude stabilization plant in the world.\n\u2022 August \u2014 Jizan remains unserviceable, repeatedly struck.\n\u2022 September 8 \u2014 Massive wave on Abha, Najran, Jizan. 73 injured.\n\u2022 September 10 \u2014 The most strategic blow: the East-West pipeline pumping stations (7 mbpd) hit. The only real alternative to the Strait of Hormuz, which is already severely disrupted on the Iranian side. Precautionary shutdown.\n\u200bThe result:\nHormuz severely disrupted + Red Sea under permanent threat = Saudi Arabia's two main export routes are simultaneously under constraint.\nProduction: 6.24 mbpd in August \u2192 -1.9 mbpd. \nLowest level in 35 years.\nExports: dropped to 3.2\u20133.5 mbpd.\nEven bypassing comes at a high cost: insurers are pushing premiums up to 3% of the vessel's value on Saudi routes (compared to 0.3% previously), adding +$7\u20138 per barrel. Many are now rerouting via the Cape of Good Hope \u2192 +2 to 4 weeks of transit time.\n\u200bThe bill:\n\u2248 $200 million/day in lost revenue from lost production.\nJizan alone: \u2248 $42 million/day.\nFor the month of August alone: around $6 billion in potential revenues lost.\n\u200bTwo strategic corridors put under pressure at the same time.\n\u200bThe Houthis hit where it hurts most.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T00:01:22+00:00",
+      "timestamp": "2026-09-12T12:07:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -482,70 +479,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83d\udd34\ud83c\uddee\ud83c\uddf7 \u2014 The Iraqi government has ordered the suspension of all flights departing to and arriving from Iran at Basra International Airport until further notice.\n\ud83d\udd34",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddf4\ud83c\uddf2\ud83c\uddf6\ud83c\udde6| Iranian & Persian Gulf Arab officials will meet in Muscat, on Monday, to sign an agreement on aIran-Oman maritime route through the Strait of Hormuz.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T23:58:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Renewed Ansar Allah missiles targeting RSAF in the governorates of Taif and Khamis Mushait.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T23:13:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Likely ballistic missiles targeting Royal Saudi Air Force facilities:\n- King Khalid AB, east of Khamis Mushait\n- King Fahd AB, Taif",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T23:07:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah missiles target King Fahd air base in Taif.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T23:02:28+00:00",
+      "timestamp": "2026-09-12T12:02:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -635,6 +574,63 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russia's Geran drones keep hammering Ukraine's port and military infrastructure in Chernomorsk, Odessa region\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T12:49:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcc9 \ud83c\uddfa\ud83c\uddf8 US cuts back its air cover for tankers in Hormuz\u2014report\n\ud83d\udd0aSince early September, the US has restricted its protection window in the Strait of Hormuz to just two designated time slots per day, the FT reports.\nThe change was communicated by the US naval coordination center to maritime advisers, with tanker operators encouraged to plan their transits around specific departure times \u2014 9am, for example \u2014 if they want to be covered by US aircraft.\nUntil recently, ships using the route along Oman\u2019s coast could request US protection and receive coordinates for transit during broad overnight windows.\nUS officials acknowledge that traveling through the strait under cover of darkness has become less secure, while maintaining continuous air protection is costly. A US military aircraft can cost tens of thousands of dollars per hour to operate.\nThis time shift came about as Iran has stepped up pressure on shipping in response to US and Israeli attacks, with Tehran also announcing plans for a \u201crestricted zone\u201d in the strait.\nIn Hormuz, US protection has office hours.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T12:22:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude97\ud83d\udcd1 This is how Yemen's Houthis are hauling off US-made vehicles seized in clashes near Mocha airport\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-12T11:02:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\ude96 Ukraine's air defenses fail to intercept a single ballistic missile overnight\nUkraine intercepted none of Russia's ballistic missiles launched overnight, according to the Ukrainian military's morning report.\nAnd the brunt of the strikes came from Iskander missiles: a fact previously confirmed across local social media.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -679,25 +675,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-12T05:25:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian ballistic missiles turned another night in Ukraine red-hot\nAccording to local social media, explosions rocked Krivoy Rog, Dnepropetrovsk, Zaporozhye, and the Odessa, Sumy, Chernigov and Kiev regions.\nIts residents report incoming Iskander missiles and glide bombs.\nIn Krivoy Rog, as local authorities say, the strike hit an industrial facility.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T04:41:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
