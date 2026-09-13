@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T06:14:12.768904+00:00",
+  "generated_at": "2026-09-13T12:03:45.773667+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -174,6 +174,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3743\r\nIssue Time: 2026 Sep 13 0827 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3742\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 1828 pfu\nMax time: 2026 Sep 12 1615 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-13 08:27:29.123",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3742\r\nIssue Time: 2026 Sep 12 0645 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3741\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 7008 pfu\nMax time: 2026 Sep 11 1355 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -249,21 +268,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WATA30\r",
-      "text": "Space Weather Message Code: WATA30\r\nSerial Number: 282\r\nIssue Time: 2026 Sep 09 2101 UTC\r\n\r\nCANCEL WATCH: Geomagnetic Storm Category G2 Predicted \nCancel Serial Number: 281\nOriginal Issue Time: 2026 Sep 08 1702 UTC\nCancelled Level Predicted:\nSep 08 : None (Bellow G1) Sep 09 : None (Bellow G1) Sep 10 : None (Bellow G1) \nConditions no longer warrant watch criteria.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-09 21:01:32.307",
+      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
+      "text": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat\nDayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-12T20:27:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -287,25 +306,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat",
-      "text": "Only Roland Garros towel left, says Ukraine tennis player after Russian strike hits flat\nDayana Yastremska says her flat took a \"direct hit\" by a Russian missile in Odesa, and all that left was her Roland Garros towel.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-12T20:27:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Alerts in Khamis Mushait and Abha\nYemeni ballistic missile and drone attacks against Saudi Arabia have become an almost daily occurence.",
@@ -317,12 +317,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -345,32 +346,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni ballistic missiles targeting King Fahd Airbase, Saudi Arabia",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-11T23:04:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iranian President Masoud Pezeshkian:\nWith their technologies, actually they are the real terrorists in the world.\nYou look at Israel and America. No difference what they are doing in Syria, in Lebanon, in Gaza, Iraq, Qatar, even in Iran.\nThey assassinate anybody they wish, and then they claim that these people are terrorists. So it\u2019s a weird world.\nThey kill people very easily for a single person. They kill a whole family and they destroy a whole building, then they say they killed a terrorist.\nThey are real terrorists. They are state terrorists.",
+      "text": "Iranian President Masoud Pezeshkian:\nRight now we have a good relation with the UAE and we can expand it, and with other countries the same. So we would like to have sincere relations with all of them. \nHowever, it is the US which does not want this to happen, and the reason is that they want to utilize the petroleum reservoirs of the region, and instead they are selling weapons and missiles to the regional countries in order to scare us from each other and pit us against each other. \nIt is exploiting the capital of the region and also destroying peace and stability.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T05:38:12+00:00",
+      "timestamp": "2026-09-13T10:55:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,22 +366,40 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Yemen\u2019s Houthis say they carried out a missile and drone attack on a Saudi military base in Sharurah, targeting weapons depots and command centers.",
+      "text": "Iranian President Masoud Pezeshkian on Israel:\nIsrael is not a member of the NPT and they have nuclear weapons on a great order. \nSo is there any international institution protesting why they have this kind of nuclear weapons? \nYou have witnessed what they are doing in Gaza and Lebanon.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T21:35:44+00:00",
+      "timestamp": "2026-09-13T10:50:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian President Masoud Pezeshkian:\nThey are attacking those people who have nothing to do with the war. Now they are putting sanctions on the same people.\nAre they human even? I mean, why are they fighting against us? What have we done? This is a catastrophe.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-13T10:46:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -499,6 +499,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\udde6 The Jerusalem Post has published its annual ranking of the world's most influential Jews, placing Zelensky at #21, described as the \"Jewish face of Ukraine's resistance.\"\nTop 10 on the list:\n1. Jared Kushner & Ivanka Trump\n2. Benjamin Netanyahu\n3. Gadi Eisenkot\n4. Naftali Bennett\n5. Ronald Lauder\n6. Miriam Adelson\n7. Assaf Rappaport\n8. Howard Lutnick\n9. Sam Altman & Mark Zuckerberg\n10. Bari Weiss\n\ud83d\udd34 | [Socials](https://telegra.ph/Explore-DD-Geopolitics-on-Multiple-Platforms-12-04) | [Donate](https://ko-fi.com/ddgeo) | [Advertising](https://t.me/DDGAdvertisingBot)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-13T11:03:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udeab\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f An Iranian missile hit an oil tanker in the Strait of Hormuz\nThe UK Maritime Security Organization reported that an oil tanker flying the flag of Panama was hit by a missile while passing through the Strait of Hormuz and was disabled.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -546,13 +565,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -623,12 +641,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -671,12 +690,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "NETWORK GEOINT- Russia launched a drone missile strike on Odesa and Chornomorsk today, hitting a hotel and a high rise apartment. \nGeolocations- https://x.com/zarGEOINT/status/2098666669048561865?s=20\nhttps://x.com/zarGEOINT/status/2098661798811508939?s=20\nZaryon OSINT (\n\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa A Russian missile struck a building in the \"44th Pearl\" residential complex in Odesa this morning.\n\ud83d\udccd Geolocation: 46.42363, 30.76293\n https://x.com/zarGEOINT/status/2098661798811508939/photo/1",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Images show the aftermath of Israeli drones striking a vehicle near a store in the Tel al-Hawa neighborhood in southwestern Gaza City, wounding a number of Palestinians.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:13:55+00:00",
+      "timestamp": "2026-09-13T07:58:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -690,12 +709,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russian refineries are stacking shipping containers around fuel tanks as makeshift blast walls and firebreaks, Dnipro Osint reports. Along with anti-drone nets and metal cages, the defenses complicate drone strikes, though past hits show they do not guarantee safety.",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddea\ud83c\uddfa\nJust the last 7 days of almost confirmed Russian attacks, sabotage plots in Europe outside Ukraine:\n\ud83c\udde7\ud83c\uddec Bulgaria - another EMCO ammunition depot exploded and burned. Sabotage investigated. Previous attacks on the company were linked to Russian GRU operatives.\n\ud83c\uddec\ud83c\udde7 UK - British man charged with preparing sabotage against 4 drone factories after allegedly taking instructions from the GRU Volunteer Corps.\n\ud83c\uddf7\ud83c\uddf4 Romania - Russian citizen arrested after allegedly scouting NATO bases, critical infrastructure and Ukrainian Antonov aircraft for a Russian-coordinated sabotage operation.\n\ud83c\uddf2\ud83c\udde9 Moldova - Azerbaijani man arrested after allegedly being recruited by Russian special services and trained for sabotage operations in Moldova and Ukraine.\n\ud83c\uddf2\ud83c\udde9 Moldova - Russian Shahed entered Moldovan airspace while Zelensky's aircraft was preparing to leave Chisinau, forcing the country's airspace to close before the drone crashed.\n\ud83c\uddf5\ud83c\uddf1 Poland - Polish and Ukrainian services stopped a \"direct threat\" against a border crossing. Tusk warned Russia is expected to target Ukrainian supply routes and crossings with sabotage.\n\ud83c\uddf8\ud83c\uddf0 Slovakia - new details from the attempted arson of Ukrainian drone producer Skyeton: suspect says he was recruited through Telegram and one of his handlers spoke Russian. Skyeton suspects Russia.\n\ud83c\uddf3\ud83c\uddf4 Norway - revealed this week that NATO caught Russia's GUGI unit near Svalbard testing technology designed to secretly disable vital undersea cables. UK, Norwegian and US forces intervened.\n\ud83c\udde7\ud83c\uddea Belgium - Brussels Airport shut operations for ~30 minutes after another drone sighting. No Russian link established, but Belgium previously suspected Russian involvement in repeated drone incursions around airports and military sites.\nAll in one week. And I definitely forgot some.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:13:40+00:00",
+      "timestamp": "2026-09-13T07:58:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -709,12 +728,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine is testing a system that will automatically alert gas stations of approaching Russian drones, PM Koretskyi says.",
+      "text": "Over the past 24 hours, Russia launched up to 700 strike drones, 14 ballistic missiles, 8 Kalibrs, 6 Kh-59s, and 16 Banderol missiles at Ukraine, independent monitors report. Main targets included Kryvyi Rih, Zaporizhzhia, Zatoka, Odesa, and Kovel.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:13:35+00:00",
+      "timestamp": "2026-09-13T07:57:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -728,12 +747,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine's Air Force says Russia has launched 410 drones today so far, with 336 shot down.",
+      "text": "Slavyansk-on-Kuban came under a massive attack by conventional and jet drones overnight. The local oil refinery was struck, with fuel tanks reportedly on fire. A thermal power plant was also allegedly hit.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:13:28+00:00",
+      "timestamp": "2026-09-13T07:32:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -747,12 +766,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Zelensky says Ukraine plans to start testing its first anti-ballistic system FREYJA in late December. He says Ukraine has already met with countries and companies making components, and if winter tests succeed they\u2019ll move to production.",
+      "text": "During Russia\u2019s overnight mass drone attack, explosions were reported near the Ukraine-Poland border. A drone hit a gas station near the Yahodyn crossing in Volyn region, and the station and trucks caught fire.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:13:16+00:00",
+      "timestamp": "2026-09-13T07:32:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Reports say Russian drones struck near Ukraine\u2019s border with Poland. No official confirmation yet.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-13T07:32:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -766,12 +805,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Most drones during attacks on northern Ukraine fly along the Belarusian border. Ukraine's HUR chief recently said Belarus has started activating relay stations again.",
+      "text": "Ukraine's Prime border guard unit of the 5th Border Guard Detachment says FPV drones destroyed a Russian BM-21 Grad concealed in a forest as it began firing. The strike triggered the detonation of rockets still loaded in the launcher, and a nearby ammunition depot was also destroyed.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:13:06+00:00",
+      "timestamp": "2026-09-13T06:30:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -785,12 +824,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A Russian drone struck a passenger train at a station in Lutsk. A fire is ongoing at the scene, local media report.",
+      "text": "FIRMS detected several ongoing fires at the Nizhnekamsk industrial hub in Tatarstan after an overnight Ukrainian drone attack.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:13:02+00:00",
+      "timestamp": "2026-09-13T06:30:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -804,12 +843,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russian terrorists published footage of an FPV drone hunting down a civilian minibus in Kherson.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Drones reportedly struck the TANECO oil refinery in Nizhnekamsk, Tatarstan, Russia, with local residents reporting explosions and air defense activity.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:12:45+00:00",
+      "timestamp": "2026-09-13T06:29:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -823,88 +862,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "An FPV drone hit a pickup hauling a Geran-4 for launch at Donetsk airport.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Russian Geran drones targeted several cities in western Ukraine, hitting trains, gas stations, and rail infrastructure in Lutsk, Kovel, Korosten, and Novograd-Volynskyi, as well as a power substation in Dubno.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:12:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Alpha SBU says it has led Ukraine\u2019s Defense Forces units for 6 months straight. For Aug 2026 it reports nearly 6,000 occupiers neutralized, plus 9,142 drones and UGVs, 222 depots, and 17 air defense systems hit.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:12:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine\u2019s Defense Forces struck the Tolyattikauchuk plant in Tolyatti, Samara region, overnight on Sept 12, Ukraine\u2019s General Staff says. A hit and a fire were reported on site. The plant makes synthetic rubbers used in solid rocket fuel for tactical and ballistic missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:12:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "[USF](https://t.me/usf_army) operators struck the sanctioned tanker ARMADA LEADER in the Black Sea while it was being escorted by a Russian helicopter for drone defense.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:12:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Drones hit a petrochemical plant in Tolyatti, Samara region, 880 km from GGU. In Taganrog, an airfield and a former car plant now used by defense firms were also struck, 200 km from the line of contact.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T06:11:57+00:00",
+      "timestamp": "2026-09-13T06:29:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -918,12 +881,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\uddfe\ud83d\udc79 Syria\u2019s Kurds did America\u2019s dirty work: now they face the full brunt of terrorist rule\n\u00a0\nThe abduction and beheading of a Kurdish former SDF fighter integrated into al-Sharaa\u2019s Syrian Army sparked protests across Kurdish communities in northern Syria, with as many as nine people killed and 17 others injured in a prison riot in Kobani on Saturday led by Kurdish protesters detained by the security forces.\n\ud83d\udc49 The incident was the latest act of violence affecting Syrian Kurds since the March 2025 ceasefire and August 2026 agreement on the total dissolution of the Syrian Democratic Forces militia.\nIn January, intense clashes erupted in Kurdish neighborhoods in Aleppo, with up to 91 people killed (including 68 civilians) and ~150k forced to flee their homes.\n\u27a1\ufe0f The same month, a government offensive into Kurdish-controlled areas was accompanied by unspeakable barbarity, including arbitrary executions, beheadings, mistreatment of PoWs, indiscriminate artillery shelling, drone and sniper attacks, and a siege cutting whole areas off from electricity, water and food. A local rights group documented the murder of at least 22 civilians, including 3 children. In all, up to 1k combatants and as many as 300 civilians were killed.\nEven after the SDF\u2019s dissolution last month, violence has continued. Kurdish civil society activists reported that families displaced from Aleppo have been attacked by militants linked to the government while trying to return to their homes. In Hasakah, a bombing attack on a government building killed a man and his child amid tensions over language signage.\n\ud83d\udcac \u201cWe have received no clear guarantees. We are waiting, in particular, to see whether central Syrian law will apply to our region,\u201d one worried activist told European media, saying that could bring with it child marriage and polygamy, and send women\u2019s rights back into the stone age.\n\ud83d\udcac \u201cWe must remember the new Syrian government was formed in part with members of former terrorist groups and individuals who committed crimes against the Kurdish population. Naturally, this is very frightening for the Kurds,\u201d the activist said.\n[Frightening is right. ](https://t.me/geopolitics_prime/73221)While Israel continues to digest areas of Syria it occupies, minorities across the country are on the menu of [the new government\u2019s armed thugs](https://t.me/geopolitics_prime/67817). Why would the Kurds be an exception?\n\u2757\ufe0f Perhaps it wasn\u2019t such a good idea for the SDF to assist American troops in plundering Syria\u2019s oil-producing regions all those years, which starved the Assad government of resources and ultimately culminated in its collapse. The US, notably, hastily picked up and left the moment the old government fell.\nHow many more times will the Kurds keep trusting Washington? (1920s, 1970s, 1991, 1995, 2003, 2025, and counting.)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u2708\ufe0f US fighter pilots are being grounded out of combat readiness\nAmerican fighter pilots are getting so little time in the cockpit that many are nowhere near the historically considered necessary sortie rates, reports the Military Times.\n\ud83d\udd34 nondeployed fighter pilots are reportedly getting about one sortie a month thanks to budget reallocations and a crumbling maintenance infrastructure (Mitchell Institute data)\n\ud83d\udd34 the number is down from roughly 5.5 sorties in fiscal 2023 - 60% of the required standard of 9-10 sorties for combat readiness\n\ud83d\udd34 official pilot shortage stands at around 2,000 \n\ud83d\udd34 former Air Force Secretary Frank Kendall redirected funding for 6,000 aviation maintenance positions in fiscal 2025\n\ud83d\udd34 for Operation Epic Fury against Iran, the US could only muster 25 squadrons (about 325 aircraft)\n\ud83d\udd34 that is roughly half the air power the Air Force alone deployed during Desert Storm in 1991 of the Air Force\u2019s 1,084 aircraft in the active inventory, only 634 were mission capable in fiscal 2024\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T05:35:11+00:00",
+      "timestamp": "2026-09-13T11:15:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -937,12 +900,70 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21\ud83d\udd1e Zelensky taps PORN to buy drones\n\ud83d\udcac \u201cThey\u2019re now considering legalizing pornography, all to raise money for drones. 30,000 drones is what they think they can buy if they legalize pornography,\u201d former US Congresswoman Marjorie Taylor Greene said, blasting Zelensky's latest business plan.\nThe bill is currently awaiting a second reading in the Verkhovna Rada and could generate up to $25 million a year in taxes \u2014 enough to pay for roughly 30,000 drones, The Wall Street Journal reported.\n\ud83d\udcac \u201cSo they\u2019re willing to sell sex and tax the revenue off of sex all so they can buy more drones to continue their war to kill more people.\u201d\nGreene reminded the world that Zelensky\u2019s team of beggars previously stormed congressmen's offices to solicit every possible penny, only to pocket most of it for themselves.\n\ud83d\udcac \u201cThey even had injured Ukrainian soldiers, amputated legs, limping around on crutches, going from congressman's office to congressman's office,\" Greene stated, perfectly describing Zelensky's pathetic clown show.\nMeanwhile, Zelensky\u2019s thugs continue [to kidnap men off the streets](https://t.me/geopolitics_prime/73739) to send them to the meatgrinder.\n\ud83d\udcac \u201cWhat\u2019s next? Are they going to legalize organ harvesting and tax that as well?\u201d Greene summed up.\nLittle does she know, the Zelensky regime is already doing exactly that. Since 2022, the country has experienced a massive [surge in child trafficking](https://t.me/geopolitics_prime/70197), illegal surrogacy, organ harvesting, and [the transfer of vulnerable children abroad](https://t.me/geopolitics_prime/73658), according to the Russian Foreign Ministry.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25Odessa\u2019s logistics hubs keep burning. Again \n\ud83d\udd0aLocal residents are reporting fresh Geran drone strikes on Nova Poshta logistics terminals in Odessa, social media say.\nThese are the very facilities Ukraine\u2019s military relies on to move ammunition and strategic cargo to the front lines.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-12T20:55:28+00:00",
+      "timestamp": "2026-09-13T09:32:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian forces hit Ukraine\u2019s western borders\nOvernight, a wave of strikes pounded Ukraine's western regions, namely Lvov, Khmelnitsky and Ivano-Frankovsk, local media report.\n\ud83d\udc49 In Khmelnitsky, flames engulfed an industrial site and energy infrastructure near the Polish border.\n\ud83d\udc49 In Ivano-Frankovsk, Geran drones struck several strategic targets, according to social media reports.\n\ud83d\udc49 In the Lvov region, drone strikes set the Yagodin border crossing, which is a key conduit for military aid from Poland.\nRussian forces had already ramped up attacks on Ukraine\u2019s border with Romania: the Danube basin and the ports of Reni and Izmail. Now Russia is intensifying strikes near the Polish border. \nThis means that logistics from NATO countries to Ukraine will continue to become significantly more difficult.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-13T07:53:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Pentagon is relearning how to hide - Iran is teaching it the hard way\nAfter months of Iranian successive, precise missile and[ drone strikes on US positions across the Middle East](https://t.me/geopolitics_prime/74011), the Pentagon is discovering that sprawling bases that once projected American power can also make excellent targets.\n\ud83d\udc49 Lt. Gen. James P. Isenhower, the officer charged with rewriting doctrine, conceded that \u201chiding in plain sight has become an imperative,\u201d reports the Military Times.\nGone are the command posts of Iraq and Afghanistan, where air supremacy turned bases into invulnerable resorts. \nFaced with Iranian long-range missiles and cheap one-way drones, US forces are now frantically rediscovering concealment tactics they abandoned two decades ago.\nAfter Iran\u2019s strikes on Naval Support Activity Bahrain,[ US positions in Jordan](https://t.me/geopolitics_prime/74283?single)[ and Kuwait](https://t.me/geopolitics_prime/74210), the Pentagon is scrambling to relearn Cold War-era basics, notes the publication, such as:\n\ud83d\udd34 disperse forces\n\ud83d\udd34 shrink command posts\n\ud83d\udd34 mask electronic signatures \nIran\u2019s combination of long-range missiles, drones, electronic warfare and surveillance has repeatedly exploited the US military\u2019s biggest weakness \u2013 concentration \u2013 forcing it to burn through expensive interceptors.\nA CSIS estimate found US forces had burned through roughly 65% of their [Patriot interceptor inventory ](https://t.me/geopolitics_prime/74355)between \nFebruary and July, [while THAAD stocks fell 38%. ](https://t.me/geopolitics_prime/74315)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-13T07:43:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\uddfe\ud83d\udc79 Syria\u2019s Kurds did America\u2019s dirty work: now they face the full brunt of terrorist rule\n\u00a0\nThe abduction and beheading of a Kurdish former SDF fighter integrated into al-Sharaa\u2019s Syrian Army sparked protests across Kurdish communities in northern Syria, with as many as nine people killed and 17 others injured in a prison riot in Kobani on Saturday led by Kurdish protesters detained by the security forces.\n\ud83d\udc49 The incident was the latest act of violence affecting Syrian Kurds since the March 2025 ceasefire and August 2026 agreement on the total dissolution of the Syrian Democratic Forces militia.\nIn January, intense clashes erupted in Kurdish neighborhoods in Aleppo, with up to 91 people killed (including 68 civilians) and ~150k forced to flee their homes.\n\u27a1\ufe0f The same month, a government offensive into Kurdish-controlled areas was accompanied by unspeakable barbarity, including arbitrary executions, beheadings, mistreatment of PoWs, indiscriminate artillery shelling, drone and sniper attacks, and a siege cutting whole areas off from electricity, water and food. A local rights group documented the murder of at least 22 civilians, including 3 children. In all, up to 1k combatants and as many as 300 civilians were killed.\nEven after the SDF\u2019s dissolution last month, violence has continued. Kurdish civil society activists reported that families displaced from Aleppo have been attacked by militants linked to the government while trying to return to their homes. In Hasakah, a bombing attack on a government building killed a man and his child amid tensions over language signage.\n\ud83d\udcac \u201cWe have received no clear guarantees. We are waiting, in particular, to see whether central Syrian law will apply to our region,\u201d one worried activist told European media, saying that could bring with it child marriage and polygamy, and send women\u2019s rights back into the stone age.\n\ud83d\udcac \u201cWe must remember the new Syrian government was formed in part with members of former terrorist groups and individuals who committed crimes against the Kurdish population. Naturally, this is very frightening for the Kurds,\u201d the activist said.\n[Frightening is right. ](https://t.me/geopolitics_prime/73221)While Israel continues to digest areas of Syria it occupies, minorities across the country are on the menu of [the new government\u2019s armed thugs](https://t.me/geopolitics_prime/67817). Why would the Kurds be an exception?\n\u2757\ufe0f Perhaps it wasn\u2019t such a good idea for the SDF to assist American troops in plundering Syria\u2019s oil-producing regions all those years, which starved the Assad government of resources and ultimately culminated in its collapse. The US, notably, hastily picked up and left the moment the old government fell.\nHow many more times will the Kurds keep trusting Washington? (1920s, 1970s, 1991, 1995, 2003, 2025, and counting.)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-13T05:35:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
