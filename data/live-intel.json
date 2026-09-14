@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-09-14T06:58:59.158673+00:00",
+  "generated_at": "2026-09-14T13:54:37.607275+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nFlushing, NY\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/13/2026",
-      "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, September 14, 2026 through Friday, September 18, 2026 Local\nFacility: ZJX",
@@ -174,6 +155,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3744\r\nIssue Time: 2026 Sep 14 1103 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3743\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 1827 pfu\nMax time: 2026 Sep 13 1800 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-14 11:03:04.607",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3743\r\nIssue Time: 2026 Sep 13 0827 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3742\nBegin Time: 2026 Sep 10 1304 UTC\nYesterday Maximum 2MeV Flux: 1828 pfu\nMax time: 2026 Sep 12 1615 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -249,21 +249,60 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3739\r\nIssue Time: 2026 Sep 10 1306 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 10 1304 UTC\nStation: GOES-19\nComment: Yesterday's max: 1037 pfu",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-10 13:06:18.310",
+      "title": "Thousands demand end to violence in Mexican cartel hotspot",
+      "text": "Thousands demand end to violence in Mexican cartel hotspot\nCuliac\u00e1n has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-14T11:28:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran shot down an American MQ-1C \u2018Gray Eagle\u2019 drone in the Strait of Hormuz",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T11:35:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: In a desperate attempt to reassert dominance in Yemen, Saudi Arabia launched Chinese-made Dong Feng-15 ballistic missiles at the Houthis\nSaudi Arabia has never used these missiles before and their acquisition was technically a secret until now.\nSome of the missiles malfunctioned and landed in civilian areas in Marib.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T11:31:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -308,12 +347,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran\u2019s IRGC says it shot down an MQ-1 drone over the Strait of Hormuz using a new air defense system.",
+      "text": "Zelensky:\nWe are working with manufacturers on a new generation of drone interceptors to counter Russian jet-powered Shahed drones. \nDevelopment and testing are underway.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T06:16:03+00:00",
+      "timestamp": "2026-09-14T13:23:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -327,12 +366,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Former CIA director David Petraeus narrowly escaped a Russian drone strike near Ukraine\u2019s border with Poland on September 13.\nPetraeus was on a civilian train at Yahodyn station when passengers were evacuated after drones were heard overhead.\n A jet-powered Russian drone then struck the locomotive of a nearby train, causing a large explosion.\nPetraeus said the attack was \u201cterrifying\u201d and called it an act of a \u201ctruly barbaric leader\u201d targeting Ukrainian civilians. He later continued safely into Poland.\nSource: NYT",
+      "text": "U.S. Energy Secretary Chris Wright:\nIran has turned up their attempts to disrupt energy flows, and they\u2019ve got a lot of missiles and a lot of drones. \nSo they have caused trouble in the short run. Certainly, they\u2019ve spread fear in the short run. \nI\u2019m pretty confident you will see increased flows of oil and oil products through the strait in the coming weeks and in the coming months regardless of what Iran does.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T05:54:34+00:00",
+      "timestamp": "2026-09-14T13:08:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,31 +385,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Satellite images show heavy damage to a pumping station on Saudi Arabia\u2019s East-West oil pipeline after a drone attack, threatening exports equivalent to about 4% of global oil supply.\nThe pipeline normally carries around 4 million barrels a day to the Red Sea, bypassing the Strait of Hormuz. With it shut, stocks at the Yanbu export hub could last only five to seven days.\nSource: The Guardian",
+      "text": "WATCH: Jewish protester in Berlin detained after displaying a modified Israeli flag with the Star of David replaced by a rocket/missile outline.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T05:51:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump:\nThe lasers are very, very good for certain types of missiles, certain slower missiles.\nI think the lasers are going to be the future.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T22:33:49+00:00",
+      "timestamp": "2026-09-14T12:36:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -459,22 +479,43 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Russian drones and missiles kill 2 in Ukraine's capital, ending pause in attacks](https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e)\nLocal authorities say Russia has struck the Ukrainian capital Kyiv with drones and missiles, killing two people and injuring at least 10. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-kyiv-missiles-drones-attacks-fd634a6786462bc95b7dfefc97d2331e)\napnews\u200b.com \u2022 Sep 8, 2026",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f US-Iran-China in the Strait of Hormuz:\nIran's Revolutionary Guards claim to have shot down a US MQ-1 drone over the Strait of Hormuz. Meanwhile, Beijing rejects US accusations regarding its assistance to Iran, dismissing them as \"baseless.\"\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-08T10:05:04+00:00",
+      "timestamp": "2026-09-14T10:00:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udd92\ud83d\udeab\ud83c\uddf8\ud83c\udde6\u26a1\ufe0fMassive Houthi strikes on southern Saudi Arabia this morning:\n New waves of missiles and explosive drones launched from Yemen have hit Abha and Khamis Mushait. Yemeni forces claim to have targeted the King Khalid Air Base (hangars, radars, runways, and ammunition depots).\nAirspace closed off: Emergency airspace closure ordered for the Abha area and Al-Kharj province.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T09:58:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -516,44 +557,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udef8\ud83c\uddf7\ud83c\uddfa IRAN ASKS RUSSIA FOR ITS ADVANCED GERAN DRONES, TECHNOLOGY TRANSFER COMES FULL CIRCLE\nIran has asked Moscow to supply its newest Russian-developed Geran attack drones for use against Israel and the United States, according to the Financial Times, citing Western security officials and a person close to the Kremlin. It remains unclear whether Russia has agreed to the latest request. \nIran originally supplied Russia with the Shahed technology. Russia then spent four years combat-testing, modifying and mass-producing the platform in Ukraine and Tehran now reportedly wants Russia\u2019s evolved versions back.\nThe latest jet-powered Geran variants are faster, carry larger warheads and incorporate improved targeting, communications and resistance to electronic warfare. Russia\u2019s adaptation of the Iranian design has become so extensive that CSIS recently concluded that Russia has effectively mastered the platform through continuous battlefield-driven development.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T23:55:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "Houthis Sign Satellite Data Deals to Tighten Grip on Bab al-Mandab, Sources Say\nThe Houthis\u2019 external intelligence apparatus has signed new agreements with a Chinese company to obtain satellite imagery and maritime surveillance data, intelligence sources told Sheba Intelligence.\nThe reported arrangements are aimed at expanding Houthi monitoring of commercial and military shipping across the Red Sea, Bab al-Mandab, Gulf of Aden and Arabian Sea, with particular focus on Saudi and allied warships.\nAccording to the sources, the data could support missile and drone operations by providing geographic coordinates, vessel movement and speed information. The agreements were reportedly brokered through Iran\u2019s military attach\u00e9\u2019s office in China, linking the Chinese company with Houthi liaison officers in Muscat.\nThe company was identified as Meentropy Technology (Hangzhou), operating as MizarVision. US Treasury records show the company was added to the sanctions list in May 2026 under Iran-related measures.\nThe agreements reportedly came after the Houthis expanded control along Yemen\u2019s Red Sea coast to Dhubab and Mayun Island, increasing their ability to combine territorial control with satellite-based maritime surveillance around one of the world\u2019s most strategic shipping chokepoints.\nSheba Intelligence could not independently verify whether the reported agreements are operational or confirm all details of the communications and targeting arrangements.\nFull report available via the link in the comments\nhttps://shebaintelligence.uk/houthis-sign-satellite-data-deals-to-tighten-grip-on-bab-al-mandab",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T23:20:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf7 \ud83c\uddfa\ud83c\uddf8 Public Relations Department of the Islamic Revolutionary Guard Corps (IRGC) announced intercepting an MQ-1 drone over the skies of the Strait of Hormuz.",
       "source": "Telegram",
@@ -564,31 +567,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83e\udd16 Anthropic CEO Dario Amodei and Sam Altman [Call](https://www.forbes.com/sites/gabrielalinzainescu/2026/09/13/anthropic-ceo-dario-amodei-calls-for-a-slowdown-in-frontier-ai/) For A Slowdown In Frontier AI\nDario Amodei has spent five years arguing that Anthropic could build frontier AI carefully and still win commercially. On Saturday he added a condition to that thesis: the whole industry has to ease off the accelerator.\nIn a roughly 3,900-word essay titled \u201cWe Must Pace the Frontier,\u201d the Anthropic co-founder and CEO wrote that \u201cwe must slow the pace at which we improve the capabilities of AI models.\u201d He was explicit that pacing does not mean halting training or technical progress. It means building in enough time for alignment work, third-party verification and operational rigor to keep up with what the models can do.\nWithin hours, OpenAI CEO Sam Altman posted on X that \u201cI agree with Dario that we need to pace the frontier,\u201d adding that OpenAI would match Anthropic\u2019s first commitment. Elon Musk\u2019s reaction ran three words: \u201cDario is right.\u201d\nAmodei has been skeptical of slowdown calls before. In the essay he dismisses the 2023 \u201cpause\u201d letter as premature, because the models of that era could not act as coherent agents and there was little to study. He says two developments since the summer convinced him that the calculus has flipped.\n\ud83d\udcdd: The only reason all the big AI CEOs are calling for a \"slow down\" in AI development are[ physical constraints](https://t.me/CIG_telegram/74215) in data center [construction](https://t.me/CIG_telegram/72989) and the maintenance of LLMs which need an ever increasing number of MWh to keep operating.\nWhile they may cite cybersecurity as a reason, that hasn't stopped the development of LLMs until building data centers became impossible due to the price of raw materials (lack thereof) or opposition from the communities which were going to have to share local resources with the data centers.\nDario Amodei and Sam Altman's calls for the slow down of AI development \"coincide\" with China [restricting](https://t.me/CIG_telegram/83316) the export of rare earth metals necessary in data center construction, [memory chip shortages](https://t.me/CIG_telegram/76714), and a lack of energy production.\nAlready 5% of the U.S' energy output [is used to power](https://ourworldindata.org/data-insights/around-5-of-electricity-in-the-united-states-is-used-for-data-centers-far-more-than-the-global-average) existing data centers. The data center construction frenzy [may lead to as much as 25% the U.S' energy production](https://www.bloomberg.com/news/articles/2026-07-21/data-centers-on-track-to-suck-up-a-fifth-of-us-power-use-by-2035) being used to power data centers LLMs rely on. \nWith the price of diesel skyrocketing and the looming threat of shortages of other petrochemical products which are used in the construction of data centers and computer chips, the resources to maintain the AI boom just aren't available anymore so the AI companies need an excuse to scale back and the excuse they've decided on is the \"AI doomsday\" shtick to show how \"responsible\" Amodei and Altman are with their toys.\n\ud83d\udd17 https://www.forbes.com/sites/gabrielalinzainescu/2026/09/13/anthropic-ceo-dario-amodei-calls-for-a-slowdown-in-frontier-ai/",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T18:57:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -726,7 +711,142 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd1a\ud83c\uddee\ud83c\uddf7Is the time ripe for Gulf kingdoms to break free from US 'kill switch' \u2013 and can Iran help?\nGulf states may reportedly seek to reduce their dependence on US arms purchases over fears of an implicit \u201ckill switch\u201d that gives Washington leverage over their national security.\n\ud83d\udc49 The original \"kill switch\" discussion stems from rumors surrounding the F-35 stealth fighter jet program and suggesting that the US could remotely render its sophisticated aircraft, as well as other top-notch weapons, ineffective. Last year, the Pentagon denied the[ claims in relation to the F-35.](https://t.me/geopolitics_prime/63338)\nBut there are indirect ways for the US to turn its customers\u2019 arsenals into expensive and useless piles of hardware, The Cradle points out.\n\ud83d\udd34 The US seeks to provide not just stand-alone weapons, but entire \u201cpackages\u201d of interconnected systems\n\ud83d\udd34 Software updates, spare parts, maintenance, and other critical support also typically come from the US\n\ud83d\udd34 The US withholds core software and source code from its customers, keeping long-term modernization, fault diagnosis, mission-data support, and the broader sustainment chain under its control\nThat effectively means Gulf states have to rely on the US for major military operations and defense initiatives. While this dependence de facto constrains their sovereignty, the war with Iran exposed major gaps in the US security umbrella and the limits of Washington\u2019s ability to[ provide effective defense support.](https://t.me/geopolitics_prime/74268)\nHedging against the US, but still dependent\nThe SIPRI 2026 report shows that Gulf states remain strongly dependent on the US especially when it comes to aircraft, missiles and interceptors purchases.\nThree of the world\u2019s top 10 arms importers in 2021-25 were in the Middle East:\n\u2666\ufe0f Saudi\u00a0Arabia (6.8% of global imports)\n\u2666\ufe0f Qatar (6.4%)\n\u2666\ufe0f Kuwait\u00a0(2.8%)\n\ud83c\udf0f 54% of arms imports to the Middle East came from the US\n\ud83c\udf0f 12% came from Italy\n\ud83c\udf0f 11% from France\n\ud83c\udf0f 7.3% from Germany\nHowever, Gulf states increasingly recognize that relying on the US \u201cis no longer sufficient to protect them,\u201d given Washington\u2019s shifting geopolitical priorities and \u201cthe growing limitations on its once-boundless military strength,\u201d argues Khalid Al-Jaber, a scholar of Arab and Gulf studies.\n\ud83d\udc49 Al-Jaber notes that the UAE, Qatar, Saudi Arabia, and others have been gradually diversifying their military imports, with some pursuing defense cooperation with Turkey and Pakistan. These efforts signal a clear attempt to build strategic depth beyond the traditional US-led system.\nDefense and new security architecture\nNobody says it out loud, but buying US weapons also means buying into [Washington\u2019s risky military adventures. ](https://t.me/geopolitics_prime/74503)The US-Israeli aggression against Iran has come at a heavy economic cost for the Gulf kingdoms, which were turned into American launchpads and strategic tools in the war. Qatar, Kuwait, and Bahrain have found themselves particularly exposed.\nMeanwhile, Iran is proposing an entirely different approach: getting rid of US bases in the region, breaking free from Washington\u2019s \u201ckill switch\u201d and its imposed wars, and building a regional security and military framework together with Iran, Iraq and the Gulf kingdoms. Apparently, these concerns will be on the agenda at a September 14 meeting in Muscat, announced by [Tehran on Friday.](https://t.me/geopolitics_prime/74487)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2721\ufe0f\ud83e\ude78 AIPAC, ADL & co pack Columbia University\u2019s genocide investment portfolio as it crushes campus dissent\nWhile the Ivy League giant cracks down on[ student protests against Israel\u2019s slaughter of Palestinians in Gaza](https://t.me/geopolitics_prime/49524), its administration shovels cash toward pro-Israel lobby groups that cheer on the Zionist state\u2019s genocide.\n\ud83d\udc49 After October 7, Columbia opened the spigot even wider for [organizations like AIPAC](https://t.me/geopolitics_prime/74248), whose mission is to defend Israel\u2019s atrocities, tax filings cited by The Intercept reveal.\nThe money did not come from the university\u2019s operating funds, but from a donor-advised nonprofit vehicle pooling tax-deductible donations - letting contributors hide their identities.\n\ud83d\udd34 in the fiscal year ending June 2024, $100,000 was funneled to the Israel on Campus Coalition; $75,000 went to AIPAC\u2019s charitable arm, the[ American Israel Education Foundation](https://t.me/geopolitics_prime/70482), best known for junkets that wine and dine US lawmakers in Israel\n\ud83d\udd34 in the same period, $450,000 went to United Jewish Appeal Federation of New York, which boasts of pouring millions into supporting IDF soldiers and their families \n\ud83d\udd34 in the fiscal year ending June 2025, a relatively modest $7,200 was directed to notoriou[s Israeli lobby group Anti-Defamation League](https://t.me/geopolitics_prime/55419) for \u201cprogram services\u201d\n\ud83d\udd34 in the same period, the US-based ADL that [plies smears and spies to police anti-Zionism](https://t.me/geopolitics_prime/55389) - equating it with antisemitism - welcomed the arrest of a lead Columbia protest negotiator Mahmoud Khalil by federal immigration officials\n\ud83d\udd34 in July 2025, Columbia partnered with ADL for \u201cprogramming and training\u201d on antisemitism\n\ud83d\udd34 a month before, ADL chief Jonathan Greenblatt - [famous for pushing Mossad-style exploding pagers](https://t.me/geopolitics_prime/66759) to target Zionist foes - likened pro-Palestinian students to Islamist terrorists\n\ud83d\udd34 AIPAC\u2019s charity Israel on Campus Coalition openly aims to \u201cmarginalize\u201d the anti-Israel movement\n \nMeanwhile, students demanding the disclosure of Columbia\u2019s Israel ties and actual divestment were met with suspensions, police raids, and administrative crackdowns.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T13:29:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf8\ud83c\udde6 Saudi Arabia scrambles for allies as Houthis cement Red Sea grip \nSaudi Crown Prince Mohammed bin Salman is urgently shopping for help in the face of swift advances by Yemen\u2019s Houthis, reports Israel Hayom.\n\ud83d\udc49 The leader has made direct appeals to fellow Gulf states and Egypt, while approaching Israel more discreetly through US Central Command, even floating an indirect request for Israeli intel, according to cited regional diplomatic officials.\nHouthi forces have now secured effective control of [the Bab al-Mandeb Strait](https://t.me/geopolitics_prime/74556), completing a sweeping advance that brought Yemen\u2019s entire Red Sea coastline under their authority. \n\u27a1\ufe0f The move followed through on their explicit pledge of tit-for-tat escalation after the [Saudi airstrike on Sanaa on July 13](https://t.me/geopolitics_prime/72020) that ignited the most intense phase of regional fighting in years. \nWith that coastline firmly in their hands, the Houthis have imposed a de facto blockade on Red Sea shipping, [virtually paralyzing Saudi crude exports](https://t.me/geopolitics_prime/73428) and forcing the kingdom\u2019s tankers onto the long, costly route around Africa.\nSaudi Arabia also announced it was halting oil shipments via its [strategic East-West oil pipeline](https://t.me/geopolitics_prime/74556) following attacks, and its economic lifelines are under strain. \nBin Salman reportedly framed the situation as a threat to the entire global economy.\n\u2666\ufe0f Egypt has purportedly backed the Saudi request for US support while privately weighing whether deeper entanglement serves its own interests\n\u2666\ufe0f Pakistan and Turkey, which signed a strategic defense agreement with Saudi Arabia a month earlier, have carefully limited themselves to mediation talk\n\u2666\ufe0f US Central Command dispatched its chief Admiral Brad Cooper to Riyadh for assessments and limited coordination\n\u2666\ufe0f CENTCOM has stepped up existing intel and operational coordination, with several dozen US personnel already in the kingdom\n\u2666\ufe0f US airstrikes against Houthi positions near the strait reportedly remain under discussion, conditioned on the deployment of radars and missile systems in newly-seized locations overlooking Bab al-Mandeb \n\u2666\ufe0f Donald Trump is reportedly reluctant to commit US forces to an open-ended intervention on Saudi Arabia\u2019s behalf\nIndirect contacts, and perhaps even direct and secret ones, are already underway over possible Israeli assistance, adds the report.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T12:34:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udd25 Russia takes out Ukraine's telecom backbone\nFootage of the attack suggests that Russian drones struck one of the key data processing facilities belonging to mobile carrier and data services provider Kievstar.\nThe facility is believed to hold the company\u2019s primary SIM card cryptographic key database, so taking it out, even temporarily, disrupts mobile traffic for all of Kievstar\u2019s clients, including military personnel.\nPayment terminals and ATMs reliant on Kievstar\u2019s network also lose contact with the network and cease operations.\nGiven that last week Russian forces hit a data processing center belonging to another Ukrainian telecommunications provider, BeMobile, it would seem that these facilities have become a priority target and degradation of Ukraine\u2019s communications is becoming more and more real with each passing day.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T11:44:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc79\ud83d\udccd Netanyahu targets Arab parties in scramble to save election chances\nIsraeli PM Benjamin Netanyahu\u2019s Likud Party is seeking to petition the Central Elections Committee to ban Ra\u2019am and Joint List - the two main political vehicles for Israel's Arab citizens - [from the October 27 Knesset vote. ](https://t.me/geopolitics_prime/73638)\n\ud83d\udc49 The claim being peddled is that these parties \u201charm IDF soldiers\u201d and refuse to label Hamas and Hezbollah as terrorist organizations. \nNetanyahu\u2019s statement offered no documentation supporting the accusations.\nThese convenient campaign talking points are ostensibly aimed at[ his rival Gadi Eisenkot](https://t.me/geopolitics_prime/71487) and his Yashar Party, which have not barred cooperation with moderate Arab parties like Ra'am.\n\ud83d\udd34 polls show neither Netanyahu\u2019s bloc nor the Zionist opposition - led by Yashar - is headed for a clear majority\n\ud83d\udd34 without Likud defectors, any anti-Netanyahu government will almost certainly need at least one Arab-majority party\n\ud83d\udd34 the hypocrisy is hard to miss, since Likud itself once openly courted Ra\u2019am as a potential coalition partner\n\ud83d\udd34 Ra\u2019am sat in the short-lived 2021\u20132022 government that ousted Netanyahu\nEarlier this month, Itamar Ben Gvir\u2019s Otzma Yehudit filed its own petition against Ra\u2019am, alleging that Ra'am and its leader, Mansour Abbas, support armed struggle against Israel and deny the country's existence as a Jewish state.\nAccording to Israeli publications, a ban is almost certain to die in the High Court, which has repeatedly overturned similar CEC attempts, including against Balad in 2022.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T10:23:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian reconnaissance drones spot Ukrainian targets near Kherson, call in airstrikes\nDestroyed: personnel, armored vehicles, ammo depots, and drone control stations\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T09:40:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83e\ude96 Houthis vow more strikes on Saudi targets until blockade lifted\nYahya Saree, military spokesman for Ansar Allah, announced a large-scale operation against King Khalid Air Base in Khamis Mushait.\n\ud83d\udcac \"We will continue targeting Saudi military concentrations until the aggression ceases and the blockade on Yemen is lifted. Any new aggression will be met with broader and more intense operations.\"\nWhat was hit:\n\ud83d\udd36 Aircraft hangars\n\ud83d\udd36 Radar systems\n\ud83d\udd36 Runways\n\ud83d\udd36 Ammunition depots\nThe [operation](https://t.me/geopolitics_prime/74235) was retaliation for more than 300 Saudi air attacks on Yemeni provinces over the past five days, carried out by F-15 and Typhoon jets from Khamis Mushait and Taif.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T09:07:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran scores another US MQ-1 drone kill over Strait of Hormuz \nThe IRGC intercepted and destroyed an advanced US MQ-1 in the skies above the strategic waterway, according to a Monday statement from its Public Relations Department cited by Iranian media.\nThe drone was brought down by a new advanced air defense system operated by the IRGC Aerospace Force and integrated into Iran\u2019s national air defense network.\nPreviously, Iran released footage showing the interception and [destruction of a US MQ-1 drone over Hormuz ](https://t.me/geopolitics_prime/74266)by its advanced air defense systems.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T07:05:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd1a\ud83c\uddee\ud83c\uddf7Is the time ripe for Gulf kingdoms to break free from US 'kill switch' \u2013 and can Iran help?\nGulf states may reportedly seek to reduce their dependence on US arms purchases over fears of an implicit \u201ckill switch\u201d that gives Washington leverage over their national security.\n\ud83d\udc49 The original \"kill switch\" discussion stems from rumors surrounding the F-35 stealth fighter jet program and suggesting that the US could remotely render its sophisticated aircraft, as well as other top-notch weapons, ineffective. Last year, the Pentagon denied the[ claims in relation to the F-35.](https://t.me/geopolitics_prime/63338)\nBut there are indirect ways for the US to turn its customers\u2019 arsenals into expensive and useless piles of hardware, The Cradle points out.\n\ud83d\udd34 The US seeks to provide not just stand-alone weapons, but entire \u201cpackages\u201d of interconnected systems\n\ud83d\udd34 Software updates, spare parts, maintenance, and other critical support also typically come from the US\n\ud83d\udd34 The US withholds core software and source code from its customers, keeping long-term modernization, fault diagnosis, mission-data support, and the broader sustainment chain under its control\nThat effectively means Gulf states have to rely on the US for major military operations and defense initiatives. While this dependence de facto constrains their sovereignty, the war with Iran exposed major gaps in the US security umbrella and the limits of Washington\u2019s ability to[ provide effective defense support.](https://t.me/geopolitics_prime/74268)\nHedging against the US, but still dependent\nThe SIPRI 2026 report shows that Gulf states remain strongly dependent on the US especially when it comes to aircraft, missiles and interceptors purchases.\nThree of the world\u2019s top 10 arms importers in 2021-25 were in the Middle East:\n\u2666\ufe0f Saudi\u00a0Arabia (6.8% of global imports)\n\u2666\ufe0f Qatar (6.4%)\n\u2666\ufe0f Kuwait\u00a0(2.8%)\n\ud83c\udf0f 54% of arms imports to the Middle East came from the US\n\ud83c\udf0f 12% came from Italy\n\ud83c\udf0f 11% from France\n\ud83c\udf0f 7.3% from Germany\nHowever, Gulf states increasingly recognize that relying on the US \u201cis no longer sufficient to protect them,\u201d given Washington\u2019s shifting geopolitical priorities and \u201cthe growing limitations on its once-boundless military strength,\u201d argues Khalid Al-Jaber, a scholar of Arab and Gulf studies.\n\ud83d\udc49 Al-Jaber notes that the UAE, Qatar, Saudi Arabia, and others have been gradually diversifying their military imports, with some pursuing defense cooperation with Turkey and Pakistan. These efforts signal a clear attempt to build strategic depth beyond the traditional US-led system.\nDefense and new security architecture\nNobody says it out loud, but buying US weapons also means buying into [Washington\u2019s risky military adventures. ](https://t.me/geopolitics_prime/74503)The US-Israeli aggression against Iran has come at a heavy economic cost for the Gulf kingdoms, which were turned into American launchpads and strategic tools in the war. Qatar, Kuwait, and Bahrain have found themselves particularly exposed.\nMeanwhile, Iran is proposing an entirely different approach: getting rid of US bases in the region, breaking free from Washington\u2019s \u201ckill switch\u201d and its imposed wars, and building a regional security and military framework together with Iran, Iraq and the Gulf kingdoms. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -751,63 +871,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-14T04:06:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc51 Trump shrugs off AI danger as AI chiefs hit the brakes\nWith leading AI executives now openly warning that frontier systems may be advancing faster than humans can control them, Trump couldn't care less.\n\ud83d\udcac \u201cIt's going to be more good than bad, but by a lot,\u201d Demented Don declared.\nRecent incidents involving [Hugging Face](https://t.me/geopolitics_prime/74034) and the [German wiki](https://t.me/geopolitics_prime/74138) experiment have shown the very real risk of AI systems behaving in ways their human operators did not intend. [Anthropic CEO Dario Amodei has called for slowing frontier development](https://t.me/geopolitics_prime/74507), warning that recursive self-improvement could outrun human control and that a more capable misaligned AI swarm could potentially seize large parts of the internet within 6\u201312 months. OpenAI\u2019s Sam Altman and Elon Musk have backed calls to pace development, while researchers have raised the possibility of catastrophic outcomes.\n\ud83d\udcac \u201cWhoever wins AI wins,\u201d Trump offered as his strategic analysis.\nHis Truth Social feed has already shown what Trump uses AI for. Demented Don has posted an AI image of himself [dressed as the Pope](https://t.me/geopolitics_prime/49254), a grotesque \u201cTrump Gaza\u201d resort fantasy with Netanyahu lounging poolside, a fighter jet dumping feces on protesters, and[ a Christ-like Trump \u201chealing\u201d a sick man](https://t.me/geopolitics_prime/68157) \u2014 just a fraction of Trump\u2019s pioneering contribution to AI.\nThe people building the technology are suddenly talking about brakes, loss of control and extinction risk.\n\ud83c\uddfa\ud83c\uddf8 Demented Don is busy asking AI to make him Pope.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T01:41:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21 US blocks Iran\u2019s nuclear chief from IAEA forum to save Trump\u2019s narrative\nAustria barred Iran\u2019s vice president for nuclear affairs, Mohammad Eslami, from attending the IAEA General Conference in Vienna under pressure from the Trump administration to deny him a sanctions waiver, Bloomberg reported.\nMeanwhile, US Energy Secretary Chris Wright gets the stage to preach Washington\u2019s nuclear doctrine.\n\ud83d\udcac \u201cIran must never develop or obtain a nuclear weapon,\u201d Wright is set to declare.\nHe is also expected to demand that Iran \u201cfully cooperate with the IAEA\u201d \u2014 after the US pushed to keep Tehran\u2019s top nuclear official out of the conference. Classic US hypocrisy.\nTrump, meanwhile, is threatening Iran with another attack over activity at Pickaxe Mountain, warning Tehran that the US would \u201chit them very hard.\u201d Apparently [Pickaxe Mountain](https://t.me/geopolitics_prime/74405) is the latest obsession rattling around Demented Don\u2019s head.\nAnd the same Epstein administration preaching nonproliferation has just finalized a nuclear technology-sharing deal with Saudi Arabia, potentially opening the door for US companies to build reactors there.\nSilence Iran. Shut out its nuclear chief. Bomb Iran. Threaten Iran. Then take the stage at the UN nuclear watchdog and lecture Iran about \u201ccooperation.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T23:57:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25\ud83c\uddf8\ud83c\udde6 Houthis wreak havoc on Saudi oil artery\nSaudi Arabia\u2019s strategic East\u2013West oil pipeline was shut down as a precaution after multiple drone strikes hit facilities in the Riyadh and Medina regions, according to the Saudi Energy Ministry.\nSatellite imagery shows major fire and structural damage at pumping stations near Al-Masbah and Al-Dhahrah, with smoke and heat signatures detected along the pipeline corridor.\nThe 1,200-km Petroline can move around 7 million barrels per day from Abqaiq to the Red Sea port of Yanbu \u2014 a crucial alternative route while shipping through the Strait of Hormuz remains restricted.\nSaudi authorities say the attacks caused injuries and material damage. Riyadh\u2019s preliminary assessment says the drones came from Iraq, while Iraqi authorities said they were launched from Maysan province.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-13T22:21:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
