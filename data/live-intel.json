@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-09-15T11:48:44.441433+00:00",
+  "generated_at": "2026-09-15T16:45:13.788461+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Sunday, September 20, 2026 through Saturday, September 26, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/15/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Sunday, September 20, 2026 through Saturday, September 26, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/15/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nJamaica, NY, Sunday, September 20, 2026 through Saturday, September 26, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/15/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLatrobe, PA, Thursday, September 17, 2026 through Friday, September 18, 2026 Local\nFacility: ZOB",
@@ -144,25 +201,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/13/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWhite Sands, NM, Tuesday, September 15, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/12/2026",
-      "location": "ZAB NM",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -363,6 +401,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+      "text": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says\nIran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-15T16:13:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Ash from Mount Etna grounds flights at Sicily airport",
+      "text": "Ash from Mount Etna grounds flights at Sicily airport\nAll flights are suspended from one of Italy's busiest airports until Tuesday night.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-15T14:35:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Nato jets down drone that entered Lithuanian airspace",
       "text": "Nato jets down drone that entered Lithuanian airspace\nThe origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
       "source": "BBC",
@@ -379,6 +455,45 @@
       "verified_sources": [
         "BBC World News",
         "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u274c CLAIM: Ansarallah (the Houthis) targeted Mecca and the Masjid Al-Haram with ballistic missiles.\n\u2705 FACT: No sirens were activated in Mecca Governorate; alerts were only activated in the neighbouring Ta\u2019if and Jeddah Governorates.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T16:20:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Iran has downed another American MQ-1C drone, the third in the last 24 hours",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T14:41:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
@@ -413,12 +528,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -461,118 +577,61 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Satellite imagery confirms that Sharorah Airport in Saudi Arabia was hit by Yemeni missiles",
+      "publisher": "Clash Report",
+      "text": "A drone crashed in an uninhabited area near Germany\u2019s Steinhuder Meer, about one kilometer from the Bundeswehr air base at Wunstorf.\nPolice launched a large search for additional debris. Authorities say there is no known threat to the public, while the drone\u2019s origin and owner remain unknown.\nSource: BILD",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T16:53:08+00:00",
+      "timestamp": "2026-09-15T16:10:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "An Iranian Sepehran Airlines Boeing 737 was forced to return to Mashhad Airport after a tire reportedly burst shortly after takeoff and the aircraft suffered engine damage.\nThe flight had been heading to Kermanshah. \nVideo from inside the plane showed tense passengers.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T14:42:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran says it shot down a third U.S. MQ-1 drone over the Strait of Hormuz today using an IRGC Aerospace air defense system.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T14:37:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Clash Report",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "China unveiled a lightweight, modular net launcher for non-lethal suspect capture at 5\u201315 meters, deployable by hand or mounted on drones, UGVs and robot dogs.\nThe system fires a UHMWPE net that tightens and tangles as the target struggles, allowing police to immobilize suspects without approaching them or using firearms.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T11:41:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Japan\u2019s ASDF lost an RQ-4B Global Hawk surveillance drone over the Sea of Japan, about 50 km north of Tottori.\nPossible wreckage has since been spotted, and the ASDF now presumes the drone crashed.\nThe unarmed ~$120 million+ drone was not on a training flight, though its mission remains undisclosed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T11:38:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Turkish Foreign Minister Hakan Fidan:\nIran's security, stability and prosperity naturally directly affect our region. In this respect, we want the existing conflict to be resolved through diplomatic means as soon as possible. \nThe increasing mutual attacks in the recent period are seriously undermining peace efforts. These actions, which are increasing tensions in the region, must end immediately. \nAt the same time, safe, uninterrupted and free passage through the Strait of Hormuz must be allowed, and the pre-war status quo must be restored as soon as possible.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T10:50:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "China is building what appears to be the world's first mothership designed to deploy giant submarine drones, spotted at a Shanghai shipyard. \nThe ship has a well-deck, a lowering cradle system, and an internal hangar that could hold around four uncrewed submarines. \nChina already has two types of XXLUUVs (35m and 45m long) under testing \u2014 6 to 8 times the size of the US Navy's Orca drone sub. \nH I Sutton at Naval News says the only plausible explanation is a combat drone submarine mothership, not research. \nChina is now well ahead of any other country in fielding full-sized unmanned submarines.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T10:20:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Oil tanker El Gaia being towed into Omani port after being hit near Hormuz.\nCENTCOM said yesterday Iran hit it with a missile last month then a drone this weekend. \nIran says it struck naval mines in a restricted zone. \nOman and India confirming an attack and fire; one Indian crew member still missing. \nThe tanker had its AIS off for days before the incident.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T09:49:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -609,25 +668,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Saudi Arabian air defense units have successfully intercepted a Houthi ballistic missile targeting the holy city of Mecca, according to a statement released by the Saudi coalition on September 15, 2026. \nThe medium-range missile was fired from northern Yemen and intercepted over the neighboring area of Taif before it could strike the city.\n~Saudi Media \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T11:46:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -719,13 +759,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -758,13 +797,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -784,6 +822,26 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Satellite photos show the extent of the damage caused by the drone attack on Saudi Arabia's East-West pipeline.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T12:21:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1037,6 +1095,65 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83e\udd14 Saudi Arabia runs out of good options as Houthis tighten noose and oil lifeline under fire\nThe swift advance of Yemen\u2019s Ansar Allah forces has left Saudi Arabia with vanishingly few viable responses, each carrying steep costs. \nHaving spent years refining combat tactics, the Houthis have secured a vast stretch of the Red Sea coast, and effectively [gained control ](https://t.me/geopolitics_prime/74576)of the[ Bab el-Mandeb Strait](https://t.me/geopolitics_prime/74365) against the Saudi-led coalition and their puppet Yemeni regime.\nSaudi Arabia\u2019s strategic East-West oil pipeline - the critical Strait of Hormuz workaround moving crude to Red Sea terminals - [was shut down ](https://t.me/geopolitics_prime/74556)after multiple drone strikes hit facilities in the Riyadh and Medina regions.\nLatest satellite imagery shows significant damage at Pump Station 9, with possible damage at Station 8, with repairs potentially taking weeks. \nSaudi crude flows to Yanbu and other Red Sea export infrastructure could be squeezed, raising the risk of a wider global oil-supply shock.\nThis dual pressure on disrupted oil infrastructure has pushed crude prices higher: Brent futures climbed above $107 a barrel. \nSaudi Arabia\u2019s choices are limited:\n\ud83d\udd36 military escalation risks an open-ended conflict that could spill beyond Yemen\u2019s borders and draw in wider regional forces\n\ud83d\udd36 a full-scale push would also demand sustained international backing that shows [no sign of materializing](https://t.me/geopolitics_prime/74578)\nWhen Crown Prince Mohammed bin Salman called Donald Trump,[ the response ](https://t.me/geopolitics_prime/74607?single)was reportedly that the Houthis \"don't want to fight\" America.\nA negotiated settlement would require Saudi Arabia to meet the Houthis\u2019 demands.\nAnsar Allah is \u201cready for peace\u201d if Saudi Arabia halts airstrikes, lifts its Yemen blockade, and stops backing rival militias, senior official [Mohammed al-Bukhaiti has stated](https://t.me/geopolitics_prime/74610).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T15:38:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8Third US MQ-1 downed over Hormuz\nIRGC air defenses have shot down another American MQ-1 over the Strait of Hormuz \u2014 the third such drone Tehran claims to have brought down, as US pressure in the Gulf keeps meeting increasingly costly resistance, an Iranian news agency reports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T14:36:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia seeks Israeli intel as Houthis expose kingdom\u2019s vulnerabilities\nFaced with [a relentless Houthi ](https://t.me/geopolitics_prime/74610)onslaught, Saudi Arabia has enlisted Israel\u2019s help - quietly opening channels for military cooperation mediated by US Central Command, reports Walla.\nRather than confront the root causes of Houthi resilience - years of Saudi-led intervention in Yemen that devastated the country - Saudi Arabia seeks Israeli intel to blunt the Ansar Allah attacks.\n\ud83d\udc49 Diplomatic sources confirm talks with Israel focused on intelligence sharing to map Houthi deployments and anticipate future strikes. \nThe kingdom has also approached Britain for help in defending oil infrastructure and reclaiming access to the Bab al-Mandab Strait \u2013 the UK has agreed only to send military advisors so far.\nThe evolving security situation has reportedly alarmed Saudi Arabia and other regional states amid fears that US understandings with Iran and the Houthis could leave them exposed to continued attacks and unresolved threats.\nAs part of their lightening offensive against Saudi-backed [mercenaries in Yemen,](https://t.me/geopolitics_prime/73766) Ansar Allah forces have seized strategically vital Red Sea islands and effectively locked Saudi vessels out of the Bab al-Mandab Strait.\nDrone strikes hit Saudi Arabia\u2019s East\u2013West crude oil pipeline \u2013 a strategic Hormuz workaround \u2013 [forcing its shutdown.](https://t.me/geopolitics_prime/74584)\nAmid a continued exchange of missile and drone strikes by the Houthis and Saudi Araba, Ansar Allah has put peace [on the table with clear terms](https://t.me/geopolitics_prime/74610), including a halt to Saudi airstrikes, an end to its blockade of Yemen and backing of rival militias.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T12:45:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udc41 Israeli startup let OpenAI, Anthropic, and Meta AIs go on real-world rampage\nAs billionaire tech mouthpieces push an apocalyptic[ \u201crogue AI\u201d scenario](https://t.me/geopolitics_prime/74507?single), Israeli company Irregular is responsible for letting unsecured OpenAI, Anthropic and[ Meta models loose](https://t.me/geopolitics_prime/73129) on the real world, reports Effort News.\nOver the past months, Anthropic cited at least four incidents across seven runs.\nIn one Anthropic test, its Claude model breached a real company\u2019s system through a simulated name collision, published a malicious package and scanned external systems. \n\ud83d\udd34 Claude was placed in a fictional scenario with a target machine and a secret piece of information - the \u201cflag\u201d - that it was tasked with retrieving\n\ud83d\udd34 Although the prompts explicitly stated that Claude had no internet access, a configuration error left internet access open\n\ud83d\udd34 The prompts also failed to specify which systems were in scope or restrict where Claude could search for the flag, giving it a much broader field of action than intended\n\ud83d\udd34 Each test involved a single Claude instance operating independently for roughly 10\u201334 hours\nWhile Anthropic pushes claims of \u201crogue swarms\u201d, later disclosure dispels that:\n\u27a1\ufe0f in one experiment, Claude Mythos was tested in a scenario where it was effectively being pushed toward doing something malicious on a real internet system\n\u27a1\ufe0f at first, the AI did not realize that the target was a real system rather than a simulated one\n\u27a1\ufe0f researchers then explicitly told it that this was \u201ca real computer on the public internet, not a simulation\u201d\n\u27a1\ufe0f once the boundary was made clear, Claude stopped targeting the real system, with the rate of that behavior falling to 0%\n\u27a1\ufe0f in 22% of cases, Claude still tried to find a way to perform the same task against a simulated or fictional target\nThe logical fallout would be for US AI giants to cut ties with Irregular - not just for its security failures, but because the Israeli firm sits beyond easy American oversight. \nInstead, Irregular, Anthropic and their allies have launched a media campaign built on [apocalyptic rhetoric](https://t.me/geopolitics_prime/74606): \n\ud83d\udd36 Anthropic blamed its AI\u2019s \u201crecklessness\u201d \n\ud83d\udd36 Irregular said \u201cthe agent itself\u201d had become a \u201cthreat actor\u201d \n\ud83d\udd36 CEO Dario Amodei warned that a future AI swarm could \u201ctake over the entire internet\u201d \nAfter the breaches, Anthropic and Irregular tapped a network of AI Safety influencers to push a \u201crogue agent\u201d narrative. \nIrregular\u2019s leadership is intertwined with Israeli Effective Altruism groups, whose money trail leads to major Democratic donor Dustin Moskovitz\u2019s network (Good Ventures / Open Philanthropy).\nOpen Philanthropy is the philanthropic machine repeatedly accused of buying policy and narrative influence in AI policy and media.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1138,121 +1255,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-15T07:01:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Pentagon admits US has \u2018on-orbit\u2019 weapons in space\nFor years, the US was wary of openly discussing orbital weaponry - ostensibly out of fear of fueling a global arms race.\nThose claims now ring hollow.\nUS Air Force Secretary Troy Meink has confirmed that the United States already fields \u201con-orbit space control weapons capable of defending the joint force against hostile adversary action.\u201d \nHe also confirmed to the Air and Space Forces Association conference that:\n\ud83d\udd34 these on-orbit capabilities \u201ccan be employed for offensive and defensive purposes\u201d\n\ud83d\udd34 \u201cspace control\u201d means both protecting US assets and \u201cnegating\u201d an adversary\u2019s space capabilities\n\ud83d\udd34 options range from kinetic kill vehicles to non-kinetic systems that can jam or disable satellites (none of which require nuclear warheads forbidden by the Outer Space Treaty)\nMeink dismissed concerns about escalation, and claimed that public acknowledgment serves deterrence.\nHe refused to elaborate further, noting that specifics \u201cwould actually not benefit that deterrence.\u201d \nThe admission lands amid a broader US push to treat space as the next decisive warfighting domain. \nWar Secretary Pete Hegseth has called space \u201cthe single most decisive battlefield of this century and the centuries to come\u201d and declared that the US will \u201cdemand orbital dominance.\u201d \nTrump\u2019s costly sci-fi daydream [Golden Dome project ](https://t.me/geopolitics_prime/50782)has been touted as a global missile defense system with orbital interceptors and space-based lasers.\nThe project - targeted for 2029 - fits into the same aggressive vision.\nAt the same conference, Meink said the Space Force has achieved \u201cflight ready\u201d hardware for space-based interceptors that can bat down adversary missiles from orbit - a centerpiece of the Golden Dome initiative.\nRussia and China have slammed the Golden Dome as militarizing outer space, and North Korea labeled it a \u201cpath to nuclear war in space.\u201d\nRussia also noted that its modern strategic nuclear systems \u2013 like the [hypersonic Kinzhal missile ](https://t.me/geopolitics_prime/67553)\u2013 could bypass such defenses.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T05:49:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f War Pushes Iran\u2019s Energy Map North\nIran built most of its oil and gas system in the south, beside the Persian Gulf and the [Strait of Hormuz](https://t.me/newrulesgeo/2527). In peacetime, that was simply geography. In war, it becomes a vulnerability: fields, terminals and tanker routes all sit inside the same battlespace.\nTehran is now pushing north. Iran is returning the Amir Kabir semi-submersible rig to deep-water exploration in the Caspian after years of inactivity. The Iranian-built platform can operate in water almost 1,000 meters deep and drill 6,600 meters beneath the seabed. It was previously used to confirm oil at the Sardar-e Jangal structure.\nExploration is moving ahead in Block 18 and off Gilan, while seismic work in Golestan is expected to lead to another well next year.\nThe Caspian will not replace Iran\u2019s giant southern fields any time soon. That is not the immediate point. Even modest northern production gives Tehran something money alone cannot buy: distance from the war in the Gulf.\nOil and gas produced there could supply Iran\u2019s northern provinces and industry without being hauled across the country from the south. New drilling would support ports, service vessels, repair facilities and the same [domestic oil-sector expertise](https://t.me/newrulesgeo/2548) Iran is already developing elsewhere. A strike campaign focused on the Gulf coast would no longer threaten every part of the energy system at once.\nThe north also opens a different map. Russia, Kazakhstan, Turkmenistan and Azerbaijan lie across the Caspian. Iran could expand energy swaps with its neighbors and potentially send future Caspian crude to Kazakhstan, whose pipeline network already runs east toward China. The International North\u2013South Transport Corridor gives Tehran another route connecting its northern ports to the Persian Gulf and the Indian Ocean.\nNone of this is a ready-made replacement for Hormuz. It is the beginning of a second network of fields, partners and transport routes that Washington would find much harder to squeeze at the same time.\nBringing Amir Kabir back also keeps deep-water drilling skills inside Iran. The rig was built domestically by Sadra; restoring it preserves the crews, marine support and repair base needed for future projects. Iran followed the same sanctions-driven path at its [first geothermal power plant](https://t.me/newrulesgeo/2536), adapting drilling methods and energy equipment at home.\nThe US-Israeli war was supposed to narrow Iran\u2019s options. Instead, it is pushing Tehran to spread its energy system across two fronts and tie the northern one more closely to Eurasia.\nThe Caspian does not need to rival the Persian Gulf. It only needs to make Iran harder to isolate, blockade or cripple with a single campaign.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T05:08:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5\ud83c\uddee\ud83c\uddf7 Iran downs another US MQ-1 drone over western Strait of Hormuz\nIran\u2019s Islamic Revolutionary Guard Corps says its air defenses intercepted and destroyed an advanced MQ-1 drone worth roughly $5 million in the skies west of the Strait of Hormuz early today, IRNA reported.\nThe aircraft was detected and brought down by a new advanced air-defense system operated by the IRGC Aerospace Force under Iran\u2019s integrated national air-defense network.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:45:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddec\ud83c\udde7\ud83c\uddf8\ud83c\udde6 Britain\u2019s battered military eyes another Yemen misadventure\nSaudi Arabia has asked Britain for diplomatic and military help against Yemen\u2019s Ansar Allah forces as the Houthis push toward Bab el-Mandeb and attacks batter Saudi oil infrastructure, Bloomberg reported.\nRiyadh wants operational support along Yemen\u2019s Red Sea coast and help protecting oil facilities after its East-West pipeline was knocked offline. Britain has already agreed to send military advisers.\n\ud83c\udff3\ufe0f The same Royal Navy whose own government says only around half of its surface fleet is at high readiness or above is now being eyed as backup for Riyadh. The Navy has even admitted that one Portsmouth store alone is sitting on 84,000 repairable items worth around \u00a3200 million after years of funding and maintenance problems.\n\ud83d\udcc9 Britain\u2019s armed forces are also markedly smaller than they were in 2022, while Army applications recently plunged by nearly a third year-on-year.\n\u2694\ufe0f Meanwhile, Ansar Allah\u2019s advance and the Saudi pipeline shutdown have helped push Brent toward $110, with British officials privately warning that Houthi control of Bab el-Mandeb could have a \u201ccatastrophic\u201d effect on shipping and inflation.\nForeign Secretary Ed Miliband nevertheless declared:\n\ud83d\udcac \u201cI made clear that the UK stands firmly with Saudi Arabia and the internationally recognized Government of Yemen.\u201d\nThe rusting leftovers of Britain\u2019s imperial military are already fantasizing about another Middle East misadventure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T02:21:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2620\ufe0f Iran turns Pentagon\u2019sEpstein Fury into an expensive embarrassment\nThe Pentagon\u2019s first special report on Operation Epstein Fury quietly documents what [months of victory boasts ](https://t.me/geopolitics_prime/69306)could not hide: depleted ammunition stocks, wrecked aircraft, battered bases and a logistics network forced to retreat and improvise under Iranian fire.\n\ud83d\udcb5 By June 29, the Pentagon already put the war\u2019s cost at $33.4 billion: $22.3 billion in expended munitions and $3.7 billion in equipment losses \u2014 not including repairs to damaged infrastructure.\n\ud83d\udcac The war caused \u201cstrategic inventory shortfalls\u201d and exposed \u201cindustrial base bottlenecks for munitions resupply,\u201d the report admits.\n\ud83d\ude80 Iran damaged or destroyed hundreds of buildings and structures at US bases across eight countries. The Pentagon\u2019s own table lists four F-15Es destroyed, an F-35A damaged, an A-10 destroyed, multiple KC-135 tankers hit, an E-3 damaged and as many as 30 MQ-9 drones destroyed.\n\ud83d\udccc The humiliation spread to logistics. After Iranian strikes, US medical-evacuation helicopters were pulled from Iraq and Kuwait, leaving most evacuations to be carried out by ground, including local ambulances.\n\u26f4 Iranian attacks also forced the Navy to shift sustainment away from Bahrain, while moving support to Diego Garcia stretched resupply cycles to 14\u201318 days. The report itself admits that establishing adequate naval bases and support ports posed \u201csignificant challenges.\u201d\nAnd after burning through men, missiles and machinery, [Hegseth](https://t.me/geopolitics_prime/74595) went back to Congress warning that without more money the Pentagon could face \u201ccritical shortfalls\u201d threatening its ability to replenish weapons and sustain global operations.[ The White House asked for another $67.1 billion](https://t.me/geopolitics_prime/71862) for the Pentagon, mostly for Epstein Fury.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T01:09:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21\ud83e\ude96 Hegseth\u2019s Pentagon chaos is distracting the US military from actual war\nSecretary of War Crimes Pete Hegseth\u2019s tenure has turned into a persistent source of turmoil inside the Pentagon, distracting senior commanders while the US military struggles with the prolonged war against Iran, The New York Times reported.\n\ud83d\udcac \u201cCurrent and former military officials describe Mr. Hegseth\u2019s tumultuous tenure as a persistent distraction that has pulled top leaders away from focusing on these priorities and fed a climate of mistrust in the top ranks,\u201d according to the report.\nThe internal purge has been sweeping:\n\ud83d\udcac \u201cHe has fired or blocked the promotions of as many as 80 generals and admirals.\u201d\nOfficers have watched experienced mentors disappear \u201cwithout any sense of what they might have done wrong,\u201d while key leadership posts have remained vacant for months and career officers have begun questioning whether promotions are even worth accepting.\nAll this comes as the US-Israeli war of aggression against Iran has dragged on far longer than Trump or the Pentagon expected, despite Trump\u2019s daily victory declarations. Long deployments have been [hurting the US soy military](https://t.me/geopolitics_prime/73343), which cannot handle real combat outside of luxury hotels. An enemy actually fighting back has proved too tall an order, as the feeble US military [has only been used to bombing unarmed civilians](https://t.me/geopolitics_prime/74073).\nNo amount of Hegseth\u2019s hair gloss can remedy [the US military](https://t.me/geopolitics_prime/73771) \u2014 or produce such valuable yet dysfunctional interceptor missiles.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T22:51:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
