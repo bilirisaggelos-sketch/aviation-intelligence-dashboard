@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T00:57:07.905918+00:00",
+  "generated_at": "2026-09-15T06:03:32.046821+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -363,23 +363,63 @@
       "verified_source_count": 1
     },
     {
-      "title": "Thousands demand end to violence in Mexican cartel hotspot",
-      "text": "Thousands demand end to violence in Mexican cartel hotspot\nCuliac\u00e1n has seen violence skyrocket since a feud broke out between two rival factions of the Sinaloa cartel.",
+      "title": "Nato jets down drone that entered Lithuanian airspace",
+      "text": "Nato jets down drone that entered Lithuanian airspace\nThe origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-14T11:28:36+00:00",
+      "timestamp": "2026-09-15T02:22:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Where missile alerts were activated in Saudi Arabia tonight",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T02:17:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: A few hours ago, Saudi Arabia announced the suspension of educational activities in Abha, Khamis Mushait, and many other areas throughout the country\nThe stated reason is \u2018due to a chance of rain\u2019. Note that there is a zero (0%) chance of rain in Saudi Arabia over the next 24 hours, and the areas happen to correspond with those currently under missile attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T02:06:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -393,31 +433,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran shot down an American MQ-1C \u2018Gray Eagle\u2019 drone in the Strait of Hormuz",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T11:35:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -431,12 +453,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "BBC World News",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -555,12 +578,32 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udcf0\ud83c\uddf8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddfe\ud83c\uddea\ud83c\udd92\u26a1\ufe0f WITHIN 20 MILES OF A U.S. BASE: \nHouthi forces seize strategic Red Sea islands and commercial satellite imagery reveals major damage from a drone strike on Saudi Arabia's East-West oil pipeline. \nOn Special Report, Chief National Security Correspondent JenGriffinFNC breaks down the escalating regional campaign. While VP JD Vance confirms direct U.S. communications with the Houthis, Interior Secretary Doug Burgum points to Western Hemisphere reserves and record production as a shield against global energy disruption.\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c \ud83c\uddfa\ud83c\uddf8Islamic Revolutionary Guard Corps:\nAt dawn today, an advanced MQ-1 drone was intercepted and destroyed in the skies west of the Strait of Hormuz in Iran by an advanced modern air defense system of the IRGC Aerospace Force, under the control of the country's integrated air defense network.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T22:26:19+00:00",
+      "timestamp": "2026-09-15T03:25:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Yemeni missile and drone barrage attack towards these areas in Saudi Arabia \n- Yanbu\n- Abha \n- Al Ulaa \n- Taif \n- Jeddah \n- Jizan \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T01:51:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -570,6 +613,26 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udcf0\ud83c\uddf8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddfe\ud83c\uddea\ud83c\udd92\u26a1\ufe0f WITHIN 20 MILES OF A U.S. BASE: \nHouthi forces seize strategic Red Sea islands and commercial satellite imagery reveals major damage from a drone strike on Saudi Arabia's East-West oil pipeline. \nOn Special Report, Chief National Security Correspondent JenGriffinFNC breaks down the escalating regional campaign. While VP JD Vance confirms direct U.S. communications with the Houthis, Interior Secretary Doug Burgum points to Western Hemisphere reserves and record production as a shield against global energy disruption.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-14T22:26:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -592,22 +655,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\u2014 reports of anti-ship cruise missiles launch towards Strait of Hormuz by Iran.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: A few hours ago, Saudi Arabia announced the suspension of educational activities in Abha, Khamis Mushait, and many other areas throughout the country\nThe stated reason is \u2018due to a chance of rain\u2019. Note that there is a zero (0%) chance of rain in Saudi Arabia over the next 24 hours, and the areas happen to correspond with those currently under missile attack.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T14:23:58+00:00",
+      "timestamp": "2026-09-15T02:16:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -631,12 +695,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaFormer British Prime Minister Johnson, in response to reportedly surviving the Russian drone strike along the Polish-Ukrainian border, said he\u2019s confused why Russian President Putin targeted a stationary train. \nHe called for additional air-defence support for Ukraine and urged Western governments to make greater use of frozen Russian assets to support Kyiv. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ud83c\uddf1\ud83c\uddf9\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\uddfe [The Guardian](https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas)\u2060: NATO jets shot down a drone that entered Lithuanian airspace from neighboring Belarus and was heading west. \nThe drone was destroyed near Pratkunai, outside Kaunas, after authorities issued an alert for Vilnius and surrounding areas.\nLithuanian President Gitanas Naus\u0117da praised NATO\u2019s response, saying heightened readiness was vital as Russia intensifies its war against Ukraine.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T02:33:49+00:00",
+      "timestamp": "2026-09-15T04:09:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,12 +714,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf2\ud83c\uddf2 Myanmar resistance forces launched fiber-optic FPV drones against Russian-made Yak-130 aircraft stationed at the Tada-U air base, near Mandalay.\nThe drones, reportedly operated by women from the People's Defense Forces , evaded radio jamming but failed to breach the protective netting over the hangars despite three close passes.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones targeted the Syzran Oil Refinery in Russia\u2019s Samara Region earlier tonight.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T02:33:14+00:00",
+      "timestamp": "2026-09-15T03:58:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -669,12 +733,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf7\ud83c\uddfa[FT](https://www.ft.com/content/7f01b434-0209-4783-b8eb-5a095ca5bd4f): Russia\u2019s new jet drone models, the Geran-4 and Geran-5, have been so effective in Russia\u2019s war against Ukraine that Iran asked Russia for them during their recent conflict with Israel and the U.S. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\udde6 CENTCOM on the claim by the IRGC that a Panama-flagged oil tanker stuck a naval mine along the Strait of Hormuz being false, and that instead, it was struck by an Iranian missile and rendered inoperable:\n\"CLAIM: Iran's Islamic Revolutionary Guard Corps (IRGC) claims a Panama-flagged oil tanker recently struck a naval mine in the Strait of Hormuz. This is FALSE. \nFACT: The Panama-flagged oil tanker El Gaia was struck by an Iranian missile last month and rendered inoperable. This weekend, Iran struck the tanker again with a drone while the ship sat in waters of the coast of Oman. The tanker is currently being towed by a regional partner. The IRGC's false claim is yet another example of their lies and intimidation attempts while they try to impede commercial vessels in the strait.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T02:32:59+00:00",
+      "timestamp": "2026-09-15T03:54:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +752,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russian drones struck near the Yahodyn-Dorohusk border crossing on the Ukraine-Poland border, hitting a gas station and setting nearby trucks on fire, as railway infrastructure was also targeted, halting trains and forcing the evacuation of passengers.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 Ukraine has unveiled its Coral anti\u2011aircraft missile launcher for the first time at the MSPO defence exhibition in Poland. \nThe missile is launched from a self\u2011propelled platform mounted on a Czech Tatra truck chassis and is designed to intercept aerial and ballistic targets.\nThe missile weighs 450 kg, including a 36 kg warhead, and combines inertial navigation, radio correction and an active radar homing seeker. Development began in 2016, with the Luch Design Bureau estimating readiness at around 70% in 2021. It is intended to fill the middle range in a future line of Ukrainian air defence systems.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T02:30:02+00:00",
+      "timestamp": "2026-09-15T03:51:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +771,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Rare footage from Majdal Shams in the Golan Heights shows a person launching an anti-tank missile at a residential building last weekend. Residents' testimonies describe extensive damage at the scene. The background is a criminal incident.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa The Russian army has received a new batch of T-90M and T-72B3M main battle tanks with latest drone missile shield upgrades, manufacturer Uralvagonzavod has announced. \nThe T-90M is currently the only main battle tank in production in Russia, while stored T-72s are being upgraded to the T-72B3M standard. \nSince 2024, Russia has integrated the Arena-M active protection system on T-90 and T-72 tanks, giving them a significant advantage over Ukrainian tanks and more than 95% of Nato tanks, which lack comparable systems. Russia is also studying the feasibility of integrating FPV drones onto its tanks. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T02:26:02+00:00",
+      "timestamp": "2026-09-15T03:50:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -726,12 +790,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Earlier today, a chartered night train carrying Boris Johnson, German Chancellor Merz's top security adviser, and security advisers from the UK, France, and Italy was stopped near the Polish border after a Russian drone struck the locomotive of a passenger train traveling the same route. The group was returning from the YES security conference in Kyiv. Their train was partially evacuated at 5am before an all-clear was given. On the Polish side, jets scrambled and sirens sounded.",
+      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa [Politico](https://www.politico.eu/article/germany-tomahawk-missile-typhon-launcher-plan/): Germany\u2019s defence ministry plans to earmark nearly \u20ac3.4 billion to buy US-made Tomahawk cruise missiles and Typhon launchers.\nThe purchase would give Germany its own ground-launched long-range strike capability to deter Russia.\nBerlin is also seeking to bring German industry into the Tomahawk supply chain, though Washington would retain control over sensitive technology. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T02:25:05+00:00",
+      "timestamp": "2026-09-15T03:48:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -745,12 +809,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A \"Stuhna-P\" ATGM was used against a Russian drone and it managed to hit the drone.",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\ud83c\udde8\ud83c\uddf3 A Chinese-made DF-15A missile booster was found in Ma'rib, Yemen. The Houthis currently possess an exclusively Iranian-supplied missile arsenal, meaning this booster could not have resulted from a Houthi missile strike.\nSaudi Arabia has an extensive history of secret Chinese ballistic missile purchases, including the acquisition of DF-3A and DF-21 missiles from China, making this missile most likely a Saudi-operated one. This would mark the first observed Saudi combat use of a DF-15A missile.\n[\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T02:24:01+00:00",
+      "timestamp": "2026-09-15T03:47:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -758,6 +822,178 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Houthi military spokesman Yahya Saree: Saudi Arabia carried out 54 airstrikes across Yemen in the past 24 hours, flown by Typhoon and F-15 aircraft operating out of the Khamis Mushait and Taif bases.\nIn a separate message, Saree claimed the Houthis launched surface-to-air missiles at Saudi warplanes over Saada province in northern Yemen, the group's stronghold, forcing them to turn back.\nSaree warned the \"aggression will not pass quietly.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T03:44:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Saudi Arabia's key East-West Pipeline could remain mostly offline for three to five weeks after Friday's drone strikes, AP reports. It may run at reduced capacity, though officials could not say how much oil would flow.\nUp to 4% of global supply is at risk. Buyers and traders say the kingdom could run out of exportable stocks unless the damaged pumping station restarts within days. Satellite photos released Sunday show it charred and badly damaged.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T03:42:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Zelensky: \"We are working with manufacturers on a new generation of drone interceptors to counter Russian jet-powered Shahed drones. Development and testing are underway.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T03:40:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A DF-15 ballistic missile of Chinese origin was reportedly discovered in Marib, Yemen. The Houthis are not known to operate the system and rely largely on Iranian-made missiles. Some people believe it may mark Saudi Arabia\u2019s first combat use of the DF-15A, following Riyadh\u2019s documented secret purchases of Chinese ballistic missiles such as the DF-3A and DF-21.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T03:40:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Pentagon admits US has \u2018on-orbit\u2019 weapons in space\nFor years, the US was wary of openly discussing orbital weaponry - ostensibly out of fear of fueling a global arms race.\nThose claims now ring hollow.\nUS Air Force Secretary Troy Meink has confirmed that the United States already fields \u201con-orbit space control weapons capable of defending the joint force against hostile adversary action.\u201d \nHe also confirmed to the Air and Space Forces Association conference that:\n\ud83d\udd34 these on-orbit capabilities \u201ccan be employed for offensive and defensive purposes\u201d\n\ud83d\udd34 \u201cspace control\u201d means both protecting US assets and \u201cnegating\u201d an adversary\u2019s space capabilities\n\ud83d\udd34 options range from kinetic kill vehicles to non-kinetic systems that can jam or disable satellites (none of which require nuclear warheads forbidden by the Outer Space Treaty)\nMeink dismissed concerns about escalation, and claimed that public acknowledgment serves deterrence.\nHe refused to elaborate further, noting that specifics \u201cwould actually not benefit that deterrence.\u201d \nThe admission lands amid a broader US push to treat space as the next decisive warfighting domain. \nWar Secretary Pete Hegseth has called space \u201cthe single most decisive battlefield of this century and the centuries to come\u201d and declared that the US will \u201cdemand orbital dominance.\u201d \nTrump\u2019s costly sci-fi daydream [Golden Dome project ](https://t.me/geopolitics_prime/50782)has been touted as a global missile defense system with orbital interceptors and space-based lasers.\nThe project - targeted for 2029 - fits into the same aggressive vision.\nAt the same conference, Meink said the Space Force has achieved \u201cflight ready\u201d hardware for space-based interceptors that can bat down adversary missiles from orbit - a centerpiece of the Golden Dome initiative.\nRussia and China have slammed the Golden Dome as militarizing outer space, and North Korea labeled it a \u201cpath to nuclear war in space.\u201d\nRussia also noted that its modern strategic nuclear systems \u2013 like the [hypersonic Kinzhal missile ](https://t.me/geopolitics_prime/67553)\u2013 could bypass such defenses.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T05:49:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f War Pushes Iran\u2019s Energy Map North\nIran built most of its oil and gas system in the south, beside the Persian Gulf and the [Strait of Hormuz](https://t.me/newrulesgeo/2527). In peacetime, that was simply geography. In war, it becomes a vulnerability: fields, terminals and tanker routes all sit inside the same battlespace.\nTehran is now pushing north. Iran is returning the Amir Kabir semi-submersible rig to deep-water exploration in the Caspian after years of inactivity. The Iranian-built platform can operate in water almost 1,000 meters deep and drill 6,600 meters beneath the seabed. It was previously used to confirm oil at the Sardar-e Jangal structure.\nExploration is moving ahead in Block 18 and off Gilan, while seismic work in Golestan is expected to lead to another well next year.\nThe Caspian will not replace Iran\u2019s giant southern fields any time soon. That is not the immediate point. Even modest northern production gives Tehran something money alone cannot buy: distance from the war in the Gulf.\nOil and gas produced there could supply Iran\u2019s northern provinces and industry without being hauled across the country from the south. New drilling would support ports, service vessels, repair facilities and the same [domestic oil-sector expertise](https://t.me/newrulesgeo/2548) Iran is already developing elsewhere. A strike campaign focused on the Gulf coast would no longer threaten every part of the energy system at once.\nThe north also opens a different map. Russia, Kazakhstan, Turkmenistan and Azerbaijan lie across the Caspian. Iran could expand energy swaps with its neighbors and potentially send future Caspian crude to Kazakhstan, whose pipeline network already runs east toward China. The International North\u2013South Transport Corridor gives Tehran another route connecting its northern ports to the Persian Gulf and the Indian Ocean.\nNone of this is a ready-made replacement for Hormuz. It is the beginning of a second network of fields, partners and transport routes that Washington would find much harder to squeeze at the same time.\nBringing Amir Kabir back also keeps deep-water drilling skills inside Iran. The rig was built domestically by Sadra; restoring it preserves the crews, marine support and repair base needed for future projects. Iran followed the same sanctions-driven path at its [first geothermal power plant](https://t.me/newrulesgeo/2536), adapting drilling methods and energy equipment at home.\nThe US-Israeli war was supposed to narrow Iran\u2019s options. Instead, it is pushing Tehran to spread its energy system across two fronts and tie the northern one more closely to Eurasia.\nThe Caspian does not need to rival the Persian Gulf. It only needs to make Iran harder to isolate, blockade or cripple with a single campaign.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T05:08:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5\ud83c\uddee\ud83c\uddf7 Iran downs another US MQ-1 drone over western Strait of Hormuz\nIran\u2019s Islamic Revolutionary Guard Corps says its air defenses intercepted and destroyed an advanced MQ-1 drone worth roughly $5 million in the skies west of the Strait of Hormuz early today, IRNA reported.\nThe aircraft was detected and brought down by a new advanced air-defense system operated by the IRGC Aerospace Force under Iran\u2019s integrated national air-defense network.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T03:45:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddec\ud83c\udde7\ud83c\uddf8\ud83c\udde6 Britain\u2019s battered military eyes another Yemen misadventure\nSaudi Arabia has asked Britain for diplomatic and military help against Yemen\u2019s Ansar Allah forces as the Houthis push toward Bab el-Mandeb and attacks batter Saudi oil infrastructure, Bloomberg reported.\nRiyadh wants operational support along Yemen\u2019s Red Sea coast and help protecting oil facilities after its East-West pipeline was knocked offline. Britain has already agreed to send military advisers.\n\ud83c\udff3\ufe0f The same Royal Navy whose own government says only around half of its surface fleet is at high readiness or above is now being eyed as backup for Riyadh. The Navy has even admitted that one Portsmouth store alone is sitting on 84,000 repairable items worth around \u00a3200 million after years of funding and maintenance problems.\n\ud83d\udcc9 Britain\u2019s armed forces are also markedly smaller than they were in 2022, while Army applications recently plunged by nearly a third year-on-year.\n\u2694\ufe0f Meanwhile, Ansar Allah\u2019s advance and the Saudi pipeline shutdown have helped push Brent toward $110, with British officials privately warning that Houthi control of Bab el-Mandeb could have a \u201ccatastrophic\u201d effect on shipping and inflation.\nForeign Secretary Ed Miliband nevertheless declared:\n\ud83d\udcac \u201cI made clear that the UK stands firmly with Saudi Arabia and the internationally recognized Government of Yemen.\u201d\nThe rusting leftovers of Britain\u2019s imperial military are already fantasizing about another Middle East misadventure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T02:21:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2620\ufe0f Iran turns Pentagon\u2019sEpstein Fury into an expensive embarrassment\nThe Pentagon\u2019s first special report on Operation Epstein Fury quietly documents what [months of victory boasts ](https://t.me/geopolitics_prime/69306)could not hide: depleted ammunition stocks, wrecked aircraft, battered bases and a logistics network forced to retreat and improvise under Iranian fire.\n\ud83d\udcb5 By June 29, the Pentagon already put the war\u2019s cost at $33.4 billion: $22.3 billion in expended munitions and $3.7 billion in equipment losses \u2014 not including repairs to damaged infrastructure.\n\ud83d\udcac The war caused \u201cstrategic inventory shortfalls\u201d and exposed \u201cindustrial base bottlenecks for munitions resupply,\u201d the report admits.\n\ud83d\ude80 Iran damaged or destroyed hundreds of buildings and structures at US bases across eight countries. The Pentagon\u2019s own table lists four F-15Es destroyed, an F-35A damaged, an A-10 destroyed, multiple KC-135 tankers hit, an E-3 damaged and as many as 30 MQ-9 drones destroyed.\n\ud83d\udccc The humiliation spread to logistics. After Iranian strikes, US medical-evacuation helicopters were pulled from Iraq and Kuwait, leaving most evacuations to be carried out by ground, including local ambulances.\n\u26f4 Iranian attacks also forced the Navy to shift sustainment away from Bahrain, while moving support to Diego Garcia stretched resupply cycles to 14\u201318 days. The report itself admits that establishing adequate naval bases and support ports posed \u201csignificant challenges.\u201d\nAnd after burning through men, missiles and machinery, [Hegseth](https://t.me/geopolitics_prime/74595) went back to Congress warning that without more money the Pentagon could face \u201ccritical shortfalls\u201d threatening its ability to replenish weapons and sustain global operations.[ The White House asked for another $67.1 billion](https://t.me/geopolitics_prime/71862) for the Pentagon, mostly for Epstein Fury.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T01:09:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -808,120 +1044,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-14T18:05:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udcb5 More images emerge showing the aftermath of direct hits on Saudi Arabia\u2019s East\u2013West Crude Oil Pipeline\nThe pipeline was attacked on September 10, with drones coming for it from Iraq.\nEarlier, Yemen\u2019s Houthis struck the facility that can handle [7M barrels of](https://t.me/geopolitics_prime/74556) oil per day.\nThe East\u2013West Crude Oil Pipeline was designed in the 1980s and serves as an alternative route in case hostilities disrupt oil shipping through the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T15:43:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcca\ud83c\udf2aOil markets see price rally as Strait of Hormuz stays shut and Houthis advance\nOil prices rose on Monday amid the cancellation of the Omani summit on the Strait of Hormuz, further Ansar Allah (Houthi) attacks, and reports that Saudi Arabia\u2019s East-West oil pipeline will remain largely out of service for weeks.\nAs the Strait of Hormuz remains closed and the Houthis assert control over the Bab el-Mandeb Strait, Brent crude reached approximately $108 per barrel, while WTI crude climbed to roughly $104.\nThe disruption to the East-West pipeline, which Saudi Arabia uses to transport oil to the Red Sea while bypassing the Persian Gulf, threatens up to 4% of global oil supply if prolonged. Coupled with Ansar Allah\u2019s vow to maintain a naval blockade of Saudi Arabia, this sends a worrying signal to global oil markets and points to further upward pressure on prices.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T15:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83e\ude78 AIPAC, ADL & co pack Columbia University\u2019s genocide investment portfolio as it crushes campus dissent\nWhile the Ivy League giant cracks down on[ student protests against Israel\u2019s slaughter of Palestinians in Gaza](https://t.me/geopolitics_prime/49524), its administration shovels cash toward pro-Israel lobby groups that cheer on the Zionist state\u2019s genocide.\n\ud83d\udc49 After October 7, Columbia opened the spigot even wider for [organizations like AIPAC](https://t.me/geopolitics_prime/74248), whose mission is to defend Israel\u2019s atrocities, tax filings cited by The Intercept reveal.\nThe money did not come from the university\u2019s operating funds, but from a donor-advised nonprofit vehicle pooling tax-deductible donations - letting contributors hide their identities.\n\ud83d\udd34 in the fiscal year ending June 2024, $100,000 was funneled to the Israel on Campus Coalition; $75,000 went to AIPAC\u2019s charitable arm, the[ American Israel Education Foundation](https://t.me/geopolitics_prime/70482), best known for junkets that wine and dine US lawmakers in Israel\n\ud83d\udd34 in the same period, $450,000 went to United Jewish Appeal Federation of New York, which boasts of pouring millions into supporting IDF soldiers and their families \n\ud83d\udd34 in the fiscal year ending June 2025, a relatively modest $7,200 was directed to notoriou[s Israeli lobby group Anti-Defamation League](https://t.me/geopolitics_prime/55419) for \u201cprogram services\u201d\n\ud83d\udd34 in the same period, the US-based ADL that [plies smears and spies to police anti-Zionism](https://t.me/geopolitics_prime/55389) - equating it with antisemitism - welcomed the arrest of a lead Columbia protest negotiator Mahmoud Khalil by federal immigration officials\n\ud83d\udd34 in July 2025, Columbia partnered with ADL for \u201cprogramming and training\u201d on antisemitism\n\ud83d\udd34 a month before, ADL chief Jonathan Greenblatt - [famous for pushing Mossad-style exploding pagers](https://t.me/geopolitics_prime/66759) to target Zionist foes - likened pro-Palestinian students to Islamist terrorists\n\ud83d\udd34 AIPAC\u2019s charity Israel on Campus Coalition openly aims to \u201cmarginalize\u201d the anti-Israel movement\n \nMeanwhile, students demanding the disclosure of Columbia\u2019s Israel ties and actual divestment were met with suspensions, police raids, and administrative crackdowns.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T13:29:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf8\ud83c\udde6 Saudi Arabia scrambles for allies as Houthis cement Red Sea grip \nSaudi Crown Prince Mohammed bin Salman is urgently shopping for help in the face of swift advances by Yemen\u2019s Houthis, reports Israel Hayom.\n\ud83d\udc49 The leader has made direct appeals to fellow Gulf states and Egypt, while approaching Israel more discreetly through US Central Command, even floating an indirect request for Israeli intel, according to cited regional diplomatic officials.\nHouthi forces have now secured effective control of [the Bab al-Mandeb Strait](https://t.me/geopolitics_prime/74556), completing a sweeping advance that brought Yemen\u2019s entire Red Sea coastline under their authority. \n\u27a1\ufe0f The move followed through on their explicit pledge of tit-for-tat escalation after the [Saudi airstrike on Sanaa on July 13](https://t.me/geopolitics_prime/72020) that ignited the most intense phase of regional fighting in years. \nWith that coastline firmly in their hands, the Houthis have imposed a de facto blockade on Red Sea shipping, [virtually paralyzing Saudi crude exports](https://t.me/geopolitics_prime/73428) and forcing the kingdom\u2019s tankers onto the long, costly route around Africa.\nSaudi Arabia also announced it was halting oil shipments via its [strategic East-West oil pipeline](https://t.me/geopolitics_prime/74556) following attacks, and its economic lifelines are under strain. \nBin Salman reportedly framed the situation as a threat to the entire global economy.\n\u2666\ufe0f Egypt has purportedly backed the Saudi request for US support while privately weighing whether deeper entanglement serves its own interests\n\u2666\ufe0f Pakistan and Turkey, which signed a strategic defense agreement with Saudi Arabia a month earlier, have carefully limited themselves to mediation talk\n\u2666\ufe0f US Central Command dispatched its chief Admiral Brad Cooper to Riyadh for assessments and limited coordination\n\u2666\ufe0f CENTCOM has stepped up existing intel and operational coordination, with several dozen US personnel already in the kingdom\n\u2666\ufe0f US airstrikes against Houthi positions near the strait reportedly remain under discussion, conditioned on the deployment of radars and missile systems in newly-seized locations overlooking Bab al-Mandeb \n\u2666\ufe0f Donald Trump is reportedly reluctant to commit US forces to an open-ended intervention on Saudi Arabia\u2019s behalf\nIndirect contacts, and perhaps even direct and secret ones, are already underway over possible Israeli assistance, adds the report.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T12:34:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83d\udd25 Russia takes out Ukraine's telecom backbone\nFootage of the attack suggests that Russian drones struck one of the key data processing facilities belonging to mobile carrier and data services provider Kievstar.\nThe facility is believed to hold the company\u2019s primary SIM card cryptographic key database, so taking it out, even temporarily, disrupts mobile traffic for all of Kievstar\u2019s clients, including military personnel.\nPayment terminals and ATMs reliant on Kievstar\u2019s network also lose contact with the network and cease operations.\nGiven that last week Russian forces hit a data processing center belonging to another Ukrainian telecommunications provider, BeMobile, it would seem that these facilities have become a priority target and degradation of Ukraine\u2019s communications is becoming more and more real with each passing day.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T11:44:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc79\ud83d\udccd Netanyahu targets Arab parties in scramble to save election chances\nIsraeli PM Benjamin Netanyahu\u2019s Likud Party is seeking to petition the Central Elections Committee to ban Ra\u2019am and Joint List - the two main political vehicles for Israel's Arab citizens - [from the October 27 Knesset vote. ](https://t.me/geopolitics_prime/73638)\n\ud83d\udc49 The claim being peddled is that these parties \u201charm IDF soldiers\u201d and refuse to label Hamas and Hezbollah as terrorist organizations. \nNetanyahu\u2019s statement offered no documentation supporting the accusations.\nThese convenient campaign talking points are ostensibly aimed at[ his rival Gadi Eisenkot](https://t.me/geopolitics_prime/71487) and his Yashar Party, which have not barred cooperation with moderate Arab parties like Ra'am.\n\ud83d\udd34 polls show neither Netanyahu\u2019s bloc nor the Zionist opposition - led by Yashar - is headed for a clear majority\n\ud83d\udd34 without Likud defectors, any anti-Netanyahu government will almost certainly need at least one Arab-majority party\n\ud83d\udd34 the hypocrisy is hard to miss, since Likud itself once openly courted Ra\u2019am as a potential coalition partner\n\ud83d\udd34 Ra\u2019am sat in the short-lived 2021\u20132022 government that ousted Netanyahu\nEarlier this month, Itamar Ben Gvir\u2019s Otzma Yehudit filed its own petition against Ra\u2019am, alleging that Ra'am and its leader, Mansour Abbas, support armed struggle against Israel and deny the country's existence as a Jewish state.\nAccording to Israeli publications, a ban is almost certain to die in the High Court, which has repeatedly overturned similar CEC attempts, including against Balad in 2022.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T10:23:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
