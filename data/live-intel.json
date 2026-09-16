@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-16T06:09:44.329404+00:00",
+  "generated_at": "2026-09-16T11:41:09.660408+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLos Angeles, CA, Saturday, September 19, 2026 through Sunday, September 20, 2026 Local\nFacility: ZLA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/16/2026",
+      "location": "ZLA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nJamaica, NY, Sunday, September 20, 2026 through Saturday, September 26, 2026 Local\nFacility: ZNY",
@@ -382,14 +401,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
-      "text": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says\nIran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
+      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
+      "text": "Saudi Arabia says it shot down Houthi drone south of Mecca\nThe Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-15T16:13:41+00:00",
+      "timestamp": "2026-09-16T08:36:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -401,40 +420,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Ash from Mount Etna grounds flights at Sicily airport",
-      "text": "Ash from Mount Etna grounds flights at Sicily airport\nAll flights are suspended from one of Italy's busiest airports until Tuesday night.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-15T14:35:04+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s air defenses have shot down an American MQ-9 \u2018Reaper\u2019 drone above Qeshm Island",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-16T09:28:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Nato jets down drone that entered Lithuanian airspace",
-      "text": "Nato jets down drone that entered Lithuanian airspace\nThe origin of the drone is currently unknown, but authorities say it likely entered Lithuania from neighbouring Belarus, an ally of Russia.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-15T09:07:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -497,32 +497,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s air defenses have shot down another U.S. MQ-1C \u2018Gray Eagle\u2019 drone over the Strait of Hormuz",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T10:47:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Yemen's Houthis claim they shot down a Saudi F-15 jet over Marib using a locally made surface-to-air missile. \nNo wreckage photos or pilot details released.\nSaudi Arabia hasn't confirmed any loss. \nThey also claim to have forced other Saudi jet formations to withdraw and say Saudi jets flew 450+ airstrikes that week.",
+      "text": "A drone was spotted near Danish Defense Minister Jeppe Bruus\u2019 home in Gladsaxe, prompting a major police operation, TV 2 reported.\nThe drone\u2019s origin is unknown. Police sealed off the area, while military bomb disposal personnel were also deployed.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T05:51:54+00:00",
+      "timestamp": "2026-09-16T10:15:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -532,46 +513,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "US forces fired 60-70 Patriot and 12+ THAAD interceptors to stop ~20 Iranian ballistic missiles aimed at Al-Azraq air base in Jordan (Sept 8-9). \nBy mid-July the US had already burned through ~1,700 Patriots and 200+ THAAD interceptors in the broader conflict.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T05:50:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Exclusive photos obtained by CBS News show extensive damage at multiple U.S. military positions in the Middle East following Iranian missile and drone attacks.\nThe images, provided by anonymous active-duty service members, show destroyed buildings, vehicles and equipment at bases in Saudi Arabia and Kuwait.\nAt Prince Sultan Air Base in Saudi Arabia, a Boeing E-3 Sentry aircraft was struck, with its tail section severed.\nAt Camp Buehring and Camp Arifjan in Kuwait, photos show damaged barracks, trailers and vehicles. A deployed service member told CBS News:\nThis is major damage to our bases that hasn't been communicated to the American public. We're standing there with our eyes closed getting punched in the face.\nAnother service member criticized U.S. defenses, saying:\nWe're not defending these bases. We're just watching them get destroyed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T22:33:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -633,6 +574,45 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udf1f\ud83d\udeab\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f Breaking: The moment a Saudi F-15 fighter jet was shot down by Yemeni air defenses over Marib Governorate.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-16T10:04:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\u2014 Pakistani PM issues a statement condemning the attack by Houthis on the Islamic Holy Site of Mecca by drones.\n\"Pakistan stands steadfastly, shoulder to shoulder, alongside our brotherly Kingdom of Saudi Arabia\"\n\"We salute the exceptional vigilance, courage, and high professionalism of the Royal Saudi Armed Forces for their swift and heroic response\"\n\"There are no words sufficient to express the depth of pain and sorrow we feel toward this unforgivable and shameful deed\"\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-16T09:02:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udeab\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6\ud83c\uddf0\ud83c\uddfc\u26a1\ufe0fJUST IN: Images recently released by CBS show the aftermath of Iranian missile strikes on Prince Sultan Air Base and Camp Buehring.\nInterestingly, one of the images appears to show extensive damage to a USAF E-3 AWACS, with its AN/APY-1 radar completely destroyed.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -642,14 +622,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -717,44 +695,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-15T07:00:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c \ud83c\uddfa\ud83c\uddf8Islamic Revolutionary Guard Corps:\nAt dawn today, an advanced MQ-1 drone was intercepted and destroyed in the skies west of the Strait of Hormuz in Iran by an advanced modern air defense system of the IRGC Aerospace Force, under the control of the country's integrated air defense network.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:25:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Yemeni missile and drone barrage attack towards these areas in Saudi Arabia \n- Yanbu\n- Abha \n- Al Ulaa \n- Taif \n- Jeddah \n- Jizan \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T01:51:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -863,6 +803,83 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd14Iran war exposes impotence of US military-industrial complex\nThe US military used up to 70 Patriot interceptors and over a dozen THAAD interceptors in efforts to repel an Iranian missile strike against US military assets in Jordan, WSJ reports, citing the US and \u201cregional\u201d officials.\n\ud83c\udf0f Given the fact that this interceptor barrage failed to thwart the Iranian strike, which included only 20 ballistic missiles, it means that either the Iranian weapons are way better than the US claims, or that the US air defenses are obsolete junk \u2013 or both\n\ud83c\udf0f The US defenses thus waste munitions faster than they are produced then, as Lockheed Martin made only 620 Patriot missiles in 2025 and is yet to reach its annual production goal of 2,000\n\ud83c\udf0f Iran, in the meantime, keeps firing missiles at US bases in the Gulf and Iranian arsenals show no signs depleting, despite Trump repeatedly claiming in tweets that he destroyed Iran\u2019s ballistic missile capability, bigly\n\ud83c\udf0f With US military-industrial capacity focused on feeding the Gulf conflict, Ukraine\u2019s pleas for more interceptors now fall on deaf ears in Washington, and Ukrainian forces are being reduced to fighting Russian drones virtually with sticks and harsh language\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-16T10:59:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d From survival to strike power: How Yemen\u2019s Houthis built a formidable war machine\nThe popular image of Yemen\u2019s Houthis as besandaled fighters on pickup trucks obscures a far more capable force - a reality even US media outlets such as The New York Times acknowledge.\nThe Ansar Allah has emerged as one of the most capable and adaptive forces in the region, [striking deep at distant ](https://t.me/geopolitics_prime/74619)targets and asserting control [over critical waterways ](https://t.me/geopolitics_prime/74576)while steadily reducing dependence on external support.\nFor years the Houthis faced a Saudi-led campaign that propped up a fractured, internationally backed Yemen puppet regime reliant on foreign mercenaries and airstrikes. \nHowever, the 2022 ceasefire offered the Houthis breathing space, which the movement used to rebuild, train, and expand its industrial base. \nToday it l[aunches long-range missile](https://t.me/geopolitics_prime/73265)s, deploys naval drones against shipping, and tightens its hold [on the Bab al-Mandab strait ](https://t.me/geopolitics_prime/74373)- the vital chokepoint at the southern Red Sea.\nThe Houthis have pulled off several concrete gains:\n\ud83c\udf0f an expanding domestic arms industry is allowing the Houthis to produce major weapons components locally instead of relying on imports\n\ud83c\udf0f early experiments with remote-controlled boats have evolved into increasingly capable, sophisticated unmanned naval drones \n\ud83c\udf0f diversified supply networks and access to commercially available components through global channels have reduced their vulnerability to disruption\n\ud83c\udf0f rapid technological adaptation has seen the movement experiment with advanced guidance systems, pushing the technological boundaries of what a non-state force can deploy\nAnalysts speculate that larger assemblies, including missile bodies, are increasingly produced locally, even though Iranian technical assistance remains valuable for sophisticated guidance packages and engines.\nHowever, the trend is toward greater self-reliance, as the Houthis have learned to exploit widely available commercial components while protecting critical technical know-how.\nWestern critics continue to focus on the Houthis\u2019 ties to Iran, but the movement\u2019s battlefield record points to a force that has absorbed hard-earned lessons, expanded local manufacturing and repeatedly tested new systems under real combat conditions where, for them, the stakes are existential. \nEven as Saudi Arabia reportedly pressed the US for direct military assistance, Trump showed [no willingness to tangle with the Houthis](https://t.me/geopolitics_prime/74409).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-16T10:13:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca3 Houthis blast Saudi F-15 out of the skies over Yemen\nThe US-made fighter jet was shot down over Marib Governorate using a locally manufactured surface-to-air missile, Ansar Allah\u2019s military spokesperson Yahya Saree announced.\nThe same missile was reportedly used to repel two formations of F-15s and Typhoons sent to locate the wreckage.\nOverall, Saudi Arabia has conducted over 450 airstrikes against Yemen recently, Saree said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-16T08:44:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83e\udd14Cornered Gulf kingdoms now see common Hormuz pact with Iran as better than war\nGulf states have reportedly concluded that a diplomatic solution with Iran is the only viable option, despite the postponement of Monday\u2019s summit on the Strait of Hormuz in Oman.\n\ud83d\udd0a\u201cIran remains our neighbor, and at some point we will have to find a way to restore what can be restored. Geography leaves us no alternative to engagement,\u201d senior Emirati official Anwar Gargash said, as quoted by the New York Times.\nIn reality, the Gulf kingdoms may now have little choice but to pursue a fair regional security deal free of Western interference.\n\u2666\ufe0f Gulf monarchies\u2019 attempts to confront Iran under the US defense umbrella have proved futile, with that umbrella turning out to be full of holes. When US interceptor supplies were sufficient, Washington often chose to protect its own forces or Israel rather than its Gulf partners. By now, many US military bases in the region have been rendered uninhabitable.\n\u2666\ufe0f Taken together, the Gulf states lack a military force capable of matching Iran in strength or technological prowess. The so-called Mecca Pact has already been thrown into doubt after Saudi Arabia received no military support from either Pakistan or Turkey in its[ renewed war with Ansar Allah](https://t.me/geopolitics_prime/74487). The sandal-wearing Houthis quickly routed pro-Saudi forces from Mokha and increased control of the Bab el-Mandeb Strait.\n\u2666\ufe0f Saudi Arabia and the UAE\u2019s bid to bypass the Strait of Hormuz via oil pipelines hit a wall after pumping stations along the Emirati Habshan-Fujairah (ADCOP) pipeline came under attack in March, while the Saudi East-West pipeline was most recently forced to shut down.\nOman talks: A road to peace?\nThe September 14 talks in Oman\u2019s port city of Salalah were postponed at Saudi Arabia\u2019s request. Saudi Arabia reportedly proposed amendments concerning shipping through the Strait of Hormuz. Iran rejected some and asked for more time to review others, meaning the negotiations will continue.\nOman has long spearheaded efforts to reach a deal with Iran as a potential solution to the crisis. In July, Omani Foreign Minister Badr al-Busaidi called for a new multilateral security arrangement bringing the Gulf Arab states together with Iran and Iraq.\n\ud83d\udd0d The idea of a common security pact has been floated for quite some time. In May, the Financial Times revealed that Saudi Arabia was considering a non-aggression pact between the Gulf kingdoms and Iran that was modeled on the [Cold War-era Helsinki Accords](https://t.me/geopolitics_prime/69610).\nIn September 2025, when Saudi Arabia concluded a defense pact with Pakistan, Iranian Major General Yahya Rahim Safavi suggested that Iran, Saudi Arabia, Pakistan, Iraq and others could eventually form a[ collective defense pact](https://t.me/geopolitics_prime/73601).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-16T07:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd25 Iran shoots down another US MQ-9 Reaper over Strait of Hormuz\nIran's Revolutionary Guard Corps has downed an American MQ-9 Reaper drone in the eastern Strait of Hormuz using a newly deployed advanced air defense system, Press TV reports.\nA single American MQ-9 Reaper costs between $16 million and $50 million \u2014 each loss is a painful hit to the Pentagon's wallet.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -916,27 +933,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2620\ufe0f US troops leak photos of their bases TRASHED by Iran\nNever-before-seen photos show Iranian missile and drone strikes tearing through US positions across the Middle East, including a direct hit on an E-3 Sentry at Prince Sultan Air Base that severed the aircraft\u2019s tail from its burned fuselage, CBS News reported, citing US soldiers sharing the pics. \n\ud83d\udcb5 The wider damage bill already includes up to $3.7 billion in equipment losses and nearly 60 US aircraft destroyed or damaged.\nBuildings and barracks at US bases in Kuwait were left gutted, while Iranian strikes have hit American facilities across eight countries.\n\ud83d\udcac \u201cWe're standing there with our eyes closed getting punched in the face,\u201d a deployed US service member said.\n\ud83d\udcac \u201cWe're not defending these bases. We're just watching them get destroyed,\u201d he stressed.\n\u00a0\n[Trump declares victories](https://t.me/geopolitics_prime/69306). The troops on the ground watch their bases burn.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T23:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 3
     },
     {
       "title": "Telegram",
