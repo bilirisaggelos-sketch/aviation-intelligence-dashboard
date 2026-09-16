@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T01:14:53.349236+00:00",
+  "generated_at": "2026-09-16T06:09:44.329404+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -287,6 +287,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5418\r\nIssue Time: 2026 Sep 16 0538 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5417\nValid From: 2026 Sep 15 1849 UTC\nNow Valid Until: 2026 Sep 16 1800 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-16 05:38:03.320",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK04\r",
       "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2684\r\nIssue Time: 2026 Sep 16 0034 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 16 0030 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -363,25 +382,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2683\r\nIssue Time: 2026 Sep 14 1802 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 14 1743 UTC\nSynoptic Period: 1500-1800\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-14 18:02:37.693",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
       "text": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says\nIran says El Gaia caught fire after hitting mines, but the US says the oil tanker was struck by a missile and then a drone.",
       "source": "BBC",
@@ -431,13 +431,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "CASELS"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -518,32 +517,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Exclusive photos obtained by CBS News show extensive damage at multiple U.S. military positions in the Middle East following Iranian missile and drone attacks.\nThe images, provided by anonymous active-duty service members, show destroyed buildings, vehicles and equipment at bases in Saudi Arabia and Kuwait.\nAt Prince Sultan Air Base in Saudi Arabia, a Boeing E-3 Sentry aircraft was struck, with its tail section severed.\nAt Camp Buehring and Camp Arifjan in Kuwait, photos show damaged barracks, trailers and vehicles. A deployed service member told CBS News:\nThis is major damage to our bases that hasn't been communicated to the American public. We're standing there with our eyes closed getting punched in the face.\nAnother service member criticized U.S. defenses, saying:\nWe're not defending these bases. We're just watching them get destroyed.",
+      "text": "Yemen's Houthis claim they shot down a Saudi F-15 jet over Marib using a locally made surface-to-air missile. \nNo wreckage photos or pilot details released.\nSaudi Arabia hasn't confirmed any loss. \nThey also claim to have forced other Saudi jet formations to withdraw and say Saudi jets flew 450+ airstrikes that week.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T22:33:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former U.S. Secretary of State Antony Blinken:\nThe Iranians have an interesting way of begging, if that means launching more projectiles at us, at our partners, getting the Houthis in the act to pull down the Red Sea corridor along with the Strait of Hormuz.\nLook, we\u2019re in a very difficult position, unfortunately, of Trump\u2019s making.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T20:00:21+00:00",
+      "timestamp": "2026-09-16T05:51:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -553,6 +532,46 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "US forces fired 60-70 Patriot and 12+ THAAD interceptors to stop ~20 Iranian ballistic missiles aimed at Al-Azraq air base in Jordan (Sept 8-9). \nBy mid-July the US had already burned through ~1,700 Patriots and 200+ THAAD interceptors in the broader conflict.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-16T05:50:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Exclusive photos obtained by CBS News show extensive damage at multiple U.S. military positions in the Middle East following Iranian missile and drone attacks.\nThe images, provided by anonymous active-duty service members, show destroyed buildings, vehicles and equipment at bases in Saudi Arabia and Kuwait.\nAt Prince Sultan Air Base in Saudi Arabia, a Boeing E-3 Sentry aircraft was struck, with its tail section severed.\nAt Camp Buehring and Camp Arifjan in Kuwait, photos show damaged barracks, trailers and vehicles. A deployed service member told CBS News:\nThis is major damage to our bases that hasn't been communicated to the American public. We're standing there with our eyes closed getting punched in the face.\nAnother service member criticized U.S. defenses, saying:\nWe're not defending these bases. We're just watching them get destroyed.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T22:33:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -623,13 +642,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -766,71 +786,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Satellite photos show the extent of the damage caused by the drone attack on Saudi Arabia's East-West pipeline.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T12:21:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: A few hours ago, Saudi Arabia announced the suspension of educational activities in Abha, Khamis Mushait, and many other areas throughout the country\nThe stated reason is \u2018due to a chance of rain\u2019. Note that there is a zero (0%) chance of rain in Saudi Arabia over the next 24 hours, and the areas happen to correspond with those currently under missile attack.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T02:16:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddf1\ud83c\uddf9\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\uddfe [The Guardian](https://www.theguardian.com/world/2026/sep/15/nato-jets-shoot-down-drone-violating-lithuania-airspace-kaunas)\u2060: NATO jets shot down a drone that entered Lithuanian airspace from neighboring Belarus and was heading west. \nThe drone was destroyed near Pratkunai, outside Kaunas, after authorities issued an alert for Vilnius and surrounding areas.\nLithuanian President Gitanas Naus\u0117da praised NATO\u2019s response, saying heightened readiness was vital as Russia intensifies its war against Ukraine.",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Poland says it has deployed fighter jets in its airspace near the Ukraine border in response to ongoing Russian attacks on Ukraine. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T04:09:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones targeted the Syzran Oil Refinery in Russia\u2019s Samara Region earlier tonight.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:58:46+00:00",
+      "timestamp": "2026-09-16T05:25:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -844,12 +806,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\udde6 CENTCOM on the claim by the IRGC that a Panama-flagged oil tanker stuck a naval mine along the Strait of Hormuz being false, and that instead, it was struck by an Iranian missile and rendered inoperable:\n\"CLAIM: Iran's Islamic Revolutionary Guard Corps (IRGC) claims a Panama-flagged oil tanker recently struck a naval mine in the Strait of Hormuz. This is FALSE. \nFACT: The Panama-flagged oil tanker El Gaia was struck by an Iranian missile last month and rendered inoperable. This weekend, Iran struck the tanker again with a drone while the ship sat in waters of the coast of Oman. The tanker is currently being towed by a regional partner. The IRGC's false claim is yet another example of their lies and intimidation attempts while they try to impede commercial vessels in the strait.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 A drone attack targeting civilians was reported in the Buenos Aires rural area, Pachelli, Tib\u00fa municipality, Norte de Santander,with both the ELN and FARC dissident factions maintaining an active territorial dispute there.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:54:55+00:00",
+      "timestamp": "2026-09-16T03:33:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -863,12 +825,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 Ukraine has unveiled its Coral anti\u2011aircraft missile launcher for the first time at the MSPO defence exhibition in Poland. \nThe missile is launched from a self\u2011propelled platform mounted on a Czech Tatra truck chassis and is designed to intercept aerial and ballistic targets.\nThe missile weighs 450 kg, including a 36 kg warhead, and combines inertial navigation, radio correction and an active radar homing seeker. Development began in 2016, with the Luch Design Bureau estimating readiness at around 70% in 2021. It is intended to fill the middle range in a future line of Ukrainian air defence systems.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Earlier tonight, an explosion was heard in Erbil, Iraq, with the cause still to be clarified.\nInterestingly, local sources reported several UAV flights above western Iraq during the day.\nContributed by:",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:51:36+00:00",
+      "timestamp": "2026-09-16T03:28:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -882,12 +844,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa The Russian army has received a new batch of T-90M and T-72B3M main battle tanks with latest drone missile shield upgrades, manufacturer Uralvagonzavod has announced. \nThe T-90M is currently the only main battle tank in production in Russia, while stored T-72s are being upgraded to the T-72B3M standard. \nSince 2024, Russia has integrated the Arena-M active protection system on T-90 and T-72 tanks, giving them a significant advantage over Ukrainian tanks and more than 95% of Nato tanks, which lack comparable systems. Russia is also studying the feasibility of integrating FPV drones onto its tanks. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "An Islamic Jihad rocket squad commander was killed in Khan Younis over the weekend, per the IDF. Mohsen Farid Said Abu Hadaf crossed into Israel on October 7 and raided the Kissufim area.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:50:22+00:00",
+      "timestamp": "2026-09-16T03:24:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -900,115 +862,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa [Politico](https://www.politico.eu/article/germany-tomahawk-missile-typhon-launcher-plan/): Germany\u2019s defence ministry plans to earmark nearly \u20ac3.4 billion to buy US-made Tomahawk cruise missiles and Typhon launchers.\nThe purchase would give Germany its own ground-launched long-range strike capability to deter Russia.\nBerlin is also seeking to bring German industry into the Tomahawk supply chain, though Washington would retain control over sensitive technology. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd25 Iran shoots down another US MQ-9 Reaper over Strait of Hormuz\nIran's Revolutionary Guard Corps has downed an American MQ-9 Reaper drone in the eastern Strait of Hormuz using a newly deployed advanced air defense system, Press TV reports.\nA single American MQ-9 Reaper costs between $16 million and $50 million \u2014 each loss is a painful hit to the Pentagon's wallet.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:48:14+00:00",
+      "timestamp": "2026-09-16T05:18:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\ud83c\udde8\ud83c\uddf3 A Chinese-made DF-15A missile booster was found in Ma'rib, Yemen. The Houthis currently possess an exclusively Iranian-supplied missile arsenal, meaning this booster could not have resulted from a Houthi missile strike.\nSaudi Arabia has an extensive history of secret Chinese ballistic missile purchases, including the acquisition of DF-3A and DF-21 missiles from China, making this missile most likely a Saudi-operated one. This would mark the first observed Saudi combat use of a DF-15A missile.\n[\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f\ud83d\udca3 Trump approves massive $2.8B bomb package for Israel\nThe Trump administration has approved a $2.8 billion weapons package for Israel that includes 40,000 2,000-pound bombs \u2014 20,000 MK-84s and 20,000 BLU-117s \u2014 The New York Times reported. The package also includes 20,000 I-2000 penetrator warheads designed to punch through soil, rock or concrete before detonating.\n\ud83d\udca5 A single 2,000-pound bomb can have a lethal blast radius exceeding 1,000 feet and leave a crater up to 50 feet deep. Similar US-made bombs have repeatedly drawn criticism over their use in densely populated Gaza.\n\u2705 Trump had already released a shipment of 2,000-pound bombs that the Biden administration paused over civilian-casualty concerns, and in February approved another roughly $2.7 billion package containing about 35,000 MK-84 and BLU-117 bombs.\nMeanwhile, Jared Kushner\u2019s much-hyped Gaza diplomacy has produced no durable halt to Israeli strikes. His August meeting with Prime Minister Benjamin Netanyahu was described as \u201cvery productive,\u201d yet AP reported no firm Israeli commitment to the US plan, while Reuters says Israeli attacks have continued and more than 1,300 Palestinians have been killed since the October ceasefire, according to Gaza health officials.\n\u2620\ufe0f [The \u201cBoard of Peace\u201d ](https://t.me/geopolitics_prime/74103)holds meetings. The bomb pipeline keeps running.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:47:48+00:00",
+      "timestamp": "2026-09-16T02:12:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Houthi military spokesman Yahya Saree: Saudi Arabia carried out 54 airstrikes across Yemen in the past 24 hours, flown by Typhoon and F-15 aircraft operating out of the Khamis Mushait and Taif bases.\nIn a separate message, Saree claimed the Houthis launched surface-to-air missiles at Saudi warplanes over Saada province in northern Yemen, the group's stronghold, forcing them to turn back.\nSaree warned the \"aggression will not pass quietly.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:44:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Saudi Arabia's key East-West Pipeline could remain mostly offline for three to five weeks after Friday's drone strikes, AP reports. It may run at reduced capacity, though officials could not say how much oil would flow.\nUp to 4% of global supply is at risk. Buyers and traders say the kingdom could run out of exportable stocks unless the damaged pumping station restarts within days. Satellite photos released Sunday show it charred and badly damaged.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:42:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Zelensky: \"We are working with manufacturers on a new generation of drone interceptors to counter Russian jet-powered Shahed drones. Development and testing are underway.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:40:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "A DF-15 ballistic missile of Chinese origin was reportedly discovered in Marib, Yemen. The Houthis are not known to operate the system and rely largely on Iranian-made missiles. Some people believe it may mark Saudi Arabia\u2019s first combat use of the DF-15A, following Riyadh\u2019s documented secret purchases of Chinese ballistic missiles such as the DF-3A and DF-21.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T03:40:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -1043,31 +929,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcddJet \"Gerans\" and the 60 percent problem\ud83d\udcdd\nwhy one interception statistic is reshaping the air war\nWestern media spent three years framing battlefield innovation as a Ukrainian specialty. The Financial Times has now put numbers behind a different picture: Ukrainian air defence stops 90 to 95 percent of most aerial threats, and only about 60 percent of Russia's new jet-powered \"Gerans.\"\n\ud83d\udcccThe hardware behind that gap is a generational jump. The original \"Geran-1\" carried a 20 kg warhead at 185 km/h with primitive guidance. The \"Geran-5\", fielded in January, flies at up to 600 km/h with a 90 kg warhead out to 1,000 km, on an airframe built closer to a cruise missile than a loitering munition. The \"Geran-4\" keeps the old shape in cleaner aerodynamic form. Both now carry thermal cameras, AI-assisted terminal guidance, anti-jamming antennas and Chinese modems for mesh radio links.\nAt first glance the tactical picture is simple: faster targets, fewer intercepts. The deeper shift is industrial. Centralised production let Moscow fold battlefield feedback into the next batch and field new variants in months, at a fraction of the price of a Kalibr or Kh-101.\nThe other thing is that Kyiv's planners expected the slower \"Geran-3\" at around 300 km/h to be the mainstay. Wild Hornets, maker of the Sting interceptor, admitted to the FT it was \"difficult to predict how these plans would develop.\" Zelenskyy now says 67 Ukrainian companies are working on an answer.\n\u2757\ufe0fWhat's more interesting is the direction of travel. Analyst Konrad Muzyka calls it the \"cruise-missilisation\" of unmanned aviation, with stealth features the likely next step. Fabian Hoffmann of the Norwegian Institute for Defence Studies argues the real Western lever sits on the supply of Chinese jet engines, warning that at the current tempo Russia \"could quickly become the world's largest producer of low-cost cruise missiles.\"\nAnd once again the asymmetry shows where it hurts most. Interceptor drones can be improvised by dozens of workshops. Air-defence missiles cannot. As one assessment cited by the FT puts it: you cannot make one in a garage.\n#Russia #Ukraine #UAV #AirDefense",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T21:50:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
