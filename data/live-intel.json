@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T22:49:08.069824+00:00",
+  "generated_at": "2026-09-16T01:14:53.349236+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -42,25 +42,6 @@
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNew York, NY, Sunday, September 20, 2026 through Saturday, September 26, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/15/2026",
-      "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nJamaica, NY, Sunday, September 20, 2026 through Saturday, September 26, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -306,6 +287,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2684\r\nIssue Time: 2026 Sep 16 0034 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 16 0030 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-16 00:34:08.103",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK05\r",
       "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2265\r\nIssue Time: 2026 Sep 15 1856 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Sep 15 1855 UTC\nValid To: 2026 Sep 16 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -371,25 +371,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-09-14 18:02:37.693",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5416\r\nIssue Time: 2026 Sep 14 1654 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 14 1653 UTC\nValid To: 2026 Sep 14 2349 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-14 16:54:02.200",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -489,13 +470,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -537,25 +517,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Where missile alerts were activated in Saudi Arabia tonight",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T02:17:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Exclusive photos obtained by CBS News show extensive damage at multiple U.S. military positions in the Middle East following Iranian missile and drone attacks.\nThe images, provided by anonymous active-duty service members, show destroyed buildings, vehicles and equipment at bases in Saudi Arabia and Kuwait.\nAt Prince Sultan Air Base in Saudi Arabia, a Boeing E-3 Sentry aircraft was struck, with its tail section severed.\nAt Camp Buehring and Camp Arifjan in Kuwait, photos show damaged barracks, trailers and vehicles. A deployed service member told CBS News:\nThis is major damage to our bases that hasn't been communicated to the American public. We're standing there with our eyes closed getting punched in the face.\nAnother service member criticized U.S. defenses, saying:\nWe're not defending these bases. We're just watching them get destroyed.",
       "source": "Telegram",
@@ -566,12 +527,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -648,6 +610,26 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udeab\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6\ud83c\uddf0\ud83c\uddfc\u26a1\ufe0fJUST IN: Images recently released by CBS show the aftermath of Iranian missile strikes on Prince Sultan Air Base and Camp Buehring.\nInterestingly, one of the images appears to show extensive damage to a USAF E-3 AWACS, with its AN/APY-1 radar completely destroyed.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T22:59:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -765,20 +747,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udcf0\ud83c\uddf8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddfe\ud83c\uddea\ud83c\udd92\u26a1\ufe0f WITHIN 20 MILES OF A U.S. BASE: \nHouthi forces seize strategic Red Sea islands and commercial satellite imagery reveals major damage from a drone strike on Saudi Arabia's East-West oil pipeline. \nOn Special Report, Chief National Security Correspondent JenGriffinFNC breaks down the escalating regional campaign. While VP JD Vance confirms direct U.S. communications with the Houthis, Interior Secretary Doug Burgum points to Western Hemisphere reserves and record production as a shield against global energy disruption.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddeaCoalition Forces Spokesperson:\n Saudi air defense intercepted a drone that attempted to enter the airspace of the Holy City of Mecca.\nSo.....",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-14T22:26:19+00:00",
+      "timestamp": "2026-09-15T23:41:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -1033,6 +1015,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5 Trump\u2019s Iran misadventure has cost $38B, missile shield gutted for years\nThe Congressional Budget Office has put a $38.1 billion price tag on Demented Don\u2019s war of aggression against Iran, with another month of fighting costing roughly $2\u20133 billion, depending on intensity.\nThe damage sheet:\n\ud83c\udf0f $21.7B in munitions already expended \u2014 including $13.1B in missile-defense interceptors fired against Iranian missiles and drones.\n\ud83c\udf0f The US has probably used \u201cbetween one-half and two-thirds\u201d of its interceptor inventory since June 2025. Rebuilding those stocks would take at least five years \u2014 even with higher production.\n\ud83c\udf0f CBO puts battle losses at roughly $1.9B, including a $500M THAAD radar destroyed by Iran. Its loss table also lists four F-15Es, an F-35A, 24 MQ-9s and other aircraft.\n\ud83c\udf0f The war itself helped drive up fuel prices, costing the Pentagon another $2.7B while also pushing gasoline, diesel and inflation higher for Americans.\n\ud83c\uddfa\ud83c\uddf8 Meanwhile, Trump entered the war boasting he would crush Iran\u2019s military power. Tough luck.\nIran is still fighting \u2014 while the US is counting billions in losses, scrambling to rebuild missile stocks and staring at a five-year hole in its own air-defense inventory.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-16T00:49:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2620\ufe0f US troops leak photos of their bases TRASHED by Iran\nNever-before-seen photos show Iranian missile and drone strikes tearing through US positions across the Middle East, including a direct hit on an E-3 Sentry at Prince Sultan Air Base that severed the aircraft\u2019s tail from its burned fuselage, CBS News reported, citing US soldiers sharing the pics. \n\ud83d\udcb5 The wider damage bill already includes up to $3.7 billion in equipment losses and nearly 60 US aircraft destroyed or damaged.\nBuildings and barracks at US bases in Kuwait were left gutted, while Iranian strikes have hit American facilities across eight countries.\n\ud83d\udcac \u201cWe're standing there with our eyes closed getting punched in the face,\u201d a deployed US service member said.\n\ud83d\udcac \u201cWe're not defending these bases. We're just watching them get destroyed,\u201d he stressed.\n\u00a0\n[Trump declares victories](https://t.me/geopolitics_prime/69306). The troops on the ground watch their bases burn.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-15T23:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcddJet \"Gerans\" and the 60 percent problem\ud83d\udcdd\nwhy one interception statistic is reshaping the air war\nWestern media spent three years framing battlefield innovation as a Ukrainian specialty. The Financial Times has now put numbers behind a different picture: Ukrainian air defence stops 90 to 95 percent of most aerial threats, and only about 60 percent of Russia's new jet-powered \"Gerans.\"\n\ud83d\udcccThe hardware behind that gap is a generational jump. The original \"Geran-1\" carried a 20 kg warhead at 185 km/h with primitive guidance. The \"Geran-5\", fielded in January, flies at up to 600 km/h with a 90 kg warhead out to 1,000 km, on an airframe built closer to a cruise missile than a loitering munition. The \"Geran-4\" keeps the old shape in cleaner aerodynamic form. Both now carry thermal cameras, AI-assisted terminal guidance, anti-jamming antennas and Chinese modems for mesh radio links.\nAt first glance the tactical picture is simple: faster targets, fewer intercepts. The deeper shift is industrial. Centralised production let Moscow fold battlefield feedback into the next batch and field new variants in months, at a fraction of the price of a Kalibr or Kh-101.\nThe other thing is that Kyiv's planners expected the slower \"Geran-3\" at around 300 km/h to be the mainstay. Wild Hornets, maker of the Sting interceptor, admitted to the FT it was \"difficult to predict how these plans would develop.\" Zelenskyy now says 67 Ukrainian companies are working on an answer.\n\u2757\ufe0fWhat's more interesting is the direction of travel. Analyst Konrad Muzyka calls it the \"cruise-missilisation\" of unmanned aviation, with stealth features the likely next step. Fabian Hoffmann of the Norwegian Institute for Defence Studies argues the real Western lever sits on the supply of Chinese jet engines, warning that at the current tempo Russia \"could quickly become the world's largest producer of low-cost cruise missiles.\"\nAnd once again the asymmetry shows where it hurts most. Interceptor drones can be improvised by dozens of workshops. Air-defence missiles cannot. As one assessment cited by the FT puts it: you cannot make one in a garage.\n#Russia #Ukraine #UAV #AirDefense",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1048,26 +1068,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Trump\u2019s death wish? Why he is pushing uncontrolled AI despite risks of catastrophe and security chaos\n\ud83d\udc49American AI engineers are increasingly freaking out over fears that cutting-edge models could spiral out of control.\n\ud83d\udd34 Anthropic researcher Jacob Coxon has resigned, warning that AI firms \"are racing straight to self-improving superintelligence and gambling with our lives.\" He likened the rise of AI to the US Manhattan Project.\n\ud83d\udd34 Anthropic top scientist Evan Hubinger confirmed that AI researchers \"earnestly believe\" that AI could destroy humanity. In July, roughly 1,400 AI industry employees and researchers urged the US government to rein in big tech and help slow the pace of AI development.\nMore signs have emerged in recent months that their concerns are justified:\n\u27a1\ufe0f AI helped US scientists create 16 brand-new, fully functional synthetic viruses, while Anthropic warned of a growing push by overseas labs to use AI in controversial gain-of-function research\n\u27a1\ufe0f In July, an OpenAI test model broke out and autonomously hacked external systems, including tech startup Hugging Face\u2019s servers. Just two months earlier, rogue AI agents had uploaded hundreds of malicious packages to software service RubyGems\n\u27a1\ufe0f AI systems are increasingly escaping users\u2019 control \u2013 lying, ignoring instructions and pursuing harmful goals, according to a report released in late August by the Loss of Control Observatory\n\u27a1\ufe0f AI is increasingly being put to work identifying targets for air strikes, with Palantir AI tools and Israel\u2019s Lavender, Gospel and Where\u2019s Daddy systems facing growing scrutiny over their role in rising civilian casualties in Iran and Gaza\nBig tech floats safeguards without giving up the AI arms race\n\ud83d\udd34 Anthropic CEO Dario Amodei, OpenAI CEO Sam Altman, Google DeepMind chief Demis Hassabis and xAI owner Elon Musk have agreed \"to pace the frontier\".\n\ud83d\udd34 In his recent essay, Amodei proposed a three-point plan to keep the AI gene in the bottle via independent monitoring of AI models, industry-wide regulation and global regulation. Skeptics, however, argue that big tech is unlikely to slow down as it could mean profit losses.\n\ud83d\udd34 The person who is completely against \"pacing the frontier\" is Trump. In a series of angry posts, he dismissed AI fears as a \"hoax\" and \"sick conspiracy\" and insisted that outpacing China and preserving the AI boom is a priority. He even called Nvidia CEO Jensen Huang while he was on stage at a Los Angeles conference to say that \u201cthe robots will not be taking over.\u201d\nAI boom is key to Trump's power\n\ud83c\udf0f There is a simple reason for Trump\u2019s highly emotional reaction to the AI debate: his economic agenda is heavily dependent on the AI boom.\n\ud83c\udf0f With the US facing soaring consumer prices, persistent inflation and $40 trillion in debt, Team Trump argues that the country can \"grow its way out\" of these problems. AI has become a major driver of that growth.\n\ud83c\udf0f US economists warned last year that over-reliance on AI investment could prove dangerous: if the boom turns to bust, it could drag the broader US economy down with it.\n\ud83c\udf0f If the AI boom falters, Trump could face a sharply weakening economy, undermining his military operations and broader agenda. That may help explain why he is willing to allow AI to run unchecked and unleash dangers far beyond economic ones.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-15T18:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
