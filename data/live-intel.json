@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-09-17T19:06:31.501435+00:00",
+  "generated_at": "2026-09-17T22:12:54.596134+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLaurel, MD, Friday, September 18, 2026 Local\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/17/2026",
+      "location": "ZDC MD",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nTraverse City, MI\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/17/2026",
+      "location": "ZMP MI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nElmont, NY, Friday, September 18, 2026 Local\nFacility: ZNY",
@@ -106,44 +144,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/14/2026",
       "location": "ZOB PA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 18, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/14/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Saturday, September 19, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/14/2026",
-      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -346,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Impacts at Yanbu, Saudi Arabia, from the latest Yemeni missile barrage",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T20:06:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfe\ud83c\uddea/\ud83c\udde8\ud83c\uddf3 NEW: Saudi Arabia asked China to pressure Iran into restraining the Houthis after their seizure of Yemen's Red Sea coast and Bab al-Mandab\nThree Iranian sources say China passed the message along, but did not issue any threats or leverage its economic power over Tehran.\nIran responded by stating that regional stability depends on ending the U.S.-Israeli war before anything else can be guaranteed. \u2013 Reuters",
       "source": "Telegram",
       "source_type": "telegram",
@@ -421,52 +440,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 BREAKING: Hebrew media claim that Hezbollah drones were launched at northern Israel and intercepted\nThe last few times, the IDF claimed it to be \u2018false identifications\u2019, but this time interceptors were launched.\nIf confirmed, we will likely see a wave of airstrikes across southern Lebanon or even in Beirut.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T11:40:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf2\ud83c\uddfd NEW: Mexico has copied the Iranian Shahed-136 drone",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T01:34:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Germany's defense minister Pistorius visited the Pentagon with a paradox.\nBerlin wants European military self-reliance but keeps buying American. \nGermany hiked defense spending to $147 billion this year, but most of it flows to US companies.\nF-35 jets (35 ordered, possibly 15 more), Chinook helicopters, P-8 patrol aircraft, Patriot systems.\nThey signed a defense-industrial cooperation statement but with no concrete projects, timelines, or investment commitments. \nGermany desperately wants Tomahawk cruise missiles for Russia deterrence \u2014 its first-ever deep-strike capability \u2014 but the US is prioritizing its own restocking after the Iran war, delaying German deliveries. \nPistorius said he made \"very clear\" the timelines are too slow.\nSource: Politico",
+      "text": "Pakistan\u2019s military spokesperson Lt. Gen. Ahmed Sharif Chaudhry said Islamabad would defend Saudi Arabia \u201cto any extent\u201d as Houthi missile and drone attacks target the Kingdom.\n\u201cPakistan fully stands with the Kingdom of Saudi Arabia, both diplomatically and physically,\u201d Chaudhry told Arab News. \u201cWe will go to any extent.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T18:14:16+00:00",
+      "timestamp": "2026-09-17T21:27:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -556,6 +536,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "Editor's note: Iranian armed forces have continuously pounded Iraqi Kurdistan with drone and ballistic missile strikes since the start of the war, despite the ceasefire with the Americans.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T19:24:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\udd92\ud83d\udeab\ud83c\uddf8\ud83c\udde6\u26a1\ufe0fBREAKING: Houthi forces are currently launching ballistic missiles and drones on Abha City and Khamis Mushait, Saudi Arabia.\nAir raid sirens have been activated.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T19:20:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udeab\ud83c\uddfe\ud83c\uddea\ud83c\udd92\u26a1\ufe0f1 dead and 2 injured in Taif province, Saudi Arabia, during the interception of a drone.\nSaudi state TV.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -593,70 +611,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u26a1\ufe0fPhoto shows air defense activity over northern Israel following drone launches from Hebzollah.\nFor the first time in months, alerts were activated in the area and interceptors were launched.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T11:50:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddef\ud83c\uddf4\ud83c\uddeb\ud83c\uddf7\u26a1\ufe0fJordan signed a defence cooperation agreement with France.\nFrench forces (Air Defenses, Fighter Jets...) are deployed at Prince Hassan Air Base since 2014.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T11:48:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Saudi Arabia is running low on missile interceptors and has asked France, Britain, Pakistan, and Egypt to deploy air-defense support against Houthi missiles and drones, two regional officials told the Associated Press.\n\u27a1\ufe0f The outreach came because the kingdom's main ally and arms supplier, the U.S., has seen its own interceptor stockpile dwindle over six months of war with Iran. One official said Riyadh is in a \"very difficult position,\" defending military bases, government sites, and oil facilities. The fighting marks the first test of the Saudi-Turkey-Pakistan defense pact, but Ankara and Islamabad say they have not received a Saudi request for support.\n\u27a1\ufe0f Saudi Arabia accused the Houthis of attempting to attack Mecca with a drone, declaring the holy city a \"red line\" and saying the drone was intercepted; the Houthis denied targeting Mecca. The U.S. is staying out of the fight, with VP Vance saying Washington has been in \"constant contact\" with Riyadh and held \"direct conversations with the Houthis.\"\n\u27a1\ufe0f The Houthis claimed to have shot down an F-15 over Marib province, releasing video of what they called the wreckage \u2014 a claim AP could not verify. Meanwhile, Iran's foreign minister visited China, where Beijing called for restraint and a swift reopening of the Strait of Hormuz, with oil flows there recovering to an estimated 5 to 7 million barrels per day, less than half the pre-war level.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T05:52:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 According to OSINT data, production of Gerans 4 and 5s have accelerated and are now entering service in large quantities (at least 2,000 drones a month are produced according to Ukrainian intelligence.)\nGerans 4s and 5s are much better improved models than the previous generations, they fly higher, faster, and carry more explosive loads.\nThey're equipped with jet engines and fly higher than the range of most engagement attitudes of MANPAD crews, Iranian technology transfers between Iran and Russia continues unimpeded.\nThe Alabuga Industrial Zone continues to be expanded with five new workshops being built to accommodate the production quotas, it might soon become a military target due to its importance.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 General Motors to begin production of missile housing & engine shells for the MIM-104 Patriot (PAC-2 GEM+ & PAC-3 MSE).",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T13:56:47+00:00",
+      "timestamp": "2026-09-17T20:35:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -670,32 +631,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Hezbollah did not launch any drones/rockets and it is a false identification.",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 According to OSINT data, production of Gerans 4 and 5s have accelerated and are now entering service in large quantities (at least 2,000 drones a month are produced according to Ukrainian intelligence.)\nGerans 4s and 5s are much better improved models than the previous generations, they fly higher, faster, and carry more explosive loads.\nThey're equipped with jet engines and fly higher than the range of most engagement attitudes of MANPAD crews, Iranian technology transfers between Iran and Russia continues unimpeded.\nThe Alabuga Industrial Zone continues to be expanded with five new workshops being built to accommodate the production quotas, it might soon become a military target due to its importance.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T11:47:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The USAF is considering its first purchase of F-16 Fighting Falcons (commonly referred to as F-16 \u2018Vipers\u2019) for the first time in over twenty years. The reason being is due to a large portion of existing F-16s in the various U.S fleets (both active & air national guard units) being worn, and wanting to maintain a steady fleet of non-stealth aircraft for obviously non-stealth needs.\nCurrently, the F-16 production lines are running purely off export orders and even still, are facing issues as the third most manufactured aircraft in the Western world (in terms of combat aircraft, at least.).\nLockheed Martin has proposed an upgraded \u2018U.S specific\u2019 version of the Block-70/72 F-16 \u2018Viper\u2019, which would essentially incorporate everything needed for the Wild Weasel role (that role specifically being the search & destruction of enemy air defenses), along with an integrated US 600gal (2,271 Liter) conformal fuel tank built into the aircraft, along with fully integrated infrared search & tracking features.\nIf the USAF chooses to go down this route, upwards of close to 600 new F-16Gs could be ordered to replace the bulk of Block-50/52 and Block-60 F-16Cs in the fleet, which would nicely complement the rapidly growing fleet of F-15EX Eagle II fighters.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T11:28:41+00:00",
+      "timestamp": "2026-09-17T13:56:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -804,12 +745,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\uddfaNeocons need new front against Houthis and Iran: Somaliland volunteers\n\u00a0\n\ud83d\udcac \u201cSomaliland offers the United States a stable and reliable partner at the gateway to the Red Sea, ready to advance maritime security, regional stability, trade, and shared strategic interests,\u201d president Cabdiraxmaan Cirro tweeted after visiting the neocon-infested Hudson Institute in Washington, DC.\nStanding against the backdrop of a map prominently featuring the Houthis in Yemen, Cirro explicitly referenced Somaliland\u2019s location \u201cin proximity to the Houthi threat,\u201d and pointed to the breakaway\u2019s potential as a strategic hub offering \u201cdependable access, logistics and support\u201d in \u201ca highly contested maritime environment.\u201d\n\ud83d\udcac \u201cOur port \u2013 Berbera, is a modernized deep-water facility accessible by AFRICOM, backed by $442M in DP World [funding], and available to the United States. Somaliland offers Washington [a stable\u2026hub](https://t.me/geopolitics_prime/73144) with no competing foreign military presence, and no ambiguity about who\u2019s side we are on,\u201d he stressed.\n[Praising Israel\u2019s decision](https://t.me/geopolitics_prime/71036) to recognize Somaliland, Cirro hinted that the US too get in on the ground floor, and that partnership with Hargeisa would \u201csafeguard American interests.\u201d\nIn a follow-up interview with Beltway media, Cirro hinted that besides bases, Somaliland can offer the US minerals and energy, and could even name Berbera\u2019s airport after Trump, or let him build a Trump Tower in Hargeisa.\nSeeing the writing on the wall regarding [Somaliland\u2019s potential ](https://t.me/geopolitics_prime/72671?single)as a new naval and drone base to fight the Houthis or Iran, geopolitical analyst and former Washington insider Brandon Weichert had a bad feeling about Cirro\u2019s pitch.\n\ud83d\udcac \u201cThis war is never going to end. Trump is listening to these folks [at the Hudson Insisitute, ed.], sadly. The war is just going to expand. Can\u2019t wait for everyone to become an expert on Somaliland on here now. We have always been at war with the Houthis. That\u2019s coming next,\u201d Weichert warned.\nBerbera is situated just 300 km from[ Bab al-Mandab ](https://t.me/geopolitics_prime/74495)\u2013 recently seized by the Houthis in a surprise lightning island-hopping campaign.\nIf US or Israeli warplanes, warships or drones start striking Yemen using Somaliland as a safe haven, the latter\u2019s port and airfields could soon look like the smoldering ruins of US bases in the Persian Gulf. The Houthis have proven an ability to launch long-range missiles and drones at targets in Israel up to 2.2k km away. 300 km across the Gulf of Aden is a hop, skip and a jump by comparison.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25\ud83d\udd0a My top mission is to bring down the Iranian regime \u2014 Neatanyahu\nSpeaking at a Likud party meeting ahead of Israel's October 27 elections, Prime Minister Benjamin Netanyahu declared that toppling Iran is now his central objective.\nWhile Trump claims that the war with Iran will end shortly after the US midterm elections, Netanyahu is now envisioning a mission with no end date \u2014 because the alternative for him is a courtroom.\nOverthrowing the Iranian regime is not a war aim. It's a campaign slogan. It's also the one mission that guarantees the war will never end, which is precisely the point.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T15:05:31+00:00",
+      "timestamp": "2026-09-17T20:26:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -823,12 +764,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25 Trump-linked US drone maker reportedly signs deal with Pakistan army\nPowerus representatives, led by co-founder Brett Velicovich, met on September 16 in Rawalpindi with Pakistan's Chief of Army Staff, Field Marshal Asim Munir. The American manufacturer confirmed that a memorandum of understanding with the Pakistani army includes an initial order for unmanned aerial systems.\nVelicovich confirmed the order had been placed but declined to disclose details, including the sum, drone models, and their quantity. According to him, the purpose of the agreement is to create a joint technology partnership and possible local production.\nAt the same time, the Pakistani army officially confirmed only the meeting of the Powerus delegation with Field Marshal Asim Munir at army headquarters, where defense procurement and capacity building were discussed. The memorandum and the drone order are not mentioned in the official statement by the Pakistani military.\n\ud83e\udd14 What is known about Powerus\nThe American drone company Powerus (Autonomous Power Corporation) was founded in 2025. It is known that the company plans to list on the NASDAQ stock exchange through a merger with Aureus Greenway Holdings, in which the sons of U.S. President Donald Trump \u2014 Donald Trump Jr. and Eric Trump \u2014 invest through the American Ventures fund.\nAccording to regulatory documents, after the merger is completed, American Ventures will own 9.9% of the shares of the combined company. Powerus itself denies that its business growth is connected to the Trump family, stating that contracts are awarded based on the quality of technology, not connections.\nA separate area of Powerus's activity is cooperation with the Ukrainian company Swarmer under the Pentagon's Drone Dominance Program, where systems with swarm control technology are being developed. Velicovich called Ukrainian technologies battle-tested, noting that Ukraine is the largest laboratory of drone warfare in the world. The company is also considering purchasing Ukrainian drone manufacturers or licensing their technologies for production in the U.S. under an American brand.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udde3 Houthi leader denies targeting Mecca: 'A heinous lie no rational mind would believe'\nAbdul-Malik al-Houthi has categorically rejected claims that Yemeni forces targeted Mecca or the holy city, calling the allegation a fabricated propaganda campaign aimed at turning the Islamic world against Yemen's resistance.\n\ud83d\udcac \"It is a big lie and a heinous lie that no rational mind in the Islamic world would believe.\"\nThe accusation came as the Houthis seized Yemen's entire Red Sea coastline, including Mocha and Perim Island in the Bab el-Mandeb. Saudi Arabia's own defenses are running low \u2014 the kingdom is now begging France, Britain, Pakistan, and Egypt for interceptor missiles.\nWestern and Israeli media amplified the Mecca claim almost immediately \u2014 a framing designed to do what a decade of airstrikes could not: turn the Islamic world against the Houthis. It's a familiar playbook. When you can't defeat a movement militarily, you reframe it as a threat to the faith of a billion people.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T13:54:01+00:00",
+      "timestamp": "2026-09-17T19:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\uddfaNeocons need new front against Houthis and Iran: Somaliland volunteers\n\u00a0\n\ud83d\udcac \u201cSomaliland offers the United States a stable and reliable partner at the gateway to the Red Sea, ready to advance maritime security, regional stability, trade, and shared strategic interests,\u201d president Cabdiraxmaan Cirro tweeted after visiting the neocon-infested Hudson Institute in Washington, DC.\nStanding against the backdrop of a map prominently featuring the Houthis in Yemen, Cirro explicitly referenced Somaliland\u2019s location \u201cin proximity to the Houthi threat,\u201d and pointed to the breakaway\u2019s potential as a strategic hub offering \u201cdependable access, logistics and support\u201d in \u201ca highly contested maritime environment.\u201d\n\ud83d\udcac \u201cOur port \u2013 Berbera, is a modernized deep-water facility accessible by AFRICOM, backed by $442M in DP World [funding], and available to the United States. Somaliland offers Washington [a stable\u2026hub](https://t.me/geopolitics_prime/73144) with no competing foreign military presence, and no ambiguity about who\u2019s side we are on,\u201d he stressed.\n[Praising Israel\u2019s decision](https://t.me/geopolitics_prime/71036) to recognize Somaliland, Cirro hinted that the US too get in on the ground floor, and that partnership with Hargeisa would \u201csafeguard American interests.\u201d\nIn a follow-up interview with Beltway media, Cirro hinted that besides bases, Somaliland can offer the US minerals and energy, and could even name Berbera\u2019s airport after Trump, or let him build a Trump Tower in Hargeisa.\nSeeing the writing on the wall regarding [Somaliland\u2019s potential ](https://t.me/geopolitics_prime/72671?single)as a new naval and drone base to fight the Houthis or Iran, geopolitical analyst and former Washington insider Brandon Weichert had a bad feeling about Cirro\u2019s pitch.\n\ud83d\udcac \u201cThis war is never going to end. Trump is listening to these folks [at the Hudson Insisitute, ed.], sadly. The war is just going to expand. Can\u2019t wait for everyone to become an expert on Somaliland on here now. We have always been at war with the Houthis. That\u2019s coming next,\u201d Weichert warned.\nBerbera is situated just 300 km from[ Bab al-Mandab ](https://t.me/geopolitics_prime/74495)\u2013 recently seized by the Houthis in a surprise lightning island-hopping campaign.\nIf US or Israeli warplanes, warships or drones start striking Yemen using Somaliland as a safe haven, the latter\u2019s port and airfields could soon look like the smoldering ruins of US bases in the Persian Gulf. The Houthis have proven an ability to launch long-range missiles and drones at targets in Israel up to 2.2k km away. 300 km across the Gulf of Aden is a hop, skip and a jump by comparison.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T15:05:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
