@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T00:37:33.355471+00:00",
+  "generated_at": "2026-09-17T05:29:21.178304+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -144,25 +144,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/14/2026",
       "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nCharlotte, NC, Wednesday, September 16, 2026 through Wednesday, September 16, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/14/2026",
-      "location": "ZTL NC",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -384,6 +365,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf2\ud83c\uddfd NEW: Mexico has copied the Iranian Shahed-136 drone",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T01:34:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: A Saudi \u2018Wing Loong-ll\u2019 drone was shot down by Yemeni air defenses",
       "source": "Telegram",
       "source_type": "telegram",
@@ -404,21 +404,22 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Trump:\nIryna Zarutska was petrified of Ukraine.\nShe was petrified to be on that train too.\nShe was more scared being on that train in North Carolina than she was being in Ukraine with all the missiles and bombs.",
+      "text": "Saudi Arabia is running low on missile interceptors as it faces continued attacks from Houthis in Yemen and has asked France, Britain, Pakistan and Egypt for air-defense support.\nSource: AP",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T23:44:32+00:00",
+      "timestamp": "2026-09-17T00:47:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -557,12 +558,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea\ud83c\uddf1\ud83c\uddfb [Politico](https://www.politico.eu/article/germany-to-send-fighter-jets-to-latvia-during-election-amid-drone-threat/): Germany will deploy four Eurofighters to Lielv\u0101rde Air Base in central Latvia for about a week from late September, after Riga requested additional NATO support to secure its airspace ahead of the 3 October parliamentary election. \nLatvia has experienced several drone incidents this year. NATO fighters shot down a foreign drone over the east of the country in June, and another was destroyed in August. \nThe jets will operate under NATO's enhanced Air Policing North mission. Germany also announced five Eurofighters to \u00c4mari in Estonia from December to March. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "#Colombia \ud83c\udde8\ud83c\uddf4: Revolutionary Armed Forces of Colombia (#FARC) struck Indra 3D Air Surveillance Radar in Candelaria, Valle del Cauca.\nGroup very notably used \u201cFPV Kamikaze Drones\u201d with Improvised High-Explosive warheads (!) \u2014 it appears that at least 3 drones have hit the target.\nhttps://x.com/war_noir/status/2100365270430687435",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T21:43:41+00:00",
+      "timestamp": "2026-09-17T01:04:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -576,12 +577,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 The Candelaria mayor office reported that an air surveillance radar belonging to the Civil Aviation Authority, located in the El Carmelo town, in Valle del Cauca department, Colombia, was attacked with FPV drones this Wednesday morning, with three to four detonations reported in the area, and no injuries so far.\nThe area was cordoned off and will be inspected by explosives experts from the National Police and the Colombian Army, who will determine the circumstances of the attack and any damage to the infrastructure.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "NOW: Kyiv is once again under a combined Russian attack:\n- x13 3M22 \u201cZircon\u201dhypersonic cruise missiles\n- x3 Kh-47M2 \u201cKinzhal\u201d air-launched ballistic missiles\n- x6 3M54-1 \u201cKalibr\u201d cruise missiles (likely towards Kyiv)\nImpacts have already been recorded in Kyiv\u2019s city center.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T21:41:58+00:00",
+      "timestamp": "2026-09-17T01:04:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -595,12 +596,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddf0 A drone was spotted near the home of Danish Defense Minister Jeppe Bruus in Gladsaxe, Denmark. The incident triggered a large police response, with local authorities sealing off the area and deploying a military bomb squad.\nAlthough the drone's origin was initially unknown, it turned out to be a standard hobby drone that had coincidentally crashed in the area, with no known connection to any foreign or domestic group.\nThe extensive security response came after [an earlier incident involving a Russian frigate and a Danish aircraft](https://t.me/wfwitness/111260), prompting authorities to heighten their alert across the country.\n[\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "JUST IN: Approximately 30 minutes ago, at least 6 3M54-1 \u201cKalibr\u201d cruise missiles were reportedly launched by Russian forces from the Caspian Sea.\nIf the reports are correct, we could see the first impacts in Kyiv around 02:00-03:00 local time (around 1/2 hours from now).\nContributed by:",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T21:41:34+00:00",
+      "timestamp": "2026-09-17T01:04:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -614,12 +615,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea [Bloomberg](https://www.bloomberg.com/news/features/2026-09-16/germany-s-hospitals-prepare-for-war-and-mass-casualties-as-russia-threat-looms): German military hospitals are preparing for mass casualty scenarios amid the growing threat from Russia, with the Ulm military hospital considering reviving a Cold War-era underground bunker that can house up to 2,000 people for 90 days.\nThe Bundeswehr estimates up to 1,000 wounded troops could arrive in Germany daily in a war scenario, straining the country five military hospitals and forcing civilian facilities to help with triage, as hospitals are also evaluating anti-drone barriers, bulletproof glass, and expanded medical stockpiles as part of broader resilience planning.\nOnly a few hundred German doctors currently have experience treating war-related injuries, and a proposed Health Security Act meant to coordinate hospital resources has been delayed to the fall, leaving officials warning that the country healthcare system remains far from ready for a large-scale conflict.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Explosions are being reported in Rostov-on-Don, Russia, where a large fire has broken out amid an ongoing drone attack. Mobile fire groups are reportedly engaging targets over the city. There are unconfirmed reports that the military airfield may have been targeted.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T21:40:44+00:00",
+      "timestamp": "2026-09-17T01:04:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -627,6 +628,102 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Why the Houthis are almost impossible to stop \u2014 and why Saudi Arabia is running out of options\nFor a decade, Saudi Arabia, the UAE, the US, Britain, and Israel have pounded Yemen with airstrikes \u2014 and the Houthis have only grown stronger. Now, with the group holding Yemen's entire Red Sea coast and striking Saudi oil infrastructure, there is little left to try that hasn't already failed.\n\ud83d\udd34 The terrain is the weapon: The Houthis operate across a large, mountainous territory where they disperse fighters and military infrastructure \u2014 while threatening major oil facilities and key trade routes just across the border. Air power can't hold ground. And the Houthis don't need to hold it \u2014 they just need to threaten it.\n\ud83d\udd34 They make their own weapons: The Houthis now field ballistic missiles, cruise missiles, anti-ship missiles, naval drones, and UAVs \u2014 capable of reaching every Gulf state and Israel. Iran may support the movement with training. But the Houthis manufacture most of their weaponry domestically \u2014 and may be using AI to build better missiles.\n\ud83d\udd34 The numbers are damning\n\ud83e\ude96 30,000 fighters in 2015 \u2014 when Saudi Arabia intervened\n\ud83d\udcc8 Up to 350,000 fighters by 2024 \u2014 a more than tenfold increase\nA decade of bombing produced a larger, better-armed, more experienced enemy.\n\ud83d\udd34 Air power alone doesn't win wars: Any lasting defeat would require ground troops. But the anti-Houthi ground forces are deeply divided \u2014 Saudi-backed government loyalists and UAE-backed southern separatists fought each other as recently as January. In recent weeks, they've fallen back from one position after another.\n\ud83d\udd34 The interceptor problem: Saudi Arabia has US-supplied aircraft and advanced missile defenses \u2014 but its high-end interceptor stocks are under pressure. With Patriot reserves drained by the Iran war and the US unable to spare any, it's unclear how long Riyadh can keep warding off attacks from the Houthis and Iran-backed militias in Iraq \u2014 which already shut down a crucial east-west pipeline.\n\ud83d\udd34 Diplomacy is a dead end: The Houthis demand Saudi Arabia lift its blockade \u2014 which would be an admission of defeat and pave the way for even more support from the Axis of Resistance.\nThe Houthis cannot be bombed into submission. They cannot be starved into surrender. They cannot be defeated by proxy forces that fight each other. And they cannot be negotiated with from a position of weakness.\nThe Saudi Arabia and the US are learning this the hard way.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T04:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83d\udca5 Massive missile strikes hit Ukraine\nHeavy missile activity has been recorded across Zaporozhye region.\nIn the Kirovograd region, footage captured the moment when a Geran-2 drone hit the TPS traction substation in Aleksandriya.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T03:59:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Saudis run low on interceptor missiles \u2014 begging allies for help as Houthis advance\nSaudi Arabia is seeking urgent air-defense support from France, Britain, Pakistan, and Egypt as its interceptor missile stockpiles run dangerously low in the fight against the Houthis, officials told AP News.\n\ud83c\udf0f The outreach was initiated because Saudi Arabia's main ally and arms supplier \u2014 the United States \u2014 has seen its own interceptor stocks dwindle over six months of war with Iran\n\ud83c\udf0f A crucial Saudi pipeline has been shut down for weeks after an attack by Iran-backed militias in Iraq\n\ud83c\udf0f The Houthis have seized islands in the Bab el-Mandeb Strait and are targeting Saudi infrastructure and Red Sea shipping\n\ud83c\udf0f Iran is still targeting ships in the Strait of Hormuz, while oil prices remain above $100 a barrel\n\ud83d\udcac One regional official said Saudi Arabia is in a \"very difficult position\" \u2014 forced to protect military bases, government installations, and oil facilities across the kingdom simultaneously.\nThe US can't help. Its Patriot stockpiles have plunged from ~3,100 to roughly 800. THAAD reserves are 80% spent. Replenishment will take years. And NATO officials have already acknowledged a critical interceptor shortage in Europe \u2014 raising questions about whether France and Britain have anything to spare.\nThe protector can't protect. The arms dealer is out of arms. And Saudi Arabia is learning what every US ally eventually learns: US security guarantees have an expiration date.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T02:45:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Russian ballistic missiles light up Kiev\nResidents reporting incoming Iskander ballistic missiles and glide bombs as explosions echoed across the Ukrainian capital.\nWater supply completely cut off in parts of Kiev, according to local media.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T01:31:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd21 Trump blames Ukraine for record diesel prices\nPresident Trump is now pointing at the Ukrainian conflict as the cause of US's fuel crisis \u2014 ignoring the war he started in February that has done far more damage to global energy markets.\nThe facts tell a different story:\n\ud83d\udd34 Diesel just broke $6 a gallon for the first time in US history \u2014 up 60% since the US-Israel attack on Iran in late February\n\ud83d\udd34 The Strait of Hormuz \u2014 which carried 20% of the world's oil before the war \u2014 has been disrupted for 6 months, with tankers struck, vessels redirected, and Iran's restricted zone now threatening the entire corridor\n\ud83d\udd34 Trump's own cabinet learned too late that Iran had exposed the region's pipelines and refineries as \"sitting ducks\" \u2014 the very infrastructure that keeps diesel flowing\nNow they're trying to save face \u2014 and blame others.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T00:48:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -696,63 +793,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-16T18:07:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 How Israel evades accountability for Gaza crimes in Latin America \u2013 and why its impunity won\u2019t last\nIsraeli PM Benjamin Netanyahu has turned to Latin America and launched the Isaac Accords, as Israel\u2019s \"normalization\" with Muslim nations hits a wall amid its genocidal war in Gaza.\nThe Israeli prime minister and Argentine President Javier Milei officially announced [the new project in April, ](https://t.me/geopolitics_prime/68465)declaring their aim of uniting nations of the Judeo-Christian tradition in the Western Hemisphere, with Washington\u2019s active backing.\nBehind this \u201cspiritual\u201d alliance, however, lies increased military and [surveillance cooperation](https://t.me/geopolitics_prime/74588), as well as trade and economic ties aimed at supporting Israel\u2019s stretched economy.\n\ud83d\udc41 Sudden embrace of Zionism\nLatin American pro-US right-wing governments have shown striking favor toward Israel, even in countries such as Chile, that hosts the largest Palestinian diaspora outside of the Arab world. The Israeli press is openly calling for Tel Aviv to exploit this window of opportunity to expand [its influence in the continent.](https://t.me/geopolitics_prime/69825)\nEqually notable is the wave of [pro-US presidential victories ](https://t.me/geopolitics_prime/71363)over the past three years, most achieved by narrow or razor-thin margins over left-leaning, pro-independence rivals. For instance, Keiko Fujimori \u2013 daughter of Peru's infamous former dictator \u2013 won with a margin of 0.23%, while Colombia's Abelardo de la Espriella outpaced Ivan Cepeda by less than one percentage point.\nFormer Colombian President Gustavo Petro said Israeli cyber intelligence firms helped steal the elections[ in favor of de la Espriella,](https://t.me/geopolitics_prime/71235) who was endorsed by Trump and vowed support to Tel Aviv.\n\u2721\ufe0f Zionist impunity\nLatin America\u2019s embrace of Israel amid the Gaza war contrasts sharply with the stance of many Global South and even Western countries. EU member states, the UK, Norway, Switzerland, Australia, and Canada have criticized the Israeli occupation and called for sanctions on illegal Israeli settlements, with some already adopting such measures.\nLatin America\u2019s right-wing governments are giving Zionists a free pass \u2013 and helping entrench its impunity, argues +972 Magazine, an Israeli left-wing publication. The magazine warns of a further erosion of sovereignty among[ Latin American states.](https://t.me/geopolitics_prime/73974)\n\ud83e\udd14 Why this shift may be short-lived\nLatin America is accustomed to swings between left and right, as seen in the pro-independence and pro-Palestine \"pink tide\" of the 2000s and the subsequent pro-Washington \u201cconservative turn\" \u2013 a cycle that has repeatedly [played out across the region.](https://t.me/geopolitics_prime/70510)\nGiven that pro-US/pro-Israeli candidates mostly won by a razor-thin margin, a reverse in political landscape could follow. Pro-US regimes, which traditionally take a hard line against dissent, can quickly become unpopular, while their efforts to reorient economic ties toward US corporate interests often result in economic downturns.\nThe Judeo-Christian unity pitch seems unlikely to resonate with the Latin American general public either. Christian Zionists and Judeo-Christians mostly belong to the Protestant and Evangelical camp \u2013 the religious minority in the continent, whose Christian believers are mostly Catholic. Meanwhile, the Catholic Church is highly critical of Israel and its war in Gaza, suggesting that Netanyahu\u2019s Isaac Accords simulacrum may not work.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T17:27:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f Made in the USA, branded in Israel: How US bankrolls Israel\u2019s \u2018miracle\u2019 weapons\nWhen Israel delivered its [Iron Beam system](https://t.me/geopolitics_prime/50897) to the Israeli Defense Force (IDF), state-owned defense contractor Rafael Advanced Defense Systems and key tech partner Elbit Systems basked in praise. \nThe Israeli Defense Ministry called it the country\u2019s \u201cfirst domestically developed\u201d laser interceptor.\n\ud83d\udc49The [Arrow anti-ballistic system ](https://t.me/geopolitics_prime/52072)received the same glowing treatment during wars unleashed against Iran. \nIn reality, these systems were conceived, financed, and largely engineered by the US, then handed to the Zionist state by congressional mandate. US taxpayers footed the bill - Israeli companies retained the intellectual property and the profits.\n\ud83d\udd34 Born under Reagan, the Arrow program began in the late 1980s under the Strategic Defense Initiative, with US funding for an Israeli ballistic-missile interceptor\n\ud83d\udd34US financing for Arrow 2 (designed to intercept ballistic missiles in or near the atmosphere) and Arrow 3 (targets them at outside the atmosphere) remains embedded: MDA\u2019s fiscal year 2026 procurement justification records $609 million in prior-year procurement funding for Arrow 3 components, with a requested $100 million in 2026\nThe Iron Beam trail is similar:\n\ud83d\udfe5 In 1996, then-President Bill Clinton and then-Israeli Prime Minister Shimon Peres agreed to develop the Tactical High-Energy Laser (THEL) to intercept Hezbollah rockets\n\ud83d\udfe5 US kept the program alive, with funding reaching hundreds of millions of dollars by the mid-2000s\n\ud83d\udfe5 Once THEL got scrapped (over cost and toxicity issues), the research fed into what became Iron Beam\n\ud83d\udfe5Congress approved another $1.2 billion for the Israeli laser program in 2024 alone\n\ud83d\udfe5US intelligence agencies, including a 1999 DIA report, claimed that Israeli firms were eagerly marketing the restricted American laser technology abroad\n100% Israeli state-owned Rafael stopped registering as a foreign agent after 2001 - allowing much of its US lobbying activity to remain out of public view.\nRafael got most of the public credit for Iron Beam and controls the technology\u2019s intellectual property, yet public records point to US university research feeding into the project. \n\u27a1\ufe0fCornell University received a $100,000 grant from Israel\u2019s Defense Ministry to advance fiber-laser technology - funding that likely originated with the US Department of Defense.\n\u27a1\ufe0fTrail of research papers from US universities points to step-by-step breakthroughs that ultimately paved the way for Iron Beam.\nIron Beam and Arrow are not Israeli miracles, but rather US-funded systems transferred to a client state engaged in prolonged and devastating wars. \nNow, Congress seeks to [lock this arrangement into institutional form](https://t.me/geopolitics_prime/70522), under the United States-Israel Defense Technology Cooperation Initiative, to cement even deeper military-industrial integration.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T15:55:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25Trump\u2019s failed Iran gamble blew gaping hole in global fuel market \u2013 with no buffers in sight\n[Trump\u2019s reckless war ](https://t.me/geopolitics_prime/74282)on Iran, sold as a quick victory, has instead mutated into [a global energy](https://t.me/geopolitics_prime/74590) nightmare.\nWhat the US still tries to swat away as a \u201ctemporary disruption\u201d has become, by the admission of America\u2019s own oil executives, a full-blown fuel crisis.\nCommercial stocks of gasoline, diesel, and jet fuel have been bleeding away for more than half a year, strategic crude reserves are largely spent, and Brent and WTI crude benchmarks continue to climb.\nThe mechanisms that once cushioned the system against supply shocks \u201chave largely now played out,\u201d Chevron CEO Mike Wirth told UT Energy Week in Austin.\n\ud83d\udcac \u201cIt's harder to envision a scenario where prices soften and quickly. I think the risks remain to the upside over the next few months,\" he said.\nEvery alternative supply route for Iran\u2019s blockade of the Strait of Hormuz - the passage for roughly a fifth of the world\u2019s oil and a critical share of its LNG - has begun to fail.\n\u27a1\ufe0f Houthi strikes shut down Saudi Arabia\u2019s [East-West pipeline](https://t.me/geopolitics_prime/74556) - [the kingdom\u2019s Hormuz bypass](https://t.me/geopolitics_prime/74583) - removing at least 2.5 million barrels a day from an already starved market.\n\u27a1\ufe0f [The pipeline to Yanbu ](https://t.me/geopolitics_prime/74546)on the Red Sea was already knocked offline after drones struck its pumping stations\n\u27a1\ufe0f NASA fire-detection data cited in media reports reveals intense fires at the 400,000-bpd Aramco-Sinopec complex at the pipeline\u2019s western terminus\n\u27a1\ufe0f[ Ras Laffan](https://t.me/geopolitics_prime/70924), Qatar\u2019s giant LNG complex and the world\u2019s largest single LNG hub, with roughly 77 million tons of annual capacity, halted production in early March after Iran\u2019s retaliatory strikes, with only partial restarts since\nThe combination of lost production and lost transport capacity has sent Asian spot LNG prices through the roof - climbing to nearly $30 per MMBtu.\nFurthermore, the real bottleneck is no longer just crude, [but also refining](https://t.me/geopolitics_prime/74607?single). \nExecutives estimate millions of barrels per day of refining capacity remain offline across Asia, the Middle East, and elsewhere, starving markets of gasoline, diesel, and jet fuel people use.\nDiesel has surged to record highs near $6.20 a gallon in the US, while gasoline has climbed back above $4.30.\nTrump officials are rushing to boost domestic refining to lower gas prices ahead of midterms, and eye plundering [more Venezuelan oil](https://t.me/geopolitics_prime/74322) - in a scramble to fix a fundamental problem of their own making.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T13:41:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
