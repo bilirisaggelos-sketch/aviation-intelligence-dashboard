@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T05:29:21.178304+00:00",
+  "generated_at": "2026-09-17T10:22:37.027824+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -118,25 +118,6 @@
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Saturday, September 19, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/14/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 17, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -344,25 +325,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Saudi Arabia says it shot down Houthi drone south of Mecca",
-      "text": "Saudi Arabia says it shot down Houthi drone south of Mecca\nThe Houthis deny targeting the Islamic holy city after the Saudi-led coalition in Yemen accuses them of a \"disgraceful act\".",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-16T08:36:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf2\ud83c\uddfd NEW: Mexico has copied the Iranian Shahed-136 drone",
@@ -398,26 +360,6 @@
       "verified_sources": [
         "Alsaa Plus EN",
         "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Saudi Arabia is running low on missile interceptors as it faces continued attacks from Houthis in Yemen and has asked France, Britain, Pakistan and Egypt for air-defense support.\nSource: AP",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T00:47:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
       ],
       "verified_source_count": 2
     },
@@ -475,6 +417,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Saudi Arabia is running low on missile interceptors and has asked France, Britain, Pakistan, and Egypt to deploy air-defense support against Houthi missiles and drones, two regional officials told the Associated Press.\n\u27a1\ufe0f The outreach came because the kingdom's main ally and arms supplier, the U.S., has seen its own interceptor stockpile dwindle over six months of war with Iran. One official said Riyadh is in a \"very difficult position,\" defending military bases, government sites, and oil facilities. The fighting marks the first test of the Saudi-Turkey-Pakistan defense pact, but Ankara and Islamabad say they have not received a Saudi request for support.\n\u27a1\ufe0f Saudi Arabia accused the Houthis of attempting to attack Mecca with a drone, declaring the holy city a \"red line\" and saying the drone was intercepted; the Houthis denied targeting Mecca. The U.S. is staying out of the fight, with VP Vance saying Washington has been in \"constant contact\" with Riyadh and held \"direct conversations with the Houthis.\"\n\u27a1\ufe0f The Houthis claimed to have shot down an F-15 over Marib province, releasing video of what they called the wreckage \u2014 a claim AP could not verify. Meanwhile, Iran's foreign minister visited China, where Beijing called for restraint and a swift reopening of the Strait of Hormuz, with oil flows there recovering to an estimated 5 to 7 million barrels per day, less than half the pre-war level.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T05:52:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -558,6 +519,25 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "Ukrainian drones struck Russia's Yaroslavl oil refinery tonight, a big fire is burning at the facility.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T05:46:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "#Colombia \ud83c\udde8\ud83c\uddf4: Revolutionary Armed Forces of Colombia (#FARC) struck Indra 3D Air Surveillance Radar in Candelaria, Valle del Cauca.\nGroup very notably used \u201cFPV Kamikaze Drones\u201d with Improvised High-Explosive warheads (!) \u2014 it appears that at least 3 drones have hit the target.\nhttps://x.com/war_noir/status/2100365270430687435",
       "source": "Telegram",
       "source_type": "telegram",
@@ -634,6 +614,63 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6Saudi\u2019s oil giant patching the cracks\nSatellite imagery shows repair work underway on Saudi Aramco\u2019s East\u2013West Pipeline after a recent strike disrupted operations on one of the kingdom\u2019s key oil routes.\n\ud83d\udc49Work has begun to restore operations on the pipeline, which carries crude from eastern Saudi oil fields to the Red Sea port of Yanbu and was built to reduce reliance on the Strait of Hormuz. It normally handles several million barrels of oil per day.\n\ud83d\udc49The 1,200-kilometer pipeline was hit on September 10, with strikes targeting facilities in the Riyadh and Medina regions. The attack damaged a pumping station, triggered fires, and forced Saudi Arabia to temporarily suspend operations on the route.\n\ud83d\udc49The attack came amid a wider escalation around Yemen and the Red Sea, where Houthi forces have intensified strikes on Saudi targets and expanded pressure around the Bab el-Mandeb shipping route.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T10:11:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83c\uddf8\ud83c\udde6 Houthis knock Saudi oil off the market, sending crude prices up \u2013 but Trump holds back\nSaudi Arabia has halted oil flows through its East-West pipeline, while Ansar Allah claims a fresh strike on Aramco facilities in Yanbu \u2013 threatening an even sharper spike in crude prices.\nCrude oil futures remain above $100 per barrel \u2013 around $104 for[ Brent and $101 for WTI.](https://t.me/geopolitics_prime/74583)\n\ud83d\udca3 Saudi pipeline & Yanbu attack\nThe suspension of the East-West pipeline that transports oil from Abqaiq to the port of Yanbu on the Red Sea puts around 4-6 million barrels a day of crude export capacity at risk. If the shutdown lasts for more than four weeks, as many as 120 million barrels of oil exports could be kept off the market, [driving crude prices up](https://t.me/geopolitics_prime/74620).\nSaudi Arabia has already announced that it is cutting some of its oil shipments to Europe. Riyadh is reportedly redirecting more oil toward Persian Gulf terminals and seems to be building a bypass around the damaged station on the East-West pipeline to resume exports sooner, albeit at a reduced rate, according to the Wall Street Journal.\nCurrently, Saudi Arabia\u2019s oil inventories at Yanbu reportedly amount to around 15 million barrels of crude. Houthi attacks on the port city are adding to Riyadh\u2019s blues.\n\ud83d\udc49 Riyadh is not facing an immediate crisis due to its $1.4 trillion of wealth fund assets and foreign reserves, but its government dollar bonds are among the world's worst performers \u2013 indicating rising investors anxiety, Bloomberg reports. Economists forecast a 3.1% to 4.5% contraction to the Saudi economy in 2026 \u2013 especially if the kingdom's major pipeline remains shut for a month.\nThe timing of those developments is especially concerning for Crown Prince Mohammed bin Salman (MBS) as Saudi Arabia is preparing to host the 10th edition of the Future Investment Initiative Conference in October 26-29 with major Wall Street behemoths attending the show.\n\u274c Washington doesn't help\nThe US doesn't seem to be helping MBS much: Donald Trump reportedly refused to provide Saudi Arabia with military support against advancing Houthis. In fact, it doesn't seem the US is capable of opening a second front [in the Red Sea right now](https://t.me/geopolitics_prime/74676).\nMoreover, Vice President JD Vance claimed on September 14 that Washington was in \u201cdirect\u201d contact with the Houthis and was \u201con top of\u201d the situation. However, [Ansar Allah ](https://t.me/geopolitics_prime/74670)denied Vance\u2019s claim. Earlier, on Saturday, Trump was even more straightforward, saying that the Houthis had asked him not to intervene in their conflict with Saudi Arabia.\n\ud83d\udcac \u201cThe Houthis called us, and they let us know that they don\u2019t want to fight with us. They don\u2019t want me to go after them,\u201d Trump said.\nHe noted that everyone except the Saudis was allowed to pass through the Bab el-Mandeb Strait, promising to \u201cget that straightened out.\u201d However, as US naval forces came under missile pressure in the Persian Gulf, it appears crucial to Trump that US warships not be attacked by the Houthis in the Red Sea \u2013 something US forces experienced in 2025.\nNeither Saudi Arabia nor the US could quickly solve the increasing oil prices crisis via ramping up military operations against Ansar Allah or Iran, Middle East experts suggest. A probable way out would be Saudi Arabia lifting its blockade on Yemen and Gulf kingdoms striking a deal with Iran on [the Strait of Hormuz shipping](https://t.me/geopolitics_prime/74667), they say.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T09:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83d\ude02 Blinded & busted: Yemeni cartoon savages Saudi fighter jet downing\nEarlier, the Houthis downed a US-made F-15 over Marib with a locally manufactured surface-to-air missile, the group\u2019s spokesman Yahya Saree said.\n\ud83d\udc4d Substack | Chat |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T06:52:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2694\ufe0f Why the Houthis are almost impossible to stop \u2014 and why Saudi Arabia is running out of options\nFor a decade, Saudi Arabia, the UAE, the US, Britain, and Israel have pounded Yemen with airstrikes \u2014 and the Houthis have only grown stronger. Now, with the group holding Yemen's entire Red Sea coast and striking Saudi oil infrastructure, there is little left to try that hasn't already failed.\n\ud83d\udd34 The terrain is the weapon: The Houthis operate across a large, mountainous territory where they disperse fighters and military infrastructure \u2014 while threatening major oil facilities and key trade routes just across the border. Air power can't hold ground. And the Houthis don't need to hold it \u2014 they just need to threaten it.\n\ud83d\udd34 They make their own weapons: The Houthis now field ballistic missiles, cruise missiles, anti-ship missiles, naval drones, and UAVs \u2014 capable of reaching every Gulf state and Israel. Iran may support the movement with training. But the Houthis manufacture most of their weaponry domestically \u2014 and may be using AI to build better missiles.\n\ud83d\udd34 The numbers are damning\n\ud83e\ude96 30,000 fighters in 2015 \u2014 when Saudi Arabia intervened\n\ud83d\udcc8 Up to 350,000 fighters by 2024 \u2014 a more than tenfold increase\nA decade of bombing produced a larger, better-armed, more experienced enemy.\n\ud83d\udd34 Air power alone doesn't win wars: Any lasting defeat would require ground troops. But the anti-Houthi ground forces are deeply divided \u2014 Saudi-backed government loyalists and UAE-backed southern separatists fought each other as recently as January. In recent weeks, they've fallen back from one position after another.\n\ud83d\udd34 The interceptor problem: Saudi Arabia has US-supplied aircraft and advanced missile defenses \u2014 but its high-end interceptor stocks are under pressure. With Patriot reserves drained by the Iran war and the US unable to spare any, it's unclear how long Riyadh can keep warding off attacks from the Houthis and Iran-backed militias in Iraq \u2014 which already shut down a crucial east-west pipeline.\n\ud83d\udd34 Diplomacy is a dead end: The Houthis demand Saudi Arabia lift its blockade \u2014 which would be an admission of defeat and pave the way for even more support from the Axis of Resistance.\nThe Houthis cannot be bombed into submission. They cannot be starved into surrender. They cannot be defeated by proxy forces that fight each other. And they cannot be negotiated with from a position of weakness.\nThe Saudi Arabia and the US are learning this the hard way.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -681,13 +718,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -736,63 +772,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-16T20:31:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc41 Pentagon shadow op turns surveillance-state tools on anti-war voices as Iran gambit unravels\nPaid Pentagon influencers are compiling blacklists of US citizens and smearing anti-war voices, reports The Grayzone. \nThe case that first cracked the covert op involved a Utah-based influencer using the moniker \u201cDatarepublican\u201d- later identified as Jennica Pounds.\nIn mid-August, she accidentally let slip that she was a Pentagon \u201cspecial government employee,\u201d drawing a government paycheck while pushing Trump\u2019s hawkish agenda and building digital dossiers on those she labeled \u201ccommunists.\u201d \n[Earlier reports confirmed](https://t.me/geopolitics_prime/73940) that at least three retired officers - Rob Maness, Kurt Schlichter, and Thomas Anderson - held the same shadowy status. \nTheir mission reportedly focuses on echoing the Pentagon line, policing the anti-war camp, and smearing critics.\n\ud83d\udd34 One of Pounds\u2019 projects is \u2018DSA Explorer,\u2019 a public database mapping what she calls the \u201canti-imperialist spine.\u201d \n\ud83d\udd34 It links Black Lives Matter, CODEPINK, Pastors for Peace, Greek\u2019s Syriza Party, the NAACP, foreign politicians, and even rappers, then flags dozens as \u201cpotential unregistered foreign agents.\u201d \n\ud83d\udd34 She also published reportedly US-hacked data on antifascist activists in the Americas and Europe who had been using the \u201cNoblogs\u201d platform\nMAGA voices like [Laura Loomer](https://t.me/geopolitics_prime/72926), who has enjoyed Pentagon press credentials, Guantanamo tours with Pete Hegseth, and informal advisory access, have taken the same model further: as US journalist Max Blumenthal reported from Iran on the funeral of Ayatollah Khamenei, Loomer demanded his arrest and passport revocation. \nDays later, Customs agents seized Blumenthal\u2019s devices at Dulles - while she openly took credit\nThe entire covert Pentagon arrangement appears to flout two cornerstone statutes:\n\ud83c\udf0f Hatch Act bars government employees from partisan activity on the public dime\n\ud83c\udf0f Smith-Mundt Act prohibits the US government from directing propaganda at its own citizens\nBy hiring influencers as \u201chighly qualified experts,\u201d the Pentagon has found a workaround that lets it push official talking points across domestic social media while claiming the posters are just private citizens.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T18:59:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8Two Saudi F-15 jets retreat after Houthi missile launch\nYemeni Armed Forces spokesman Yahya Sare\u2019e said air defenses intercepted two Saudi F-15s over Al-Mukha in Taiz province, forcing them to withdraw after domestically made surface-to-air missiles were launched.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T18:21:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\u26b0\ufe0fSaudis risk losing their own territory if they keep waging war on Yemen\nSaudi Arabia could lose more than it ever hoped to gain from invading Yemen, journalist Hussain Al-Bukhaiti warned during an interview with Drop Site News\u2019 Ryan Grim.\n\u2666\ufe0f Initially, the Houthis exercised restraint and limited its retaliatory strikes against Saudi territory to military assets\n\u2666\ufe0f As Saudi airstrikes and attacks against Yemeni civilian infrastructure and population centers continued, the Houthis stepped up their game and started hitting Aramco oil sites and pipelines\n\u2666\ufe0f Further Saudi attacks and the continuation of the Saudi blockade of Yemen, which leads threatens Yemeni food security, the Houthis may opt to push into the border provinces of Asir, Najran and Jazan, which Saudi Arabia seized in in the 1930s with Britain\u2019s help, but which the Yemenis still regard as Yemeni land\n\u2666\ufe0f Given the utter incompetence demonstrated by the Saudi military and proxies in Yemen, and the growing need for the Houthis to drive up the cost of aggression for the Saudis, a Houthi offensive into Saudi Arabia does not seem unlikely\nEarlier in September, the Houthis liberated some 2,600 square kilometers of Yemeni territory adjacent to the Red Sea coast, seizing the strategic port city of Mokha and de facto establishing control over the Bab el-Mandeb Strait.\n\u27a1\ufe0fThe numerous and well-equipped Saudi proxy forces failed to offer any meaningful resistance to the Houthis, with much of their gear and military hardware being captured intact by the Houthis.\n\u27a1\ufe0fThe lack of Saudi air support also sparked doubts about the Saudi airforce\u2019s capabilities and expertise.\nThe Houthi offensive was launched in response to a Saudi attack on the Sanaa airport that violated the previously existing ceasefire.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T18:07:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
