@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-18T14:18:59.207852+00:00",
+  "generated_at": "2026-09-18T17:49:41.015001+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDestin, FL, Monday, September 21, 2026 through Thursday, September 24, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/18/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
@@ -421,20 +440,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Macron says France is strengthening vigilance against Russian hybrid threats and is preparing a protection plan for critical infrastructure and sensitive defence sites against potential drone and cyber attacks.",
+      "publisher": "Our Wars Today",
+      "text": "[The Russians hit Kyiv with ballistic missiles](https://www.pravda.com.ua/news/2026/09/18/8054140/)\nOn the evening of September 18, Russia fired ballistic missiles at Kyiv. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/09/18/8054140/)\n\u0422\u0435\u0442\u044f\u043d\u0430 \u041e\u043b\u0456\u0439\u043d\u0438\u043a | pravda\u200b.com\u200b.ua \u2022 Sep 18, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T12:57:14+00:00",
+      "timestamp": "2026-09-18T17:24:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -516,22 +535,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Insight: Houthi blitz leaves Saudi Arabia exposed, Iran emboldened](https://www.reuters.com/world/middle-east/houthi-blitz-leaves-saudi-arabia-exposed-iran-emboldened-2026-09-16/)\nThe Houthi capture of ground overlooking the Bab el-Mandeb Strait has dealt Saudi Arabia its gravest setback in Yemen in years, exposing intelligence failures, the collapse of Yemeni allies and the limits of U.S. protection. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/houthi-blitz-leaves-saudi-arabia-exposed-iran-emboldened-2026-09-16/)\nSamia Nakhoul,Timour Azhari | reuters\u200b.com \u2022 Sep 16, 2026",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Reports of missile launched from Iran to Strait of Hormuz\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-16T17:00:22+00:00",
+      "timestamp": "2026-09-18T16:51:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -549,6 +569,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83d\udee2\ufe0f Saudi Arabia is seeking to return about HALF the capacity of its cross-country oil pipeline within days after the link was halted last week following drone attacks.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-18T17:39:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -612,6 +651,64 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Satellite images confirm the crash site of the Saudi F-15SA jet\nThe jet was shot down about 40 km west of Marib after being deployed to Yemen\u2019s airspace and subsequently intercepted by Houthi air defenses.\nEarlier this week, Houthi spokesperson Yahya Saree reported that Saudi Arabia conducted over 450 airstrikes against Yemen, a majority of which were successfully intercepted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-18T17:45:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca3\u274c 40 million reasons why Pakistan refrains from fighting the Houthis\nPakistan has the second-largest Shia community in the world \u2014 40 million people, about 20% of the population.\nIn 2026, after the death of Iranian leader Ali Khamenei, mass Shia protests erupted in Karachi, Lahore, and Islamabad. In Karachi alone, at least 9 people were killed in clashes near the American consulate.\nThe Houthis are a Shia movement of the Zaidi branch. This confessional proximity matters for Islamabad \u2014 it is a real internal security factor. Direct participation in the anti-Houthi campaign risks triggering sectarian violence at home.\n\ud83d\udc49 Still, the Shia factor is not the only reason for Pakistan's restraint. The economy depends on energy supplies through the Red Sea and the Strait of Hormuz. Strategically, Pakistan does not want to choose between Saudi Arabia and Iran, which backs the Houthis. Islamabad even asked Tehran to influence the Houthis diplomatically. Joining the anti-Houthi campaign would disrupt this fragile balance.\nDespite the Mecca Defense Agreement with Saudi Arabia, Pakistan has so far avoided any direct military involvement in Yemen. Its Foreign Ministry has stated that \"no military operations are being discussed\" and that the pact \"is purely defensive in nature.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-18T17:04:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf5\ud83c\uddf0\ud83d\udde3 Pakistan will go \"to any extent\" to defend Saudi Arabia \u2014 but what does that mean in practice?\nInter-Services Public Relations (ISPR) Director General Lt. Gen. Ahmed Sharif Chaudhry stated that Pakistan will go \"to any extent\" to defend Saudi Arabia. According to him, Islamabad's commitment to the Kingdom's security is \"unconditional\" and extends to the protection of Mecca and Madinah. \"We are present there to protect the Two Holy Mosques. There should be no doubt on that,\" he emphasized.\nRecall that Pakistan and Saudi Arabia are bound by a mutual defense pact \u2014 the Strategic Mutual Defense Agreement (SMDA) \u2014 as well as the recently formed trilateral Mecca Defense Alliance involving Turkey. Formally, this means an attack on one member of the alliance is an attack on all.\nHowever, since the start of a series of heavy Houthi strikes on Saudi territory, Pakistani officials have given contradictory signals.\n1\ufe0f\u20e3 General Chaudhry (September 17) pledged absolute physical intervention but refused to clarify whether Riyadh had requested troops or weapons.\n2\ufe0f\u20e3 Pakistan's Foreign Office (September 17) on the same day spoke only of commitment to the pact \"in intent and spirit,\" toning down the military's belligerent rhetoric.\n3\ufe0f\u20e3 Defense Minister Khawaja Asif (September 9) stated that an attack on Saudi Arabia would automatically trigger collective defense. But within days, diplomatic sources and Turkish officials clarified: no combat forces are being deployed, and the pact's operational details remain unformulated.\n4\ufe0f\u20e3 Prime Minister Shehbaz Sharif (September 8) condemned the \"cowardly\" attacks and reaffirmed \"unwavering\" solidarity \u2014 but remained silent on the conflict's structural causes.\nAccording to media reports, Army Chief Field Marshal Asim Munir called Iranian Foreign Minister Abbas Araghchi to ask him to influence the Houthis. Iran confirmed the call took place, but not its details.\nIn short: Pakistan is balancing between loud promises to its ally and an unwillingness to be dragged into a hot war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-18T14:51:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udee2\ud83c\uddf8\ud83c\udde6Saudi Arabia left unable to export crude after Houthi strikes\nSaudi Aramco, the world\u2019s largest crude exporter, has informed at least two European refineries that they will not receive scheduled crude supplies next month after Yemeni [Houthi attacks disrupted](https://t.me/geopolitics_prime/74706) the kingdom\u2019s [critical East-West pipeline](https://t.me/geopolitics_prime/74707), Bloomberg reports.\n\ud83d\udc49Built as Saudi Arabia\u2019s escape route around the Strait of Hormuz, the pipeline was supposed to protect exports from regional disruptions. Instead, a series of Houthi drone strikes forced the kingdom to halt operations along one of its most important energy lifelines.\nThe pipeline had allowed Saudi Arabia to move up to around 4.7 million barrels per day in June, reducing its reliance on Gulf shipping routes. Now, the same infrastructure has become another pressure point in the conflict.\nAs Saudi Arabia accounts for around 14.2% of global crude and petroleum exports, the Houthis have repeatedly targeted the kingdom\u2019s energy and military network, including:\n\ud83d\udd34Refinery hubs around Abha, Jazan, Khamis Mushait, and Najran\n\ud83d\udd34Fuel distribution facilities in Jeddah and Yanbu -The East-West pipeline\n\ud83d\udd34Saudi-linked shipping routes in the Red Sea\nDespite years of Saudi military campaigns and attempts to weaken the movement, the Houthis have continued demonstrating their ability to reach sensitive infrastructure, including strikes near King Khalid and Khamis Mushait military facilities.\n\u2757\ufe0fFor Europe, the timing could hardly be worse. Saudi Aramco remains one of the continent\u2019s key suppliers, while European energy markets are already pressured by high gas prices and depleted reserves.\nA majority of European countries are currently failing to amass the typical early fall target of 80%, with the total EU average sitting at just 68.8% forcing multiple panic buys from the oil giant, which are now effectively blocked by the pipeline disruption.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -637,25 +734,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-18T13:37:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd21 NATO paratroopers demonstrate rapid tree insertion capability in Belgium drills\nOrganized by the Royal Netherlands Army\u2019s 11th Airmobile Brigade alongside ten NATO partners, this year\u2019s Falcon Leap exercises didn\u2019t go exactly as planned, with multiple paratroopers blowing off course and touching down in trees.\nAt least five troops got stuck and injured, two of them seriously (one American and one German). Of the five, only one managed to get down to the ground without help.\nDrones were used to search for the wayward paratroopers, with a special rescue team deployed to get them down.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T09:05:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
