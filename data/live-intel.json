@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-17T22:12:54.596134+00:00",
+  "generated_at": "2026-09-18T00:26:29.938193+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, September 18, 2026 through Sunday, September 20, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/17/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLaurel, MD, Friday, September 18, 2026 Local\nFacility: ZDC",
@@ -230,25 +249,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nPuyallup, WA, Friday, September 11, 2026 through Sunday, September 27, 2026 Local\nFacility: ZSE",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/08/2026",
-      "location": "ZSE WA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5418\r\nIssue Time: 2026 Sep 16 0538 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5417\nValid From: 2026 Sep 15 1849 UTC\nNow Valid Until: 2026 Sep 16 1800 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -352,82 +352,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-17T20:06:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfe\ud83c\uddea/\ud83c\udde8\ud83c\uddf3 NEW: Saudi Arabia asked China to pressure Iran into restraining the Houthis after their seizure of Yemen's Red Sea coast and Bab al-Mandab\nThree Iranian sources say China passed the message along, but did not issue any threats or leverage its economic power over Tehran.\nIran responded by stating that regional stability depends on ending the U.S.-Israeli war before anything else can be guaranteed. \u2013 Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T13:27:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Ansarallah have shot down another Saudi drone above Yemen",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T13:22:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iranian air defenses have shot down an American MQ-9 \u2018Reaper\u2019 drone above Qeshm\nThis is the 5th American drone shot down by Iran this week.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T12:17:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: The IDF states that Iron Dome missiles were fired at \u2018a target\u2019, and that it is investigating the incident",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T11:44:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -745,6 +669,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca9 The House always wins: DARPA, Polymarket and the business of betting on war \n\ud83d\udc49 From real-life conflicts in Iran, Ukraine, Yemen, Gaza, Sudan and Venezuela to hypothetical wars over Taiwan or North Korea, Polymarket has garnered significant criticism for turning death, destruction and genocide into an exhilarating game of chance offering big cash payouts.\nThat\u2019s by design.\n\ud83d\udd34 In May 2001, on the eve of the [9/11 terror attacks](https://t.me/geopolitics_prime/74418), DARPA unveiled Policy Analysis Market \u2013 a program tasked with using market-based prediction techniques to forecast geopolitical events (with a heavy focus on the Middle East).\n\ud83d\udd34 Developed over the next two years and slated for launch in August 2003, the project was shut down just days before rollout amid intense criticism from lawmakers as a \u201cgrotesque\u201d and \u201cunbelievably stupid\u201d \u201cterror futures market\u201d allowing traders to gamble on atrocities and war.\n\ud83d\udd34 The PAM program was overseen by retired Admiral John Poindexter of Iran-Contra fame, whose Total Information Awareness project was so scandalous it got defunded by Congress, only to be resurrected years later as a rebranded, privatized version known as [Palantir](https://t.me/geopolitics_prime/58129).\n\ud83d\udd34 PAM wasn\u2019t the US government\u2019s only \u2018trading on conflicts\u2019 project. IARPA, DARPA\u2019s little-talked about intel cousin, created the Aggregative Contingent Estimation (ACE) and Forecasting Science & Technology (ForeST) programs in the 2010s, with a spinoff known as the Intelligence Community\u2019s Prediction Market (ICPM) program running until 2020.\n\ud83d\udd34 The same year, 21-year-old Shayne Coplan created Polymarket \u2013 a private, for-profit version of PAM, ACE and ForeST using blockchain technology. A niche product until 2024, Polymarket\u2019s popularity exploded after Palantir\u2019s Peter Thiel and his tech and crypto bros counterparts flooded it with over $70M in investment cash.\n\ud83d\udd34 But Polymarket had a problem. Geo-blocked in the US in 2022 by the US Commodity Futures Trading Commission, the company needed help from allies in government to get the block lifted. In an unbelievable stroke of luck, vice president JD Vance happened to be Thiel\u2019s prot\u00e9g\u00e9. The ban was lifted in December 2025 (just in time for the [Venezuela operation](https://t.me/geopolitics_prime/62561)).\n\u00a0\nPS: Coplan has family roots in South Africa. So do Thiel, Musk and Trump tech advisor David Sacks. [Another fascinating coincidence!](https://t.me/geopolitics_prime/68660)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-18T00:08:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Explosion heard near Erbil \u2014 US fighter jets reported over northern Iraq\nAn explosion has been heard on the outskirts of Erbil, the capital of Iraq's Kurdistan Region, according to Al-Mayadeen.\nUnofficial sources reported US fighter jets took off near the city.\nThe incident comes as the US prepares to withdraw from its last remaining base in Iraq \u2014 located in Erbil \u2014 next month, and as the US plans to cut Peshmerga security funding on September 30.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-17T23:16:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25\ud83d\udd0a My top mission is to bring down the Iranian regime \u2014 Neatanyahu\nSpeaking at a Likud party meeting ahead of Israel's October 27 elections, Prime Minister Benjamin Netanyahu declared that toppling Iran is now his central objective.\nWhile Trump claims that the war with Iran will end shortly after the US midterm elections, Netanyahu is now envisioning a mission with no end date \u2014 because the alternative for him is a courtroom.\nOverthrowing the Iranian regime is not a war aim. It's a campaign slogan. It's also the one mission that guarantees the war will never end, which is precisely the point.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -770,25 +732,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-17T19:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\uddfaNeocons need new front against Houthis and Iran: Somaliland volunteers\n\u00a0\n\ud83d\udcac \u201cSomaliland offers the United States a stable and reliable partner at the gateway to the Red Sea, ready to advance maritime security, regional stability, trade, and shared strategic interests,\u201d president Cabdiraxmaan Cirro tweeted after visiting the neocon-infested Hudson Institute in Washington, DC.\nStanding against the backdrop of a map prominently featuring the Houthis in Yemen, Cirro explicitly referenced Somaliland\u2019s location \u201cin proximity to the Houthi threat,\u201d and pointed to the breakaway\u2019s potential as a strategic hub offering \u201cdependable access, logistics and support\u201d in \u201ca highly contested maritime environment.\u201d\n\ud83d\udcac \u201cOur port \u2013 Berbera, is a modernized deep-water facility accessible by AFRICOM, backed by $442M in DP World [funding], and available to the United States. Somaliland offers Washington [a stable\u2026hub](https://t.me/geopolitics_prime/73144) with no competing foreign military presence, and no ambiguity about who\u2019s side we are on,\u201d he stressed.\n[Praising Israel\u2019s decision](https://t.me/geopolitics_prime/71036) to recognize Somaliland, Cirro hinted that the US too get in on the ground floor, and that partnership with Hargeisa would \u201csafeguard American interests.\u201d\nIn a follow-up interview with Beltway media, Cirro hinted that besides bases, Somaliland can offer the US minerals and energy, and could even name Berbera\u2019s airport after Trump, or let him build a Trump Tower in Hargeisa.\nSeeing the writing on the wall regarding [Somaliland\u2019s potential ](https://t.me/geopolitics_prime/72671?single)as a new naval and drone base to fight the Houthis or Iran, geopolitical analyst and former Washington insider Brandon Weichert had a bad feeling about Cirro\u2019s pitch.\n\ud83d\udcac \u201cThis war is never going to end. Trump is listening to these folks [at the Hudson Insisitute, ed.], sadly. The war is just going to expand. Can\u2019t wait for everyone to become an expert on Somaliland on here now. We have always been at war with the Houthis. That\u2019s coming next,\u201d Weichert warned.\nBerbera is situated just 300 km from[ Bab al-Mandab ](https://t.me/geopolitics_prime/74495)\u2013 recently seized by the Houthis in a surprise lightning island-hopping campaign.\nIf US or Israeli warplanes, warships or drones start striking Yemen using Somaliland as a safe haven, the latter\u2019s port and airfields could soon look like the smoldering ruins of US bases in the Persian Gulf. The Houthis have proven an ability to launch long-range missiles and drones at targets in Israel up to 2.2k km away. 300 km across the Gulf of Aden is a hop, skip and a jump by comparison.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T15:05:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
