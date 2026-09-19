@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-19T01:04:58.932264+00:00",
+  "generated_at": "2026-09-19T05:57:18.784400+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nTraverse City, MI, Saturday, September 19, 2026 through Monday, September 21, 2026 Local\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/19/2026",
+      "location": "ZMP MI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDestin, FL, Monday, September 21, 2026 through Thursday, September 24, 2026 Local\nFacility: ZJX",
@@ -22,7 +41,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -41,7 +60,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -355,12 +374,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -374,12 +394,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -403,12 +424,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The U.S. and Denmark are nearing a possible agreement that would expand the U.S. military presence in Greenland.\nThe deal would fall short of President Donald Trump\u2019s past interest in acquiring the island but could allow Greenlandic territory to be used for the Golden Dome missile defense system and limit Chinese influence on the island.\nSource: Reuters",
+      "text": "Kim Jong Un inspects a one-way attack drone production line.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T21:19:16+00:00",
+      "timestamp": "2026-09-19T01:46:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The U.S. State Department has approved a possible $2.68 billion sale of air defense equipment and support to Ukraine.\nThe package includes extended-range air defense systems, mobile launchers, counter-drone radars, spare parts, software and technical support.\nUkraine would finance the purchase through European contributions and previously appropriated U.S. Foreign Military Financing.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T01:29:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -459,63 +499,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[The situation in Russian-occupied Oleshky was dire. Now it's 'hell' - Residents in Russian-occupied\u00a0Oleshky\u00a0in...](https://t.me/KyivIndependent_official/55540)\nThe situation in Russian-occupied Oleshky was dire. Now it's 'hell'\n[https://kyivindependent.com/the-situation-in-russian-occupied-oleshky-was-dire-now-its-hell/]\nResidents in Russian-occupied\u00a0Oleshky\u00a0in Kherson Oblast face an escalating\nhumanitarian crisis, as constant Russian drone attacks and artillery shelling\nhave made it impossible to deliver essential food and medicine supplies or\nevacuate civilians by road.\n\"These people need to be saved,\" Dmytro Lubinets, Ukraine's human rights\nombudsman,\u00a0said\u00a0on Sept. 16, adding that residents are desperate to escape \"from\nthis hell.\"\n\"People are driven to despair and are simply walking along mined roads (to\nescape),\" an Oleshky resident \u2014 whose ide... \n[Read More in Full Article](https://t.me/KyivIndependent_official/55540)\n | t\u200b.me \u2022 Sep 17, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T11:58:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Serbia opens Israeli drone assembly plant](https://www.reuters.com/business/aerospace-defense/serbia-opens-israeli-drone-assembly-plant-2026-09-17/)\nSerbian President Aleksandar Vucic said on Thursday \u200bthat Serbia had opened \u200ca factory to assemble advanced Israeli-made drones, which will \u200bsupply the Serbian military \u200band armed forces in \u2060other countries. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/business/aerospace-defense/serbia-opens-israeli-drone-assembly-plant-2026-09-17/)\nReuters | reuters\u200b.com \u2022 Sep 17, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T16:27:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddfa\ud83c\uddf8 \ud83c\uddee\ud83c\uddf7 Multiple U.S. positions in the Middle East have experienced sustained damage from ongoing Iranian drone and missile attacks, CBS News, BBC's US media partner, reported. CBS News published several undated photos, sent by unnamed active duty service members, that show planes, vehicles, and structures that had been destroyed at U.S. bases in Saudi Arabia and Kuwait. The White House referred the BBC to US Central Command. Centcom did not immediately respond to a request for comment.\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-17T12:27:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Alerts have been issued in Yanbu, Saudi Arabia, likely due to Houthi Missiles.",
       "source": "Telegram",
@@ -526,12 +509,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -612,50 +596,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\ud83c\uddee\ud83c\uddf7 [The BBC's Verification wing](https://www.bbc.com/news/articles/c8vgy3p6k3y9o) has confirmed footage showing the wreckage of a Saudi F\u201115 fighter jet that the Houthi group says it shot down over Yemen. \nBBC Verify pinpointed the crash site to an isolated mountainous area about 40 km west of Marib using satellite imagery. \nThe Saudi base at Khamis Mushait, home to the jet's squadron, was targeted by Houthi missiles and drones last week, with satellite imagery showing damage to at least three hangars.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Drones over Houthi-held Sana'a overnight, mostly above the al-Jaraf stronghold. Residents heard air defenses firing at them.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T01:48:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Shrapnel from a drone interception over the city of Taif, Yemen, killed a Yemeni national and injured a Pakistani national as well as a Saudi Arabian citizen, according to the Saudi Arabian civil defense. \nMultiple buildings and vehicles were also damaged as a result of the interception.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T01:46:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea Several Houthi drones have been shot down by PLC forces in the eastern portion of Jawf province, Yemen.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T01:46:05+00:00",
+      "timestamp": "2026-09-19T05:56:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -669,6 +615,26 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80 Yemeni ballistic missiles over Riyadh\nFootage from social media shows the skies above Riyadh and the sound of interceptions after Yemeni ballistic missiles were fired toward the Saudi capital.\nThe likely target was Prince Sultan Air Base, which also hosts US troops. the base is located roughly 80 km from Riyadh \u2014 meaning early warning alerts typically aren't triggered for the city when the base is attacked \u2014 the same alert pattern observed when Iran struck the same base earlier this year.\nLocal reports indicate significant disruptions and malfunctions in navigation systems at Riyadh International Airport.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T01:41:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8 Houthi missiles targeted Saudi Arabia\nNew explosions have struck the Saudi cities of Jazan, Abha, and Jeddah, according to local media, as Yemeni missile fire continues to pound the kingdom.\n\ud83d\udccc Air raid alerts activated across Abha, Khamis Mushait, Jeddah, Taif, Yanbu, and Al-Ulaa\n\ud83d\udccc Jeddah is Saudi Arabia's second-largest city and a major Red Sea commercial hub \u2014 far beyond the usual border zone\nThe strikes follow days of attacks on Yanbu, Abha, Jazan, and the East-West pipeline\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -678,12 +644,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -713,63 +680,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-18T19:17:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Satellite images confirm the crash site of the Saudi F-15SA jet\nThe jet was shot down about 40 km west of Marib after being deployed to Yemen\u2019s airspace and subsequently intercepted by Houthi air defenses.\nEarlier this week, Houthi spokesperson Yahya Saree reported that Saudi Arabia conducted over 450 airstrikes against Yemen, a majority of which were successfully intercepted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T17:45:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca3\u274c 40 million reasons why Pakistan refrains from fighting the Houthis\nPakistan has the second-largest Shia community in the world \u2014 40 million people, about 20% of the population.\nIn 2026, after the death of Iranian leader Ali Khamenei, mass Shia protests erupted in Karachi, Lahore, and Islamabad. In Karachi alone, at least 9 people were killed in clashes near the American consulate.\nThe Houthis are a Shia movement of the Zaidi branch. This confessional proximity matters for Islamabad \u2014 it is a real internal security factor. Direct participation in the anti-Houthi campaign risks triggering sectarian violence at home.\n\ud83d\udc49 Still, the Shia factor is not the only reason for Pakistan's restraint. The economy depends on energy supplies through the Red Sea and the Strait of Hormuz. Strategically, Pakistan does not want to choose between Saudi Arabia and Iran, which backs the Houthis. Islamabad even asked Tehran to influence the Houthis diplomatically. Joining the anti-Houthi campaign would disrupt this fragile balance.\nDespite the Mecca Defense Agreement with Saudi Arabia, Pakistan has so far avoided any direct military involvement in Yemen. Its Foreign Ministry has stated that \"no military operations are being discussed\" and that the pact \"is purely defensive in nature.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T17:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf5\ud83c\uddf0\ud83d\udde3 Pakistan will go \"to any extent\" to defend Saudi Arabia \u2014 but what does that mean in practice?\nInter-Services Public Relations (ISPR) Director General Lt. Gen. Ahmed Sharif Chaudhry stated that Pakistan will go \"to any extent\" to defend Saudi Arabia. According to him, Islamabad's commitment to the Kingdom's security is \"unconditional\" and extends to the protection of Mecca and Madinah. \"We are present there to protect the Two Holy Mosques. There should be no doubt on that,\" he emphasized.\nRecall that Pakistan and Saudi Arabia are bound by a mutual defense pact \u2014 the Strategic Mutual Defense Agreement (SMDA) \u2014 as well as the recently formed trilateral Mecca Defense Alliance involving Turkey. Formally, this means an attack on one member of the alliance is an attack on all.\nHowever, since the start of a series of heavy Houthi strikes on Saudi territory, Pakistani officials have given contradictory signals.\n1\ufe0f\u20e3 General Chaudhry (September 17) pledged absolute physical intervention but refused to clarify whether Riyadh had requested troops or weapons.\n2\ufe0f\u20e3 Pakistan's Foreign Office (September 17) on the same day spoke only of commitment to the pact \"in intent and spirit,\" toning down the military's belligerent rhetoric.\n3\ufe0f\u20e3 Defense Minister Khawaja Asif (September 9) stated that an attack on Saudi Arabia would automatically trigger collective defense. But within days, diplomatic sources and Turkish officials clarified: no combat forces are being deployed, and the pact's operational details remain unformulated.\n4\ufe0f\u20e3 Prime Minister Shehbaz Sharif (September 8) condemned the \"cowardly\" attacks and reaffirmed \"unwavering\" solidarity \u2014 but remained silent on the conflict's structural causes.\nAccording to media reports, Army Chief Field Marshal Asim Munir called Iranian Foreign Minister Abbas Araghchi to ask him to influence the Houthis. Iran confirmed the call took place, but not its details.\nIn short: Pakistan is balancing between loud promises to its ally and an unwillingness to be dragged into a hot war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T14:51:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
