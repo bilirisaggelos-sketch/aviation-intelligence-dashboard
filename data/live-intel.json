@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T22:52:18.422192+00:00",
+  "generated_at": "2026-09-19T01:04:58.932264+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -22,7 +22,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -41,7 +41,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -125,25 +125,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/17/2026",
       "location": "ZMP MI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nElmont, NY, Friday, September 18, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/17/2026",
-      "location": "ZNY NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -365,6 +346,44 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "In my opinion, the target of the Ansarallah ballistic missile attack on Riyadh was likely King Salman Airbase, just south of Riyadh. \nIf the target was Prince Sultan Airbase, there likely wouldn't have been any early warning alerts for Riyadh, as it is located 80 km from the city. Early warning alerts typically weren't triggered for Riyadh when Prince Sultan Airbase was attacked by Iran earlier this year.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T00:31:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Yemeni ballistic missiles above Riyadh\nLikely targeting Prince Sultan Air Base, which also hosts U.S. troops.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T00:11:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia asks Ansarallah to stop carrying out ballistic missile attacks against its territory",
       "source": "Telegram",
       "source_type": "telegram",
@@ -507,13 +526,31 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Yemani missiles over Saudia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T00:12:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -562,25 +599,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-18T20:32:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83d\udee2\ufe0f Saudi Arabia is seeking to return about HALF the capacity of its cross-country oil pipeline within days after the link was halted last week following drone attacks.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T17:39:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -660,13 +678,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -753,44 +770,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-18T14:51:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee2\ud83c\uddf8\ud83c\udde6Saudi Arabia left unable to export crude after Houthi strikes\nSaudi Aramco, the world\u2019s largest crude exporter, has informed at least two European refineries that they will not receive scheduled crude supplies next month after Yemeni [Houthi attacks disrupted](https://t.me/geopolitics_prime/74706) the kingdom\u2019s [critical East-West pipeline](https://t.me/geopolitics_prime/74707), Bloomberg reports.\n\ud83d\udc49Built as Saudi Arabia\u2019s escape route around the Strait of Hormuz, the pipeline was supposed to protect exports from regional disruptions. Instead, a series of Houthi drone strikes forced the kingdom to halt operations along one of its most important energy lifelines.\nThe pipeline had allowed Saudi Arabia to move up to around 4.7 million barrels per day in June, reducing its reliance on Gulf shipping routes. Now, the same infrastructure has become another pressure point in the conflict.\nAs Saudi Arabia accounts for around 14.2% of global crude and petroleum exports, the Houthis have repeatedly targeted the kingdom\u2019s energy and military network, including:\n\ud83d\udd34Refinery hubs around Abha, Jazan, Khamis Mushait, and Najran\n\ud83d\udd34Fuel distribution facilities in Jeddah and Yanbu -The East-West pipeline\n\ud83d\udd34Saudi-linked shipping routes in the Red Sea\nDespite years of Saudi military campaigns and attempts to weaken the movement, the Houthis have continued demonstrating their ability to reach sensitive infrastructure, including strikes near King Khalid and Khamis Mushait military facilities.\n\u2757\ufe0fFor Europe, the timing could hardly be worse. Saudi Aramco remains one of the continent\u2019s key suppliers, while European energy markets are already pressured by high gas prices and depleted reserves.\nA majority of European countries are currently failing to amass the typical early fall target of 80%, with the total EU average sitting at just 68.8% forcing multiple panic buys from the oil giant, which are now effectively blocked by the pipeline disruption.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T14:18:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea Yemen's deputy FM: F-35 deal for Saudis exposes US real role in the aggression against Yemen\n\ud83d\udcac \"Washington has not been a neutral observer in the Yemen war \u2014 it is a partner in the aggression against the Yemeni people by arming and militarily supporting Saudi Arabia,\" Abdulwahid Abu Ras said.\nEarlier, the US approved a $24.3 billion sale of 48 F-35 stealth fighters to Saudi Arabia \u2014 Riyadh's first planned acquisition of fifth-generation aircraft\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-18T13:37:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
