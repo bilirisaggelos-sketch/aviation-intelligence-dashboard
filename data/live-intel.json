@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T19:32:04.172917+00:00",
+  "generated_at": "2026-09-19T21:47:46.502942+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -41,7 +41,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -60,7 +60,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -125,25 +125,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/17/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nTraverse City, MI\nFacility: ZMP",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/17/2026",
-      "location": "ZMP MI",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -344,23 +325,24 @@
       "verified_source_count": 1
     },
     {
-      "title": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport",
-      "text": "Houthis claim attack on Saudi capital after smoke seen rising near Riyadh airport\nThe King Khalid International Airport incident caused hours of flight disruptions and comes amid an escalating conflict with Houthi rebels in Yemen.",
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "text": "Houthis say they targeted Saudi capital with ballistic missiles\nA reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-19T19:09:49+00:00",
+      "timestamp": "2026-09-19T20:16:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News"
+        "BBC World News",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
@@ -441,31 +423,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Polish Defense Minister W\u0142adys\u0142aw Kosiniak-Kamysz:\nMissiles are falling, drones are falling one kilometer from the Polish border.\nIf Ukraine does not have air defense systems, if it does not have ammunition to shoot down these drones, most of these drones will fly through Ukraine and reach Poland.\nThe state interest is supporting a Ukraine that is fighting, so that missiles are intercepted there and do not reach Poland.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T19:49:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "France\u2019s far-right National Rally (RN) leaders Marine Le Pen and Jordan Bardella issued a rare condemnation of Russia, warning against Moscow using intimidation, threats and destabilization to influence France.\n\u201cWe will never tolerate a foreign power, in this case, Russia, seeking to dictate, directly or indirectly, the policy of our country through intimidation, threats, destabilization or psychological pressure.\u201d\nThe statement condemned Russia\u2019s seizure of assets belonging to French retailer Auchan and Swiss company Nestl\u00e9, calling it:\n\u201cA hostile act against the interests of France and the nations of Europe.\u201d\nLe Pen and Bardella also referenced Russia-linked hybrid threats, including the August drone attack at Leipzig airport, and said:\n\u201cNo provocation, clandestine operation, or destabilization effort could lead France to facilitate Russia\u2019s achievement of its war aims in Ukraine.\u201d\nSource: POLITICO",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-19T19:08:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "\ud83d\udcf8 Iranian women operators of FPV drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T18:23:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,31 +500,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah has published an infographic about their recent operation against Saudi Arabia by targeting capital Riyadh and ARAMCO facility at Yanbu with missile and drone barrage \n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa \u2014 Polish Defense Minister W\u0142adys\u0142aw Kosiniak-Kamysz:\nMissiles are falling, drones are falling one kilometer from the Polish border.\nIf Ukraine does not have air defense systems, if it does not have ammunition to shoot down these drones, most of these drones will fly through Ukraine and reach Poland.\nThe state interest is supporting a Ukraine that is fighting, so that missiles are intercepted there and do not reach Poland.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T19:21:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 BREAKING: Yemen\u2019s Armed Forces say they carried out two large-scale attacks using ballistic and cruise missiles and drones against sensitive targets in Riyadh and Aramco facilities in Yanbu.\nAccording to the statement, both operations were successful and caused major fires at the targeted sites. The group said the attacks were carried out in response to continued Saudi airstrikes and vowed to continue what it described as \u201cblockade for blockade and escalation for escalation\u201d until Saudi military operations and restrictions on Yemen end.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T17:04:03+00:00",
+      "timestamp": "2026-09-19T20:03:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -549,57 +513,19 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Clash Report"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf0\ud83c\uddf6\ud83c\udde6 \u2014 Iran\u2019s National Security Council official Mohsen Rezaei told Al Jazeera:\nU.S. President Donald Trump\u2019s assessments and calculations regarding Iran were wrong, and the war was instigated by Netanyahu.\nIt is in Washington\u2019s interest to accept our conditions to end the war. Trump\u2019s threats will not achieve any results, and we are prepared for a decisive war.\nWe know the weaknesses of the U.S. military and are more prepared than before to confront its airstrikes.\nWe have concluded that we need to change our strategy toward Washington following its withdrawal from the memorandum of understanding.\nWe recently tested an anti-ship missile near a U.S. aircraft carrier.\nWe are serious about defense and will strike U.S. bases and Washington\u2019s interests in the region more forcefully if we are attacked.\nConsultations are continuing with Qatari and Pakistani mediators, and we have informed them of our conditions for negotiations.\nWe remain in contact with the Qatari mediator, who conveyed our conditions to Washington to end the war, and we are awaiting Trump\u2019s response.\nOur conditions are to end the war on all fronts, release our frozen funds, and lift the naval blockade.\n\ud83d\udd34",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah has published an infographic about their recent operation against Saudi Arabia by targeting capital Riyadh and ARAMCO facility at Yanbu with missile and drone barrage \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T15:55:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Fuel tank at King Khaled International Airport was hit by missile and drone barrage launched from Yemen towards Saudi capital Riyadh by Ansarllah \n \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T12:20:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6Aftermath of Yemeni Ansarllah attack towards Saudi capital Riyadh smoke flames near King Khaled international airport at Saudi capital Riyadh\n \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T12:10:41+00:00",
+      "timestamp": "2026-09-19T19:21:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -644,29 +570,10 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "BBC World News",
         "Mediterranean Man"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Yemani missiles over Saudia.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T00:12:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -779,6 +686,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25\ud83d\udd0d Houthis charge Saudis with \u2018ISIS-style\u2019 terror conspiracy in Sanaa\n\u00a0\nUnable to stop Ansar Allah on the battlefield, Riyadh has reportedly resorted to attempts to orchestrate [terror attacks ](https://t.me/geopolitics_prime/74806)in Yemen\u2019s capital.\nArmed Forces spokesman Yahya Saree announced late Friday that the military had \u201cthwarted criminal attempts\u201d by the Saudi enemy to stage attacks in Sanaa \u201cbearing the hallmarks of ISIS.\u201d\nOn Saturday, Yemen\u2019s Foreign Ministry warned that Sanaa \u201cpossesses the legitimate right to respond to any Saudi Daeshi activity targeting its security and stability,\u201d and would \u201ctake the necessary measures.\u201d\nThe ministry stressed that the terror plots brought \u201cback to memory what the Saudi regime did in the past in many countries of the region, foremost among them Yemen, Iraq, Syria and others\u201d \u2013 a reference to the Saudi royal family\u2019s sponsorship of Sunni Islamist jihadist groups -including al-Qaeda-linked forces in Iraq and Syria, and Al-Qaeda in [the Arabian Peninsula (AQAP) in Yemen.](https://t.me/geopolitics_prime/74031)\n[The Houthis](https://t.me/geopolitics_prime/74798) did not disclose the specific tactical details or targets of the alleged Saudi intel-sponsored terrorist plots, nor details on the measures taken to dismantle enemy terror cells. But the plots and Sanaa\u2019s warnings of a \u201cresponse\u201d may explain the notable uptick in Houthi missile attacks on Saudi cities, including the capital, [Riyadh](https://t.me/geopolitics_prime/74802), over the [past 24 hours.](https://t.me/geopolitics_prime/74817)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T21:19:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde8\ud83c\uddf3\ud83c\udf0f How China is expanding its military footprint across Africa\nChina is steadily increasing its ability to operate far beyond its borders, and Africa is becoming an increasingly important part of that effort, the SCMP says in its analytical piece.\nThe latest example came in Egypt, where six Chinese J-16 fighter jets took part in the Eagles of Civilization exercise, marking the aircraft\u2019s first known deployment in Africa.\nThe deployment itself was a test of China\u2019s long-range military logistics. The fighters travelled around 6,000 km to Egypt in roughly nine hours with aerial refueling, demonstrating the PLA\u2019s ability to move and support a combat-capable air package thousands of kilometers from home.\nThe exercise also gave Chinese pilots a rare opportunity to train against French-made Rafale fighters operated by the Egyptian Air Force.\nThe drills covered:\n\ud83d\udd36Long- and short-range air combat\n\ud83d\udd36 Air-to-ground strikes\n\ud83d\udd36 Suppression of enemy air defenses\n\ud83d\udd36 Combat search and rescue\n\ud83d\udd36 Integrated command and control\nThe exercise also allowed the PLA to test its preparedness in areas such as strategic lift, logistics, and global command \u2014 capabilities that become increasingly important when operating far from China.\nChina has spent decades building military ties across Africa, gradually expanding from officer training and defense exchanges to naval deployments, peacekeeping missions, anti-piracy operations, and joint exercises.\nThe PLA\u2019s anti-piracy missions in the Gulf of Aden, which began in 2008, forced China to develop the ability to rotate crews, deliver supplies, maintain equipment, and sustain operations thousands of kilometers from home. In 2017, Beijing opened its first overseas military support base in Djibouti, providing a permanent logistics hub near one of the world\u2019s key maritime routes.\nMore recently, Chinese naval deployments have included Type 054A frigates, Type 039A/041 submarines, and supporting vessels operating as increasingly sophisticated task groups. Analysts describe this broader process as part of China\u2019s effort to develop and refine its \u201cexpeditionary capabilities\u201d far from home.\nThe latest Egyptian exercise shows how this approach is expanding into the air domain as well. Training against Rafales gives Chinese pilots exposure to a Western-designed fighter while allowing Beijing to deepen military cooperation with one of Africa\u2019s most capable armed forces.\n\ud83d\udde3At the same time, African countries are not simply passive participants in this process because they try to \u201cengage with China for their own security, training, and diplomatic reasons,\u201d experts say.\nChina\u2019s expanding military role in Africa now serves several interconnected purposes:\n\ud83d\udd34 Testing long-range logistics and expeditionary capabilities\n\ud83d\udd34 Expanding defense partnerships with African states\n\ud83d\udd34 Protecting Chinese investments, citizens, and maritime routes\n\ud83d\udd34 Building experience for military operations far from home\nFor China, Africa is becoming a place where partnerships translate into real-world military experience.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T19:49:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
