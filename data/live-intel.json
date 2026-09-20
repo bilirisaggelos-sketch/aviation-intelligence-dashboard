@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T04:57:24.876695+00:00",
+  "generated_at": "2026-09-20T09:43:22.143973+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -125,25 +125,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/17/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLos Angeles, CA, Saturday, September 19, 2026 through Sunday, September 20, 2026 Local\nFacility: ZLA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/16/2026",
-      "location": "ZLA CA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -325,6 +306,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says",
+      "text": "Two killed in 'massive' Ukrainian drone attack on Moscow region, Russia says\nA major oil refinery was also hit as Moscow's mayor says 450 drones were downed during the \"unprecedented attack\".",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-20T08:41:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
       "text": "Houthis say they targeted Saudi capital with ballistic missiles\nA reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "source": "BBC",
@@ -356,14 +356,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -387,33 +386,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "BIG: U.S. embassies across the Middle East issued coordinated security alerts today.\nEvent: Due to tensions in the Middle East, the security environment remains complex with the potential for unforeseen escalation.\nAmericans currently in the Middle East should exercise heightened vigilance and be aware of potential flight cancellations, airspace closures, and travel disruptions.\n\ud83c\uddee\ud83c\uddf7 Iran \u2013 Do Not Travel; leave now\n\ud83c\uddee\ud83c\uddf6 Iraq \u2013 Do Not Travel\n\ud83c\uddf1\ud83c\udde7 Lebanon \u2013 Do Not Travel\n\ud83c\uddf8\ud83c\uddfe Syria \u2013 Do Not Travel\n\ud83c\uddfe\ud83c\uddea Yemen \u2013 Do Not Travel\n\ud83c\uddf5\ud83c\uddf8 Gaza \u2013 Do Not Travel\n\ud83c\uddf8\ud83c\udde6 Saudi Arabia \u2013 Reconsider Travel\n\ud83c\udde7\ud83c\udded Bahrain \u2013 alert issued\n\ud83c\uddf4\ud83c\uddf2 Oman \u2013 alert issued\n\ud83c\uddf6\ud83c\udde6 Qatar \u2013 alert issued\n\ud83c\uddf0\ud83c\uddfc Kuwait \u2013 alert issued\n\ud83c\uddef\ud83c\uddf4 Jordan \u2013 alert issued",
+      "text": "Iran's Security Council Secretary Rezaei:\nNow Yemeni forces have gone to Bab el-Mandeb, taken control of it and deployed there, and they say this happened at Iran\u2019s instigation.\nTomorrow, if the same thing happens in Gibraltar, they will again say that it happened at Iran\u2019s instigation. What incitement have we carried out?\nThey themselves are pushing peoples toward rebellion and revolution against them. In my view, Trump and this Israeli entity are behind all of these developments.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T01:40:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "INTERESTING: Trump left Camp David a day early Saturday night with no explanation. \nThe likeliest reason is the Iran situation.\nTehran sent seven conditions via Qatar and threatened \"decisive war\" if rejected, while U.S. embassies across the Middle East issued security warnings the same day.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T01:24:56+00:00",
+      "timestamp": "2026-09-20T09:05:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -427,32 +405,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Polish Defense Minister W\u0142adys\u0142aw Kosiniak-Kamysz:\nMissiles are falling, drones are falling one kilometer from the Polish border.\nIf Ukraine does not have air defense systems, if it does not have ammunition to shoot down these drones, most of these drones will fly through Ukraine and reach Poland.\nThe state interest is supporting a Ukraine that is fighting, so that missiles are intercepted there and do not reach Poland.",
+      "text": "Iran's Security Council Secretary Rezaei:\nIf war begins again, U.S. ships \u2014 unless they leave the Indian Ocean \u2014 will be attacked wherever they are inside the Indian Ocean. We have developed these capabilities.\nWe increased the speed of our hypersonic missiles from Mach 6 to Mach 10.\nWe have also developed our electronic warfare systems, improved our air defenses, and we have other measures that we will use at the appropriate time.\nTherefore, we are fully prepared. If America starts the war, we will confront America with greater force and with more numerous and more painful strikes.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T19:49:24+00:00",
+      "timestamp": "2026-09-20T08:44:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "France\u2019s far-right National Rally (RN) leaders Marine Le Pen and Jordan Bardella issued a rare condemnation of Russia, warning against Moscow using intimidation, threats and destabilization to influence France.\n\u201cWe will never tolerate a foreign power, in this case, Russia, seeking to dictate, directly or indirectly, the policy of our country through intimidation, threats, destabilization or psychological pressure.\u201d\nThe statement condemned Russia\u2019s seizure of assets belonging to French retailer Auchan and Swiss company Nestl\u00e9, calling it:\n\u201cA hostile act against the interests of France and the nations of Europe.\u201d\nLe Pen and Bardella also referenced Russia-linked hybrid threats, including the August drone attack at Leipzig airport, and said:\n\u201cNo provocation, clandestine operation, or destabilization effort could lead France to facilitate Russia\u2019s achievement of its war aims in Ukraine.\u201d\nSource: POLITICO",
+      "text": "BIG: Ukraine announced the first combat use of Fire Point's FP-7 Pelican\u2014 a domestically developed short-range ballistic missile pitched as a cheap ATACMS analog (~200 km range, 150 kg warhead, Mach 4.4, ~14m CEP). \nZelensky named it among weapons used in overnight Moscow-region strikes that hit the Kapotnya refinery. \nHowever, Moscow is far beyond its public 200 km range from Ukrainian lines, so the Pelican likely struck closer targets while long-range drones hit the refinery.\nThe longer-range FP-9 (~855 km) remains in testing.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T19:08:18+00:00",
+      "timestamp": "2026-09-20T08:15:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -532,13 +509,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -561,39 +537,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Anyone planning a trip to Birmingham to watch Birmingham City vs Middlesbrough in the EFL Championship at St Andrews? \nThe cheapest fare one could find was $396. \nBut through this app, Buyhateke, you could within seconds compare prices across multiple platforms and find the same flight for just $113\nYou just saved 260 dollars on your fare!\nAVAILABLE ON APPSTORE , APP LINK JOIN \u2935\ufe0f\u2935\ufe0f\nhttps://t.me/+plvHdFZFvW0xYzdl\nThe site: http://r.buyhatke.com/TGG\n#ad",
+      "publisher": "CASELS",
+      "text": "Network GEOINT- Geolocation of the fires at the Moscow Refinery\nRocket Man\ud83d\ude80\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 (\nPOV 55.642024\u00b0N 37.775009\u00b0E\n https://x.com/Grimm_Intel/status/2101506406906024381/photo/1",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T17:20:12+00:00",
+      "timestamp": "2026-09-20T05:04:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "CASELS"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 BREAKING: Yemen\u2019s Armed Forces say they carried out two large-scale attacks using ballistic and cruise missiles and drones against sensitive targets in Riyadh and Aramco facilities in Yanbu.\nAccording to the statement, both operations were successful and caused major fires at the targeted sites. The group said the attacks were carried out in response to continued Saudi airstrikes and vowed to continue what it described as \u201cblockade for blockade and escalation for escalation\u201d until Saudi military operations and restrictions on Yemen end.",
+      "publisher": "CASELS",
+      "text": "Large-scale drone attack underway in Moscow. Multiple impacts recorded across several sites in the Oblast. The scale of damage is not yet determined. The attack has continued for approximately four hours.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T17:04:03+00:00",
+      "timestamp": "2026-09-20T05:04:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A fire broke out at Russia\u2019s Kapotnya oil refinery following a Ukrainian drone attack on Moscow early on Sunday.\nContributed by",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-20T05:04:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -656,20 +651,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddef\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5 Ukraine\u2019s Defence Intelligence presented a Japanese delegation with components recovered from a North Korean-manufactured ballistic missile.\nThe delegation included Japanese lawmaker Eisuke Mori. Ukrainian intelligence said examining the components provides insight into North Korea\u2019s military-industrial capabilities.\nThe findings are particularly relevant to Japan, given its proximity to North Korea and concerns over Pyongyang\u2019s missile programme.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "Trump\u2019s gas-huffing CENTCOM commander says Hormuz oil shipping is doing just fine\n\u201cThe volume of crude oil, cargo and liquid natural gas these past two weeks is higher than at any point in the past six months,\u201d CENTCOM commander Brad Cooper boasted in a video address Saturday.\n\u201cWe\u2019re also working with every partner in the region, enhancing their air defense, forming a new coalition attack drone unit, and keeping the Strait of Hormuz and surrounding waters open and clear,\u201d Cooper said.\nClaiming Gulf Arab exporters have shipped 1B+ barrels of crude through the strait \u201cin the last couple months\u201d while Iran\u2019s exports hit \u201czero,\u201d the commander assured that \u201cclearly, momentum is building.\u201d\nCENTCOM and the Trump administration\u2019s claims that oil is flooding through Hormuz has run up against the findings of independent maritime intelligence and tracking firms, which haven\u2019t been able to find these magical ghost ships using commercial satellite data and radar tracking.\nUS claims also contradict one another, with CENTCOM\u2019s 1B barrel figure averaging out to over 16.5M bpd, two-thirds more than the administration\u2019s recent ~10M bpd estimate.\nThe administration itself has also been caught fiddling with its figures, with the DoE recently claiming regional exporters have squeezed out an additional 5-7M bpd in export capacity via pipelines (the IEA says available capacity is actually only 3.5-5.5M bpd).\nAnd that was before the attack on Saudi Arabia\u2019s massive East-West pipeline, which, together with [Houthi strikes on Saudi refineries](https://t.me/geopolitics_prime/74781) and transit hubs, crippled virtually the entirety of the kingdom\u2019s 7M bpd export capacity via the Red Sea.\nCooper\u2019s \u201chigher than at any point in the past six months\u201d comment is also just dishonest. Six months ago, the US and Israel were a month into their war of aggression against Iran, with fighting at its zenith, and Hormuz almost totally shut to any traffic. In fact, an uptick in commercial shipping began in late March and early April, following initial conditional ceasefire agreements and permission-based transit for selected countries by Iran.\nLeaving US attempts to massage the raw data aside, the proof that Iran\u2019s Hormuz pressure campaign is working is reflected in prices \u2013 the prices Americans, their allies and people everywhere are [paying at the pump](https://t.me/geopolitics_prime/74760), in the grocery store, for airline tickets, and virtually everything else in the economy that requires energy to create or operate, which is \u2013 well, pretty much everything. Want the pain to stop? Meet Iran\u2019s peace terms.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T00:41:05+00:00",
+      "timestamp": "2026-09-20T07:15:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Russian precision strikes hit military-linked targets across Ukraine\nThe following targets were hit, the Russian Defense Ministry said:\nKiev and Kiev region\n\ud83c\udf0fRadionix radio electronics plant, which manufactures guidance systems for the Flamingo, Neptune, FP-7, and FP-9 missiles\n\ud83c\udf0fBe-Mobile data center, which handles data storage, processing, and transmission \u2014 including intelligence-related data \u2014 and supports network equipment used by the Ukrainian army\n\ud83c\udf0fFire Point warehouse containing drone components and launch boosters\nOdessa region\n\ud83c\udf0f Novaya Pochta logistics center used to store and distribute military cargo\nPort of Odessa\n\ud83c\udf0fCargo ship that had delivered military supplies \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-20T06:12:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Overnight Russian strikes target Kiev and Sumy regions\nGeran drones attacked an industrial facility near Kiev, preliminary reports indicate.\nAlso, footage shows a fire following strikes on targets in Konotop, Sumy region. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-20T05:37:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -724,14 +757,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -780,63 +812,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-19T17:55:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3\ud83e\udd14 Flub or ploy? F-35 parts diverted to China, feared lost\n\u00a0\nChina\u2019s military may have gotten its hands on top-secret F-35 parts after a trans-oceanic shipment from Australia to the US somehow wound up in Hong Kong instead.\nThe sensitive shipment reportedly consisted of unserviceable F-35 parts heading to one of Lockheed Martin\u2019s subcontractors for repairs and refurbishment. The jet\u2019s stealth cockpit canopy was the only component mentioned by name in reports.\nEven if it\u2019s broken or damaged, dissecting the canopy would enable Chinese defense engineers to find out the exact composition of the chemical coatings used in the canopy\u2019s manufacture to improve the jet\u2019s radar absorption capabilities.\nBut if China has intercepted the parts, its engineers should be weary. More than a decade since their adoption into the US military, F-35s continue to have an abysmal mission readiness rate as low as 25%. \nOn top of that, the congressional Government Accountability Office projects that the US will spend over $2.1T \u2013 the equivalent of over six annual Chinese defense budgets combined, [on the F-35 program](https://t.me/geopolitics_prime/71048).\nBesides, China\u2019s indigenous next-gen [jet programs are](https://t.me/geopolitics_prime/72670) already flying circles around their US counterparts in range, speed, payload size and missile reach, and closing the gap on stealth and low-observability performance metrics.\nMaybe the \u2018lost\u2019 F-35 parts were deliberately diverted to Hong Kong to get China to spend themselves into bankruptcy [trying to replicate a](https://t.me/geopolitics_prime/74787) terrible American design. Nice try, Pentagon Petey! \ud83d\ude0f\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T16:01:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 Israel to demand \u2018compensation\u2019 for US F-35 sale to Saudis: Wait, how does that work?\nTel Aviv is reportedly feeling a bit kvetchy over the Pentagon\u2019s plans to sell $24B worth of F-35 jets to Saudi Arabia, and intends to demand \u201c[compensation\u201d from Washington](https://t.me/geopolitics_prime/74726).\nAlthough the deal has yet to be greenlit by Congress, and the Saudis aren\u2019t expected to get their jets for at least another five years even if it\u2019s approved, a source told Israeli media Israel is already drawing up a list of goodies it wants as recompence.\nJPost says Israel could demand \u201cparticipation in the development and production of classified weapons systems,\u201d including \u201cspace-based weapons,\u201d plus more US involvement in Israeli missile interceptor programs, the sale of bunker buster and advanced drone swarm weaponry, or even new US aid in financing the purchase of [additional F-15 and F-35 squadrons](https://t.me/geopolitics_prime/73715).\nThe 19fortyfive defense news website suspects \u201ccompensation\u201d could even take the form of [Boeing\u2019s sixth-gen F-47 fighter](https://t.me/geopolitics_prime/72670) (which at this point remains little more than a PowerPoint presentation).\nIt\u2019s unclear whether the Saudis will even get their $506M apiece jets (5x the price the US military pays). The last time the US promised F-35s to a Gulf nation, the UAE, as a sweetener to join the Abraham Accords, the talks ended up petering out.\n\u00a0\nAlso, let\u2019s get this straight: the US, ostensibly a sovereign nation, sells its defense hardware to another country, and a third country can just come in and demand free stuff?\nYep, it\u2019s exactly how it works. US lawmakers codified the concept of Israel\u2019s \u2018qualitative military edge\u2019 into law in 2008. The law demands that however many hundreds of billions of dollars the Arab oil sheikdoms pour into the US economy and its MIC, Israel, which gets many of its US weapons for free, always takes first priority.\nAs for the Saudis\u2019 F-35s, who knows, maybe five years from now they won\u2019t need them, with the House of Saud toppled and replaced with a Houthi-aligned revolutionary state calling itself the United Arab Republic of Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T13:08:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "This little yellow submarine could help ensure Houthi dominance over their new Bab al-Mandab possessions\n\u00a0\nAnsar Allah\u2019s speedboat island-hopping campaign has left them in total control over the narrow maritime chokepoint separating the Red Sea and the Gulf of Aden (and by extension, Europe and Asia).\n\u00a0\nHolding on to these areas may prove difficult if the Saudis or their Epstein Coalition allies try to assault the mostly barren, volcanic [rock formations](https://t.me/geopolitics_prime/74718) \u2013 which provide virtually no natural cover.\n\u00a0\nBut the Houthis have a secret weapon \u2013 the Al Qariah (lit. \u2018Striking Calamity\u2019) \u2013 a ~5.5M unmanned underwater loitering munition packed with up to 300 kg of explosives \u2013 enough to disable or even sink ships as large as a US missile destroyer or mega tanker.\n\u00a0\nThe Al-Qariah made its public debut in late 2024, when the Houthis showed off its ability to target moving mock enemy warships.\n\u00a0\nThe weapon bears superficial resemblance to the US Navy\u2019s REMUS 600 surveillance and seafloor mapping drone, which Houthi combat divers captured intact off their coast in 2018, (the US Navy insisted it was performing an innocent \u201cmeteorological study\u201d \u2026in the middle of a warzone).\n\u00a0\nBut while Al-Qariah has a similar general shape and black-and-yellow bee-style color scheme, that\u2019s where the similarities end \u2013 with the Yemeni system featuring a different propeller configuration, control fins, nose cone, communications mast and electronic brain.\n\u00a0\nThe autonomous torpedo\u2019s range has not been publicized. Analysts suspect the system is guided primarily by inertial navigation using pre-programmed coordinates, with optical cameras linked to a retractable RF transmitter mast allowing terminal phase course corrections.\n\u00a0\nTerminal phase control may extend 10-30km, or 100km+ if it\u2019s protracted via a nearby airborne data relay drone. The Houthis could even create a physical, fiberoptic wire-guided variant (which would make it jam-proof, but reduce firing range to 10-20km).\n\u00a0\nAll this means that even if the Houthis\u2019 enemies launched coordinated air, naval and amphibious assault operations to seize their islands, they may face a slog unlike anything the US Navy has experienced in its modern history trying to hold them.\n\u00a0\nAt a minimum, the fighters\u2019 \u2018Striking Calamity\u2019 drone threatens to turn Bab al-Mandab into a literal \u2018Gate of Tears\u2019 for its enemies. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T12:16:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
