@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T21:47:46.502942+00:00",
+  "generated_at": "2026-09-20T00:01:21.548030+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -41,7 +41,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -60,7 +60,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -326,33 +326,13 @@
     },
     {
       "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "text": "Houthis say they targeted Saudi capital with ballistic missiles\nA reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as conflict between Saudi Arabia and the Yemen-based group continues.",
+      "text": "Houthis say they targeted Saudi capital with ballistic missiles\nA reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-19T20:16:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents",
-      "text": "A four-minute warning isn't enough: Russia's new relentless missile tactics exhaust Kyiv residents\nIncreasingly frequent and ferocious attacks on the Ukrainian capital have left many on edge.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-18T23:03:38+00:00",
+      "timestamp": "2026-09-19T23:49:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -366,50 +346,32 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfe\ud83c\uddea BREAKING: All U.S. embassies in the Middle East have issued security alerts for their citizens, including Lebanon, Israel, Jordan, Iraq, UAE, Saudi Arabia, Bahrain, Qatar, Kuwait, and Oman\nPresident Trump is urgently departing from Camp David to the White House, arriving tonight instead of tomorrow.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T23:22:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Footage from Riyadh International Airport this morning shows direct impacts from Yemeni ballistic missiles",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-19T12:09:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "In my opinion, the target of the Ansarallah ballistic missile attack on Riyadh was likely King Salman Airbase, just south of Riyadh. \nIf the target was Prince Sultan Airbase, there likely wouldn't have been any early warning alerts for Riyadh, as it is located 80 km from the city. Early warning alerts typically weren't triggered for Riyadh when Prince Sultan Airbase was attacked by Iran earlier this year.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T00:31:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Yemeni ballistic missiles above Riyadh\nLikely targeting Prince Sultan Air Base, which also hosts U.S. troops.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T00:11:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -539,6 +501,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 The US Embassy in Jerusalem has issued a security warning for American citizens in Israel.\nThe warning states that escalating tensions in the Middle East could lead to flight disruptions, airspace closures, and the introduction of restrictions or changes that may affect passenger travel.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T22:09:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "Anyone planning a trip to Birmingham to watch Birmingham City vs Middlesbrough in the EFL Championship at St Andrews? \nThe cheapest fare one could find was $396. \nBut through this app, Buyhateke, you could within seconds compare prices across multiple platforms and find the same flight for just $113\nYou just saved 260 dollars on your fare!\nAVAILABLE ON APPSTORE , APP LINK JOIN \u2935\ufe0f\u2935\ufe0f\nhttps://t.me/+plvHdFZFvW0xYzdl\nThe site: http://r.buyhatke.com/TGG\n#ad",
       "source": "Telegram",
       "source_type": "telegram",
@@ -567,127 +548,203 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine\u2019s Spartan Brigade destroyed a Russian Osa air-defense system in occupied Donetsk region, about 40 km from Volnovakha. The strike was carried out by drone operators from the Black Sky Unmanned Systems Battalion.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-20T00:00:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Drone operators from Ukraine\u2019s 41st Separate Mechanized Brigade located a Russian self-propelled artillery system and disabled it with a precision strike.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-20T00:00:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Alias More surrenders in Antioquia and describes drone use and desertions inside Clan del Golfo\nFaced with intense operations by the Public Force in Antioquia, alias More turned himself in to the National Army along with three other Clan del Golfo fighters.\nOnce in custody, the former combatant described the group\u2019s operations in the region and said the surrender was planned with other members because of the Army\u2019s heavy presence in the area. He also spoke about the use of drones and growing desertion within the organization.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T23:58:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Right now Ukrainian UAVs are attacking a whole string of Russian regions, with a group of drones heading toward Moscow.\nIf our translations help you stay informed, consider supporting the project.\nIt keeps WarTranslated independent and active every day.\n\ud83e\ude75 Patreon: patreon.com/c/WarTranslated\n\u2615\ufe0f BuyMeACoffee: buymeacoffee.com/wartranslated",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T23:57:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Zelensky says the SBU used a new Ukrainian interceptor drone for the second time today, hitting a Russian jet Geran-5. Industrial-scale results are expected closer to mid-November, with early air defense use starting in Sumy and Chernihiv regions.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T23:57:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine\u2019s HUR strike drone unit found a Russian fuel and ammo depot in Zaporizhzhia region, then on the next sortie epically destroyed the building and its stockpiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T23:57:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Moldova\u2019s border service says multiple drones violated the country\u2019s airspace overnight, at least three. It also says a drone crashed in the morning about 1.5 to 2 km from the Ukraine\u2013Moldova border near the Ukrainian village of Troitske.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T23:57:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Zelensky says SBU military counterintelligence has created and already used a new interceptor drone against jet Shaheds. A video shows a Geran-5 shootdown, the fastest Shahed type at about 600 km/h.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T23:56:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Zelensky adviser Flash says Russia is trying to guide Shahed drones without satellite navigation so EW can\u2019t jam them. One option is ground radio beacons, a drone can fix its location from signals of several points without GPS.\nHe says Russia started working on the idea in 2022 and publicly described its Ariadna beacon navigation system in Dec 2025. He says the project was not shut down and keeps being developed.\nFlash says Russia is considering Ariadna for Shaheds and KABs. He says it would let them navigate deep inside Ukraine without GPS and despite EW, up to 100 km from the beacons. He adds Ukraine already uses this on recon UAVs.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T23:55:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 US embassies issue security alert across the Middle East\nThe US State Department has issued security and STEP alerts to American citizens across the Middle East, warning of heightened risks amid ongoing regional tensions. The affected countries are Israel, Iraq, Oman, Kuwait, Jordan, Lebanon, and Bahrain.\nAmericans currently in the region should exercise heightened vigilance and be aware of potential flight cancellations, airspace closures, and travel disruptions.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-19T23:39:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News",
-        "Mediterranean Man"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The Homeland Shield Forces released footage of a downed Houthi Rajoum drone in Jawf, Yemen, which they managed to shoot down.\n[",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T07:43:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukraine\u2019s Air Force says it shot down 141 Russian drones across the country overnight.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T07:30:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine says air defenses downed or suppressed 141 targets overnight as Russia launched two Zircon missiles and 174 drones, around half of them jet-powered Shaheds. Odesa and Kyiv regions were the main targets. Strikes were recorded at 15 locations, while the missiles missed their targets.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T07:29:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Iran has executed a man it accused of passing information about missile sites in Isfahan to Israel's Mossad - IRIB",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T07:29:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 The U.S. Department of State approved a possible $2.68 billion Foreign Military Sale to Ukraine for air defense development upgrades.\nThe package includes S-300 Clone missiles, GAM-67 missiles, Range-Extended Air Defense Laser Guided Rocket systems, and counter-drone radars, along with related equipment, training, and logistics support.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T06:23:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa The IAEA said it was informed that the cooling tower of a reactor unit at Russia Kursk Nuclear Power Plant was hit by a drone early Thursday, with the unit reportedly operating at the time, though its operating mode did not change and there was no fire.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T06:18:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -831,25 +888,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-19T09:02:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Even Trump\u2019s pocket propaganda network can\u2019t keep a straight face talking about \u2018new UFO files\u2019\n\u00a0\nThe administration is doing its darndest to [attract attention to little green men](https://t.me/geopolitics_prime/74434) from outer space as Iran continues to thrash the US military and the economy shows signs that it\u2019s on the brink of a monumental disaster.\n\u00a0A Fox News segment on the latest file release features a film from a 1952 sighting in Utah of what looks like a UFO drone swarm, modern footage of mystery \u2018orbs\u2019 hovering over a military installation in Colorado, and a tight formation UFO flight somewhere over the Middle East last year.\n\u00a0\nThe files also include a $22M expense report on a DIA probe into \u2018Skinwalker Ranch\u2019 \u2013 a 512-acre property in northeast Utah that\u2019s become famous over the decades for UFO sightings, strange creature encounters and paranormal activity. The DIA report itself is nowhere to be found.\n\u00a0\nThe content of the release aside, check out the faces of the Fox & Friends pundits covering the story. Not one of them can keep a straight face, and correspondent Peter Doocy can be seen sporting a smug grin on his face through virtually the entirety of the three-minute segment.\n\u00a0\nIf we had to guess his inner monologue, it would probably be something like \u2018yes, here\u2019s another dose of bread and circuses slop for you plebes as your politicians and oligarchs [build doomsday bunkers](https://t.me/geopolitics_prime/73628), continue to rob you blind, corrupt your society and nudge the planet closer and closer to WWIII.\u2019 \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T06:12:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
