@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T00:01:21.548030+00:00",
+  "generated_at": "2026-09-20T04:57:24.876695+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -41,7 +41,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -60,7 +60,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -336,12 +336,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News"
+        "BBC World News",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -355,13 +356,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Clash Report",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -379,6 +381,46 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: U.S. embassies across the Middle East issued coordinated security alerts today.\nEvent: Due to tensions in the Middle East, the security environment remains complex with the potential for unforeseen escalation.\nAmericans currently in the Middle East should exercise heightened vigilance and be aware of potential flight cancellations, airspace closures, and travel disruptions.\n\ud83c\uddee\ud83c\uddf7 Iran \u2013 Do Not Travel; leave now\n\ud83c\uddee\ud83c\uddf6 Iraq \u2013 Do Not Travel\n\ud83c\uddf1\ud83c\udde7 Lebanon \u2013 Do Not Travel\n\ud83c\uddf8\ud83c\uddfe Syria \u2013 Do Not Travel\n\ud83c\uddfe\ud83c\uddea Yemen \u2013 Do Not Travel\n\ud83c\uddf5\ud83c\uddf8 Gaza \u2013 Do Not Travel\n\ud83c\uddf8\ud83c\udde6 Saudi Arabia \u2013 Reconsider Travel\n\ud83c\udde7\ud83c\udded Bahrain \u2013 alert issued\n\ud83c\uddf4\ud83c\uddf2 Oman \u2013 alert issued\n\ud83c\uddf6\ud83c\udde6 Qatar \u2013 alert issued\n\ud83c\uddf0\ud83c\uddfc Kuwait \u2013 alert issued\n\ud83c\uddef\ud83c\uddf4 Jordan \u2013 alert issued",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-20T01:40:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "INTERESTING: Trump left Camp David a day early Saturday night with no explanation. \nThe likeliest reason is the Iran situation.\nTehran sent seven conditions via Qatar and threatened \"decisive war\" if rejected, while U.S. embassies across the Middle East issued security warnings the same day.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-20T01:24:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -462,6 +504,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7 \u2014 Possible cruise missile launch from southern Iran toward the Strait of Hormuz.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-20T00:17:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf1\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa \u2014 Polish Defense Minister W\u0142adys\u0142aw Kosiniak-Kamysz:\nMissiles are falling, drones are falling one kilometer from the Polish border.\nIf Ukraine does not have air defense systems, if it does not have ammunition to shoot down these drones, most of these drones will fly through Ukraine and reach Poland.\nThe state interest is supporting a Ukraine that is fighting, so that missiles are intercepted there and do not reach Poland.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
@@ -478,25 +539,6 @@
         "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah has published an infographic about their recent operation against Saudi Arabia by targeting capital Riyadh and ARAMCO facility at Yanbu with missile and drone barrage \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T19:21:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -558,12 +600,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine\u2019s Spartan Brigade destroyed a Russian Osa air-defense system in occupied Donetsk region, about 40 km from Volnovakha. The strike was carried out by drone operators from the Black Sky Unmanned Systems Battalion.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Footage showcasing the aftermath in Boyaraka, Ukraine following a Russian drone strike.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T00:00:24+00:00",
+      "timestamp": "2026-09-20T00:52:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -577,12 +619,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Drone operators from Ukraine\u2019s 41st Separate Mechanized Brigade located a Russian self-propelled artillery system and disabled it with a precision strike.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa A residential building is on fire in Boyarka, Ukraine following a Russian drone attack.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T00:00:04+00:00",
+      "timestamp": "2026-09-20T00:51:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -596,12 +638,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Alias More surrenders in Antioquia and describes drone use and desertions inside Clan del Golfo\nFaced with intense operations by the Public Force in Antioquia, alias More turned himself in to the National Army along with three other Clan del Golfo fighters.\nOnce in custody, the former combatant described the group\u2019s operations in the region and said the surrender was planned with other members because of the Army\u2019s heavy presence in the area. He also spoke about the use of drones and growing desertion within the organization.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 U.S. Central Command commander Admiral Brad Cooper has said CENTCOM forces have supported more than 1 billion barrels of crude oil leaving the Gulf through the Strait of Hormuz in the past two months, while assisting over 2,000 commercial ship transits with coordinated protection.\nPrimary transit lanes are clear of mines, and Iran has exported zero barrels thanks to the US blockade, Cooper claimed. \nHe added that the volume of crude, cargo and liquefied natural gas in the past two weeks is higher than at any point in the past six months.\nHe added that CENTCOM is forming a new coalition attack drone unit.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T23:58:34+00:00",
+      "timestamp": "2026-09-20T00:46:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -615,12 +657,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Right now Ukrainian UAVs are attacking a whole string of Russian regions, with a group of drones heading toward Moscow.\nIf our translations help you stay informed, consider supporting the project.\nIt keeps WarTranslated independent and active every day.\n\ud83e\ude75 Patreon: patreon.com/c/WarTranslated\n\u2615\ufe0f BuyMeACoffee: buymeacoffee.com/wartranslated",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddef\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5 Ukraine\u2019s Defence Intelligence presented a Japanese delegation with components recovered from a North Korean-manufactured ballistic missile.\nThe delegation included Japanese lawmaker Eisuke Mori. Ukrainian intelligence said examining the components provides insight into North Korea\u2019s military-industrial capabilities.\nThe findings are particularly relevant to Japan, given its proximity to North Korea and concerns over Pyongyang\u2019s missile programme.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T23:57:40+00:00",
+      "timestamp": "2026-09-20T00:41:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -633,96 +675,40 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Zelensky says the SBU used a new Ukrainian interceptor drone for the second time today, hitting a Russian jet Geran-5. Industrial-scale results are expected closer to mid-November, with early air defense use starting in Sumy and Chernihiv regions.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Trump mulls strikes on Houthis after Riyadh attack \u2014 report\nIndications are growing that the US is preparing to open a new front against the Houthis in Yemen, after a ballistic missile was fired at the Saudi capital.\nPresident Trump returned to the White House early from Camp David, cancelling all scheduled events \u2014 with CNN reporting his meeting at the retreat focused on deliberating Yemen strike options.\n\ud83c\udf0f US embassies across the Middle East \u2014 Israel, Iraq, Oman, Kuwait, Jordan, Lebanon, and Bahrain \u2014 issued security alerts.\n\ud83c\udf0f In recent days, Houthi strikes have hit Jeddah, Yanbu, Abha, Jazan, and the East-West pipeline, simultaneously gaining control over the Yemen's entire Red Sea coast and the Bab el-Mandeb strait.\n\ud83c\udf0f The US can't supply its own allies \u2014 Patriot stocks are down from ~3,100 to ~800, and the Pentagon has warned of five-year weapons delays.\nThe US struck a ceasefire with the Houthis last year after bombing them for 2 months. Under its terms, the Houthis halted attacks on American vessels \u2014 and the US agreed to stay out of the Yemen conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T23:57:29+00:00",
+      "timestamp": "2026-09-20T04:38:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "BBC World News",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine\u2019s HUR strike drone unit found a Russian fuel and ammo depot in Zaporizhzhia region, then on the next sortie epically destroyed the building and its stockpiles.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Air defenses activated at Kharab Al-Jir base in northeastern Syria\nAir defenses were activated at Kharab Al-Jir base in northeastern Syria, close to the Iraqi border, according to reports.\nThe cause is currently unknown.\nThe base is located in a strategically sensitive area \u2014 near the Iraqi frontier and within the broader zone where US forces, Iranian-aligned groups, and Israeli operations have converged in recent months.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T23:57:23+00:00",
+      "timestamp": "2026-09-20T00:43:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Moldova\u2019s border service says multiple drones violated the country\u2019s airspace overnight, at least three. It also says a drone crashed in the morning about 1.5 to 2 km from the Ukraine\u2013Moldova border near the Ukrainian village of Troitske.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T23:57:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Zelensky says SBU military counterintelligence has created and already used a new interceptor drone against jet Shaheds. A video shows a Geran-5 shootdown, the fastest Shahed type at about 600 km/h.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T23:56:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Zelensky adviser Flash says Russia is trying to guide Shahed drones without satellite navigation so EW can\u2019t jam them. One option is ground radio beacons, a drone can fix its location from signals of several points without GPS.\nHe says Russia started working on the idea in 2022 and publicly described its Ariadna beacon navigation system in Dec 2025. He says the project was not shut down and keeps being developed.\nFlash says Russia is considering Ariadna for Shaheds and KABs. He says it would let them navigate deep inside Ukraine without GPS and despite EW, up to 100 km from the beacons. He adds Ukraine already uses this on recon UAVs.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T23:55:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -738,13 +724,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Clash Report",
         "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -850,44 +837,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-19T12:16:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\u2721\ufe0f Trouble in paradise? Trump may not meet genocide buddy Bibi at UN General Assembly\n\u00a0\n\"Scheduling difficulties\" are reportedly to blame for the missed connection between the two leaders, with Netanyahu expected to arrive in New York only after Trump has already left.\nIn fact, Israeli media say the two currently have no plans to meet at all during Netanyahu\u2019s visit to the US September 23-25.\nIt\u2019s unclear why the pair aren\u2019t meeting, since Washington is just an hour-and-a-half flight away. Trump is expected to meet with the leaders of Britain, Mexico, Japan and Venezuela during his time in New York, and with Xi Jinping and his wife on Wednesday and continuing into Friday in Washington.\nInterestingly, Trump is also set to hold meetings with Gulf Cooperation Council leaders on the sidelines of the General Assembly. The GCC earlier announced plans to hold a summit with Iran, although it has been postponed thanks to a boycott by Bahrain.\n\ud83d\udc79 Whether it\u2019s Netanyahu not wanting to play second fiddle, or the war crimes power couple\u2019s latest private hissy fit, it doesn\u2019t seem like it will have much of [an impact on policy](https://t.me/geopolitics_prime/73507). This week, the White House approved another $2.8B in [weapons to Israel ](https://t.me/geopolitics_prime/74656)-including 100k more heavy bombs and warheads. Privately, however, perhaps Trump is getting tired of the Chabad noose around his neck.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T10:13:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Delayed Taiwan weapons sales are damaging Anduril, CEO Luckey says\nTrump\u2019s delay in approving a $14 billion arms package for Taiwan is affecting Anduril\u2019s business, Palmer Luckey, founder of US defense tech firm Anduril, said on Saturday, as quoted by Reuters.\nThe package has been held up for months. After meeting China\u2019s Xi Jinping in May, Trump described it as a \u201cvery good negotiating chip.\u201d \nLuckey, who has reportedly spoken with Trump, JD Vance and Marco Rubio about the issue, said the administration is weighing the potential fallout \u2014 including China\u2019s leverage over rare earths. \nHe called Trump\u2019s position \u201ca really difficult situation.\u201d\nAnduril\u2019s Altius drones are already in use by Taiwan, and the two sides are jointly producing the Barracuda-500 cruise missile. \nChina has sanctioned Luckey for selling weapons to the island it considers an inseparable part of its territory. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-19T09:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
