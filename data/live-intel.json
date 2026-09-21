@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T05:01:24.313428+00:00",
+  "generated_at": "2026-09-21T10:46:55.010284+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -60,7 +60,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -79,7 +79,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -306,6 +306,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
+      "text": "Houthis say they targeted Saudi capital with ballistic missiles\nA reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-19T23:49:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
       "text": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says\nMoscow's mayor says 450 drones were downed during the overnight barrage, in which two people died.",
       "source": "BBC",
@@ -333,25 +352,6 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-09-20T16:36:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "text": "Houthis say they targeted Saudi capital with ballistic missiles\nA reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-19T23:49:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -403,12 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A Florida fishing charter hauled a Shahed-136 clone drone out of the Gulf of Mexico near Eglin Air Force Base.\nEglin confirmed it lost a drone during testing but wouldn't confirm it was the same one.\nThe recovered drone matches the FLM-136/LUCAS \u2014 America's own reverse-engineered copy of Iran's Shahed-136, which costs ~$35K per unit and saw first combat use striking Iran.\nIt was missing its engine, propeller, and nose cone from the water impact.\n[SOURCE](https://www.twz.com/air/shahed-136-clone-found-by-florida-fisherman-eglin-afb-admits-it-lost-a-drone)",
+      "text": "Russia has shifted from ballistic missiles to jet-powered drones, raising concerns it may be stockpiling missiles for winter strikes on Ukraine\u2019s energy infrastructure.\nPrime Minister Sergii Koretskyi said the government is planning for the worst and expanding \u201cinvincibility points\u201d where people can warm up, charge devices and receive hot meals.\nZelensky said Ukraine needs at least 300 Patriot interceptors for winter, while many Ukrainians are stocking up on firewood, buying backup equipment or relocating.\nSource: Bloomberg",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T20:13:50+00:00",
+      "timestamp": "2026-09-21T09:09:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -437,6 +437,26 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 NEW: Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) says it shot down a U.S. Air Force MQ-1 drone over the Strait of Hormuz.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T05:50:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -478,41 +498,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf6\u274c\ud83c\uddee\ud83c\uddf7 \u2014 EXCLUSIVE Source: The Iraqi government has reportedly decided to cancel and suspend all flights to and from Iran from all Iraqi airports, effective next Tuesday.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T17:19:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "Yes, Mr Hegseth, send me, send me to give Iran another downed MQ-9 drone",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 This morning the IRGC shot down another American MQ-1 drone over the Strait of Hormuz.\nIt\u2019s a slow news day. Nothing much is happening. Go play outside.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T19:22:49+00:00",
+      "timestamp": "2026-09-21T10:11:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -612,12 +614,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf6 Iraqi PMF foils ISIS infiltration attempt near Lake Tharthar\nThe Popular Mobilization Forces have thwarted an infiltration attempt by ISIS elements in the Lake Tharthar area, east of Anbar province \u2014 targeting a PMF position.\nForces seized a boat, weapons, and food supplies \u2014 the remaining militants fled after suffering losses.\n\ud83d\udccc The same area was targeted by an attack on electricity towers just days ago, local media reported.\nThe Tharthar basin has long served as an ISIS hiding ground and transit corridor between Anbar and Salaheddin provinces. The foiled infiltration \u2014 and the recovery of a boat \u2014 suggests the group is attempting to re-establish movement routes through the lake's marshes and islands.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "Turkey itching to relive Ottoman Empire\u2019s crushing defeat to Yemeni tribesmen\n\u201cThere may be military needs, particularly in certain technical areas, and we would have no problem meeting them,\u201d Turkish foreign minister Hakan Fidan said in an interview after being asked whether the Houthis\u2019 retaliatory strikes on Saudi Arabia were sufficient to activate the new [Mecca Pact alliance](https://t.me/geopolitics_prime/73259?single).\n\u201cWe see very serious attacks against Saudi Arabia\u2019s territorial integrity and sovereignty,\u201d Fidan said, vowing that Turkey would \u201cstand by our word\u201d on its commitments to the alliance.\nBesides military-technical support, Turkey is reportedly also mulling entry into a Saudi-led naval force in the Red Sea, Bab al-Mandab Strait and the Gulf of Aden \u2013 all areas where the Houthis have solidified their control over the past week.\n\u00a0\nD\u00e9j\u00e0 vu?\n\u00a0\nTurkey\u2019s military capabilities are nothing to sneeze at, with its forces deployed to Turkish Kurdistan, northern Iraq, Azerbaijan, Syria and Libya over the past decade to fight insurgencies or support Ankara-backed proxy forces, and its military hardware used in conflicts stretching from Karabakh to Ukraine.\nBut Yemen is another story. In nearly 400 years, Turkish Ottoman forces never managed to subdue the northern highland regions of Yemen \u2013 home of Zaydi Shia Islam and today, the Houthi movement. So fierce is Yemen\u2019s historical reputation for thrashing its enemies that it became known as the \u201cgraveyard of Ottoman soldiers\u201d due to the amount of troops lost trying to keep the empire\u2019s grip on the region.\nFirst occupied in 1538 as the Ottomans moved to secure Red Sea trade routes won from the Portuguese, Constantinople never succeeded in taming the Zaydi imams, who retreated to impregnable mountain fortresses, and waged nearly a century of warfare before totally expelling the Ottomans from Yemen in 1635.\nWhen the Ottomans returned in the 1870s, the occupation proved even more disastrous, with their forces suffering up to tens of thousands of casualties each year at the hands of Zaydi tribesmen. In 1911, the empire essentially conceded defeat, exiting the region completely after 1918. The British, who had set up a protectorate in Aden in the 1800s, wisely decided not to try to conquer northern Yemen once the Ottomans left, leaving Yemen as the first modern Arab nation to achieve full, uncompromising independence in the 20th century. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T02:25:10+00:00",
+      "timestamp": "2026-09-21T10:19:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,12 +633,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude31 Trump furious as control slips \u2014 report\nPresident Trump is increasingly frustrated by political and legal setbacks and believes too few allies are publicly defending his record, according to the Wall Street Journal.\nHis frustrations intensified after he was shown negative television coverage of his own administration \u2014 hours later, he banned MS NOW, CNN, and Politico from the White House.\nWhat's driving the anger:\n\ud83d\udd34 Falling approval ratings and concerns about Republican performance in the midterms\n\ud83d\udd34 Voter frustration over the Iran war and higher energy prices\n\ud83d\udd34 Complaints that prominent figures haven't thanked him for his attempted overhaul of the Kennedy Center\n\ud83d\udd34 A perception that allies aren't defending his second-term record publicly\nHis administration has been hunting for foreign-policy victories to tout before the November midterms \u2014 and the past few weeks show the pattern clearly:\n\ud83d\udd36 A Greenland deal granting [permanent US security control,](https://t.me/geopolitics_prime/74808) with a military deployment to follow \u2014 more a political stunt than a real strategic change\n\ud83d\udd36 Repeated claims of a destroyed Iran \u2014 while Iran's blockade still holds, the strait stays shut, and [Iran sets terms for talks](https://t.me/geopolitics_prime/74836)\n\ud83d\udd36 Growing anxiety over the Houthi advance \u2014 Trump [cut short his Camp David stay](https://t.me/geopolitics_prime/74837) to seek ways to support a Saudi ally that's losing the war\nNothing is stopping the situation from growing more desperate for the Trump administration and his party. As fuel prices hit record highs and the image of US military power weakens abroad, the president's approval ratings follow the same trend. The spiral is tightening \u2014 and he knows it.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "China takes aim at US and Japanese aircraft \u2014 mockups for now\nThe imitations include American F-35 and F-16 jets, as well as Patriot air defense systems and an E-767 early warning and control plane used by Japan, Views From Above outlet reports.\nThe site intended to host them was built last year, and such practice is not new for China \u2014 it has already built similar imitations of US warships as missile targets, though the new mockups do not appear damaged yet.\nBeyond target practice, this method can be used for tuning satellite or missile sensors and training ground forces, with China even building rail systems to make the mockups move like real military equipment. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T00:51:01+00:00",
+      "timestamp": "2026-09-21T09:28:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,12 +652,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Iran shoots down Israeli drone over Strait of Hormuz\nIran's Armed Forces are at a high state of alert after air defenses shot down an advanced Orbiter reconnaissance drone over the Strait of Hormuz.\nIranian media released images of the remains of the downed aircraft.\nThe Orbiter is an advanced Israeli-made reconnaissance platform \u2014 its loss over the strait is a significant intelligence blow.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "Insider trader extraordinaire Trump has now traded more stocks than all of Congress combined\nMAGA rightfully called out the Bidens\u2019 [pay-to-play corruption schemes](https://t.me/geopolitics_prime/61996) and congressional leaders\u2019 crooked insider trading activities while in opposition. But it turns out they were just frustrated \u2018their guy\u2019 wasn\u2019t getting his slice.\nA new analysis by US business media of official financial disclosure documents shows Trump has now made ~28.7k trades \u2013 equivalent to one trade every 4.9 minutes during the hours that markets operate.\nAll of Congress put together (535 total members) made \u2018just\u2019 22.2k stock and securities transactions over the same period \u2013 19.4k by members of the House and 2.9k by senators.\nTrump\u2019s current wealth, estimated at $6.9-7B, has seen a jump of up to $2.7B over the past year-and-a-half, forged through shady cryptocurrency schemes, and now stocks.\n\u201cThat is a huge problem,\u201d Richard Painter, a former White House ethics lawyer under George W. Bush of all people, told Fortune. \u201cI\u2019ve gone through every president. I don\u2019t think we\u2019ve had any president trade in the stock market.\u201d\nTrump is using a loophole in the US Criminal Code, which threatens severe criminal penalties for anyone but himself and the vice president who\u2019s caught holding assets which may be impacted by decisions in his capacity in government.\nThe issue is obvious, Painter says. \u201cIf the president owns a bunch of oil company stocks, he\u2019s making money if the [price of oil goes up](https://t.me/geopolitics_prime/74760). So if he bombs Iran and the price of oil goes up and he owns oil company stocks, he\u2019s making money, and the rest of us are paying for $6 gas.\u201d\nThe ultimate irony? This summer, Trump heartily endorsed a House bill to bar Congress from \u201ccorruptly profit[ing] from using insider information.\u201d\nThe bill ultimately got stalled in the Senate, and given Trump\u2019s actions, it\u2019s little wonder why. His stock trading is literally the definition of the phrase \u201crules for thee, but not for me.\u201d \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T00:06:01+00:00",
+      "timestamp": "2026-09-21T07:41:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -669,12 +671,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Saudi Arabia resumes shelling and airstrikes on northern Yemen \u2014 4 killed\nSaudi artillery and warplanes have resumed targeting populated areas in northern Yemen, according to Houthi-run Al-Masirah TV, with strikes hitting border districts and telecommunications infrastructure.\n\ud83d\udd34 Sa'adah \u2014 Saudi artillery shelling targeted several villages in the border district of Al-Dhahir, with dozens of missiles and shells hitting the districts of Al-Dhahir and Haydan\n\ud83d\udd34 Al-Jawf \u2014 Saudi warplanes launched two airstrikes on the Al-Matoun complex, striking telecommunications towers along Yemen's northern border\n\ud83d\udd34 Four workers killed, three injured in the strikes on telecom facilities, per Al-Masirah\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7Iran vows to unleash \u2018astonishing\u2019 new weapons in next aggression against it \nAny renewed confrontation with the US would unfold on a radically different battlefield, IRGC spokesman Brig. Gen. Hossein Mohebbi has told local media.\nMohebbi stated that the war against Iran is unfolding in successive stages, and the IRGC has prepared for a prolonged conflict.\nShould fighting resume, the geography of the war would change, along with the weapons and targets involved, he underscored.\n\u201cWe will bring new weapons with new capabilities into the battlefield, and the world will be astonished,\u201d Mohebbi said. \nFuture targets, he added, would also differ from those struck previously.\n\u201cOur targets are also no longer necessarily the same [as the] previous targets. We have new targets that have not yet been struck,\u201d added the spokesman. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T23:19:01+00:00",
+      "timestamp": "2026-09-21T07:00:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Israel has now attacked Syria over a thousand times since Assad\u2019s fall\n\u00a0\nThe so-called Syrian Observatory for Human Rights \u2013 an England-based non-profit which spent over a decade pushing for Assad\u2019s ouster and supporting rebels in the Syrian dirty war, has tallied some 1,068 IDF \u201cincursions\u201d into Syria since the old government disintegrated 21 months ago.\nThe figures, documenting the construction of Israeli fortifications and outposts, the clearing of land, harassment, searches and arrests of local residents, etc., recorded 15 such incidents in December 2024, 460 in 2025, and a whopping 594 so far in 2026 \u2013 nearly a 30% increase in 3/4 of the time.\nThe SOHR also recorded 78 Israeli strikes inside Syrian territory this year, 72 comprised of ground assaults, plus six airstrikes. This includes the August 18 bombardment of the runway at Abu al-Duhur Airbase in Idlib, ostensibly during or shortly after a Turkish military delegation\u2019s visit.\nThe escalation of Israeli attacks comes despite Sharaa\u2019s best [efforts to ink a peace deal](https://t.me/geopolitics_prime/74044) with Tel Aviv, diplomatic contacts between his regime and the Mossad, and the US and Europe\u2019s lifting of crushing sanctions against Damascus.\nToday, Israel enjoys total military supremacy in and over Syria, destroying the country\u2019s extensive air defenses, air force, navy and long-range ballistic and cruise missile capabilities in the weeks immediately after December 2024, and seizing ~350 sq. km of Syrian territory beyond the occupied Golan \u2013 including Mount Hermon, which is within artillery striking range of Damascus.\n[Israel\u2019s attacks on Syria](https://t.me/geopolitics_prime/67651) aren\u2019t new. Outgoing IDF chief of staff Gadi Eisenkot boasted in 2019 that his forces had struck \u201cthousands of targets\u201d in Syria during his tenure. The difference is, back then Syria was at least able to fight back.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T06:15:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
