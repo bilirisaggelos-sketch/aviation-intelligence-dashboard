@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:56:32.548957+00:00",
+  "generated_at": "2026-09-21T20:57:35.091852+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -11,25 +11,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/20/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nTraverse City, MI, Saturday, September 19, 2026 through Monday, September 21, 2026 Local\nFacility: ZMP",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/19/2026",
-      "location": "ZMP MI",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -211,6 +192,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1126\r\nIssue Time: 2026 Sep 21 1832 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 22: None (Below G1) Sep 23: None (Below G1) Sep 24: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-21 18:32:26.023",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5418\r\nIssue Time: 2026 Sep 16 0538 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5417\nValid From: 2026 Sep 15 1849 UTC\nNow Valid Until: 2026 Sep 16 1800 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -287,21 +287,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WATA20\r",
-      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1125\r\nIssue Time: 2026 Sep 15 1737 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 16: G1 (Minor) Sep 17: G1 (Minor) Sep 18: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf6 NEW: Iraq has caved to U.S. pressure and will ban newly sanctioned Iranian airlines from landing or taking off in Iraq, starting tomorrow \u2013 AFP",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-15 17:37:51.220",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T17:35:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -317,13 +317,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -337,14 +336,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -396,89 +393,10 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "Doesn\u2019t look like an enemy drone to me (why would it have its lights on?)\nBut still good to keep in mind.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T19:32:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "An enemy reconnaissance drone was spotted over an IRGC missile site in Kermanshah\n\u06cc\u06a9\u06cc \u0627\u0632 \u067e\u0647\u067e\u0627\u062f\u0647\u0627\u06cc \u0634\u0646\u0627\u0633\u0627\u06cc\u06cc \u0645\u062a\u062e\u0627\u0635\u0645 \u0628\u0627\u0644\u0627\u06cc \u0632\u0627\u063a\u0647 \u0648 \u0633\u0627\u06cc\u062a \u0645\u0648\u0634\u06a9\u06cc \u0633\u067e\u0627\u0647 \u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647\nJoin us |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T19:32:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Satellite imagery shows at least 25 US tankers now at Al Udeid Air Base in Qatar, the largest tanker presence since the Iran war began in February. \nThey were withdrawn early in the conflict due to Iranian missile threats and only started returning around June. \nAircraft are parked in dispersed patterns (unlike the dense parking at Prince Sultan in Saudi Arabia), reflecting ongoing caution about Iranian strikes.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T15:42:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A Ukrainian drone attack on September 20 halted crude processing at Moscow\u2019s major Gazprom Neft refinery after fires damaged both primary crude distillation units.\nSources told Reuters repairs could take several weeks. \nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T15:36:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -498,6 +416,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Iraqi Prime Minister Ali al-Zaidi told The New York Times:\nThe process of restricting weapons will begin with a 90-day period during which armed factions will not carry out attacks and will not be targeted by U.S. forces.\nArmed groups will be considered operating outside the law if they continue their activities after the deadline expires.\nThe groups will begin handing over their weapons, with the process expected to be completed by June 30, 2027.\nIraq has lost 60% of its monthly oil revenues due to the war.\nIran did not allow Iraqi oil tankers to pass through the Strait of Hormuz, with the aim, according to al-Zaidi, of raising global oil prices.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T20:45:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 Currently Russia is attacking Ukraine with missile and drone barrages \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T20:39:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -599,33 +555,31 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\udde8\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 No \"grand deal\" should be expected from the upcoming White House summit between Chinese President Xi Jinping and US President Donald Trump, US Trade Representative Jamieson Greer said.\n\"There is no giant grand bargain to be had between China and the United States. Our economies are too different.\nOur political systems are too different,\" Greer said live on Fox News.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T19:23:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 This morning the IRGC shot down another American MQ-1 drone over the Strait of Hormuz.\nIt\u2019s a slow news day. Nothing much is happening. Go play outside.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-21T10:11:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Yes, Mr Hegseth, send me, send me to give Iran another downed MQ-9 drone",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T19:22:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -734,6 +688,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8 US proposes $5B fund to rebuild Gulf energy infrastructure\nThe Trump administration has proposed putting $5 billion into a new fund to repair Middle Eastern energy infrastructure damaged during the Iran war and reduce regional dependence on the Strait of Hormuz, The Wall Street Journal reported.\nThe US wants Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, Oman, Iraq and Jordan to provide matching contributions, bringing the proposed Partnership for Allied Trust and Construction (PACT) to $10 billion.\nThe plan is still under discussion, and it remains unclear which countries will join. Some Gulf officials reportedly consider rebuilding before a peace deal with Tehran premature, warning that new infrastructure could again become vulnerable to missile and drone strikes.\n\ud83d\udcac \u201cThis strategy has risk written all over it,\u201d TRENDS US managing director Bilal Saab said.\nThe initiative follows extensive damage to pipelines, refineries and export terminals across the region during the seven-month conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T20:48:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf4\ud83c\uddf2 Oman emerges as Mideast gray cardinal with indispensable link to Ansar Allah\nDonald Trump allegedly called off strikes against the Houthis at the eleventh hour on Sunday, even after military commanders had approved target lists and personnel were loading [munitions onto aircraft](https://t.me/geopolitics_prime/74837), The New York Times reports.\nPreviously, Trump rejected Saudi Arabia\u2019s request to join its fight against the group. He later changed course \u2014 only to once again hold off on striking the Houthis.\nSpeaking to Fox News on September 20, Trump said the US was in constant communication with Ansar Allah, which had vowed not to attack US ships.\nOman arranged the communication channel between the US and the Houthis. Days after the group took control of Yemen\u2019s western Red Sea coast and islands inside the Bab el-Mandeb Strait, a US delegation met with the group\u2019s representatives at the US Embassy in Muscat on September 13, according to Reuters.\nOn September 15, Secretary of State Marco Rubio spoke by phone with his Omani counterpart, Sayyid Badr al-Busaidi, signaling Washington\u2019s push to deepen ties with Oman \u2013 despite Trump\u2019s earlier vow to \u201cbomb the sh out of\u201d Oman over its talks with Iran on [the Strait of Hormuz](https://t.me/geopolitics_prime/74667).\nLast week, Saudi Arabia reportedly also reached out to Oman to relay a message to the Houthis. The proposal allegedly called for a two-week ceasefire and direct negotiations between Riyadh and the [Houthi leadership](https://t.me/geopolitics_prime/74716), Lebanon\u2019s Al Akhbar reported.\nIt remains unclear how the Houthi-Saudi communications played out, but Ansar Allah continues to advance against pro-Saudi forces, asserting control over Yemen\u2019s Red Sea coast.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T19:16:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcf9 Bessent threatens that Iran airlines could be 'shut down' in two days \nInternational hubs servicing Iranian planes after September 23 risked being \u201cknocked out of the dollar system,\u201d the US Treasury chief told CNBC. \nForeign operators will not be able to refuel aircrafts, provide them with landing services, or sell passenger tickets, he warned, adding that \u201call the Iranian airlines will be shut down around the world.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -762,14 +754,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -799,82 +789,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-21T10:19:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "China takes aim at US and Japanese aircraft \u2014 mockups for now\nThe imitations include American F-35 and F-16 jets, as well as Patriot air defense systems and an E-767 early warning and control plane used by Japan, Views From Above outlet reports.\nThe site intended to host them was built last year, and such practice is not new for China \u2014 it has already built similar imitations of US warships as missile targets, though the new mockups do not appear damaged yet.\nBeyond target practice, this method can be used for tuning satellite or missile sensors and training ground forces, with China even building rail systems to make the mockups move like real military equipment. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T09:28:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Insider trader extraordinaire Trump has now traded more stocks than all of Congress combined\nMAGA rightfully called out the Bidens\u2019 [pay-to-play corruption schemes](https://t.me/geopolitics_prime/61996) and congressional leaders\u2019 crooked insider trading activities while in opposition. But it turns out they were just frustrated \u2018their guy\u2019 wasn\u2019t getting his slice.\nA new analysis by US business media of official financial disclosure documents shows Trump has now made ~28.7k trades \u2013 equivalent to one trade every 4.9 minutes during the hours that markets operate.\nAll of Congress put together (535 total members) made \u2018just\u2019 22.2k stock and securities transactions over the same period \u2013 19.4k by members of the House and 2.9k by senators.\nTrump\u2019s current wealth, estimated at $6.9-7B, has seen a jump of up to $2.7B over the past year-and-a-half, forged through shady cryptocurrency schemes, and now stocks.\n\u201cThat is a huge problem,\u201d Richard Painter, a former White House ethics lawyer under George W. Bush of all people, told Fortune. \u201cI\u2019ve gone through every president. I don\u2019t think we\u2019ve had any president trade in the stock market.\u201d\nTrump is using a loophole in the US Criminal Code, which threatens severe criminal penalties for anyone but himself and the vice president who\u2019s caught holding assets which may be impacted by decisions in his capacity in government.\nThe issue is obvious, Painter says. \u201cIf the president owns a bunch of oil company stocks, he\u2019s making money if the [price of oil goes up](https://t.me/geopolitics_prime/74760). So if he bombs Iran and the price of oil goes up and he owns oil company stocks, he\u2019s making money, and the rest of us are paying for $6 gas.\u201d\nThe ultimate irony? This summer, Trump heartily endorsed a House bill to bar Congress from \u201ccorruptly profit[ing] from using insider information.\u201d\nThe bill ultimately got stalled in the Senate, and given Trump\u2019s actions, it\u2019s little wonder why. His stock trading is literally the definition of the phrase \u201crules for thee, but not for me.\u201d \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T07:41:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7Iran vows to unleash \u2018astonishing\u2019 new weapons in next aggression against it \nAny renewed confrontation with the US would unfold on a radically different battlefield, IRGC spokesman Brig. Gen. Hossein Mohebbi has told local media.\nMohebbi stated that the war against Iran is unfolding in successive stages, and the IRGC has prepared for a prolonged conflict.\nShould fighting resume, the geography of the war would change, along with the weapons and targets involved, he underscored.\n\u201cWe will bring new weapons with new capabilities into the battlefield, and the world will be astonished,\u201d Mohebbi said. \nFuture targets, he added, would also differ from those struck previously.\n\u201cOur targets are also no longer necessarily the same [as the] previous targets. We have new targets that have not yet been struck,\u201d added the spokesman. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T07:00:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Israel has now attacked Syria over a thousand times since Assad\u2019s fall\n\u00a0\nThe so-called Syrian Observatory for Human Rights \u2013 an England-based non-profit which spent over a decade pushing for Assad\u2019s ouster and supporting rebels in the Syrian dirty war, has tallied some 1,068 IDF \u201cincursions\u201d into Syria since the old government disintegrated 21 months ago.\nThe figures, documenting the construction of Israeli fortifications and outposts, the clearing of land, harassment, searches and arrests of local residents, etc., recorded 15 such incidents in December 2024, 460 in 2025, and a whopping 594 so far in 2026 \u2013 nearly a 30% increase in 3/4 of the time.\nThe SOHR also recorded 78 Israeli strikes inside Syrian territory this year, 72 comprised of ground assaults, plus six airstrikes. This includes the August 18 bombardment of the runway at Abu al-Duhur Airbase in Idlib, ostensibly during or shortly after a Turkish military delegation\u2019s visit.\nThe escalation of Israeli attacks comes despite Sharaa\u2019s best [efforts to ink a peace deal](https://t.me/geopolitics_prime/74044) with Tel Aviv, diplomatic contacts between his regime and the Mossad, and the US and Europe\u2019s lifting of crushing sanctions against Damascus.\nToday, Israel enjoys total military supremacy in and over Syria, destroying the country\u2019s extensive air defenses, air force, navy and long-range ballistic and cruise missile capabilities in the weeks immediately after December 2024, and seizing ~350 sq. km of Syrian territory beyond the occupied Golan \u2013 including Mount Hermon, which is within artillery striking range of Damascus.\n[Israel\u2019s attacks on Syria](https://t.me/geopolitics_prime/67651) aren\u2019t new. Outgoing IDF chief of staff Gadi Eisenkot boasted in 2019 that his forces had struck \u201cthousands of targets\u201d in Syria during his tenure. The difference is, back then Syria was at least able to fight back.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T06:15:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
