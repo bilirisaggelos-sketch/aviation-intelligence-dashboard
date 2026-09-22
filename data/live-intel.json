@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T05:01:42.858548+00:00",
+  "generated_at": "2026-09-22T10:00:32.791758+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -41,25 +41,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/18/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
@@ -79,7 +60,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, September 23, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -98,7 +79,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Tuesday, September 22, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, September 23, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -279,13 +260,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -356,13 +336,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -414,61 +393,61 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Turkish Airlines, Pegasus, and AJet cancelled all Iran flights starting Sept. 21, with no bookings available until at least March 2027. \nUS \"Operation Economic Outcast\" sanctions are so broad they cover even Airbus planes with US-made components, leaving Turkish carriers no choice. \nIranian carrier Mahan Air also suspended Istanbul/Ankara flights. \nUS Treasury Secretary Bessent said Iranian airlines face worldwide shutdown from Sept. 23 \u2014 companies that keep servicing them risk being cut from the dollar system. \nT\u00fcrkiye was one of the last major air links for Iranians.\nSource: MEE",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T09:50:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israeli Defense Minister Israel Katz:\nI warn from here the Hamas terrorist organization and its supporters \u2014 from Iran to Erdogan.\nIf even one Israeli soldier or civilian is kidnapped, the entire city of Gaza, with its homes and its towers of terror, will be evacuated southward, along with more than one million residents, and will be treated in the same way that Rafah, Beit Hanoun and 70% of the Gaza Strip\u2019s territory were treated, until they are returned.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T08:55:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Turkish President Erdogan:\nWe are ready to advance the cooperation we have established with the United States in areas including nuclear energy and LNG, civil aviation and high technology.\nThe further development of the defense industry \u2014 traditionally one of the strongest areas of our partnership \u2014 both bilaterally and within NATO is essential.\nWe want to leave behind the obstacles that should never have existed between two allies in the first place and build new momentum.",
+      "text": "Lithuania is fortifying a key power substation near Russia\u2019s Kaliningrad amid concerns that Moscow could target it with sabotage or a false flag attack to test NATO unity.\nThe Gizai substation will include anti-ram fencing, tunnel sensors, reinforced concrete protection for transformers and defenses against explosive drones.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T04:17:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "JD Vance:\nI think a lot of Americans are saying, well, why are gas prices so high? It\u2019s because the Iranians continue to fire missiles and drones at commercial shipping.\nThis is fundamentally about the Iranians.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T04:07:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The UK will provide Saudi Arabia with \u201cdefensive air-to-air refuelling\u201d support following Houthi drone and missile attacks, Prime Minister Andy Burnham said.\nThe support, expected to begin in the coming days, will involve a single RAF Voyager aircraft based at RAF Akrotiri in Cyprus. \nUK officials said the deployment will be \u201ctime limited\u201d and likely last \u201cfor weeks.\u201d\nBurnham said the move followed a Saudi request for \u201cmilitary support\u201d and was aimed at protecting regional stability and British interests.\n\u201cSaudi Arabia has been experiencing attacks, is looking at potential further disruption, and we need to keep those pathways open, and hence our agreement to the request.\u201d\nSource: BBC",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T21:37:25+00:00",
+      "timestamp": "2026-09-22T08:48:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -497,6 +476,26 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7 \u2014 Israeli Defense Minister Israel Katz:\nI warn from here the Hamas terrorist organization and its supporters \u2014 from Iran to Erdogan.\nIf even one Israeli soldier or civilian is kidnapped, the entire city of Gaza, with its homes and its towers of terror, will be evacuated southward, along with more than one million residents, and will be treated in the same way that Rafah, Beit Hanoun and 70% of the Gaza Strip\u2019s territory were treated, until they are returned.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T09:07:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -595,25 +594,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8The Islamic Revolutionary Guard Corps (IRGC) has released footage showing the interception and destruction of an MQ-1 drone belonging to the U.S. military this morning. \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T12:53:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\udde8\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 No \"grand deal\" should be expected from the upcoming White House summit between Chinese President Xi Jinping and US President Donald Trump, US Trade Representative Jamieson Greer said.\n\"There is no giant grand bargain to be had between China and the United States. Our economies are too different.\nOur political systems are too different,\" Greer said live on Fox News.",
       "source": "Telegram",
@@ -633,23 +613,22 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 This morning the IRGC shot down another American MQ-1 drone over the Strait of Hormuz.\nIt\u2019s a slow news day. Nothing much is happening. Go play outside.",
+      "publisher": "CASELS",
+      "text": "The UK has agreed to a time-limited agreement to support Saudi Arabia against mounting Houthi drone and missile strikes, including a recent attempt targeting Riyadh.\nStarting in the coming days, the RAF will deploy one RAF Voyager tanker to provide purely defensive air-to-air refuelling for Saudi jets. The mission is strictly limited to defending against incoming aerial attacks rather than aiding offensive operations inside Yemen.\nThe decision comes as Houthi forces capture the critical port of Mocha and strategic Red Sea islands near the Bab al-Mandeb strait\u2014a vital maritime corridor carrying 12% of global trade. UK officials emphasized the move aims to protect key regional oil pathways and stabilize broader economic and security interests.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T10:11:48+00:00",
+      "timestamp": "2026-09-22T05:09:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -711,12 +690,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2705 WATCH: Major fire erupts in Dnepropetrovsk after drone strikes\nUkrainian media published footage showing a large blaze in the city following UAV strikes and a series of explosions.\nLocal authorities separately reported that critical infrastructure in Dnepropetrovsk was hit, with damage also recorded at nearby facilities. Casualty information was still being clarified.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udde6\ud83c\uddea UAE control of Red Sea's geostrategic jewel Berbera signals expansion of Iran war\nThe UAE\u2019s control over Somaliland\u2019s Berbera port is where its commercial interests and military strategy overlap.\nThe firm DP World, then headed by Epstein pen pal Sultan Ahmed bin Sulayem, signed a 30-year deal in May 2016 to operate the deep-water port of Berbera that was worth $442 million.\nIn 2017, Somaliland\u2019s parliament approved the establishment of an Emirati military base in Berbera, granting the UAE access to the Soviet-era 4,140-meter runway and other air facilities.\nBerbera\u2019s strategic significance\nThe deep-water gateway on the Gulf of Aden is strategically close \u2014 just 300 km \u2014 to the vital Bab el-Mandeb Strait. This allows the UAE to project naval and air power across the waterway and challenge both Yemen's Ansar Allah and Saudi interests in the region.\nThe military base is being expanded for potential future joint use by the UAE, Israel and the US, Le Monde reported in July, [citing satellite imagery](https://t.me/geopolitics_prime/72671). OSINT accounts on X suggest the construction of new SAM sites, radar positions, UAV and aircraft hangars, as well as multiple underground structures, bunkers and ammunition storage facilities.\nBerbera\u2019s commercial role is also growing as businesses increasingly shift toward the Red Sea amid the Strait of Hormuz crisis.\nSomaliland: An arena for a new geostrategic battle?\nDuring his recent visit to the US, Somaliland leader Cabdiraxmaan Cirro promoted his country and Berbera port as a strategic Red Sea gateway for the US and a potential foothold [against the Houthis](https://t.me/geopolitics_prime/74720). Military experts warn that the ongoing Middle East conflict could spill over into Somaliland and the broader African region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T23:51:58+00:00",
+      "timestamp": "2026-09-22T07:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -730,51 +709,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "Families demand answers after Israel killed Gaza aid workers\nFamilies of three British World Central Kitchen workers killed in Gaza are seeking a full inquest into the Israeli drone strikes that killed them, including scrutiny of IDF targeting procedures and surveillance footage held by the UK military, Declassified UK reported.\nJames Henderson, James Kirby and John Chapman were among seven aid workers killed in three Israeli strikes roughly four minutes apart on April 1, 2024.\nLawyers want the coroner to determine whether the killings were unlawful and to obtain IDF drone footage, internal investigation files and targeting policies. Israel has said it will not pursue criminal investigations into the incident.\nThe families are also pressing Britain\u2019s Ministry of Defence to disclose footage from an RAF surveillance aircraft that spent around five hours over Gaza that day.\n\ud83d\udcac \u201cThere is no other independent investigation into James\u2019 death. This inquest is all we have, and we are going to see it through,\u201d the Kirby family said.\nA second pre-inquest review is expected in March 2027.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25Russia hits Ukraine's war machine in overnight strikes\nHigh-precision weapons \u2014 ground, sea and air \u2014 plus UAVs were used.\nTargets hit:\n\u27a1\ufe0fMetallurgical and chemical plants\n\u27a1\ufe0fFuel, energy and defense facilities\n\u27a1\ufe0fPort infrastructure\n\u27a1\ufe0fVessels supporting the Ukrainian army \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T23:05:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Satellite images show damage to seven oil tanks near Riyadh airport after Houthi attack\nNewly released satellite imagery indicates that at least seven oil storage tanks at a facility near King Khalid International Airport in Riyadh were damaged in recent Yemeni attacks, Press TV reported.\nThe imagery follows the September 19 strikes claimed by Yemen\u2019s Ansar Allah forces against what they described as \u201csensitive sites\u201d in Riyadh and Aramco facilities in Yanbu.\nReuters reported at the time that a large plume of black smoke was visible near the airport, while firefighters extinguished a blaze at a fuel tank carrying the Aramco logo. The attack also caused major delays and cancellations at King Khalid International Airport.\nThe strikes came amid a broader escalation between Ansar Allah and Saudi Arabia, with energy infrastructure increasingly affected by the fighting.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T21:33:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8 US proposes $5B fund to rebuild Gulf energy infrastructure\nThe Trump administration has proposed putting $5 billion into a new fund to repair Middle Eastern energy infrastructure damaged during the Iran war and reduce regional dependence on the Strait of Hormuz, The Wall Street Journal reported.\nThe US wants Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, Oman, Iraq and Jordan to provide matching contributions, bringing the proposed Partnership for Allied Trust and Construction (PACT) to $10 billion.\nThe plan is still under discussion, and it remains unclear which countries will join. Some Gulf officials reportedly consider rebuilding before a peace deal with Tehran premature, warning that new infrastructure could again become vulnerable to missile and drone strikes.\n\ud83d\udcac \u201cThis strategy has risk written all over it,\u201d TRENDS US managing director Bilal Saab said.\nThe initiative follows extensive damage to pipelines, refineries and export terminals across the region during the seven-month conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T20:48:58+00:00",
+      "timestamp": "2026-09-22T05:38:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
