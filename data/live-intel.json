@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-09-22T10:00:32.791758+00:00",
+  "generated_at": "2026-09-22T14:57:56.683347+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/22/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/22/2026",
+      "location": "ZBW NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, September 21, 2026 through Saturday, September 26, 2026 Local\nFacility: ZJX",
@@ -251,6 +289,63 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\udde9\ud83c\uddff\u26a1\ufe0f \u2014 Iranian President Masoud Pezeshkian met with Algeria\u2019s Interior Minister Sa\u00efd Sayoud during a brief stopover at Algiers Airport on his way to New York for the UN General Assembly.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T14:15:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: The first handwritten note by the Supreme Leader of Iran, Ayatollah Seyyed Mojtaba Khamenei, has been released to the public\nIt is dated August 1st, 2026, addressed to IRGC Aerospace Commander Brigadier General Majid Mousavi, and confirms that Seyyed Mojtaba is in active correspondence with all relevant authorities and military officials.\nThe text is as follows:\n\u2018In the Name of God, the Most Gracious, the Most Merciful.\nTo the brave and Mujahid brother, Brigadier General Seyyed Majid Mousavi\u2014may God protect and support him.\nAfter greetings and salutations:\n1). Praise be to God: The report you submitted\u2014a copy of which I had already received\u2014is heartening and gratifying. You have written very little about your own efforts and those of your unsung, self-sacrificing comrades; such is one of the characteristic behaviors of the pious ones.\nThe outcome\u2014by Divine Wisdom\u2014stemming from this quality is, God willing, affection and esteem that the Almighty (Glory be to Him and Exalted be He) bestows upon the sincere, along with manifold blessings and manifest victories.\n2). Regarding the [ballistic missile] supply chain, I hope efforts continue and that reports on the matter are conveyed to me on a regular basis.\n3). Safeguarding your own precious life and the lives of all the brothers is my emphatic request. I hope that, through the blessed prayers of our Master (may God hasten his noble reappearance), all affairs will be set right.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T13:03:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf3 NEW: In a joint statement at the UN General Assembly, the G7 (UK, Canada, \u200cFrance, \u2060Germany, Italy, Japan & U.S.) called upon Iran to stop arming the Houthis with missiles\nIran said no.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T12:51:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Flights are on holding pattern at Riyadh Airport, Saudi Arabia\nA Yemeni missile attack may be incoming.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -364,90 +459,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "NOTE: At the current rate, the U.S. is losing 4 to 5 drones a week to Iranian air defenses in the Strait of Hormuz.\nWithin 6 months, that would mean a complete expenditure of all remaining MQ-9 \u2018Reaper\u2019 stocks.\nThis is why the U.S. has decided to start using the MQ-1C, a version specifically developed for the Army, of which they have more in stock. \nThe MQ-1C has less engine power, significantly less range and payload capacity, and is more prone to being shot down, due to lower flight altitudes. It was meant as a ground-support drone, not a hunter-killer like the MQ-9.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T11:36:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s air defenses have shot down another U.S. MQ-1C \u2018Gray Eagle\u2019 drone over the Strait of Hormuz",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T11:26:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: Turkish Airlines, Pegasus, and AJet cancelled all Iran flights starting Sept. 21, with no bookings available until at least March 2027. \nUS \"Operation Economic Outcast\" sanctions are so broad they cover even Airbus planes with US-made components, leaving Turkish carriers no choice. \nIranian carrier Mahan Air also suspended Istanbul/Ankara flights. \nUS Treasury Secretary Bessent said Iranian airlines face worldwide shutdown from Sept. 23 \u2014 companies that keep servicing them risk being cut from the dollar system. \nT\u00fcrkiye was one of the last major air links for Iranians.\nSource: MEE",
+      "text": "Trump on Iran:\nThey made a missile capable of hitting Europe, and they were very proud of it. I hope the Europeans realize that.\nIran\u2019s goal was to complete their nuclear bomb behind this conventional ballistic missile shield.\nIf they had succeeded, that wicked regime would have been free to spread terror and death forever.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T09:50:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israeli Defense Minister Israel Katz:\nI warn from here the Hamas terrorist organization and its supporters \u2014 from Iran to Erdogan.\nIf even one Israeli soldier or civilian is kidnapped, the entire city of Gaza, with its homes and its towers of terror, will be evacuated southward, along with more than one million residents, and will be treated in the same way that Rafah, Beit Hanoun and 70% of the Gaza Strip\u2019s territory were treated, until they are returned.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T08:55:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Lithuania is fortifying a key power substation near Russia\u2019s Kaliningrad amid concerns that Moscow could target it with sabotage or a false flag attack to test NATO unity.\nThe Gizai substation will include anti-ram fencing, tunnel sensors, reinforced concrete protection for transformers and defenses against explosive drones.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T08:48:24+00:00",
+      "timestamp": "2026-09-22T14:39:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -480,6 +498,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f- Iraqi government sources: \nThere is no decision yet to prevent Iranian aircraft from using Iraqi airspace or landing at Iraqi airports \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T12:56:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nShame on you, Mr. Mamdani. Shame on you for supporting the Hamas monsters who butchered our people.\nShame on you for inciting riots against New York Jews.\nI'm coming to the UN. I'm going to tell the truth about our heroic soldiers, and I'm going to tell the truth about you.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T11:21:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7 \u2014 Israeli Defense Minister Israel Katz:\nI warn from here the Hamas terrorist organization and its supporters \u2014 from Iran to Erdogan.\nIf even one Israeli soldier or civilian is kidnapped, the entire city of Gaza, with its homes and its towers of terror, will be evacuated southward, along with more than one million residents, and will be treated in the same way that Rafah, Beit Hanoun and 70% of the Gaza Strip\u2019s territory were treated, until they are returned.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
@@ -489,13 +545,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -537,58 +592,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8\u26ab\u26a1\ufe0f \u2014Palestinian Islamic Jihad Statement\nCondemnation of the Desecration of the Buraq Wall by Benjamin Netanyahu, the War Criminal\nThe Prime Minister of the Zionist occupation regime and war criminal \u2013 accompanied by a group of his ministers and settler leaders, under a massive military siege \u2013 stormed the Buraq courtyard and desecrated the tunnels beneath Al-Aqsa Mosque. The Old City of occupied Jerusalem was turned into a closed military barracks, and harsh repressive measures were imposed on our steadfast people.\nWe consider this action a blatant assault on Islamic sanctities and an insult to all Muslims and free people in the world.\n- We remind Netanyahu and his gang that all the invaders and occupiers who passed through this pure land said the very same phrase that he boasts of from behind an armored glass barrier, but they all departed in humiliation, their kingdoms perished, and they were buried in the garbage dumps of history.\nThe cheap desecration show that Netanyahu led at the Buraq Wall is nothing but an \"electoral photo op\" through which he seeks to save his crisis-ridden political future, even at the cost of igniting a religious war that sets the region and the world ablaze.\nWe mourn with all pride and honor the heroic martyr who was martyred at the Jenin checkpoint, and we congratulate and salute the heroic martyrdom operation that struck the occupier today in Ramallah and Jenin. These striking arms that pounded the settlers' fortresses and killed one of them in Ramallah came to respond blow for blow and to prove to Netanyahu that desecrating our sanctities has a heavy price that his soldiers and settlers will taste, and that the blood of our heroes is the scale that restrains the arrogance of the occupier and foils its attempts to impose a new reality by force.\nWe express our revulsion at the absolute silence of the Arab and Islamic governments toward this direct provocation at one of the holiest sanctities of Muslims, while Netanyahu continues his war of genocide and the destruction of villages, cities, and towns in the steadfast Gaza Strip, the occupied West Bank, and southern sister Lebanon \u2013 which constitutes a cover for and partnership with the occupier in its crimes and its Judaization schemes.\nWe call on the masses of our proud nation and our people in Jerusalem and the occupied interior to move toward Al-Aqsa Mosque and to intensify the ribat and general mobilization in its courtyards to foil the Talmudic schemes. Jerusalem was and will remain the compass of the free and the address of dignity, and shame and disgrace upon the occupiers and their accomplices.\nAl-Aqsa Mosque, with its walls, courtyards, and historic Buraq Wall, will remain the greatest witness to the failure of the Zionist colonial project in Palestine. The Islamic identity of Jerusalem, by the grace of our people's resistance and the steadfastness of those holding the line, will remain firmly established and impervious to being broken.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Israeli prime minister Benjamin Netanyahu decided to spew his usual garbage in the direction of NYC mayor Zohran Mamdani. \u201cYou support Hamas terrorists\u201d etc. He plans to engage in more whining about the mayor when he speaks at the United Nations General Assembly this week.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T15:09:17+00:00",
+      "timestamp": "2026-09-22T12:36:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8\ud83d\udd34\u26a1\ufe0f \u2014Hamas Statement \nCondemnation of Benjamin Netanyahu's action of entering the tunnels and excavations beneath Al-Aqsa Mosque and the Buraq Wall\nNetanyahu \u2013 against whom the International Criminal Court has issued an arrest warrant \u2013 entered the tunnels and excavations beneath Al-Aqsa Mosque and the Buraq Wall and made provocative statements about the so-called \"Holy of Holies.\"\nWe consider this action a blatant assault on the identity and status of Al-Aqsa Mosque and a provocation of the sentiments of our Palestinian people and the Arab and Islamic nations.\nAl-Aqsa Mosque, in its entirety \u2013 with all its area, courtyards, prayer halls, walls, and gates \u2013 remains a purely Islamic mosque. The excavations, incursions, and attempts by the occupying regime to impose its biblical narrative cannot change the identity of the place or erase its features.\nThe excavations, displays, and provocative statements by the criminal enemy, along with its attempts to impose new facts in Jerusalem and Al-Aqsa Mosque, grant it no right to our sanctities. Al-Aqsa Mosque will remain a witness to the Arab and Islamic character of Jerusalem and to our Palestinian people's adherence to their right to their land and sanctities.\nWe call on our people to go to Al-Aqsa Mosque and maintain a constant presence (ribat) there in order to defend Jerusalem and Al-Aqsa and protect it from attempts to change its status and identity.\nWe also call on the Arab and Islamic nation to assume its responsibility toward Jerusalem and Al-Aqsa Mosque and to move against attempts to impose new facts on Islamic sanctities.\n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddec\ud83c\udde7 British Prime Minister Andy Burnham announces that the United Kingdom will provide defensive military support to Saudi Arabia, making a Royal Air Force Voyager aircraft available for aerial refueling of Saudi jets engaged in intercepting missiles and drones launched by the Houthis. British support comes while the United States has chosen, for the time being, not to intervene directly against the Houthis, despite Riyadh having asked Washington for help",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T15:07:32+00:00",
+      "timestamp": "2026-09-22T10:11:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8\u26a1\ufe0f \u2014 Israeli Prime Minister Benjamin Netanyahu released video of his visit to the tunnels and excavations beneath Al-Aqsa Mosque and said:\nWe are now in the holiest of places, and no one but us can be present in this place\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T15:03:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -690,12 +726,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddea UAE control of Red Sea's geostrategic jewel Berbera signals expansion of Iran war\nThe UAE\u2019s control over Somaliland\u2019s Berbera port is where its commercial interests and military strategy overlap.\nThe firm DP World, then headed by Epstein pen pal Sultan Ahmed bin Sulayem, signed a 30-year deal in May 2016 to operate the deep-water port of Berbera that was worth $442 million.\nIn 2017, Somaliland\u2019s parliament approved the establishment of an Emirati military base in Berbera, granting the UAE access to the Soviet-era 4,140-meter runway and other air facilities.\nBerbera\u2019s strategic significance\nThe deep-water gateway on the Gulf of Aden is strategically close \u2014 just 300 km \u2014 to the vital Bab el-Mandeb Strait. This allows the UAE to project naval and air power across the waterway and challenge both Yemen's Ansar Allah and Saudi interests in the region.\nThe military base is being expanded for potential future joint use by the UAE, Israel and the US, Le Monde reported in July, [citing satellite imagery](https://t.me/geopolitics_prime/72671). OSINT accounts on X suggest the construction of new SAM sites, radar positions, UAV and aircraft hangars, as well as multiple underground structures, bunkers and ammunition storage facilities.\nBerbera\u2019s commercial role is also growing as businesses increasingly shift toward the Red Sea amid the Strait of Hormuz crisis.\nSomaliland: An arena for a new geostrategic battle?\nDuring his recent visit to the US, Somaliland leader Cabdiraxmaan Cirro promoted his country and Berbera port as a strategic Red Sea gateway for the US and a potential foothold [against the Houthis](https://t.me/geopolitics_prime/74720). Military experts warn that the ongoing Middle East conflict could spill over into Somaliland and the broader African region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran moves to reverse-engineer captured US weapon tech\nIranian engineers will soon crack the secrets of the US-made Dive-LD unmanned underwater vehicle that was captured by the IRGC Navy in the Strait of Hormuz earlier this month, IRGC spokesman Brigadier General Hossein Mohebbi announced.\n\ud83d\udd0a\u201cThis advanced technology exists in the underwater vessel that fell into the hands of the IRGC Navy forces, and its reverse engineering will begin,\u201d he said as quoted by PressTV.\nThe brigadier general also remarked that \u201cthe most advanced US technologies used in the military and defense industries have come under Iran\u2019s control,\u201d and that Iran acquired \u201ca collection of different combat, support, transport, and reconnaissance aircraft.\u201d\nDuring and prior to the US-Israeli war against Iran, Iranian forces were able to capture a variety of US military hardware such as RQ-170 Sentinel and MQ-9 Reaper drones.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T07:02:01+00:00",
+      "timestamp": "2026-09-22T14:25:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -709,12 +745,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25Russia hits Ukraine's war machine in overnight strikes\nHigh-precision weapons \u2014 ground, sea and air \u2014 plus UAVs were used.\nTargets hit:\n\u27a1\ufe0fMetallurgical and chemical plants\n\u27a1\ufe0fFuel, energy and defense facilities\n\u27a1\ufe0fPort infrastructure\n\u27a1\ufe0fVessels supporting the Ukrainian army \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8 \ud83c\uddf8\ud83c\udde6 Saudi Arabia restarts East-West oil pipeline following recent damage\nExports from the Red Sea port of Yanbu may resume later on Tuesday, Reuters reports, quoting anonymous sources.\nCurrently, the pipeline is pumping at a low rate.\nThe drone strikes that disrupted the 1,200-kilometer oil route [occurred on September 10](https://t.me/geopolitics_prime/74584). The attack damaged a pumping station and triggered fires.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T05:38:58+00:00",
+      "timestamp": "2026-09-22T10:58:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde6\ud83c\uddea UAE control of Red Sea's geostrategic jewel Berbera signals expansion of Iran war\nThe UAE\u2019s control over Somaliland\u2019s Berbera port is where its commercial interests and military strategy overlap.\nThe firm DP World, then headed by Epstein pen pal Sultan Ahmed bin Sulayem, signed a 30-year deal in May 2016 to operate the deep-water port of Berbera that was worth $442 million.\nIn 2017, Somaliland\u2019s parliament approved the establishment of an Emirati military base in Berbera, granting the UAE access to the Soviet-era 4,140-meter runway and other air facilities.\nBerbera\u2019s strategic significance\nThe deep-water gateway on the Gulf of Aden is strategically close \u2014 just 300 km \u2014 to the vital Bab el-Mandeb Strait. This allows the UAE to project naval and air power across the waterway and challenge both Yemen's Ansar Allah and Saudi interests in the region.\nThe military base is being expanded for potential future joint use by the UAE, Israel and the US, Le Monde reported in July, [citing satellite imagery](https://t.me/geopolitics_prime/72671). OSINT accounts on X suggest the construction of new SAM sites, radar positions, UAV and aircraft hangars, as well as multiple underground structures, bunkers and ammunition storage facilities.\nBerbera\u2019s commercial role is also growing as businesses increasingly shift toward the Red Sea amid the Strait of Hormuz crisis.\nSomaliland: An arena for a new geostrategic battle?\nDuring his recent visit to the US, Somaliland leader Cabdiraxmaan Cirro promoted his country and Berbera port as a strategic Red Sea gateway for the US and a potential foothold [against the Houthis](https://t.me/geopolitics_prime/74720). Military experts warn that the ongoing Middle East conflict could spill over into Somaliland and the broader African region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T07:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
