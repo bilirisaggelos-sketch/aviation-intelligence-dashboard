@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T00:01:09.635357+00:00",
+  "generated_at": "2026-09-22T05:01:42.858548+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -41,7 +41,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -60,7 +60,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -356,12 +356,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -413,10 +414,49 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Turkish President Erdogan:\nWe are ready to advance the cooperation we have established with the United States in areas including nuclear energy and LNG, civil aviation and high technology.\nThe further development of the defense industry \u2014 traditionally one of the strongest areas of our partnership \u2014 both bilaterally and within NATO is essential.\nWe want to leave behind the obstacles that should never have existed between two allies in the first place and build new momentum.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T04:17:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "JD Vance:\nI think a lot of Americans are saying, well, why are gas prices so high? It\u2019s because the Iranians continue to fire missiles and drones at commercial shipping.\nThis is fundamentally about the Iranians.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T04:07:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -603,22 +643,23 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "#Myanmar \ud83c\uddf2\ud83c\uddf2: People's Defense Forces (#PDF) struck military military convoy and reportedly destroyed a truck in Minbu Township.\nFighters used a rather commonused numerous \u201cFPV Kamikaze Drones\u201d \u2014 very likely carrying an Improvised HE warhead with commercial limit switch.\nhttps://x.com/war_noir/status/2101877029972951501",
+      "text": "Large-scale, combined missile and drone attack on Ukraine.\nPreliminarily, the following missiles were used:\n~11 Oniks-M supersonic cruise missiles.\n~6 Zircon hypersonic cruise missiles.\n~5 Kalibr cruise missiles\n~4 Kn-23 ballistic missiles.\n~2 Iskander-M ballistic missiles.\n~28 missiles in total. \nAround 8 S8000 Banderol cruise missiles also targeted Kremenchuk. \nStrikes were carried out on the cities of Kryvyi Rih, Kremenchuk, Dnipro, and Pavlohrad, in Dnipropetrovak and Poltava Oblasts. \nKryvyi Rih was struck by ~5 Kalibrs, ~2 Oniks-Ms, ~2 Kn-23, and ~2 Zircons. \nKremenchuk was struck by ~5 Oniks-Ms and ~2 Iskander-M with cluster warheads.\nDnipro was struck by 4 Oniks-Ms and ~1 Kn-23. \nPavlohrad was struck by ~4 Zircons and ~1 Kn-23. \n(These numbers will likely be adjusted further in the coming hours)\nTargets hit include the Kryvyi Rih Metallurgical Plant, the Pavlohrad Chemical Plant, the Kremenchuk Oil Refinery, and an unknown industrial target in eastern Dnipro.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T03:42:13+00:00",
+      "timestamp": "2026-09-22T02:43:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -632,12 +673,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe Imagery showcasing a remnant of a missile inside a civilian house following the explosions at the warehouse in Aleppo, Syria.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted the Novokuibyshevsk Oil Refinery, in Russia's Samara region, this evening. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T01:20:52+00:00",
+      "timestamp": "2026-09-22T02:43:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -651,50 +692,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe Several missiles have landed near the small Sarmin warehouse. \nResidents of Sarmin are pleading for intervention before a missile explodes.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The IAEA said it has been informed of numerous drone and other military strikes near the Zaporizhzhya Nuclear Power Plant in recent weeks, causing several casualties and threatening nuclear safety, with reported incidents including drone attacks on the plant's off-site training centre and strikes on diesel fuel transports for its emergency generators.\nOther attacks reportedly hit locations in nearby Enerhodar, where many plant staff live, with IAEA Director General Rafael Grossi expressing deep concern and saying all attacks on or near nuclear power plants are unacceptable and must stop immediately.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T22:45:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe The Damascus-Aleppo international road has been blocked at the Saraqib checkpoint due to missile debris across the area.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T22:40:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe Another missile landed in the vicinity of the village of Arhab, in the western countryside of Aleppo. \nSeveral missiles have scattered across several villages and towns following the explosion.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-20T22:40:38+00:00",
+      "timestamp": "2026-09-22T02:42:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -772,44 +775,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-21T20:48:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf4\ud83c\uddf2 Oman emerges as Mideast gray cardinal with indispensable link to Ansar Allah\nDonald Trump allegedly called off strikes against the Houthis at the eleventh hour on Sunday, even after military commanders had approved target lists and personnel were loading [munitions onto aircraft](https://t.me/geopolitics_prime/74837), The New York Times reports.\nPreviously, Trump rejected Saudi Arabia\u2019s request to join its fight against the group. He later changed course \u2014 only to once again hold off on striking the Houthis.\nSpeaking to Fox News on September 20, Trump said the US was in constant communication with Ansar Allah, which had vowed not to attack US ships.\nOman arranged the communication channel between the US and the Houthis. Days after the group took control of Yemen\u2019s western Red Sea coast and islands inside the Bab el-Mandeb Strait, a US delegation met with the group\u2019s representatives at the US Embassy in Muscat on September 13, according to Reuters.\nOn September 15, Secretary of State Marco Rubio spoke by phone with his Omani counterpart, Sayyid Badr al-Busaidi, signaling Washington\u2019s push to deepen ties with Oman \u2013 despite Trump\u2019s earlier vow to \u201cbomb the sh out of\u201d Oman over its talks with Iran on [the Strait of Hormuz](https://t.me/geopolitics_prime/74667).\nLast week, Saudi Arabia reportedly also reached out to Oman to relay a message to the Houthis. The proposal allegedly called for a two-week ceasefire and direct negotiations between Riyadh and the [Houthi leadership](https://t.me/geopolitics_prime/74716), Lebanon\u2019s Al Akhbar reported.\nIt remains unclear how the Houthi-Saudi communications played out, but Ansar Allah continues to advance against pro-Saudi forces, asserting control over Yemen\u2019s Red Sea coast.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T19:16:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Bessent threatens that Iran airlines could be 'shut down' in two days \nInternational hubs servicing Iranian planes after September 23 risked being \u201cknocked out of the dollar system,\u201d the US Treasury chief told CNBC. \nForeign operators will not be able to refuel aircrafts, provide them with landing services, or sell passenger tickets, he warned, adding that \u201call the Iranian airlines will be shut down around the world.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T15:04:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
