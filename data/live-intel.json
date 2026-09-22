@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-09-22T14:57:56.683347+00:00",
+  "generated_at": "2026-09-22T18:45:33.169198+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZNY NJ",
+      "location": "ZBW NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -22,14 +22,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZBW NY",
+      "location": "ZNY NJ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -289,6 +289,44 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf9\ud83c\uddf7 NEW: Turkish Airlines, Anadolujet, and Pegasus have suspended all flights to and from Iran until March 2027 due to the war",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T17:45:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddff NEW: After U.S. pressure, Azerbaijan officially suspends Iran Air flights",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T17:42:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83c\udde9\ud83c\uddff\u26a1\ufe0f \u2014 Iranian President Masoud Pezeshkian met with Algeria\u2019s Interior Minister Sa\u00efd Sayoud during a brief stopover at Algiers Airport on his way to New York for the UN General Assembly.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -402,70 +440,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddf6\ud83c\udde6 NEW: More than 25 refueling aircraft are currently parked at Al-Udeid Air Base in Qatar, the most since February 2026, before the beginning of the Iran War\nThe aircraft are parked in dispersed patterns in order to be less vulnerable to Iranian missile strikes.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T16:02:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 WATCH: The IRGC has released footage of downing an American MQ-1C \u2018Gray Eagle\u2019 drone above the Strait of Hormuz today",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T13:11:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: Scott Bessent, U.S. Secretary of the Treasury, says all Iranian airlines will be shut down \u2018worldwide\u2019 on Wednesday, September 23rd\nIt is unclear how the U.S. plans to enforce this measure, which is part of Operation Economic Outcast.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T13:01:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Trump on Iran:\nThey made a missile capable of hitting Europe, and they were very proud of it. I hope the Europeans realize that.\nIran\u2019s goal was to complete their nuclear bomb behind this conventional ballistic missile shield.\nIf they had succeeded, that wicked regime would have been free to spread terror and death forever.",
+      "text": "Lithuanian President Gitanas Naus\u0117da on Iran:\nWe call on Iran to halt its nuclear and missile programs as well as its collaboration with armed groups across the Middle East.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T14:39:11+00:00",
+      "timestamp": "2026-09-22T18:19:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -492,6 +473,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddeaYemeni Ansarllah Military Spokesman Yahya Saree: \nDuring the past 24 hours, Saudi warplanes launched 19 airstrikes using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif bases, targeting the provinces of Taiz, Al-Jawf, and Marib. These strikes resulted in martyrs and wounded, including children and women, bringing the total number of airstrikes and missiles launched by the Saudi aggression since the start of the escalation against our dear country to 936.\nThe massacres committed by the criminal Saudi enemy against our people will have dire consequences for it, with the help and might of Allah.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T18:34:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\u2014 initial Reports of missile launched from Iran toward the strait of hormuz\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-22T17:02:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -630,25 +649,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\udde8\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8 No \"grand deal\" should be expected from the upcoming White House summit between Chinese President Xi Jinping and US President Donald Trump, US Trade Representative Jamieson Greer said.\n\"There is no giant grand bargain to be had between China and the United States. Our economies are too different.\nOur political systems are too different,\" Greer said live on Fox News.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T19:23:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "The UK has agreed to a time-limited agreement to support Saudi Arabia against mounting Houthi drone and missile strikes, including a recent attempt targeting Riyadh.\nStarting in the coming days, the RAF will deploy one RAF Voyager tanker to provide purely defensive air-to-air refuelling for Saudi jets. The mission is strictly limited to defending against incoming aerial attacks rather than aiding offensive operations inside Yemen.\nThe decision comes as Houthi forces capture the critical port of Mocha and strategic Red Sea islands near the Bab al-Mandeb strait\u2014a vital maritime corridor carrying 12% of global trade. UK officials emphasized the move aims to protect key regional oil pathways and stabilize broader economic and security interests.",
       "source": "Telegram",
@@ -751,25 +751,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-22T10:58:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddea UAE control of Red Sea's geostrategic jewel Berbera signals expansion of Iran war\nThe UAE\u2019s control over Somaliland\u2019s Berbera port is where its commercial interests and military strategy overlap.\nThe firm DP World, then headed by Epstein pen pal Sultan Ahmed bin Sulayem, signed a 30-year deal in May 2016 to operate the deep-water port of Berbera that was worth $442 million.\nIn 2017, Somaliland\u2019s parliament approved the establishment of an Emirati military base in Berbera, granting the UAE access to the Soviet-era 4,140-meter runway and other air facilities.\nBerbera\u2019s strategic significance\nThe deep-water gateway on the Gulf of Aden is strategically close \u2014 just 300 km \u2014 to the vital Bab el-Mandeb Strait. This allows the UAE to project naval and air power across the waterway and challenge both Yemen's Ansar Allah and Saudi interests in the region.\nThe military base is being expanded for potential future joint use by the UAE, Israel and the US, Le Monde reported in July, [citing satellite imagery](https://t.me/geopolitics_prime/72671). OSINT accounts on X suggest the construction of new SAM sites, radar positions, UAV and aircraft hangars, as well as multiple underground structures, bunkers and ammunition storage facilities.\nBerbera\u2019s commercial role is also growing as businesses increasingly shift toward the Red Sea amid the Strait of Hormuz crisis.\nSomaliland: An arena for a new geostrategic battle?\nDuring his recent visit to the US, Somaliland leader Cabdiraxmaan Cirro promoted his country and Berbera port as a strategic Red Sea gateway for the US and a potential foothold [against the Houthis](https://t.me/geopolitics_prime/74720). Military experts warn that the ongoing Middle East conflict could spill over into Somaliland and the broader African region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T07:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
