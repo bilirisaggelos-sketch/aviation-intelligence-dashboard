@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:57:35.091852+00:00",
+  "generated_at": "2026-09-22T00:01:09.635357+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -173,25 +173,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nConcord, CA, Wednesday, September 16, 2026 through Wednesday, September 30, 2026 Local\nFacility: ZOA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/12/2026",
-      "location": "ZOA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1126\r\nIssue Time: 2026 Sep 21 1832 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 22: None (Below G1) Sep 23: None (Below G1) Sep 24: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -283,6 +264,45 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Flights are on holding pattern at Riyadh Airport, Saudi Arabia\nA Yemeni missile attack may be incoming.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T22:11:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf1\ud83c\uddf1\ud83c\uddfb\ud83c\uddf1\ud83c\uddf9 \u2013 Air raids sirens sounded in Lublin, Poland, and Kraslava, eastern Latvia, following Russian strikes on Ukraine and the risk of collateral damage.\nOperations at Vilnius Airport, Lithuania, were suspended due to drone activity around the airport.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T21:41:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -397,6 +417,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The UK will provide Saudi Arabia with \u201cdefensive air-to-air refuelling\u201d support following Houthi drone and missile attacks, Prime Minister Andy Burnham said.\nThe support, expected to begin in the coming days, will involve a single RAF Voyager aircraft based at RAF Akrotiri in Cyprus. \nUK officials said the deployment will be \u201ctime limited\u201d and likely last \u201cfor weeks.\u201d\nBurnham said the move followed a Saudi request for \u201cmilitary support\u201d and was aimed at protecting regional stability and British interests.\n\u201cSaudi Arabia has been experiencing attacks, is looking at potential further disruption, and we need to keep those pathways open, and hence our agreement to the request.\u201d\nSource: BBC",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T21:37:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -523,25 +562,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-21T12:53:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 NEW: Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) says it shot down a U.S. Air Force MQ-1 drone over the Strait of Hormuz.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T05:50:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,6 +708,64 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2705 WATCH: Major fire erupts in Dnepropetrovsk after drone strikes\nUkrainian media published footage showing a large blaze in the city following UAV strikes and a series of explosions.\nLocal authorities separately reported that critical infrastructure in Dnepropetrovsk was hit, with damage also recorded at nearby facilities. Casualty information was still being clarified.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T23:51:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Families demand answers after Israel killed Gaza aid workers\nFamilies of three British World Central Kitchen workers killed in Gaza are seeking a full inquest into the Israeli drone strikes that killed them, including scrutiny of IDF targeting procedures and surveillance footage held by the UK military, Declassified UK reported.\nJames Henderson, James Kirby and John Chapman were among seven aid workers killed in three Israeli strikes roughly four minutes apart on April 1, 2024.\nLawyers want the coroner to determine whether the killings were unlawful and to obtain IDF drone footage, internal investigation files and targeting policies. Israel has said it will not pursue criminal investigations into the incident.\nThe families are also pressing Britain\u2019s Ministry of Defence to disclose footage from an RAF surveillance aircraft that spent around five hours over Gaza that day.\n\ud83d\udcac \u201cThere is no other independent investigation into James\u2019 death. This inquest is all we have, and we are going to see it through,\u201d the Kirby family said.\nA second pre-inquest review is expected in March 2027.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T23:05:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Satellite images show damage to seven oil tanks near Riyadh airport after Houthi attack\nNewly released satellite imagery indicates that at least seven oil storage tanks at a facility near King Khalid International Airport in Riyadh were damaged in recent Yemeni attacks, Press TV reported.\nThe imagery follows the September 19 strikes claimed by Yemen\u2019s Ansar Allah forces against what they described as \u201csensitive sites\u201d in Riyadh and Aramco facilities in Yanbu.\nReuters reported at the time that a large plume of black smoke was visible near the airport, while firefighters extinguished a blaze at a fuel tank carrying the Aramco logo. The attack also caused major delays and cancellations at King Khalid International Airport.\nThe strikes came amid a broader escalation between Ansar Allah and Saudi Arabia, with energy infrastructure increasingly affected by the fighting.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-21T21:33:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddfa\ud83c\uddf8 US proposes $5B fund to rebuild Gulf energy infrastructure\nThe Trump administration has proposed putting $5 billion into a new fund to repair Middle Eastern energy infrastructure damaged during the Iran war and reduce regional dependence on the Strait of Hormuz, The Wall Street Journal reported.\nThe US wants Saudi Arabia, the UAE, Qatar, Bahrain, Kuwait, Oman, Iraq and Jordan to provide matching contributions, bringing the proposed Partnership for Allied Trust and Construction (PACT) to $10 billion.\nThe plan is still under discussion, and it remains unclear which countries will join. Some Gulf officials reportedly consider rebuilding before a peace deal with Tehran premature, warning that new infrastructure could again become vulnerable to missile and drone strikes.\n\ud83d\udcac \u201cThis strategy has risk written all over it,\u201d TRENDS US managing director Bilal Saab said.\nThe initiative follows extensive damage to pipelines, refineries and export terminals across the region during the seven-month conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -732,63 +810,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-21T15:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 IRGC releases footage of US' MQ-1 drone being destroyed over Strait of Hormuz\n\ud83d\udd0aThe drone was detected and shot down this morning, the IRGC previously announced.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T13:12:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Yemen\u2019s warning to Saudi Arabia: your economy is now a target\nOn the 12th anniversary of the September 21 Revolution, Yemen's top military brass issued a direct warning to Riyadh:\n\ud83d\udde3\"All Yemeni military divisions will continue their struggle against Saudi Arabia\", Defense Minister Maj. Gen. Mohammed Nasser al-Atifi and Chief of Staff Maj. Gen. Youssef Hassan al-Madani wrote in a joint congratulatory message.\n\ud83d\udd36 Yemeni ballistic missiles and drones are already pounding targets across the kingdom\n\ud83d\udd36 We can strike anywhere deep inside Saudi territory, devastate the kingdom's economy, and reach any location Saudi officials might be sheltering in\n\ud83d\udd36 \"The slightest folly you commit will come at a heavy price. Our armed forces have introduced effective measures to establish a new equation of deterrence\", the statement emphasized.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T11:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Turkey itching to relive Ottoman Empire\u2019s crushing defeat to Yemeni tribesmen\n\u201cThere may be military needs, particularly in certain technical areas, and we would have no problem meeting them,\u201d Turkish foreign minister Hakan Fidan said in an interview after being asked whether the Houthis\u2019 retaliatory strikes on Saudi Arabia were sufficient to activate the new [Mecca Pact alliance](https://t.me/geopolitics_prime/73259?single).\n\u201cWe see very serious attacks against Saudi Arabia\u2019s territorial integrity and sovereignty,\u201d Fidan said, vowing that Turkey would \u201cstand by our word\u201d on its commitments to the alliance.\nBesides military-technical support, Turkey is reportedly also mulling entry into a Saudi-led naval force in the Red Sea, Bab al-Mandab Strait and the Gulf of Aden \u2013 all areas where the Houthis have solidified their control over the past week.\n\u00a0\nD\u00e9j\u00e0 vu?\n\u00a0\nTurkey\u2019s military capabilities are nothing to sneeze at, with its forces deployed to Turkish Kurdistan, northern Iraq, Azerbaijan, Syria and Libya over the past decade to fight insurgencies or support Ankara-backed proxy forces, and its military hardware used in conflicts stretching from Karabakh to Ukraine.\nBut Yemen is another story. In nearly 400 years, Turkish Ottoman forces never managed to subdue the northern highland regions of Yemen \u2013 home of Zaydi Shia Islam and today, the Houthi movement. So fierce is Yemen\u2019s historical reputation for thrashing its enemies that it became known as the \u201cgraveyard of Ottoman soldiers\u201d due to the amount of troops lost trying to keep the empire\u2019s grip on the region.\nFirst occupied in 1538 as the Ottomans moved to secure Red Sea trade routes won from the Portuguese, Constantinople never succeeded in taming the Zaydi imams, who retreated to impregnable mountain fortresses, and waged nearly a century of warfare before totally expelling the Ottomans from Yemen in 1635.\nWhen the Ottomans returned in the 1870s, the occupation proved even more disastrous, with their forces suffering up to tens of thousands of casualties each year at the hands of Zaydi tribesmen. In 1911, the empire essentially conceded defeat, exiting the region completely after 1918. The British, who had set up a protectorate in Aden in the 1800s, wisely decided not to try to conquer northern Yemen once the Ottomans left, leaving Yemen as the first modern Arab nation to achieve full, uncompromising independence in the 20th century. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T10:19:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
