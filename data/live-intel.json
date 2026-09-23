@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T05:03:07.914134+00:00",
+  "generated_at": "2026-09-23T10:01:39.296885+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -41,14 +41,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZNY NJ",
+      "location": "ZBW NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -60,14 +60,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZBW NY",
+      "location": "ZNY NJ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -137,25 +137,6 @@
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/18/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, September 23, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -478,25 +459,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Reza Pahlavi:\nBefore the Islamic Revolution, we had daily flights from Tel Aviv to Tehran instead of having missiles hitting Tel Aviv every day under this regime.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T00:33:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Trump says his planned arch would become a 'military complex' able to host drones and snipers](https://www.pbs.org/newshour/politics/trump-says-his-planned-arch-would-become-a-military-complex-able-to-host-drones-and-snipers)\nTrump has also been calling the new White House ballroom a \u201cmilitary complex\u201d and arguing it is necessary for national security purposes. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/politics/trump-says-his-planned-arch-would-become-a-military-complex-able-to-host-drones-and-snipers)\npbs\u200b.org \u2022 Sep 20, 2026",
       "source": "Telegram",
@@ -511,6 +473,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah:\nBy the grace of Allah, the Yemeni Armed Forces were able to shoot down an armed reconnaissance aircraft of the type \"Wing Loong II\" belonging to the Saudi enemy, while it was carrying out hostile missions in the airspace of Al-Mukha in Taiz governorate, and it was targeted with an appropriate weapon.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T07:16:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -611,70 +592,51 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddf9\ud83c\uddf7 \u2014 Israeli Defense Minister Israel Katz:\nI warn from here the Hamas terrorist organization and its supporters \u2014 from Iran to Erdogan.\nIf even one Israeli soldier or civilian is kidnapped, the entire city of Gaza, with its homes and its towers of terror, will be evacuated southward, along with more than one million residents, and will be treated in the same way that Rafah, Beit Hanoun and 70% of the Gaza Strip\u2019s territory were treated, until they are returned.\n\ud83d\udd34",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 The U.S State Dept has approved a purchase from the Republic of Ukraine for \u2018Air Defense Upgrade\u2019, \u2018Development upgrade\u2019 & \u2018Air defense reconditioning\u2019 at the cost of $2.68 Billion (USD), with financing from multiple EU countries footing the bill, along with Foreign Military Support loans from the U.S.\nThe State Dept confirms that the Foreign Military Financing (or FMF) will be counted as a U.S. capital contribution to the Ukrainian Reconstruction Investment Fund via a \u201c1:1 reimbursement.\u201d\nThis includes S-300 style \u2018clone\u2019 missiles, Unmanned Aerial System (UAS) radars & countermeasures, additional MIM-23 \u2018FrankenHAWK\u2019 systems, spare parts, etc.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T09:07:29+00:00",
+      "timestamp": "2026-09-23T09:26:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Foreign airlines ending Iran routes following U.S. crackdown on the Islamic regime:\n\u2022 Turkish Airlines: Suspended until at least March 2027\n\u2022 AJet: Suspended until at least March 2027\n\u2022 Pegasus: Removed Iran flights with no return date\n\u2022 Emirates and flydubai: Suspended\n\u2022 Qatar Airways: Suspended\n\u2022 Oman Air: Suspended\n\u2022 Austrian Airlines: Suspended\nCountries restricting Iranian carriers from 23 Sept:\n\u2022 Turkey\n\u2022 Iraq\n\u2022 Georgia\n\u2022 Oman\nUAE, China, India, Pakistan, Thailand, Armenia and Kuwait could face U.S. pressure to follow.",
+      "publisher": "Mediterranean Man",
+      "text": "Another man was charged with the same offences earlier this year for just sharing Hezbollah drone edits to his family group chat.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T04:50:17+00:00",
+      "timestamp": "2026-09-23T08:30:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Near the front line in Donetsk, dozens of Ukrainian FPV drones sit staged and ready for use. The footage comes from a Russian drone operator filming overhead.",
+      "text": "Ukrainian drones are attacking the industrial zone around an oil refinery in Ufa, Russia. The area was already targeted by Ukrainian drones last night, when explosions and a fire were also reported.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T04:40:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Smoke seen rising from Kyiv after a reported drone impact/shrapnel.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T04:29:42+00:00",
+      "timestamp": "2026-09-23T06:56:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,69 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Azerbaijan officially suspended flights to Iran, per Fars News Agency.",
+      "text": "Russia launched 161 drones at Ukraine overnight, including 82 jet-powered Shaheds, according to Ukraine\u2019s Air Force. Air defenses downed or suppressed 122 targets, including 119 Shahed, Gerbera and other drones plus three Banderol/Dan-T UAVs. Impacts were recorded at 18 locations.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T04:26:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "23rd Separate Assault Regiment of the National Guard (Ukraine) R.U.G with Colombian volunteers used a combined drones and soldiers tactic near the village of Kalynove, Kharkiv Oblast, resulting in several Russians killed and their weapons were taken.\nGeolocation: 49.785254,37.612510",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T04:09:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Pakistan \ud83c\uddf5\ud83c\uddf0: Tehrik-e #Taliban Pakistan (#TTP) ambushed Pakistani Forces in Kurram District. As a result Several soldiers / officers were killed.\nMilitants seemingly used Improvised Explosive Device (IED) and Drones armed with modified air-dropped VOG-25P / RLF-FJ grenades.\nhttps://x.com/war_noir/status/2102415902264143923",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T04:06:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Iraq says flights to and from Iran are continuing normally despite reports of an imminent suspension.\nThe Transport Ministry told Kurdistan24 that airports are operating according to schedule and that no order to halt flights has been issued.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T03:54:18+00:00",
+      "timestamp": "2026-09-23T06:55:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
