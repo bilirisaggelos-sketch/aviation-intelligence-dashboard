@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-23T10:01:39.296885+00:00",
+  "generated_at": "2026-09-23T15:03:19.371084+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNampa, ID, Wednesday, September 23, 2026 Local\nFacility: ZLC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/23/2026",
+      "location": "ZLC ID",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nAtchison, KS, Saturday, September 26, 2026 Local\nFacility: ZKC",
@@ -41,14 +60,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZBW NY",
+      "location": "ZNY NJ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -60,14 +79,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZNY NJ",
+      "location": "ZBW NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -306,14 +325,33 @@
       "verified_source_count": 1
     },
     {
+      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
+      "text": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war\nThe local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-23T14:55:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf9\ud83c\uddf7 NEW: Turkish Airlines, Anadolujet, and Pegasus have suspended all flights to and from Iran until March 2027 due to the war",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: The IRGC used FPV drones to kill a squad of terrorists in Saravan, Balochistan Province\nThe IRGC Special Ground Forces 110th \u2018Salman Al-Farsi\u2019 Brigade is clearing the area.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T17:45:04+00:00",
+      "timestamp": "2026-09-23T13:08:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -326,136 +364,42 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddff NEW: After U.S. pressure, Azerbaijan officially suspends Iran Air flights",
+      "publisher": "Clash Report",
+      "text": "Marco Rubio on Iran:\nI don\u2019t want to mischaracterize yesterday\u2019s talks as a major breakthrough, but I think at the same time it was significant that at least there was a conversation.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T17:42:16+00:00",
+      "timestamp": "2026-09-23T14:59:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\udde9\ud83c\uddff\u26a1\ufe0f \u2014 Iranian President Masoud Pezeshkian met with Algeria\u2019s Interior Minister Sa\u00efd Sayoud during a brief stopover at Algiers Airport on his way to New York for the UN General Assembly.",
+      "publisher": "Clash Report",
+      "text": "Iranian President Masoud Pezeshkian:\nIran does not see her neighbors as security rivals \u2014 we want to have strong neighbors. \nIn the waters of the Strait of Hormuz, we do not want to impose insecurity. We cannot let some have free access and gain their interest from a waterway, while at the same time using that waterway to impose their aggressions upon us, to impose insecurity upon us, to forbid us access to our own waterways. \nThey close access for us to our own waterway. They keep supplying missiles and deadly military technologies to bring insecurity to all of the lands surrounding that waterway.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T14:15:07+00:00",
+      "timestamp": "2026-09-23T14:27:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: The first handwritten note by the Supreme Leader of Iran, Ayatollah Seyyed Mojtaba Khamenei, has been released to the public\nIt is dated August 1st, 2026, addressed to IRGC Aerospace Commander Brigadier General Majid Mousavi, and confirms that Seyyed Mojtaba is in active correspondence with all relevant authorities and military officials.\nThe text is as follows:\n\u2018In the Name of God, the Most Gracious, the Most Merciful.\nTo the brave and Mujahid brother, Brigadier General Seyyed Majid Mousavi\u2014may God protect and support him.\nAfter greetings and salutations:\n1). Praise be to God: The report you submitted\u2014a copy of which I had already received\u2014is heartening and gratifying. You have written very little about your own efforts and those of your unsung, self-sacrificing comrades; such is one of the characteristic behaviors of the pious ones.\nThe outcome\u2014by Divine Wisdom\u2014stemming from this quality is, God willing, affection and esteem that the Almighty (Glory be to Him and Exalted be He) bestows upon the sincere, along with manifold blessings and manifest victories.\n2). Regarding the [ballistic missile] supply chain, I hope efforts continue and that reports on the matter are conveyed to me on a regular basis.\n3). Safeguarding your own precious life and the lives of all the brothers is my emphatic request. I hope that, through the blessed prayers of our Master (may God hasten his noble reappearance), all affairs will be set right.\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T13:03:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf3 NEW: In a joint statement at the UN General Assembly, the G7 (UK, Canada, \u200cFrance, \u2060Germany, Italy, Japan & U.S.) called upon Iran to stop arming the Houthis with missiles\nIran said no.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T12:51:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Flights are on holding pattern at Riyadh Airport, Saudi Arabia\nA Yemeni missile attack may be incoming.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T22:11:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf1\ud83c\uddf1\ud83c\uddfb\ud83c\uddf1\ud83c\uddf9 \u2013 Air raids sirens sounded in Lublin, Poland, and Kraslava, eastern Latvia, following Russian strikes on Ukraine and the risk of collateral damage.\nOperations at Vilnius Airport, Lithuania, were suspended due to drone activity around the airport.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T21:41:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf6 NEW: Iraq has caved to U.S. pressure and will ban newly sanctioned Iranian airlines from landing or taking off in Iraq, starting tomorrow \u2013 AFP",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T17:35:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -479,114 +423,58 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah:\nBy the grace of Allah, the Yemeni Armed Forces were able to shoot down an armed reconnaissance aircraft of the type \"Wing Loong II\" belonging to the Saudi enemy, while it was carrying out hostile missions in the airspace of Al-Mukha in Taiz governorate, and it was targeted with an appropriate weapon.\n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iranian President Masoud Pezeshkian:\nIran does not see her neighbors as security rivals \u2014 we want to have strong neighbors. \nIn the waters of the Strait of Hormuz, we do not want to impose insecurity. We cannot let some have free access and gain their interest from a waterway, while at the same time using that waterway to impose their aggressions upon us, to impose insecurity upon us, to forbid us access to our own waterways. \nThey close access for us to our own waterway. They keep supplying missiles and deadly military technologies to bring insecurity to all of the lands surrounding that waterway.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T07:16:00+00:00",
+      "timestamp": "2026-09-23T14:33:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah (Houthis) released a new mixtape showing a wide variety of combat engagements with Saudi-backed forces from the front lines of Yemen. Grenades dropped from drones. Mountain-to-mountain gunfights. Sniper kill cams. Technicals. Mortars. Posing for the camera with captured MRAP\u2019s. Piles of wrecked Toyotas. The works. It is 43 minutes long.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T14:30:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\udde6\ud83c\uddff\ud83c\uddee\ud83c\uddf6\ud83c\uddf4\ud83c\uddf2\ud83c\uddf9\ud83c\uddf7\u274c\ud83c\uddee\ud83c\uddf7 So far Azerbaijan Iraq Oman and Turkiye has suspended Iranian airlines travelling to Iran to their countries \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1Channel 12: \"Hezbollah has moved missiles and precision weapons systems to villages south of the Litani River. Commanders and weapons depots have been moved to the Jabal al-Rayhan and Iqlim al-Tuffah regions.\"\nThe weapons were already there btw",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T19:18:00+00:00",
+      "timestamp": "2026-09-23T12:05:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddeaYemeni Ansarllah Military Spokesman Yahya Saree: \nDuring the past 24 hours, Saudi warplanes launched 19 airstrikes using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif bases, targeting the provinces of Taiz, Al-Jawf, and Marib. These strikes resulted in martyrs and wounded, including children and women, bringing the total number of airstrikes and missiles launched by the Saudi aggression since the start of the escalation against our dear country to 936.\nThe massacres committed by the criminal Saudi enemy against our people will have dire consequences for it, with the help and might of Allah.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T18:34:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\u2014 initial Reports of missile launched from Iran toward the strait of hormuz\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T17:02:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f- Iraqi government sources: \nThere is no decision yet to prevent Iranian aircraft from using Iraqi airspace or landing at Iraqi airports \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T12:56:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nShame on you, Mr. Mamdani. Shame on you for supporting the Hamas monsters who butchered our people.\nShame on you for inciting riots against New York Jews.\nI'm coming to the UN. I'm going to tell the truth about our heroic soldiers, and I'm going to tell the truth about you.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-22T11:21:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -669,12 +557,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "Drone near US missile base? Military calls 112\nAn unauthorized civilian drone was detected near the US Aegis Ashore missile defense base in Redzikowo, Poland, prompting the military to call the national 112 emergency number, Onet reported.\nPoland\u2019s Ministry of National Defence stated that the drone remained approximately 1 km from the base, was monitored by military air defense systems, and never approached sensitive facilities or posed a threat. The operator\u2019s location was subsequently identified and reported to the police.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddec\ud83c\udde7\ud83d\udef0 Britain touts new space warfare unit\nThe so-called No. III Space Effects Squadron is the British Royal Air Force\u2019s first unit dedicated to protecting UK satellites.\nWhile No. I Space Operations Squadron and No. II Space Warning Squadron are tasked with detecting potential space threats, No. III Squadron is expected to act on these warnings and deal with the threats using \u201cadvanced technology, including electronic warfare,\u201d the British government said in a press release.\n\u27a1\ufe0fEarlier this month, the UK pledged \u00a3274 million (about $364 million) to bolster the country\u2019s \u201capace domain awareness\u201d in order to keep a better track satellites, rockets and space debris.\nThis initiative comes as Western powers ramp up their military spending under the pretext of countering some unspecified threat posed by Russia and China.\nBritain has also doubled down on its military cooperation with the US, though it remains to be seen how the new UK space squadron might interact with the US Space Force.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T01:18:37+00:00",
+      "timestamp": "2026-09-23T11:46:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +576,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia trapped by geography, making military options against Houthis unviable\nSaudi Arabia is facing a zugzwang, with the Houthis advancing while regional alliances struggle to meet Riyadh\u2019s security needs, the Jerusalem Post reports, suggesting a possible Saudi-Israeli rapprochement.\nRiyadh has sought air-defense assistance from France, the UK, and Egypt, as well as military support from Turkey and Pakistan under the Mecca Pact.\nIsraeli officials have highlighted the gap between Saudi Arabia\u2019s needs and the assistance it is actually receiving, arguing that Israel could offer military expertise in countering Ansar Allah, the report says.\nBut Israel itself has struggled to fend off combined barrages of drones and missiles launched by the Houthis, Hezbollah, and Iran.\nSaudi Arabia\u2019s geography leaves its oil infrastructure, the backbone of its economy, vulnerable to attacks from Axis of Resistance forces surrounding the kingdom, political scientist Jean-Francois Seznec argues. Diplomacy backed by China may offer a more viable way forward, he notes, stressing Beijing\u2019s role in restoring Saudi-Iranian relations in 2023.\nChina\u2019s influence, technological capabilities, and \u201creal leverage in Tehran,\u201d Seznec argues, could give Beijing greater clout in the Gulf than the US (or Israel) possesses.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udee9 US braces for Ukraine-trained cartel drone operators to enter drug war\nNarco-terrorists returning from Ukraine will \u201calmost certainly\u201d undermine Donald Trump\u2019s war on drugs across the Western Hemisphere, The Washington Post reports.\nThe Ukraine conflict alumni, chiefly from Colombia, boast skills and tactics involving the use of modern drone models and the evasion of electronic warfare systems. Those skills are expected to be adopted by drug cartels in the coming months, US officials say. The pipeline of expertise is unlikely to dry up, as cartels are sending new recruits to Ukraine on one-year contracts to stay up-to-date with drone warfare technology.\nDrug lords in Mexico have already employed unmanned vehicles to monitor the US-Mexico border, monitor US enforcement operations, and identify better smuggling routes. At least one cartel has a hexacopter or octocopter capable of staying airborne for hours and carrying a payload of around 70 kg. This trend is leaving US and Mexican counternarcotics authorities \u201cdangerously unprepared\u201d for a standoff with battle-tested \"droneros\" deployed by the cartels.\nThe US government is reportedly aware of the looming crisis and has raised it with Kiev, which continues to welcome Latin American mercenaries amid a troop shortage and Western pressure to sustain the war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T00:08:58+00:00",
+      "timestamp": "2026-09-23T11:05:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
