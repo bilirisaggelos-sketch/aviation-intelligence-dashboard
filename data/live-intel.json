@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-09-23T15:03:19.371084+00:00",
+  "generated_at": "2026-09-23T19:05:06.303328+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNampa, ID, Wednesday, September 23, 2026 Local\nFacility: ZLC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/23/2026",
-      "location": "ZLC ID",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nAtchison, KS, Saturday, September 26, 2026 Local\nFacility: ZKC",
@@ -332,7 +313,26 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-23T14:55:51+00:00",
+      "timestamp": "2026-09-23T16:53:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Poland accuses Russian military helicopter of violating its airspace",
+      "text": "Poland accuses Russian military helicopter of violating its airspace\nPoland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-23T15:37:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,12 +346,70 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: The IRGC used FPV drones to kill a squad of terrorists in Saravan, Balochistan Province\nThe IRGC Special Ground Forces 110th \u2018Salman Al-Farsi\u2019 Brigade is clearing the area.",
+      "text": "Many have asked my opinion on a possible Russia-NATO conflict.\nThis is going to annoy many people, and hopefully give them a reality check, but my opinion is very simple.\n1. Russia had some valid strategic and ideological reasons for what it did in Ukraine, regardless of whether I condone the invasion or not. Was it successful? Arguably yes, arguably no\u2014it depends on what you consider as the war\u2019s key objectives. The war actually pushed two neutral countries into NATO and pulled Ukraine even further away from Russian influence.\n2. Russia does not have any valid strategic reason to invade the Baltics or any other NATO territory. Any attack on the Baltics cannot be excused as \u2018protecting Russian culture & language\u2019 or fighting \u2018Nazism\u2019. If this does happen, it\u2019ll be a clear sign of expansionism, nothing more and nothing less. Russia is not a saintly country and I don\u2019t put it past them. \n3. If Russia does miscalculate and invade NATO territory, it will backfire spectacularly and the Russians will be bogged down within weeks. A clear victory is unattainable for either side and things will spiral out of control.\n4. NATO is being underestimated by the ziggers. Even without U.S. boots on the ground, European nations pose a significant threat to any Russian advances, and in my opinion, countries like France, Poland, Sweden, and so on should not be dismissed. Even Germany, which is often ridiculed by pro-Russian commentators, should not be dismissed in case of war.\n5. A land war with NATO will therefore, in my opinion, not take place (unless the Russians are retarded). The only thing I possibly see happening is massive drone attacks against Eastern European nations such as Poland or the Baltics. In this aspect of warfare, Russia clearly holds the quantitative advantage & can pressure NATO strongly. But over time, just like with Ukraine, the strategic cost of such a conflict will become too high, and ordinary Russians will feel it.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T13:08:05+00:00",
+      "timestamp": "2026-09-23T18:23:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah (Houthis) released a new mixtape showing a wide variety of combat engagements with Saudi-backed forces from the front lines of Yemen. Grenades dropped from drones. Mountain-to-mountain gunfights. Sniper kill cams. Technicals. Mortars. Posing for the camera with captured MRAP\u2019s. Piles of wrecked Toyotas. The works. It is 43 minutes long.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T15:45:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "Do ballistic missile fragments in the skull count as a \u2018medical emergency\u2019 by any chance?",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T15:41:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea/\ud83c\uddee\ud83c\uddf3 NEW: Footage from the UAE-owned \u2018MV CAPE DAO\u2019 cargo vessel, targeted by the IRGC in the Strait of Hormuz this morning\nThe attack, which took place with two anti-ship missiles, resulted in the death of one Indian national.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T15:30:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,12 +423,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Marco Rubio on Iran:\nI don\u2019t want to mischaracterize yesterday\u2019s talks as a major breakthrough, but I think at the same time it was significant that at least there was a conversation.",
+      "text": "Zelensky:\nWhen Russia started this war, it could never have imagined that Ukrainian long-range drones would one day reach its military factories somewhere in Siberia.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T14:59:50+00:00",
+      "timestamp": "2026-09-23T18:15:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,22 +442,59 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iranian President Masoud Pezeshkian:\nIran does not see her neighbors as security rivals \u2014 we want to have strong neighbors. \nIn the waters of the Strait of Hormuz, we do not want to impose insecurity. We cannot let some have free access and gain their interest from a waterway, while at the same time using that waterway to impose their aggressions upon us, to impose insecurity upon us, to forbid us access to our own waterways. \nThey close access for us to our own waterway. They keep supplying missiles and deadly military technologies to bring insecurity to all of the lands surrounding that waterway.",
+      "text": "Zelensky:\nToday, even the richest countries in the world can't find enough missile interceptors \u2014 current production is simply not enough. \nAnd even those who spent years building up interceptor stocks have already used a large part of them.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T14:27:30+00:00",
+      "timestamp": "2026-09-23T18:11:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nJust imagine this: since the beginning of this year, Russia has already used more than 2,100 missiles of different types against us, against Ukraine, our people, and our children. \nMore than 950 of them were ballistic missiles. \nIn eight months of this year, Russia used 63,000 attack drones of different types against Ukraine, our people. \nAnd more than 7,700 of them were jet-powered Shaheds \u2014 truly destructive and very dangerous weapons. Just think about it.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T18:11:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nRussia's budget deficit is now bigger than in any other year, and most Russian regions are already bankrupt. \nRussia planned major operations on the front this summer \u2014 all of them failed. \nRussia's bets on cruise missiles and Shaheds didn't work the way Putin planned.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T18:09:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -423,6 +518,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea Ansarllah:\nDuring the past 24 hours, Saudi warplanes launched 52 airstrikes and missiles using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif bases, while the missile aggression was launched from Jizan, targeting the provinces of Al-Hodeidah, Taiz, Al-Bayda, Marib, and Sa'ada. They left martyrs and wounded, including women and children, and caused destruction to civilian facilities including telecommunications networks, schools, bridges, roads, and others.\nThis brings the total number of strikes by the Saudi aggression since the start of the escalation against our dear country to 988 airstrikes and missiles.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T18:12:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\udde6\ud83c\uddff\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\u2014 Azerbaijan has suspended flights operated by Iranian airlines to the country from September 22.\nAzerbaijan\u2019s State Civil Aviation Agency said the decision was linked to new U.S. sanctions targeting Iran\u2019s aviation sector.\n\ud83c\uddfa\ud83c\uddf8 The move comes as Washington threatens secondary sanctions against companies providing Iranian carriers with fuel, ground services and other aviation support.\nAffected passengers have been advised to contact their airlines or ticketing agencies.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T16:11:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iranian President Masoud Pezeshkian:\nIran does not see her neighbors as security rivals \u2014 we want to have strong neighbors. \nIn the waters of the Strait of Hormuz, we do not want to impose insecurity. We cannot let some have free access and gain their interest from a waterway, while at the same time using that waterway to impose their aggressions upon us, to impose insecurity upon us, to forbid us access to our own waterways. \nThey close access for us to our own waterway. They keep supplying missiles and deadly military technologies to bring insecurity to all of the lands surrounding that waterway.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -432,13 +565,50 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "I am not happy about the reignition of the Ethiopian civil war.\nThey say the war reignited in three different territories and it is coordinated attacks, airports got seized, local governments got couped, overall. it is going to be a very shitty day.\nI, of all people, should be happy. Were it the Federal Government that told Kenyan officials that \"Egyptian special forces were on the ground\", or those who denigrated us continuously in the media, with some on their TV openly saying they have no issue taking away our water from us?\nAll nations have some people who have bottomless malice in their hearts, yet they are still people all the same, why should I be happy that another one or two million people are going to die, and twice that number will be orphaned and double that be traumatized for their lives?\nI helped Ethiopians find work, I shared bread and salt with some of them, and for a time politics was not part of our world, we became friends and coworkers, afterall, we share a continent and we must learn to live away from the madmen of ethnic supremacists and political fanatics. \nYet, peace is not meant to be, the Feds will be fighting against the rebels and the locals, probably to the bitter end this time, the horror show will go on. At some point war is inevitable, let us hope it will be the final one.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T18:20:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "US: \"Uhh yeah that guy diddled our kids but I sold him a ticket to Tel Aviv anyway.\"\nEgypt: \"He has been in a dark cell for half a year. He will never be the same anymore.\"\nThe three in question were Israeli Bedouins, they are of the tribes who enlist in the IDF border guard and so on, while returning from Sharm they were stopped and disappeared.\nOver half a year, the only information regarding their arrest and disappearance is that the case is not \"criminal\" and relates to national security.\nIt is probable that Israeli media leaked the case after half a year because all avenues of discussion were exhausted.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T16:16:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -452,12 +622,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -557,12 +728,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddec\ud83c\udde7\ud83d\udef0 Britain touts new space warfare unit\nThe so-called No. III Space Effects Squadron is the British Royal Air Force\u2019s first unit dedicated to protecting UK satellites.\nWhile No. I Space Operations Squadron and No. II Space Warning Squadron are tasked with detecting potential space threats, No. III Squadron is expected to act on these warnings and deal with the threats using \u201cadvanced technology, including electronic warfare,\u201d the British government said in a press release.\n\u27a1\ufe0fEarlier this month, the UK pledged \u00a3274 million (about $364 million) to bolster the country\u2019s \u201capace domain awareness\u201d in order to keep a better track satellites, rockets and space debris.\nThis initiative comes as Western powers ramp up their military spending under the pretext of countering some unspecified threat posed by Russia and China.\nBritain has also doubled down on its military cooperation with the US, though it remains to be seen how the new UK space squadron might interact with the US Space Force.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8Russia hits Ukrainian intel data hubs and logistics nodes\nRussia's Armed Forces struck a series of high-value targets across Ukraine on Wednesday, the Defense Ministry reports.\n\ud83d\udccdIn Kiev, drone strikes destroyed the United DS data center, which handled data processing, transmission, and international communications for Ukraine's special services. A second Kiev facility \u2014 the New-Telco data center, a key internet traffic exchange hub for Ukraine's Defense Ministry \u2014 was also hit.\n\ud83d\udccdIn the Odessa region, strikes took out two logistics centers in Odessa and Ilyichevka, that were used for storing and distributing military cargo flowing in from European states.\nThe operation targeted data centers, logistics hubs, and warehouse terminals supporting the Ukrainian military's operations.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T11:46:01+00:00",
+      "timestamp": "2026-09-23T15:35:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -576,12 +747,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udee9 US braces for Ukraine-trained cartel drone operators to enter drug war\nNarco-terrorists returning from Ukraine will \u201calmost certainly\u201d undermine Donald Trump\u2019s war on drugs across the Western Hemisphere, The Washington Post reports.\nThe Ukraine conflict alumni, chiefly from Colombia, boast skills and tactics involving the use of modern drone models and the evasion of electronic warfare systems. Those skills are expected to be adopted by drug cartels in the coming months, US officials say. The pipeline of expertise is unlikely to dry up, as cartels are sending new recruits to Ukraine on one-year contracts to stay up-to-date with drone warfare technology.\nDrug lords in Mexico have already employed unmanned vehicles to monitor the US-Mexico border, monitor US enforcement operations, and identify better smuggling routes. At least one cartel has a hexacopter or octocopter capable of staying airborne for hours and carrying a payload of around 70 kg. This trend is leaving US and Mexican counternarcotics authorities \u201cdangerously unprepared\u201d for a standoff with battle-tested \"droneros\" deployed by the cartels.\nThe US government is reportedly aware of the looming crisis and has raised it with Kiev, which continues to welcome Latin American mercenaries amid a troop shortage and Western pressure to sustain the war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\udd25Trump\u2019s Gaza plan gets bogged down amid Israeli political and funding hurdles\nUS President Donald Trump\u2019s Board of Peace is set to unveil a $2.45 billion recovery plan for Gaza, but has yet to secure the full sum, Axios reports.\nBoard of Peace officials claim donor countries would fund the plan\u2019s 66 projects once key political hurdles are cleared.\n\u27a1\ufe0f A major obstacle is Israel. While it has agreed in principle to the plan\u2019s agenda, it has refused to implement it, citing domestic political concerns and the ongoing election cycle.\nThe October 27 Israeli elections may fail to produce a clear winner, with Gadi Eisenkot\u2019s Yashar party increasingly challenging Benjamin Netanyahu\u2019s Likud. A post-election deadlock could further delay implementation of the Gaza recovery plan.\nMeanwhile, Hamas has agreed to hand over its weapons to a Palestinian governing committee, but the process remains stalled as Israel refuses to withdraw from Gaza and implement a 14-day ceasefire.\n\ud83d\udc49 Flattened by Israeli strikes, Gaza\u2019s reconstruction needs far exceed the $2.45 billion plan: physical damage is estimated at $35.2 billion, while full recovery could cost around $71.4 billion over the next decade.\nThe Board of Peace comprises dozens of member countries and is overseen by an Executive Board that includes High Representative for Gaza Nickolay Mladenov and former British Prime Minister Tony Blair. Trump's son-in-law Jared Kushner and White House envoy Steve Witkoff are expected to attend the September 23 meeting.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T11:05:01+00:00",
+      "timestamp": "2026-09-23T15:12:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
