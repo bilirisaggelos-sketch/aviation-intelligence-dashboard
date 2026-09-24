@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T05:59:49.896029+00:00",
+  "generated_at": "2026-09-24T11:37:32.455223+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -60,14 +60,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZNY NJ",
+      "location": "ZBW NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -79,14 +79,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZBW NY",
+      "location": "ZNY NJ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -137,25 +137,6 @@
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/18/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -230,6 +211,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2685\r\nIssue Time: 2026 Sep 24 0952 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 24 0945 UTC\nSynoptic Period: 0900-1200\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-24 09:52:18.960",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5419\r\nIssue Time: 2026 Sep 24 0945 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 24 0944 UTC\nValid To: 2026 Sep 24 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-24 09:45:24.477",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1126\r\nIssue Time: 2026 Sep 21 1832 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 22: None (Below G1) Sep 23: None (Below G1) Sep 24: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -287,44 +306,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2265\r\nIssue Time: 2026 Sep 15 1856 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Sep 15 1855 UTC\nValid To: 2026 Sep 16 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-15 18:56:11.670",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5417\r\nIssue Time: 2026 Sep 15 1850 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 15 1849 UTC\nValid To: 2026 Sep 16 0600 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-15 18:50:25.120",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
       "text": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war\nThe local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
       "source": "BBC",
@@ -332,7 +313,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-24T04:37:47+00:00",
+      "timestamp": "2026-09-24T09:28:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -422,12 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Spanish PM Pedro S\u00e1nchez:\nOver the last eight years, my country has opposed all wars of aggression wherever they have started, whether it's in Ukraine, in Lebanon or in Iran. \nWe have refused to increase our military spending to 5% of GDP, and we've done everything possible to avoid aggressions that run counter to the UN Charter \u2014 placing sanctions on the Russian aggressors, imposing an arms embargo on the Netanyahu government in Israel, and prohibiting the use of our territory to deploy an aggression that was against international law, and unequivocally condemning the genocide that Netanyahu is still perpetrating in Gaza.",
+      "text": "NEW: All flights operated by Iranian airlines to the UAE have been canceled since midnight, according to Iran\u2019s Civil Aviation Organization, ISNA reported.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:37:39+00:00",
+      "timestamp": "2026-09-24T09:46:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The Wall Street Journal reports that Iranian customs data show about 1,300 shipments of Chinese dual-use components to Iran\u2019s Defense Ministry this year through June, including electronics, motors, GPS equipment and aircraft parts that can be used in drones and missiles.\nShipments accelerated after the U.S. blockaded Iranian sea trade, with sanctioned Iranian airline Mahan Air sharply increasing cargo flights from China.\nChinese companies have also supplied chemicals used in ballistic-missile production, while U.S. officials have sanctioned Chinese and Hong Kong entities accused of helping Iran obtain weapons and military technology.\nDespite this, the Trump administration has largely avoided directly confronting Beijing. Trump has said he trusts Xi and questioned how much China is enabling Iran, while officials have played down Chinese assistance ahead of Trump\u2019s summit with Xi.\nChina denies improperly supporting Iran\u2019s war effort, saying it follows international rules, regulates dual-use exports and opposes unilateral U.S. sanctions.\nSource: WSJ",
+      "text": "Bessent on Iran:\nThe tankers, they may get hit. Many of them just sail on. They just sail on.\nYou know, the Iranians may launch three, four, five, six drones after them. Our great navy is blocking them.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:32:19+00:00",
+      "timestamp": "2026-09-24T09:01:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,22 +441,21 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A large fire broke out in Kyiv after a Russian missile strike, with bright flashes seen over the city.",
+      "text": "Russian drone/missile strike on Kyiv hit multiple data centers, knocking out internet for ~100,000 households. \nISPs UTELS, Pavutina, Crazy Network, and Etherlink all reported major node damage.\nHosting providers Cityhost and MiroHost lost Kyiv-based equipment, with MiroHost's local facility destroyed entirely (95% of clients unaffected on foreign servers). \nProviders are warning of significant price increases, saying current ~300-350 UAH rates are no longer viable given the cost of maintaining resilient infrastructure under constant attack. \nRussia claimed the sites supported military communications; Ukraine says they were civilian telecom infrastructure.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T23:08:23+00:00",
+      "timestamp": "2026-09-24T08:51:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
+        "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -512,6 +492,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Alerts have been issued in Yanbu, Saudi Arabia, likely due to Houthi Missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T10:22:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -594,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 2 Oniks super sonic cruise missiles have been launched towards Kiev from ground based launchers",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf9Italian Defense Minister Crosetto responded: \"It serves no one and there is no confirmation of the alarm raised this morning by a Spanish newspaper, which hypothesizes possible attacks on Italy, Spain, and France by Russian ships and drones. We are already living in difficult and tense times, and no one needs any more fuel on the fire.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T22:01:33+00:00",
+      "timestamp": "2026-09-24T10:38:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -613,12 +612,31 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "I am not happy about the reignition of the Ethiopian civil war.\nThey say the war reignited in three different territories and it is coordinated attacks, airports got seized, local governments got couped, overall. it is going to be a very shitty day.\nI, of all people, should be happy. Were it the Federal Government that told Kenyan officials that \"Egyptian special forces were on the ground\", or those who denigrated us continuously in the media, with some on their TV openly saying they have no issue taking away our water from us?\nAll nations have some people who have bottomless malice in their hearts, yet they are still people all the same, why should I be happy that another one or two million people are going to die, and twice that number will be orphaned and double that be traumatized for their lives?\nI helped Ethiopians find work, I shared bread and salt with some of them, and for a time politics was not part of our world, we became friends and coworkers, afterall, we share a continent and we must learn to live away from the madmen of ethnic supremacists and political fanatics. \nYet, peace is not meant to be, the Feds will be fighting against the rebels and the locals, probably to the bitter end this time, the horror show will go on. At some point war is inevitable, let us hope it will be the final one.",
+      "text": "\u26a1\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf9\ud83c\uddeb\ud83c\uddf7According to reports by the Spanish daily El Mundo, the CIA reportedly warned Spain, France, and Italy that Russia might plan drone attacks against them, sharing intelligence information with some European governments following CIA Director John Ratcliffe's visit to Moscow in August. \nThe model indicated is the Gerbera, a Russian drone with a declared range of approximately 600 km, designed to be transported in containers and launched from a merchant ship at sea.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T18:20:32+00:00",
+      "timestamp": "2026-09-24T10:37:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 2 Oniks super sonic cruise missiles have been launched towards Kiev from ground based launchers",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T22:01:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -784,70 +802,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf5\ud83c\uddf0\ud83c\udde6\ud83c\uddebPakistan strikes 10 targets in Afghanistan as tensions rise\nPakistan\u2019s military said it carried out air and drone strikes on ten locations inside Afghanistan, targeting sites it described as linked to attacks launched from Afghan territory.\nThe Pakistani military said the strikes targeted sites linked to militant groups operating near the border. The operation follows repeated accusations from Islamabad that armed groups based in Afghanistan have carried out attacks inside Pakistan.\nAfghan authorities have previously accused Pakistan of violating Afghan sovereignty during similar operations.\nRelations between the two neighbours have deteriorated in recent months, with Kabul rejecting Pakistan\u2019s claims and criticizing cross-border strikes as violations of Afghan sovereignty.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T10:25:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udde6\ud83c\uddf7 Milei puts Trump, Netanyahu \u2018far above\u2019 ordinary leaders\nArgentine President Javier Milei lavished praise on Donald Trump and Benjamin Netanyahu during an interview in New York, placing both men well above what he called the average person \u2014 and even above most world leaders.\n\ud83d\udcac \u201cBoth Trump and Netanyahu are two people who are far above not only the average individual, but also within the concert of nations.\u201d\nMilei went even further on the Israeli prime minister:\n\ud83d\udcac \u201cNetanyahu is an extraordinary leader with a geopolitical vision, and someone who understands the link with the cultural battle like very few people in the world.\u201d\nHe also named Marco Rubio and Scott Bessent among the small circle of figures he believes understand that \u201ccultural battle.\u201d\nQuite the roster of political heroes for Argentina\u2019s president.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-24T04:16:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2705 WATCH: Russian ballistic missiles hammer Kiev, Odessa as power, water outages reported\nRussia launched a major wave of ballistic missile strikes on Kiev shortly after 1 a.m., with repeated explosions reported across the Ukrainian capital. Ukrainian monitoring channels said at least eight ballistic missiles were launched toward the city.\nLarge fires and bright electrical flashes were reported after the strikes, while parts of Kiev experienced disruptions to electricity and water supplies.\nSeparate reports also indicated powerful explosions in Odessa and the surrounding region as the overnight strike wave continued.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T00:06:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Ship burns after missile strikes in Strait of Hormuz \u2014 reports\nNew footage shows a vessel taking a direct hit and catching fire while transiting the Strait of Hormuz after failing to comply with Iranian transit rules, Naya reported.\nThe incident was earlier reported by the UK Maritime Trade Operations, which said a security officer for the vessel had reported being struck by an unidentified projectile.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T23:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8 US senator calls Iran\u2019s leaders \u2018reptiles\u2019 as Pezeshkian shows civilian war victims\nUS Senator John Kennedy launched into a tirade against Iran, China, North Korea and Russia, describing their governments as a \u201ccolony of reptiles.\u201d\n\ud83d\udcac \u201cI think that the people running Iran are reptiles.\u201d\nKennedy then compared all four governments to \u201cthe same hooker in different dresses\u201d, adding:\n\ud83d\udcac \u201cThey all lie like timeshare salesmen. You can't trust them.\u201d\nThe timing made the segment especially striking: as Kennedy spoke, the broadcast was showing Iranian President Masoud Pezeshkian presenting a booklet documenting Iranian civilians killed in US attacks.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T21:14:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
