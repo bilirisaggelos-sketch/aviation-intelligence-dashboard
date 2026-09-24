@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-09-24T15:56:01.943894+00:00",
+  "generated_at": "2026-09-24T19:56:29.326622+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, September 25, 2026 through Sunday, September 27, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/24/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nChicago, IL, Sunday, September 27, 2026 Local\nFacility: ZAU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/24/2026",
+      "location": "ZAU IL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nKnoxville, TN, Saturday, September 26, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/24/2026",
+      "location": "ZTL TN",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNewburgh, NY\nFacility: ZBW",
@@ -86,25 +143,6 @@
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/20/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDestin, FL, Monday, September 21, 2026 through Thursday, September 24, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/18/2026",
       "location": "ZJX FL",
       "lat": null,
       "lon": null,
@@ -268,33 +306,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Poland accuses Russian military helicopter of violating its airspace",
-      "text": "Poland accuses Russian military helicopter of violating its airspace\nPoland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-23T15:37:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf9\ud83c\uddf2/\ud83c\udde6\ud83c\uddff NEW: Turkmenistan and Azerbaijan have also completely closed their airspace to Iranian flights\nAn Iranian \u2018Varesh Airlines\u2019 flight to Tajikistan was forced to turn back to Imam Khomeini Airport today after Turkmenistan refused to allow overflight of its airspace.\nThe captain attempted to get overflight permission from Azerbaijan, but was denied. All of this comes as part of newly implemented U.S. sanctions.",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf3 Netanyahu complains about Iranian ballistic missiles:\n\u2018Ladies and gentlemen, you're sitting here in the General Assembly Hall of the UN. \nDo you know what just one one-ton ballistic missile would do if it hit this place? \nIt would obliterate the entire compound. In fact, two such missiles would obliterate the UN.\u2019",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T12:11:31+00:00",
+      "timestamp": "2026-09-24T18:37:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -308,12 +327,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea BREAKING: The UAE has completely closed its airspace to all Iranian flights \nIn response, Iran has also closed its airspace to Emirati flights.\nFlyDubai plane from Azerbaijan can be seen taking a detour.",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 NEW: Israeli Prime Minister Benjamin Netanyahu says \u2018maybe 2 or 3\u2019 Palestinians have been killed in settler violence in the West Bank",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T12:09:12+00:00",
+      "timestamp": "2026-09-24T18:34:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -327,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "Many have asked my opinion on a possible Russia-NATO conflict.\nThis is going to annoy many people, and hopefully give them a reality check, but my opinion is very simple.\n1. Russia had some valid strategic and ideological reasons for what it did in Ukraine, regardless of whether I condone the invasion or not. Was it successful? Arguably yes, arguably no\u2014it depends on what you consider as the war\u2019s key objectives. The war actually pushed two neutral countries into NATO and pulled Ukraine even further away from Russian influence.\n2. Russia does not have any valid strategic reason to invade the Baltics or any other NATO territory. Any attack on the Baltics cannot be excused as \u2018protecting Russian culture & language\u2019 or fighting \u2018Nazism\u2019. If this does happen, it\u2019ll be a clear sign of expansionism, nothing more and nothing less. Russia is not a saintly country and I don\u2019t put it past them. \n3. If Russia does miscalculate and invade NATO territory, it will backfire spectacularly and the Russians will be bogged down within weeks. A clear victory is unattainable for either side and things will spiral out of control.\n4. NATO is being underestimated by the ziggers. Even without U.S. boots on the ground, European nations pose a significant threat to any Russian advances, and in my opinion, countries like France, Poland, Sweden, and so on should not be dismissed. Even Germany, which is often ridiculed by pro-Russian commentators, should not be dismissed in case of war.\n5. A land war with NATO will therefore, in my opinion, not take place (unless the Russians are retarded). The only thing I possibly see happening is massive drone attacks against Eastern European nations such as Poland or the Baltics. In this aspect of warfare, Russia clearly holds the quantitative advantage & can pressure NATO strongly. But over time, just like with Ukraine, the strategic cost of such a conflict will become too high, and ordinary Russians will feel it.",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfa\ud83c\uddf3 NEW: Benjamin Netanyahu says October 7th was 16 times as bad as the 9/11 terrorist attacks",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T18:23:03+00:00",
+      "timestamp": "2026-09-24T18:26:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -340,18 +359,76 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8/\ud83c\uddfa\ud83c\uddf3 Benjamin Netanyahu: \n\u2018On October 7th, Khamas monsters slaughtered Holocaust survivors.\nThey burnt babies alive in front of their parents, beheaded our men, and raped our women.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T18:24:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfa\ud83c\uddf3 NEW: Israeli Prime Minister Benjamin Netanyahu begins his speech at the UN General Assembly\nAlmost every single delegation walks out, many of them heckling and booing Netanyahu, while only a few remain.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T18:11:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Q: We have read reports published in the foreign press mentioning a possible Russian drone attack by sea that could target Europe, and in particular the south of France.\nMacron: We can deny that information. The CIA did not inform the French services of such an attack, and the Italian defense minister said the same thing.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T19:44:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: T\u00fcrkiye\u2019s MKE successfully tested its P\u0130RANA kamikaze unmanned surface vessel during the Denizkurdu-I 2026 naval exercise, hitting a surface target with a live 100 kg warhead for the first time. \nDesigned with a low-cost, simple, and effective philosophy, P\u0130RANA can operate solo or in swarms, using stealth features to evade radar. \nIt reaches speeds over 40 knots, has a mission range exceeding 200 nautical miles, and can be controlled remotely via radio or satellite, or operate autonomously. \nIt also integrates with UAVs. A previous test linked it with TCG ANADOLU and a Bayraktar TB3 drone.",
+      "text": "Netanyahu Claims Israel Prevented Genocide in Hostile UN Address\nBenjamin Netanyahu used a combative UNGA address to reject genocide accusations, attack dozens of world leaders, defend Israel\u2019s wars, and condemn delegates who walked out.\n[READ MORE](https://clashreport.com/world/articles/netanyahu-says-israel-america-saved-civilization-as-delegations-walk-out-8eiybe5an1x)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T14:54:04+00:00",
+      "timestamp": "2026-09-24T19:06:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -479,12 +556,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf9Italian Defense Minister Crosetto responded: \"It serves no one and there is no confirmation of the alarm raised this morning by a Spanish newspaper, which hypothesizes possible attacks on Italy, Spain, and France by Russian ships and drones. We are already living in difficult and tense times, and no one needs any more fuel on the fire.\"",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 Prime Minister Benjamin Netanyahu:\nNow you want to hear the ultimate irony?\nIn defending itself, Israel is also defending many of the countries whose delegates just left this hall.\nIn fact, I want you to know that many of their leaders even thank us privately for taking out Iran's nukes.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T10:38:36+00:00",
+      "timestamp": "2026-09-24T18:40:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -498,21 +575,42 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf9\ud83c\uddeb\ud83c\uddf7According to reports by the Spanish daily El Mundo, the CIA reportedly warned Spain, France, and Italy that Russia might plan drone attacks against them, sharing intelligence information with some European governments following CIA Director John Ratcliffe's visit to Moscow in August. \nThe model indicated is the Gerbera, a Russian drone with a declared range of approximately 600 km, designed to be transported in containers and launched from a merchant ship at sea.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe Prime Minister Benjamin Netanyahu:\nWe weren't on the Golan Heights.\nOh, and Monsieur al-Sharaa, you should know the Jews have been on the Golan Heights since the days of Moses.\nYou can read it in the Bible.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T10:37:36+00:00",
+      "timestamp": "2026-09-24T18:36:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf3\u26a1\ufe0f \u2014 NOW: Israeli Prime Minister Benjamin Netanyahu is now addressing the UN General Assembly.\nMany delegations are leaving the assembly, while a few applaud him.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T18:12:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -669,12 +767,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\ud83d\udcb5 UAE spearheads Trump\u2019s \u2018economic D-Day\u2019 sanctions by banning Iranian flights\nThe United Arab Emirates has halted flights operated by Iranian airlines since midnight to comply with US sanctions, ISNA news agency reports, citing a spokesman for Iran\u2019s Civil Aviation Organization.\nIt was reported that flights operated by Iranian airlines to Turkmenistan and Azerbaijan have also been suspended.\nUS Treasury Secretary Scott Bessent earlier claimed that operations of Iranian airlines would be discontinued globally starting September 23, under the threat of US secondary sanctions.\n\ud83d\udcac \u201cWhen Iranian airlines land at an airport, you cannot provide them with fuel, you cannot provide them with landing services, you cannot sell them tickets, or you will be knocked out of the dollar system,\u201d Bessent told CNBC on September 21.\nThe UAE was the first to implement Washington\u2019s sanctions against Iran after US President Donald Trump announced his \u201cEconomic D-Day\u201d measures targeting Iran on August 19. On the same day, the UAE imposed an indefinite trade embargo on the country after accusing Iranian forces of launching two ballistic missiles at its territory \u2014 a claim Tehran has denied.\nMost recently, the Emirati central bank prohibited Iran\u2019s Bank Melli, the country\u2019s largest state-owned financial institution, from conducting business in the Gulf state.\nDubai and the other emirates had until recently served as key hubs for Iran\u2019s financial and trading activities.\nMeanwhile, China, Iran\u2019s largest trading partner, has firmly rejected Washington\u2019s sanctions pressure on Iran. On September 22, Beijing specifically opposed what it described as \u201cillegal\u201d US sanctions on Iranian airlines.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udc79Netanyahu rejects genocide accusations at UNGA\nIsraeli Prime Minister Benjamin Netanyahu rejected allegations of genocide against Israel, saying the country\u2019s actions were aimed at preventing it.\n\ud83d\udcac\u201cIsrael didn\u2019t commit genocide. Israel prevented genocide!\u201d Netanyahu said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T15:13:01+00:00",
+      "timestamp": "2026-09-24T18:41:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +786,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udca3 Renewed war on Iran could spill into Indian Ocean - adviser to Iran's supreme leader\nIran\u2019s military has already prepared plans for a worst-case scenario of renewed US-Israeli strikes, Major-General Yahya Rahim Safavi, a senior adviser to Iran\u2019s supreme leader Mojtaba Khamenei, stated in a video released by Fars.\n\ud83d\udcac \u201cSince the conflict has spread from the Persian Gulf and Strait of Hormuz to the Red Sea, it is possible that - in response to more war - the front will expand even further, reaching the Indian Ocean and perhaps beyond,\u201d Safavi said.\nHe outlined that:\n\u2666\ufe0f any new American action could be confronted with an expanded Red Sea front \u201cbefore their very eyes,\u201d possibly centered on the Red Sea and the Bab al-Mandeb Strait\n\u2666\ufe0f Iran is ready to escalate far beyond current flashpoints if attacked again\nThe official praised Yemen\u2019s Houthis for seizing control of the Red Sea coastline, and standing up to \u201cany invading force that sought to encroach on their territorial integrity.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7Soleimani portrait displayed at Iranian delegation\u2019s table during Netanyahu speech\nA framed photograph of former IRGC Quds Force commander Qassem Soleimani was displayed on the table of the Iranian delegation during Israeli Prime Minister Benjamin Netanyahu\u2019s address at the UN General Assembly.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T13:51:01+00:00",
+      "timestamp": "2026-09-24T18:36:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +805,70 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf5\ud83c\uddf0\ud83c\udde6\ud83c\uddebPakistan strikes 10 targets in Afghanistan as tensions rise\nPakistan\u2019s military said it carried out air and drone strikes on ten locations inside Afghanistan, targeting sites it described as linked to attacks launched from Afghan territory.\nThe Pakistani military said the strikes targeted sites linked to militant groups operating near the border. The operation follows repeated accusations from Islamabad that armed groups based in Afghanistan have carried out attacks inside Pakistan.\nAfghan authorities have previously accused Pakistan of violating Afghan sovereignty during similar operations.\nRelations between the two neighbours have deteriorated in recent months, with Kabul rejecting Pakistan\u2019s claims and criticizing cross-border strikes as violations of Afghan sovereignty.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf1Netanyahu reiterates baseless \u2018Hamas burned babies\u2019 claim at UN\nIn his speech at the UN General Assembly, Israeli PM Benjamin Netanyahu once again brought up the alleged atrocities committed by Hamas during the October 7 attacks, claiming that the Palestinian militants \u201cburned babies alive in front of their parents.\u201d\nHowever, nearly three years after the attacks, Israel has failed to provide evidence to back up this shocking claim.\nSeveral investigations later found that some of the most widely circulated early reports about murdered or burned babies were unverified or false, while children were among those killed during the attack.\nNetanyahu\u2019s speech also came as international organizations document the deaths of large numbers of Palestinian civilians, including children, during Israel\u2019s military campaign in Gaza.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T10:25:28+00:00",
+      "timestamp": "2026-09-24T18:34:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1Netanyahu brings 'Hezbollah pagers' to UNGA speech\nIsraeli Prime Minister Benjamin Netanyahu held up a pager during his UN General Assembly address:\n\ud83d\udcac\u201cYou remember the beepers? Remember these things? Well, I can tell you this. Hezbollah certainly remembers them,\u201d Netanyahu said.\nHezbollah pagers were part of a 2024 operation in which thousands of devices exploded across Lebanon. Former Mossad chief Yossi Cohen [previously described](https://t.me/geopolitics_prime/58902) Israel\u2019s use of \u201cbooby-trapped and manipulated equipment\u201d as part of covert operations.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T18:25:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3Netanyahu invokes Bible in Golan Heights claim as Syria rejects Israeli control\nIsraeli Prime Minister Benjamin Netanyahu defended Israel\u2019s claim to the Golan Heights during his UNGA speech, telling Syria's interim leader Ahmed al-Sharaa: \u201cThe Jews have been on the Golan Heights since the days of Moses. You can read it in the Bible.\u201d\nEarlier, al-Sharaa said the territory remains Syrian land and called Israeli annexation decisions invalid under UN resolutions, demanding the withdrawal of Israeli forces.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T18:14:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 Ethiopian rebels advance, threatening to destabilize East Africa amid Gulf crisis\nTigrayan rebels in northern Ethiopia are clashing with federal forces after launching a major offensive on September 23.\nThe Tigray People\u2019s Liberation Front (TPLF) and aligned forces reportedly seized control of Alula Aba Nega Airport in Mekelle, as well as airports in Axum and Shire.\n\ud83d\udd34 In neighboring Afar, clashes with federal forces were reported in Abala and Erebti. The TPLF also reportedly took control of Berhale, Megale, Dalul and Konoba\n\ud83d\udd34 The Amhara region has also been targeted by the TPLF\n\ud83d\udd34 Fighting was reported around the Amhara town of Weldiya, one of the few routes to the capital, Addis Ababa\nThe rebels aim to take Addis Ababa, while the offensive in Afar could seek to cut off supplies from Djibouti, which handles most of Ethiopia\u2019s international trade cargo, experts say.\nVideos appearing to show captured federal troops and military equipment are circulating on social media.\nThe unfolding conflict could affect Sudan, Eritrea, Somalia and the wider Red Sea region, Reuters reports.\nThe US Embassy in Addis Ababa has barred US government personnel from traveling to Tigray and Afar and advised American citizens in the conflict zone to shelter in place until it is safe to leave.\nEthiopia\u2019s federal government and the TPLF fought a 2020-2022 civil war that claimed more than 600,000 lives. The TPLF dominated Ethiopia\u2019s government from 1991 to 2018, before Prime Minister Abiy Ahmed came to power.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T17:16:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
