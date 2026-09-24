@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-23T22:19:34.441657+00:00",
+  "generated_at": "2026-09-24T00:47:42.248614+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNewburgh, NY, Thursday, September 24, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/23/2026",
+      "location": "ZBW NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nAtchison, KS, Saturday, September 26, 2026 Local\nFacility: ZKC",
@@ -41,14 +60,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZBW NY",
+      "location": "ZNY NJ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -60,14 +79,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, September 25, 2026 through Friday, September 25, 2026 Local\nFacility: ZNY",
+      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
-      "location": "ZNY NJ",
+      "location": "ZBW NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -117,7 +136,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -136,7 +155,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Thursday, September 24, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -374,13 +393,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -423,12 +441,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: Russian reporters shout at Zelensky: \nWhen will you go to Moscow?\nHis reply: \nOn a rocket!",
+      "text": "A large fire broke out in Kyiv after a Russian missile strike, with bright flashes seen over the city.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T20:40:00+00:00",
+      "timestamp": "2026-09-23T23:08:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Bessent on Iran:\nThe external flights from Iran, probably more than 80 or 90% of them, got shut down. I'm not sure how the Iranian representatives at the UN are going to get home.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T22:33:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,20 +479,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nI met with President of T\u00fcrkiye Recep Tayyip Erdogan. I thanked him for his consistent support for Ukraine\u2019s territorial integrity and sovereignty. \nWe discussed bilateral issues as well: the free trade zone and the potential Drone Deal. I am grateful to T\u00fcrkiye for its willingness to help in the pursuit of peace.",
+      "publisher": "Our Wars Today",
+      "text": "[Skyrocketing diesel prices rattle Republicans as midterms approach](https://apnews.com/article/diesel-prices-trump-exports-iran-522435dd87d2a9b5270eebfa309f4a73)\nDiesel prices are hitting record highs as the Middle East conflict intensifies, affecting American farmers and rural residents. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/diesel-prices-trump-exports-iran-522435dd87d2a9b5270eebfa309f4a73)\nNicholas Riccardi,Cathy Bussewitz | apnews\u200b.com \u2022 Sep 23, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T20:35:30+00:00",
+      "timestamp": "2026-09-23T22:55:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -612,26 +650,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah (Houthis) released a new mixtape showing a wide variety of combat engagements with Saudi-backed forces from the front lines of Yemen. Grenades dropped from drones. Mountain-to-mountain gunfights. Sniper kill cams. Technicals. Mortars. Posing for the camera with captured MRAP\u2019s. Piles of wrecked Toyotas. The works. It is 43 minutes long.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T14:30:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukrainian drones are attacking the industrial zone around an oil refinery in Ufa, Russia. The area was already targeted by Ukrainian drones last night, when explosions and a fire were also reported.",
       "source": "Telegram",
@@ -671,50 +689,51 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2705 WATCH: Russian ballistic missiles hammer Kiev, Odessa as power, water outages reported\nRussia launched a major wave of ballistic missile strikes on Kiev shortly after 1 a.m., with repeated explosions reported across the Ukrainian capital. Ukrainian monitoring channels said at least eight ballistic missiles were launched toward the city.\nLarge fires and bright electrical flashes were reported after the strikes, while parts of Kiev experienced disruptions to electricity and water supplies.\nSeparate reports also indicated powerful explosions in Odessa and the surrounding region as the overnight strike wave continued.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T00:06:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Ship burns after missile strikes in Strait of Hormuz \u2014 reports\nNew footage shows a vessel taking a direct hit and catching fire while transiting the Strait of Hormuz after failing to comply with Iranian transit rules, Naya reported.\nThe incident was earlier reported by the UK Maritime Trade Operations, which said a security officer for the vessel had reported being struck by an unidentified projectile.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-23T23:04:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddfa\ud83c\uddf8 US senator calls Iran\u2019s leaders \u2018reptiles\u2019 as Pezeshkian shows civilian war victims\nUS Senator John Kennedy launched into a tirade against Iran, China, North Korea and Russia, describing their governments as a \u201ccolony of reptiles.\u201d\n\ud83d\udcac \u201cI think that the people running Iran are reptiles.\u201d\nKennedy then compared all four governments to \u201cthe same hooker in different dresses\u201d, adding:\n\ud83d\udcac \u201cThey all lie like timeshare salesmen. You can't trust them.\u201d\nThe timing made the segment especially striking: as Kennedy spoke, the broadcast was showing Iranian President Masoud Pezeshkian presenting a booklet documenting Iranian civilians killed in US attacks.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-23T21:14:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8Russia hits Ukrainian intel data hubs and logistics nodes\nRussia's Armed Forces struck a series of high-value targets across Ukraine on Wednesday, the Defense Ministry reports.\n\ud83d\udccdIn Kiev, drone strikes destroyed the United DS data center, which handled data processing, transmission, and international communications for Ukraine's special services. A second Kiev facility \u2014 the New-Telco data center, a key internet traffic exchange hub for Ukraine's Defense Ministry \u2014 was also hit.\n\ud83d\udccdIn the Odessa region, strikes took out two logistics centers in Odessa and Ilyichevka, that were used for storing and distributing military cargo flowing in from European states.\nThe operation targeted data centers, logistics hubs, and warehouse terminals supporting the Ukrainian military's operations.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T15:35:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25Trump\u2019s Gaza plan gets bogged down amid Israeli political and funding hurdles\nUS President Donald Trump\u2019s Board of Peace is set to unveil a $2.45 billion recovery plan for Gaza, but has yet to secure the full sum, Axios reports.\nBoard of Peace officials claim donor countries would fund the plan\u2019s 66 projects once key political hurdles are cleared.\n\u27a1\ufe0f A major obstacle is Israel. While it has agreed in principle to the plan\u2019s agenda, it has refused to implement it, citing domestic political concerns and the ongoing election cycle.\nThe October 27 Israeli elections may fail to produce a clear winner, with Gadi Eisenkot\u2019s Yashar party increasingly challenging Benjamin Netanyahu\u2019s Likud. A post-election deadlock could further delay implementation of the Gaza recovery plan.\nMeanwhile, Hamas has agreed to hand over its weapons to a Palestinian governing committee, but the process remains stalled as Israel refuses to withdraw from Gaza and implement a 14-day ceasefire.\n\ud83d\udc49 Flattened by Israeli strikes, Gaza\u2019s reconstruction needs far exceed the $2.45 billion plan: physical damage is estimated at $35.2 billion, while full recovery could cost around $71.4 billion over the next decade.\nThe Board of Peace comprises dozens of member countries and is overseen by an Executive Board that includes High Representative for Gaza Nickolay Mladenov and former British Prime Minister Tony Blair. Trump's son-in-law Jared Kushner and White House envoy Steve Witkoff are expected to attend the September 23 meeting.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T15:12:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
