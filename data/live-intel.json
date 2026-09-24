@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-24T11:37:32.455223+00:00",
+  "generated_at": "2026-09-24T15:56:01.943894+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNewburgh, NY, Thursday, September 24, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
+      "text": "FAA SECURITY TFR\nNewburgh, NY\nFacility: ZBW",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
-      "timestamp": "09/23/2026",
+      "timestamp": "09/24/2026",
       "location": "ZBW NY",
       "lat": null,
       "lon": null,
@@ -49,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/22/2026",
       "location": "ZLA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNewburgh, NY, Wednesday, September 23, 2026 through Thursday, September 24, 2026 Local\nFacility: ZBW",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/22/2026",
-      "location": "ZBW NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -136,25 +117,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Friday, September 25, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/18/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nJamaica, NY, Sunday, September 20, 2026 through Saturday, September 26, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
@@ -207,6 +169,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5420\r\nIssue Time: 2026 Sep 24 1430 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5419\nValid From: 2026 Sep 24 0944 UTC\nNow Valid Until: 2026 Sep 24 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-24 14:30:01.217",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -287,44 +268,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2684\r\nIssue Time: 2026 Sep 16 0034 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 16 0030 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-16 00:34:08.103",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war",
-      "text": "Ethiopia and Tigray accuse each of launching offensives, fuelling fears of new war\nThe local authorities reportedly seize Tigray's airports following reports of recent drone strikes.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-24T09:28:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Poland accuses Russian military helicopter of violating its airspace",
       "text": "Poland accuses Russian military helicopter of violating its airspace\nPoland says the aircraft stayed in its skies for 42 seconds, forcing the Nato member to scramble its fighter jets.",
       "source": "BBC",
@@ -340,6 +283,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf9\ud83c\uddf2/\ud83c\udde6\ud83c\uddff NEW: Turkmenistan and Azerbaijan have also completely closed their airspace to Iranian flights\nAn Iranian \u2018Varesh Airlines\u2019 flight to Tajikistan was forced to turn back to Imam Khomeini Airport today after Turkmenistan refused to allow overflight of its airspace.\nThe captain attempted to get overflight permission from Azerbaijan, but was denied. All of this comes as part of newly implemented U.S. sanctions.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T12:11:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde6\ud83c\uddea BREAKING: The UAE has completely closed its airspace to all Iranian flights \nIn response, Iran has also closed its airspace to Emirati flights.\nFlyDubai plane from Azerbaijan can be seen taking a detour.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T12:09:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -364,89 +345,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah (Houthis) released a new mixtape showing a wide variety of combat engagements with Saudi-backed forces from the front lines of Yemen. Grenades dropped from drones. Mountain-to-mountain gunfights. Sniper kill cams. Technicals. Mortars. Posing for the camera with captured MRAP\u2019s. Piles of wrecked Toyotas. The works. It is 43 minutes long.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T15:45:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "Do ballistic missile fragments in the skull count as a \u2018medical emergency\u2019 by any chance?",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T15:41:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: All flights operated by Iranian airlines to the UAE have been canceled since midnight, according to Iran\u2019s Civil Aviation Organization, ISNA reported.",
+      "text": "WATCH: T\u00fcrkiye\u2019s MKE successfully tested its P\u0130RANA kamikaze unmanned surface vessel during the Denizkurdu-I 2026 naval exercise, hitting a surface target with a live 100 kg warhead for the first time. \nDesigned with a low-cost, simple, and effective philosophy, P\u0130RANA can operate solo or in swarms, using stealth features to evade radar. \nIt reaches speeds over 40 knots, has a mission range exceeding 200 nautical miles, and can be controlled remotely via radio or satellite, or operate autonomously. \nIt also integrates with UAVs. A previous test linked it with TCG ANADOLU and a Bayraktar TB3 drone.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T09:46:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Bessent on Iran:\nThe tankers, they may get hit. Many of them just sail on. They just sail on.\nYou know, the Iranians may launch three, four, five, six drones after them. Our great navy is blocking them.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T09:01:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russian drone/missile strike on Kyiv hit multiple data centers, knocking out internet for ~100,000 households. \nISPs UTELS, Pavutina, Crazy Network, and Etherlink all reported major node damage.\nHosting providers Cityhost and MiroHost lost Kyiv-based equipment, with MiroHost's local facility destroyed entirely (95% of clients unaffected on foreign servers). \nProviders are warning of significant price increases, saying current ~300-350 UAH rates are no longer viable given the cost of maintaining resilient infrastructure under constant attack. \nRussia claimed the sites supported military communications; Ukraine says they were civilian telecom infrastructure.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T08:51:45+00:00",
+      "timestamp": "2026-09-24T14:54:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -466,25 +371,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-23T22:55:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Trump says his planned arch would become a 'military complex' able to host drones and snipers](https://www.pbs.org/newshour/politics/trump-says-his-planned-arch-would-become-a-military-complex-able-to-host-drones-and-snipers)\nTrump has also been calling the new White House ballroom a \u201cmilitary complex\u201d and arguing it is necessary for national security purposes. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/politics/trump-says-his-planned-arch-would-become-a-military-complex-able-to-host-drones-and-snipers)\npbs\u200b.org \u2022 Sep 20, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-21T16:47:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -618,25 +504,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-24T10:37:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 2 Oniks super sonic cruise missiles have been launched towards Kiev from ground based launchers",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T22:01:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -802,12 +669,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf5\ud83c\uddf0\ud83c\udde6\ud83c\uddebPakistan strikes 10 targets in Afghanistan as tensions rise\nPakistan\u2019s military said it carried out air and drone strikes on ten locations inside Afghanistan, targeting sites it described as linked to attacks launched from Afghan territory.\nThe Pakistani military said the strikes targeted sites linked to militant groups operating near the border. The operation follows repeated accusations from Islamabad that armed groups based in Afghanistan have carried out attacks inside Pakistan.\nAfghan authorities have previously accused Pakistan of violating Afghan sovereignty during similar operations.\nRelations between the two neighbours have deteriorated in recent months, with Kabul rejecting Pakistan\u2019s claims and criticizing cross-border strikes as violations of Afghan sovereignty.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\udd25\ud83d\udcb5 UAE spearheads Trump\u2019s \u2018economic D-Day\u2019 sanctions by banning Iranian flights\nThe United Arab Emirates has halted flights operated by Iranian airlines since midnight to comply with US sanctions, ISNA news agency reports, citing a spokesman for Iran\u2019s Civil Aviation Organization.\nIt was reported that flights operated by Iranian airlines to Turkmenistan and Azerbaijan have also been suspended.\nUS Treasury Secretary Scott Bessent earlier claimed that operations of Iranian airlines would be discontinued globally starting September 23, under the threat of US secondary sanctions.\n\ud83d\udcac \u201cWhen Iranian airlines land at an airport, you cannot provide them with fuel, you cannot provide them with landing services, you cannot sell them tickets, or you will be knocked out of the dollar system,\u201d Bessent told CNBC on September 21.\nThe UAE was the first to implement Washington\u2019s sanctions against Iran after US President Donald Trump announced his \u201cEconomic D-Day\u201d measures targeting Iran on August 19. On the same day, the UAE imposed an indefinite trade embargo on the country after accusing Iranian forces of launching two ballistic missiles at its territory \u2014 a claim Tehran has denied.\nMost recently, the Emirati central bank prohibited Iran\u2019s Bank Melli, the country\u2019s largest state-owned financial institution, from conducting business in the Gulf state.\nDubai and the other emirates had until recently served as key hubs for Iran\u2019s financial and trading activities.\nMeanwhile, China, Iran\u2019s largest trading partner, has firmly rejected Washington\u2019s sanctions pressure on Iran. On September 22, Beijing specifically opposed what it described as \u201cillegal\u201d US sanctions on Iranian airlines.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T10:25:28+00:00",
+      "timestamp": "2026-09-24T15:13:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -821,12 +688,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddf7 Milei puts Trump, Netanyahu \u2018far above\u2019 ordinary leaders\nArgentine President Javier Milei lavished praise on Donald Trump and Benjamin Netanyahu during an interview in New York, placing both men well above what he called the average person \u2014 and even above most world leaders.\n\ud83d\udcac \u201cBoth Trump and Netanyahu are two people who are far above not only the average individual, but also within the concert of nations.\u201d\nMilei went even further on the Israeli prime minister:\n\ud83d\udcac \u201cNetanyahu is an extraordinary leader with a geopolitical vision, and someone who understands the link with the cultural battle like very few people in the world.\u201d\nHe also named Marco Rubio and Scott Bessent among the small circle of figures he believes understand that \u201ccultural battle.\u201d\nQuite the roster of political heroes for Argentina\u2019s president.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udca3 Renewed war on Iran could spill into Indian Ocean - adviser to Iran's supreme leader\nIran\u2019s military has already prepared plans for a worst-case scenario of renewed US-Israeli strikes, Major-General Yahya Rahim Safavi, a senior adviser to Iran\u2019s supreme leader Mojtaba Khamenei, stated in a video released by Fars.\n\ud83d\udcac \u201cSince the conflict has spread from the Persian Gulf and Strait of Hormuz to the Red Sea, it is possible that - in response to more war - the front will expand even further, reaching the Indian Ocean and perhaps beyond,\u201d Safavi said.\nHe outlined that:\n\u2666\ufe0f any new American action could be confronted with an expanded Red Sea front \u201cbefore their very eyes,\u201d possibly centered on the Red Sea and the Bab al-Mandeb Strait\n\u2666\ufe0f Iran is ready to escalate far beyond current flashpoints if attacked again\nThe official praised Yemen\u2019s Houthis for seizing control of the Red Sea coastline, and standing up to \u201cany invading force that sought to encroach on their territorial integrity.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:16:01+00:00",
+      "timestamp": "2026-09-24T13:51:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf5\ud83c\uddf0\ud83c\udde6\ud83c\uddebPakistan strikes 10 targets in Afghanistan as tensions rise\nPakistan\u2019s military said it carried out air and drone strikes on ten locations inside Afghanistan, targeting sites it described as linked to attacks launched from Afghan territory.\nThe Pakistani military said the strikes targeted sites linked to militant groups operating near the border. The operation follows repeated accusations from Islamabad that armed groups based in Afghanistan have carried out attacks inside Pakistan.\nAfghan authorities have previously accused Pakistan of violating Afghan sovereignty during similar operations.\nRelations between the two neighbours have deteriorated in recent months, with Kabul rejecting Pakistan\u2019s claims and criticizing cross-border strikes as violations of Afghan sovereignty.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-24T10:25:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
