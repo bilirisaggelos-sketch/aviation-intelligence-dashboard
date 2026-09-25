@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T01:33:33.983729+00:00",
+  "generated_at": "2026-09-25T06:40:51.117157+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2686\r\nIssue Time: 2026 Sep 25 0300 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 0257 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-25 03:00:15.997",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5421\r\nIssue Time: 2026 Sep 25 0226 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 25 0226 UTC\nValid To: 2026 Sep 25 1800 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-25 02:26:55.457",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5420\r\nIssue Time: 2026 Sep 24 1430 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5419\nValid From: 2026 Sep 24 0944 UTC\nNow Valid Until: 2026 Sep 24 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -192,44 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WATA20\r",
-      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1126\r\nIssue Time: 2026 Sep 21 1832 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 22: None (Below G1) Sep 23: None (Below G1) Sep 24: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-21 18:32:26.023",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5418\r\nIssue Time: 2026 Sep 16 0538 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5417\nValid From: 2026 Sep 15 1849 UTC\nNow Valid Until: 2026 Sep 16 1800 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-16 05:38:03.320",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf3 Netanyahu complains about Iranian ballistic missiles:\n\u2018Ladies and gentlemen, you're sitting here in the General Assembly Hall of the UN. \nDo you know what just one one-ton ballistic missile would do if it hit this place? \nIt would obliterate the entire compound. In fact, two such missiles would obliterate the UN.\u2019",
@@ -260,12 +260,72 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones struck several industrial sites in Russia, including the Perm oil refinery, the Iskra plant in Ulyanovsk and the Voronezhsintezkauchuk facility in Voronezh.\nThe Perm refinery, one of Russia\u2019s largest, suffered a fire at the AVT-5 processing unit following the attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T06:38:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: Saudi Arabia, T\u00fcrkiye , and Pakistan are convening an urgent chiefs-of-staff meeting under their Mecca Joint Defence Pact after intensifying Houthi attacks on Saudi territory. \nThis is the first activation-level move under the pact, which treats an attack on one as an attack on all three.\nThe trigger: Saudi air defenses intercepted six ballistic missiles targeting Taif and Yanbu on September 24, with separate Houthi claims of hitting Riyadh and Aramco sites. \nFrance has also offered troops, radars, and air defense for Yanbu.\nNo specific military support announced yet, any deployment requires a formal Saudi request.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T06:33:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Two IDF reservists were killed in the northern Gaza Strip after a drone they were operating crashed inside their outpost and exploded as they inspected the site.\nThey had successfully completed their first drone operation before the crash occurred during a second mission.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T06:24:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -288,23 +348,22 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iranian President Masoud Pezeshkian:\nTrump kept saying, \u201cI want to bring a gift to the people of Iran,\u201d but the gift that they brought us was guided missiles, heavy weapons, and destruction.\nWhat they truly wish to do is to instigate incidents in the country that pave the way for the downfall of the system, of the society, of the government.",
+      "publisher": "Our Wars Today",
+      "text": "[Police arrest actors, politicians protesting against Netanyahu outside UN](https://www.reuters.com/world/middle-east/police-arrest-actors-politicians-protesting-against-netanyahu-outside-un-2026-09-24/)\nPolice arrested at least 30 people including actors and politicians as they protested outside United Nations \u200bheadquarters on Thursday against Israeli Prime Minister Benjamin Netanyahu ahead \u200cof his speech at the General Assembly. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/police-arrest-actors-politicians-protesting-against-netanyahu-outside-un-2026-09-24/)\nMaria Tsvetkova | reuters\u200b.com \u2022 Sep 24, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T22:40:40+00:00",
+      "timestamp": "2026-09-25T01:59:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -322,6 +381,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\ud83c\udde6\ud83c\uddeb Taliban-linked media platforms reported that Afghan border forces shot down an armed, explosive-laden Pakistani drone over Helmand Province.\nThe drone was intercepted over the Garmsir district of southern Helmand province, flying in the vicinity of the Taliban's 7th Border Brigade position.\nAccording to local sources and Hurriyat Media (a platform affiliated with Taliban intelligence), the unmanned aircraft was carrying explosives and was destroyed by Afghan defense forces.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T05:38:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -356,13 +434,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -376,12 +453,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -443,6 +521,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Adam Hamawy, a doctor who volunteered to treat the wounded in Gaza, engaged in non-violent civil disobedience with Jewish Voice For Peace in NYC to protest Benjamin Netanyahu\u2019s speech at the UN. He, along with several other incoming left wing members of Congress, were arrested by the NYPD.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T02:40:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 Prime Minister Benjamin Netanyahu:\nNow you want to hear the ultimate irony?\nIn defending itself, Israel is also defending many of the countries whose delegates just left this hall.\nIn fact, I want you to know that many of their leaders even thank us privately for taking out Iran's nukes.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -461,32 +558,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe Prime Minister Benjamin Netanyahu:\nWe weren't on the Golan Heights.\nOh, and Monsieur al-Sharaa, you should know the Jews have been on the Golan Heights since the days of Moses.\nYou can read it in the Bible.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T18:36:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddeb\ud83c\udde6\ud83c\uddeb\ud83c\uddf5\ud83c\uddf0Footage of the Pakistani air strike against a Taliban drone storage site in Kost. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u2757\ufe0fUkrainian drones targeted the Voronezhsintezkauchuk plant in Voronezh overnight, with locals reporting explosions and Russian air-defense activity. The SIBUR-owned chemical facility is a major producer of synthetic rubber, latex and thermoplastic elastomers. Its products are used across automotive, heavy machinery, aviation and other industrial sectors, including rubber goods, tires, gaskets and seals.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:09:48+00:00",
+      "timestamp": "2026-09-25T06:39:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -500,12 +578,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf0\ud83c\udde6\ud83c\uddeb Pakistan says it carried out air and drone strikes against 10 locations in Afghanistan after accusing the Taliban of launching drones into Pakistani territory on September 23.\nPakistan\u2019s information minister said air defenses intercepted all of the drones before they reached their intended targets. Islamabad described its subsequent strikes as limited to sites used to launch and store the drones. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u2757\ufe0fUkrainian long-range drones struck the Perm oil refinery in Russia this morning, with multiple fires reported across the facility. Located around 1,500 km from Ukraine, the LUKOIL-operated plant is one of Russia\u2019s largest refineries, with annual crude processing capacity of about 13.1 million tons. It produces more than 60 petroleum products, including gasoline, diesel, aviation fuel, bitumen and lubricants.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:09:14+00:00",
+      "timestamp": "2026-09-25T06:39:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "France has delivered new MICA air-to-air missiles and 30mm ammunition for Ukraine\u2019s Mirage 2000 fighter jets, the French Armed Forces Ministry confirmed. France also delivered new interceptor missiles for Ukraine\u2019s SAMP/T systems as part of an anti-ballistic missile defense package financed through the EU\u2019s Ukraine Support Loan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T06:39:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -519,12 +617,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddeb\ud83c\uddf7\ud83c\uddee\ud83c\uddf9\ud83c\uddf7\ud83c\uddfa[El Mundo:](https://www.elmundo.es/internacional/2026/09/23/6ab411e9fdddff35028b4598.html)\nU.S. intelligence has warned several European governments that Russia may be preparing a new campaign of drone operations targeting Mediterranean NATO countries. \nThe report says Spain, France and Italy were among the governments briefed on a possible operation, with European officials concerned that Moscow could seek to test NATO\u2019s response, disrupt infrastructure and create political and economic pressure.\nA source close to the Lithuanian Ministry of Defence reports that Russia could attack cities by launching drones from vessels disguised as container ships. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u2757\ufe0fUkrainian drones struck the Iskra electronics plant in Ulyanovsk, around 800 km from Ukraine, with footage showing six consecutive strikes across different parts of the facility. The plant, part of Russia\u2019s Almaz-Antey defense conglomerate, manufactures semiconductor components and other electronics used in military systems, including Kh-59M2/M2A missiles, Pantsir air defenses, radars and communications equipment.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:09:02+00:00",
+      "timestamp": "2026-09-25T06:39:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,12 +636,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussia also targetd Odessa city this evening with drones, striking a targete that caused a massive fire to break out.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u2757\ufe0fUkrainian mid-range drones struck the Stroycenter construction hypermarket in occupied Luhansk overnight, causing a large fire at the facility. The site had reportedly been repurposed for Russian military needs and was being used as a logistics hub.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:08:21+00:00",
+      "timestamp": "2026-09-25T06:38:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -557,12 +655,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6Drones have been recorded over Erbil, Iraqi Kurdistan, with one being intercepted and crashing. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Russia launched 295 drones at Ukraine overnight, including 52 jet-powered Shaheds, the Air Force says. Air defenses downed or suppressed 267 Shahed, Gerbera and other UAVs. Impacts were recorded at 16 locations and debris from intercepted drones fell at four.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:08:18+00:00",
+      "timestamp": "2026-09-25T06:38:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -576,69 +674,52 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussia targeted electrical infrastructure in Kyiv with ballistic missiles and hypersonic missiles such as Zircons and Oniks during this evening's Russian strikes on Ukraine. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Two IDF reservists were killed yesterday after a small explosive drone they were operating in the Gaza Strip crashed for an unknown reason and exploded shortly after, the military announces.\nThe troops are named as Master Sgt. (res.) Nadav Kali, 24, from Har Halutz, and Master Sgt. (res.) Ofek Moalem, 23, from Jerusalem. \nBoth served in the Jerusalem Brigade's 7007th Battalion.\nAccording to a preliminary investigation by the military, the two soldiers on Thursday afternoon had been operating first-person view (FPV) drones known as \"Atalef\" -- Hebrew for bat -- from an army post inside the military's Gaza buffer zone in the Strip's north.\nA first drone carried out its intended mission, while a second, during its takeoff, crashed inside the army post for an as-yet-unknown reason. The soldiers approached the crashed drone several minutes later, picked it up, and it then exploded, fatally wounding them, according to the initial probe.\nThe pair were taken to Barzilai Hospital in Ashkelon, where their deaths were declared.\nAmid the investigation into the cause of the crash and explosion, the military has temporarily grounded all small drones capable of carrying explosive payloads -- both suicide drones and those that drop their explosives on a target.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:08:10+00:00",
+      "timestamp": "2026-09-25T06:38:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddf9The U.S. State Department has issued a security alert for Ethiopia after reports that Tigray Defense Forces have taken control of airports in Mekelle, Axum and Shire.\nEthiopian Airlines has suspended flights to and from the three airports, with the embassy saying it has no information on when services will resume.\nThe U.S. Embassy advised American citizens not to travel to Tigray or Afar and urged those already in the regions to shelter in place until it is safe to leave.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "VIDEO: Ukrainian drone striking the Perm oil refinery in Russia earlier.\nContributed by",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:05:20+00:00",
+      "timestamp": "2026-09-25T06:16:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Clash Report"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Israeli drone strike targets Wadi Hujeri, southern Lebanon.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T04:03:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Pakistan steps up aerial attacks on Afghanistan as new border war risks emerging\n\ud83d\udccc [Pakistani air strikes on Afghanistan's Kandahar](https://t.me/geopolitics_prime/75055), Paktia and Khost provinces have claimed the lives of at least four people, the Taliban government stated on September 24, vowing retaliation.\n\ud83c\udf0f Earlier in the day, Pakistan announced it had struck 10 locations in Afghanistan believed to store and launch drones allegedly used in cross-border attacks.\n\ud83c\udf0f OSINT sources on X claim Pakistan may have struck the former CIA Gecko Camp in Kandahar, which was built inside the former compound of Taliban founder Mullah Omar and seized by the Afghan Taliban during the 2021 takeover.\n\ud83c\udf0f Pakistani authorities accuse Afghanistan of allowing extremist fighters of the Pakistan Taliban (TTP) and other groups to operate from Afghan territory, conduct cross-border drone strikes and terror attacks. Kabul vehemently denies the accusations.\n\ud83c\udf0f On September 21, the Pakistan Air Force raided northeastern Afghanistan, killing three civilians in the Nurgal district of Kunar province, according to Afghan officials. Islamabad says 28 terrorists were eliminated.\n\ud83c\udf0f Previously, on September 18, a faction of the TTP claimed responsibility for a terror attack in Kohat, a city in Pakistan's Khyber Pakhtunkhwa province. The attack killed at least 31 people, according to Al Jazeera.\n\ud83c\udf0f Tensions between Pakistan and Afghanistan are rising, threatening a repetition of the February all-out border warfare, which was triggered by Pakistani air strikes against what it called camps belonging to the TTP and the Islamic State-Khorasan Province (ISIS-K). The strikes followed a February 6 suicide bombing in Islamabad.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83e\ude96 US military activity near Strait of Hormuz indicates possible new attack wave\nUS reconnaissance aircraft operated over Iran\u2019s Qeshm and Hengam islands in the Strait of Hormuz overnight from Wednesday into Thursday, signaling increased military activity in the region, according to sources.\nAdditional US aircraft were reportedly observed conducting reconnaissance flights over Iran\u2019s Kermanshah province, alongside unmanned aerial vehicles. The sources also said that twelve F-16 fighter jets had been deployed from Spangdahlem Air Base in Germany to the region.\nFlightRadar data showed several types of US military aircraft operating or being deployed toward the area, including:\n\ud83c\udf0f KC-135 Stratotanker aerial refueling aircraft\n\ud83c\udf0f KC-46 Pegasus tanker aircraft\n\ud83c\udf0f MQ-4C Triton surveillance drones\n\ud83c\udf0f C-17 military transport aircraft\u00a0\u00a0\nThe reported movements come after US President Donald Trump floated the idea of\u00a0 \u201cannihilating Iran\u201d during his speech at the UNGA.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T20:23:01+00:00",
+      "timestamp": "2026-09-25T05:39:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
