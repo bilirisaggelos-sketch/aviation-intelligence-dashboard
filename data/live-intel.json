@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T20:43:17.633401+00:00",
+  "generated_at": "2026-09-25T23:37:15.980821+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,6 +192,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2687\r\nIssue Time: 2026 Sep 25 2158 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 2158 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-25 21:58:25.860",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5422\r\nIssue Time: 2026 Sep 25 2155 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 25 2154 UTC\nValid To: 2026 Sep 26 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-25 21:55:03.593",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK05\r",
       "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2266\r\nIssue Time: 2026 Sep 25 0835 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Sep 25 0835 UTC\nValid To: 2026 Sep 25 1200 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -249,44 +287,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5420\r\nIssue Time: 2026 Sep 24 1430 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5419\nValid From: 2026 Sep 24 0944 UTC\nNow Valid Until: 2026 Sep 24 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-24 14:30:01.217",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2685\r\nIssue Time: 2026 Sep 24 0952 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 24 0945 UTC\nSynoptic Period: 0900-1200\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-24 09:52:18.960",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf1\ud83c\udde7 IDF: \u2018A short while ago, an interceptor missile was launched towards a suspicious aerial target detected in the area where Israeli forces are operating in southern Lebanon, and the details are under investigation.\u2019",
@@ -327,12 +327,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The Trump administration has committed almost all of the $400 million in military aid Congress approved for Ukraine, ensuring the funds do not expire on September 30.\nSo far, $307 million has been allocated through the Ukraine Security Assistance Initiative (USAI), with the remaining $93 million expected to be placed under contract before the deadline.\nThe first deliveries, including offensive weapons and spare parts for armored vehicles, began this month. \nThe package does not include Patriot missiles, despite Ukraine\u2019s continued requests for more air defense systems.\nSource: Reuters",
+      "text": "Abdul El-Sayed on Israel:\nMy foreign policy views are very simple. I just think we should be the first among equals to enforce international law. \nI would argue that Israel is the greatest outlier when it comes to the behavior of the government of Israel relative to the approbation you would expect them to get versus what they actually get.\nThey've been able to sustain an apartheid system, which is the only thing you can call sustained nearly six decade long occupation of a people in Gaza and the West Bank.\nThey did a genocide in Gaza. They led us into a war. Benjamin Netanyahu came to the situation room, made the argument for a war. He finally had a dupe big enough who was willing to do it. \nBut think about war aims. We had no clear war aims for that war. Israel had clear war aims. And one of those big war aims seems to be setting up for the annexation of southern Lebanon.\nAnd we do all of this and all of this has been done while our stated policy in the region is that we believe in a two-state solution, which is wild because we're aiding, arming, and abetting the very government that is attempting to foreclose on the possibility of a second state openly.\nAnd so I'm just saying that we should treat Israel the way we treat any other country that did the same stuff.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T20:22:08+00:00",
+      "timestamp": "2026-09-25T21:51:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s Foreign Minister Abbas Araghchi:\nUntil 28 February 2026, the Strait was open. The insecurity prevailing in the Strait of Hormuz and the disruption of maritime navigation are the direct result of the aggressive actions of the United States and the Israeli regime.\nYou cannot bomb a country, threaten its annihilation, impose a maritime blockade and coercive measures, and expect the automatic restoration of security and navigation.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T21:06:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +707,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 Houthis threaten Saudis\u2019 last overland supply route into Yemen, expand missile operations\n\u00a0\nThe slowing of the Houthis\u2019 advance on the Saudi-backed government\u2019s capital of Aden is deliberate, and explicable by two factors, says Lebanese geopolitical analyst Laith Marouf.\nFirst, they seek to avoid being entangled in a costly urban warfare scenario. Second, they may be planning a major operation to secure the Al-Wadiah border crossing \u2013 the last land border checkpoint between Yemen and Saudi Arabia.\n\ud83d\udc49 Capturing Al-Wadiah would severely undermine Riyadh\u2019s ability to supply and pay its proxies, and force them to resupply their isolated allies by air and sea \u2013 \u201ca much, much more costly and harder objective.\u201d\nMarouf cast doubt on a new report that an RAF tanker was dispatched to Saudi Arabia to provide refueling support for Saudi jets, pointing out that the kingdom not only has its own tanker fleet, but is using Yemen-adjacent bases for its bombing missions. His conclusion is that the RAF is \u201cresupplying fuel to NATO jets that are flying out of Cyprus on their way to attack Yemen.\u201d\n\u00a0\nMeanwhile, the Houthis are escalating their attacks into Saudi Arabia. In the past 48 hours alone, they\u2019ve targeted:\n\u27a1\ufe0f a mystery \u201csensitive site\u201d in Riyadh\n\u27a1\ufe0f [Saudi Aramco facilities](https://t.me/geopolitics_prime/75123) in the port city of Yanbu (possibly East-West Pipeline-linked)\n\u27a1\ufe0f Taif \u2013 home to the King Fahd Air Base being used to target Yemen\n\u27a1\ufe0f Tabuk \u2013 a major military hub in north-western Saudi Arabia\n\u27a1\ufe0f Jeddah, the kingdom\u2019s commercial capital\n\u27a1\ufe0f a command center in Jizan\n\u27a1\ufe0f weapons depots in Al-Tuwal\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udcc9 Ukraine begs for Patriots \u2014 US aid package offers none\nUkraine\u2019s latest US military aid package does not include Patriot interceptor missiles, despite Kiev repeatedly asking for more, Reuters reported.\nGlobal Patriot stocks have been strained by the Ukraine conflict and the US war with Iran, while the Pentagon has repeatedly worried that American inventories were running too low.\nThe package instead includes offensive weapons and spare parts for armored vehicles.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T20:09:01+00:00",
+      "timestamp": "2026-09-25T21:33:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +726,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25I\u2019m not lovin\u2019 it: Russia strikes warehouse used by McDonald\u2019s near Kiev\n\u00a0\nA drone strike targeting a warehouse ~20km from central Kiev has threatened McDonald\u2019s Ukrainian operations with widespread supply disruptions.\nPacked with fresh and frozen goods including patties, nuggets, fries, buns, deserts and sauces, the strike adds to McDonald\u2019s local headaches \u2013 with its operations already impacted by menu cuts and logistical problems.\nIt\u2019s not clear what sorts of military or dual-use items alongside patties and buns it may have contained, if any.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, they've been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow them to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T15:57:01+00:00",
+      "timestamp": "2026-09-25T20:52:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80 Houthis threaten Saudis\u2019 last overland supply route into Yemen, expand missile operations\n\u00a0\nThe slowing of the Houthis\u2019 advance on the Saudi-backed government\u2019s capital of Aden is deliberate, and explicable by two factors, says Lebanese geopolitical analyst Laith Marouf.\nFirst, they seek to avoid being entangled in a costly urban warfare scenario. Second, they may be planning a major operation to secure the Al-Wadiah border crossing \u2013 the last land border checkpoint between Yemen and Saudi Arabia.\n\ud83d\udc49 Capturing Al-Wadiah would severely undermine Riyadh\u2019s ability to supply and pay its proxies, and force them to resupply their isolated allies by air and sea \u2013 \u201ca much, much more costly and harder objective.\u201d\nMarouf cast doubt on a new report that an RAF tanker was dispatched to Saudi Arabia to provide refueling support for Saudi jets, pointing out that the kingdom not only has its own tanker fleet, but is using Yemen-adjacent bases for its bombing missions. His conclusion is that the RAF is \u201cresupplying fuel to NATO jets that are flying out of Cyprus on their way to attack Yemen.\u201d\n\u00a0\nMeanwhile, the Houthis are escalating their attacks into Saudi Arabia. In the past 48 hours alone, they\u2019ve targeted:\n\u27a1\ufe0f a mystery \u201csensitive site\u201d in Riyadh\n\u27a1\ufe0f [Saudi Aramco facilities](https://t.me/geopolitics_prime/75123) in the port city of Yanbu (possibly East-West Pipeline-linked)\n\u27a1\ufe0f Taif \u2013 home to the King Fahd Air Base being used to target Yemen\n\u27a1\ufe0f Tabuk \u2013 a major military hub in north-western Saudi Arabia\n\u27a1\ufe0f Jeddah, the kingdom\u2019s commercial capital\n\u27a1\ufe0f a command center in Jizan\n\u27a1\ufe0f weapons depots in Al-Tuwal\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T20:09:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
