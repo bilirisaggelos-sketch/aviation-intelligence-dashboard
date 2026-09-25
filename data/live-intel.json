@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T06:40:51.117157+00:00",
+  "generated_at": "2026-09-25T12:18:53.458182+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2266\r\nIssue Time: 2026 Sep 25 0835 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Sep 25 0835 UTC\nValid To: 2026 Sep 25 1200 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-25 08:35:43.590",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK04\r",
       "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2686\r\nIssue Time: 2026 Sep 25 0300 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 0257 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -211,21 +230,40 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5419\r\nIssue Time: 2026 Sep 24 0945 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 24 0944 UTC\nValid To: 2026 Sep 24 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf1\ud83c\udde7 IDF: \u2018A short while ago, an interceptor missile was launched towards a suspicious aerial target detected in the area where Israeli forces are operating in southern Lebanon, and the details are under investigation.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-24 09:45:24.477",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T11:38:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Najaf Airport (Iraq) suspends all flights to and from Iran, complying with U.S. sanctions\nBaghdad, Erbil and Sulaymaniyah airports also suspended Iranian flights.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T10:48:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -250,53 +288,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 NEW: Israeli Prime Minister Benjamin Netanyahu says \u2018maybe 2 or 3\u2019 Palestinians have been killed in settler violence in the West Bank",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T18:34:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukrainian drones struck several industrial sites in Russia, including the Perm oil refinery, the Iskra plant in Ulyanovsk and the Voronezhsintezkauchuk facility in Voronezh.\nThe Perm refinery, one of Russia\u2019s largest, suffered a fire at the AVT-5 processing unit following the attack.",
+      "text": "Chinese intelligence support has helped Iran improve its ability to target U.S. ships and military bases in the Middle East, according to U.S. intelligence assessments.\nSatellite imagery and geospatial data from Chinese groups helped Iran carry out a precise July strike on a U.S. base in Jordan that killed three American service members, officials said. \nThe data has also improved Iran\u2019s ability to track ships in the Strait of Hormuz and increase the effectiveness of drone and missile attacks.\nU.S. officials say the extent of China\u2019s involvement remains unclear, including whether Beijing directly ordered the support or merely allowed it. Russia has also provided assistance, while Iran\u2019s battlefield experience has further improved its capabilities.\nSource: CNN",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:38:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: Saudi Arabia, T\u00fcrkiye , and Pakistan are convening an urgent chiefs-of-staff meeting under their Mecca Joint Defence Pact after intensifying Houthi attacks on Saudi territory. \nThis is the first activation-level move under the pact, which treats an attack on one as an attack on all three.\nThe trigger: Saudi air defenses intercepted six ballistic missiles targeting Taif and Yanbu on September 24, with separate Houthi claims of hitting Riyadh and Aramco sites. \nFrance has also offered troops, radars, and air defense for Yanbu.\nNo specific military support announced yet, any deployment requires a formal Saudi request.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:33:21+00:00",
+      "timestamp": "2026-09-25T11:36:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -310,32 +308,88 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Two IDF reservists were killed in the northern Gaza Strip after a drone they were operating crashed inside their outpost and exploded as they inspected the site.\nThey had successfully completed their first drone operation before the crash occurred during a second mission.",
+      "text": "Russian state news agency RIA Novosti published and later deleted an article threatening Lithuania with a \u201cshort\u201d war and possible nuclear strikes.\nThe article, titled \u201cRussia faces another special military operation. It will be very short,\u201d discussed scenarios of missile attacks on Lithuania.\nThe author, Alexander Nosovich, argued that Russia could use missiles with nuclear warheads instead of ground forces, claiming that a conflict in the Baltics would be quick due to geography.\nRIA Novosti removed the article several hours after publication, later stating that it did not reflect the editorial line, editorial policy, or state policy of Russia.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:24:12+00:00",
+      "timestamp": "2026-09-25T11:15:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Greek Prime Minister Kyriakos Mitsotakis:\nGreece has established a durable and deep strategic partnership with Israel while at the same time maintaining strong ties with the Arab world.",
+      "text": "Finland and Sweden scrambled fighter jets together for the first time to identify Russian military aircraft in international airspace over the Gulf of Finland.\nFinnish F/A-18 Hornets and Swedish JAS 39 Gripens intercepted Russian transport aircraft and warplanes as part of deeper defense cooperation between the two NATO members.\nSource: Bloomberg",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T00:25:08+00:00",
+      "timestamp": "2026-09-25T09:22:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Gulf states are divided over efforts to restart U.S.-Iran talks. Saudi Arabia and the UAE are urging the Trump administration to maintain economic pressure and sanctions on Tehran, while Qatar is pushing for negotiations, including a proposed seven-day pause in fighting to reopen the Strait of Hormuz.\nSaudi Arabia argues Iran should face more pressure before any deal, citing attacks on Gulf shipping and Houthi actions in Yemen. Qatar and Oman support a phased reopening of Hormuz and a diplomatic solution.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T09:18:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Austrian FM Beate Meinl-Reisinger:\nAfter years of bloodshed and suffering, it is obvious no one can bomb their way to peace.\nWe want a prosperous and safe Israel. But the same applies to the Palestinians and to Israel\u2019s neighbors.\nIsraelis and Palestinians deserve to live side by side in peace and security with a credible path to a two-state solution.\nAny unilateral actions, including continued settlement expansions in the West Bank, only perpetuate the conflict and must be rejected.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T09:07:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky: \nDuring our last meeting, Trump said \"Ukraine will receive licenses for the production of Patriot missiles.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T08:40:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -453,13 +507,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -482,51 +535,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah Statement 2:\nIn the name of Allah, the Most Gracious, the Most Merciful.\nThe Almighty said: {That is so. And whoever responds to an injustice with the like of what he was subjected to and is then tyrannized, Allah will surely help him.} Allah the Almighty has spoken the truth.\nThe criminal Saudi enemy continues its criminal aggression against our people through its unjust siege and the launching of aggressive airstrikes, which, since the start of the escalation until this evening, have reached 1,018 airstrikes and missiles using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif bases, alongside missile aggression from Najran and Jizan, targeting the governorates of Marib, Sa'ada, Al-Hodeidah, Taiz, Al-Jawf, and Al-Bayda, resulting in martyrs and wounded, including women and children, and causing losses in civilian infrastructure.\nAs part of the response to this aggression, the Yemeni Armed Forces, with the help of Allah Almighty, carried out two qualitative military operations: the first targeted a sensitive target in the Saudi enemy's capital, Riyadh,\nand the other targeted the Aramco company in Yanbu, with a number of ballistic and winged missiles and drones. The two operations successfully achieved their objectives, thanks to Allah.\nThe criminal Saudi enemy's persistence in launching its airstrikes on our people and our country will not deter the Yemeni Armed Forces from exercising their legitimate right to respond directly and appropriately to this aggression. Every assault will be responded to, and every escalation will be met with the like of it. The fate of the criminal, unjust aggressors is nothing but defeat, by the will of Allah Almighty.\nWe continue to enforce the equation of siege for siege, escalation for escalation, and targeting the Saudi enemy's mobilizations until the aggression stops and the siege on our dear country is lifted.\nAllah is sufficient for us, and He is the best Disposer of affairs, the best Protector, and the best Helper.\nLong live Yemen, free, dignified, and independent.\nVictory to Yemen and to all the free people of the nation.\nSanaa, 13 Rabi' al-Thani 1448 AH\nCorresponding to 24 September 2026.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T20:00:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah Statement 1: \nIn the name of Allah, the Most Gracious, the Most Merciful.\nThe Almighty said: {Whoever transgresses against you, transgress against them in the same manner as they transgressed against you.} Truthful is Allah the Great.\nWithin the framework of the aggression waged by the Saudi enemy against our country, and with the escalation of missile aggression against the border areas in Sa'ada and Hajjah governorates with more than 200 missiles launched from Jizan, and with the Yemeni Armed Forces monitoring large concentrations belonging to the Saudi enemy aimed at escalating against the border areas:\nWith the help of Allah Almighty, the Yemeni Armed Forces carried out a broad and qualitative preemptive military operation using dozens of ballistic missiles and drones, targeting operations rooms, command and control centers, weapon depots, and other important positions belonging to the Saudi enemy's concentrations in the Al-Tuwal area in Jizan, affiliated with the so-called Sixth Emergency Division.\nMeanwhile, sites and missile launch pads were targeted in the Al-Daghareer camp in the Jizan area, and a number of Saudi enemy camps in the Jizan area were targeted.\nThe strikes were precise and direct, by the grace of Allah, resulting in the following:\nThe death and injury of hundreds of the Saudi enemy's mobilized forces, including Yemenis and Sudanese, along with dozens of members and officers of the Saudi enemy.\nThe destruction and burning of several weapon depots of the Saudi enemy.\nOur armed forces continue to carry out their duties with all strength and resolve to respond to sources of threat, respond to any attack or aggression, and monitor and target all hostile movements wherever they may be, with the permission of Allah Almighty.\nWe continue to impose the equation of siege for siege, escalation for escalation, and targeting the concentrations belonging to the Saudi enemy until the aggression is stopped and the blockade on our dear country is lifted.\nAllah is our sufficiency, and the best disposer of affairs; an excellent protector and an excellent helper.\nLong live Yemen, free, dignified, and independent,\nAnd victory belongs to Yemen and to all the free people of the nation.\nSana'a, 13 Rabi' al-Thani 1448 AH\nCorresponding to 24 September 2026. \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T19:58:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Adam Hamawy, a doctor who volunteered to treat the wounded in Gaza, engaged in non-violent civil disobedience with Jewish Voice For Peace in NYC to protest Benjamin Netanyahu\u2019s speech at the UN. He, along with several other incoming left wing members of Congress, were arrested by the NYPD.",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Airstrikes on southern lebanon now and fighter jets are flying at extremely low altitude",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T02:40:45+00:00",
+      "timestamp": "2026-09-25T11:36:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -540,12 +555,31 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 Prime Minister Benjamin Netanyahu:\nNow you want to hear the ultimate irony?\nIn defending itself, Israel is also defending many of the countries whose delegates just left this hall.\nIn fact, I want you to know that many of their leaders even thank us privately for taking out Iran's nukes.",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1A flock of birds was seen in the skies above Tibnin in southern lebanon shortly before the air defense missile was launched over the Galilee Panhandle region.\nso it is a likely another false identification and another killed bird",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T18:40:42+00:00",
+      "timestamp": "2026-09-25T11:31:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Adam Hamawy, a doctor who volunteered to treat the wounded in Gaza, engaged in non-violent civil disobedience with Jewish Voice For Peace in NYC to protest Benjamin Netanyahu\u2019s speech at the UN. He, along with several other incoming left wing members of Congress, were arrested by the NYPD.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T02:40:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -587,13 +621,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -683,13 +716,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -703,13 +735,69 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f \ud83c\uddee\ud83c\uddf7IRGC promises to unsheathe \u2018new weapons\u2019 if US resumes strikes\n\u201cIn the event of a new attack, Iran will make changes to its defense and response, including changes to the geography of the conflict, using new equipment and weapons, and choosing different targets,\u201d IRGC spokesman Hossein Mohebbi said Friday.\nIran has capabilities which \u201chave not been used so far,\u201d Mohebbi stressed. The US \u201cmade a mistake in its calculations\u201d on Iran\u2019s ability to resist, as well as the range, destructive power, accuracy and capabilities of its drones and missiles.\nMohebbi\u2019s comments come amid [signs that the US may be preparing new attacks ](https://t.me/geopolitics_prime/75114)against Iran, given a major uptick in intelligence-gathering activities. During his UN speech, Donald Trump repeated threats to \u201cannihilate\u201d Iran. President Pezeshkian responded by saying Iran would never \u201cbend the knee,\u201d and defend itself \u201cuntil our last breath.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T10:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83d\udca3 UK military mulls adopting \u2018stealth cavalry\u2019 to beat killer drones\nThe British Army has come up with a new solution to drones that make short work of armored vehicles on the battlefield \u2013 soldiers on horseback\nAs the British military tested whether cavalry could move covertly through wooded terrain, Lieutenant-Colonel Ben McNeil told the Times that \u201ca horse can move in a more natural profile than any armored vehicle can\u201d and that it can be mistaken for wildlife while moving through woods.\n\ud83d\udc49 British media also boasts that horses have lower thermal signature than armored vehicles and thus can more easily escape detection by drone operators.\nIt is unclear whether the UK military officials realize that modern thermal-imaging gear can detect people and animals, or that a group of horseback riders moving in formation would hardly pass as a pack of animals.\nAnd it seems that footage of drones stalking and taking out troop formations and individual soldiers, who are much harder to spot than a horse rider, completely eluded them.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T08:25:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u26f4 Is NATO hyping fake \u2018Russia threat\u2019 to justify seizing more Russian merchant vessels?\nDeaf to Russia\u2019s assurances that it [has no intention](https://t.me/geopolitics_prime/72009) of attacking anyone, the West is suddenly amplifying a highly specific and conveniently timed scenario.\nUS intelligence has warned several European governments that Russia may be preparing a drone operation against Spain, France or Italy, El Mundo reports. \nAccording to the pushed narrative, Russia could launch Gerbera drones - with a 600 km range and a speed of around 160 km/h - from merchant ships in the Mediterranean, potentially concealed in ordinary containers. \nThe allegations could provide political cover for more aggressive interceptions of Russia-linked commercial ships under the banner of \u201cself-defense.\u201d\n\ud83d\udc49 There is precedent (under sanctions-enforcement rationale), such as US seizure of Russian-flagged Marinera in the North Atlantic in January, or UK boarding of Russia-linked tanker Smyrtos in June \u2013 slammed by Russia as \"piracy and robbery\".\nNATO\u2019s heightened military activity also feeds into this scenario.\nThe UK-led Strike Warrior 26 exercises are underway in waters north and east of Britain, involving carrier operations, anti-submarine warfare, air defense and live weapons training.\nThe drills cover approaches linking the North Sea, North Atlantic and Arctic, including maritime routes critical to Russia\u2019s Northern Fleet and commercial shipping.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-25T07:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
