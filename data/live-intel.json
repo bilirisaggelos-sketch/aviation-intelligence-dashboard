@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T12:55:57.554915+00:00",
+  "generated_at": "2026-09-26T17:01:03.798743+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -173,6 +173,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3745\r\nIssue Time: 2026 Sep 26 1551 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 26 1535 UTC\nStation: GOES-19\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-26 15:51:34.970",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK04\r",
       "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2687\r\nIssue Time: 2026 Sep 25 2158 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 2158 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -249,21 +268,40 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5421\r\nIssue Time: 2026 Sep 25 0226 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 25 0226 UTC\nValid To: 2026 Sep 25 1800 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Iraqis in the city of Basra are protesting against the government\u2019s decision to suspend flights to and from Iran",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-25 02:26:55.457",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T14:17:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 Iran\u2019s Supreme National Security Council:\n1. We deny the claim that Iran will retaliate militarily to the recent aerial restrictions that were imposed.\n2. Negotiations between Iran and the relevant countries regarding the removal of aerial restrictions are being seriously pursued.\n3. There are various non-military responses that can be applied to some regional airports if necessary, but we hope it doesn\u2019t reach this point.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T13:10:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -288,39 +326,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf1\ud83c\udde7 IDF: \u2018A short while ago, an interceptor missile was launched towards a suspicious aerial target detected in the area where Israeli forces are operating in southern Lebanon, and the details are under investigation.\u2019",
+      "publisher": "Clash Report",
+      "text": "Turkish Foreign Minister Hakan Fidan on Israel:\nThe oppression and massacres carried out by Israel are no longer going without consequences to the same extent, as a result of the diplomatic efforts that have been made. In other words, Israel now has to pay very heavy costs for every action it takes. \nThis isolation, including facing legal consequences through institutions such as the International Court of Justice and the International Criminal Court, means it is encountering situations it has never been accustomed to or faced before.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T11:38:39+00:00",
+      "timestamp": "2026-09-26T16:22:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Najaf Airport (Iraq) suspends all flights to and from Iran, complying with U.S. sanctions\nBaghdad, Erbil and Sulaymaniyah airports also suspended Iranian flights.",
+      "publisher": "Clash Report",
+      "text": "Reporter: Did you talk to Zelensky about Patriot missiles?\nTrump: I did. I spoke to him a lot, and he's going along, and Putin's going along.\nSomeday, hopefully in the not-too-distant future, maybe before the heavy winter, they'll make a deal.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T10:48:40+00:00",
+      "timestamp": "2026-09-26T14:26:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -333,25 +371,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-25T01:59:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Skyrocketing diesel prices rattle Republicans as midterms approach](https://apnews.com/article/diesel-prices-trump-exports-iran-522435dd87d2a9b5270eebfa309f4a73)\nDiesel prices are hitting record highs as the Middle East conflict intensifies, affecting American farmers and rural residents. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/diesel-prices-trump-exports-iran-522435dd87d2a9b5270eebfa309f4a73)\nNicholas Riccardi,Cathy Bussewitz | apnews\u200b.com \u2022 Sep 23, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-23T22:55:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,6 +650,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf7\ud83c\uddfaLavrov calls for trust-building to resolve Hormuz crisis\nArmed confrontations in the Persian Gulf and Strait of Hormuz continue despite the damage caused to global shipping and trade, Russian Foreign Minister Sergey Lavrov said addressing UN General Assembly.\nHe said restoring trust between Iran and Arab Gulf states is a necessary condition for resolving the crisis, while also criticizing the use of force in international affairs.\nHe also accused the West of relying on \u201cbrute force\u201d and called the killing of Iran\u2019s Supreme Leader Ayatollah Ali Khamenei an unacceptable use of force.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T16:51:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf2\ud83c\udde6\ud83c\uddee\ud83c\uddf1 Protesters rally against Morocco-Israel diplomatic ties\nHundreds of people gathered in Marrakech to protest the recent upgrades to Morocco-Israel diplomatic relations and support Palestinian statehood.\nThe protests follow Morocco and Israel agreeing to upgrade diplomatic ties on September 16, including:\n\ud83d\udd36 opening full embassies\n\ud83d\udd36 appointing ambassadors\n\ud83d\udd36 expanding air travel\n\ud83d\udd36 reinstating direct flights operated by carriers from both nations\nIsrael-Morocco ties have flourished after the late-July Ceuta migrant crisis, which, according to [Chinese intelligence](https://t.me/geopolitics_prime/73188), was a textbook hybrid operation enabled by Israel.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T16:17:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf1Israel considers purchase of Boeing P-8 aircraft for submarine warfare\nThe Israeli Navy is considering the purchase of Boeing\u2019s P-8 Poseidon \u2014 one of the leading reconnaissance and surveillance aircraft \u2014 to expand operations far beyond Israel\u2019s borders, the Jerusalem Post reports.\nBased on the 737 platform, Boeing\u2019s P-8 is a key component for submarine warfare, thanks to an array of features:\n\ud83d\udd34 acoustic sensors\n\ud83d\udd34 torpedo capabilities\n\ud83d\udd34 artificial intelligence integration\n\ud83d\udd34 a powerful radar system for intelligence collection\n\ud83d\udd34 aerial refueling capabilities for extended flights\nIf approved by the US, Israel would be the first country in the Middle East to have the aircraft in its arsenal.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -656,25 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-26T10:08:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3Even establishment mouthpiece The Atlantic admits: Houthis have defeated the US\n \n\u201cSupposedly decimated last year,\u201d Ansar Allah is \u201cback and stronger than ever,\u201d defying President Trump\u2019s promises to \u201ccompletely annihilate\u201d them with his campaign of air and naval strikes, the magazine highlighted.\n\ud83d\udcac \u201cHow hard could it be, after all, for the world\u2019s mightiest military to vanquish a militia whose signature weapon is a machine gun mounted on a Toyota Hilux, and whose fighters, like most Yemeni men, spend much of their afternoons chewing khat, a narcotic plant?\u201d\nTurns out, much harder than everyone thought.\n\u201cThe Houthis have had an impressive run of military victories, apparently having used the time since being \u2018decimated\u2019 to restock, reload, and return to the fight\u201d to make territorial gains, blockade the \u201cmuch wealthier\u201d Saudi Arabia, and take the entirety of Yemen\u2019s Red Sea coast.\n\ud83d\udc49 The Houthis\u2019 alliance with Iran also complicates \u201cthe already dismal US prospects in the war against Tehran.\u201d\nGeopolitically, the Houthis are \u201carguably in a stronger position\u2026than ever before.\u201d But \u201caccording to Trump\u2019s Law of Military Achievement, that means a declaration of complete victory over the Houthis is due from the White House any day now,\u201d the magazine concluded.\nThe surprisingly sober assessment follows The Atlantic contributor and arch neocon [Robert Kagan\u2019s piece](https://t.me/geopolitics_prime/69436) on America\u2019s \u201ctotal defeat\u201d in Iran, which he characterized as a far worse catastrophe than the Vietnam war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T06:43:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
