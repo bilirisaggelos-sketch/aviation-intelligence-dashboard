@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T02:03:06.361973+00:00",
+  "generated_at": "2026-09-26T07:46:15.526451+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -173,25 +173,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, September 21, 2026 through Saturday, September 26, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/20/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: ALTK04\r",
       "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2687\r\nIssue Time: 2026 Sep 25 2158 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 2158 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -327,12 +308,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Abdul El-Sayed on Israel:\nMy foreign policy views are very simple. I just think we should be the first among equals to enforce international law. \nI would argue that Israel is the greatest outlier when it comes to the behavior of the government of Israel relative to the approbation you would expect them to get versus what they actually get.\nThey've been able to sustain an apartheid system, which is the only thing you can call sustained nearly six decade long occupation of a people in Gaza and the West Bank.\nThey did a genocide in Gaza. They led us into a war. Benjamin Netanyahu came to the situation room, made the argument for a war. He finally had a dupe big enough who was willing to do it. \nBut think about war aims. We had no clear war aims for that war. Israel had clear war aims. And one of those big war aims seems to be setting up for the annexation of southern Lebanon.\nAnd we do all of this and all of this has been done while our stated policy in the region is that we believe in a two-state solution, which is wild because we're aiding, arming, and abetting the very government that is attempting to foreclose on the possibility of a second state openly.\nAnd so I'm just saying that we should treat Israel the way we treat any other country that did the same stuff.",
+      "text": "Peter Thiel on AfD:\nI think there can be a reasonable debate about Ukraine, a reasonable debate about China, a reasonable debate about Israel. \nAnd at the same time, somehow I do think the AfD is wrong on all three. And you can't be wrong on all three.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T21:51:59+00:00",
+      "timestamp": "2026-09-26T06:20:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russia\u2019s Perm oil refinery, one of the country\u2019s largest, halted operations after a Ukrainian drone attack caused a fire and damaged pipelines, storage facilities and processing units.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T05:49:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -393,13 +393,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -480,6 +479,26 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 In a polarising move, the Central Elections Committee voted yesterday in favour of petitions to disqualify the majority Arab formations Joint List and Mansour Abbas\u2019s Ra\u2019am from running in the 27 October election.\n\u27a1\ufe0f At the same time, the committee voted 30-4 to specifically disqualify the chairman of the Joint List\u2019s Balad party, Sami Abu Shehadeh, No. 3 on the Joint List slate, from running.\n\u27a1\ufe0f The rulings by the panel were made up almost entirely of politicians representing Knesset factions. However, they must be approved by the Supreme Court of Justice, which is expected to overturn the bans due to the high legal threshold for preventing a party from running.\nRainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udcdd [Times of Israel](https://www.timesofisrael.com/election-panel-votes-to-bar-balad-chief-abu-shehadeh-over-alleged-support-for-terror/)\n\ud83d\uddfa",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T03:28:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Anduril Industries delivered the first \u2018Fury\u2019 Collaborative Combat Aircraft (CCA) to the USAF on 24 September, 2026.\nThe Fury CCA is roughly the same size as it\u2019s manned counterparts and will perform roles such as sensor support, close-in defense, and is meant to be a more-disposable weapon compared to manned aircrafts, with USAF testing having proved that American 5th Generation stealth fighters can control as many as a dozen (12) CCAs in simulations, and the F-15 Strike Eagle & Eagle II being capable of controlling and operating as much as two dozen (24) in simulations. While these aren\u2019t exactly capable of being fully translated into reality, the Collaborative Combat Aircraft/Loyal Wingman design could be bringing in a whole new era of aerial dominance for whoever figures it all out first.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -498,51 +517,128 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Airstrikes on southern lebanon now and fighter jets are flying at extremely low altitude",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fUkrainian long-range drones struck the Ilsky Oil Refinery in Russia\u2019s Krasnodar Krai, with fires reported at the facility. The refinery has six primary refining units and capacity of roughly 6.6 million tons of crude per year, producing diesel, gasoline, fuel oil and bitumen. Its products support Russian military logistics in the Southern Military District and occupied Ukrainian territories. The facility has been repeatedly targeted during the war.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T11:36:50+00:00",
+      "timestamp": "2026-09-26T06:37:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fThe Trump administration plans to commit the full $400 million in congressionally approved military aid for Ukraine before the funding expires Sept. 30, Reuters reports, citing three sources. $307 million has already been obligated, with the remaining $93 million expected to be placed under contract before the deadline. Initial deliveries, including offensive weapons and armored-vehicle spare parts, began this month. Patriot missiles are not included.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T06:37:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "FP-5 Flamingo missile developers used an actual cooking-pot lid to physically block its CRP antenna from seeing satellites during testing, Fire Point CEO Iryna Terekh says. The antenna is designed to operate under active jamming and spoofing. An engineer once forgot to remove the lid before an engine test, causing it to be sucked into the intake. The engine was shut down in time and survived. The battered lid was later turned into a 20-kg rotating \u201cOrder of the Clumsy-Handed.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T06:36:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia launched 173 drones at Ukraine overnight, including more than 50 jet-powered Shaheds, the Air Force says. Ukrainian air defenses downed or suppressed 134 Shahed, Gerbera and other UAVs. Impacts were recorded at 19 locations, while intercepted drone debris fell at eight.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T06:36:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaResidents in the regional capital city of Bryansk, Russia, reported hearing explosions followed by a large fire breaking out. \nNo drone alert was issued for the area around the time of the explosion. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T04:49:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted the Ilsky Oil Refinery in Russia's Krasnodar Krai region this evening.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T04:49:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1A flock of birds was seen in the skies above Tibnin in southern lebanon shortly before the air defense missile was launched over the Galilee Panhandle region.\nso it is a likely another false identification and another killed bird",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T11:31:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian drones targeted the Voronezhsintezkauchuk plant in Voronezh overnight, with locals reporting explosions and Russian air-defense activity. The SIBUR-owned chemical facility is a major producer of synthetic rubber, latex and thermoplastic elastomers. Its products are used across automotive, heavy machinery, aviation and other industrial sectors, including rubber goods, tires, gaskets and seals.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa[Reuters:](https://www.reuters.com/business/energy/russias-perm-oil-refinery-halted-operations-after-friday-drone-attack-sources-2026-09-25/) The Perm Oil Refinery has ceased operations following a Ukrainian drone strike early Friday morning. \nThe oil refinery is the seventh largest plant in Russia by volume. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:39:13+00:00",
+      "timestamp": "2026-09-26T04:49:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,134 +651,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian long-range drones struck the Perm oil refinery in Russia this morning, with multiple fires reported across the facility. Located around 1,500 km from Ukraine, the LUKOIL-operated plant is one of Russia\u2019s largest refineries, with annual crude processing capacity of about 13.1 million tons. It produces more than 60 petroleum products, including gasoline, diesel, aviation fuel, bitumen and lubricants.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25Trump rejects Iran's 7-day peace plan \u2014 report\nPresident Trump has rejected Iran's proposal to reopen the Strait of Hormuz and halt regional fighting within seven days, telling aides he expects to resume bombing after November's congressional elections, the Wall Street Journal reports, citing unnamed US officials.\nForeign Minister Abbas Araghchi said Iran conveyed its peace plan through Qatari mediators. Under the deal, a seven-day countdown would begin to reopen the Strait and pause regional fighting \u2014 including in Lebanon.\n\ud83d\udcac \"If there is seriousness on the US side to come to a deal and reopen the Strait of Hormuz, everything is now prepared,\" Araghchi said.\nWhat Iran demands:\n\ud83d\udd34 The US lifts its blockade on Iranian ports\n\ud83d\udd34 Frozen funds are released\n\ud83d\udd34 Oil sanctions are waived\nA US official said Washington and Tehran were having \"positive and constructive discussions\" \u2014 but Trump is privately skeptical Iran will meet his demands. He has told staff a renewed bombing campaign is likely.\nMeanwhile, the war's regional fallout deepens: Turkey and Pakistan \u2014 partners in the Mecca defense pact \u2014 met in Riyadh to discuss military coordination, as Yemen's humanitarian crisis worsens and acute malnutrition among children rises.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:39:10+00:00",
+      "timestamp": "2026-09-26T07:24:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "France has delivered new MICA air-to-air missiles and 30mm ammunition for Ukraine\u2019s Mirage 2000 fighter jets, the French Armed Forces Ministry confirmed. France also delivered new interceptor missiles for Ukraine\u2019s SAMP/T systems as part of an anti-ballistic missile defense package financed through the EU\u2019s Ukraine Support Loan.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3Even establishment mouthpiece The Atlantic admits: Houthis have defeated the US\n \n\u201cSupposedly decimated last year,\u201d Ansar Allah is \u201cback and stronger than ever,\u201d defying President Trump\u2019s promises to \u201ccompletely annihilate\u201d them with his campaign of air and naval strikes, the magazine highlighted.\n\ud83d\udcac \u201cHow hard could it be, after all, for the world\u2019s mightiest military to vanquish a militia whose signature weapon is a machine gun mounted on a Toyota Hilux, and whose fighters, like most Yemeni men, spend much of their afternoons chewing khat, a narcotic plant?\u201d\nTurns out, much harder than everyone thought.\n\u201cThe Houthis have had an impressive run of military victories, apparently having used the time since being \u2018decimated\u2019 to restock, reload, and return to the fight\u201d to make territorial gains, blockade the \u201cmuch wealthier\u201d Saudi Arabia, and take the entirety of Yemen\u2019s Red Sea coast.\n\ud83d\udc49 The Houthis\u2019 alliance with Iran also complicates \u201cthe already dismal US prospects in the war against Tehran.\u201d\nGeopolitically, the Houthis are \u201carguably in a stronger position\u2026than ever before.\u201d But \u201caccording to Trump\u2019s Law of Military Achievement, that means a declaration of complete victory over the Houthis is due from the White House any day now,\u201d the magazine concluded.\nThe surprisingly sober assessment follows The Atlantic contributor and arch neocon [Robert Kagan\u2019s piece](https://t.me/geopolitics_prime/69436) on America\u2019s \u201ctotal defeat\u201d in Iran, which he characterized as a far worse catastrophe than the Vietnam war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:39:07+00:00",
+      "timestamp": "2026-09-26T06:43:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian drones struck the Iskra electronics plant in Ulyanovsk, around 800 km from Ukraine, with footage showing six consecutive strikes across different parts of the facility. The plant, part of Russia\u2019s Almaz-Antey defense conglomerate, manufactures semiconductor components and other electronics used in military systems, including Kh-59M2/M2A missiles, Pantsir air defenses, radars and communications equipment.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:39:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian mid-range drones struck the Stroycenter construction hypermarket in occupied Luhansk overnight, causing a large fire at the facility. The site had reportedly been repurposed for Russian military needs and was being used as a logistics hub.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:38:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russia launched 295 drones at Ukraine overnight, including 52 jet-powered Shaheds, the Air Force says. Air defenses downed or suppressed 267 Shahed, Gerbera and other UAVs. Impacts were recorded at 16 locations and debris from intercepted drones fell at four.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:38:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Two IDF reservists were killed yesterday after a small explosive drone they were operating in the Gaza Strip crashed for an unknown reason and exploded shortly after, the military announces.\nThe troops are named as Master Sgt. (res.) Nadav Kali, 24, from Har Halutz, and Master Sgt. (res.) Ofek Moalem, 23, from Jerusalem. \nBoth served in the Jerusalem Brigade's 7007th Battalion.\nAccording to a preliminary investigation by the military, the two soldiers on Thursday afternoon had been operating first-person view (FPV) drones known as \"Atalef\" -- Hebrew for bat -- from an army post inside the military's Gaza buffer zone in the Strip's north.\nA first drone carried out its intended mission, while a second, during its takeoff, crashed inside the army post for an as-yet-unknown reason. The soldiers approached the crashed drone several minutes later, picked it up, and it then exploded, fatally wounding them, according to the initial probe.\nThe pair were taken to Barzilai Hospital in Ashkelon, where their deaths were declared.\nAmid the investigation into the cause of the crash and explosion, the military has temporarily grounded all small drones capable of carrying explosive payloads -- both suicide drones and those that drop their explosives on a target.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:38:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "VIDEO: Ukrainian drone striking the Perm oil refinery in Russia earlier.\nContributed by",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T06:16:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -723,45 +724,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, they've been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow them to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T20:52:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 Houthis threaten Saudis\u2019 last overland supply route into Yemen, expand missile operations\n\u00a0\nThe slowing of the Houthis\u2019 advance on the Saudi-backed government\u2019s capital of Aden is deliberate, and explicable by two factors, says Lebanese geopolitical analyst Laith Marouf.\nFirst, they seek to avoid being entangled in a costly urban warfare scenario. Second, they may be planning a major operation to secure the Al-Wadiah border crossing \u2013 the last land border checkpoint between Yemen and Saudi Arabia.\n\ud83d\udc49 Capturing Al-Wadiah would severely undermine Riyadh\u2019s ability to supply and pay its proxies, and force them to resupply their isolated allies by air and sea \u2013 \u201ca much, much more costly and harder objective.\u201d\nMarouf cast doubt on a new report that an RAF tanker was dispatched to Saudi Arabia to provide refueling support for Saudi jets, pointing out that the kingdom not only has its own tanker fleet, but is using Yemen-adjacent bases for its bombing missions. His conclusion is that the RAF is \u201cresupplying fuel to NATO jets that are flying out of Cyprus on their way to attack Yemen.\u201d\n\u00a0\nMeanwhile, the Houthis are escalating their attacks into Saudi Arabia. In the past 48 hours alone, they\u2019ve targeted:\n\u27a1\ufe0f a mystery \u201csensitive site\u201d in Riyadh\n\u27a1\ufe0f [Saudi Aramco facilities](https://t.me/geopolitics_prime/75123) in the port city of Yanbu (possibly East-West Pipeline-linked)\n\u27a1\ufe0f Taif \u2013 home to the King Fahd Air Base being used to target Yemen\n\u27a1\ufe0f Tabuk \u2013 a major military hub in north-western Saudi Arabia\n\u27a1\ufe0f Jeddah, the kingdom\u2019s commercial capital\n\u27a1\ufe0f a command center in Jizan\n\u27a1\ufe0f weapons depots in Al-Tuwal\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T20:09:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
