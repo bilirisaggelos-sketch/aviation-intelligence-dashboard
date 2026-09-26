@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T17:01:03.798743+00:00",
+  "generated_at": "2026-09-26T19:53:46.545238+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -125,25 +125,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/24/2026",
       "location": "ZTL TN",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nAtchison, KS, Saturday, September 26, 2026 Local\nFacility: ZKC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/22/2026",
-      "location": "ZKC KS",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -327,31 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Turkish Foreign Minister Hakan Fidan on Israel:\nThe oppression and massacres carried out by Israel are no longer going without consequences to the same extent, as a result of the diplomatic efforts that have been made. In other words, Israel now has to pay very heavy costs for every action it takes. \nThis isolation, including facing legal consequences through institutions such as the International Court of Justice and the International Criminal Court, means it is encountering situations it has never been accustomed to or faced before.",
+      "text": "EXCLUSIVE: Sudan Army's AKINCI drone shot down yet another Chinese-made CH-95 drone operated by UAE-backed RSF terror group near Nyala.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T16:22:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Reporter: Did you talk to Zelensky about Patriot missiles?\nTrump: I did. I spoke to him a lot, and he's going along, and Putin's going along.\nSomeday, hopefully in the not-too-distant future, maybe before the heavy winter, they'll make a deal.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T14:26:10+00:00",
+      "timestamp": "2026-09-26T18:57:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -459,25 +421,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran\u2019s President Masoud Pezeshkian:\nTrump kept saying, \u201cI want to bring a gift to the people of Iran,\u201d but the gift that they brought us was guided missiles, heavy weapons, and destruction.\nWhat they truly wish to do is to instigate incidents in the country that pave the way for the downfall of the system, of the society, of the government.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T23:09:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 In a polarising move, the Central Elections Committee voted yesterday in favour of petitions to disqualify the majority Arab formations Joint List and Mansour Abbas\u2019s Ra\u2019am from running in the 27 October election.\n\u27a1\ufe0f At the same time, the committee voted 30-4 to specifically disqualify the chairman of the Joint List\u2019s Balad party, Sami Abu Shehadeh, No. 3 on the Joint List slate, from running.\n\u27a1\ufe0f The rulings by the panel were made up almost entirely of politicians representing Knesset factions. However, they must be approved by the Supreme Court of Justice, which is expected to overturn the bans due to the high legal threshold for preventing a party from running.\nRainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udcdd [Times of Israel](https://www.timesofisrael.com/election-panel-votes-to-bar-balad-chief-abu-shehadeh-over-alleged-support-for-terror/)\n\ud83d\uddfa",
       "source": "Telegram",
@@ -488,12 +431,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -621,12 +565,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -644,6 +589,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80\ud83c\uddee\ud83c\uddf7 Hard target, literally: Iran\u2019s underground missile cities blunt US spear\n\u00a0\n\ud83d\udcac \u201cPart of the strategic capabilities of the armed forces have in recent years been deployed in secure environments and underground infrastructure, a move that has frustrated the enemy\u2019s calculations regarding Iran\u2019s defense capabilities and weapons production capacity,\u201d MoD spokesman Reza Talaei-Nik said Saturday.\n[Today\u2019s wars are conflicts](https://t.me/geopolitics_prime/66497) of \u201ctechnology, specialists, and hybrid warfare,\u201d and of society, the economy, media and \u201ccognitive domains\u201d at large, Talaei-Nik said, with the geographic scope, technologies, speed and intensity of operations far outpacing those of the bloody 1980-1988 Iran-Iraq War.\nIran\u2019s fortified underground missile and drone staging areas and dispersed weapons manufacturing facilities have become a nut CENTCOM and Israeli commanders can\u2019t crack, with these facilities, combined with the rapidity and precision of Iran\u2019s retaliatory strikes within hours of the February war\u2019s start, leaving the US in a strategic quagmire with no face-saving way out.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T18:21:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
