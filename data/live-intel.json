@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T19:53:46.545238+00:00",
+  "generated_at": "2026-09-26T22:37:08.345304+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -106,25 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/24/2026",
       "location": "ZAU IL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKnoxville, TN, Saturday, September 26, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/24/2026",
-      "location": "ZTL TN",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -251,6 +232,26 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 BREAKING: In the past few hours, the IRGC Navy has begun substantially escalating its targeting of violating vessels in the Strait of Hormuz\nAnti-ship cruise missiles and drones were launched at various vessels. Simultaneously, fast-attack boats of the IRGC Navy are engaging hostile tankers with guided rockets, Dushka machine guns, and small arms.\nAccording to reliable reports, at least 3 vessels have been struck so far, and a fourth one has decided to turn around. Some reports even mention that up to 6 vessels were struck (unconfirmed).",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T22:13:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Iraqis in the city of Basra are protesting against the government\u2019s decision to suspend flights to and from Iran",
       "source": "Telegram",
       "source_type": "telegram",
@@ -346,6 +347,46 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c \ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\u2014 IRGC Navy cruise missile struck a violating ship in the Strait of Hormuz.\nAccording to reports, the extent of the damage is very widespread.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T20:35:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c \ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\u2014 Reports of anti-ship cruise missiles launch towards Strait of Hormuz by Iran.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T20:29:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f\ud83c\uddea\ud83c\uddec \u2014 Alert and AD failures in Riyadh following missile attack.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -402,25 +443,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Alerts have been issued in Jazan, Saudi Arabia, likely due to Houthi Missiles.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-24T23:30:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 In a polarising move, the Central Elections Committee voted yesterday in favour of petitions to disqualify the majority Arab formations Joint List and Mansour Abbas\u2019s Ra\u2019am from running in the 27 October election.\n\u27a1\ufe0f At the same time, the committee voted 30-4 to specifically disqualify the chairman of the Joint List\u2019s Balad party, Sami Abu Shehadeh, No. 3 on the Joint List slate, from running.\n\u27a1\ufe0f The rulings by the panel were made up almost entirely of politicians representing Knesset factions. However, they must be approved by the Supreme Court of Justice, which is expected to overturn the bans due to the high legal threshold for preventing a party from running.\nRainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udcdd [Times of Israel](https://www.timesofisrael.com/election-panel-votes-to-bar-balad-chief-abu-shehadeh-over-alleged-support-for-terror/)\n\ud83d\uddfa",
       "source": "Telegram",
@@ -438,25 +460,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Anduril Industries delivered the first \u2018Fury\u2019 Collaborative Combat Aircraft (CCA) to the USAF on 24 September, 2026.\nThe Fury CCA is roughly the same size as it\u2019s manned counterparts and will perform roles such as sensor support, close-in defense, and is meant to be a more-disposable weapon compared to manned aircrafts, with USAF testing having proved that American 5th Generation stealth fighters can control as many as a dozen (12) CCAs in simulations, and the F-15 Strike Eagle & Eagle II being capable of controlling and operating as much as two dozen (24) in simulations. While these aren\u2019t exactly capable of being fully translated into reality, the Collaborative Combat Aircraft/Loyal Wingman design could be bringing in a whole new era of aerial dominance for whoever figures it all out first.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-25T19:06:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -595,6 +598,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\u2694\ufe0f Iran is the world's most experienced country in asymmetric warfare \u2014 General\nArmed Forces spokesperson General Sharkhchi says Iran has fundamentally transformed its military doctrine \u2014 and is ready for whatever comes next.\n\ud83c\udf0f The West's classic methods are vulnerable to asymmetric warfare, which is why Iran achieved victory by relying on asymmetric tactics\n\ud83c\udf0f The shift began after the Islamic Revolution and proved effective during the Iran-Iraq War, when Iran launched its missile development program\n\ud83c\udf0f The formula is simple: standing against the enemy's expensive, heavy weaponry with lower-cost, simpler, more effective defense equipment\n\ud83c\udf0f Iranian missiles and drones are \"more advanced and powerful\" \u2014 and this time, \"we have a surprise for the enemy\"\n\"The powerful Iranian Armed Forces are far stronger than they were at the beginning of the second and third imposed wars. We will respond to any potential aggression with new military technologies,\" Sharkhchi stressed.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-26T21:27:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\ude80\ud83c\uddee\ud83c\uddf7 Hard target, literally: Iran\u2019s underground missile cities blunt US spear\n\u00a0\n\ud83d\udcac \u201cPart of the strategic capabilities of the armed forces have in recent years been deployed in secure environments and underground infrastructure, a move that has frustrated the enemy\u2019s calculations regarding Iran\u2019s defense capabilities and weapons production capacity,\u201d MoD spokesman Reza Talaei-Nik said Saturday.\n[Today\u2019s wars are conflicts](https://t.me/geopolitics_prime/66497) of \u201ctechnology, specialists, and hybrid warfare,\u201d and of society, the economy, media and \u201ccognitive domains\u201d at large, Talaei-Nik said, with the geographic scope, technologies, speed and intensity of operations far outpacing those of the bloody 1980-1988 Iran-Iraq War.\nIran\u2019s fortified underground missile and drone staging areas and dispersed weapons manufacturing facilities have become a nut CENTCOM and Israeli commanders can\u2019t crack, with these facilities, combined with the rapidity and precision of Iran\u2019s retaliatory strikes within hours of the February war\u2019s start, leaving the US in a strategic quagmire with no face-saving way out.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -639,44 +661,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-26T16:17:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1Israel considers purchase of Boeing P-8 aircraft for submarine warfare\nThe Israeli Navy is considering the purchase of Boeing\u2019s P-8 Poseidon \u2014 one of the leading reconnaissance and surveillance aircraft \u2014 to expand operations far beyond Israel\u2019s borders, the Jerusalem Post reports.\nBased on the 737 platform, Boeing\u2019s P-8 is a key component for submarine warfare, thanks to an array of features:\n\ud83d\udd34 acoustic sensors\n\ud83d\udd34 torpedo capabilities\n\ud83d\udd34 artificial intelligence integration\n\ud83d\udd34 a powerful radar system for intelligence collection\n\ud83d\udd34 aerial refueling capabilities for extended flights\nIf approved by the US, Israel would be the first country in the Middle East to have the aircraft in its arsenal.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T10:49:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0aIran warns of wider regional air disruption over aviation restrictions\nAir access should either remain open for all countries or for none, adviser to Iran's Supreme Leader Mohammad Mokhber wrote on X, warning that denying Iran access to flight operations and airport services would have broader consequences.\nMokhber noted that Iran would take note of countries cooperating with US restrictions, while emphasizing Tehran's position that regional aviation access cannot be selectively limited.\nThe statement came after airports in Iraq and the UAE suspended services for Iranian airlines amid increased sanctions pressure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T10:08:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
