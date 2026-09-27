@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-27T20:12:13.854094+00:00",
+  "generated_at": "2026-09-27T23:07:08.660986+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLas Vegas, NV, Wednesday, September 30, 2026 Local\nFacility: ZLA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/27/2026",
+      "location": "ZLA NV",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Sunday, September 27, 2026 through Friday, October 2, 2026 Local\nFacility: ZJX",
@@ -68,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/25/2026",
       "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nChicago, IL, Sunday, September 27, 2026 Local\nFacility: ZAU",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/24/2026",
-      "location": "ZAU IL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -213,12 +213,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Ansarallah air defense activity against Saudi UAVs above Amran Governorate, northern Ansarallah-controlled Yemen",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf6\u26a1\ufe0f \u2014 U.S. Air Force fighter jets continue to patrol Iraqi Kurdistan's airspace. It is possible a renewed Iranian UAV launch was detected.\nUSAF fighters are the only reliable way to intercept Iranian UAVs due to the U.S. withdrawing all other air defenses.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T20:07:53+00:00",
+      "timestamp": "2026-09-27T22:56:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -228,6 +228,65 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 Ballistic missile impacts were reported in Erbil, Iraqi Kurdistan\nShahed-136 drones also targeted Koya.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T22:51:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Iran targets camps of Kurdish terrorist groups in Erbil, Iraqi Kurdistan, with missiles and drones",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T22:43:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Ansarallah air defense activity against Saudi UAVs above Amran Governorate, northern Ansarallah-controlled Yemen",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T20:07:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -250,25 +309,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "US Envoy to the UN Mike Waltz on Iran:\nWhy are they attacking international shipping? 146 countries have joined us, a UN record, in condemning Iran\u2019s attack on civilian shipping.\nYou can\u2019t start shooting at civilian shipping any more than you can shoot down civilian airliners because you are a party to a conflict.\nIran is just being condemned by the entire world, and they are in violation of international law across the board.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T15:34:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Police arrest actors, politicians protesting against Netanyahu outside UN](https://www.reuters.com/world/middle-east/police-arrest-actors-politicians-protesting-against-netanyahu-outside-un-2026-09-24/)\nPolice arrested at least 30 people including actors and politicians as they protested outside United Nations \u200bheadquarters on Thursday against Israeli Prime Minister Benjamin Netanyahu ahead \u200cof his speech at the General Assembly. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/police-arrest-actors-politicians-protesting-against-netanyahu-outside-un-2026-09-24/)\nMaria Tsvetkova | reuters\u200b.com \u2022 Sep 24, 2026",
       "source": "Telegram",
@@ -283,6 +323,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e \u2014 Drone strikes, reportedly accompanied by missile attacks, target the headquarters of Iranian Kurdish opposition parties in Erbil and Sulaymaniyah governorates in northern Iraq.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T22:45:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfe\ud83c\uddea \u2014 Statement from the Iranian Ministry of Foreign Affairs: \nStatement by the Ministry of Foreign Affairs in Strong Condemnation of Attacks on Civilian Infrastructure and Targets in Yemen\nThe Ministry of Foreign Affairs of the Islamic Republic of Iran strongly condemns the military attacks on various parts of Yemen, which have resulted in the martyrdom and injury of a large number of defenseless Muslim people in Yemen and severe damage to the country's infrastructure. In this regard, the airstrikes on the Taiz market on Sunday afternoon, which resulted in the martyrdom of more than 50 people and the injury of dozens of others, as well as the airstrikes on the city of Khab and Al-Sha'af, are also completely condemned.\nThe continued violation of Yemen's national sovereignty and territorial integrity and the aggressive operations against the cities and villages of this country, which recently witnessed attacks by the Zionist regime and the United States, along with the continued economic blockade of this country, are contrary to the fundamental principles of the United Nations Charter, especially Article 2, Paragraph 4, and contrary to Islamic principles and teachings.\nThe Islamic Republic of Iran, recalling its principled position on the situation in Yemen, reiterates its readiness for any\nJamila emphasizes efforts to resolve issues based on an agreed roadmap.\n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T21:01:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\udde8\ud83c\uddf3\ud83c\uddee\ud83c\uddf7 China is challenging the United States and welcoming an Iranian aircraft on its territory.\nA passenger plane from Mahan Air landed in Guangzhou, in southern China, despite the latest US sanctions targeting Iran's aviation sector.\nWashington had warned that any foreign organization providing assistance to Iranian aircraft, including refueling or landing services, would face tough sanctions, potentially including exclusion from the dollar financial system. Meanwhile, some of Iran's neighbors, such as Turkey, suspended flights.\nBeijing rejects these measures, calling them \"illegal unilateral sanctions,\" and states that it will maintain its air and trade ties with Iran.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T20:19:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -314,44 +411,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-27T18:13:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran\u2019s FM Seyed Abbas Araghchi:\nWe are fully prepared for the time, for the war to be resumed. \nI repeat, we stand firm in the face of any new aggression, even if it comes to a doomsday war.\nBut at the same time, we are ready; we stand ready for diplomacy. It is up to President Trump to choose. \nHe wanted unconditional surrender in the previous war in two days, and now it's eight months that they are fighting with no result. A new aggression would certainly be the same. We are fully prepared for that. \nWe have learned our lesson from the two previous wars, and we have corrected our tactics. We have changed our tactics, and we are fully prepared to do that.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T15:34:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 \u2014 Hezbollah Secretary-General Sheikh Naim Qassem:\nThe authorities in Lebanon are helping advance the Israeli-American project instead of confronting it.\nWe call on the Lebanese authorities to put an end to concessions and freeze direct negotiations with Israel.\nThe resistance fighters held out at Ali al-Taher for three months, but preserving the location is not the main issue.\nWe are ready for dialogue, but how can we engage in dialogue with those who have declared the resistance to be outside the law?\nThe president has the right to negotiate, but he does not have the right to violate the Constitution or relinquish Lebanon\u2019s right to pursue legal action against the enemy.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T14:52:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -399,6 +458,26 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea Unidentified drones are flying over the Raidah district in Houthi-controlled Amran Governorate, northern Yemen.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T20:38:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -516,20 +595,59 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 The IDF says Hezbollah launched an explosive drone toward Israeli troops operating in the security zone in southern Lebanon overnight. No injuries were reported.\nIn response, the IDF said it carried out airstrikes against Hezbollah targets across several areas of southern Lebanon, including sites it says were used to launch explosive drones and anti-tank missiles at Israeli forces.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Iran strikes Kurdish group camps in Erbil with missiles and drones\nIranian missiles and drones have targeted camps of Kurdish groups in Erbil, in Iraq's Kurdistan Region, according to reports.\nThe strikes occurred on the same day that all US combat troops and logistical support forces left Iraq, European media outlets reported, citing an Iraqi government official.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T18:44:16+00:00",
+      "timestamp": "2026-09-27T23:04:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcd1 Netanyahu orders ICC case prepared against Erdogan\nPrime Minister Benjamin Netanyahu has ordered an interministerial team and legal officials to prepare a case against Turkish President Recep Tayyip Erdogan at the International Criminal Court, according to i24NEWS.\nThe case would target T\u00fcrkiye's treatment of its Kurdish population, and allegations that Erdogan's government has financed Hamas.\nNeither Israel nor T\u00fcrkiye is a party to the Rome Statute \u2014 neither recognizes the ICC's jurisdiction. Sources say Israel hopes to use the proceedings as leverage against Erdogan rather than necessarily filing.\nThe ICC has issued arrest warrants for Israeli officials over the war in Gaza. The man ordering this case would be arrested on sight in most of Europe. And he's now trying to file paperwork at the court that wants him in a cell.\nThe ICC has been repeatedly accused of devolving into a[ corruption-steeped political weapon](https://t.me/geopolitics_prime/49077), doling out \"justice\" on a pay-to-play basis, selectively targeting nations who champion multipolarity\u2014those forging independent paths with Russia, China, or others outside Western orbits.\nSo it may just oblige \u2014 serving the very men it issued warrants for.\n \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T22:08:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Houthi air defenses engage Saudi drones over Amran\nAnsar Allah air defenses engaged Saudi UAVs above Amran Governorate in northern Yemen, according to local media.\nSaudi Arabia has sharply increased its airstrikes on Houthi-controlled Yemen, with warplanes hitting Taiz Province earlier today and killing at least 7 civilians \u2014 including 5 children \u2014 while injuring more than 40, according to Yemen's Ministry of Health and Environment.\nArmed Forces spokesman Brig. Gen. Yahya Saree says total Saudi air and missile attacks since the beginning of the latest escalation have reached 1,059.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T21:10:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -561,44 +679,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-27T17:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran running out of room for all its US and Israeli war trophies\n\u00a0\nThe IRGC\u2019s National Aerospace Park missile museum is going to need a brand-new wing to accommodate all the enemy weaponry Iran has been capturing. Besides the freshly procured REMUS 600 drone spy sub, Iran has collected:\n\ud83d\udd34 [an Anduril Dive-LD drone sub](https://t.me/geopolitics_prime/74351)\n\ud83d\udd34 a largely intact MQ-9 Reaper\n\ud83d\udd34[ Israeli Hermes 450 and 900 series UAVs](https://t.me/geopolitics_prime/73415)\n\ud83d\udd34 remains of a US F-15E Strike Eagle, two Black Hawk helicopters and a C-130 transport aircraft\n\ud83d\udd34 a GAU-5A rifle used exclusively by the US Air Force\n\ud83d\udd34 an unexploded GBU-39 Small Diameter Bomb, GBU-57 Massive Ordnance Penetrator bunker buster and stealth JASSM missile\n\ud83d\udd34 an unexploded Tomahawk warhead\n\u00a0\nThat\u2019s adding to the array of systems Iran captured before the current war, including:\n\u00a0\n\u2666\ufe0f an RQ-170 Sentinel, hijacked by Iran will conducting illegal reconnaissance in 2011\n\u2666\ufe0f a $220M RQ-4A Global Hawk, downed over Hormuz in 2019 and put on display\n\u2666\ufe0f A Boeing ScanEagle\n\u2666\ufe0f AeroVironment RQ-11 Raven and AAI RQ-7 Shadow drones\n\u00a0\nWith the latest haul, weapons experts can expect a reverse-engineered Iranian REMUS 600, but 10-30 times cheaper, in the near future. Or even a totally new indigenous design borrowing a handful of the US tech\u2019s components.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T14:58:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3IRGC adds US REMUS 600 spy drone sub to its collection\n\u00a0\nThe autonomous underwater vehicle was found operating in Hormuz Strait. The IRGC says its capture was made possible thanks to a coordinated intel and EW operation.\nThe sub is the second waterborne drone vehicle Iran has captured in less than a month. On September 8, the IRGC Navy seized an Anduril Dive-LD recon, seabed mapping and [inspection submersible.](https://t.me/geopolitics_prime/74258)\nIran\u2019s Houthi allies captured a REMUS 600 in 2018, and used it to help build a technically less sophisticated but strategically superior [autonomous torpedo.](https://t.me/geopolitics_prime/74821)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T14:15:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
