@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:55:53.973931+00:00",
+  "generated_at": "2026-09-27T06:29:31.122768+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3746\r\nIssue Time: 2026 Sep 27 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3745\nBegin Time: 2026 Sep 26 1535 UTC\nYesterday Maximum 2MeV Flux: 1260 pfu\nMax time: 2026 Sep 26 1645 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-27 05:02:04.940",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK04\r",
       "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2688\r\nIssue Time: 2026 Sep 27 0040 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 27 0040 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -211,25 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5422\r\nIssue Time: 2026 Sep 25 2155 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 25 2154 UTC\nValid To: 2026 Sep 26 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-25 21:55:03.593",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: At least some of the missiles fired tonight into the Strait of Hormuz carried naval mines\nIran is once again laying mines in the Strait of Hormuz, this time apparently in the illegal Omani route.\nIt is unclear how many of such mines were launched by Iran, and if their deployment was successful.",
@@ -244,7 +244,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -261,12 +261,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -280,12 +281,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -490,145 +492,220 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia continued attacking Kyiv City and Kyiv Oblast with Geran-4 and Geran-5 jet-drones overnight, striking several different targets. \nExplosions were heard in the Chokolivka, Solom'yans'kyi, Shuliavka, Vidradnyi, and Zhulanyi Districts of Kyiv; the cities of Vasylkiv, Brovary, Borodyanka, and Irpin; and the towns of Litky, Krasylivka, Hlevakha, and Hatne.\nAmong the targets hit were a warehouse facility in the Solom'yans'kyi District, an office building in the Shevchenkivskyi District, and a warehouse in the town of Krasylivka.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T04:18:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "#Ethiopia \ud83c\uddea\ud83c\uddf9: Amhara FANO National Movement (AFNM) reportedly ambushed Ethiopian Army (ENDF) convoy in North Shewa Zone.\nOne of the FANO fighters seems to be armed with a rare Israeli IMI \u201cRomat\u201d (Rov've Mitta'enn) battle rifle \u2014 which was very likely seized from ENDF.\nhttps://x.com/war_noir/status/2103881441188683987",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T03:26:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "#Yemen / #SaudiArabia \ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6: Ansar Allah (#Houthis) struck Main Battle Tanks (likely Saudi-supplied M60A1 or similar MBT) and vehicles used by PLC Forces.\nGroup apparently used common \u201cRajoum\u201d Hexacopter Drones armed with Air-Dropped Iranian DIO M48 HE and locally-made Bombs.\nhttps://x.com/war_noir/status/2103841873315946621",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T03:26:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "HUR shared footage of another week of combat on the Zaporizhzhia direction, where its Active Action Department is taking out Russian occupiers, equipment, vehicles and drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T03:23:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "SBU reports its Alpha special ops center and Ukraine\u2019s Navy struck the Azov Optical-Mechanical Plant in Azov, Rostov region. It says Neptune cruise missiles and jet-powered rocket-drones Ruta, Palyanytsia and Bars were used.\nPreliminarily damaged optics and foundry facilities, an assembly area, a galvanic shop, and a PCB shop. SBU also reports hits on rail tank cars with fuel in Azov and a Pantsir-S2 air defense system in Rostov region.\nSBU reports a strike on the Ilsky refinery in Krasnodar Krai with two fire spots, at the tank farm and the ELOU-AVT unit. It calls the hits part of operations against sites supporting Russia\u2019s war and a reply to strikes on Ukrainian civilians.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T03:22:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's drone operators took out a Russian occupier near Okhrimivka in the Vovchansk direction who was kneeling in the middle of the road watching the drone approach.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T03:21:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Overnight attack on Azov in Russia\u2019s Rostov region. Local monitoring channels reported missile strikes, possibly jet-powered drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T03:21:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russia hits Vodafone data center in Kiev\nRussia\u2019s overnight drone campaign also struck logistics hubs, port and transport infrastructure, communications centers and vessels working for the Ukrainian army.\nTargets hit:\nKiev \u2014 a Vodafone data center, one of the biggest providers of mobile and high-speed internet to the Ukrainian armed forces, including for passing intelligence\nKiev region \u2014 the Zalmer Group logistics hub in Krasilovka, used to store and distribute Western military aid for the Ukrainian army\nNikolayev \u2014 two warehouses full of drones and their warheads\nOdessa region \u2014 the Dron Kalinsh logistics center in Ilyichovka, storing FPV interceptors\nPort of Kiliya:\n\ud83d\udd34 headquarters of the Ukrainian Navy's Vostok naval base\n\ud83d\udd34 a basing point of Ukraine's State Border Service\n\ud83d\udd34 four storage sites with military equipment for the Ukrainian army\n\ud83d\udd34 berthing infrastructure\nPlus: a dry cargo vessel hit at sea \u2014 it was carrying military equipment and dual-use cargo to Odessa for the Ukrainian army.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T05:48:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Iran lays mines in the Strait of Hormuz targeting the Omani route \u2014 reports\nUnconfirmed reports indicate at least some of the missiles fired into the Strait of Hormuz tonight carried naval mines \u2014 apparently dropped into the corridor through Omani waters that ships have been using to avoid Iranian clearance.\n\ud83d\udd36 It is unclear how many mines were launched, or whether the deployment succeeded\n\ud83d\udd36 The target appears to be the very route vessels have been using to evade the PGSA's transit requirements\n\ud83d\udd36 Iran previously declared a restricted zone extending from the US Navy's blockade line through the strait and into the Persian Gulf\nIf confirmed, demining the Omani corridor would take time, ships, and sustained commitment from a US Navy that is already stretched to breaking. And every minesweeper sent into that corridor becomes a stationary target for Iranian forces.\nMeanwhile, commercial vessels would have no choice but to obey the PGSA's designated safe route \u2014 because the alternative now has mines in it. That means Iranian clearance, Iranian paperwork, Iranian terms.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T04:39:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
-        "Mediterranean Man"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fUkrainian long-range drones struck the Ilsky Oil Refinery in Russia\u2019s Krasnodar Krai, with fires reported at the facility. The refinery has six primary refining units and capacity of roughly 6.6 million tons of crude per year, producing diesel, gasoline, fuel oil and bitumen. Its products support Russian military logistics in the Southern Military District and occupied Ukrainian territories. The facility has been repeatedly targeted during the war.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude0b US plans to deploy laser weapons to Cape Canaveral \u2014 report\nSpace Launch Delta 45 is installing a directed-energy defense system at Cape Canaveral Spaceport to take down unauthorized drones, according to The War Zone \u2014 part of a broader effort to protect launch infrastructure used by SpaceX, United Launch Alliance, Blue Origin, and Relativity Space.\n\"The ongoing security modernization integrates detection, tracking, and defensive capabilities to include directed energy systems.\" SLD 45 spokesperson said.\nNo timeline has been given for when it will be operational \u2014 and officials declined to name the specific system.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T06:37:07+00:00",
+      "timestamp": "2026-09-27T02:50:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u2757\ufe0fThe Trump administration plans to commit the full $400 million in congressionally approved military aid for Ukraine before the funding expires Sept. 30, Reuters reports, citing three sources. $307 million has already been obligated, with the remaining $93 million expected to be placed under contract before the deadline. Initial deliveries, including offensive weapons and armored-vehicle spare parts, began this month. Patriot missiles are not included.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d\ud83d\udeeb Boeing flags new 737 MAX software glitch affecting landing navigation\nBoeing has identified a previously undisclosed software glitch in the 737 MAX that could cause an automated navigation feature to fail during landing, according to the Wall Street Journal, citing company documents.\n\ud83c\udf0f The issue emerged from a cockpit software update\n\ud83c\udf0f The glitch can occur when flight crews alter their planned flight path after a missed approach\n\ud83c\udf0f Southwest and United have asked Boeing not to deliver new 737 MAX aircraft equipped with the affected software\nBoeing has been under intense regulatory and safety scrutiny for years \u2014 following two fatal 737 MAX crashes in 2018 and 2019 that grounded the fleet worldwide, and a mid-air cabin panel blowout on a nearly new Alaska Airlines MAX 9.\nFor a manufacturer that has spent years promising a culture change, this is the same story with a new file name: a problem found in documents, disclosed quietly, and answered with questions instead of answers.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T06:37:02+00:00",
+      "timestamp": "2026-09-27T01:48:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "FP-5 Flamingo missile developers used an actual cooking-pot lid to physically block its CRP antenna from seeing satellites during testing, Fire Point CEO Iryna Terekh says. The antenna is designed to operate under active jamming and spoofing. An engineer once forgot to remove the lid before an engine test, causing it to be sucked into the intake. The engine was shut down in time and survived. The battered lid was later turned into a 20-kg rotating \u201cOrder of the Clumsy-Handed.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T06:36:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russia launched 173 drones at Ukraine overnight, including more than 50 jet-powered Shaheds, the Air Force says. Ukrainian air defenses downed or suppressed 134 Shahed, Gerbera and other UAVs. Impacts were recorded at 19 locations, while intercepted drone debris fell at eight.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T06:36:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaResidents in the regional capital city of Bryansk, Russia, reported hearing explosions followed by a large fire breaking out. \nNo drone alert was issued for the area around the time of the explosion. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T04:49:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted the Ilsky Oil Refinery in Russia's Krasnodar Krai region this evening.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T04:49:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa[Reuters:](https://www.reuters.com/business/energy/russias-perm-oil-refinery-halted-operations-after-friday-drone-attack-sources-2026-09-25/) The Perm Oil Refinery has ceased operations following a Ukrainian drone strike early Friday morning. \nThe oil refinery is the seventh largest plant in Russia by volume. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T04:49:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -679,63 +756,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-26T21:27:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80\ud83c\uddee\ud83c\uddf7 Hard target, literally: Iran\u2019s underground missile cities blunt US spear\n\u00a0\n\ud83d\udcac \u201cPart of the strategic capabilities of the armed forces have in recent years been deployed in secure environments and underground infrastructure, a move that has frustrated the enemy\u2019s calculations regarding Iran\u2019s defense capabilities and weapons production capacity,\u201d MoD spokesman Reza Talaei-Nik said Saturday.\n[Today\u2019s wars are conflicts](https://t.me/geopolitics_prime/66497) of \u201ctechnology, specialists, and hybrid warfare,\u201d and of society, the economy, media and \u201ccognitive domains\u201d at large, Talaei-Nik said, with the geographic scope, technologies, speed and intensity of operations far outpacing those of the bloody 1980-1988 Iran-Iraq War.\nIran\u2019s fortified underground missile and drone staging areas and dispersed weapons manufacturing facilities have become a nut CENTCOM and Israeli commanders can\u2019t crack, with these facilities, combined with the rapidity and precision of Iran\u2019s retaliatory strikes within hours of the February war\u2019s start, leaving the US in a strategic quagmire with no face-saving way out.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T18:21:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf7\ud83c\uddfaLavrov calls for trust-building to resolve Hormuz crisis\nArmed confrontations in the Persian Gulf and Strait of Hormuz continue despite the damage caused to global shipping and trade, Russian Foreign Minister Sergey Lavrov said addressing UN General Assembly.\nHe said restoring trust between Iran and Arab Gulf states is a necessary condition for resolving the crisis, while also criticizing the use of force in international affairs.\nHe also accused the West of relying on \u201cbrute force\u201d and called the killing of Iran\u2019s Supreme Leader Ayatollah Ali Khamenei an unacceptable use of force.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T16:51:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf2\ud83c\udde6\ud83c\uddee\ud83c\uddf1 Protesters rally against Morocco-Israel diplomatic ties\nHundreds of people gathered in Marrakech to protest the recent upgrades to Morocco-Israel diplomatic relations and support Palestinian statehood.\nThe protests follow Morocco and Israel agreeing to upgrade diplomatic ties on September 16, including:\n\ud83d\udd36 opening full embassies\n\ud83d\udd36 appointing ambassadors\n\ud83d\udd36 expanding air travel\n\ud83d\udd36 reinstating direct flights operated by carriers from both nations\nIsrael-Morocco ties have flourished after the late-July Ceuta migrant crisis, which, according to [Chinese intelligence](https://t.me/geopolitics_prime/73188), was a textbook hybrid operation enabled by Israel.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T16:17:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
