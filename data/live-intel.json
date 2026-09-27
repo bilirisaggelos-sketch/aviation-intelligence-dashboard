@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:23:37.779777+00:00",
+  "generated_at": "2026-09-27T17:12:26.647217+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/25/2026",
       "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, September 25, 2026 through Sunday, September 27, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/24/2026",
-      "location": "ZAB AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -232,6 +213,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "NOTE: Would Scott Bessent kindly like to explain how not making a Gmail account will prevent the IRGC from producing ballistic missiles?\nThese \u2018sanctions\u2019 are clearly just aimed at making ordinary Iranians\u2019 lives as miserable as possible.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T12:29:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: At least some of the missiles fired tonight into the Strait of Hormuz carried naval mines\nIran is once again laying mines in the Strait of Hormuz, this time apparently in the illegal Omani route.\nIt is unclear how many of such mines were launched by Iran, and if their deployment was successful.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -241,66 +241,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "More than 10+ anti-ship cruise missiles have been launched so far tonight.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T22:51:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 BREAKING: In the past few hours, the IRGC Navy has begun substantially escalating its targeting of violating vessels in the Strait of Hormuz\nAnti-ship cruise missiles and drones were launched at various vessels. Simultaneously, fast-attack boats of the IRGC Navy are engaging hostile tankers with guided rockets, Dushka machine guns, and small arms.\nAccording to reliable reports, at least 3 vessels have been struck so far, and a fourth one has decided to turn around. Some reports even mention that up to 6 vessels were struck (unconfirmed).",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T22:13:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Iraqis in the city of Basra are protesting against the government\u2019s decision to suspend flights to and from Iran",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T14:17:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
@@ -311,69 +251,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran\u2019s IRGC Navy says it captured a second U.S. underwater drone in the Strait of Hormuz.\nThe IRGC said the REMUS 600 was conducting surveillance when it was seized in a coordinated electronic-warfare operation. It said specialists are now extracting data from the drone.",
+      "text": "US Envoy to the UN Mike Waltz on Iran:\nWhy are they attacking international shipping? 146 countries have joined us, a UN record, in condemning Iran\u2019s attack on civilian shipping.\nYou can\u2019t start shooting at civilian shipping any more than you can shoot down civilian airliners because you are a party to a conflict.\nIran is just being condemned by the entire world, and they are in violation of international law across the board.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T10:37:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "EXCLUSIVE: Sudan Army's AKINCI drone shot down another Chinese-made CH-95 drone operated by UAE-backed RSF terror group over Abo Jaleeb, south of Sawdiri.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T10:09:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nThis past week, the Russians launched more than 2,200 attack drones against Ukraine, as well as around 1,650 aerial bombs and 38 missiles of various types, a significant number of them ballistic missiles.\nUnfortunately, what is lacking is a consistently strong position from China, India, Brazil, South Africa, and the Global South.\nIn fact, each of these countries has influence over Russia and can help make peace a reality.\nBuilding guaranteed and dignified security here in Ukraine means bolstering security and stability globally.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T08:23:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Riyadh schools have switched to remote learning for a week on orders from Saudi authorities, with no official reason given.\nThe decision came a day after Saudi air defenses intercepted two Houthi drones targeting Riyadh, amid escalating Houthi attacks on the Kingdom.\nTwo separate school messages seen by AFP said: \u201cWe have just been informed by Saudi authorities that schools must remain closed all week.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T08:15:05+00:00",
+      "timestamp": "2026-09-27T15:34:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -406,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c \ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\u2014 IRGC Navy cruise missile struck a violating ship in the Strait of Hormuz.\nAccording to reports, the extent of the damage is very widespread.\n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran\u2019s FM Seyed Abbas Araghchi:\nWe are fully prepared for the time, for the war to be resumed. \nI repeat, we stand firm in the face of any new aggression, even if it comes to a doomsday war.\nBut at the same time, we are ready; we stand ready for diplomacy. It is up to President Trump to choose. \nHe wanted unconditional surrender in the previous war in two days, and now it's eight months that they are fighting with no result. A new aggression would certainly be the same. We are fully prepared for that. \nWe have learned our lesson from the two previous wars, and we have corrected our tactics. We have changed our tactics, and we are fully prepared to do that.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T20:35:38+00:00",
+      "timestamp": "2026-09-27T15:34:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -425,32 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c \ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\u2014 Reports of anti-ship cruise missiles launch towards Strait of Hormuz by Iran.\n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 \u2014 Hezbollah Secretary-General Sheikh Naim Qassem:\nThe authorities in Lebanon are helping advance the Israeli-American project instead of confronting it.\nWe call on the Lebanese authorities to put an end to concessions and freeze direct negotiations with Israel.\nThe resistance fighters held out at Ali al-Taher for three months, but preserving the location is not the main issue.\nWe are ready for dialogue, but how can we engage in dialogue with those who have declared the resistance to be outside the law?\nThe president has the right to negotiate, but he does not have the right to violate the Constitution or relinquish Lebanon\u2019s right to pursue legal action against the enemy.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T20:29:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f\ud83c\uddea\ud83c\uddec \u2014 Alert and AD failures in Riyadh following missile attack.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T00:05:27+00:00",
+      "timestamp": "2026-09-27T14:52:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -464,12 +327,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf6\u274c\ud83c\uddf8\ud83c\uddf4\ud83c\udff4\u200d\u2620\ufe0f \u2014 Following the hijacking by Somali pirates of an oil tanker belonging to an unknown Iraqi businessman in the Gulf of Aden, Iraqi tribal fighters of the Basra-based Al-Shaghanba tribe conducted a recovery operation. \nThe 40 tribal members, with help from unnamed external actors, managed to recover the tanker and captured 7 Somali pirates and locked them in a cage.",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah:\nWith the help of Allah Almighty, the Yemeni Armed Forces were able to shoot down a \"CH-4\" armed reconnaissance drone belonging to the Saudi enemy while it was carrying out hostile actions in the airspace of Al-Tinah area in Hajjah governorate, and it was shot down with an appropriate weapon.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-26T00:03:02+00:00",
+      "timestamp": "2026-09-27T13:57:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -477,6 +340,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iraqi official to Al Jazeera:\nThe suspension of flights with Iran depends on ground-handling service companies complying with U.S. Treasury Department instructions.\nThe lack of an officially announced government position on Iranian flights is due to the sensitivity of the issue.\nCompanies\u2019 refusal to provide services before departure and after landing led to the suspension of Iranian flights.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T13:29:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "When Israel first invaded south Lebanon in 1978, the \"lahd army\" allied itself with the Israelis, and from the late 1970s until 2000 it was very much Israel\u2019s militia in south Lebanon.\nThe notorious Khiam prison in the south, where the Israelis used to hold and torture Lebanese and Palestinian detainees, was run by the lahd army too.\nWhat Lahd\u00a0did is about the worst thing you can do to your country: not just side with your enemy, but carry out their atrocities.\nWhen the then\u00a0 Lebanese government declared the lahd army\u00a0 as an illegal organization,during the same period, Hezbollah launched attacks on israeli occupied land, and since the number of Israeli forces in southern Lebanon did not exceed a few hundred at that time, the lahd army did most of the fighting on behalf of Israel.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T15:45:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Sheikh Naim Qassem: The resistance confronted Israel that is\u00a0 supported by America, with all its extraordinary capabilities, which are limitless,and we will continue. \"For humiliation is far from us.\n With these great sacrifices made so far, we have no choice but to continue, and we cannot be defeated. The resistance fighters halted the advance of the brigades and tens of thousands of enemy soldiers, despite all the bombardment and destruction with various types of weapons.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T14:42:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -635,6 +555,63 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83d\udd0d Palantir cofounder says criticism of AI kill chain software over Iranian school attack is unfair\n\u00a0\n\ud83d\udd0a\u201cObviously it was terrible what happened to those children and you do hold people responsible, but it could be the case that somebody made 99 really good choices and one bad choice and it led to a horrible thing,\u201d venture capitalist Joe Lonsdale told a media forum in Austin.\nThe billionaire also noted that it was \u201cnot clear\u201d to him whether the IRGC might not have \u201cpurposely disguised\u201d the school as one of its facilities, \u201c[the same way the Palestinians and others do](https://t.me/geopolitics_prime/68487).\u201d\nLonsdale\u2019s assessment aside, the United Nations has concluded that the school in Minab was clearly identifiable, and that the strike may have constituted a war crime.\nOthers have argued that it was clearly a war crime, given that the attack involved a \u201cdouble-tap\u201d strike \u2013 once to hit the school, and again 40 minutes later to target rescuers. [Iranian content creators](https://t.me/geopolitics_prime/67336) even suspect it was deliberate, [symbolic child bloodletting](https://t.me/geopolitics_prime/72334) ahead of the battle to come.\nAs for Lonsdale, he is the least talked about of Palantir\u2019s key cofounders, but his investment empire is just as [impressively diabolical](https://t.me/geopolitics_prime/74145).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T17:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran running out of room for all its US and Israeli war trophies\n\u00a0\nThe IRGC\u2019s National Aerospace Park missile museum is going to need a brand-new wing to accommodate all the enemy weaponry Iran has been capturing. Besides the freshly procured REMUS 600 drone spy sub, Iran has collected:\n\ud83d\udd34 [an Anduril Dive-LD drone sub](https://t.me/geopolitics_prime/74351)\n\ud83d\udd34 a largely intact MQ-9 Reaper\n\ud83d\udd34[ Israeli Hermes 450 and 900 series UAVs](https://t.me/geopolitics_prime/73415)\n\ud83d\udd34 remains of a US F-15E Strike Eagle, two Black Hawk helicopters and a C-130 transport aircraft\n\ud83d\udd34 a GAU-5A rifle used exclusively by the US Air Force\n\ud83d\udd34 an unexploded GBU-39 Small Diameter Bomb, GBU-57 Massive Ordnance Penetrator bunker buster and stealth JASSM missile\n\ud83d\udd34 an unexploded Tomahawk warhead\n\u00a0\nThat\u2019s adding to the array of systems Iran captured before the current war, including:\n\u00a0\n\u2666\ufe0f an RQ-170 Sentinel, hijacked by Iran will conducting illegal reconnaissance in 2011\n\u2666\ufe0f a $220M RQ-4A Global Hawk, downed over Hormuz in 2019 and put on display\n\u2666\ufe0f A Boeing ScanEagle\n\u2666\ufe0f AeroVironment RQ-11 Raven and AAI RQ-7 Shadow drones\n\u00a0\nWith the latest haul, weapons experts can expect a reverse-engineered Iranian REMUS 600, but 10-30 times cheaper, in the near future. Or even a totally new indigenous design borrowing a handful of the US tech\u2019s components.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T14:58:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3IRGC adds US REMUS 600 spy drone sub to its collection\n\u00a0\nThe autonomous underwater vehicle was found operating in Hormuz Strait. The IRGC says its capture was made possible thanks to a coordinated intel and EW operation.\nThe sub is the second waterborne drone vehicle Iran has captured in less than a month. On September 8, the IRGC Navy seized an Anduril Dive-LD recon, seabed mapping and [inspection submersible.](https://t.me/geopolitics_prime/74258)\nIran\u2019s Houthi allies captured a REMUS 600 in 2018, and used it to help build a technically less sophisticated but strategically superior [autonomous torpedo.](https://t.me/geopolitics_prime/74821)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T14:15:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7Iran says its military has evolved beyond conventional warfare\nIran\u2019s Armed Forces have significantly expanded their capabilities since the 1980s Iran-Iraq War, with advances in missiles, drones, and asymmetric warfare, Brigadier General Abolfazl Shekarchi said, as cited by Tasnim News Agency.\n\ud83d\udd0a\u201cAsymmetric warfare means standing up to the enemy\u2019s expensive heavy weapons and achieving victory with lower costs and simpler, but more effective and practical, defense equipment,\u201d Shekarchi said.\nShekarchi cited Iran\u2019s missile program, which began during the war with Iraq, as an example of how external pressure accelerated the development of domestic defense technologies.\nThe Iranian general said the country\u2019s missiles and drones have become more advanced and warned that any new aggression would be met with a response using \u201cnew military technologies.\u201d He also said Iran maintains control over the security of the Strait of Hormuz, a key route for global energy shipments.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -650,102 +627,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Kievstar server facilitiy hit by Russian strikes on Ukrainian infrastructure\nA Kievstar data center in Kiev was hit, reportedly affecting part of the operator\u2019s internal network and servers responsible for the operation of some services.\nThe reported strike comes amid Russia\u2019s ongoing campaign against Ukrainian military and dual-use infrastructure, with telecommunications facilities increasingly included among the targets.\nAccording to Russia\u2019s Defense Ministry, Russian forces continue using ground- and air-launched precision weapons to strike Ukrainian military-related infrastructure, including UAV production facilities, telecommunications and logistics centers, as well as vessels used by the Armed Forces of Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T10:50:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\ud83c\uddee\ud83c\uddf7 Iran has changed very nature of modern warfare, Pentagon\u2019s former top future tech guy concedes\nThe US-Israeli 13k target assault on Iran in the first month of the war failed to break Tehran\u2019s resistance, and left it \u201cstronger than before\u201d thanks to its ability to mount counterattacks and close Hormuz, says former US assistant secretary of defense for force development and emerging capabilities Michael C. Horowitz.\n\ud83d\udc49 The tools Iran used to do so \u2013 \u201ca large arsenal of cheap yet accurate drones and missiles,\u201d constitute a global paradigm shift, Horowitz wrote in a new Foreign Affairs piece.\nThe emergence of these weapons has made it impossible \u201cfor the US military, or any military, to win a full-blown war simply by using small numbers of exquisite weapons to dazzle opponents,\u201d and enabled smaller countries to fight back using cheap, precision weapons to overwhelm pricy air and missile defenses.\n\ud83d\udcac \u201cThe future of war lies in part in precise mass,\u201d and \u201cthe world is learning from Iran\u201d on this matter.\nBut it wasn\u2019t by missiles and drones alone, Horowitz emphasized.\nIran has also spent years making \u201crigorous preparations\u201d for defense by building a \u201cvast underground network of missile infrastructure\u201d which has proven impossible for the US and Israel to destroy, and \u201cheavily dispersed missile production facilities\u201d to go along with it.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T09:33:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\ud83d\udc64Ukrainian defense minister-turned Palantir partner unveils project ripped straight out of Black Mirror\n\u00a0\nTwo months after being fired by Zelensky, and less than a month after winning investment [backing from Alex Karp](https://t.me/geopolitics_prime/72215), Mykhailo Fedorov has revealed the \u2018product\u2019 he plans to create: [an army of robotic killing machines.](https://t.me/geopolitics_prime/74017)\n\ud83d\udcac \u201cThe goal is simple \u2013 save lives,\u201d Fedorov dishonestly wrote in an announcement tweet. \u201cRobots should take on the most dangerous missions: evacuating the wounded, delivering ammunition, mining and demining, reconnaissance, defending positions and engaging targets.\u201d\n\u00a0\nBut the AI-generated video accompanying his post focused exclusively on the latter, touting \u201c24/7 battlefield control\u201d (i.e. feeding the kill chain), and showing off an array of killer robots, from crab-like suicide drones and automated turrets to humanoid robots armed with machineguns, tracked armored vehicles and even literal Black Mirror Metalhead-style dogs strapped with explosives.\n\u00a0\n\u201cUkraine needs its own [Manhattan Project for Physical AI](https://t.me/geopolitics_prime/74844),\u201d the new project\u2019s website claims.\n\u00a0\nThe omnipresence of drones in the Ukraine war is already bad enough, with the NATO-sponsored meatgrinder killing hundreds of thousands of servicemen and thousands of civilians, depopulating Ukraine and turning it into a failed state. Now Fedorov is positioning himself as the creator of the robot bodies a future AGI could use to fight humanity.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T07:25:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russia hits Vodafone data center in Kiev\nRussia\u2019s overnight drone campaign also struck logistics hubs, port and transport infrastructure, communications centers and vessels working for the Ukrainian army.\nTargets hit:\nKiev \u2014 a Vodafone data center, one of the biggest providers of mobile and high-speed internet to the Ukrainian armed forces, including for passing intelligence\nKiev region \u2014 the Zalmer Group logistics hub in Krasilovka, used to store and distribute Western military aid for the Ukrainian army\nNikolayev \u2014 two warehouses full of drones and their warheads\nOdessa region \u2014 the Dron Kalinsh logistics center in Ilyichovka, storing FPV interceptors\nPort of Kiliya:\n\ud83d\udd34 headquarters of the Ukrainian Navy's Vostok naval base\n\ud83d\udd34 a basing point of Ukraine's State Border Service\n\ud83d\udd34 four storage sites with military equipment for the Ukrainian army\n\ud83d\udd34 berthing infrastructure\nPlus: a dry cargo vessel hit at sea \u2014 it was carrying military equipment and dual-use cargo to Odessa for the Ukrainian army.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T05:48:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Iran lays mines in the Strait of Hormuz targeting the Omani route \u2014 reports\nUnconfirmed reports indicate at least some of the missiles fired into the Strait of Hormuz tonight carried naval mines \u2014 apparently dropped into the corridor through Omani waters that ships have been using to avoid Iranian clearance.\n\ud83d\udd36 It is unclear how many mines were launched, or whether the deployment succeeded\n\ud83d\udd36 The target appears to be the very route vessels have been using to evade the PGSA's transit requirements\n\ud83d\udd36 Iran previously declared a restricted zone extending from the US Navy's blockade line through the strait and into the Persian Gulf\nIf confirmed, demining the Omani corridor would take time, ships, and sustained commitment from a US Navy that is already stretched to breaking. And every minesweeper sent into that corridor becomes a stationary target for Iranian forces.\nMeanwhile, commercial vessels would have no choice but to obey the PGSA's designated safe route \u2014 because the alternative now has mines in it. That means Iranian clearance, Iranian paperwork, Iranian terms.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T04:39:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
