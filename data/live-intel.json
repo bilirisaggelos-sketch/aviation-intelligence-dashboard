@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T01:42:11.125909+00:00",
+  "generated_at": "2026-09-28T07:43:37.673167+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -116,21 +116,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDana Point, CA, Friday, September 25, 2026 through Sunday, September 27, 2026 Local\nFacility: ZLA",
-      "source": "FAA",
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3747\r\nIssue Time: 2026 Sep 28 0500 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3746\nBegin Time: 2026 Sep 26 1535 UTC\nYesterday Maximum 2MeV Flux: 3060 pfu\nMax time: 2026 Sep 27 1720 UTC",
+      "source": "NOAA Space Weather",
       "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/22/2026",
-      "location": "ZLA CA",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-28 05:00:40.090",
+      "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
       "verification_confidence": 100,
       "verified_sources": [
-        "Federal Aviation Administration"
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -211,23 +211,45 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2687\r\nIssue Time: 2026 Sep 25 2158 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 25 2158 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\udde6\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 NEW: Earlier today, Israeli Prime Minister Benjamin Netanyahu landed in the UAE to meet with Mohammed bin Zayed\nAccording to Israel\u2019s Channel 13, the meeting lasted more than 6 hours and was primarily focused on Iran.",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-25 21:58:25.860",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T03:47:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: Eight U.S. Marines were injured in a recent Iranian cruise missile attack against a vessel in the Strait of Hormuz \u2013 NBC\nAccording to three U.S. officials, the marines were operating aboard a \u2018U.S.-contracted\u2019 vessel, rather than an actual American warship.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T01:53:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -279,14 +301,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -303,7 +323,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -349,6 +369,64 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russia released overhead footage of a Geran-5 drone striking a Kyiv business center on September 25, filmed in real-time by a second drone orbiting ~3 km away as a relay/camera platform. \nThe strike hit the Incom building (housing Datagroup infrastructure), killing four. \nThe filming drone \u2014 either a jet-powered Shahed or smaller Gerbera UAV \u2014 then left Kyiv and struck a McDonald's logistics warehouse in Brovary. \nThis was a coordinated two-drone operation: one strikes, the other provides live battle damage assessment.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T07:36:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Sudan's Army rejects Ethiopia's accusations of backing opposition groups as \"baseless\", counter-accuses Ethiopia of supporting RSF from its territory with \"training, supplies, strategic drones and suicide drones.\"\nSudan said it \"will not allow any infringement of its sovereignty\" and called on Ethiopia to \"exercise accuracy and responsibility and resort to dialogue.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T06:43:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: Eight US Marines were injured when an Iranian cruise missile hit their vessel in the Strait of Hormuz on September 14, an incident the Pentagon never publicly disclosed.\nThe ship was described as a \"maritime vessel,\" not a Navy warship (likely a US-contracted vessel). \nMarines suffered smoke inhalation and concussion symptoms; all returned to duty. \nInjuries were quietly entered into Pentagon casualty records ~10 days later. \nOver 800 US servicemembers have been recorded as injured in the conflict this year.\nSource: NBC",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T06:36:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Police arrest actors, politicians protesting against Netanyahu outside UN](https://www.reuters.com/world/middle-east/police-arrest-actors-politicians-protesting-against-netanyahu-outside-un-2026-09-24/)\nPolice arrested at least 30 people including actors and politicians as they protested outside United Nations \u200bheadquarters on Thursday against Israeli Prime Minister Benjamin Netanyahu ahead \u200cof his speech at the General Assembly. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/police-arrest-actors-politicians-protesting-against-netanyahu-outside-un-2026-09-24/)\nMaria Tsvetkova | reuters\u200b.com \u2022 Sep 24, 2026",
       "source": "Telegram",
@@ -369,6 +447,27 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf1 Israeli Prime Minister Benjamin Netanyahu made an unannounced, single-day visit to the United Arab Emirates on Sunday, 27 Sept 2026, to meet with Emirati President Mohamed bin Zayed Al Nahyan.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T02:46:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 Footage shows a ballistic missile impact, possibly from a Fath-360 tactical ballistic missile, in the town of Koy Sanjaq, Erbil Governorate, Iraqi Kurdistan.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -378,14 +477,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -399,13 +497,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -485,25 +582,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf3\ud83c\uddf1 \u2014 Israeli Foreign Minister Gideon Sa\u2019ar:\nFollowing the entry into force last week of an order banning the import and sale of products from Judea and Samaria, East Jerusalem and the Golan Heights, we informed the Dutch Embassy in Israel this evening that Dutch diplomats operating in Ramallah must return their Israeli-issued diplomatic documentation within seven days. After this period, the diplomatic privileges and immunities granted to them by the State of Israel will expire.\nIf the Netherlands wishes to continue representing its interests with the Palestinians, it may do so from Palestinian Authority territory, rather than from the territory of the State of Israel.\nLast month, we removed the Dutch delegation from the International Support Center for Gaza in Kiryat Gat, following actions taken by the Dutch Government against Israel.\nI reiterate: Israel will not ignore measures intended to harm it.\nAny country that acts in a hostile and unilateral manner against Israel will lose influence and relevance in the region.\nI also reiterate the urgent need to address the growing antisemitism and incitement openly seen on the streets of the Netherlands. Not only are this antisemitism and incitement not being seriously addressed, but the anti-Israel policies of the Dutch Government are fueling them.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T18:13:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "Why tf would you waste a ballistic missile like that, they don't even have ADs there anymore \ud83d\udc80\ud83d\udc80",
       "source": "Telegram",
@@ -533,14 +611,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -583,12 +660,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea Unidentified drones are flying over the Raidah district in Houthi-controlled Amran Governorate, northern Yemen.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Russia launched 165 drones at Ukraine overnight, including 79 jet-powered Shaheds, Ukraine\u2019s Air Force says. Air defenses downed or suppressed 112 Shahed, Gerbera and other UAVs. Impacts were recorded at 14 locations, with debris from intercepted drones falling at seven more.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T20:38:23+00:00",
+      "timestamp": "2026-09-28T06:28:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -602,12 +679,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian drone/missile flying over Russia and lands on its target, a failed interception can be seen happening.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones reportedly targeted an oil depot in the Novotitarovskaya area, in Russia\u2019s Krasnodar Krai region. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T19:49:12+00:00",
+      "timestamp": "2026-09-28T04:53:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -621,12 +698,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine has successfully tested new interceptor drones against Russian jet-powered Shaheds, Koretskyi said in an interview with TSN. According to him, the new interceptors have demonstrated successful results. The main task now is to scale up their production for wider deployment.",
+      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddf9\ud83c\uddea\ud83c\uddf9 Images of the damaged Tigrai TV building in Mekelle, Tigray following an ENDF drone strike.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T19:03:41+00:00",
+      "timestamp": "2026-09-28T04:53:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -640,12 +717,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddf9 A building housing Tigray\u2019s state-run television network was struck by a drone in Mekelle, northern Ethiopia.\nThe strike hit the Tigrai TV building at around 9:00 a.m. on Sunday, amid renewed fighting between Tigrayan forces and Ethiopia\u2019s federal government. No word on casualties at this time. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6Footage of the moment a ballistic missile, previously reported as a drone, struck Koya, Iraqi Kurdistan. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T19:00:38+00:00",
+      "timestamp": "2026-09-28T04:53:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -659,12 +736,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Axios: A US official said that \u201czero ships were struck over the last two days,\u201d responding to Iranian reports claiming an increase in missile launches toward vessels in the Strait of Hormuz.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "#Iran / #Iraq \ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6: Iranian Forces (#IRGC) struck bases of Kurdish militant groups positions in the vicinity of #Erbil, Iraqi #Kurdistan.\nIRGC very likely used BM-250/300 (Fateh-110 2nd/3rd Gen) Short-Range Ballistic Missiles and/or \u201cShahed-136\u201d Kamikaze Drones.\nhttps://x.com/war_noir/status/2104355309829386751",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T18:54:31+00:00",
+      "timestamp": "2026-09-28T04:52:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -678,12 +755,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 An IDF drone struck a vehicle near the Al-Sinaa Junction in western Gaza City, a short while ago.\nThe driver was killed.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "NOW: Explosions reportedly heard near Erbil, Iraq.\nInitial reports indicate that Iranian drones/missiles targeted a Kurdish Political Party\u2019s headquarters.\nContributed by:",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T18:54:27+00:00",
+      "timestamp": "2026-09-28T04:52:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -697,12 +774,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa The Ukrainian Ministry of Defence announced that Russian forces launched more than 2,200 attack drones, around 1,650 aerial bombs and 38 missiles of various types against Ukraine over the past week, with a significant number of the missiles being ballistic.\nThe ministry said Russian strikes overnight killed three people in the Zaporizhzhia region and one man in Kyiv. Residential buildings, energy infrastructure and other civilian infrastructure in Odesa, Kharkiv, Sumy, Mykolaiv, Kherson, Poltava, Zhytomyr and Kyiv regions were also targeted.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Iranian forces reportedly targeted alleged Kurdish militant sites near Erbil in Iraqi Kurdistan using drones and missiles.\nVideos online showed impacts in Koya, we were not able to independently confirm what was hit in those videos.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T18:53:51+00:00",
+      "timestamp": "2026-09-28T04:51:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -710,6 +787,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Air traffic seems to have resumed after half an hour of suspension, departures and arrivals are continuing now. https://x.com/FaytuksNetwork/status/2104334358211416368/photo/1\nFaytuks Network (\nSeveral flights bound to Riyadh International Airport are taking a holding pattern, it is currently unknown why, to be updated as soon as more information comes in.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T04:51:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Pentagon hid 8 US Marines injured in Iranian missile strike\nEight US Marines were injured 2 weeks ago when an Iranian cruise missile struck the vessel they were operating on in the Strait of Hormuz, the NBC News reported, citing 3 US officials.\nThe Defense Department did not disclose any September 14 attacks against US forces in the region.\n\ud83d\udd34 Iranian anti-ship cruise missile struck the maritime vessel the Marines were operating from\n\ud83d\udd34 The Marines \u2014 7 enlisted, 1 officer \u2014 sustained smoke inhalation and possible traumatic brain injuries, with concussion symptoms including headaches\n\ud83d\udd34 They were part of a battalion landing team\n\ud83d\udd34 Officials declined to define what type of ship it was, calling it only a \"maritime vessel\"\nAs the US withdraws its assets and its stockpiles drain further, reports of American casualties keep surfacing \u2014 and they keep being undercounted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T03:45:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25\ud83d\udd0d Five arrested after explosives found near RAF Fairford \u2014 bomb plot foiled 'by chance,' not intelligence\nCounter-terrorism police have arrested 5 men after explosives were found on 3 vans parked minutes from RAF Fairford, the US airbase used for bomber missions against Iran.\nAccording to the Guardian, a member of the public spotted unusual late-night behavior and called 999. Police only moved on the vans after that call. The operation was not intelligence-led \u2014 investigators had no prior knowledge of the plot.\n\ud83d\udccc Fairford has a 3km runway reinforced for B-1 and B-52 heavy bombers \u2014 the same aircraft used in strikes on Iran.\nIn July, Iran's IRGC noted RAF Fairford's use by US bombers, warning the UK that \"any base used for aggression against Iranian territory constitutes a legitimate target for our forces.\"\nCounter-terror police are investigating whether Iran was behind the plot, though nothing is being ruled out. Meanwhile, the UK threat level remains at severe \u2014 meaning an attack is highly likely.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T02:29:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -744,12 +878,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -763,17 +899,18 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcd1 Netanyahu orders ICC case prepared against Erdogan\nPrime Minister Benjamin Netanyahu has ordered an interministerial team and legal officials to prepare a case against Turkish President Recep Tayyip Erdogan at the International Criminal Court, according to i24NEWS.\nThe case would target T\u00fcrkiye's treatment of its Kurdish population, and allegations that Erdogan's government has financed Hamas.\nNeither Israel nor T\u00fcrkiye is a party to the Rome Statute \u2014 neither recognizes the ICC's jurisdiction. Sources say Israel hopes to use the proceedings as leverage against Erdogan rather than necessarily filing.\nThe ICC has issued arrest warrants for Israeli officials over the war in Gaza. The man ordering this case would be arrested on sight in most of Europe. And he's now trying to file paperwork at the court that wants him in a cell.\nThe ICC has been repeatedly accused of devolving into a[ corruption-steeped political weapon](https://t.me/geopolitics_prime/49077), doling out \"justice\" on a pay-to-play basis, selectively targeting nations who champion multipolarity\u2014those forging independent paths with Russia, China, or others outside Western orbits.\nSo it may just oblige \u2014 serving the very men it issued warrants for.\n \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udcd1 Netanyahu orders ICC case prepared against Erdogan\nPrime Minister Benjamin Netanyahu has ordered an interministerial team and legal officials to prepare a case against Turkish President Recep Tayyip Erdogan at the International Criminal Court, according to i24NEWS.\nThe case would target Turkey's treatment of its Kurdish population, and allegations that Erdogan's government has financed Hamas.\nNeither Israel nor Turkey is a party to the Rome Statute \u2014 neither recognizes the ICC's jurisdiction. Sources say Israel hopes to use the proceedings as leverage against Erdogan rather than necessarily filing.\nThe ICC has issued arrest warrants for Israeli officials over the war in Gaza. The man ordering this case would be arrested on sight in most of Europe. And he's now trying to file paperwork at the court that wants him in a cell.\nThe ICC has been repeatedly accused of devolving into a[ corruption-steeped political weapon](https://t.me/geopolitics_prime/49077), doling out \"justice\" on a pay-to-play basis, selectively targeting nations who champion multipolarity\u2014those forging independent paths with Russia, China, or others outside Western orbits.\nSo it may just oblige \u2014 serving the very men it issued warrants for.\n \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -808,44 +945,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd2f Smotrich wants to see Gaza-style carnage in the West Bank\n\u00a0\n\"I think we need to go to war in Judea and Samaria, do there what we did in Gaza,\u201d Israeli finance minister Bezalel Smotrich told Hebrew-language media on Sunday.\n\ud83d\udd0aThe Palestinian Authority is a \u201cterrorist authority\u201d and should be \u201cdismantled,\u201d Smotrich added.\nThe politician accused Israel\u2019s own Palestinian community of being devious traitors, \u201chiding\u201d their true intentions and working \u201cto accumulate power through legitimate civilian activities\u201d to destroy Israel.\n\ud83d\udde3\u201cI would like us to annex at least as far as the yellow line in Gaza and as far as the Litani River in Lebanon, because a war that ends along the same lines where it began will not prevent the enemy from going to war again next time,\u201d he added.\nIn 2026, the [West Bank](https://t.me/geopolitics_prime/74907) has experienced [violence](https://t.me/geopolitics_prime/73040) of a scale and intensity never previously recorded by international monitors, seeing attacks, the occupation of land, burnings of crops, homes and mosques, theft of livestock, and cutoff of water sources.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T17:45:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\udd0d Palantir cofounder says criticism of AI kill chain software over Iranian school attack is unfair\n\u00a0\n\ud83d\udd0a\u201cObviously it was terrible what happened to those children and you do hold people responsible, but it could be the case that somebody made 99 really good choices and one bad choice and it led to a horrible thing,\u201d venture capitalist Joe Lonsdale told a media forum in Austin.\nThe billionaire also noted that it was \u201cnot clear\u201d to him whether the IRGC might not have \u201cpurposely disguised\u201d the school as one of its facilities, \u201c[the same way the Palestinians and others do](https://t.me/geopolitics_prime/68487).\u201d\nLonsdale\u2019s assessment aside, the United Nations has concluded that the school in Minab was clearly identifiable, and that the strike may have constituted a war crime.\nOthers have argued that it was clearly a war crime, given that the attack involved a \u201cdouble-tap\u201d strike \u2013 once to hit the school, and again 40 minutes later to target rescuers. [Iranian content creators](https://t.me/geopolitics_prime/67336) even suspect it was deliberate, [symbolic child bloodletting](https://t.me/geopolitics_prime/72334) ahead of the battle to come.\nAs for Lonsdale, he is the least talked about of Palantir\u2019s key cofounders, but his investment empire is just as [impressively diabolical](https://t.me/geopolitics_prime/74145).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T17:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
