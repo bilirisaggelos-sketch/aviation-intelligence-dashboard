@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-27T23:07:08.660986+00:00",
+  "generated_at": "2026-09-28T01:42:11.125909+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDallas, TX, Thursday, October 1, 2026 through Thursday, October 1, 2026 Local\nFacility: ZFW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/27/2026",
+      "location": "ZFW TX",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLas Vegas, NV, Wednesday, September 30, 2026 Local\nFacility: ZLA",
@@ -213,6 +232,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 NEW: Explosions are being reported by locals in Irbid, northwestern Jordan\nThe cause is currently unclear; it could be interceptor activity, Iranian ballistic missiles incoming, or sonic booms from U.S. / Israeli fighter jets.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T01:15:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf6\u26a1\ufe0f \u2014 U.S. Air Force fighter jets continue to patrol Iraqi Kurdistan's airspace. It is possible a renewed Iranian UAV launch was detected.\nUSAF fighters are the only reliable way to intercept Iranian UAVs due to the U.S. withdrawing all other air defenses.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -241,12 +279,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -263,7 +303,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -283,7 +323,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -325,6 +365,47 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 Footage shows a ballistic missile impact, possibly from a Fath-360 tactical ballistic missile, in the town of Koy Sanjaq, Erbil Governorate, Iraqi Kurdistan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T23:26:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "Positions belonging to Kurdish separatist groups in Iraqi Kurdistan are under attack by Iranian drones.\nLocals also reported heavy coalition aviation activity over Erbil and Sulaymaniyah.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T23:17:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -424,6 +505,46 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "Why tf would you waste a ballistic missile like that, they don't even have ADs there anymore \ud83d\udc80\ud83d\udc80",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T23:27:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 Footage shows a ballistic missile impact, possibly from a Fath-360 tactical ballistic missile, in the town of Koy Sanjaq, Erbil Governorate, Iraqi Kurdistan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-27T23:23:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "When Israel first invaded south Lebanon in 1978, the \"lahd army\" allied itself with the Israelis, and from the late 1970s until 2000 it was very much Israel\u2019s militia in south Lebanon.\nThe notorious Khiam prison in the south, where the Israelis used to hold and torture Lebanese and Palestinian detainees, was run by the lahd army too.\nWhat Lahd\u00a0did is about the worst thing you can do to your country: not just side with your enemy, but carry out their atrocities.\nWhen the then\u00a0 Lebanese government declared the lahd army\u00a0 as an illegal organization,during the same period, Hezbollah launched attacks on israeli occupied land, and since the number of Israeli forces in southern Lebanon did not exceed a few hundred at that time, the lahd army did most of the fighting on behalf of Israel.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -471,13 +592,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Middle East Spectator"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -596,6 +716,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Ben-Gvir visits prison to threaten Palestinians with execution\nNational Security Minister Itamar Ben-Gvir has been recorded personally threatening a Palestinian prisoner, telling him directly that he intends to kill him.\nThe prisoner is Hassan Salameh, a Hamas operative who has been imprisoned since 1996.\n\"As Minister of National Security, I led a policy that turned his life into hell. And with God's help, as Defense Minister, I will act to ensure that murderer terrorists like him are put to death, and I will advance the immigration policy from Gaza and from Judea and Samaria,\" Ben-Gvir wrote on X.\nBen-Gvir is campaigning for reelection on October 27, 2026 \u2014 less than a month away.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T01:41:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd1d Netanyahu made secret trip to Abu Dhabi to meet UAE president \u2014 reports\nIsraeli media reports that Prime Minister Benjamin Netanyahu secretly flew to Abu Dhabi and met with UAE President Sheikh Mohamed bin Zayed Al Nahyan, spending the day there.\nNetanyahu's office did not announce the visit. He reportedly used the same aircraft for a trip to Abu Dhabi during the Iran war.\nAn unnamed Emirati official source told The National that the country discusses security matters through the relevant agencies \u2014 \"not at the level of national leaders.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T00:10:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25 Iran strikes Kurdish group camps in Erbil with missiles and drones\nIranian missiles and drones have targeted camps of Kurdish groups in Erbil, in Iraq's Kurdistan Region, according to reports.\nThe strikes occurred on the same day that all US combat troops and logistical support forces left Iraq, European media outlets reported, citing an Iraqi government official.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -605,13 +763,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -644,12 +801,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
