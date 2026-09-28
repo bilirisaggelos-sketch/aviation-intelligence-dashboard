@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T07:43:37.673167+00:00",
+  "generated_at": "2026-09-28T16:04:29.804354+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -80,25 +80,6 @@
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMacon, GA, Wednesday, September 30, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/25/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMacon, GA, Monday, September 28, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -213,6 +194,26 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s Supreme Leader, Ayatollah Seyyed Mojtaba Khamenei, issued a message on the occasion of Holy Defense Week and the martyrdom anniversary of Sayyed Hassan Nasrallah\nIn the message, the following important points were mentioned:\n\u2013 The days when Western powers controlled Iran and imposed their will upon the Iranian nation are long gone; the Islamic Revolution has awakened the people\u2019s spirits, and I assure the people those dark days will never be repeated.\n\u2013 Controlling the Strait of Hormuz is a joint desire of the entire Iranian nation, despite the differences between some segments in society.\n\u2013 Throughout the past few wars, starting with the first imposed war [Saddam\u2019s invasion], Iran has risen from the ashes of war like a burning Phoenix, and has become so powerful that it now casts its shadow on the enemy\u2019s lands. \n\u2013 Since the time of the Prophets, no greater figure than Sayyed Hassan Nasrallah has appeared in the land of Al-Sham [the Levant], and with his stature, wisdom and courageous actions he turned Lebanon into a jewel of the Resistance and brought it to a position of greatness.\n\u2013 Some people these days consider Iran to be the 4th world superpower, but that is according to worldly calculations; when God is entered into the equation, Iran is a divine power, second to none.\n\u2013 In some important areas of bravery and presence in the fields, women have outpaced men.\n\u2013 Today, the Persian Gulf and Strait of Hormuz have been emptied of American military presence, and their navy does not dare to advance beyond the Arabian Sea; God Willing, they will sooner or later be expelled from the Arabian Sea as well.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T12:36:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\udde6\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 NEW: Earlier today, Israeli Prime Minister Benjamin Netanyahu landed in the UAE to meet with Mohammed bin Zayed\nAccording to Israel\u2019s Channel 13, the meeting lasted more than 6 hours and was primarily focused on Iran.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -222,14 +223,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -243,13 +242,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -301,12 +299,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -320,13 +319,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -340,80 +338,80 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Former German Economy Minister Robert Habeck:\nI think there is a lot of evidence that war crimes were committed in Gaza.\nEvery form of antisemitism has to be named and fought. But that must not lead to a prohibition on speaking \u2014 to the idea that Israel or its government cannot be criticized.\nThere must be spaces where people can ask their questions without immediately being portrayed as antisemites, while at the same time there clearly is antisemitism.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T16:00:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Former German Economy Minister Robert Habeck:\nThere is the conduct and the war crimes that Israel has committed in Gaza. And we have a really major societal task: that both things can and must be said in the same sentence.\nWe have an obligation toward Israel. Questioning the existence of the State of Israel violates every moral principle on which this country rests.\nNevertheless, legitimate criticism of the Israeli government must be possible.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T15:52:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A Russian Geran-5 jet-powered drone reportedly struck near Ukraine\u2019s Yahodyn border crossing with Poland. \nUkraine\u2019s Border Guard Service said the checkpoint itself was not hit.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T15:42:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Clash Report"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "NOTE: Would Scott Bessent kindly like to explain how not making a Gmail account will prevent the IRGC from producing ballistic missiles?\nThese \u2018sanctions\u2019 are clearly just aimed at making ordinary Iranians\u2019 lives as miserable as possible.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T12:29:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Russia released overhead footage of a Geran-5 drone striking a Kyiv business center on September 25, filmed in real-time by a second drone orbiting ~3 km away as a relay/camera platform. \nThe strike hit the Incom building (housing Datagroup infrastructure), killing four. \nThe filming drone \u2014 either a jet-powered Shahed or smaller Gerbera UAV \u2014 then left Kyiv and struck a McDonald's logistics warehouse in Brovary. \nThis was a coordinated two-drone operation: one strikes, the other provides live battle damage assessment.",
+      "text": "WATCH: People escape burning Kyiv science academy through windows after it is hit by a Russian jet-powered drone",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T07:36:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Sudan's Army rejects Ethiopia's accusations of backing opposition groups as \"baseless\", counter-accuses Ethiopia of supporting RSF from its territory with \"training, supplies, strategic drones and suicide drones.\"\nSudan said it \"will not allow any infringement of its sovereignty\" and called on Ethiopia to \"exercise accuracy and responsibility and resort to dialogue.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T06:43:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: Eight US Marines were injured when an Iranian cruise missile hit their vessel in the Strait of Hormuz on September 14, an incident the Pentagon never publicly disclosed.\nThe ship was described as a \"maritime vessel,\" not a Navy warship (likely a US-contracted vessel). \nMarines suffered smoke inhalation and concussion symptoms; all returned to duty. \nInjuries were quietly entered into Pentagon casualty records ~10 days later. \nOver 800 US servicemembers have been recorded as injured in the conflict this year.\nSource: NBC",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T06:36:27+00:00",
+      "timestamp": "2026-09-28T15:30:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -421,9 +419,66 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Clash Report",
-        "Middle East Spectator"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Egypt, UAE, and the Repeated Warnings Netanyahu Ignored Ahead of Oct. 7\nThe UAE warned Benjamin Netanyahu about a major operation prior to October 7. Egypt repeatedly issued warnings of an attack. Netanyahu did not even brief Israel's security chiefs.\n[READ MORE](https://clashreport.com/world/articles/egypt-uae-and-the-repeated-warnings-netanyahu-ignored-ahead-of-oct-7-rz1g37hi6n)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T15:11:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "South Korea's defense agency approached T\u00fcrkiye's TEI about buying PD170 drone engines after repeated failures of domestic military drones. \nAt a September 16 defense drone expo, a KAI jet-powered UAV crashed immediately after takeoff. \nIn August, two kamikaze drones launched from the navy's Marado ship both plunged into the sea within seconds. \nMeanwhile, the PD170 powers T\u00fcrkiye's combat-proven Bayraktar TB2/TB3 and Anka/Aksungur drones, with Aksungur logging 45 hours endurance and 42,000 ft altitude.\nSouth Korea's defense exports are booming (Chunmoo rockets, K2 tanks, Cheongung-II missiles) but the drone sector lags significantly behind.\nSource: Yonhap",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T12:54:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "New photos emerged of T\u00fcrkiye's HAVA SOJ stand-off jammer \u2014 a Bombardier Global 6000 converted by TUSA\u015e with ASELSAN electronic warfare systems. \nStill in factory primer, showing ventral jamming fairing, dorsal SATCOM dome, and Growler-style wingtip receiver pods. \nDesigned to jam enemy radars and comms from beyond 500 km. \nFour aircraft planned for the Turkish Air Force.\nIntended to work alongside KORAL ground jammers, AEW&C aircraft, and strike packages including future KAAN fighters. \nComparable to the US EA-37B Compass Call and Australia's MC-55A Peregrine.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T12:40:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -447,129 +502,90 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf1 Israeli Prime Minister Benjamin Netanyahu made an unannounced, single-day visit to the United Arab Emirates on Sunday, 27 Sept 2026, to meet with Emirati President Mohamed bin Zayed Al Nahyan.\n\ud83d\udd34",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddf5\ud83c\uddf1 A Russian Geran-5 jet-powered strike drone struck the Yahodyn border crossing on the Ukrainian-Polish border.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T02:46:20+00:00",
+      "timestamp": "2026-09-28T15:47:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "Iraqi tribal sheikhs gave the Iraqi government a 48-hour ultimatum to reverse its decision to suspend flights to and from Iran.\nApparently, it worked. The Iraqi Ambassador to Iran announced that Najaf Airport will reopen to Iranian flights within the next 24 hours.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T15:27:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\u2014 Protests were held in front of the gate of Najaf International Airport western Iraq, demanding that the airport be opened to Iranian flights.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T14:40:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s Supreme Leader, Ayatollah Seyyed Mojtaba Khamenei, issued a message on the occasion of Holy Defense Week and the martyrdom anniversary of Sayyed Hassan Nasrallah\nIn the message, the following important points were mentioned:\n\u2013 The days when Western powers controlled Iran and imposed their will upon the Iranian nation are long gone; the Islamic Revolution has awakened the people\u2019s spirits, and I assure the people those dark days will never be repeated.\n\u2013 Controlling the Strait of Hormuz is a joint desire of the entire Iranian nation, despite the differences between some segments in society.\n\u2013 Throughout the past few wars, starting with the first imposed war [Saddam\u2019s invasion], Iran has risen from the ashes of war like a burning Phoenix, and has become so powerful that it now casts its shadow on the enemy\u2019s lands. \n\u2013 Since the time of the Prophets, no greater figure than Sayyed Hassan Nasrallah has appeared in the land of Al-Sham [the Levant], and with his stature, wisdom and courageous actions he turned Lebanon into a jewel of the Resistance and brought it to a position of greatness.\n\u2013 Some people these days consider Iran to be the 4th world superpower, but that is according to worldly calculations; when God is entered into the equation, Iran is a divine power, second to none.\n\u2013 In some important areas of bravery and presence in the fields, women have outpaced men.\n\u2013 Today, the Persian Gulf and Strait of Hormuz have been emptied of American military presence, and their navy does not dare to advance beyond the Arabian Sea; God Willing, they will sooner or later be expelled from the Arabian Sea as well.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T13:15:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 Footage shows a ballistic missile impact, possibly from a Fath-360 tactical ballistic missile, in the town of Koy Sanjaq, Erbil Governorate, Iraqi Kurdistan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T23:26:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "Positions belonging to Kurdish separatist groups in Iraqi Kurdistan are under attack by Iranian drones.\nLocals also reported heavy coalition aviation activity over Erbil and Sulaymaniyah.",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea The Houthis have published photos of the wreckage of a Turkish-made Karayel drone, produced in Turkey and used by Saudi Arabia, which was shot down over Hajjah province.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T23:17:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e \u2014 Drone strikes, reportedly accompanied by missile attacks, target the headquarters of Iranian Kurdish opposition parties in Erbil and Sulaymaniyah governorates in northern Iraq.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T22:45:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfe\ud83c\uddea \u2014 Statement from the Iranian Ministry of Foreign Affairs: \nStatement by the Ministry of Foreign Affairs in Strong Condemnation of Attacks on Civilian Infrastructure and Targets in Yemen\nThe Ministry of Foreign Affairs of the Islamic Republic of Iran strongly condemns the military attacks on various parts of Yemen, which have resulted in the martyrdom and injury of a large number of defenseless Muslim people in Yemen and severe damage to the country's infrastructure. In this regard, the airstrikes on the Taiz market on Sunday afternoon, which resulted in the martyrdom of more than 50 people and the injury of dozens of others, as well as the airstrikes on the city of Khab and Al-Sha'af, are also completely condemned.\nThe continued violation of Yemen's national sovereignty and territorial integrity and the aggressive operations against the cities and villages of this country, which recently witnessed attacks by the Zionist regime and the United States, along with the continued economic blockade of this country, are contrary to the fundamental principles of the United Nations Charter, especially Article 2, Paragraph 4, and contrary to Islamic principles and teachings.\nThe Islamic Republic of Iran, recalling its principled position on the situation in Yemen, reiterates its readiness for any\nJamila emphasizes efforts to resolve issues based on an agreed roadmap.\n\u2b50\ufe0f Follow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T21:01:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\udde8\ud83c\uddf3\ud83c\uddee\ud83c\uddf7 China is challenging the United States and welcoming an Iranian aircraft on its territory.\nA passenger plane from Mahan Air landed in Guangzhou, in southern China, despite the latest US sanctions targeting Iran's aviation sector.\nWashington had warned that any foreign organization providing assistance to Iranian aircraft, including refueling or landing services, would face tough sanctions, potentially including exclusion from the dollar financial system. Meanwhile, some of Iran's neighbors, such as Turkey, suspended flights.\nBeijing rejects these measures, calling them \"illegal unilateral sanctions,\" and states that it will maintain its air and trade ties with Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T20:19:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7 \u2014 Iraqi government source: The ban on Iranian flights entering Najaf International Airport will be lifted within the next 24 hours.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T19:10:47+00:00",
+      "timestamp": "2026-09-28T12:36:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -583,12 +599,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "Why tf would you waste a ballistic missile like that, they don't even have ADs there anymore \ud83d\udc80\ud83d\udc80",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6 Bloomberg:\nSaudi Arabia resumes oil exports through its East-West pipeline after repairs following drone strikes earlier this month.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T23:27:27+00:00",
+      "timestamp": "2026-09-28T14:36:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -602,51 +618,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 Footage shows a ballistic missile impact, possibly from a Fath-360 tactical ballistic missile, in the town of Koy Sanjaq, Erbil Governorate, Iraqi Kurdistan.",
+      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf5 North Korean state-linked hackers are again suspected of stealing $387.5 million from cryptocurrency, this time in Bitget, in what is being described as the largest crypto theft of 2026 so far.\nBitget CEO Chen said the attackers exploited an internal system to manipulate transaction approvals, while the exchange\u2019s cold wallets remained unaffected. Bitget temporarily suspended withdrawals and plans to restore them in stages from September 28.\nThis follows the February 2025 $1.5 billion Bybit hack, which the FBI attributed to North Korean hackers, making it one of the largest cryptocurrency thefts ever recorded. North Korean hacking groups have been linked to major cryptocurrency thefts, with proceeds reportedly helping fund the country\u2019s nuclear and ballistic missile programmes according to US treasury Department.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T23:23:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "When Israel first invaded south Lebanon in 1978, the \"lahd army\" allied itself with the Israelis, and from the late 1970s until 2000 it was very much Israel\u2019s militia in south Lebanon.\nThe notorious Khiam prison in the south, where the Israelis used to hold and torture Lebanese and Palestinian detainees, was run by the lahd army too.\nWhat Lahd\u00a0did is about the worst thing you can do to your country: not just side with your enemy, but carry out their atrocities.\nWhen the then\u00a0 Lebanese government declared the lahd army\u00a0 as an illegal organization,during the same period, Hezbollah launched attacks on israeli occupied land, and since the number of Israeli forces in southern Lebanon did not exceed a few hundred at that time, the lahd army did most of the fighting on behalf of Israel.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T15:45:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Sheikh Naim Qassem: The resistance confronted Israel that is\u00a0 supported by America, with all its extraordinary capabilities, which are limitless,and we will continue. \"For humiliation is far from us.\n With these great sacrifices made so far, we have no choice but to continue, and we cannot be defeated. The resistance fighters halted the advance of the brigades and tens of thousands of enemy soldiers, despite all the bombardment and destruction with various types of weapons.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T14:42:15+00:00",
+      "timestamp": "2026-09-28T12:39:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -783,12 +760,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -812,110 +790,32 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Pentagon hid 8 US Marines injured in Iranian missile strike\nEight US Marines were injured 2 weeks ago when an Iranian cruise missile struck the vessel they were operating on in the Strait of Hormuz, the NBC News reported, citing 3 US officials.\nThe Defense Department did not disclose any September 14 attacks against US forces in the region.\n\ud83d\udd34 Iranian anti-ship cruise missile struck the maritime vessel the Marines were operating from\n\ud83d\udd34 The Marines \u2014 7 enlisted, 1 officer \u2014 sustained smoke inhalation and possible traumatic brain injuries, with concussion symptoms including headaches\n\ud83d\udd34 They were part of a battalion landing team\n\ud83d\udd34 Officials declined to define what type of ship it was, calling it only a \"maritime vessel\"\nAs the US withdraws its assets and its stockpiles drain further, reports of American casualties keep surfacing \u2014 and they keep being undercounted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25\u2694\ufe0f New strikes in Kiev renew questions over Ukraine\u2019s gaps in air defense\nKiev\u2019s air defenses were questioned by Ukrainian MP Oleksiy Goncharenko after a drone struck the National Academy of Sciences of Ukraine in the city center.\nHe cited shortages of Patriot missiles and criticized the failure to intercept what he described as an ordinary Shahed-type drone, arguing that Kiev should focus on air defense rather than retaliatory strikes. He also claimed that the skies over the capital are effectively under Russian control and warned that the situation raises concerns ahead of winter.\nMayor Vitali Klitschko also reported a hit on a seven-story administrative building, while the Dobrobut medical center was damaged and caught fire.\nWhat was hit in Kiev:\n\ud83c\udf0f A building near Ukraine\u2019s Constitutional Court\n\ud83c\udf0f A seven-story administrative building \n\ud83c\udf0f The Dobrobut medical center, which was heavily damaged and caught fire\nSeparately, authorities in Brovary in the Kiev region reported elevated ammonia levels near a warehouse hit in a strike and advised residents to keep windows closed and limit time outdoors.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T03:45:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25\ud83d\udd0d Five arrested after explosives found near RAF Fairford \u2014 bomb plot foiled 'by chance,' not intelligence\nCounter-terrorism police have arrested 5 men after explosives were found on 3 vans parked minutes from RAF Fairford, the US airbase used for bomber missions against Iran.\nAccording to the Guardian, a member of the public spotted unusual late-night behavior and called 999. Police only moved on the vans after that call. The operation was not intelligence-led \u2014 investigators had no prior knowledge of the plot.\n\ud83d\udccc Fairford has a 3km runway reinforced for B-1 and B-52 heavy bombers \u2014 the same aircraft used in strikes on Iran.\nIn July, Iran's IRGC noted RAF Fairford's use by US bombers, warning the UK that \"any base used for aggression against Iranian territory constitutes a legitimate target for our forces.\"\nCounter-terror police are investigating whether Iran was behind the plot, though nothing is being ruled out. Meanwhile, the UK threat level remains at severe \u2014 meaning an attack is highly likely.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T02:29:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Ben-Gvir visits prison to threaten Palestinians with execution\nNational Security Minister Itamar Ben-Gvir has been recorded personally threatening a Palestinian prisoner, telling him directly that he intends to kill him.\nThe prisoner is Hassan Salameh, a Hamas operative who has been imprisoned since 1996.\n\"As Minister of National Security, I led a policy that turned his life into hell. And with God's help, as Defense Minister, I will act to ensure that murderer terrorists like him are put to death, and I will advance the immigration policy from Gaza and from Judea and Samaria,\" Ben-Gvir wrote on X.\nBen-Gvir is campaigning for reelection on October 27, 2026 \u2014 less than a month away.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T01:41:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd1d Netanyahu made secret trip to Abu Dhabi to meet UAE president \u2014 reports\nIsraeli media reports that Prime Minister Benjamin Netanyahu secretly flew to Abu Dhabi and met with UAE President Sheikh Mohamed bin Zayed Al Nahyan, spending the day there.\nNetanyahu's office did not announce the visit. He reportedly used the same aircraft for a trip to Abu Dhabi during the Iran war.\nAn unnamed Emirati official source told The National that the country discusses security matters through the relevant agencies \u2014 \"not at the level of national leaders.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T00:10:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Iran strikes Kurdish group camps in Erbil with missiles and drones\nIranian missiles and drones have targeted camps of Kurdish groups in Erbil, in Iraq's Kurdistan Region, according to reports.\nThe strikes occurred on the same day that all US combat troops and logistical support forces left Iraq, European media outlets reported, citing an Iraqi government official.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T23:04:15+00:00",
+      "timestamp": "2026-09-28T16:00:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcd1 Netanyahu orders ICC case prepared against Erdogan\nPrime Minister Benjamin Netanyahu has ordered an interministerial team and legal officials to prepare a case against Turkish President Recep Tayyip Erdogan at the International Criminal Court, according to i24NEWS.\nThe case would target Turkey's treatment of its Kurdish population, and allegations that Erdogan's government has financed Hamas.\nNeither Israel nor Turkey is a party to the Rome Statute \u2014 neither recognizes the ICC's jurisdiction. Sources say Israel hopes to use the proceedings as leverage against Erdogan rather than necessarily filing.\nThe ICC has issued arrest warrants for Israeli officials over the war in Gaza. The man ordering this case would be arrested on sight in most of Europe. And he's now trying to file paperwork at the court that wants him in a cell.\nThe ICC has been repeatedly accused of devolving into a[ corruption-steeped political weapon](https://t.me/geopolitics_prime/49077), doling out \"justice\" on a pay-to-play basis, selectively targeting nations who champion multipolarity\u2014those forging independent paths with Russia, China, or others outside Western orbits.\nSo it may just oblige \u2014 serving the very men it issued warrants for.\n \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25\ud83c\uddf9\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Israel feels \u2018threatened\u2019 by Turkish-Libyan maritime pact\n\u00a0\nThe 2019 Turkey-Libya maritime jurisdiction agreement delimited exclusive economic zones (EEZ) in the eastern Mediterranean favoring the two nations, preempting the Israel-Cyprus-Greece EastMed pipeline project before it could be implemented and assuring that no regional energy projects could bypass Turkey.\nIn 2020, Egypt and Greece signed their own maritime pact, setting up competing EEZs for oil and gas drilling rights cutting directly through the Turkish-Libyan-claimed corridor.\nThe IDF\u2019s Intelligence Directorate has formally \u201cbegun focusing\u201d on the Turkish-Libyan deal, as well as \u201cTurkey\u2019s growing military and diplomatic influence in the region,\u201d defense sources told JPost. The sources highlighted Turkey\u2019s growing presence in Libya\u2019s ports and airspace, and exploration of energy resources in Libyan waters, in exchange for military assistance.\nFor Israel, a strengthened Turkey-Libya relationship gives Ankara the capacity to disrupt the \u201cfreedom of navigation\u201d of Israeli commercial shipping, which accounts for 98% of the country\u2019s imports, and is \u201cparticularly sensitive\u201d amid the Houthi\u2019s ability to target its vessels in the Red Sea.\nBesides blocking EastMed, the ties are said to threaten Israel\u2019s deployment of \u201cundersea communications infrastructure and electricity cables in areas where there are clear concerns they could be damaged.\u201d\n\ud83d\udc49The potential for maritime escalation comes amid broader tensions between [Israel and Turkey](https://t.me/geopolitics_prime/74192), with some Israeli politicians even openly saying a [hot war may](https://t.me/geopolitics_prime/71901) be in the offing.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T22:08:16+00:00",
+      "timestamp": "2026-09-28T12:17:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -925,26 +825,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Houthi air defenses engage Saudi drones over Amran\nAnsar Allah air defenses engaged Saudi UAVs above Amran Governorate in northern Yemen, according to local media.\nSaudi Arabia has sharply increased its airstrikes on Houthi-controlled Yemen, with warplanes hitting Taiz Province earlier today and killing at least 7 civilians \u2014 including 5 children \u2014 while injuring more than 40, according to Yemen's Ministry of Health and Environment.\nArmed Forces spokesman Brig. Gen. Yahya Saree says total Saudi air and missile attacks since the beginning of the latest escalation have reached 1,059.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T21:10:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
