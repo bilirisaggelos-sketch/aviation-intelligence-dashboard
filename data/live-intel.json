@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T08:35:44.334596+00:00",
+  "generated_at": "2026-09-29T15:07:20.004086+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -11,25 +11,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/29/2026",
       "location": "ZME AL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Tuesday, September 29, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/29/2026",
-      "location": "ZAB NM",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -268,6 +249,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1127\r\nIssue Time: 2026 Sep 29 1301 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 30: None (Below G1) Oct 01: None (Below G1) Oct 02: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: 28 Sep CME inbound\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-29 13:01:59.807",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3748\r\nIssue Time: 2026 Sep 29 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3747\nBegin Time: 2026 Sep 26 1535 UTC\nYesterday Maximum 2MeV Flux: 4128 pfu\nMax time: 2026 Sep 28 1440 UTC",
       "source": "NOAA Space Weather",
@@ -344,21 +344,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5423\r\nIssue Time: 2026 Sep 27 0035 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Sep 27 0033 UTC\nValid To: 2026 Sep 27 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1 Israel\u2019s Prime Minister, Benjamin Netanyahu, when visiting an airbase today: \u2018There are signs that the enemies are planning to attack us before the election.\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-27 00:35:26.167",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T13:12:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -378,177 +378,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\udde6\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 NEW: Earlier today, Israeli Prime Minister Benjamin Netanyahu landed in the UAE to meet with Mohammed bin Zayed\nAccording to Israel\u2019s Channel 13, the meeting lasted more than 6 hours and was primarily focused on Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T03:47:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: Eight U.S. Marines were injured in a recent Iranian cruise missile attack against a vessel in the Strait of Hormuz \u2013 NBC\nAccording to three U.S. officials, the marines were operating aboard a \u2018U.S.-contracted\u2019 vessel, rather than an actual American warship.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T01:53:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 NEW: Explosions are being reported by locals in Irbid, northwestern Jordan\nThe cause is currently unclear; it could be interceptor activity, Iranian ballistic missiles incoming, or sonic booms from U.S. / Israeli fighter jets.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T01:15:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf6\u26a1\ufe0f \u2014 U.S. Air Force fighter jets continue to patrol Iraqi Kurdistan's airspace. It is possible a renewed Iranian UAV launch was detected.\nUSAF fighters are the only reliable way to intercept Iranian UAVs due to the U.S. withdrawing all other air defenses.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T22:56:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 Ballistic missile impacts were reported in Erbil, Iraqi Kurdistan\nShahed-136 drones also targeted Koya.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T22:51:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Iran targets camps of Kurdish terrorist groups in Erbil, Iraqi Kurdistan, with missiles and drones",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T22:43:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Ansarallah air defense activity against Saudi UAVs above Amran Governorate, northern Ansarallah-controlled Yemen",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-27T20:07:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A Jewish man was filmed trying to urinate on the wall of St. James Monastery in Jerusalem\u2019s Old City before a security guard stopped him.\nThe monastery has repeatedly been targeted by Jewish extremists who spit toward it, part of wider harassment of Christian clergy and churches in the Old City.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T07:22:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Marco Rubio on Greenland:\nUnder this agreement, which exists now in perpetuity, never will any adversary of the United States have the ability to invest there without our approval and their approval.\nWe will also have access to building new military facilities that will allow us to build the sort of missile defense shield that all of North America needs.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T04:31:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -574,6 +403,63 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 According to The Washington Post, five two-year boarding schools for children of servicemen \u2014 killed, missing, captured, and injured \u2014 have been opened in Ukraine. Education and housing are funded by the state budget.\nAccording to the publication, these institutions are effectively becoming a \"funnel\" leading into Ukrainian security forces, which are in acute need of recruits: according to Ukrainian officials, the Armed Forces of Ukraine need at least 30,000 people monthly.\nThus, in September, 475 cadets began their studies, 150 of them live on campus, including 48 girls. Each student has a parent who serves or has served; about half have already lost one of their parents.\nIn addition to regular subjects, cadets are taught to detect drones, the basics of civil defense, and first aid.\nThe daily schedule includes wake-up, formation, classes, an hour of table tennis or volleyball, homework, and access to phones from 5:00 PM to 9:00 PM. Wearing a uniform is mandatory.\nAs the publication notes, the two years of study are a mixture of an orphanage, a preparatory school, and a recruitment center.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T12:41:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddea\ud83c\uddec Israeli Prime Minister Benjamin Netanyahu strongly rejected reports that Egypt had warned Israel beforehand that Hamas was plotting an attack on the Israeli territory, and gave instructions to file a defamation lawsuit against its authors.\nThe Wall Street Journal previously reported, citing sources, that Egypt had warned Israel multiple times about an impending attack by Hamas. One such warning was conveyed to Israel by Abbas Kamel who at the time headed the Egyptian General Intelligence Directorate.\n\"In the months preceding October 7, Prime Minister Netanyahu neither met nor spoke with Abbas Kamel, then head of Egypt\u2019s General Intelligence Service. No Israeli intelligence official conveyed such a warning to the Prime Minister,\" the office of the Israeli premier said in a statement.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T11:30:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddfa US restrictions on diesel exports would cause prices for this fuel in Europe to skyrocket to \"a new, unprecedented level,\" given that about half of the EU's diesel supply has come from the US in recent months.\nHowever, most European oil traders doubt that Washington will take such a step, as a ban would pose a major challenge for US oil companies, CNBC reports.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T11:14:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddeaAnsarllah:\nDuring the past 24 hours, the Saudi warplanes launched 38 airstrikes and missiles via \"F-15\" and \"Typhoon\" aircraft that took off from Khamis Mushait and Taif bases, along with missile aggression from Najran and Jizan, targeting the provinces of Taiz, Sa'ada, and Hajjah, leaving martyrs and wounded among civilians, including women and children.\nThis brings the total number of Saudi aggression strikes since the beginning of the escalation to 1,123 airstrikes and missiles.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -590,160 +476,6 @@
         "CASELS"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddec\ud83c\udde7 HMS Agamemnon, the Royal Navy's newest hunter-killer submarine, has sailed from Barrow-in-Furness for the first time to begin sea trials.\nThe sixth of seven Astute-class nuclear-powered attack submarines (SSNs), HMS Agamemnon left BAE Systems' shipyard on September 25, 2026, marking a major step toward frontline service with the Royal Navy at HM Naval Base Clyde.\nThe 97-metre, 7,400-tonne submarine is the largest and most advanced attack submarine ever operated by the Royal Navy. Powered by a Rolls-Royce nuclear reactor, it will never need refuelling during its service life. Its high-tech capabilities include stealthy precision strike, anti-submarine warfare, and intelligence gathering.\nHMS Agamemnon is armed with Tomahawk IV land-attack missiles capable of striking targets more than 1,000 miles away, alongside Spearfish heavyweight torpedoes. Its mission will be to safeguard the submarines carrying Britain's nuclear deterrent from adversary interference, as well as to project power by attacking land targets, engaging hostile submarines and warships, and supporting Royal Marines raids.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T21:54:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\udde6\ud83c\uddea\ud83c\uddf2\ud83c\udde6\ud83c\uddf1\ud83c\uddfe\ud83c\uddf8\ud83c\udde6\ud83c\uddf6\ud83c\udde6\u274c\ud83d\ude0c\ud83c\uddfe\ud83c\uddea\u2014 Several Gulf countries\u2019 officials reportedly directly met with Israeli Prime Minister Benjamin Netanyahu during his secret visit to the UAE to discuss Iran, with some of those countries having no official diplomatic relations with Israel, including Qatar and Saudi Arabia, per Kan.\nNetanyahu traveled to Abu Dhabi on a private jet Sunday morning, arriving at 12:13 UTC, while a Libyan Haftar linked aircraft arrived at 12:28, a Moroccan Air Force C 130 landed earlier, and a Qatari government aircraft was also tracked into the Emirati capital. The UAE also sent a government aircraft to Riyadh to collect someone before returning at 12:10 UTC.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T21:06:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 A Russian attack on Kiev is underway.\nDrones are attacking. A Kiev business center has been hit.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T20:23:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Reports of explosions in the Strait of Hormuz.\nUnconfirmed reports claim that the IRGC Navy targeted vessels with anti-ship cruise missiles after they attempted to cross the strait without authorization.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T20:12:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\u2694\ufe0f\ud83c\uddf8\ud83c\udde6 An alert has been issued in Najran Province, Saudi Arabia, following an Ansar Allah ballistic missile attack.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T20:09:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iranian Admiral Sayyari declares control over the Strait of Hormuz:\n\u00abThe Strait of Hormuz belongs to us. The Persian Gulf belongs to us. The northern Indian Ocean, the area of territorial waters and the surveillance zone belong to us. We will not allow anyone to want to do something else in our area. \n[...] To the west of the Strait of Hormuz, the Navy of the Islamic Revolutionary Guard Corps, together with other IRGC forces, are standing firm. [...] To the east of the Strait of Hormuz, it is the responsibility of the Islamic Republic of Iran Army, and we prevent any transit unless authorized. Therefore, we military personnel are all responsible for the Strait of Hormuz, which is a point of strength of the Islamic Republic of Iran and is of great importance to us, and we have kept it firmly secured.\n[...] Everyone is looking for a way to move forward to open this strait. They make many slogans, but you can see that nothing is happening.\u00bb\n\u2b50\ufe0f Follow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T19:15:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Iranian Admiral Sayyari:\nThe Strait of Hormuz belongs to us.\nThe Persian Gulf belongs to us. The northern Indian Ocean, the area of territorial waters and the surveillance zone belong to us.\nWe will not allow anyone to want to do something else in our area.\nTo the west of the Strait of Hormuz, the Navy of the Islamic Revolutionary Guard Corps, together with other IRGC forces, are standing firm. To the east of the Strait of Hormuz, it is the responsibility of the Islamic Republic of Iran Army, and we prevent any transit unless authorized.\nTherefore, we military personnel are all responsible for the Strait of Hormuz, which is a point of strength of the Islamic Republic of Iran and is of great importance to us, and we have kept it firmly secured.\nEveryone is looking for a way to move forward to open this strait. They make many slogans, but you can see that nothing is happening.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T19:21:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 IDF: The target was later found to be \"a launch from our forces\" inside the security zone in southern Lebanon, and not a drone or missile coming from Lebanon. There were no injuries, and the army said the incident is under investigation.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T19:06:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -826,6 +558,63 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8US travel restrictions may backfire as Iran sits at key air crossroads\nIran\u2019s Gulf neighbors have suspended air links with the country following the entry into force of Washington\u2019s sanctions on September 23.\nThe move doesn't mean Iran is isolated, however.\nTehran\u2019s Imam Khomeini International Airport reportedly continues to serve more than 30 international destinations. As of September 27, a total of 41 flights had taken off from or landed at the airport, according to Flightradar24. \nRussia, Belarus, Armenia, Turkey, Malaysia, China, Pakistan, Vietnam and Afghanistan have maintained their air links with Iran. Iranians have also been using Istanbul, Islamabad, Kabul, Beijing, Dushanbe, Yerevan and Moscow as transit points before continuing to their final destinations.\nIraq's dilemma\nDespite Baghdad\u2019s sanctions on Iran\u2019s aviation sector, Iraqi Airways resumed flights between the central Iraqi province of Najaf and Iranian airports on September 28. A day earlier, the Iraqi government said it was in talks with Washington to seek an exemption from sanctions \u201cfor humanitarian reasons,\u201d following a backlash from Shia pilgrims. Najaf is home to the shrine of Imam Ali, while Iran\u2019s Mashhad and Qom are also important pilgrimage sites for Shia Muslims.\nIran's vague warning\nThe Islamic Republic has made clear that it would not pursue military measures against Gulf countries imposing air bans on Iranian flights, stressing that it has \u201cnumerous non-military options\u201d at its disposal. Iran lies along busy Europe-Asia air corridors and could restrict unfriendly countries from using its airspace, experts say. Mohammad Mokhber, a senior adviser to Iran\u2019s supreme leader, said on September 25: \u201cEither air travel in the region is available to everyone or to no one.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T14:37:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25\ud83c\uddfa\ud83c\uddf8 US gambles on tech to fill its shrinking Africa footprint\nAs the [US scales back ](https://t.me/geopolitics_prime/73280) its physical presence in Africa, AFRICOM is reaching for a familiar fix \u2014 one rooted in more technology and fewer boots on the ground, reports DefenseScoop.\nLt. Col. Jared \"CLiF\" Bindl, AFRICOM's first chief innovation officer, is leading the effort, betting on AI, drones, sensors and autonomous systems to help the command \"do more with less.\"\nThe push to keep some measure of US and NATO influence alive amid strategic competition from China, [Russia and Iran ](https://t.me/geopolitics_prime/71428)includes:\n\ud83d\udd34cheap ground sensors, long-endurance drones and commercial satellites \u2014 stepping in to fill the intelligence gaps left by a thinner force posture\n\ud83d\udd34autonomous aerial resupply and decentralized energy systems \u2014 keeping remote operations, logistics and medical support running\n\ud83d\udd34counter-drone systems and proposed local manufacturing hubs\n\ud83d\udd34faster decision-making and better integration across air, land, sea, space and electronic warfare\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T11:11:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "US warplanes burst into flames in mid-air as strained forces suffer new headache\nThree US naval aviation aircraft suffered in-flight engine blazes in July and August, reports the Military Times.\nAll crews landed safely, and the incidents \u2013 flagged by the Naval Safety Center as Class A mishaps ($2.5M+ damage threshold) \u2013 appear unrelated.\nThe Navy and Marine Corps worked to keep all of these failures under wraps when they happened:\n\ud83d\udd34 An F/A-18F Super Hornet suffered a left-engine fire during training over Nevada and made an emergency landing \n\ud83d\udd34 A CH-53E Super Stallion went up in flames during a night exercise over California and was forced to land \n\ud83d\udd34 An F/A-18E Super Hornet suffered another in-flight engine blaze near Naval Air Station Oceana, Virginia\nNo one was injured, and the incidents remain under investigation.\nSuper Hornets already carry a troubling recent track record of in-flight blazes in 2020 and 2021, in addition to a 2022 at-sea repair aboard the USS George H.W. Bush.\nIn 2022, the Army grounded its entire Boeing-made CH-47 Chinook fleet after multiple fires were linked to fuel leaks. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T09:43:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "India goes all in on Deep Tech with $25B investment drive\nIndia is gearing up to make $25 billion available for Deep Tech, in a bid to turn its huge pool of talent into homegrown capabilities in AI, semiconductors, drones, advanced manufacturing and space, CNBC reports.\nThe push reflects a growing realization that dependence on foreign frontier technology can become a strategic vulnerability.\n\u27a1\ufe0f $11B has already been committed by the government through its Research Development Infrastructure Fund, with private capital expected to match it\n\u27a1\ufe0f Another $3B-4B could be added, bringing the potential investment pool to $25B\n\u27a1\ufe0f Indian Deep Tech startups raised nearly $3B in 2025 - a record for the sector\n\u00a0\nEmergent, Skyroot, and Sarvam have already crossed the $1B valuation mark, joining India's growing club of \"unicorn\" startups\u2014a clear signal pointing to a shift from prototypes toward commercialization. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -890,63 +679,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-29T05:21:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2708\ufe0f Iraq's Air Force now flies all missions independently \u2014 the post-US era has begun\nLt. Gen. Khalid al-Tamimi, Commander of the Iraqi Air Force, told the official Iraqi News Agency that Iraq now conducts all missions inside the country independently, without direct support from international coalition forces \u2014 and that Iraqi crews are maintaining the country's F-16 fleet themselves.\n\ud83d\udd34 Iraq is in advanced negotiations to purchase 14 French Rafale fighter aircraft\n\ud83d\udd34 Efforts are underway to manufacture drones domestically\n\ud83d\udd34 A proposal is on the table to establish a dedicated command for unmanned aircraft\nThis comes as all US combat troops and logistical support leave Iraq, completing the withdrawal that formally ends the international military campaign against ISIS after more than a decade. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T03:56:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0a Iran's Army Chief confirms: 'The Strait of Hormuz belongs to us'\nRear Admiral Sayyari, Army Chief of Staff and Deputy Coordinator, has laid out Iran's position in the starkest terms yet \u2014 declaring the strait closed and under full Iranian military control.\n\"Strait of Hormuz belongs to us. Persian Gulf is ours. North of Indian Ocean, it's our territorial waters. So we do not allow anybody to do whatever they want to do,\" he told Press TV.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T01:35:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Kiev hit by mass ballistic missile strike\nExplosions rocked the Ukrainian capital tonight when roughly 6 Iskander-M ballistic missiles struck targets across the city. Footage captured the moment of impact.\nLocal reports also suggested that the attack involved the Geran-5 drone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T22:45:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
