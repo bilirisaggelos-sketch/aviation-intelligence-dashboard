@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-29T20:00:33.583055+00:00",
+  "generated_at": "2026-09-29T23:45:09.380159+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSacramento, CA, Thursday, October 1, 2026 through Sunday, October 4, 2026 Local\nFacility: ZOA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/29/2026",
+      "location": "ZOA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nHuntsville, AL, Wednesday, September 30, 2026 through Thursday, October 1, 2026 Local\nFacility: ZME",
@@ -326,44 +345,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Piers Morgan: It\u2019s been reported that you\u2019ve lost $24 billion worth in gas sales since the war began because of the reliance on the Strait of Hormuz to get your liquefied natural gas out to the rest of the world. \nThe International Monetary Fund expects Qatar\u2019s economy to contract by more than 8% this year. \nInternational visitor numbers fell around 80% from March 2025 to March 2026, and Qatar hotels have reportedly been about 60% empty since the war began. None of that is surprising to me. First, is that accurate?\nQatari PM: Well, actually, many of those numbers have been accurate and we reported them as a government. \nWe have a very firm and clear decision by His Highness since day one of the war that we should be transparent with our partners, with other countries, with the international community. \nAnything that hit or damaged our economy should be reported, whether it\u2019s the LNG facility when it was targeted by the Iranian missile, the exports that unfortunately got stopped because of the closure of the strait, or the deficit that we are seeing in our budget.\nSource: Piers Morgan Uncensored",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T17:41:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Piers Morgan: Do you think he\u2019s a war criminal, Benjamin Netanyahu?\nQatari PM: Well, of course, what\u2019s being committed in Gaza is war crimes, and whoever is responsible for this is a war criminal.\nSource: Piers Morgan Uncensored",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T17:35:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Police arrest actors, politicians protesting against Netanyahu outside UN](https://www.reuters.com/world/middle-east/police-arrest-actors-politicians-protesting-against-netanyahu-outside-un-2026-09-24/)\nPolice arrested at least 30 people including actors and politicians as they protested outside United Nations \u200bheadquarters on Thursday against Israeli Prime Minister Benjamin Netanyahu ahead \u200cof his speech at the General Assembly. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.reuters.com/world/middle-east/police-arrest-actors-politicians-protesting-against-netanyahu-outside-un-2026-09-24/)\nMaria Tsvetkova | reuters\u200b.com \u2022 Sep 24, 2026",
       "source": "Telegram",
@@ -378,6 +359,45 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 \u2014 Reporter: \nDo you think he's a war criminal, Benjamin Netanyahu?\nQatari Prime Minister Mohammed bin Abdulrahman Al Thani: \nWell, of course what's been committed in Gaza is war crimes, and whoever responsible for this is a war criminal.\n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T21:56:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 U.S. Media: \nThe Kingdom of Saudi Arabia is repositioning Patriot missile batteries around bridges, military bases, and desalination plants after sources linked to the Ansarllah threatened to escalate the conflict and target Saudi Arabia's critical infrastructure. \n\ufeff\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T20:16:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -402,98 +422,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Piers Morgan: It\u2019s been reported that you\u2019ve lost $24 billion worth in gas sales since the war began because of the reliance on the Strait of Hormuz to get your liquefied natural gas out to the rest of the world. \nThe International Monetary Fund expects Qatar\u2019s economy to contract by more than 8% this year. \nInternational visitor numbers fell around 80% from March 2025 to March 2026, and Qatar hotels have reportedly been about 60% empty since the war began. None of that is surprising to me. First, is that accurate?\nQatar\u2019s Prime Minister: Well, actually, many of those numbers have been accurate and we reported them as a government. \nWe have a very firm and clear decision by His Highness since day one of the war that we should be transparent with our partners, with other countries, with the international community. \nAnything that hit or damaged our economy should be reported, whether it\u2019s the LNG facility when it was targeted by the Iranian missile, the exports that unfortunately got stopped because of the closure of the strait, or the deficit that we are seeing in our budget.\n\ud83d\udd34",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 Reporter:\nDo you think he's a war criminal, Benjamin Netanyahu?\nQatari Prime Minister Mohammed bin Abdulrahman Al Thani:\nWell, of course what's been committed in Gaza is war crimes, and whoever is responsible for this is a war criminal.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T17:57:56+00:00",
+      "timestamp": "2026-09-29T21:58:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea Ansarllah:\nDuring the past 24 hours, Saudi warplanes launched 35 airstrikes using F-15 and Typhoon aircraft that took off from Khamis Mushait and Taif bases, targeting civilian objects, including communication networks, schools, and other facilities in the provinces of Taiz, Al-Jawf, Amran, Sa'ada, and Al-Hodeidah.\nThis brings the total number of Saudi aggression raids and missiles since the start of the escalation to 1,158.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T17:54:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 \u2014 Piers Morgan: Do you think he\u2019s a war criminal, Benjamin Netanyahu?\nQatari Prime Minister: Well, of course, what\u2019s being committed in Gaza is war crimes, and whoever is responsible for this is a war criminal.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T17:53:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 \u2014 Qatar's Prime Minister Mohammed bin Abdulrahman Al Thani on Israeli Prime Minister Benjamin Netanyahu:\nNetanyahu stood up on the podium. He criticized the Mayor of New York. He criticized the influencers. He criticized the students. He criticized a lot of things in the United States. \nNow who\u2019s interfering and meddling with United States politics? Is it Qatar or Israel? \nSo I think that they are trying just to twist the facts to serve their interest, or to serve the interest of people they are paying.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T17:43:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf6 US forces exit Iraq by tomorrow after 20+ years, ending a presence where 4,500 Americans died. \nIran-backed groups call it \"a historic victory\" and \"a crushing defeat for the American project.\"\nIraqi security officials warn the withdrawal is premature. \nThe last US soldier killed in Iraq died in July during a drone detonation near Erbil. \nSeven of 18 US service members killed in this year's Iran war died in Iraq.\n\ud83d\udd17 [Clash Report](https://x.com/clashreport/status/2104889178349597113?s=20)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T16:31:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -507,13 +452,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Geopolitics Prime"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -569,6 +513,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Yemeni forces shoot down Saudi ScanEagle drone in Saada\nBrigadier General Alamed Alaezy of the Yemeni Armed Forces announced the destruction of a Boeing-manufactured ScanEagle reconnaissance and surveillance drone belonging to the Saudi army, downed in the airspace of Saada province.\n\ud83c\udf0f The drone is valued at $3 million\n\ud83c\udf0f Saada is a Houthi stronghold in northern Yemen, near the Saudi border\n\ud83c\udf0f The shootdown adds to the growing toll of Saudi air assets lost over Yemen\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T23:08:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -685,45 +648,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "India goes all in on Deep Tech with $25B investment drive\nIndia is gearing up to make $25 billion available for Deep Tech, in a bid to turn its huge pool of talent into homegrown capabilities in AI, semiconductors, drones, advanced manufacturing and space, CNBC reports.\nThe push reflects a growing realization that dependence on foreign frontier technology can become a strategic vulnerability.\n\u27a1\ufe0f $11B has already been committed by the government through its Research Development Infrastructure Fund, with private capital expected to match it\n\u27a1\ufe0f Another $3B-4B could be added, bringing the potential investment pool to $25B\n\u27a1\ufe0f Indian Deep Tech startups raised nearly $3B in 2025 - a record for the sector\n\u00a0\nEmergent, Skyroot, and Sarvam have already crossed the $1B valuation mark, joining India's growing club of \"unicorn\" startups\u2014a clear signal pointing to a shift from prototypes toward commercialization. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T08:25:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Israel says it killed Hamas commander in Gaza strike\nIzz al-Din al-Bik, the commander of the northern Gaza brigade of Hamas\u2019 armed wing, the Al-Qassam Brigades, was killed in an Israeli strike on a residential apartment in Gaza City\u2019s al-Nasr neighborhood.\nAl-Bik had taken command of the Qassam Brigades\u2019 northern unit during Israel\u2019s genocidal war on Gaza, succeeding Ahmed al-Ghandour.\n\ud83d\udd34 Al-Bik, also known as \u201cAbu Hamza,\u201d was reportedly killed alongside another person\n\ud83d\udd34 Attack also wounded several people, including children reportedly among the casualties\nPM Netanyahu and Defense Minister Katz announced the killing in a joint statement. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T07:38:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
