@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-28T22:04:46.066866+00:00",
+  "generated_at": "2026-09-29T02:00:42.629095+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Tuesday, September 29, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/29/2026",
+      "location": "ZAB NM",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nHuntington Beach, CA, Thursday, October 1, 2026 through Sunday, October 4, 2026 Local\nFacility: ZLA",
@@ -537,6 +556,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddeaAnsarllah:\nDuring the past 24 hours, the Saudi warplanes launched 38 airstrikes and missiles via \"F-15\" and \"Typhoon\" aircraft that took off from Khamis Mushait and Taif bases, along with missile aggression from Najran and Jizan, targeting the provinces of Taiz, Sa'ada, and Hajjah, leaving martyrs and wounded among civilians, including women and children.\nThis brings the total number of Saudi aggression strikes since the beginning of the escalation to 1,123 airstrikes and missiles.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T00:04:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddec\ud83c\udde7 HMS Agamemnon, the Royal Navy's newest hunter-killer submarine, has sailed from Barrow-in-Furness for the first time to begin sea trials.\nThe sixth of seven Astute-class nuclear-powered attack submarines (SSNs), HMS Agamemnon left BAE Systems' shipyard on September 25, 2026, marking a major step toward frontline service with the Royal Navy at HM Naval Base Clyde.\nThe 97-metre, 7,400-tonne submarine is the largest and most advanced attack submarine ever operated by the Royal Navy. Powered by a Rolls-Royce nuclear reactor, it will never need refuelling during its service life. Its high-tech capabilities include stealthy precision strike, anti-submarine warfare, and intelligence gathering.\nHMS Agamemnon is armed with Tomahawk IV land-attack missiles capable of striking targets more than 1,000 miles away, alongside Spearfish heavyweight torpedoes. Its mission will be to safeguard the submarines carrying Britain's nuclear deterrent from adversary interference, as well as to project power by attacking land targets, engaging hostile submarines and warships, and supporting Royal Marines raids.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -857,6 +895,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0a Iran's Army Chief confirms: 'The Strait of Hormuz belongs to us'\nRear Admiral Sayyari, Army Chief of Staff and Deputy Coordinator, has laid out Iran's position in the starkest terms yet \u2014 declaring the strait closed and under full Iranian military control.\n\"Strait of Hormuz belongs to us. Persian Gulf is ours. North of Indian Ocean, it's our territorial waters. So we do not allow anybody to do whatever they want to do,\" he told Press TV.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T01:35:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Kiev hit by mass ballistic missile strike\nExplosions rocked the Ukrainian capital tonight when roughly 6 Iskander-M ballistic missiles struck targets across the city. Footage captured the moment of impact.\nLocal reports also suggested that the attack involved the Geran-5 drone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-28T22:45:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
