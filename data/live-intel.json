@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T15:07:20.004086+00:00",
+  "generated_at": "2026-09-29T20:00:33.583055+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -49,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/28/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nHurt, VA, Tuesday, September 29, 2026 Local\nFacility: ZDC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/28/2026",
-      "location": "ZDC VA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -212,25 +193,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLas Vegas, NV, Wednesday, September 30, 2026 Local\nFacility: ZLA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/27/2026",
-      "location": "ZLA NV",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Sunday, September 27, 2026 through Friday, October 2, 2026 Local\nFacility: ZJX",
       "source": "FAA",
       "source_type": "official",
@@ -346,12 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1 Israel\u2019s Prime Minister, Benjamin Netanyahu, when visiting an airbase today: \u2018There are signs that the enemies are planning to attack us before the election.\u2019",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Israeli Prime Minister Benjamin Netanyahu has summoned opposition leader Yair Lapid to a security briefing tonight\nA limited security cabinet meeting will also take place, reportedly to discuss \u2018developments involving Iran\u2019.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T13:12:33+00:00",
+      "timestamp": "2026-09-29T15:54:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -364,20 +326,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s Supreme Leader, Ayatollah Seyyed Mojtaba Khamenei, issued a message on the occasion of Holy Defense Week and the martyrdom anniversary of Sayyed Hassan Nasrallah\nIn the message, the following important points were mentioned:\n\u2013 The days when Western powers controlled Iran and imposed their will upon the Iranian nation are long gone; the Islamic Revolution has awakened the people\u2019s spirits, and I assure the people those dark days will never be repeated.\n\u2013 Controlling the Strait of Hormuz is a joint desire of the entire Iranian nation, despite the differences between some segments in society.\n\u2013 Throughout the past few wars, starting with the first imposed war [Saddam\u2019s invasion], Iran has risen from the ashes of war like a burning Phoenix, and has become so powerful that it now casts its shadow on the enemy\u2019s lands. \n\u2013 Since the time of the Prophets, no greater figure than Sayyed Hassan Nasrallah has appeared in the land of Al-Sham [the Levant], and with his stature, wisdom and courageous actions he turned Lebanon into a jewel of the Resistance and brought it to a position of greatness.\n\u2013 Some people these days consider Iran to be the 4th world superpower, but that is according to worldly calculations; when God is entered into the equation, Iran is a divine power, second to none.\n\u2013 In some important areas of bravery and presence in the fields, women have outpaced men.\n\u2013 Today, the Persian Gulf and Strait of Hormuz have been emptied of American military presence, and their navy does not dare to advance beyond the Arabian Sea; God Willing, they will sooner or later be expelled from the Arabian Sea as well.",
+      "publisher": "Clash Report",
+      "text": "Piers Morgan: It\u2019s been reported that you\u2019ve lost $24 billion worth in gas sales since the war began because of the reliance on the Strait of Hormuz to get your liquefied natural gas out to the rest of the world. \nThe International Monetary Fund expects Qatar\u2019s economy to contract by more than 8% this year. \nInternational visitor numbers fell around 80% from March 2025 to March 2026, and Qatar hotels have reportedly been about 60% empty since the war began. None of that is surprising to me. First, is that accurate?\nQatari PM: Well, actually, many of those numbers have been accurate and we reported them as a government. \nWe have a very firm and clear decision by His Highness since day one of the war that we should be transparent with our partners, with other countries, with the international community. \nAnything that hit or damaged our economy should be reported, whether it\u2019s the LNG facility when it was targeted by the Iranian missile, the exports that unfortunately got stopped because of the closure of the strait, or the deficit that we are seeing in our budget.\nSource: Piers Morgan Uncensored",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T12:36:42+00:00",
+      "timestamp": "2026-09-29T17:41:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Piers Morgan: Do you think he\u2019s a war criminal, Benjamin Netanyahu?\nQatari PM: Well, of course, what\u2019s being committed in Gaza is war crimes, and whoever is responsible for this is a war criminal.\nSource: Piers Morgan Uncensored",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T17:35:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -403,12 +384,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6 According to The Washington Post, five two-year boarding schools for children of servicemen \u2014 killed, missing, captured, and injured \u2014 have been opened in Ukraine. Education and housing are funded by the state budget.\nAccording to the publication, these institutions are effectively becoming a \"funnel\" leading into Ukrainian security forces, which are in acute need of recruits: according to Ukrainian officials, the Armed Forces of Ukraine need at least 30,000 people monthly.\nThus, in September, 475 cadets began their studies, 150 of them live on campus, including 48 girls. Each student has a parent who serves or has served; about half have already lost one of their parents.\nIn addition to regular subjects, cadets are taught to detect drones, the basics of civil defense, and first aid.\nThe daily schedule includes wake-up, formation, classes, an hour of table tennis or volleyball, homework, and access to phones from 5:00 PM to 9:00 PM. Wearing a uniform is mandatory.\nAs the publication notes, the two years of study are a mixture of an orphanage, a preparatory school, and a recruitment center.",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian Geran-4/5 drones are reportedly striking Kiev currently.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T12:41:34+00:00",
+      "timestamp": "2026-09-29T18:46:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -422,12 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddea\ud83c\uddec Israeli Prime Minister Benjamin Netanyahu strongly rejected reports that Egypt had warned Israel beforehand that Hamas was plotting an attack on the Israeli territory, and gave instructions to file a defamation lawsuit against its authors.\nThe Wall Street Journal previously reported, citing sources, that Egypt had warned Israel multiple times about an impending attack by Hamas. One such warning was conveyed to Israel by Abbas Kamel who at the time headed the Egyptian General Intelligence Directorate.\n\"In the months preceding October 7, Prime Minister Netanyahu neither met nor spoke with Abbas Kamel, then head of Egypt\u2019s General Intelligence Service. No Israeli intelligence official conveyed such a warning to the Prime Minister,\" the office of the Israeli premier said in a statement.",
+      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Piers Morgan: It\u2019s been reported that you\u2019ve lost $24 billion worth in gas sales since the war began because of the reliance on the Strait of Hormuz to get your liquefied natural gas out to the rest of the world. \nThe International Monetary Fund expects Qatar\u2019s economy to contract by more than 8% this year. \nInternational visitor numbers fell around 80% from March 2025 to March 2026, and Qatar hotels have reportedly been about 60% empty since the war began. None of that is surprising to me. First, is that accurate?\nQatar\u2019s Prime Minister: Well, actually, many of those numbers have been accurate and we reported them as a government. \nWe have a very firm and clear decision by His Highness since day one of the war that we should be transparent with our partners, with other countries, with the international community. \nAnything that hit or damaged our economy should be reported, whether it\u2019s the LNG facility when it was targeted by the Iranian missile, the exports that unfortunately got stopped because of the closure of the strait, or the deficit that we are seeing in our budget.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T11:30:58+00:00",
+      "timestamp": "2026-09-29T17:57:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddfa US restrictions on diesel exports would cause prices for this fuel in Europe to skyrocket to \"a new, unprecedented level,\" given that about half of the EU's diesel supply has come from the US in recent months.\nHowever, most European oil traders doubt that Washington will take such a step, as a ban would pose a major challenge for US oil companies, CNBC reports.",
+      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea Ansarllah:\nDuring the past 24 hours, Saudi warplanes launched 35 airstrikes using F-15 and Typhoon aircraft that took off from Khamis Mushait and Taif bases, targeting civilian objects, including communication networks, schools, and other facilities in the provinces of Taiz, Al-Jawf, Amran, Sa'ada, and Al-Hodeidah.\nThis brings the total number of Saudi aggression raids and missiles since the start of the escalation to 1,158.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T11:14:27+00:00",
+      "timestamp": "2026-09-29T17:54:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,22 +441,59 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddeaAnsarllah:\nDuring the past 24 hours, the Saudi warplanes launched 38 airstrikes and missiles via \"F-15\" and \"Typhoon\" aircraft that took off from Khamis Mushait and Taif bases, along with missile aggression from Najran and Jizan, targeting the provinces of Taiz, Sa'ada, and Hajjah, leaving martyrs and wounded among civilians, including women and children.\nThis brings the total number of Saudi aggression strikes since the beginning of the escalation to 1,123 airstrikes and missiles.\n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 \u2014 Piers Morgan: Do you think he\u2019s a war criminal, Benjamin Netanyahu?\nQatari Prime Minister: Well, of course, what\u2019s being committed in Gaza is war crimes, and whoever is responsible for this is a war criminal.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T00:04:01+00:00",
+      "timestamp": "2026-09-29T17:53:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 \u2014 Qatar's Prime Minister Mohammed bin Abdulrahman Al Thani on Israeli Prime Minister Benjamin Netanyahu:\nNetanyahu stood up on the podium. He criticized the Mayor of New York. He criticized the influencers. He criticized the students. He criticized a lot of things in the United States. \nNow who\u2019s interfering and meddling with United States politics? Is it Qatar or Israel? \nSo I think that they are trying just to twist the facts to serve their interest, or to serve the interest of people they are paying.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T17:43:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf6 US forces exit Iraq by tomorrow after 20+ years, ending a presence where 4,500 Americans died. \nIran-backed groups call it \"a historic victory\" and \"a crushing defeat for the American project.\"\nIraqi security officials warn the withdrawal is premature. \nThe last US soldier killed in Iraq died in July during a drone detonation near Erbil. \nSeven of 18 US service members killed in this year's Iran war died in Iraq.\n\ud83d\udd17 [Clash Report](https://x.com/clashreport/status/2104889178349597113?s=20)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T16:31:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -547,13 +565,69 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Iran\u2019s Hidden Front Inside America\nAmerica built much of its power on open universities, global supply chains and networked infrastructure. Iran has learned how to use the gaps inside those same systems \u2014 from compromised university accounts and restricted technology to political targets and exposed industrial controls.\nWhat makes the campaign striking is how little it often takes: a stolen login, an intermediary company, a vulnerable controller, a recruited contact. Those small access points have opened doors to billions of dollars\u2019 worth of research, sensitive technology and even physical infrastructure inside the United States.\nWant to see how Iran turned US universities, supply chains and infrastructure into pressure points inside America? \n\ud83d\udc49[ Read the full article on our Substack](https://geopoliticsprime.substack.com/p/irans-hidden-front-inside-america)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T19:31:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25\ud83c\uddee\ud83c\uddf7 Trump steps up pressure on Iran, but high oil prices and resilience persist\nUS President Donald Trump missed an opportunity to steer the conflict with Iran toward de-escalation by rejecting Tehran\u2019s offer last week, Bloomberg reports, warning that the conflict could drag on as neither side appears willing to compromise.\nTrump is \u201cplaying hardball\u201d with \u201cgrowing confidence,\u201d according to the publication. US media have linked this to reports of rising oil flows through the Strait of Hormuz since early September, as well as a recent wave of US restrictions on Iran\u2019s aviation sector, now backed by Gulf states.\nBut November Brent crude futures were trading at $104.14 per barrel as of September 29, while WTI remained above $90. US naval escorts, and maneuvers involving satellite companies to conceal ships\u2019 movements through the strait are complex and costly, while the risks remain, experts say.\nTanker rates are also at record highs, keeping upward pressure on oil prices, according to OilPrice. When it comes to US air travel sanctions, many countries, including Russia, China, Malaysia, Armenia and Pakistan, are defying them.\nAdditionally, the US naval blockade line appears to have been pushed farther back from its initial position, beyond the range of Iran\u2019s anti-ship missiles, WANA reported on September 26. A day earlier, Iran completed the construction of the strategic Chabahar-Zahedan railway, which is expected to become operational within three months and improve the country\u2019s Eurasian land connectivity beyond US control.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T18:09:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddef\ud83c\uddf5\ud83d\ude80Japan tests new improved anti-ship missile \nThe weapon in question is an air-launched upgraded version of the Japanese Type 12 surface-to-ship missile.\nThe missile is estimated to be about 5.5\u20135.8 meters long and weighs approximately 900\u20131,100 kilograms, according to global open-source intelligence company Janes.\nWith an estimated range of about 1,000 kilometers, the new Type 12 version is comparable to the US-made Joint Air-to-Surface Standoff Missle-Extended Range (JASSM-ER)\nFlight tests apparently started around late July when a Mitsubishi F-2B fighter-bomber carrying two missiles was spotted by Japanese observers.\nSpeculation abounds that the new missile could allow Japanese military aircraft to strike at Chinese maritime assets while staying outside of the Chinese air defenses\u2019 coverage.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T15:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -650,44 +724,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Enemy aggression has turned Iran into world\u2019s top power: Khamenei\n\u201cToday, some consider us the world\u2019s fourth superpower\u2026[but] a country devoted to the pure progeny and unafraid to uphold the truth is, by divine calculations, the world\u2019s top power,\u201d the supreme leader said in a message dedicated to Holy Defense Week, an annual commemoration of the start of the 1980 - 1988 Iran-Iraq War.\nThe Revolution of 1979 brought Iran to a new level of its development, away from \u201ccolonialism\u201d and domination by outside forces, and toward \u201cprogress, dignity, independence and the highest level of prestige in the Islamic World and, indeed, throughout the world,\u201d Khamenei said.\nThanks to US-Israeli aggression, the Iranian \u201cphoenix\u201d rising from the ashes of the Iran-Iraq War has now \u201cgrown so large that the shadow of its flight has extended even over the lands of the enemy,\u201d the supreme leader added, emphasizing that Iran will never again allow itself to be dominated. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T07:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "US, Iran reopen backchannel talks as Hormuz remains key sticking point\nThe US and Iran have resumed indirect contacts through mediators, with officials from both sides holding separate discussions in afresh bid to end the war, Reuters reports.\nFurther talks are expected to center on an amended version of Iran\u2019s seven-day ceasefire proposal presented on the sidelines of the UN General Assembly, according to a cited official.\nEarlier, Foreign Minister Abbas Araghchi said Iran is [awaiting a formal response](https://t.me/SputnikInt/110646) to its ceasefire proposals from the US.\nIran calls for:\n\ud83d\udd34End to hostilities in Iran and Lebanon\n\ud83d\udd34Unfreezing of billions of dollars in Iranian assets\n\ud83d\udd34Allowing resumption of oil sales \n\ud83d\udd34End to the US blockade of Iranian ports\n\ud83d\udd34Reopening of the Strait of Hormuz within seven days \n\ud83d\udd34Renewed nuclear talks\nTrump said Saturday he had [rejected Iran\u2019s proposal](https://t.me/SputnikInt/110572), but later indicated that US negotiators would engage in further talks this week. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T05:21:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
