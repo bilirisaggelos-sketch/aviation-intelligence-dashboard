@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-09-29T02:00:42.629095+00:00",
+  "generated_at": "2026-09-29T08:35:44.334596+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nHuntsville, AL, Wednesday, September 30, 2026 through Thursday, October 1, 2026 Local\nFacility: ZME",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "09/29/2026",
+      "location": "ZME AL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Tuesday, September 29, 2026 Local\nFacility: ZAB",
@@ -250,6 +269,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3748\r\nIssue Time: 2026 Sep 29 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3747\nBegin Time: 2026 Sep 26 1535 UTC\nYesterday Maximum 2MeV Flux: 4128 pfu\nMax time: 2026 Sep 28 1440 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-29 05:02:02.247",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3747\r\nIssue Time: 2026 Sep 28 0500 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3746\nBegin Time: 2026 Sep 26 1535 UTC\nYesterday Maximum 2MeV Flux: 3060 pfu\nMax time: 2026 Sep 27 1720 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -314,25 +352,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-09-27 00:35:26.167",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3745\r\nIssue Time: 2026 Sep 26 1551 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 26 1535 UTC\nStation: GOES-19\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-26 15:51:34.970",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -498,32 +517,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nWe also have new data on the deployment of North Korean troops to Russia. There are currently more than 8,000 North Korean troops on Russian territory. \nIn addition, preparations are underway to deploy another 10,000 troops \u2013 they are being selected for training and subsequent deployment to Russia.\nIn return, Russia is paying, among other things, with technology: production of shahed-type attack drones has been established in North Korea with Russian technical support.",
+      "text": "A Jewish man was filmed trying to urinate on the wall of St. James Monastery in Jerusalem\u2019s Old City before a security guard stopped him.\nThe monastery has repeatedly been targeted by Jewish extremists who spit toward it, part of wider harassment of Christian clergy and churches in the Old City.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T19:17:56+00:00",
+      "timestamp": "2026-09-29T07:22:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Trump on Iran:\nI went to war to stop what could be one of the worst things that could ever happen to the world\u2014 to us, but to the world. \nIsrael would be wiped out right now. \nThere would be no Israel, there'd be no Middle East, and then the rockets and the bombs would start coming our way and Europe's way. \nAnd I stopped it.",
+      "text": "Marco Rubio on Greenland:\nUnder this agreement, which exists now in perpetuity, never will any adversary of the United States have the ability to invest there without our approval and their approval.\nWe will also have access to building new military facilities that will allow us to build the sort of missile defense shield that all of North America needs.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T19:10:16+00:00",
+      "timestamp": "2026-09-29T04:31:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -565,12 +583,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -622,13 +641,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -729,32 +747,33 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 IDF Spokesperson: A short while ago, an interceptor missile was launched at a suspected aerial target identified in an area where\u00a0 forces are present in southern Lebanon. Details are being verified.",
+      "publisher": "CASELS",
+      "text": "The commander of Hamas's Northern Gaza Brigade was killed in an Israeli strike in Gaza City overnight, according to Palestinian media and Israeli leaders.\nPrime Minister Benjamin Netanyahu and Defense Minister Israel Katz announce that Izz al-Din al-Bik was targeted and killed in the IDF strike, after the Northern Gaza Brigade commander was involved in advancing attacks against Israeli forces and recruiting new terrorists.\nAccording to Palestinian media, al-Bik was killed in a strike that hit an apartment in the al-Nasr neighborhood of Gaza City. \nThe IDF has not yet issued a comment.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T17:45:45+00:00",
+      "timestamp": "2026-09-29T05:32:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man"
+        "CASELS",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russia launched 165 drones at Ukraine overnight, including 79 jet-powered Shaheds, Ukraine\u2019s Air Force says. Air defenses downed or suppressed 112 Shahed, Gerbera and other UAVs. Impacts were recorded at 14 locations, with debris from intercepted drones falling at seven more.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian Iskander-Ms and Oniks-M missiles struck Kyiv earlier this evening during Russia\u2019s strikes on Ukraine. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T06:28:44+00:00",
+      "timestamp": "2026-09-29T03:09:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -768,12 +787,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones reportedly targeted an oil depot in the Novotitarovskaya area, in Russia\u2019s Krasnodar Krai region. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6Ukraine\u2019s capital Kyiv came under a Russian ballistic missile attack tonight. Up to 6 ballistic missiles targeted the city\u2019s right bank. \nThe Patriot air defense system was activated during the attack, successfully intercepting at least 2 missiles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T04:53:58+00:00",
+      "timestamp": "2026-09-29T03:09:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -787,114 +806,116 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddf9\ud83c\uddea\ud83c\uddf9 Images of the damaged Tigrai TV building in Mekelle, Tigray following an ENDF drone strike.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 The Yemeni Armed Forces spokesman says RSAF fighter jets carried out 38 airstrikes over the past 24 hours, targeting Taiz, Saada and Hajjah, bringing the total number of Saudi strikes since the escalation began to 1,123.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T04:53:53+00:00",
+      "timestamp": "2026-09-29T03:05:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "India goes all in on Deep Tech with $25B investment drive\nIndia is gearing up to make $25 billion available for Deep Tech, in a bid to turn its huge pool of talent into homegrown capabilities in AI, semiconductors, drones, advanced manufacturing and space, CNBC reports.\nThe push reflects a growing realization that dependence on foreign frontier technology can become a strategic vulnerability.\n\u27a1\ufe0f $11B has already been committed by the government through its Research Development Infrastructure Fund, with private capital expected to match it\n\u27a1\ufe0f Another $3B-4B could be added, bringing the potential investment pool to $25B\n\u27a1\ufe0f Indian Deep Tech startups raised nearly $3B in 2025 - a record for the sector\n\u00a0\nEmergent, Skyroot, and Sarvam have already crossed the $1B valuation mark, joining India's growing club of \"unicorn\" startups\u2014a clear signal pointing to a shift from prototypes toward commercialization. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T08:25:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6Footage of the moment a ballistic missile, previously reported as a drone, struck Koya, Iraqi Kurdistan. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "Israel says it killed Hamas commander in Gaza strike\nIzz al-Din al-Bik, the commander of the northern Gaza brigade of Hamas\u2019 armed wing, the Al-Qassam Brigades, was killed in an Israeli strike on a residential apartment in Gaza City\u2019s al-Nasr neighborhood.\nAl-Bik had taken command of the Qassam Brigades\u2019 northern unit during Israel\u2019s genocidal war on Gaza, succeeding Ahmed al-Ghandour.\n\ud83d\udd34 Al-Bik, also known as \u201cAbu Hamza,\u201d was reportedly killed alongside another person\n\ud83d\udd34 Attack also wounded several people, including children reportedly among the casualties\nPM Netanyahu and Defense Minister Katz announced the killing in a joint statement. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T04:53:44+00:00",
+      "timestamp": "2026-09-29T07:38:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Enemy aggression has turned Iran into world\u2019s top power: Khamenei\n\u201cToday, some consider us the world\u2019s fourth superpower\u2026[but] a country devoted to the pure progeny and unafraid to uphold the truth is, by divine calculations, the world\u2019s top power,\u201d the supreme leader said in a message dedicated to Holy Defense Week, an annual commemoration of the start of the 1980 - 1988 Iran-Iraq War.\nThe Revolution of 1979 brought Iran to a new level of its development, away from \u201ccolonialism\u201d and domination by outside forces, and toward \u201cprogress, dignity, independence and the highest level of prestige in the Islamic World and, indeed, throughout the world,\u201d Khamenei said.\nThanks to US-Israeli aggression, the Iranian \u201cphoenix\u201d rising from the ashes of the Iran-Iraq War has now \u201cgrown so large that the shadow of its flight has extended even over the lands of the enemy,\u201d the supreme leader added, emphasizing that Iran will never again allow itself to be dominated. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-29T07:03:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Iran / #Iraq \ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6: Iranian Forces (#IRGC) struck bases of Kurdish militant groups positions in the vicinity of #Erbil, Iraqi #Kurdistan.\nIRGC very likely used BM-250/300 (Fateh-110 2nd/3rd Gen) Short-Range Ballistic Missiles and/or \u201cShahed-136\u201d Kamikaze Drones.\nhttps://x.com/war_noir/status/2104355309829386751",
+      "publisher": "Geopolitics Prime",
+      "text": "US, Iran reopen backchannel talks as Hormuz remains key sticking point\nThe US and Iran have resumed indirect contacts through mediators, with officials from both sides holding separate discussions in afresh bid to end the war, Reuters reports.\nFurther talks are expected to center on an amended version of Iran\u2019s seven-day ceasefire proposal presented on the sidelines of the UN General Assembly, according to a cited official.\nEarlier, Foreign Minister Abbas Araghchi said Iran is [awaiting a formal response](https://t.me/SputnikInt/110646) to its ceasefire proposals from the US.\nIran calls for:\n\ud83d\udd34End to hostilities in Iran and Lebanon\n\ud83d\udd34Unfreezing of billions of dollars in Iranian assets\n\ud83d\udd34Allowing resumption of oil sales \n\ud83d\udd34End to the US blockade of Iranian ports\n\ud83d\udd34Reopening of the Strait of Hormuz within seven days \n\ud83d\udd34Renewed nuclear talks\nTrump said Saturday he had [rejected Iran\u2019s proposal](https://t.me/SputnikInt/110572), but later indicated that US negotiators would engage in further talks this week. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T04:52:32+00:00",
+      "timestamp": "2026-09-29T05:21:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "NOW: Explosions reportedly heard near Erbil, Iraq.\nInitial reports indicate that Iranian drones/missiles targeted a Kurdish Political Party\u2019s headquarters.\nContributed by:",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2708\ufe0f Iraq's Air Force now flies all missions independently \u2014 the post-US era has begun\nLt. Gen. Khalid al-Tamimi, Commander of the Iraqi Air Force, told the official Iraqi News Agency that Iraq now conducts all missions inside the country independently, without direct support from international coalition forces \u2014 and that Iraqi crews are maintaining the country's F-16 fleet themselves.\n\ud83d\udd34 Iraq is in advanced negotiations to purchase 14 French Rafale fighter aircraft\n\ud83d\udd34 Efforts are underway to manufacture drones domestically\n\ud83d\udd34 A proposal is on the table to establish a dedicated command for unmanned aircraft\nThis comes as all US combat troops and logistical support leave Iraq, completing the withdrawal that formally ends the international military campaign against ISIS after more than a decade. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T04:52:13+00:00",
+      "timestamp": "2026-09-29T03:56:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Iranian forces reportedly targeted alleged Kurdish militant sites near Erbil in Iraqi Kurdistan using drones and missiles.\nVideos online showed impacts in Koya, we were not able to independently confirm what was hit in those videos.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T04:51:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Air traffic seems to have resumed after half an hour of suspension, departures and arrivals are continuing now. https://x.com/FaytuksNetwork/status/2104334358211416368/photo/1\nFaytuks Network (\nSeveral flights bound to Riyadh International Airport are taking a holding pattern, it is currently unknown why, to be updated as soon as more information comes in.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T04:51:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -926,44 +947,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-28T22:45:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83d\udd2f Ben-Gvir says Israelis can \u2018rejoice\u2019 over \u2018many things\u2019 which have happened since October 7\n\u00a0\n\ud83d\udcac\u201cOctober 7 was massive and enormous pain, great pain. But today, three years later, on the holiday of Sukkot, a holiday of joy, we can rejoice in many things that have happened since then,\u201d Netanyahu\u2019s security minister said during a visit to the grounds of the al-Aqsa Mosque compound, known by Israelis as the Temple Mount.\nAccording to Ben-Gvir, Hamas \"failed\" to defeat Israel, which is now the \u201cmaster\u201d of Temple Mount and the prisons, and has \u201cturned the lives of the terrorists into hell.\u201d\n\ud83d\udd34Three years on, the nation of Israel is on a path to total victory,\u201d he added.\ud83d\udd34\nShortly after the October 7, 2023 Hamas incursion into southern Israel, the conflict evolved into Israel\u2019s systematic destruction of Gaza, and the opening of new \u2018fronts\u2019 in Lebanon, Syria, Yemen, Iraq, the West Bank, Qatar, the US (the \u2018information front\u2019) [and finally, Iran](https://t.me/geopolitics_prime/57403).\nIsrael didn\u2019t emerge unscathed from these wars, with tens of thousands of Israelis internally displaced, the economy shedding hundreds of billions of dollars, the national debt reaching ~70% of GDP, and emigration hitting its highest levels on record. Iran demonstrated an ability to target Israel\u2019s most sensitive and heavily defended strategic military, research and economic facilities.\nNevertheless, Netanyahu\u2019s cabinet allies continue to demand a war to a [triumphant conclusion](https://t.me/geopolitics_prime/75267).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T18:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25\u2694\ufe0f New strikes in Kiev renew questions over Ukraine\u2019s gaps in air defense\nKiev\u2019s air defenses were questioned by Ukrainian MP Oleksiy Goncharenko after a drone struck the National Academy of Sciences of Ukraine in the city center.\nHe cited shortages of Patriot missiles and criticized the failure to intercept what he described as an ordinary Shahed-type drone, arguing that Kiev should focus on air defense rather than retaliatory strikes. He also claimed that the skies over the capital are effectively under Russian control and warned that the situation raises concerns ahead of winter.\nMayor Vitali Klitschko also reported a hit on a seven-story administrative building, while the Dobrobut medical center was damaged and caught fire.\nWhat was hit in Kiev:\n\ud83c\udf0f A building near Ukraine\u2019s Constitutional Court\n\ud83c\udf0f A seven-story administrative building \n\ud83c\udf0f The Dobrobut medical center, which was heavily damaged and caught fire\nSeparately, authorities in Brovary in the Kiev region reported elevated ammonia levels near a warehouse hit in a strike and advised residents to keep windows closed and limit time outdoors.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-28T16:00:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
