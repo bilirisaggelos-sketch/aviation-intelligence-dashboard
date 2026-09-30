@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T02:27:56.997764+00:00",
+  "generated_at": "2026-09-30T08:57:12.298653+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,6 +230,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTTP4\r",
+      "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 718\r\nIssue Time: 2026 Sep 30 0339 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 30 0256 UTC\nComment: Observed by PAL",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-30 03:39:25.207",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1529\r\nIssue Time: 2026 Sep 30 0338 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Sep 30 0252 UTC\nEstimate Velocity: 523 km/s\nComment: observed by PAL",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-30 03:38:29.203",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1127\r\nIssue Time: 2026 Sep 29 1301 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 30: None (Below G1) Oct 01: None (Below G1) Oct 02: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: 28 Sep CME inbound\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -287,97 +325,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3746\r\nIssue Time: 2026 Sep 27 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3745\nBegin Time: 2026 Sep 26 1535 UTC\nYesterday Maximum 2MeV Flux: 1260 pfu\nMax time: 2026 Sep 26 1645 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-27 05:02:04.940",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2688\r\nIssue Time: 2026 Sep 27 0040 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Sep 27 0040 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-27 00:40:33.327",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Israeli Prime Minister Benjamin Netanyahu has summoned opposition leader Yair Lapid to a security briefing tonight\nA limited security cabinet meeting will also take place, reportedly to discuss \u2018developments involving Iran\u2019.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T15:54:21+00:00",
+      "title": "Israel-bound flight diverted after fight between pilots",
+      "text": "Israel-bound flight diverted after fight between pilots\nDespite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-30T08:54:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Netanyahu shared new Israeli intelligence with MBZ showing Iran is resuming nuclear progress, including new construction at the Pickaxe mountain site ~140 miles south of Tehran. \nHe also told the meeting Israel assesses Iran could initiate an attack \"in the coming weeks.\"\nCNN confirms a senior Saudi security official attended the expanded meeting, which also covered Houthis, Bab al-Mandeb, and the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T02:15:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Iran's IRGC and Basij are training women in paramilitary roles under the Janfada mobilization campaign. \nWomen make up ~32% of participants. \nTraining covers rifles, FPV drones, anti-tank weapons, urban warfare, and first aid. \nAll-women Basij rapid-response battalions have been formed in Tehran. \nThe campaign aims to create 1,000 \"Popular National Resistance Battalions.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T02:01:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -403,6 +365,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russia has shifted to massive strikes on energy infrastructure\n\u2014 Ukrainian Prime Minister Koretsky.\nKiev and the region were under a massive ballistic attack.\nPreliminarily, four energy infrastructure facilities were hit. Power supply problems are being recorded.\nEarlier, due to the strikes, power outages were recorded in Kiev, Donetsk, Dnepropetrovsk, Kharkov, and Sumy regions\n\u2014 Ukrenergo.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T08:52:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddf8\ud83c\udde6\ud83c\uddf6\ud83c\udde6\ud83c\uddf4\ud83c\uddf2\ud83c\udde6\ud83c\uddea Oil exports from Middle Eastern countries have reached their peak since the start of the war in Iran.\nThanks to shipments through the Strait of Hormuz, supply volumes have increased to more than 80% of the average daily volume that existed before the war began. The key factor here is adaptation to current conditions: supply volumes are still limited compared to normal levels, but the corridor is functioning well enough to ensure the transportation of a significant portion of the region's crude oil exports.\nFor the market, this means a partial normalization of physical trade flows through the Persian Gulf and reduces the immediate risk of serious disruptions to exports from one of the world's most important oil transportation hubs. If supply volumes exceed 80% of the pre-war level, then the scenario of the most severe supply shortage becomes less likely, even if logistics remain more complex and vulnerable than before.\nThe signal is clear: the situation in Hormuz has not yet returned to normal, but the market is being reminded that oil export systems in the Persian Gulf can restore significant volumes faster than the most pessimistic forecasts suggest.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T08:43:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 Nonstop Russian attack towards Ukrainian capital Kiev by using ballistic missiles and drones \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -412,13 +412,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -432,45 +431,6 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 U.S. Media: \nThe Kingdom of Saudi Arabia is repositioning Patriot missile batteries around bridges, military bases, and desalination plants after sources linked to the Ansarllah threatened to escalate the conflict and target Saudi Arabia's critical infrastructure. \n\ufeff\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T20:16:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian Geran-4/5 drones are reportedly striking Kiev currently.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T18:46:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
@@ -481,32 +441,69 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 Reporter:\nDo you think he's a war criminal, Benjamin Netanyahu?\nQatari Prime Minister Mohammed bin Abdulrahman Al Thani:\nWell, of course what's been committed in Gaza is war crimes, and whoever is responsible for this is a war criminal.",
+      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea The two pilots had not been fighting over political or social reasons, apparently, one of the pilots was suicidal and tried to crash the plane, the other pilot prevented his suicide attempt and disarmed him.\nThat is to say, the security checks to make sure no one sympathizes with Hamas or the Arab conflicts made the security organs of the UAE and Israel (And yes, considering the sensitivity of direct flights between Israel and countries in the region, the passengers, pilots and hostesses are always checked) completely forget the possibility that they might have had a maniac.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T21:58:31+00:00",
+      "timestamp": "2026-09-30T07:35:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "The commander of Hamas's Northern Gaza Brigade was killed in an Israeli strike in Gaza City overnight, according to Palestinian media and Israeli leaders.\nPrime Minister Benjamin Netanyahu and Defense Minister Israel Katz announce that Izz al-Din al-Bik was targeted and killed in the IDF strike, after the Northern Gaza Brigade commander was involved in advancing attacks against Israeli forces and recruiting new terrorists.\nAccording to Palestinian media, al-Bik was killed in a strike that hit an apartment in the al-Nasr neighborhood of Gaza City. \nThe IDF has not yet issued a comment.",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 The aircraft didn't make any contact with Israeli or Jordanian air traffic controllers, according to Channel 12.\nThe plane is not visible on FlightRadar, not sure what wound up happening.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T05:32:53+00:00",
+      "timestamp": "2026-09-30T06:39:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea It is *highly* unlikely that the IDF would immediately resort to shooting down the plane as well, a flight from Dubai to Tel Aviv implies that the passengers are mostly Israelis, and shooting down the plane would not be their first option.\nIf the hijackers do not have access to the cockpit, the pilots will simply land at a nearby airport, and then they will be dealt with.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T06:27:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 [Asharq Al-Awsat](https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5323752-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%BA%D8%AA%D8%A7%D9%84-%D9%82%D8%A7%D8%A6%D8%AF%D8%A7%D9%8B-%D9%83%D8%A8%D9%8A%D8%B1%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B9%D9%86%D8%B5%D8%B1%D8%A7%D9%8B-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%8B-%D9%85%D9%86): The Israeli military has carried out two major strikes in Gaza, assassinating Izz al\u2011Din al\u2011Bayk, commander of the Northern Brigade in Hamas\u2019s Al\u2011Qassam Brigades, and critically wounding Musab al\u2011Balbisi, a prominent leader in Islamic Jihad\u2019s Saraya al\u2011Quds.\nAl\u2011Bayk, 48, known as \u201cAshmawi\u201d, was from Jabalia camp and had survived previous assassination attempts. \nAl\u2011Balbisi was targeted while walking in the al\u2011Fakhoura area of Jabalia camp and suffered critical injuries, including the amputation of both feet. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T06:08:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -520,12 +517,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian Iskander-Ms and Oniks-M missiles struck Kyiv earlier this evening during Russia\u2019s strikes on Ukraine. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Syrian authorities have arrested an alleged three-member Hezbollah cell near the Golan Heights, accusing it of planning attacks. \nThe interior security forces said the cell was preparing rocket launch platforms in the Yarmouk Basin in Daraa province.\nThe statement said the operation was pre-emptive and carried out by the General Intelligence Directorate in cooperation with internal security forces\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T03:09:18+00:00",
+      "timestamp": "2026-09-30T06:08:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -539,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6Ukraine\u2019s capital Kyiv came under a Russian ballistic missile attack tonight. Up to 6 ballistic missiles targeted the city\u2019s right bank. \nThe Patriot air defense system was activated during the attack, successfully intercepting at least 2 missiles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-29/russia-s-oil-export-windfall-eroded-by-ban-on-diesel-shipments): Russia overseas crude flows rose to 3.71 million barrels a day in the four weeks through September 27, the most in a month and a half, pushing the weekly value of exports to $2.75 billion, the highest since the full-scale invasion of Ukraine in 2022.\nThe gains are being partially offset by a ban on overseas diesel sales, expected to be extended through October, as Ukrainian drone strikes continue knocking out Russian refineries, forcing Moscow to divert unprocessed crude into export flows and cut its refined products forecast by about 500,000 barrels a day.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T03:09:04+00:00",
+      "timestamp": "2026-09-30T03:27:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -558,12 +555,107 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 The Yemeni Armed Forces spokesman says RSAF fighter jets carried out 38 airstrikes over the past 24 hours, targeting Taiz, Saada and Hajjah, bringing the total number of Saudi strikes since the escalation began to 1,123.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Reports that clashes have broken out in the city of Iranshahr, in Iran\u2019s Sistan and Baluchestan province, between military forces and armed individuals. \nLocal reports say intense gunfire and RPG fire have been heard for several hours in the Ghareeb Abad area.\nDozens of military vehicles and a tank have been deployed, and drones are being used. All roads leading to the area have been blocked. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T03:05:02+00:00",
+      "timestamp": "2026-09-30T03:25:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8 The Colombian Army captured alias \"\u00d1ato\" or \"Cachaco\" in Turbo, accused of belonging to the Roberto Vargas Guti\u00e9rrez structure of the Clan del Golfo with support from U.S. drones.\nHe is being accused of coordinating cocaine shipments to Central and North America.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T03:24:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 An IDF drone struck an individual in the Halawa Camp in Jabalia, northern Gaza, a short while ago.\nThe target, identified by local reports as Ahmad Akram Hamouda, was killed in the strike.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T03:23:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Hamas\u2019s Al-Qassam Brigades is mourning Izz al-Din Abdul Aziz Bik, confirming that he served as commander of its Northern Gaza Brigade and as a member of its General Military Council.\nHamas says Bik was among the commanders who oversaw the October 7 attack and had previously served as the brigade\u2019s military intelligence chief before succeeding Ahmed Ghandour (killed in November 2023) as brigade commander.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T03:22:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 An IDF drone struck and killed Musab al-Balbisi in the Jabalia refugee camp, northern Gaza, a short while ago.\nThe IDF is expected to release further details about him later as usual.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T03:22:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 \u2060[Il Foglio](https://www.ilfoglio.it/en/world/2026/09/29/news/netanyahu-vance-guilfoyle-the-network-haftar-wants-to-forge--409017): Saddam Haftar is seeking to build a network of political ties in Washington and Israel as he attempts to strengthen his position as a potential leader of a unified Libya.\nThe paper reports that Haftar secretly met Israeli Prime Minister Benjamin Netanyahu in Abu Dhabi on Monday, citing flight-tracking data and former Haftar adviser Mohamed Buisier, who said the meeting was intended to secure Israeli political support for Saddam Haftar\u2019s bid for the Libyan presidency. \u00a0\nIl Foglio also reports that Haftar is seeking a meeting with US Vice President JD Vance and is attempting to establish contacts with US Ambassador to Greece Kimberly Guilfoyle, while Ballard Partners is lobbying on his behalf in Washington.\nThe reported outreach comes as Haftar faces allegations over his involvement in a Libyan \u201cterrorist cell\u201d accused of attacks in western Libya. Libyan Prime Minister Abdulhamid Dabaiba has publicly accused Saddam Haftar of being behind the cell, while the allegations remain contested. \u00a0\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T03:21:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -577,32 +669,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russia pounds Kiev with ballistic missiles and drones\nFires have broken out across several districts of the Ukrainian capital as Russia launched another mass strike on Kiev and the surrounding region.\nLocal groups counted roughly two dozen Russian ballistic missiles and jet-powered drones used against Kiev and the region, suggesting storage sites and energy facilities were targeted, resulting in blackouts.\nMonitoring sources say Russia has increased the number of ballistic launch sites \u2014 meaning more missiles launched simultaneously.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udc69\ud83c\udffb\u200d\ud83e\uddb1\ud83c\uddee\ud83c\uddf7Iran\u2019s women step up as a new force in the resistance\nWomen are taking up a prominent role in [Iran\u2019s Janfadaa mobilization campaign.](https://t.me/geopolitics_prime/75049?single)\n\ud83d\udd34 around 32% of participants are female\n\ud83d\udd34 training includes rifles, FPV drones and anti-tank weapons\n\ud83d\udd34women are taught basics of urban warfare and battlefield first aid\n\ud83d\udd34 all-women Basij rapid-response units have been formed in Tehran\n\ud83d\udd34 campaign aims to establish 1,000 Popular National Resistance Battalions\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T00:50:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcddHow to upset South Koreans?\ud83d\udcdd\nJust stage a circus at the UN General Assembly\nThis conflict between the Kyiv regime and South Korean authorities definitely wasn't in anyone's forecasts for this year. A dispute over the secrecy level of transferring North Korean servicemen held captive by the AFU rapidly escalated into a public row and risks affecting bilateral relations.\nIn Seoul [they claim](https://t.me/rybar_pacific/3323) that Zelensky, by publicly announcing at the UN the transfer of prisoners to South Korea, violated an agreement that implied confidentiality of such an \"operation.\" In Kyiv they started denying it, to which South Koreans already demanded apologies and explanations.\nMoreover, President Lee Jae-myung's administration threatened \"additional measures\" if necessary. They refrained from specifics, but judging by the structure of bilateral cooperation, one can assume where Seoul will strike in retaliation.\n\ud83d\udd3bHow did South Koreans help so-called Ukraine?\n\u25aa\ufe0fSince 2022, Seoul most often sent the Kyiv regime humanitarian aid \u2014 essential goods, generators, medical equipment and so on. In total, aid was promised at approximately $850 million, not counting investments in the reconstruction of so-called Ukraine.\n\u25aa\ufe0fThis also includes non-lethal assistance in the form of sending helmets, body armor, first aid kits to the AFU. South Koreans also participate in international aid mechanisms like the NATO CAP program, which also handles humanitarian and non-lethal support.\n\u25aa\ufe0fWith military aid things are much more interesting. South Korean weapons never went directly to so-called Ukraine \u2014 legislation prohibits sending them to hot spots, and there was no corresponding political will in Seoul.\n\u25aa\ufe0fTherefore, military support came only through indirect channels. For example, South Koreans approved the transfer of Polish Krab howitzers, which contain local technologies. Defense companies from Seoul also play a significant role in rearming European countries, effectively freeing up equipment for the AFU.\n\u25aa\ufe0fSo far the largest package of South Korean aid falls on artillery shells. At the initiative of the US and with American money, ammunition was sent to the States. Replenishing stockpiles made it possible to free up shells for the AFU.\n\ud83d\udd8dBut the most interesting thing lies in what projects South Koreans wanted to participate in. For example, there's talk of the PURL initiative for purchasing weapons for the AFU \u2014 Seoul [considered](https://t.me/rybar_pacific/1759) joining it. Or about transferring air defense missiles, which are critically lacking in so-called Ukraine \u2014 public discussion about this was also actively [underway](https://t.me/rybar_pacific/3045).\n\ud83d\udea9It turns out that in Kiev, for the sake of an ineffective PR campaign, they significantly reduced the likelihood that South Koreans would join major initiatives. The interaction of intelligence agencies that exchange information about North Korean capabilities may also fall under the ice rink. \n\u2757\ufe0fThe consequences of a public altercation can really affect bilateral ties, as it is the actions of the Kiev regime that have become a source of problems for the current administration. Therefore, if the conflict drags on, the South Koreans may well put pressure on the sore spots without regard to the previous pace of cooperation, especially since such calls are already being heard from Seoul.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T23:58:58+00:00",
+      "timestamp": "2026-09-30T08:26:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -616,12 +688,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Yemeni forces shoot down Saudi ScanEagle drone in Saada\nBrigadier General Alamed Alaezy of the Yemeni Armed Forces announced the destruction of a Boeing-manufactured ScanEagle reconnaissance and surveillance drone belonging to the Saudi army, downed in the airspace of Saada province.\n\ud83c\udf0f The drone is valued at $3 million\n\ud83c\udf0f Saada is a Houthi stronghold in northern Yemen, near the Saudi border\n\ud83c\udf0f The shootdown adds to the growing toll of Saudi air assets lost over Yemen\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8 Flydubai plane with 180 aboard sparks security alert in Saudi airspace\nThe plane en route from UAE to Israel first squawked code 7700, indicating an emergency, then code 7500, used to signal a hijacking, Israeli media reports say. \n\ud83d\udd34 Netanyahu and Katz are holding security consultations over the plane incident\n\ud83d\udd34 The aircraft is currently in Saudi Arabian airspace.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T23:08:58+00:00",
+      "timestamp": "2026-09-30T06:56:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -635,12 +707,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "Iran\u2019s Hidden Front Inside America\nAmerica built much of its power on open universities, global supply chains and networked infrastructure. Iran has learned how to use the gaps inside those same systems \u2014 from compromised university accounts and restricted technology to political targets and exposed industrial controls.\nWhat makes the campaign striking is how little it often takes: a stolen login, an intermediary company, a vulnerable controller, a recruited contact. Those small access points have opened doors to billions of dollars\u2019 worth of research, sensitive technology and even physical infrastructure inside the United States.\nWant to see how Iran turned US universities, supply chains and infrastructure into pressure points inside America? \n\ud83d\udc49[ Read the full article on our Substack](https://geopoliticsprime.substack.com/p/irans-hidden-front-inside-america)",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran urges Americans to 'wrest control back from corrupt politicians'\nAs US forces were about to withdraw from remaining bases in Iraq, Iran\u2019s IRGC took its war message straight to the American public.\n\ud83d\udc49 Ahead of the looming midterm elections in the US, it argues in an open letter that months of war have failed to deliver the victory Trump repeatedly promised.\n\u201cWake up\u201d and \u201cwrest control back from corrupt politicians,\u201d the letter published by Iranian media urges.\n\ud83d\udcac \"Although American politicians often win your votes through deception and false promises, as Trump did, you can change the makeup of the government,\u201d it says.\nThe IRGC argues that the US didn\u2019t achieve any of its declared objectives:\n\ud83d\udd34 Iran\u2019s nuclear program was not eliminated, despite thousands of bombs and missiles being used against the country\n\ud83d\udd34 The Strait of Hormuz remains under its control\n\ud83d\udd34 war has driven up fuel costs, adding pressure to Americans already struggling with inflation\nThat argument comes as a September Reuters/Ipsos poll found just 34% of Americans approved of the strikes on Iran, while only 17% approved of Trump's handling of the cost of living.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T19:31:01+00:00",
+      "timestamp": "2026-09-30T05:22:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -654,50 +726,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\ud83c\uddee\ud83c\uddf7 Trump steps up pressure on Iran, but high oil prices and resilience persist\nUS President Donald Trump missed an opportunity to steer the conflict with Iran toward de-escalation by rejecting Tehran\u2019s offer last week, Bloomberg reports, warning that the conflict could drag on as neither side appears willing to compromise.\nTrump is \u201cplaying hardball\u201d with \u201cgrowing confidence,\u201d according to the publication. US media have linked this to reports of rising oil flows through the Strait of Hormuz since early September, as well as a recent wave of US restrictions on Iran\u2019s aviation sector, now backed by Gulf states.\nBut November Brent crude futures were trading at $104.14 per barrel as of September 29, while WTI remained above $90. US naval escorts, and maneuvers involving satellite companies to conceal ships\u2019 movements through the strait are complex and costly, while the risks remain, experts say.\nTanker rates are also at record highs, keeping upward pressure on oil prices, according to OilPrice. When it comes to US air travel sanctions, many countries, including Russia, China, Malaysia, Armenia and Pakistan, are defying them.\nAdditionally, the US naval blockade line appears to have been pushed farther back from its initial position, beyond the range of Iran\u2019s anti-ship missiles, WANA reported on September 26. A day earlier, Iran completed the construction of the strategic Chabahar-Zahedan railway, which is expected to become operational within three months and improve the country\u2019s Eurasian land connectivity beyond US control.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf1Israeli defense minister threatens Hamas amid reports that Netanyahu ignored pre-October 7 warnings\nIsrael Katz has claimed in a video statement that Hamas leaders abroad who were involved in the October 7, 2023, attack would be hunted down.\n\u201cNone of these despicable murderers, who played a central role in the October 7 massacre, may be allowed to die peacefully,\u201d he said.\nKatz\u2019s statement came on the heels of a report that Izz al-Din al-Bik, a commander in Hamas\u2019s Northern Gaza Brigade, was killed in an overnight [Israeli airstrike in Gaza City](https://t.me/geopolitics_prime/75345?single).\nThe minister\u2019s video address also comes as reports emerge that Prime Minister Benjamin Netanyahu [ignored warnings](https://t.me/geopolitics_prime/75322) from Arab officials of an imminent threat from Gaza in the days leading up to Hamas\u2019s October 7, 2023, attack. One such warning was delivered by United Arab Emirates President Mohamed bin Zayed Al Nahyan, according to The Washington Post.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T18:09:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddef\ud83c\uddf5\ud83d\ude80Japan tests new improved anti-ship missile \nThe weapon in question is an air-launched upgraded version of the Japanese Type 12 surface-to-ship missile.\nThe missile is estimated to be about 5.5\u20135.8 meters long and weighs approximately 900\u20131,100 kilograms, according to global open-source intelligence company Janes.\nWith an estimated range of about 1,000 kilometers, the new Type 12 version is comparable to the US-made Joint Air-to-Surface Standoff Missle-Extended Range (JASSM-ER)\nFlight tests apparently started around late July when a Mitsubishi F-2B fighter-bomber carrying two missiles was spotted by Japanese observers.\nSpeculation abounds that the new missile could allow Japanese military aircraft to strike at Chinese maritime assets while staying outside of the Chinese air defenses\u2019 coverage.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T15:26:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8US travel restrictions may backfire as Iran sits at key air crossroads\nIran\u2019s Gulf neighbors have suspended air links with the country following the entry into force of Washington\u2019s sanctions on September 23.\nThe move doesn't mean Iran is isolated, however.\nTehran\u2019s Imam Khomeini International Airport reportedly continues to serve more than 30 international destinations. As of September 27, a total of 41 flights had taken off from or landed at the airport, according to Flightradar24. \nRussia, Belarus, Armenia, Turkey, Malaysia, China, Pakistan, Vietnam and Afghanistan have maintained their air links with Iran. Iranians have also been using Istanbul, Islamabad, Kabul, Beijing, Dushanbe, Yerevan and Moscow as transit points before continuing to their final destinations.\nIraq's dilemma\nDespite Baghdad\u2019s sanctions on Iran\u2019s aviation sector, Iraqi Airways resumed flights between the central Iraqi province of Najaf and Iranian airports on September 28. A day earlier, the Iraqi government said it was in talks with Washington to seek an exemption from sanctions \u201cfor humanitarian reasons,\u201d following a backlash from Shia pilgrims. Najaf is home to the shrine of Imam Ali, while Iran\u2019s Mashhad and Qom are also important pilgrimage sites for Shia Muslims.\nIran's vague warning\nThe Islamic Republic has made clear that it would not pursue military measures against Gulf countries imposing air bans on Iranian flights, stressing that it has \u201cnumerous non-military options\u201d at its disposal. Iran lies along busy Europe-Asia air corridors and could restrict unfriendly countries from using its airspace, experts say. Mohammad Mokhber, a senior adviser to Iran\u2019s supreme leader, said on September 25: \u201cEither air travel in the region is available to everyone or to no one.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T14:37:01+00:00",
+      "timestamp": "2026-09-30T04:39:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
