@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:51:22.887622+00:00",
+  "generated_at": "2026-09-30T20:42:49.978799+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -325,6 +325,45 @@
       "verified_source_count": 1
     },
     {
+      "title": "What we know about stabbing on Flydubai flight to Israel",
+      "text": "What we know about stabbing on Flydubai flight to Israel\nThe captain and first officer were injured, and one pilot has been arrested, officials say.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-09-30T17:51:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 NEW: Sirens sounded at Muwaffaq Salti Airbase, Jordan, about an hour ago\nThe cause is unknown; no launches of Iranian missiles took place.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T18:47:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 UPDATE: The ballistic missile launches from Iran were either a test, or targeting the American blockade fleet in the Indian Ocean",
@@ -336,13 +375,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -375,13 +413,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -405,40 +442,22 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NATO's Rutte:\nWhy are the Americans doing it, taking out Iranian nuclear capability? Because we can\u2019t. But in the future, we have to make sure that, as Europeans, we can do this ourselves.\nIt is a bit strange that, to protect ourselves here in Europe from 140 million Russians, 600 million people living in NATO territory in Europe need a country six to eight hours\u2019 flight from here, with 340 million people, to defend us against the Russians.\nWe should be able to do that ourselves. That\u2019s exactly what we are working on.",
+      "text": "Flydubai suspends flights to Israel \u201cwhile the investigation is ongoing.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T15:00:19+00:00",
+      "timestamp": "2026-09-30T20:05:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "BBC World News",
         "Clash Report"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine Turns to F-16 Cannons As Russian Jet Drones Breach Defenses\nKyiv is seeking tens of thousands of 20mm cannon rounds for its F-16 fighters as Russian jet-powered drones inflict mounting damage and expose gaps in the country\u2019s air defenses.\n[READ MORE](https://clashreport.com/world/articles/ukraine-turns-to-f-16-cannons-as-russian-jet-drones-breach-defenses-hwa6jqwmlha)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T14:03:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -500,12 +519,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6Yemeni Ansarllah Struck Abqaiq Oil Facility at Saudi Arabia with missile barrage \n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe \u2014 Additional footage of the explosion that occurred at a thermal power plant near Damascus International Airport in the Syrian capital, Damascus.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T15:40:05+00:00",
+      "timestamp": "2026-09-30T18:54:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -519,12 +538,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddea\ud83c\uddfa \u2014 Iraqi Islamic Resistance:\nWe have been engaged in negotiations with the government for around 40 days, through the Coordination Framework, regarding the regulation of our weapons.\nThe negotiations over regulating weapons are linked to achieving full sovereignty and the withdrawal of U.S. and NATO forces.\nWe have not yet received a response from the government, despite the agreement being signed by the Quadrilateral Committee and the resistance factions.\nWe are not bound by any timeline or agreement that any government or political party has announced or may announce.\nThe resistance\u2019s weapons will remain in the hands of our fighters and will be directed against any party that targets Iraq and its people.\nWe reserve the right to respond directly to any U.S. or Israeli violation or breach of Iraq\u2019s sovereignty.\nOur doors remain open to any dialogue that guarantees Iraq\u2019s sovereignty.\n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe \u2014 An explosion occurred on the gas pipeline supplying the Tishreen Thermal Power Plant in the Haran Al-Awamid area, near Damascus International Airport in the Syrian capital, Damascus.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T15:31:24+00:00",
+      "timestamp": "2026-09-30T18:37:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,51 +557,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8Most likely Anti Ship missile\n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e\ud83c\uddee\ud83c\uddf6 \u2014 A drone attack targeted the Azadi Camp, belonging to the Iranian Kurdish opposition Kurdistan Democratic Party of Iran (KDPI), in Erbil Governorate, northern Iraq.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T15:19:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8Innitial Reports of missile launched from Iran\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T15:17:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddee\ud83c\uddf1\ud83c\udde6\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Netanyahu warns UAE president Iran could launch regional attack within weeks\nIsraeli Prime Minister Benjamin Netanyahu showed UAE President Mohammed bin Zayed new Israeli intelligence indicating Iran is resuming progress on its nuclear program, including new construction at the Pickaxe Mountain site, CNN reports.\nA senior Saudi security official also attended the meeting. Netanyahu warned that Iran could launch a regional attack within \u201cweeks.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T13:36:00+00:00",
+      "timestamp": "2026-09-30T18:10:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -596,22 +576,21 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6 Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers from FlyDubai flight that made emergency landing in Saudi -Security sources",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 According to Walla, Israeli Prime Minister Benjamin Netanyahu is expected to hold a phone call with U.S. President Donald Trump in the coming hour.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T14:50:41+00:00",
+      "timestamp": "2026-09-30T17:45:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -787,12 +766,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\ud83c\uddfa\ud83c\uddf8US ends Iraq mission & relocates operations to Jordan\nAfter close to two decades of Iraq intervention, US military forces and equipment have shifted headquarters.\nCENTCOM confirmed the relocation of the Combined Joint Task Force\u2013Operation Inherent Resolve (CJTF-OIR) to Jordan following the formal end of the coalition\u2019s military mission in Iraq on September 30, when the last American and partner forces left Erbil Air Base.\nAdmiral Brad Cooper, CENTCOM's commander, praised Iraqi forces for now \"having the capacity to manage their own security.\" \nThe relocation is more a change of address rather than a conclusion:\n\ud83d\udd34 same Combined Joint Task Force remains operational, only now based in Jordan \n\ud83d\udd34 counter-ISIS operations continue in Syria with coalition partners and the Syrian government \n\ud83d\udd34 new \u201cbilateral defense relationship\u201d with Iraq keeps the door open for future involvement \n\ud83d\udd34 regional US and coalition forces stay on standby, \u201cready to respond\u201d to threats that arise\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddea\ud83c\uddf9\u2694\ufe0f Rebels push deeper into Ethiopia as government seeks urgent reinforcements\nThe Ethiopian government plans to withdraw more than 3,000 troops from Somalia and redeploy them to counter a growing rebellion at home, Bloomberg reports.\nEthiopian Prime Minister Abiy Ahmed is facing a coalition of seven armed and political groups, including the Tigray People\u2019s Liberation Front (TPLF), the Amhara Fano militia and the Oromo Liberation Army (OLA), which have formed the Alliance for Survival to oust the federal government. The rebels launched a major [offensive on September 23](https://t.me/geopolitics_prime/75072).\nOn September 28, Ethiopian federal forces seized Alamata, a town in the Tigray Region, and moved closer to the Tigrayan capital of Mekelle, held by rebels. While social media accounts have circulated videos purportedly showing weapons abandoned by the TPLF and its allies, the conflict appears to be only ramping up.\nThe same day, reports emerged that TPLF forces had seized Erebti and were advancing toward Afdera, as fighting spread beyond Tigray and Amhara into Afar. The rebels seek to oust the incumbent government, establish an inclusive transitional administration and pursue constitutional reform.\nThe Ethiopian government accuses Eritrea and Sudan of backing the rebels, charges both countries firmly deny. Sudan, in turn, accuses Ethiopia of supporting [the RSF](https://t.me/geopolitics_prime/64367), which has been fighting the Sudanese government [since April 2023](https://t.me/geopolitics_prime/55349).\nRelations between Ethiopia and Eritrea have also soured, with PM Abiy Ahmed repeatedly hinting at plans to gain access to Red Sea coastline under Eritrean control by force.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T12:05:12+00:00",
+      "timestamp": "2026-09-30T20:14:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -806,32 +785,88 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\u2708\ufe0f What to know about the Flydubai hijack attempt drama\nIt remains unclear whether the pilot who carried out the onboard stabbing intended to divert the FlyDubai aircraft to Israel, deliberately crash it, or stage a 9/11-style attack, the Jerusalem Post cites Israeli sources as saying. What is certain, they claim, is that he attempted to hijack the plane.\nAuthorities describe the incident as a major disaster that was only narrowly avoided.\nAccording to the latest account:\n\ud83d\udd34pilots of the Flydubai plane are Omani and Emirati nationals, respectively; incident may have been caused by the Omani pilot (Israel\u2019s Channel 14)\n\ud83d\udd34 one pilot stabbed the other, triggering a physical struggle in the cockpit\n\ud83d\udd34 attacker then allegedly attempted to seize control of the aircraft\n\ud83d\udd34 during the struggle, the aircraft plunged roughly 4,000 meters \n\ud83d\udd34 Israeli passengers and additional crew members reportedly overpowered and restrained the pilot\nThe Boeing 737 MAX operating Flydubai flight FZ1073 first transmitted 7700, the international code for a general emergency, followed by 7500, indicating possible hijacking or unlawful interference. Israeli fighter jets were scrambled.\nThe plane, carrying roughly 180 passengers, ultimately diverted to Tabuk, Saudi Arabia, where it landed safely. \nPM Netanyahu and Defense Minister Katz held consultations, while the IDF chief of staff met with the heads of the Shin Bet and Mossad.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udde8\ud83c\uddf3\u26a0\ud83d\udce6 Pentagon In Panic: China Tests Hybrid Cargo Drone That Can Resupply Troops Without Landing\nChina has tested its YH-1000S heavy cargo drone in an airborne supply mission, dropping three medium containers and eight smaller loads during a single flight.\nThe aircraft remained stable throughout the operation and delivered the cargo with the required accuracy, demonstrating its ability to supply units without landing near them.\n\ud83d\udd38 Eleven loads in one test: The drone released three medium-sized containers followed by eight smaller cargo packages. Maintaining stability during repeated drops is essential because every change in weight can affect an unmanned aircraft\u2019s balance and flight path.\n\ud83d\udd38 Hybrid power borrowed from China\u2019s car industry: The YH-1000S uses a modified 2.0T hybrid powertrain developed with Chinese new-energy vehicle companies. Its batteries can reportedly keep the aircraft flying independently for around 30 minutes.\n\ud83d\udd38 Shorter takeoff and landing distances: The hybrid system provides additional power during the most demanding stages of flight while increasing payload capacity and range. The drone still requires a suitable place to take off, although it needs less runway than a conventional cargo aircraft.\n\ud83d\udd38 Supplies delivered without landing: A rear cargo door allows loads to be released in flight. Its position reduces disruption to the aircraft\u2019s aerodynamics and helps the flight-control system remain stable as cargo leaves the drone.\n\ud83d\udd38 Designed for rapid mission changes: The rear section can accommodate modular cargo compartments for different loads. The same aircraft could carry food, medical supplies, communications equipment or other urgently needed cargo.\n\ud83d\udd38 Built for cheaper production: China Aerospace Science and Technology Corporation says automotive components, shared supply chains and modular manufacturing have reduced development and production costs. That could make the YH-1000S easier to manufacture in larger numbers.\nCASC presents the aircraft primarily as a platform for commercial logistics, disaster relief, weather modification and maritime monitoring. Its ability to deliver supplies from the air also gives it clear military value.\nRoads, ports and local airfields are among the first targets in a conflict. Cargo drones could take off from safer locations and release supplies directly near dispersed units without risking pilots or attempting a landing under fire.\nWhat would you trust more: a cargo drone or a human pilot?\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T09:23:09+00:00",
+      "timestamp": "2026-09-30T18:13:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc69\ud83c\udffb\u200d\ud83e\uddb1\ud83c\uddee\ud83c\uddf7Iran\u2019s women step up as a new force in the resistance\nWomen are taking up a prominent role in [Iran\u2019s Janfadaa mobilization campaign.](https://t.me/geopolitics_prime/75049?single)\n\ud83d\udd34 around 32% of participants are female\n\ud83d\udd34 training includes rifles, FPV drones and anti-tank weapons\n\ud83d\udd34women are taught basics of urban warfare and battlefield first aid\n\ud83d\udd34 all-women Basij rapid-response units have been formed in Tehran\n\ud83d\udd34 campaign aims to establish 1,000 Popular National Resistance Battalions\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude80 \u2018Hit-and-run\u2019 era over as Iran boosts missile capacity \u2013 IRGC adviser\nIran can now fire as many missiles as needed to achieve its objectives, IRGC Aerospace Force adviser Brigadier General Ali Balali said.\nBalali pointed to the severe limitations on Iran\u2019s missile capabilities during the 1980-1988 war with Iraq.\n\u201cDuring the eight years of the Sacred Defense, we fired a total of 88 missiles,\u201d he said.\nIranian forces had to ration their missiles to sustain operations until the end of the war, the brigadier general explained.\n\u201cToday, in every operation, the [Iranian] armed forces launch as many [missiles] as necessary, with power and determination, so that the enemy is disciplined and understands that the era of \u2018hit and run\u2019 is over,\u201d Balali stressed.\nPresently, Iran\u2019s missile production allows it to sustain operations at the launch rate seen during the recent war, even if a confrontation lasts for several years, he added.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T08:26:52+00:00",
+      "timestamp": "2026-09-30T17:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2708\ufe0f\ud83c\udde8\ud83c\uddf3 New Chinese missile guidance system could beat F-35 jets\nThe lidar-based system developed by a team led by Li Zhiyuan of the China Airborne Missile Academy could ostensibly detect and track an F-35 combat aircraft at a distance of up to 61.5 kilometers, the South China Morning Post notes.\nWhile the US stealth aircraft\u2019s coating makes it very difficult to detect with more conventional radars, it does not offer the same protection against a single-photon lidar that essentially uses reflected laser light to detect the target.\nThis development does have a few caveats, however:\n\ud83c\udf0f The Chinese team\u2019s findings come from a computer simulation, so such targeting device is yet to be truly tested\n\ud83c\udf0f The focused beam utilized by the lidar to locate the target is unlikely to function as an early-warning system\n\ud83c\udf0f The 61.5km maximum range of the detection system still puts it within the reach of the long-range missiles used by a F-35\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T16:56:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f\ud83d\udcd1 Houthis push to seize key strategic mountains overlooking Bab el-Mandeb\nAnsar Allah has launched fresh assaults on pro-Saudi forces across the mountains of Lahj\u2019s Al-Madaribah wa Ra\u2019as Al-Arah district, seeking to capture three interconnected heights overlooking the strait\u2019s inland approaches.\nOn September 29, clashes intensified around Al-Aghbara Mountain as the Houthis sought to sever key supply routes linking Saudi-backed positions in Lahj and Taiz, Arab News reports.\nHostilities around Kahboub Mountain are also continuing. Control of the area could allow Ansar Allah to consolidate its gains along the Red Sea coast and threaten roads leading toward Aden, where the Saudi-backed Yemeni administration is based.\nKahboub has emerged as a key Houthi target since the group solidified control over the Bab el-Mandeb Strait on September 10. The mountain commands the strait, the coastal city of Dhubab and Perim Island.\nJabal Naman is another strategically vital mountain on the Lahj-Taiz border that the Houthis are seeking to seize and hold.\nAnsar Allah is also reinforcing its military in apparent preparation for another major offensive on Taiz, a pro-Saudi officer told the publication, describing the Houthi buildup \u2013 including tanks, other military equipment and missiles \u2013 as \u201cmassive.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T16:11:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83c\uddfa\ud83c\uddf8US ends Iraq mission & relocates operations to Jordan\nAfter close to two decades of Iraq intervention, US military forces and equipment have shifted headquarters.\nCENTCOM confirmed the relocation of the Combined Joint Task Force\u2013Operation Inherent Resolve (CJTF-OIR) to Jordan following the formal end of the coalition\u2019s military mission in Iraq on September 30, when the last American and partner forces left Erbil Air Base.\nAdmiral Brad Cooper, CENTCOM's commander, praised Iraqi forces for now \"having the capacity to manage their own security.\" \nThe relocation is more a change of address rather than a conclusion:\n\ud83d\udd34 same Combined Joint Task Force remains operational, only now based in Jordan \n\ud83d\udd34 counter-ISIS operations continue in Syria with coalition partners and the Syrian government \n\ud83d\udd34 new \u201cbilateral defense relationship\u201d with Iraq keeps the door open for future involvement \n\ud83d\udd34 regional US and coalition forces stay on standby, \u201cready to respond\u201d to threats that arise\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T12:05:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
