@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T08:57:12.298653+00:00",
+  "generated_at": "2026-09-30T15:51:22.887622+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,6 +230,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3749\r\nIssue Time: 2026 Sep 30 1004 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Sep 30 0945 UTC\nStation: GOES-19\nComment: Yesterday's max flux of 5,622 pfu at 29/1620 UTC.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-09-30 10:04:50.050",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP4\r",
       "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 718\r\nIssue Time: 2026 Sep 30 0339 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Sep 30 0256 UTC\nComment: Observed by PAL",
       "source": "NOAA Space Weather",
@@ -306,40 +325,156 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3747\r\nIssue Time: 2026 Sep 28 0500 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3746\nBegin Time: 2026 Sep 26 1535 UTC\nYesterday Maximum 2MeV Flux: 3060 pfu\nMax time: 2026 Sep 27 1720 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 UPDATE: The ballistic missile launches from Iran were either a test, or targeting the American blockade fleet in the Indian Ocean",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-28 05:00:40.090",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T15:32:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
-      "title": "Israel-bound flight diverted after fight between pilots",
-      "text": "Israel-bound flight diverted after fight between pilots\nDespite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-30T08:54:17+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Smoke is seen rising from the East-West Pipeline or a facility near it, after Yemeni ballistic missiles targeted Saudi Arabia earlier\nIf the East-West Pipeline has been taken out of commission again, it will take another month to get back into operation. Pumping resumed less than a week ago.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T15:20:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 BREAKING: Initial reports of ballistic missile launches from Iran",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T15:15:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf6/\ud83c\uddee\ud83c\uddf6 BREAKING: In a statement, the Islamic Resistance of Iraq announces that it will not disarm, and that it does not adhere to any timetable, plan, or framework\nThey say they have received no response from the Iraqi government that guarantees total sovereignty over Iraq\u2014including its airspace.\nTherefore, the Islamic Resistance of Iraq announces it will continue to respond against any enemy aggression, whether by land, sea, or air, and will take it upon themselves to ensure the U.S. never again infringes upon Iraq\u2019s sovereignty.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T14:08:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NATO's Rutte:\nWhy are the Americans doing it, taking out Iranian nuclear capability? Because we can\u2019t. But in the future, we have to make sure that, as Europeans, we can do this ourselves.\nIt is a bit strange that, to protect ourselves here in Europe from 140 million Russians, 600 million people living in NATO territory in Europe need a country six to eight hours\u2019 flight from here, with 340 million people, to defend us against the Russians.\nWe should be able to do that ourselves. That\u2019s exactly what we are working on.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T15:00:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine Turns to F-16 Cannons As Russian Jet Drones Breach Defenses\nKyiv is seeking tens of thousands of 20mm cannon rounds for its F-16 fighters as Russian jet-powered drones inflict mounting damage and expose gaps in the country\u2019s air defenses.\n[READ MORE](https://clashreport.com/world/articles/ukraine-turns-to-f-16-cannons-as-russian-jet-drones-breach-defenses-hwa6jqwmlha)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T14:03:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Crash of Tel Aviv flight narrowly averted after pilot fight; Ban on Canadian goods; Supreme Court allows Trump\u2019s deportations to resume](https://www.dropsitenews.com/p/dubai-israel-flight-canada-goods-ban-trump-deportation-supreme-court)\nWednesday, September 30, 2026 \u2013Iran: Iran says it received U.S. response to Strait of Hormuz proposal. U.S. sanctions ten entities in China, Pakistan, Turkey, Saudi Arabia over Iran arms procurement. U.S. offers 40 million barrels from strategic reserve. Qatari Prime Minister says Iran war pushed country into budget deficit. Three tankers struck by unknown projectiles in Strait of Hormuz. No explosives found in vans near RAF Fairford, UK police say. Iran executes two more over January protests.Yemen: UAE vice president visits Saudi Arabia for first time since rift... \n[Read More in Full Article](https://www.dropsitenews.com/p/dubai-israel-flight-canada-goods-ban-trump-deportation-supreme-court)\nDrop Site News | dropsitenews\u200b.com \u2022 Sep 30, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T15:48:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Is Europe prepared for a drone war with Russia? - As Russia deploys increasing numbers of jet-powered Shahed drones agai...](https://t.me/KyivIndependent_official/55827)\nIs Europe prepared for a drone war with Russia?\n[https://www.youtube.com/watch?v=AkpuSRuHwj4]\nAs Russia deploys increasing numbers of jet-powered Shahed drones against\nUkraine, European defense companies are racing to develop new systems that can\nintercept them at scale. But can Europe keep up with Russia\u2019s rapidly changing\ndrone technology?\nIn this interview, the Kyiv Independent\u2019s Jimmy Rushton speaks with Sven Kruk, a\nformer German army officer and the CEO of European drone manufacturer Quantum\nSystems, about Ukraine\u2019s changing air defense needs and what Europe is learning\nfrom the battlefield. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live:\nt.me/ournewsfeedtoday \u2013 Footage: t.me/ourwa... \n[Read More in Full Article](https://t.me/KyivIndependent_official/55827)\n | t\u200b.me \u2022 Sep 30, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T15:47:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -365,12 +500,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russia has shifted to massive strikes on energy infrastructure\n\u2014 Ukrainian Prime Minister Koretsky.\nKiev and the region were under a massive ballistic attack.\nPreliminarily, four energy infrastructure facilities were hit. Power supply problems are being recorded.\nEarlier, due to the strikes, power outages were recorded in Kiev, Donetsk, Dnepropetrovsk, Kharkov, and Sumy regions\n\u2014 Ukrenergo.",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6Yemeni Ansarllah Struck Abqaiq Oil Facility at Saudi Arabia with missile barrage \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T08:52:04+00:00",
+      "timestamp": "2026-09-30T15:40:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,12 +519,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddf8\ud83c\udde6\ud83c\uddf6\ud83c\udde6\ud83c\uddf4\ud83c\uddf2\ud83c\udde6\ud83c\uddea Oil exports from Middle Eastern countries have reached their peak since the start of the war in Iran.\nThanks to shipments through the Strait of Hormuz, supply volumes have increased to more than 80% of the average daily volume that existed before the war began. The key factor here is adaptation to current conditions: supply volumes are still limited compared to normal levels, but the corridor is functioning well enough to ensure the transportation of a significant portion of the region's crude oil exports.\nFor the market, this means a partial normalization of physical trade flows through the Persian Gulf and reduces the immediate risk of serious disruptions to exports from one of the world's most important oil transportation hubs. If supply volumes exceed 80% of the pre-war level, then the scenario of the most severe supply shortage becomes less likely, even if logistics remain more complex and vulnerable than before.\nThe signal is clear: the situation in Hormuz has not yet returned to normal, but the market is being reminded that oil export systems in the Persian Gulf can restore significant volumes faster than the most pessimistic forecasts suggest.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddea\ud83c\uddfa \u2014 Iraqi Islamic Resistance:\nWe have been engaged in negotiations with the government for around 40 days, through the Coordination Framework, regarding the regulation of our weapons.\nThe negotiations over regulating weapons are linked to achieving full sovereignty and the withdrawal of U.S. and NATO forces.\nWe have not yet received a response from the government, despite the agreement being signed by the Quadrilateral Committee and the resistance factions.\nWe are not bound by any timeline or agreement that any government or political party has announced or may announce.\nThe resistance\u2019s weapons will remain in the hands of our fighters and will be directed against any party that targets Iraq and its people.\nWe reserve the right to respond directly to any U.S. or Israeli violation or breach of Iraq\u2019s sovereignty.\nOur doors remain open to any dialogue that guarantees Iraq\u2019s sovereignty.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T08:43:02+00:00",
+      "timestamp": "2026-09-30T15:31:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -403,12 +538,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 Nonstop Russian attack towards Ukrainian capital Kiev by using ballistic missiles and drones \n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8Most likely Anti Ship missile\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T02:10:29+00:00",
+      "timestamp": "2026-09-30T15:19:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -422,12 +557,32 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 \u2014 Reporter: \nDo you think he's a war criminal, Benjamin Netanyahu?\nQatari Prime Minister Mohammed bin Abdulrahman Al Thani: \nWell, of course what's been committed in Gaza is war crimes, and whoever responsible for this is a war criminal.\n\u2b50\ufe0f Follow",
+      "text": "\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8Innitial Reports of missile launched from Iran\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-29T21:56:11+00:00",
+      "timestamp": "2026-09-30T15:17:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddee\ud83c\uddf1\ud83c\udde6\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Netanyahu warns UAE president Iran could launch regional attack within weeks\nIsraeli Prime Minister Benjamin Netanyahu showed UAE President Mohammed bin Zayed new Israeli intelligence indicating Iran is resuming progress on its nuclear program, including new construction at the Pickaxe Mountain site, CNN reports.\nA senior Saudi security official also attended the meeting. Netanyahu warned that Iran could launch a regional attack within \u201cweeks.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T13:36:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,59 +596,22 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea The two pilots had not been fighting over political or social reasons, apparently, one of the pilots was suicidal and tried to crash the plane, the other pilot prevented his suicide attempt and disarmed him.\nThat is to say, the security checks to make sure no one sympathizes with Hamas or the Arab conflicts made the security organs of the UAE and Israel (And yes, considering the sensitivity of direct flights between Israel and countries in the region, the passengers, pilots and hostesses are always checked) completely forget the possibility that they might have had a maniac.",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6 Saudi Arabia turned down Israeli request to allow its planes to pick up Israeli passengers from FlyDubai flight that made emergency landing in Saudi -Security sources",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T07:35:37+00:00",
+      "timestamp": "2026-09-30T14:50:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 The aircraft didn't make any contact with Israeli or Jordanian air traffic controllers, according to Channel 12.\nThe plane is not visible on FlightRadar, not sure what wound up happening.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T06:39:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea It is *highly* unlikely that the IDF would immediately resort to shooting down the plane as well, a flight from Dubai to Tel Aviv implies that the passengers are mostly Israelis, and shooting down the plane would not be their first option.\nIf the hijackers do not have access to the cockpit, the pilots will simply land at a nearby airport, and then they will be dealt with.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T06:27:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -669,69 +787,51 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83c\uddfa\ud83c\uddf8US ends Iraq mission & relocates operations to Jordan\nAfter close to two decades of Iraq intervention, US military forces and equipment have shifted headquarters.\nCENTCOM confirmed the relocation of the Combined Joint Task Force\u2013Operation Inherent Resolve (CJTF-OIR) to Jordan following the formal end of the coalition\u2019s military mission in Iraq on September 30, when the last American and partner forces left Erbil Air Base.\nAdmiral Brad Cooper, CENTCOM's commander, praised Iraqi forces for now \"having the capacity to manage their own security.\" \nThe relocation is more a change of address rather than a conclusion:\n\ud83d\udd34 same Combined Joint Task Force remains operational, only now based in Jordan \n\ud83d\udd34 counter-ISIS operations continue in Syria with coalition partners and the Syrian government \n\ud83d\udd34 new \u201cbilateral defense relationship\u201d with Iraq keeps the door open for future involvement \n\ud83d\udd34 regional US and coalition forces stay on standby, \u201cready to respond\u201d to threats that arise\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T12:05:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\u2708\ufe0f What to know about the Flydubai hijack attempt drama\nIt remains unclear whether the pilot who carried out the onboard stabbing intended to divert the FlyDubai aircraft to Israel, deliberately crash it, or stage a 9/11-style attack, the Jerusalem Post cites Israeli sources as saying. What is certain, they claim, is that he attempted to hijack the plane.\nAuthorities describe the incident as a major disaster that was only narrowly avoided.\nAccording to the latest account:\n\ud83d\udd34pilots of the Flydubai plane are Omani and Emirati nationals, respectively; incident may have been caused by the Omani pilot (Israel\u2019s Channel 14)\n\ud83d\udd34 one pilot stabbed the other, triggering a physical struggle in the cockpit\n\ud83d\udd34 attacker then allegedly attempted to seize control of the aircraft\n\ud83d\udd34 during the struggle, the aircraft plunged roughly 4,000 meters \n\ud83d\udd34 Israeli passengers and additional crew members reportedly overpowered and restrained the pilot\nThe Boeing 737 MAX operating Flydubai flight FZ1073 first transmitted 7700, the international code for a general emergency, followed by 7500, indicating possible hijacking or unlawful interference. Israeli fighter jets were scrambled.\nThe plane, carrying roughly 180 passengers, ultimately diverted to Tabuk, Saudi Arabia, where it landed safely. \nPM Netanyahu and Defense Minister Katz held consultations, while the IDF chief of staff met with the heads of the Shin Bet and Mossad.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-09-30T09:23:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udc69\ud83c\udffb\u200d\ud83e\uddb1\ud83c\uddee\ud83c\uddf7Iran\u2019s women step up as a new force in the resistance\nWomen are taking up a prominent role in [Iran\u2019s Janfadaa mobilization campaign.](https://t.me/geopolitics_prime/75049?single)\n\ud83d\udd34 around 32% of participants are female\n\ud83d\udd34 training includes rifles, FPV drones and anti-tank weapons\n\ud83d\udd34women are taught basics of urban warfare and battlefield first aid\n\ud83d\udd34 all-women Basij rapid-response units have been formed in Tehran\n\ud83d\udd34 campaign aims to establish 1,000 Popular National Resistance Battalions\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-30T08:26:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Flydubai plane with 180 aboard sparks security alert in Saudi airspace\nThe plane en route from UAE to Israel first squawked code 7700, indicating an emergency, then code 7500, used to signal a hijacking, Israeli media reports say. \n\ud83d\udd34 Netanyahu and Katz are holding security consultations over the plane incident\n\ud83d\udd34 The aircraft is currently in Saudi Arabian airspace.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T06:56:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran urges Americans to 'wrest control back from corrupt politicians'\nAs US forces were about to withdraw from remaining bases in Iraq, Iran\u2019s IRGC took its war message straight to the American public.\n\ud83d\udc49 Ahead of the looming midterm elections in the US, it argues in an open letter that months of war have failed to deliver the victory Trump repeatedly promised.\n\u201cWake up\u201d and \u201cwrest control back from corrupt politicians,\u201d the letter published by Iranian media urges.\n\ud83d\udcac \"Although American politicians often win your votes through deception and false promises, as Trump did, you can change the makeup of the government,\u201d it says.\nThe IRGC argues that the US didn\u2019t achieve any of its declared objectives:\n\ud83d\udd34 Iran\u2019s nuclear program was not eliminated, despite thousands of bombs and missiles being used against the country\n\ud83d\udd34 The Strait of Hormuz remains under its control\n\ud83d\udd34 war has driven up fuel costs, adding pressure to Americans already struggling with inflation\nThat argument comes as a September Reuters/Ipsos poll found just 34% of Americans approved of the strikes on Iran, while only 17% approved of Trump's handling of the cost of living.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T05:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1Israeli defense minister threatens Hamas amid reports that Netanyahu ignored pre-October 7 warnings\nIsrael Katz has claimed in a video statement that Hamas leaders abroad who were involved in the October 7, 2023, attack would be hunted down.\n\u201cNone of these despicable murderers, who played a central role in the October 7 massacre, may be allowed to die peacefully,\u201d he said.\nKatz\u2019s statement came on the heels of a report that Izz al-Din al-Bik, a commander in Hamas\u2019s Northern Gaza Brigade, was killed in an overnight [Israeli airstrike in Gaza City](https://t.me/geopolitics_prime/75345?single).\nThe minister\u2019s video address also comes as reports emerge that Prime Minister Benjamin Netanyahu [ignored warnings](https://t.me/geopolitics_prime/75322) from Arab officials of an imminent threat from Gaza in the days leading up to Hamas\u2019s October 7, 2023, attack. One such warning was delivered by United Arab Emirates President Mohamed bin Zayed Al Nahyan, according to The Washington Post.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T04:39:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
