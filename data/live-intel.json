@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-10-01T13:23:00.079606+00:00",
+  "generated_at": "2026-10-01T18:59:41.955518+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, October 2, 2026 through Friday, October 2, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/01/2026",
+      "location": "ZNY NJ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nST PAUL, MN, Tuesday, October 6, 2026 through Tuesday, October 6, 2026 Local\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/01/2026",
+      "location": "ZMP MN",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nANOKA, MN, Monday, October 5, 2026 through Monday, October 19, 2026 Local\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/01/2026",
+      "location": "ZMP MN",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDayton, OH, Saturday, October 3, 2026 through Saturday, October 3, 2026 Local\nFacility: ZID",
@@ -87,25 +144,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/28/2026",
       "location": "ZLA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nCape Canaveral, FL, Thursday, October 1, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/28/2026",
-      "location": "ZJX FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -212,25 +250,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nCape Canaveral, FL, Thursday, October 1, 2026 Local\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/28/2026",
-      "location": "ZMA FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nDallas, TX, Thursday, October 1, 2026 through Thursday, October 1, 2026 Local\nFacility: ZFW",
       "source": "FAA",
       "source_type": "official",
@@ -264,6 +283,44 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3750\r\nIssue Time: 2026 Oct 01 1430 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3749\nBegin Time: 2026 Sep 30 0945 UTC\nYesterday Maximum 2MeV Flux: 3120 pfu\nMax time: 2026 Sep 30 1435 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-01 14:30:29.700",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1128\r\nIssue Time: 2026 Oct 01 1428 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 02: G1 (Minor) Oct 03: None (Below G1) Oct 04: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-01 14:28:54.257",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -325,64 +382,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WATA20\r",
-      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1127\r\nIssue Time: 2026 Sep 29 1301 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nSep 30: None (Below G1) Oct 01: None (Below G1) Oct 02: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: 28 Sep CME inbound\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-29 13:01:59.807",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3748\r\nIssue Time: 2026 Sep 29 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3747\nBegin Time: 2026 Sep 26 1535 UTC\nYesterday Maximum 2MeV Flux: 4128 pfu\nMax time: 2026 Sep 28 1440 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-09-29 05:02:02.247",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
-      "text": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says\nA pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-01T11:26:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
       "title": "Explosions heard in Ethiopia's capital after drone flights banned",
       "text": "Explosions heard in Ethiopia's capital after drone flights banned\nIt comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
       "source": "BBC",
@@ -390,7 +389,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-01T12:38:55+00:00",
+      "timestamp": "2026-10-01T15:05:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -422,20 +421,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1 Some footage of Iranian ballistic missiles being launched at Israel, October 1st, 2024\nThis footage illustrates the comparative advantage that an Iranian \u2018preemptive strike\u2019 doctrine would yield. Missiles being launched together in the dozens, not in pairs of two or three like we see now.\nThe factor of surprise remains extremely important in war, and Iran\u2019s primary military strength (ballistic missiles) benefits greatly from the factor of surprise.",
+      "publisher": "Clash Report",
+      "text": "The U.S. Treasury sanctioned Russian payments firm A7, calling it a significant transnational criminal organization for helping Russia, Iran and other sanctioned entities evade Western restrictions.\nA7 allegedly used more than 70 shell companies, cryptocurrencies and AI-generated fake trade records to move money and help clients buy goods, including components used in weapons and drones.\nThe U.S. also tightened sanctions on Iran\u2019s automotive, rail and mining sectors.\nSource: NYT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T03:01:56+00:00",
+      "timestamp": "2026-10-01T18:36:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -499,22 +498,59 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddea\ud83c\uddf9 6 hours later and it seems like a couple of drone strikes hit Addis Ababa at midnight, local residents attest that the explosions happened in the vicinity of the ENDF headquarters.\nConcerning the Eritrean invasion, it seems like this is another instance of the internet making up happenings, nothing ever happens.",
+      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea Ansarllah:\nDuring the past 24 hours, Saudi warplanes launched 47 airstrikes and missiles targeting civilian objects, including communication networks, schools, and other facilities in the provinces of Taiz, Sa'ada, and Al-Jawf, using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif bases, along with missile aggression from Jizan.\nThis brings the total number of Saudi aggression raids since the start of the escalation to 1,256 airstrikes and missiles.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T08:43:42+00:00",
+      "timestamp": "2026-10-01T17:49:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa President Vladimir Putin described Russia\u2019s Strategic Missile Forces as state-of-the-art, adding that no other nuclear power has anything comparable.\n\u201cAlmost 98% of our Strategic Missile Forces are modern. No other nuclear power has such a level of modernity,\u201d the president said.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T17:43:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6 A Ukrainian MiG-29 fighter jet has been shot down and its pilot, an air wing commander of the Ghost of Kiev 40th tactical aviation brigade has been killed, the country\u2019s Air Force reported.\n\"Today, on October 1, 2026, another Ukrainian pilot has died in combat,\" the Air Force said on its Telegram channel.\nThe MiG-29 fighter jet was shot down and its pilot ejected but did not survive, it specified. Last time, the Ukrainian military reported the loss of a MiG-29 combat aircraft on August 10.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T17:43:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -525,26 +561,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-01T07:00:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 According to Walla, Israeli Prime Minister Benjamin Netanyahu is expected to hold a phone call with U.S. President Donald Trump in the coming hour.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T17:45:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -567,13 +583,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -635,69 +650,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3Pakistan & Afghanistan exchange blame over cross-border strikes\nPakistan struck Afghanistan's Helmand and Kunar provinces overnight on September 30.\nPakistan's Ministry of Information said the strikes were based on intelligence under Operation \"Ghazab lil-Haq,\" targeting two sites it calls camps of \"Fitna al Khwarij\" and \"Fitna al Hindustan.\" It says 22 militants were killed but no civilian sites were hit. Islamabad has long accused Kabul of letting militants use Afghan soil to attack Pakistan, a claim Kabul denies.\nAfghan government spokesman Zabihullah Mujahid said the strikes hit homes in Shultan (Kunar) and Garmser (Helmand), killing nine civilians and wounding 11, including women and children. Three houses were destroyed.\n\u27a1\ufe0f The escalation began on September 18, when a suicide car bomber hit a mosque inside a police compound in Kohat, in Pakistan's Khyber Pakhtunkhwa province during Friday prayers. At least 21 people died, including 15 police, and over 100 were wounded. Several militants then tried to storm the compound and were killed in a firefight. The banned group \"Jamaat-ul-Ansar\" claimed responsibility. Islamabad says its leader is hiding in Afghanistan.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T13:55:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udccdHead of Ukraine\u2019s Fire Point drone & missile maker targeted in assassination attempt \nFire Point co-founder and chief designer Denys Shtilerman was attacked by assailants in the Kiev region, claims journalist Sergei Auslender.\nAccording to preliminary information:\n\ud83d\udd34 Shtilerman sustained a light wound\n\ud83d\udd34 one of his bodyguards was killed\n\ud83d\udd34 the attackers were eliminated\nDetails of the incident and the circumstances surrounding the attack remain unclear, and there has been no official confirmation so far.\n\ud83d\udc49 [Fire Point](https://t.me/geopolitics_prime/74841) churns out components for medium- and long-range attack drones, and produces components, warheads, and solid-fuel boosters for Flamingo FP-5 long-range cruise missiles.\nThe company has also featured in Ukraine's [high-profile corruption investigations](https://t.me/geopolitics_prime/73615) after it was mentioned in the so-called \u2018Mindich tapes\u2019 - recordings involving Volodymyr Zelensky associate, businessman Timur Mindich.\nUkraine's National Anti-Corruption Bureau (NABU) is investigating Mindich's links to Fire Point, including claims that the company significantly inflated prices on state-funded defense contracts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-01T13:14:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Russian drones hit key Kiev transit bridge\nTwo Russian drones struck near the supporting structure of Kiev\u2019s South Bridge, forcing authorities to halt both metro and surface traffic while engineers inspect the site.\nThe bridge is a major logistical artery linking the two banks of the Dneper and connecting routes toward Odessa, Kharkov and western Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T11:11:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udde3 Disarm, demilitarize & deradicalize: Netanyahu pushes formula for Gaza\nBenjamin Netanyahu invoked Nazi Germany to justify wiping out Hamas in Gaza and stopping the conflict.\nReaching for a WWII analogy, he said that Germany found peace only after the SS was destroyed - not by leaving it an \u201cenclave.\u201d\nThe endgame, in his opinion, is to have Gaza disarmed, demilitarized and \u2018deradicalized.\u2019 \nInsisting that children there are raised on an \u201cinsane hatred\u201d of Jews, Israel and Americans, he added:\n\u201cThey imbibe with their mother\u2019s milk this hatred.\u201d\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T08:18:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddea Azerbaijan & UAE push defense ties - But keep it flexible\nExpanding military-industrial cooperation was central to talks between hosting Azerbaijani Defense Minister Zakir Hasanov and UAE Minister of State for Defense Affairs Mohamed bin Mubarak Fadhel al-Mazrouei in Baku during the Azerbaijan International Defense Exhibition (ADEX-2026), according to Azerbaijan's Defense Ministry.\nThe talks focused on:\n\ud83d\udd34 current state and future prospects of military-technical partnership \n\ud83d\udd34 potential for joint exercises \n\ud83d\udd34 need for sustained high-level dialogue on security matters \nNo concrete contracts were disclosed, as rapprochement between the sides now spans trade, energy, investment, transport and technology. \n[Azerbaijan\u2019s parallel ties with Israel ](https://t.me/geopolitics_prime/70605)rest on arms supplies (drones, missiles, air-defense systems) exchanged for crude oil and a strategic foothold on Iran\u2019s northern border, forming a flexible three-way alignment with Turkey. \n\ud83d\udd0d The partnership relies on intelligence, energy and technology cooperation rather than a formal treaty -allowing both sides to deepen ties while balancing relations with Iran, Turkey and Russia, notes The Cradle.\nAzerbaijan continues to supply a [substantial share of Israel\u2019s oil imports](https://t.me/geopolitics_prime/67598) via the Baku\u2013Tbilisi\u2013Ceyhan (BTC) pipeline.\nDuring Israel\u2019s Gaza war, Azerbaijan shipped more than 7 million tons of crude to Israel via the route (Oil Change International).\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T06:53:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
