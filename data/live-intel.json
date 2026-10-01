@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-01T00:12:09.585322+00:00",
+  "generated_at": "2026-10-01T06:05:04.799428+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDayton, OH, Saturday, October 3, 2026 through Saturday, October 3, 2026 Local\nFacility: ZID",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/01/2026",
+      "location": "ZID OH",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMobile, AL, Friday, October 2, 2026 through Friday, October 2, 2026 Local\nFacility: ZHU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/01/2026",
+      "location": "ZHU AL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nSacramento, CA, Thursday, October 1, 2026 through Sunday, October 4, 2026 Local\nFacility: ZOA",
@@ -325,6 +363,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+      "text": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says\nA pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-01T03:43:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "What we know about stabbing on Flydubai flight to Israel",
       "text": "What we know about stabbing on Flydubai flight to Israel\nA pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
       "source": "BBC",
@@ -332,17 +389,54 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-09-30T21:36:31+00:00",
+      "timestamp": "2026-10-01T02:31:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "Clash Report"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1 Some footage of Iranian ballistic missiles being launched at Israel, October 1st, 2024\nThis footage illustrates the comparative advantage that an Iranian \u2018preemptive strike\u2019 doctrine would yield. Missiles being launched together in the dozens, not in pairs of two or three like we see now.\nThe factor of surprise remains extremely important in war, and Iran\u2019s primary military strength (ballistic missiles) benefits greatly from the factor of surprise.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T03:01:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1 NEW: On this exact day two years ago, Iran carried out \u2018Operation True Promise-2\u2019, launching 200 ballistic missiles at Israeli airbases during a single coordinated wave\nIt remains the largest ballistic missile attack ever carried out in history.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T02:51:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -362,83 +456,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 UPDATE: The ballistic missile launches from Iran were either a test, or targeting the American blockade fleet in the Indian Ocean",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T15:32:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Smoke is seen rising from the East-West Pipeline or a facility near it, after Yemeni ballistic missiles targeted Saudi Arabia earlier\nIf the East-West Pipeline has been taken out of commission again, it will take another month to get back into operation. Pumping resumed less than a week ago.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T15:20:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 BREAKING: Initial reports of ballistic missile launches from Iran",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T15:15:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Flydubai suspends flights to Israel \u201cwhile the investigation is ongoing.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T20:05:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -519,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 [Asharq Al-Awsat](https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D9%85%D8%B4%D8%B1%D9%82-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/5323752-%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84-%D8%AA%D8%BA%D8%AA%D8%A7%D9%84-%D9%82%D8%A7%D8%A6%D8%AF%D8%A7%D9%8B-%D9%83%D8%A8%D9%8A%D8%B1%D8%A7%D9%8B-%D9%81%D9%8A-%D8%A7%D9%84%D9%82%D8%B3%D8%A7%D9%85-%D9%88%D8%AA%D8%B3%D8%AA%D9%87%D8%AF%D9%81-%D8%B9%D9%86%D8%B5%D8%B1%D8%A7%D9%8B-%D8%A8%D8%A7%D8%B1%D8%B2%D8%A7%D9%8B-%D9%85%D9%86): The Israeli military has carried out two major strikes in Gaza, assassinating Izz al\u2011Din al\u2011Bayk, commander of the Northern Brigade in Hamas\u2019s Al\u2011Qassam Brigades, and critically wounding Musab al\u2011Balbisi, a prominent leader in Islamic Jihad\u2019s Saraya al\u2011Quds.\nAl\u2011Bayk, 48, known as \u201cAshmawi\u201d, was from Jabalia camp and had survived previous assassination attempts. \nAl\u2011Balbisi was targeted while walking in the al\u2011Fakhoura area of Jabalia camp and suffered critical injuries, including the amputation of both feet. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddf9\ud83c\uddea\ud83c\uddf9 Reports of explosions in Addis Ababa following drone attack by Tigray/Allied forces.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T06:08:31+00:00",
+      "timestamp": "2026-10-01T03:13:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Syrian authorities have arrested an alleged three-member Hezbollah cell near the Golan Heights, accusing it of planning attacks. \nThe interior security forces said the cell was preparing rocket launch platforms in the Yarmouk Basin in Daraa province.\nThe statement said the operation was pre-emptive and carried out by the General Intelligence Directorate in cooperation with internal security forces\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe Additional footage of the explosion at the Thermal Power Plant near the Damascus International Airport in Syria.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T06:08:12+00:00",
+      "timestamp": "2026-10-01T03:11:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -557,126 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Bloomberg](https://www.bloomberg.com/news/articles/2026-09-29/russia-s-oil-export-windfall-eroded-by-ban-on-diesel-shipments): Russia overseas crude flows rose to 3.71 million barrels a day in the four weeks through September 27, the most in a month and a half, pushing the weekly value of exports to $2.75 billion, the highest since the full-scale invasion of Ukraine in 2022.\nThe gains are being partially offset by a ban on overseas diesel sales, expected to be extended through October, as Ukrainian drone strikes continue knocking out Russian refineries, forcing Moscow to divert unprocessed crude into export flows and cut its refined products forecast by about 500,000 barrels a day.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukraine\u2019s FirePoint CEO Iryna Terekh says the company plans to have a ballistic missile capable of reaching Moscow ready by the end of autumn.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T03:27:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Reports that clashes have broken out in the city of Iranshahr, in Iran\u2019s Sistan and Baluchestan province, between military forces and armed individuals. \nLocal reports say intense gunfire and RPG fire have been heard for several hours in the Ghareeb Abad area.\nDozens of military vehicles and a tank have been deployed, and drones are being used. All roads leading to the area have been blocked. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T03:25:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8 The Colombian Army captured alias \"\u00d1ato\" or \"Cachaco\" in Turbo, accused of belonging to the Roberto Vargas Guti\u00e9rrez structure of the Clan del Golfo with support from U.S. drones.\nHe is being accused of coordinating cocaine shipments to Central and North America.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T03:24:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 An IDF drone struck an individual in the Halawa Camp in Jabalia, northern Gaza, a short while ago.\nThe target, identified by local reports as Ahmad Akram Hamouda, was killed in the strike.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T03:23:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Hamas\u2019s Al-Qassam Brigades is mourning Izz al-Din Abdul Aziz Bik, confirming that he served as commander of its Northern Gaza Brigade and as a member of its General Military Council.\nHamas says Bik was among the commanders who oversaw the October 7 attack and had previously served as the brigade\u2019s military intelligence chief before succeeding Ahmed Ghandour (killed in November 2023) as brigade commander.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T03:22:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 An IDF drone struck and killed Musab al-Balbisi in the Jabalia refugee camp, northern Gaza, a short while ago.\nThe IDF is expected to release further details about him later as usual.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T03:22:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddfe\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 \u2060[Il Foglio](https://www.ilfoglio.it/en/world/2026/09/29/news/netanyahu-vance-guilfoyle-the-network-haftar-wants-to-forge--409017): Saddam Haftar is seeking to build a network of political ties in Washington and Israel as he attempts to strengthen his position as a potential leader of a unified Libya.\nThe paper reports that Haftar secretly met Israeli Prime Minister Benjamin Netanyahu in Abu Dhabi on Monday, citing flight-tracking data and former Haftar adviser Mohamed Buisier, who said the meeting was intended to secure Israeli political support for Saddam Haftar\u2019s bid for the Libyan presidency. \u00a0\nIl Foglio also reports that Haftar is seeking a meeting with US Vice President JD Vance and is attempting to establish contacts with US Ambassador to Greece Kimberly Guilfoyle, while Ballard Partners is lobbying on his behalf in Washington.\nThe reported outreach comes as Haftar faces allegations over his involvement in a Libyan \u201cterrorist cell\u201d accused of attacks in western Libya. Libyan Prime Minister Abdulhamid Dabaiba has publicly accused Saddam Haftar of being behind the cell, while the allegations remain contested. \u00a0\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T03:21:17+00:00",
+      "timestamp": "2026-10-01T03:07:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -753,44 +656,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-09-30T17:34:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2708\ufe0f\ud83c\udde8\ud83c\uddf3 New Chinese missile guidance system could beat F-35 jets\nThe lidar-based system developed by a team led by Li Zhiyuan of the China Airborne Missile Academy could ostensibly detect and track an F-35 combat aircraft at a distance of up to 61.5 kilometers, the South China Morning Post notes.\nWhile the US stealth aircraft\u2019s coating makes it very difficult to detect with more conventional radars, it does not offer the same protection against a single-photon lidar that essentially uses reflected laser light to detect the target.\nThis development does have a few caveats, however:\n\ud83c\udf0f The Chinese team\u2019s findings come from a computer simulation, so such targeting device is yet to be truly tested\n\ud83c\udf0f The focused beam utilized by the lidar to locate the target is unlikely to function as an early-warning system\n\ud83c\udf0f The 61.5km maximum range of the detection system still puts it within the reach of the long-range missiles used by a F-35\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T16:56:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f\ud83d\udcd1 Houthis push to seize key strategic mountains overlooking Bab el-Mandeb\nAnsar Allah has launched fresh assaults on pro-Saudi forces across the mountains of Lahj\u2019s Al-Madaribah wa Ra\u2019as Al-Arah district, seeking to capture three interconnected heights overlooking the strait\u2019s inland approaches.\nOn September 29, clashes intensified around Al-Aghbara Mountain as the Houthis sought to sever key supply routes linking Saudi-backed positions in Lahj and Taiz, Arab News reports.\nHostilities around Kahboub Mountain are also continuing. Control of the area could allow Ansar Allah to consolidate its gains along the Red Sea coast and threaten roads leading toward Aden, where the Saudi-backed Yemeni administration is based.\nKahboub has emerged as a key Houthi target since the group solidified control over the Bab el-Mandeb Strait on September 10. The mountain commands the strait, the coastal city of Dhubab and Perim Island.\nJabal Naman is another strategically vital mountain on the Lahj-Taiz border that the Houthis are seeking to seize and hold.\nAnsar Allah is also reinforcing its military in apparent preparation for another major offensive on Taiz, a pro-Saudi officer told the publication, describing the Houthi buildup \u2013 including tanks, other military equipment and missiles \u2013 as \u201cmassive.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T16:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
