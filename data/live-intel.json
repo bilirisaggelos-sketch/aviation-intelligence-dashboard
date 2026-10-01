@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T18:59:41.955518+00:00",
+  "generated_at": "2026-10-01T23:06:28.151868+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -106,25 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "09/29/2026",
       "location": "ZOA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nHuntsville, AL, Wednesday, September 30, 2026 through Thursday, October 1, 2026 Local\nFacility: ZME",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/29/2026",
-      "location": "ZME AL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -403,31 +384,52 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Iranian journalists visited Hezbollah fighters stationed at the Litani river in southern Lebanon, and gifted them a Keffiyeh (Chafiyeh) blessed by Iran\u2019s Supreme Leader, Seyyed Mojtaba Khamenei",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddfe\ud83c\uddea NEW: A Department of Energy electrical engineer has been arrested by the FBI on charges of providing support to the Houthis, including by buying materials for homemade explosives and drones \nThe FBI identified the suspect as Ashton Hames Ellaboudy, 51, from Washington, and alleges had a goal of helping the Houthis improve their communications capabilities and traveled last September to Yemen.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T13:14:37+00:00",
+      "timestamp": "2026-10-01T22:48:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The U.S. Treasury sanctioned Russian payments firm A7, calling it a significant transnational criminal organization for helping Russia, Iran and other sanctioned entities evade Western restrictions.\nA7 allegedly used more than 70 shell companies, cryptocurrencies and AI-generated fake trade records to move money and help clients buy goods, including components used in weapons and drones.\nThe U.S. also tightened sanctions on Iran\u2019s automotive, rail and mining sectors.\nSource: NYT",
+      "text": "A U.S. Department of Energy electrical engineer has been arrested for allegedly trying to support Iran-backed Houthi rebels in Yemen.\nProsecutors say Ashton Hamed Ellaboudy, 51, bought chemicals used in homemade explosives and drone parts, traveled to Yemen, and provided advice on communications equipment. The FBI says he was smuggled into Yemen and hoped to build government-level contacts with the Houthis.\nHe is charged with providing material support to a U.S.-designated foreign terrorist organization.\nSource: AP",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T18:36:46+00:00",
+      "timestamp": "2026-10-01T22:41:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Trump claims James Talarico throws up after eating meat because he is a vegan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T21:54:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -492,82 +494,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea Ansarllah:\nDuring the past 24 hours, Saudi warplanes launched 47 airstrikes and missiles targeting civilian objects, including communication networks, schools, and other facilities in the provinces of Taiz, Sa'ada, and Al-Jawf, using F-15 and Typhoon aircraft that took off from the Khamis Mushait and Taif bases, along with missile aggression from Jizan.\nThis brings the total number of Saudi aggression raids since the start of the escalation to 1,256 airstrikes and missiles.\n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T17:49:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa President Vladimir Putin described Russia\u2019s Strategic Missile Forces as state-of-the-art, adding that no other nuclear power has anything comparable.\n\u201cAlmost 98% of our Strategic Missile Forces are modern. No other nuclear power has such a level of modernity,\u201d the president said.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T17:43:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfa\ud83c\udde6 A Ukrainian MiG-29 fighter jet has been shot down and its pilot, an air wing commander of the Ghost of Kiev 40th tactical aviation brigade has been killed, the country\u2019s Air Force reported.\n\"Today, on October 1, 2026, another Ukrainian pilot has died in combat,\" the Air Force said on its Telegram channel.\nThe MiG-29 fighter jet was shot down and its pilot ejected but did not survive, it specified. Last time, the Ukrainian military reported the loss of a MiG-29 combat aircraft on August 10.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T17:43:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddea\ud83c\uddf9 6 hours later and it seems like a couple of drone strikes hit Addis Ababa at midnight, local residents attest that the explosions happened in the vicinity of the ENDF headquarters.\nConcerning the Eritrean invasion, it seems like this is another instance of the internet making up happenings, nothing ever happens.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T07:00:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
