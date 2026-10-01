@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:05:04.799428+00:00",
+  "generated_at": "2026-10-01T13:23:00.079606+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -363,14 +363,34 @@
       "verified_source_count": 1
     },
     {
-      "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
-      "text": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says\nA pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says.",
+      "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
+      "text": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says\nA pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-01T03:43:06+00:00",
+      "timestamp": "2026-10-01T11:26:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
+      "text": "Explosions heard in Ethiopia's capital after drone flights banned\nIt comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-01T12:38:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -382,21 +402,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "What we know about stabbing on Flydubai flight to Israel",
-      "text": "What we know about stabbing on Flydubai flight to Israel\nA pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-01T02:31:24+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Iranian journalists visited Hezbollah fighters stationed at the Litani river in southern Lebanon, and gifted them a Keffiyeh (Chafiyeh) blessed by Iran\u2019s Supreme Leader, Seyyed Mojtaba Khamenei",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T13:14:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -409,44 +429,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-01T03:01:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1 NEW: On this exact day two years ago, Iran carried out \u2018Operation True Promise-2\u2019, launching 200 ballistic missiles at Israeli airbases during a single coordinated wave\nIt remains the largest ballistic missile attack ever carried out in history.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T02:51:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4 NEW: Sirens sounded at Muwaffaq Salti Airbase, Jordan, about an hour ago\nThe cause is unknown; no launches of Iranian missiles took place.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T18:47:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -516,6 +498,46 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddea\ud83c\uddf9 6 hours later and it seems like a couple of drone strikes hit Addis Ababa at midnight, local residents attest that the explosions happened in the vicinity of the ENDF headquarters.\nConcerning the Eritrean invasion, it seems like this is another instance of the internet making up happenings, nothing ever happens.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T08:43:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddea\ud83c\uddf9 6 hours later and it seems like a couple of drone strikes hit Addis Ababa at midnight, local residents attest that the explosions happened in the vicinity of the ENDF headquarters.\nConcerning the Eritrean invasion, it seems like this is another instance of the internet making up happenings, nothing ever happens.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T07:00:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 According to Walla, Israeli Prime Minister Benjamin Netanyahu is expected to hold a phone call with U.S. President Donald Trump in the coming hour.",
       "source": "Telegram",
@@ -530,6 +552,64 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Israeli Prime Minister Benjamin Netanyahu on the pilot who hijacked Flydubai Flight FZ1073:\n\"This pilot, the attacking pilot, is now being interrogated in Saudi Arabia. He'll be, I assume, moved very quickly to Dubai.\nHe's an Omani national. He'll be investigated and interrogated, and we'll join the interrogation and find out what happened there exactly.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T06:31:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A Ukrainian Air Force F-16 fighter jet intercepted a Russian \"Geran-4\" suicide drone with an air-to-air missile.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T06:15:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Sweden announced that it will begin air operations aimed at strengthening NATO\u2019s eastern flank on October 1.\nSwedish JAS-39 fighter aircraft based in Sweden will conduct air operations over eastern Poland for two months and will operate under the command of NATO\u2019s Combined Air Operations Centre in Germany. The mission is aimed at protecting the logistics hub in Poland used to provide military and civilian support to Ukraine, while also contributing to NATO\u2019s Integrated Air and Missile Defence.\n(Image courtesy Armed Forces of Sweden)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-01T06:14:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -554,51 +634,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe Additional footage of the explosion at the Thermal Power Plant near the Damascus International Airport in Syria.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T03:11:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukraine\u2019s FirePoint CEO Iryna Terekh says the company plans to have a ballistic missile capable of reaching Moscow ready by the end of autumn.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T03:07:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee9\ud83d\udd0d Trump-linked drone startup Powerus eyes Ukrainian tech for Pentagon contracts\nUS drone startup Powerus plans to bring Ukrainian and other foreign defense technology to the US as Pentagon demand for drones surges, Reuters reports.\n\ud83c\udf0f Going public in early October via a merger with Nasdaq-listed Aureus Greenway \u2014 backed by Donald Trump Jr. and Eric Trump through American Ventures\n\ud83c\udf0f In talks with Ukrainian defense tech firms to add long-range attack drones\n\ud83c\udf0f Recently announced a US Air Force award worth up to $90 million and a $22.3 million commercial deal for Middle East energy infrastructure\n\ud83c\udf0f Secured a limited drone order from Pakistan and signed preliminary cooperation agreements with the Pakistan Army and Air Force\nPowerus President Brett Velicovich said the broader goal is to combine foreign defense technology with US manufacturing and offer the Pentagon an American-based supplier.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udccdHead of Ukraine\u2019s Fire Point drone & missile maker targeted in assassination attempt \nFire Point co-founder and chief designer Denys Shtilerman was attacked by assailants in the Kiev region, claims journalist Sergei Auslender.\nAccording to preliminary information:\n\ud83d\udd34 Shtilerman sustained a light wound\n\ud83d\udd34 one of his bodyguards was killed\n\ud83d\udd34 the attackers were eliminated\nDetails of the incident and the circumstances surrounding the attack remain unclear, and there has been no official confirmation so far.\n\ud83d\udc49 [Fire Point](https://t.me/geopolitics_prime/74841) churns out components for medium- and long-range attack drones, and produces components, warheads, and solid-fuel boosters for Flamingo FP-5 long-range cruise missiles.\nThe company has also featured in Ukraine's [high-profile corruption investigations](https://t.me/geopolitics_prime/73615) after it was mentioned in the so-called \u2018Mindich tapes\u2019 - recordings involving Volodymyr Zelensky associate, businessman Timur Mindich.\nUkraine's National Anti-Corruption Bureau (NABU) is investigating Mindich's links to Fire Point, including claims that the company significantly inflated prices on state-funded defense contracts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T22:47:58+00:00",
+      "timestamp": "2026-10-01T13:14:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -612,12 +654,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddea\ud83c\uddf9\u2694\ufe0f Rebels push deeper into Ethiopia as government seeks urgent reinforcements\nThe Ethiopian government plans to withdraw more than 3,000 troops from Somalia and redeploy them to counter a growing rebellion at home, Bloomberg reports.\nEthiopian Prime Minister Abiy Ahmed is facing a coalition of seven armed and political groups, including the Tigray People\u2019s Liberation Front (TPLF), the Amhara Fano militia and the Oromo Liberation Army (OLA), which have formed the Alliance for Survival to oust the federal government. The rebels launched a major [offensive on September 23](https://t.me/geopolitics_prime/75072).\nOn September 28, Ethiopian federal forces seized Alamata, a town in the Tigray Region, and moved closer to the Tigrayan capital of Mekelle, held by rebels. While social media accounts have circulated videos purportedly showing weapons abandoned by the TPLF and its allies, the conflict appears to be only ramping up.\nThe same day, reports emerged that TPLF forces had seized Erebti and were advancing toward Afdera, as fighting spread beyond Tigray and Amhara into Afar. The rebels seek to oust the incumbent government, establish an inclusive transitional administration and pursue constitutional reform.\nThe Ethiopian government accuses Eritrea and Sudan of backing the rebels, charges both countries firmly deny. Sudan, in turn, accuses Ethiopia of supporting [the RSF](https://t.me/geopolitics_prime/64367), which has been fighting the Sudanese government [since April 2023](https://t.me/geopolitics_prime/55349).\nRelations between Ethiopia and Eritrea have also soured, with PM Abiy Ahmed repeatedly hinting at plans to gain access to Red Sea coastline under Eritrean control by force.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udca5 Russian drones hit key Kiev transit bridge\nTwo Russian drones struck near the supporting structure of Kiev\u2019s South Bridge, forcing authorities to halt both metro and surface traffic while engineers inspect the site.\nThe bridge is a major logistical artery linking the two banks of the Dneper and connecting routes toward Odessa, Kharkov and western Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T20:14:58+00:00",
+      "timestamp": "2026-10-01T11:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,12 +673,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3\u26a0\ud83d\udce6 Pentagon In Panic: China Tests Hybrid Cargo Drone That Can Resupply Troops Without Landing\nChina has tested its YH-1000S heavy cargo drone in an airborne supply mission, dropping three medium containers and eight smaller loads during a single flight.\nThe aircraft remained stable throughout the operation and delivered the cargo with the required accuracy, demonstrating its ability to supply units without landing near them.\n\ud83d\udd38 Eleven loads in one test: The drone released three medium-sized containers followed by eight smaller cargo packages. Maintaining stability during repeated drops is essential because every change in weight can affect an unmanned aircraft\u2019s balance and flight path.\n\ud83d\udd38 Hybrid power borrowed from China\u2019s car industry: The YH-1000S uses a modified 2.0T hybrid powertrain developed with Chinese new-energy vehicle companies. Its batteries can reportedly keep the aircraft flying independently for around 30 minutes.\n\ud83d\udd38 Shorter takeoff and landing distances: The hybrid system provides additional power during the most demanding stages of flight while increasing payload capacity and range. The drone still requires a suitable place to take off, although it needs less runway than a conventional cargo aircraft.\n\ud83d\udd38 Supplies delivered without landing: A rear cargo door allows loads to be released in flight. Its position reduces disruption to the aircraft\u2019s aerodynamics and helps the flight-control system remain stable as cargo leaves the drone.\n\ud83d\udd38 Designed for rapid mission changes: The rear section can accommodate modular cargo compartments for different loads. The same aircraft could carry food, medical supplies, communications equipment or other urgently needed cargo.\n\ud83d\udd38 Built for cheaper production: China Aerospace Science and Technology Corporation says automotive components, shared supply chains and modular manufacturing have reduced development and production costs. That could make the YH-1000S easier to manufacture in larger numbers.\nCASC presents the aircraft primarily as a platform for commercial logistics, disaster relief, weather modification and maritime monitoring. Its ability to deliver supplies from the air also gives it clear military value.\nRoads, ports and local airfields are among the first targets in a conflict. Cargo drones could take off from safer locations and release supplies directly near dispersed units without risking pilots or attempting a landing under fire.\nWhat would you trust more: a cargo drone or a human pilot?\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\udde3 Disarm, demilitarize & deradicalize: Netanyahu pushes formula for Gaza\nBenjamin Netanyahu invoked Nazi Germany to justify wiping out Hamas in Gaza and stopping the conflict.\nReaching for a WWII analogy, he said that Germany found peace only after the SS was destroyed - not by leaving it an \u201cenclave.\u201d\nThe endgame, in his opinion, is to have Gaza disarmed, demilitarized and \u2018deradicalized.\u2019 \nInsisting that children there are raised on an \u201cinsane hatred\u201d of Jews, Israel and Americans, he added:\n\u201cThey imbibe with their mother\u2019s milk this hatred.\u201d\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T18:13:01+00:00",
+      "timestamp": "2026-10-01T08:18:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,12 +692,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude80 \u2018Hit-and-run\u2019 era over as Iran boosts missile capacity \u2013 IRGC adviser\nIran can now fire as many missiles as needed to achieve its objectives, IRGC Aerospace Force adviser Brigadier General Ali Balali said.\nBalali pointed to the severe limitations on Iran\u2019s missile capabilities during the 1980-1988 war with Iraq.\n\u201cDuring the eight years of the Sacred Defense, we fired a total of 88 missiles,\u201d he said.\nIranian forces had to ration their missiles to sustain operations until the end of the war, the brigadier general explained.\n\u201cToday, in every operation, the [Iranian] armed forces launch as many [missiles] as necessary, with power and determination, so that the enemy is disciplined and understands that the era of \u2018hit and run\u2019 is over,\u201d Balali stressed.\nPresently, Iran\u2019s missile production allows it to sustain operations at the launch rate seen during the recent war, even if a confrontation lasts for several years, he added.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udde6\ud83c\uddff\ud83c\udde6\ud83c\uddea Azerbaijan & UAE push defense ties - But keep it flexible\nExpanding military-industrial cooperation was central to talks between hosting Azerbaijani Defense Minister Zakir Hasanov and UAE Minister of State for Defense Affairs Mohamed bin Mubarak Fadhel al-Mazrouei in Baku during the Azerbaijan International Defense Exhibition (ADEX-2026), according to Azerbaijan's Defense Ministry.\nThe talks focused on:\n\ud83d\udd34 current state and future prospects of military-technical partnership \n\ud83d\udd34 potential for joint exercises \n\ud83d\udd34 need for sustained high-level dialogue on security matters \nNo concrete contracts were disclosed, as rapprochement between the sides now spans trade, energy, investment, transport and technology. \n[Azerbaijan\u2019s parallel ties with Israel ](https://t.me/geopolitics_prime/70605)rest on arms supplies (drones, missiles, air-defense systems) exchanged for crude oil and a strategic foothold on Iran\u2019s northern border, forming a flexible three-way alignment with Turkey. \n\ud83d\udd0d The partnership relies on intelligence, energy and technology cooperation rather than a formal treaty -allowing both sides to deepen ties while balancing relations with Iran, Turkey and Russia, notes The Cradle.\nAzerbaijan continues to supply a [substantial share of Israel\u2019s oil imports](https://t.me/geopolitics_prime/67598) via the Baku\u2013Tbilisi\u2013Ceyhan (BTC) pipeline.\nDuring Israel\u2019s Gaza war, Azerbaijan shipped more than 7 million tons of crude to Israel via the route (Oil Change International).\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-09-30T17:34:01+00:00",
+      "timestamp": "2026-10-01T06:53:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
