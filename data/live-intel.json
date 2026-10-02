@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-01T23:06:28.151868+00:00",
+  "generated_at": "2026-10-02T02:18:08.419839+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 2, 2026 through Sunday, October 4, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/02/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, October 2, 2026 through Friday, October 2, 2026 Local\nFacility: ZNY",
@@ -404,6 +423,45 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "NEW: The U.S. recently sent two additional Patriot missile batteries to protect key oil and gas facilities in Saudi Arabia and Qatar amid the possibility of renewed U.S. strikes on Iran.\nThe deployment is meant to reassure both countries, which fear Iranian retaliation against their energy infrastructure. \nSource: Axios",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T00:43:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The U.S. Navy awarded RTX\u2019s Raytheon a contract worth up to $24.4 billion to produce Standard Missile-6 interceptors as the Pentagon works to rebuild depleted weapons stockpiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T00:19:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "A U.S. Department of Energy electrical engineer has been arrested for allegedly trying to support Iran-backed Houthi rebels in Yemen.\nProsecutors say Ashton Hamed Ellaboudy, 51, bought chemicals used in homemade explosives and drone parts, traveled to Yemen, and provided advice on communications equipment. The FBI says he was smuggled into Yemen and hoped to build government-level contacts with the Houthis.\nHe is charged with providing material support to a U.S.-designated foreign terrorist organization.\nSource: AP",
       "source": "Telegram",
       "source_type": "telegram",
@@ -420,25 +478,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump claims James Talarico throws up after eating meat because he is a vegan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T21:54:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -499,13 +538,33 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Israeli Prime Minister Benjamin Netanyahu on the pilot who hijacked Flydubai Flight FZ1073:\n\"This pilot, the attacking pilot, is now being interrogated in Saudi Arabia. He'll be, I assume, moved very quickly to Dubai.\nHe's an Omani national. He'll be investigated and interrogated, and we'll join the interrogation and find out what happened there exactly.\"",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf6\ud83c\udde6\ud83c\uddf8\ud83c\udde6 \u2014 Axios: The U.S. recently sent two additional Patriot missile batteries to protect key oil and gas facilities in Saudi Arabia and Qatar amid the possibility of renewed U.S. strikes on Iran.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T06:31:20+00:00",
+      "timestamp": "2026-10-02T00:57:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Explosions are reported in Russia\u2019s Moscow region near the Krasnozavodsk Chemical Plant, a key Russian special-chemicals enterprise specializing in pyrotechnics, ammunition and explosives. According to available information, the facility is also involved in developing and manufacturing thermobaric warheads for Shahed, or Geran, strike UAVs.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T02:17:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -519,12 +578,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A Ukrainian Air Force F-16 fighter jet intercepted a Russian \"Geran-4\" suicide drone with an air-to-air missile.",
+      "text": "Russia launched 97 attack drones at Ukraine during the day on October 1, including 66 jet-powered UAVs and Gerbera drones. Ukrainian air defenses downed or suppressed 78 of the incoming drones, including 55 of the jet-powered targets.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T06:15:28+00:00",
+      "timestamp": "2026-10-02T02:16:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,12 +597,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Sweden announced that it will begin air operations aimed at strengthening NATO\u2019s eastern flank on October 1.\nSwedish JAS-39 fighter aircraft based in Sweden will conduct air operations over eastern Poland for two months and will operate under the command of NATO\u2019s Combined Air Operations Centre in Germany. The mission is aimed at protecting the logistics hub in Poland used to provide military and civilian support to Ukraine, while also contributing to NATO\u2019s Integrated Air and Missile Defence.\n(Image courtesy Armed Forces of Sweden)",
+      "text": "Ukraine\u2019s Air Force confirmed the loss of a MiG-29 and its pilot during a combat mission on October 1. Capt. Marat Mambetov, 25, a flight commander with the 40th Tactical Aviation Brigade \u201cGhost of Kyiv,\u201d was conducting missile and bomb strikes against Russian forces when his aircraft was hit by a Russian missile. Mambetov ejected from the fighter but did not survive, according to the Air Force.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T06:14:26+00:00",
+      "timestamp": "2026-10-02T02:16:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -557,12 +616,88 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddf9\ud83c\uddea\ud83c\uddf9 Reports of explosions in Addis Ababa following drone attack by Tigray/Allied forces.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "President Zelensky ordered an urgent review of agreements with partners covering ammunition for Ukraine\u2019s F-16s and missiles for air defense. An updated delivery schedule for every country, agreement and package is due tomorrow. Zelensky said some commitments already agreed with foreign leaders have not yet been implemented at command level and stressed that additional missiles are needed in October. He thanked Germany, Norway and Finland for moving quickly.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T03:13:23+00:00",
+      "timestamp": "2026-10-02T02:15:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine\u2019s SkyFall unveiled Thor Hammer, its first middle-strike UAV, with variants offering ranges of up to 350 km and 600 km. Already used on the battlefield, it carries a 40-50 kg warhead, reaches 180 km/h and costs $25,000-30,000 depending on configuration. An operator makes the final decision to strike, after which AI and computer vision automatically correct the flight path, with guidance continuing even if radio or video communication is lost.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T02:15:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia is producing around 2,000 jet-powered Geran-4 and Geran-5 drones per month, RBC-Ukraine reports. Production reportedly increased after Russia ended Geran-3 production and redirected components to newer models, while further scaling is constrained by turbojet engines supplied from China. The outlet also reported that Russia may have held around 10,000 conventional piston-powered strike drones in stock as of last week.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T02:14:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russian sources report increasing Ukrainian activity on the Russian-held left bank of the Dnipro in Kherson region. They claim Ukrainian assault groups are repeatedly operating around the destroyed Antonivskyi Bridge and the nearby Dachi settlement, seeking conditions to establish a foothold. The reports say Ukrainian forces maintain constant aerial reconnaissance and extensively use FPV drones to isolate the area, with the situation changing rapidly.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T02:14:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A drone struck a school in Kyiv\u2019s Solomianskyi district, damaging the facade of the educational building at third-floor level and starting a fire, according to police. No casualties were initially reported. At the time of the attack, more than 100 students and around 60 school employees were inside a shelter.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T02:14:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -576,31 +711,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3Pakistan & Afghanistan exchange blame over cross-border strikes\nPakistan struck Afghanistan's Helmand and Kunar provinces overnight on September 30.\nPakistan's Ministry of Information said the strikes were based on intelligence under Operation \"Ghazab lil-Haq,\" targeting two sites it calls camps of \"Fitna al Khwarij\" and \"Fitna al Hindustan.\" It says 22 militants were killed but no civilian sites were hit. Islamabad has long accused Kabul of letting militants use Afghan soil to attack Pakistan, a claim Kabul denies.\nAfghan government spokesman Zabihullah Mujahid said the strikes hit homes in Shultan (Kunar) and Garmser (Helmand), killing nine civilians and wounding 11, including women and children. Three houses were destroyed.\n\u27a1\ufe0f The escalation began on September 18, when a suicide car bomber hit a mosque inside a police compound in Kohat, in Pakistan's Khyber Pakhtunkhwa province during Friday prayers. At least 21 people died, including 15 police, and over 100 were wounded. Several militants then tried to storm the compound and were killed in a firefight. The banned group \"Jamaat-ul-Ansar\" claimed responsibility. Islamabad says its leader is hiding in Afghanistan.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf1 Netanyahu calls FlyDubai \u2018Hollywood on steroids,\u2019 compares it to 9/11\nDuring his interview with CBS News, Israeli PM Benjamin Netanyahu simply said that the motives of the pilot who nearly crashed the FlyDubai plane will be determined during his interrogation.\nHe did liken this incident to the 9/11, arguing that the people onboard of the aircraft managed to prevent an airplane crash similar to those that occurred during those terrorist attacks.\nThe Israeli prime minister also compared the incident to action movies, describing it as \u201cHollywood on steroids\u201d during another interview on Fox News.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T13:55:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udccdHead of Ukraine\u2019s Fire Point drone & missile maker targeted in assassination attempt \nFire Point co-founder and chief designer Denys Shtilerman was attacked by assailants in the Kiev region, claims journalist Sergei Auslender.\nAccording to preliminary information:\n\ud83d\udd34 Shtilerman sustained a light wound\n\ud83d\udd34 one of his bodyguards was killed\n\ud83d\udd34 the attackers were eliminated\nDetails of the incident and the circumstances surrounding the attack remain unclear, and there has been no official confirmation so far.\n\ud83d\udc49 [Fire Point](https://t.me/geopolitics_prime/74841) churns out components for medium- and long-range attack drones, and produces components, warheads, and solid-fuel boosters for Flamingo FP-5 long-range cruise missiles.\nThe company has also featured in Ukraine's [high-profile corruption investigations](https://t.me/geopolitics_prime/73615) after it was mentioned in the so-called \u2018Mindich tapes\u2019 - recordings involving Volodymyr Zelensky associate, businessman Timur Mindich.\nUkraine's National Anti-Corruption Bureau (NABU) is investigating Mindich's links to Fire Point, including claims that the company significantly inflated prices on state-funded defense contracts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-01T13:14:01+00:00",
+      "timestamp": "2026-10-01T23:21:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
