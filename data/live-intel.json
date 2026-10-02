@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-02T20:09:41.416803+00:00",
+  "generated_at": "2026-10-02T23:49:20.335604+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nST PAUL, MN, Sunday, October 4, 2026 Local\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/02/2026",
+      "location": "ZMP MN",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEvansville, IN, Monday, October 5, 2026 through Saturday, October 10, 2026 Local\nFacility: ZID",
@@ -298,14 +317,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -325,66 +343,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Saudi Arabia is preparing a new offensive against Yemen\u2019s Houthis, potentially within weeks, aimed mainly at retaking the Bab el-Mandeb strait and restoring Red Sea shipping.\nMore than 100,000 Yemeni troops could be mobilized, with Saudi air support. Riyadh is considering either a limited coastal assault or a broader multi-front offensive across Yemen.\nThe U.S. is providing intelligence and military advisers but is not expected to join combat directly. \nPakistan has deployed 30,000\u201340,000 troops inside Saudi Arabia to help defend against Houthi missile and drone attacks.\nRiyadh believes peace talks cannot resume while the Houthis control Bab el-Mandeb.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T16:29:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Iraq says it secured an exemption allowing 40 daily flights to and from Najaf Airport by Iranian airlines, excluding Mahan Air.\nThe exemption is intended to ease passenger travel and support humanitarian and medical needs.\nIraq\u2019s prime minister thanked the U.S. government for approving the requested exemption.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T15:43:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Israeli investigators are expected to question the co-pilot accused of trying to crash a flydubai flight from Dubai to Tel Aviv after stabbing the captain.\nPassengers and crew subdued the co-pilot, while a reserve pilot crew landed the plane safely in Saudi Arabia. \nThe suspect, an Omani national, was later transferred to the UAE, which is leading the investigation.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T14:57:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -446,6 +404,102 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 As a result of Ansarullah's missile and drone attack, explosions are heard in Aseer, Najran and Jizan, in southwestern Saudi Arabia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T22:21:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddef\ud83c\uddf5\ud83c\uddfa\ud83c\udde6 Tokyo will purchase drones manufactured by Ukrainian company Skyfall on a trial basis, Kyodo reported, citing senior LDP member Itsunori Onodera, who visited Kiev. \nJapan plans to assess UAV capabilities and is considering adopting Ukrainian attack drones for the Self-Defense Forces. \nOnodera gathered data on modern warfare to share in intra-party discussions on revising key defense documents.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T21:37:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 The US military will deploy the advanced NMESIS anti-ship missile system to Japan\u2019s Yonaguni Island near Taiwan for the first time during major joint drills with Japan, Bloomberg reported, citing sources.\nAccording to them, the system will be deployed to Yonaguni during the Keen Sword exercise, scheduled for October 19-29. The Japanese military may also deploy its own anti-ship and air-defense missile systems on the island.\nYonaguni lies about 110 kilometers east of Taiwan and is Japan\u2019s closest territory to the island. NMESIS has a range of about 185 kilometers, allowing it to strike ships in the waters around Taiwan.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T21:34:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf4\ud83c\uddf2 The Wall Street Journal:\nOman had previously banned one of its pilots from flying over concerns that he holds extremist ideologies, the publication reports, citing sources familiar with the situation.\nDespite this, the airline FlyDubai hired him and allowed him to operate the company's flights to Tel Aviv.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T21:18:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "Earlier today, the IRGC blew up a building used by the People\u2019s Fighters Front (PFF), a Balochi nationalist militant organization operating in Sistan and Baluchestan Province, eastern Iran.\nThe strike comes amid a significant increase in PFF military activity in recent days, with attacks and operations taking place almost daily in Zahedan and Iranshahr.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T21:16:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces Spokesperson Yahya Saree says Saudi warplanes carried out 94 air raids and missile strikes over the past 24 hours, hitting civilian areas across Sana'a, Sa'ada, Taiz, Hajjah, Amran, and Ibb, resulting in civilian casualties.\nF-15 and Typhoon aircraft launched from Khamis Mushait and Taif airbases, while missile attacks originated from Najran and Jizan. The total number of Saudi-led coalition strikes since the escalation has reached 1,350.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -474,14 +528,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -504,22 +557,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf6\ud83c\udde6\ud83c\uddf8\ud83c\udde6 \u2014 Axios: The U.S. recently sent two additional Patriot missile batteries to protect key oil and gas facilities in Saudi Arabia and Qatar amid the possibility of renewed U.S. strikes on Iran.\n\ud83d\udd34",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 As a result of Ansarullah's missile and drone attack, explosions are heard in Aseer, Najran and Jizan, in southwestern Saudi Arabia.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T00:57:02+00:00",
+      "timestamp": "2026-10-02T22:19:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -549,25 +603,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-02T14:05:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Let's see, Chechnya, Afghan, Iraq, Syria, Bosnia, Gaza, Sudan, Ukraine and now Yemen.\nDo I really not have any guy here who went on campaigns in South America or Mexico? My feelers couldn't get lucky.\nYou're obviously entitled to free copies if you are if that's the case. \nWell, the feed moves on..",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T07:07:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -704,13 +739,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
