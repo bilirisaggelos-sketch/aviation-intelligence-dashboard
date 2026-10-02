@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:38:56.196598+00:00",
+  "generated_at": "2026-10-02T20:09:41.416803+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -287,23 +287,25 @@
       "verified_source_count": 1
     },
     {
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "text": "Explosions heard in Ethiopia's capital after drone flights banned\nIt comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-01T15:05:36+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: After discussions with the Iranian government, Iraq has decided to allow a maximum of 40 daily flights to and from Iran through Najaf International Airport \u2013 Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T17:22:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "BBC World News"
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -327,6 +329,46 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "NEW: Saudi Arabia is preparing a new offensive against Yemen\u2019s Houthis, potentially within weeks, aimed mainly at retaking the Bab el-Mandeb strait and restoring Red Sea shipping.\nMore than 100,000 Yemeni troops could be mobilized, with Saudi air support. Riyadh is considering either a limited coastal assault or a broader multi-front offensive across Yemen.\nThe U.S. is providing intelligence and military advisers but is not expected to join combat directly. \nPakistan has deployed 30,000\u201340,000 troops inside Saudi Arabia to help defend against Houthi missile and drone attacks.\nRiyadh believes peace talks cannot resume while the Houthis control Bab el-Mandeb.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T16:29:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Iraq says it secured an exemption allowing 40 daily flights to and from Najaf Airport by Iranian airlines, excluding Mahan Air.\nThe exemption is intended to ease passenger travel and support humanitarian and medical needs.\nIraq\u2019s prime minister thanked the U.S. government for approving the requested exemption.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T15:43:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Israeli investigators are expected to question the co-pilot accused of trying to crash a flydubai flight from Dubai to Tel Aviv after stabbing the captain.\nPassengers and crew subdued the co-pilot, while a reserve pilot crew landed the plane safely in Saudi Arabia. \nThe suspect, an Omani national, was later transferred to the UAE, which is leading the investigation.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
@@ -336,51 +378,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran's Security Council Secretary Rezaei:\nAfter one failure after another, the worst president in American history just keeps talking\u2014and talking\u2014and now his words have even outrun his own fantasies. \nYou can win every day in your own imagination. But reality is shaped by Iran\u2014by its people, its soldiers,and its missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T14:13:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Belgium's Defense Minister Theo Francken:\nI want to have a partnership with our beautiful enterprises \u2014 Belgian, but European also, American, maybe even Turkish, because they have very, very good drone systems \u2014 to, as soon as possible, have an innovative partnership that follows the trends all the time.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T13:44:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -442,6 +446,46 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces Spokesperson Yahya Saree says Saudi warplanes carried out 94 air raids and missile strikes over the past 24 hours, hitting civilian areas across Sana'a, Sa'ada, Taiz, Hajjah, Amran, and Ibb, resulting in civilian casualties.\nF-15 and Typhoon aircraft launched from Khamis Mushait and Taif airbases, while missile attacks originated from Najran and Jizan. The total number of Saudi-led coalition strikes since the escalation has reached 1,350.\n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T17:05:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7 \u2014 The Iraqi Prime Minister\u2019s Office announced an agreement allowing Iranian airlines to operate 40 daily flights to Najaf International Airport, excluding Mahan Air.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T15:48:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran's Security Council Secretary Mohsen Rezaei:\nAfter one failure after another, the worst president in American history just keeps talking\u2014and talking\u2014and now his words have even outrun his own fantasies. \nYou can win every day in your own imagination. But reality is shaped by Iran\u2014by its people, its soldiers,and its missiles.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
@@ -451,13 +495,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -475,6 +518,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf1 Five israeli Hermes 450 drones, dedicated to signals intelligence, were flying over the capital, Damascus.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T15:51:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -627,6 +689,64 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd2f False flag op to blame Iran? Iranian media raises questions over FlyDubai incident\nA false flag FlyDubai hijacking was orchestrated by Prime Minister Benjamin Netanyahu to drag US President Donald Trump into a new war against Iran, Press TV reports.\nThe alleged plot was discussed and finalized by Netanyahu and Emirati officials during the Israeli's latest visit to the UAE, an informed regional source told the publication. Netanyahu also reportedly held talks with officials from several other Arab countries to attribute the planned false flag operation to Iran.\nThree days later, on September 30, Flydubai flight FZ1073 left Dubai International Airport for Ben Gurion Airport. Over northern Saudi Arabia, it transmitted the unlawful interference code, made a sharp descent, but then landed safely at Prince Sultan bin Abdulaziz Airport in Tabuk.\n\ud83d\udde3 Israeli officials said a co-pilot stabbed the plane's captain during the flight, but passengers and crew managed to restrain the attacker. The Omani co-pilot was reportedly detained by Saudi authorities. Netanyahu and his cabinet officials [described it as a foiled 9/11-style attack](https://t.me/geopolitics_prime/75472).\n\u27a1\ufe0f On October 1, US President Donald Trump suggested that the Omani co-pilot was linked to Iran and had allegedly been planted by the IRGC.\nThe source told Press TV that Netanyahu needs an escalation between the US and Iran, as his coalition may fail to secure a majority in the October elections, leaving him at risk of facing prison if he loses.\nSome experts doubt that Trump would resume large-scale military actions against Iran ahead of the November midterm elections in the US. The US president said renewed bombing of Iran after the midterms was \"possible.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T19:24:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\ude80 US rushes Patriots to fortify Saudi & Qatari energy hubs as Trump weighs hitting Iran again\nTwo additional Patriot missile batteries have been sent to the Gulf states in recent weeks, reports Axios.\nOne was deployed to protect a key Saudi oil facility, while the other was positioned to defend a major Qatari natural gas site, according to insiders.\nThe move reportedly aims to reassure both allies that their energy assets will stay protected if the US [resumes major combat operations](https://t.me/geopolitics_prime/75476) against Iran.\n\u27a1\ufe0f Saudi Arabia has been[ running low on interceptor missiles](https://t.me/geopolitics_prime/74699) and seeking urgent air defense support amid the fight against the Houthis.\nThe deployments serve a wider strategic purpose:\n\ud83d\udd34 access to Saudi airspace would be essential for any large-scale US operations\n\ud83d\udd34 the kingdom is unlikely to grant it without firm guarantees that its energy facilities are secure\nWhen Trump weighed strikes on Iranian energy targets this summer, Saudi and Qatari leaders reportedly[ lobbied him to back off](https://t.me/geopolitics_prime/73009) - arguing that Iran would retaliate against their own oil and gas infrastructure. \nThose appeals purportedly helped shift the administration toward an [economic-pressure approach](https://t.me/geopolitics_prime/75065?single) instead.\nGlobal Patriot stocks[ have been drained](https://t.me/geopolitics_prime/75168) by the Ukraine conflict and the Iran war, with the US shuttling batteries and munitions from other theaters to the Middle East.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T18:02:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7Iran marks second anniversary of Operation True Promise 2\nTwo years ago, Iran unleashed a barrage of ballistic missiles upon Israel in retaliation for the assassinations of senior figures of Hamas, Hezbollah and IRGC by the Israelis.\nAs the attack effectively proved that Israel\u2019s air defenses were not, in fact, impregnable, Iran warned that \u201cthe era of cost-free threats has come to an end.\u201d\nIran commemorated the occasion by releasing what appears to be footage of the operation in question, featuring Iranian missile launches and the reaction of the public.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-02T15:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
