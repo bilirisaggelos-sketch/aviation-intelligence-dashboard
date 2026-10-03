@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T04:55:40.189307+00:00",
+  "generated_at": "2026-10-03T10:19:35.680465+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -279,13 +279,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -303,6 +302,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A U.S. Navy MQ-4C Triton surveillance drone ended up on the riverbank at the end of a runway at Naval Station Mayport, Florida, after what appears to be a landing overrun.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T07:53:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -366,6 +384,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Footage shows columns of smoke rising from Aramco oil refineries in Riyadh, the capital of Saudi Arabia, following an alleged attack by missiles and drones launched by the Ansar Allah movement.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T09:32:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 As a result of Ansarullah's missile and drone attack, explosions are heard in Aseer, Najran and Jizan, in southwestern Saudi Arabia.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -423,103 +460,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf4\ud83c\uddf2 The Wall Street Journal:\nOman had previously banned one of its pilots from flying over concerns that he holds extremist ideologies, the publication reports, citing sources familiar with the situation.\nDespite this, the airline FlyDubai hired him and allowed him to operate the company's flights to Tel Aviv.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T21:18:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "Earlier today, the IRGC blew up a building used by the People\u2019s Fighters Front (PFF), a Balochi nationalist militant organization operating in Sistan and Baluchestan Province, eastern Iran.\nThe strike comes amid a significant increase in PFF military activity in recent days, with attacks and operations taking place almost daily in Zahedan and Iranshahr.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T21:16:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces Spokesperson Yahya Saree says Saudi warplanes carried out 94 air raids and missile strikes over the past 24 hours, hitting civilian areas across Sana'a, Sa'ada, Taiz, Hajjah, Amran, and Ibb, resulting in civilian casualties.\nF-15 and Typhoon aircraft launched from Khamis Mushait and Taif airbases, while missile attacks originated from Najran and Jizan. The total number of Saudi-led coalition strikes since the escalation has reached 1,350.\n\u2b50\ufe0f Follow",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T17:05:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7 \u2014 The Iraqi Prime Minister\u2019s Office announced an agreement allowing Iranian airlines to operate 40 daily flights to Najaf International Airport, excluding Mahan Air.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T15:48:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran's Security Council Secretary Mohsen Rezaei:\nAfter one failure after another, the worst president in American history just keeps talking\u2014and talking\u2014and now his words have even outrun his own fantasies. \nYou can win every day in your own imagination. But reality is shaped by Iran\u2014by its people, its soldiers,and its missiles.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T14:21:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 As a result of Ansarullah's missile and drone attack, explosions are heard in Aseer, Najran and Jizan, in southwestern Saudi Arabia.",
       "source": "Telegram",
@@ -540,51 +480,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf1 Five israeli Hermes 450 drones, dedicated to signals intelligence, were flying over the capital, Damascus.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T15:51:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfe\ud83c\uddea The FBI has arrested a U.S. Energy Department employee for allegedly providing material support to the Houthis\n- the U.S. Justice Department.\nThe employee is alleged to have used specialized expertise to assist the group and acquired materials for explosives and drones capable of delivering them.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T14:05:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The Russian MoD claims its air defense intercepted 209 Ukrainian drones over Russian regions during the day.",
+      "text": "Five drones crossed into Moldovan airspace this morning, triggering explosions and leaving wreckage across several districts, according to the country's Defense Ministry.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T04:55:31+00:00",
+      "timestamp": "2026-10-03T07:38:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -598,12 +500,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian drones are currently active across several Russian regions, including Voronezh, Bryansk, and Kaluga, with groups heading toward Moscow Oblast. Activity is also reported in Rostov and near Crimea by Russian monitoring sources.",
+      "text": "Overnight, a massive strike hit the Tsymbulova UAV launch base in Oryol Oblast, Russia. NASA FIRMS satellite data confirms multiple fire hotspots around the drone storage and launch facilities.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T04:55:24+00:00",
+      "timestamp": "2026-10-03T07:38:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -617,12 +519,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian fighters from Lasar\u2019s Group downed another jet-powered Geran-5 using the P1-SUN JetKiller, their second in recent days, intercepting it on a head-on crossing course. Five interceptor drones now have video-confirmed Geran-5 kills.",
+      "text": "Once again this morning, Russian forces struck a pylon of the Pivnichnyi Bridge in Kyiv with a drone.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T04:55:10+00:00",
+      "timestamp": "2026-10-03T07:38:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -636,12 +538,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine\u2019s Defense Forces FP-2 strike drones destroyed a Russian Pantsir-S2 air defense system. After a secondary detonation, the system was blown apart.",
+      "text": "ABC reports the Omani co-pilot accused in the flydubai attack, Hamam al-Hamami, 29, told investigators he intended to crash the aircraft in Israel. Al-Hamami was suspended from flying at Oman Air in 2024 after extremist material was found in his possession and was restricted to administrative duties. Investigators are now examining how he was later cleared to join flydubai and serve as a co-pilot on flights to Israel.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T04:55:06+00:00",
+      "timestamp": "2026-10-03T07:37:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -655,12 +557,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russian drones are reportedly being shot down with missiles over Kyiv right now.",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\ud83c\uddf5\ud83c\uddf0 [Reuters](https://www.reuters.com/world/asia-pacific/saudis-plan-assault-houthis-break-red-sea-chokehold-2026-10-02/)\u2060: Saudi Arabia is preparing a new offensive against Yemen\u2019s Houthis, potentially mobilizing more than 100,000 Yemeni troops in an effort to retake the Bab el-Mandeb area. \nPakistan has deployed 30,000\u201340,000 troops to Saudi Arabia to help defend its borders and intercept Houthi drones and missiles. Pakistani military advisers are also supporting Saudi-backed Yemeni forces, though Islamabad has not decided to send Pakistani troops into Yemen for combat. \nPakistan has also sent air-defense systems, artillery, drones and anti-drone systems to Aden, while the U.S. is providing Saudi operations with intelligence and military advisers. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T04:54:59+00:00",
+      "timestamp": "2026-10-03T05:42:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -673,39 +575,96 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russia\u2019s Defense Ministry has officially confirmed the strike on Kyiv\u2019s Pivdennyi Bridge, and Z-channels are sharing drone video with a clear view of the bridge.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran security chief mocks Trump\u2019s victory claims\nMohsen Rezaei has ridiculed Donald Trump\u2019s repeated claims of victory over Iran, saying the US president\u2019s rhetoric has \u201coutrun his own fantasies.\u201d\n\ud83d\udcac \u201cYou can win every day in your own imagination. But reality is shaped by Iran \u2014 by its people, its soldiers, and its missiles,\u201d Rezaei wrote on X.\nHis comments come as Trump again threatens renewed military action. On Thursday, the US president said Iran would either accept what he called a \u201cvery fair deal\u201d or \u201cwon\u2019t exist any longer,\u201d while Washington is reinforcing its military presence in the Middle East and considering further strikes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T04:52:22+00:00",
+      "timestamp": "2026-10-03T08:37:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Romania\u2019s Defense Ministry [says](https://www.mapn.ro/cpresa/19427_informa\u021bie-de-presa) a drone fell during Russia\u2019s overnight attack, around 05:00 near Plauru in Tulcea County. It caused a fire but no casualties, and the ministry says radar did not detect any airspace violation.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Russian Geran drones strike Ukraine's Northern Bridge over Dnieper River in Kiev\nThe road surface and trolleybus contact network were damaged. Traffic from the left bank to the right bank across the Northern Bridge has been blocked.\nWhy it matters:\n\ud83d\udd34 Kiev has two cable-stayed road bridges \u2014 Southern and Northern \u2014 and both have now been attacked by Gerans with new shaped-charge warheads\n\ud83d\udd34 The Northern Bridge is the main artery connecting the Right Bank with the Left Bank of Kiev region, as well as the Chernigov and Sumy directions \n\ud83d\udd34 It's a key logistics hub for supplying the Ukrainian forces holding the border\n\ud83d\udd34 Unlike the Southern Bridge, the Northern is exclusively for road traffic \u2014 but has eight lanes carrying heavy cargo and military equipment bypassing the city center from the north\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T04:51:44+00:00",
+      "timestamp": "2026-10-03T07:56:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3 Saudi Arabia has no chance in fight with Iran \u2013 Mearsheimer\nSaudi Arabia going up against Iran would be tantamount to Bambi versus Godzilla, with the Saudis being the former and Iran being the latter, Prof. John Mearsheimer claimed on the Judging Freedom podcast.\n\ud83d\udcac \u201cIf the Saudis can't beat the Houthis, how could they possibly beat Iran?\u201d he inquired.\n\ud83d\udc49 Mearsheimer\u2019s remarks come as Saudi Arabia plans a major offensive against the Houthis in an attempt to break their blockade of the Red Sea.\nWith Iran closing the Strait of Hormuz and the Houthis blocking Bab el-Mandeb, Saudi Arabia lost two of its main ways of exporting oil to global markets, which spurs Riyadh to find a solution as soon as possible.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T07:15:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0dFlyDubai co-pilot who tried to crash the plane was banned by Oman over radicalization fears \u2014 report\nOmani national Hamam al-Hammami had been banned from flying by Oman over concerns he had adopted radical ideological views, The Wall Street Journal reports.\nKey details:\n\ud83d\udd34 Despite the ban, FlyDubai hired him \u2014 putting him on the sensitive UAE-Israel route\n\ud83d\udd34 It's unclear whether Oman shared its concerns with other countries or airlines\n\ud83d\udd34 The nature of his radicalization couldn't be learned\n\ud83d\udd34 He stabbed his captain and sent Flight 1073 from Dubai to Tel Aviv into a dive that nearly tore the plane apart\n\ud83d\udd34 Israel is investigating whether he acted alone or with others\n\ud83d\udd34 The attacker is in the UAE\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T05:53:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 \ud83d\ude97 Saudi Arabia prepares new Yemen offensive to retake Bab el-Mandeb Strait\nRiyadh is weighing two options: a focused coastal push around Bab el-Mandeb or a broader multi-front campaign across Yemen, with more than 100,000 Yemeni troops potentially mobilized and Saudi air power in support, Reuters reports, citing regional and Western officials.\n\u27a1\ufe0f The main objective is Bab el-Mandeb, the strategic southern gateway to the Red Sea, which the Houthis seized in September. With the Strait of Hormuz already heavily disrupted by the Iran war, control of Bab el-Mandeb gives the group major leverage over one of the world\u2019s most important shipping routes.\nThe US is providing intelligence and targeting support, while Pakistan and Turkey have supplied military equipment. But Reuters says Washington is not expected to join the fighting directly.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T05:12:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -737,25 +696,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-03T01:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd2f False flag op to blame Iran? Iranian media raises questions over FlyDubai incident\nA false flag FlyDubai hijacking was orchestrated by Prime Minister Benjamin Netanyahu to drag US President Donald Trump into a new war against Iran, Press TV reports.\nThe alleged plot was discussed and finalized by Netanyahu and Emirati officials during the Israeli's latest visit to the UAE, an informed regional source told the publication. Netanyahu also reportedly held talks with officials from several other Arab countries to attribute the planned false flag operation to Iran.\nThree days later, on September 30, Flydubai flight FZ1073 left Dubai International Airport for Ben Gurion Airport. Over northern Saudi Arabia, it transmitted the unlawful interference code, made a sharp descent, but then landed safely at Prince Sultan bin Abdulaziz Airport in Tabuk.\n\ud83d\udde3 Israeli officials said a co-pilot stabbed the plane's captain during the flight, but passengers and crew managed to restrain the attacker. The Omani co-pilot was reportedly detained by Saudi authorities. Netanyahu and his cabinet officials [described it as a foiled 9/11-style attack](https://t.me/geopolitics_prime/75472).\n\u27a1\ufe0f On October 1, US President Donald Trump suggested that the Omani co-pilot was linked to Iran and had allegedly been planted by the IRGC.\nThe source told Press TV that Netanyahu needs an escalation between the US and Iran, as his coalition may fail to secure a majority in the October elections, leaving him at risk of facing prison if he loses.\nSome experts doubt that Trump would resume large-scale military actions against Iran ahead of the November midterm elections in the US. The US president said renewed bombing of Iran after the midterms was \"possible.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T19:24:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
