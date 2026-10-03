@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T23:49:20.335604+00:00",
+  "generated_at": "2026-10-03T04:55:40.189307+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -60,25 +60,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEast Rutherford, NJ, Friday, October 2, 2026 through Friday, October 2, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/01/2026",
-      "location": "ZNY NJ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nST PAUL, MN, Tuesday, October 6, 2026 through Tuesday, October 6, 2026 Local\nFacility: ZMP",
       "source": "FAA",
       "source_type": "official",
@@ -125,25 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/01/2026",
       "location": "ZID OH",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMobile, AL, Friday, October 2, 2026 through Friday, October 2, 2026 Local\nFacility: ZHU",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/01/2026",
-      "location": "ZHU AL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -509,12 +471,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -616,12 +579,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The commander of Hamas's Northern Gaza Brigade, who was killed in an Israeli strike in Gaza City earlier this week, had been responsible for holding numerous hostages in captivity, the military says.\nThe IDF says that \"following extensive intelligence research,\" it can reveal that Izz al-Din al-Bik, who was killed on Tuesday, \"commanded the captivity of Israeli hostages during the war.\"\nThe hostages under Bik's responsibility included Mia Schem, Hisham al-Sayed, Amit Buskila, Uriel Baruch, Corporal Nik Beizer, Sergeant Ron Sherman, Elia Toledano, Shani Louk, Michel Nisenbaum, Staff Sergeant Tamir Nimrodi, Yitzhak Gelerenter, Eitan Levy, Hanan Yablonka, Ron Benjamin, and Orion Hernandez.\nBik had been in the role since the previous Northern Gaza Brigade commander, Ahmed Ghandour, was killed by Israel on November 10, 2023, according to the military and Hamas.\nBefore that, he held other top roles, including chief of intelligence in the Northern Gaza Brigade and commander of the Western Jabalia Battalion.\n\"In these roles, he advanced and financed numerous attacks against Israeli civilians and was among the founders of Hamas\u2019s Nukhba forces in northern Gaza,\" the military says.\nIn addition, Bik \"commanded and participated in the infiltration into Israeli territory\" during the October 7, 2023, onslaught, according to the IDF.",
+      "text": "The Russian MoD claims its air defense intercepted 209 Ukrainian drones over Russian regions during the day.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T05:23:29+00:00",
+      "timestamp": "2026-10-03T04:55:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -635,12 +598,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Yemeni Armed Forces spokesman says air force fighters struck 20 Houthi military positions in Taiz province over the past three hours.",
+      "text": "Ukrainian drones are currently active across several Russian regions, including Voronezh, Bryansk, and Kaluga, with groups heading toward Moscow Oblast. Activity is also reported in Rostov and near Crimea by Russian monitoring sources.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T04:41:51+00:00",
+      "timestamp": "2026-10-03T04:55:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -654,12 +617,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "#Colombia \ud83c\udde8\ud83c\uddf4: National Liberation Army (#ELN) carried out a drone strike targeting a police station in R\u00edo Ir\u00f3, Choc\u00f3 Department.\nGroup 'very likely' used DJI Quadcopter COTS Drones armed with Improvised Air-Dropped Grenades, as in previous attacks.\nhttps://x.com/war_noir/status/2105854479631319239",
+      "text": "Ukrainian fighters from Lasar\u2019s Group downed another jet-powered Geran-5 using the P1-SUN JetKiller, their second in recent days, intercepting it on a head-on crossing course. Five interceptor drones now have video-confirmed Geran-5 kills.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T03:14:13+00:00",
+      "timestamp": "2026-10-03T04:55:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -673,12 +636,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted Volgograd early this Friday morning.",
+      "text": "Ukraine\u2019s Defense Forces FP-2 strike drones destroyed a Russian Pantsir-S2 air defense system. After a secondary detonation, the system was blown apart.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T03:14:08+00:00",
+      "timestamp": "2026-10-03T04:55:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -692,12 +655,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea A Houthi UAV strike targeted Al-Buraiqah District, Aden Governorate, in the PLC-controlled capital.\nThe extent of casualties and damage remains unclear.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Russian drones are reportedly being shot down with missiles over Kyiv right now.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T03:14:00+00:00",
+      "timestamp": "2026-10-03T04:54:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -711,12 +674,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russian forces have struck Kyiv\u2019s Southern Bridge again, hitting its road surface, according to Mayor Vitali Klitschko.\nEarlier today, two Russian drones reportedly struck one of the bridge\u2019s supports.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Russia\u2019s Defense Ministry has officially confirmed the strike on Kyiv\u2019s Pivdennyi Bridge, and Z-channels are sharing drone video with a clear view of the bridge.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T03:10:22+00:00",
+      "timestamp": "2026-10-03T04:52:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -724,6 +687,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Romania\u2019s Defense Ministry [says](https://www.mapn.ro/cpresa/19427_informa\u021bie-de-presa) a drone fell during Russia\u2019s overnight attack, around 05:00 near Plauru in Tulcea County. It caused a fire but no casualties, and the ministry says radar did not detect any airspace violation.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T04:51:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Trump points to Iran war as proof he\u2019s doing a \u2018great job\u2019\n\ud83d\udcac \u201cLook at the job we\u2019ve done. Venezuela, Iran \u2014 same thing. It\u2019s going to fall soon. Don\u2019t worry about it. Don\u2019t worry about it,\u201d US President Donald Trump told supporters in Oklahoma while discussing the upcoming midterms.\nTrump said presidents typically perform poorly in midterm elections, adding that he does not understand why that should apply to his administration given what he described as its record.\nDon\u2019t worry about it.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T03:49:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel needs Gaza without Palestinians \u2014 Ben-Gvir\nIsraeli National Security Minister Itamar Ben-Gvir agreed with a host who argued that peace would come if there were no Palestinians in Gaza.\n\ud83d\udde3 Host: \u201cIf there are no Palestinians in Gaza, there will be peace.\u201d\n\ud83d\udcac Ben-Gvir: \u201cPeriod. And we need to want that.\u201d\nBen-Gvir then claimed that Israel had previously received proposals along those lines, but Prime Minister Benjamin Netanyahu rejected them.\n\ud83d\udcac \u201cWe had concrete offers, and he didn\u2019t take them.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T01:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -736,44 +756,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-02T19:24:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\ude80 US rushes Patriots to fortify Saudi & Qatari energy hubs as Trump weighs hitting Iran again\nTwo additional Patriot missile batteries have been sent to the Gulf states in recent weeks, reports Axios.\nOne was deployed to protect a key Saudi oil facility, while the other was positioned to defend a major Qatari natural gas site, according to insiders.\nThe move reportedly aims to reassure both allies that their energy assets will stay protected if the US [resumes major combat operations](https://t.me/geopolitics_prime/75476) against Iran.\n\u27a1\ufe0f Saudi Arabia has been[ running low on interceptor missiles](https://t.me/geopolitics_prime/74699) and seeking urgent air defense support amid the fight against the Houthis.\nThe deployments serve a wider strategic purpose:\n\ud83d\udd34 access to Saudi airspace would be essential for any large-scale US operations\n\ud83d\udd34 the kingdom is unlikely to grant it without firm guarantees that its energy facilities are secure\nWhen Trump weighed strikes on Iranian energy targets this summer, Saudi and Qatari leaders reportedly[ lobbied him to back off](https://t.me/geopolitics_prime/73009) - arguing that Iran would retaliate against their own oil and gas infrastructure. \nThose appeals purportedly helped shift the administration toward an [economic-pressure approach](https://t.me/geopolitics_prime/75065?single) instead.\nGlobal Patriot stocks[ have been drained](https://t.me/geopolitics_prime/75168) by the Ukraine conflict and the Iran war, with the US shuttling batteries and munitions from other theaters to the Middle East.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T18:02:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7Iran marks second anniversary of Operation True Promise 2\nTwo years ago, Iran unleashed a barrage of ballistic missiles upon Israel in retaliation for the assassinations of senior figures of Hamas, Hezbollah and IRGC by the Israelis.\nAs the attack effectively proved that Israel\u2019s air defenses were not, in fact, impregnable, Iran warned that \u201cthe era of cost-free threats has come to an end.\u201d\nIran commemorated the occasion by releasing what appears to be footage of the operation in question, featuring Iranian missile launches and the reaction of the public.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T15:41:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
