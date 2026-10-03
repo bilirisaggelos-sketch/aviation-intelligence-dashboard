@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-03T10:19:35.680465+00:00",
+  "generated_at": "2026-10-03T14:49:36.369681+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nGrand Island, NE, Monday, October 5, 2026 through Monday, October 5, 2026 Local\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/03/2026",
+      "location": "ZMP NE",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nST PAUL, MN, Sunday, October 4, 2026 Local\nFacility: ZMP",
@@ -270,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: After discussions with the Iranian government, Iraq has decided to allow a maximum of 40 daily flights to and from Iran through Najaf International Airport \u2013 Reuters",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Some kind of surveillance drone was downed above Qeshm Island",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T17:22:54+00:00",
+      "timestamp": "2026-10-03T14:47:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -289,12 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles struck Riyadh, the capital of Saudi Arabia, for the second consecutive day",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 UPDATE: Iranian Sayyad-3 air defense missiles were found on Qeshm Island \nThese belong to the long-range domestic air defense system Khordad-15. It\u2019s quite rare to see such systems operational after the past two wars.\nThis could indicate Iran has rebuilt some of its air defense capabilities. We now wait and see what was actually downed by the missile.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T15:04:35+00:00",
+      "timestamp": "2026-10-03T14:02:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -307,22 +326,62 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A U.S. Navy MQ-4C Triton surveillance drone ended up on the riverbank at the end of a runway at Naval Station Mayport, Florida, after what appears to be a landing overrun.",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Jalal Al-Khameri, one of the largest pro-PLC commentators in Taizz:\n\u200e\u2019We don\u2019t have a single tank or armored vehicles, no heat-seeking missiles or launchers, but specialized weapons are piled up on the rest of the fronts\u2014enough to liberate all of Yemen.\nDamn you and damn Bani Mazeed [local tribe] for letting them lead the army and serve as the war command staff.\nWho fights the Zaidis by putting other Zaidis at the head of his own army?? Do you have shit for brains or what\u2019s in your head?\u2019",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T07:53:49+00:00",
+      "timestamp": "2026-10-03T12:49:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles hit an ARAMCO facility in Riyadh, the capital of Saudi Arabia",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T12:21:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "North Korea says it test-fired an intermediate-range strategic missile using AI technology, capable of changing its flight path at low altitude and flying in several trajectory modes.\nKim Jong Un personally oversaw the drill. Kim Yo Jong claimed South Korea and Japan were unable to fully track the missile, saying \u201cthere is no way to avoid this attack.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T13:59:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -384,12 +443,32 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Footage shows columns of smoke rising from Aramco oil refineries in Riyadh, the capital of Saudi Arabia, following an alleged attack by missiles and drones launched by the Ansar Allah movement.\n\ud83d\udd34",
+      "text": "\u26a1\ud83c\uddf0\ud83c\uddf5 North Korea has confirmed the conduct of strategic weapons launch drills.\nKim Jong Un's sister, Kim Yo Jong, stated that a \"strategic medium-range ballistic missile\" was launched during the drills.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T09:32:10+00:00",
+      "timestamp": "2026-10-03T13:40:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddef\ud83c\uddf5\ud83c\uddf0\ud83c\uddf5 According to a statement by Japan's Ministry of Defense, \"a certain object,\" presumably a ballistic missile, was launched from North Korea as part of another round of tests conducted in recent weeks.\nAccording to a subsequent statement, Japan's Ministry of Defense assesses that this object has already fallen, likely into the open sea.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T13:31:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -399,6 +478,45 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Kim Yo Jong Confirms Intermediate-Range Missile Test Featuring Advanced Trajectory and AI Guidance, \u2014 Reuters. \n\u200b\u27a1\ufe0f North Korean official Kim Yo Jong formally confirmed that Pyongyang successfully conducted an intermediate-range strategic missile test, overseen directly by leader Kim Jong Un. The confirmation follows initial tracking reports from the South Korean military indicating that a ballistic missile flew over 700 kilometers toward the sea off the country's east coast. Kim asserted that the test utilized a specialized \"wave-like trajectory mode\" designed to exploit and expose vulnerabilities in regional tracking architecture, claiming that monitoring assets operated by Seoul and Tokyo failed to properly track the projectile past its initial skip points. \n\u200b\u27a1\ufe0f Highlighting technological advancements in Pyongyang's arsenal, Kim stated that the test integrated artificial intelligence to dynamically alter the missile's flight orbit at low altitudes. She maintained that these capabilities render traditional defense tracking systems ineffective, underscoring an ongoing push to refine maneuverable payload delivery systems. This strategic demonstration follows heightened cross-border friction, including a public dismissal by Pyongyang of Seoul's demands for an apology regarding landmine incidents in the Demilitarized Zone, alongside a steady cadence of missile tests protesting joint U.S.-South Korean military exercises. \n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T11:33:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Footage shows columns of smoke rising from Aramco oil refineries in Riyadh, the capital of Saudi Arabia, following an alleged attack by missiles and drones launched by the Ansar Allah movement.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-03T09:32:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -419,44 +537,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddef\ud83c\uddf5\ud83c\uddfa\ud83c\udde6 Tokyo will purchase drones manufactured by Ukrainian company Skyfall on a trial basis, Kyodo reported, citing senior LDP member Itsunori Onodera, who visited Kiev. \nJapan plans to assess UAV capabilities and is considering adopting Ukrainian attack drones for the Self-Defense Forces. \nOnodera gathered data on modern warfare to share in intra-party discussions on revising key defense documents.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T21:37:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 The US military will deploy the advanced NMESIS anti-ship missile system to Japan\u2019s Yonaguni Island near Taiwan for the first time during major joint drills with Japan, Bloomberg reported, citing sources.\nAccording to them, the system will be deployed to Yonaguni during the Keen Sword exercise, scheduled for October 19-29. The Japanese military may also deploy its own anti-ship and air-defense missile systems on the island.\nYonaguni lies about 110 kilometers east of Taiwan and is Japan\u2019s closest territory to the island. NMESIS has a range of about 185 kilometers, allowing it to strike ships in the waters around Taiwan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-02T21:34:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -576,12 +656,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran security chief mocks Trump\u2019s victory claims\nMohsen Rezaei has ridiculed Donald Trump\u2019s repeated claims of victory over Iran, saying the US president\u2019s rhetoric has \u201coutrun his own fantasies.\u201d\n\ud83d\udcac \u201cYou can win every day in your own imagination. But reality is shaped by Iran \u2014 by its people, its soldiers, and its missiles,\u201d Rezaei wrote on X.\nHis comments come as Trump again threatens renewed military action. On Thursday, the US president said Iran would either accept what he called a \u201cvery fair deal\u201d or \u201cwon\u2019t exist any longer,\u201d while Washington is reinforcing its military presence in the Middle East and considering further strikes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\udd85 \u2620\ufe0f CIA's secret weather control files resurface \nDeclassified CIA documents from 1965 reveal America's plans to manipulate the weather as a weapon of war, the Daily Mail reports \u2014 and conspiracy theorists are calling it proof the agency has been \"poisoning the sky\" for decades.\n\ud83d\udd34 The 18-page report discussed weather modification \u2014 launching rockets or using planes to dump chemicals into the atmosphere to alter climate and storm systems\n\ud83d\udd34 It noted federal funding for the secret program was set to be four times higher in 1967 \u2014 the same year the US began spraying toxins over Vietnam\n\ud83d\udd34 President Lyndon B. Johnson's letter praised the classified operation, specifically mentioning work manipulating a hurricane near Florida \u2014 believed to be Hurricane Betsy, which hit Louisiana as a Category 4\n\ud83d\udd34 Two programs followed: Project Stormfury, which flew into hurricanes and seeded them with silver iodide to weaken storms, and Project Popeye, used against enemy supply lines during the Vietnam War to artificially extend the monsoon season\n\ud83d\udd34 Records later showed the US seeded clouds with toxic lead iodide near the Ho Chi Minh Trail, causing landslides \u2014 lead is toxic to humans with no safe level of exposure\nIn 1962, then-Vice President Johnson said: \"He who controls the weather will control the world.\" Three years later, he was overseeing two weather-modification programs \u2014 and the files are now public.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T08:37:01+00:00",
+      "timestamp": "2026-10-03T13:22:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -595,12 +675,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russian Geran drones strike Ukraine's Northern Bridge over Dnieper River in Kiev\nThe road surface and trolleybus contact network were damaged. Traffic from the left bank to the right bank across the Northern Bridge has been blocked.\nWhy it matters:\n\ud83d\udd34 Kiev has two cable-stayed road bridges \u2014 Southern and Northern \u2014 and both have now been attacked by Gerans with new shaped-charge warheads\n\ud83d\udd34 The Northern Bridge is the main artery connecting the Right Bank with the Left Bank of Kiev region, as well as the Chernigov and Sumy directions \n\ud83d\udd34 It's a key logistics hub for supplying the Ukrainian forces holding the border\n\ud83d\udd34 Unlike the Southern Bridge, the Northern is exclusively for road traffic \u2014 but has eight lanes carrying heavy cargo and military equipment bypassing the city center from the north\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7 Any new aggression against Iran will trigger a more lethal response - IRGC\nAny new attack on Iran would trigger a \u201cpainful and regret-inducing\u201d response, Iran\u2019s Islamic Revolutionary Guard Corps warned while marking the second anniversary of Operation True Promise II, according to Press TV.\nThe IRGC said the October 2024 operation demonstrated Iran\u2019s ability to strike Israel with large-scale missile attacks and was carried out in retaliation for the killings of senior Iranian and allied figures, including Ismail Haniyeh, Hassan Nasrallah, and IRGC commander Abbas Nilforoushan.\n\ud83d\udcac \u201cThe era of cost-free threats has ended,\u201d the IRGC said, arguing that any future aggression by the US, Israel, or their regional partners would face a response stronger than True Promise II.\nIn October 2024, Iran launched nearly 200 ballistic missiles at Israel, a strike the IRGC now cites as a warning that any future attack on Iran would carry a higher cost.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T07:56:01+00:00",
+      "timestamp": "2026-10-03T12:41:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -614,88 +694,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3 Saudi Arabia has no chance in fight with Iran \u2013 Mearsheimer\nSaudi Arabia going up against Iran would be tantamount to Bambi versus Godzilla, with the Saudis being the former and Iran being the latter, Prof. John Mearsheimer claimed on the Judging Freedom podcast.\n\ud83d\udcac \u201cIf the Saudis can't beat the Houthis, how could they possibly beat Iran?\u201d he inquired.\n\ud83d\udc49 Mearsheimer\u2019s remarks come as Saudi Arabia plans a major offensive against the Houthis in an attempt to break their blockade of the Red Sea.\nWith Iran closing the Strait of Hormuz and the Houthis blocking Bab el-Mandeb, Saudi Arabia lost two of its main ways of exporting oil to global markets, which spurs Riyadh to find a solution as soon as possible.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8Saudi Arabia strikes Yemen \u2014 Mehr\nThe Saudi-led coalition conducted an airstrike on Sana'a, along with artillery and missile attacks on Sa'ada in northern Yemen, Yemeni sources report.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T07:15:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0dFlyDubai co-pilot who tried to crash the plane was banned by Oman over radicalization fears \u2014 report\nOmani national Hamam al-Hammami had been banned from flying by Oman over concerns he had adopted radical ideological views, The Wall Street Journal reports.\nKey details:\n\ud83d\udd34 Despite the ban, FlyDubai hired him \u2014 putting him on the sensitive UAE-Israel route\n\ud83d\udd34 It's unclear whether Oman shared its concerns with other countries or airlines\n\ud83d\udd34 The nature of his radicalization couldn't be learned\n\ud83d\udd34 He stabbed his captain and sent Flight 1073 from Dubai to Tel Aviv into a dive that nearly tore the plane apart\n\ud83d\udd34 Israel is investigating whether he acted alone or with others\n\ud83d\udd34 The attacker is in the UAE\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T05:53:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 \ud83d\ude97 Saudi Arabia prepares new Yemen offensive to retake Bab el-Mandeb Strait\nRiyadh is weighing two options: a focused coastal push around Bab el-Mandeb or a broader multi-front campaign across Yemen, with more than 100,000 Yemeni troops potentially mobilized and Saudi air power in support, Reuters reports, citing regional and Western officials.\n\u27a1\ufe0f The main objective is Bab el-Mandeb, the strategic southern gateway to the Red Sea, which the Houthis seized in September. With the Strait of Hormuz already heavily disrupted by the Iran war, control of Bab el-Mandeb gives the group major leverage over one of the world\u2019s most important shipping routes.\nThe US is providing intelligence and targeting support, while Pakistan and Turkey have supplied military equipment. But Reuters says Washington is not expected to join the fighting directly.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T05:12:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Trump points to Iran war as proof he\u2019s doing a \u2018great job\u2019\n\ud83d\udcac \u201cLook at the job we\u2019ve done. Venezuela, Iran \u2014 same thing. It\u2019s going to fall soon. Don\u2019t worry about it. Don\u2019t worry about it,\u201d US President Donald Trump told supporters in Oklahoma while discussing the upcoming midterms.\nTrump said presidents typically perform poorly in midterm elections, adding that he does not understand why that should apply to his administration given what he described as its record.\nDon\u2019t worry about it.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T03:49:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel needs Gaza without Palestinians \u2014 Ben-Gvir\nIsraeli National Security Minister Itamar Ben-Gvir agreed with a host who argued that peace would come if there were no Palestinians in Gaza.\n\ud83d\udde3 Host: \u201cIf there are no Palestinians in Gaza, there will be peace.\u201d\n\ud83d\udcac Ben-Gvir: \u201cPeriod. And we need to want that.\u201d\nBen-Gvir then claimed that Israel had previously received proposals along those lines, but Prime Minister Benjamin Netanyahu rejected them.\n\ud83d\udcac \u201cWe had concrete offers, and he didn\u2019t take them.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T01:41:01+00:00",
+      "timestamp": "2026-10-03T10:37:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
