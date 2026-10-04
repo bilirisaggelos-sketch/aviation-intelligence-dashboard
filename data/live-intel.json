@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T00:27:54.229684+00:00",
+  "generated_at": "2026-10-04T06:15:06.924479+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -106,25 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/01/2026",
       "location": "ZMP MN",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDayton, OH, Saturday, October 3, 2026 through Saturday, October 3, 2026 Local\nFacility: ZID",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/01/2026",
-      "location": "ZID OH",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -395,12 +376,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -456,6 +438,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\u2014 Saudi Arabia is Preparing for a major Military Offensive Against the Ansar Allah in Yemen, with the Bab el-Mandeb Strait emerging as a key objective.\n\u27a1\ufe0fReuters reports that Saudi-backed Yemeni forces could mobilize more than 100,000 troops for the operation, supported by Saudi airpower.\n\u27a1\ufe0fTwo Options are being Considered: a Focused Operation around Bab el-Mandeb or a broader multi-front Offensive Targeting Houthi positions in several provinces.\n\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\u2014 Pakistan has 30,000\u201340,000 Troops Stationed in Saudi Arabia, primarily for border defense and assistance against missile and drone threats.\n\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\u2014 Pakistan has also sent 4 cargo Aircraft Carrying Air-Fefense Equipment, Artillery, Drones and Counter-Drone Systems to Aden, while Pakistani Military Advisers are Assisting Saudi personnel in Yemen.\nSource: Reuters\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T01:54:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -539,13 +540,32 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Five drones crossed into Moldovan airspace this morning, triggering explosions and leaving wreckage across several districts, according to the country's Defense Ministry.",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 Hasbara Update: The Israeli government must really be worried about this NAZA film. In order to suppress its release and confuse people, they have produced their own documentary using the same name. The Israeli embassy in the US is promoting the film on their X account.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T07:38:17+00:00",
+      "timestamp": "2026-10-04T01:12:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf3 Israeli Prime Minister Benjamin Netanyahu spoke with the Indian captain of Flydubai flight FZ1073, Captain Smith Machar, telling him: \u201cYou are a hero to Israel, India and the entire world. I invite you to light a torch on Israel\u2019s Independence Day.\u201d\nDuring the call, the captain gave his account of the attack:\n\u201cThe co-pilot asked to pray. He got up and stood behind me. Out of respect for him, I didn\u2019t look back, until after four or five minutes I felt a strong blow to my head. I thought something had happened to the plane, but then I was hit again and realized it was him.\n\u201cI almost lost my eyesight because of his blows. I opened the door once, but he closed it, and then I fell to the floor and realized I had one more chance. During that time, I heard people screaming and understood that the plane was being pulled downward.\n\u201cWhen I opened the door again, I saw that people were waiting to jump inside.\u201d\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T04:48:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -559,12 +579,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Overnight, a massive strike hit the Tsymbulova UAV launch base in Oryol Oblast, Russia. NASA FIRMS satellite data confirms multiple fire hotspots around the drone storage and launch facilities.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\udde6\ud83c\uddea IDF Radio: The Israel Tax Authority confirms that it received the passenger list and the names of all crew members aboard Flydubai flight FZ1073 before takeoff, as is standard procedure for every flight under a law passed by the Knesset in 2023.\nUnder the law, the Mossad also has access to this database. This means the agency had access to the flight\u2019s passenger and crew list, as it does for all such flights, but does not routinely screen every name on these lists.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T07:38:12+00:00",
+      "timestamp": "2026-10-04T04:48:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -577,60 +597,61 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Once again this morning, Russian forces struck a pylon of the Pivnichnyi Bridge in Kyiv with a drone.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddf4\ud83c\uddf2Saudi Arabia eyes Oman as hedge against blocked oil export routes\n\u00a0\nIran\u2019s shutdown of Hormuz and Ansar Allah\u2019s targeting of Saudi assets along the Red Sea have put the kingdom\u2019s economy on the brink of crisis, with over 40% of GDP, ~80% of export earnings and up to 90% of budget revenues coming from a resource Riyadh is now[ having trouble getting onto the world market](https://t.me/geopolitics_prime/75197).\nEnter the Duqm route: a $7B, 1k km proposed mega pipeline to link oil fields in eastern Saudi Arabia to the safe, blockade-free port of the same name along Oman\u2019s Arabian Sea coastline.\nThe existence of the project, currently in the feasibility study phase, was formally revealed by TotalEnergies CEO Patrick Pouyanne this week, although Israel\u2019s influential Institute for National Security Studies think tank discussed the idea in a report dated September 17 \u2013 touting the project\u2019s potential to get up to 7M bpd in Saudi oil out of the Gulf.\n\ud83d\udd0dThere\u2019s no official word yet from Oman, but the idea of building a pipeline from Saudi Arabia through the sultanate was first proposed in the early 1970s, and formally floated by Oman\u2019s economy minister in 2021.\nIt never materialized due to Riyadh\u2019s prized East-West Pipeline, potential engineering problems of a route running through the vast, potentially treacherous Empty Quarter desert, and Oman\u2019s long tradition of neutrality and [willingness to cooperate with both Iran and the Arab Gulf powers](https://t.me/geopolitics_prime/75510).\nA mega pipeline with the Saudis would be a major financial boon for Muscat, but would first have to overcome massive geopolitical and economic hurdles, including upfront capital costs, the issue of Oman\u2019s aggressive push to become the world\u2019s leading exporter of clean hydrogen fuels, and its agreements with [Iran regarding Hormuz](https://t.me/geopolitics_prime/74908).\nNot to mention regional pipelines\u2019 critical vulnerabilities to potential drone and missile strikes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T07:38:06+00:00",
+      "timestamp": "2026-10-04T05:16:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "ABC reports the Omani co-pilot accused in the flydubai attack, Hamam al-Hamami, 29, told investigators he intended to crash the aircraft in Israel. Al-Hamami was suspended from flying at Oman Air in 2024 after extremist material was found in his possession and was restricted to administrative duties. Investigators are now examining how he was later cleared to join flydubai and serve as a co-pilot on flights to Israel.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde8\ud83c\uddf3 \u26f4 China\u2019s growing power projection prowess pushes top think tank to rethink US Navy\u2019s entire Pacific strategy\n\u00a0\nThe US Navy has run into a problem \u2013 China\u2019s growing and increasingly sophisticated surface fleet, from the new Fujian supercarrier to the Sichuan amphibious assault/drone ship, and force multipliers like the KJ-600 AEW&C aircraft.\nTogether, these capabilities allow China to break out of the so-called \u2018Island chain strategy\u2019 that the US has been using since the 1950s to hem China\u2019s navy into its home shores.\n\u27a1\ufe0fTo \u201chunt\u201d these assets, the US will need \u201ca combination of subsurface, land-based, air, cyber-electromagnetic, and unmanned capabilities,\u201d and a shakeup of its entire naval posture and shipbuilding plans, the Center for Strategic & International Studies (a top Beltway MIC-linked think tank) urges.\nCSIS recommends a buildup of US and allied nuclear and diesel-electric sub capabilities, heavy torpedoes, unmanned undersea vehicles, \u201cland-based maritime strike networks along key maritime terrain\u201d from Japan to the Philippines, plus air and space-enabled long-range anti-ship missiles, drone swarms and port-strike weapons.\n\ud83d\udcb2 To create these \u201csustained maritime denial\u201d capabilities, Congress is urged to deliver the necessary funding, and support aggressive drone, amphibious landing and Indo-Pac maritime sustainment project expansion, and refocus ship construction on unmanned vessels (to 300 manned, 300 unmanned by the 2030s, instead of the 381-134 now planned).\nIt\u2019s unclear where the money for all these projects would come from. The $1.5T FY 2027 defense budget includes tens of billions for new naval drone capabilities, but it\u2019s nowhere near enough to achieve the 300/300 ship plan CSIS proposes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T07:37:57+00:00",
+      "timestamp": "2026-10-04T03:55:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\ud83c\uddf5\ud83c\uddf0 [Reuters](https://www.reuters.com/world/asia-pacific/saudis-plan-assault-houthis-break-red-sea-chokehold-2026-10-02/)\u2060: Saudi Arabia is preparing a new offensive against Yemen\u2019s Houthis, potentially mobilizing more than 100,000 Yemeni troops in an effort to retake the Bab el-Mandeb area. \nPakistan has deployed 30,000\u201340,000 troops to Saudi Arabia to help defend its borders and intercept Houthi drones and missiles. Pakistani military advisers are also supporting Saudi-backed Yemeni forces, though Islamabad has not decided to send Pakistani troops into Yemen for combat. \nPakistan has also sent air-defense systems, artillery, drones and anti-drone systems to Aden, while the U.S. is providing Saudi operations with intelligence and military advisers. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "Trump makes the case for getting nukes while praising Kim Jong-un and attacking Iran\nUS President Donald Trump offered a striking contrast between Washington\u2019s treatment of the DPRK and Iran during his Ohio rally, almost advertising nuclear weapons as a way for countries to avoid being bombed by the US.\n\ud83d\udcac \u201cWhen people have 112 nuclear missiles, it\u2019s nice to get along,\u201d Trump said of Kim Jong-un.\nIn 2017, Trump had a different view of North Korea and was getting ready to attack it.\nSeconds later, he turned to Iran, which hasn\u2019t yet acquired a nuclear deterrent against US aggression:\n\ud83d\udcac \u201cBut here\u2019s the difference. Iran will never have a nuclear missile.\u201d\nWanna \u201cget along\u201d with the US? Get a nuke.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T05:42:44+00:00",
+      "timestamp": "2026-10-04T01:08:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -652,82 +673,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Houthis\u2019 Volcano missiles can help trigger seismic shift in regional balance of power\n\u00a0\n\ud83d\udccc Ansar Allah have proven themselves highly adept at asymmetric warfare, taking old Soviet Scud missiles delivered to Yemen in the 70s and 80s, repairing and modernizing them to create the Burkan (lit. \u2018Volcano\u2019) series of ballistic weapons.\n\ud83c\udf0f The first in the series was the Burkan-1 \u2013 unveiled in 2016 and used to target King Fahd Air Base, a joint Saudi-UAE base on Zuqar Island in the Red Sea, and other strategic location. The road mobile, liquid-fueled SRBM has an ~800km range, 500kg warhead and simple but effective inertial guidance system.\n\ud83c\udf0f In 2017, the Houthis rolled out the Burkan-2H \u2013 an upgrade with a 1k+ km estimated range, 250 kg payload and distinct triconic separating reentry vehicle. That missile has been used to target Saudi Aramco facilities, Riyadh\u2019s King Khalid International Airport, and the Al Yamamah Royal Palace.\n\ud83c\udf0f In 2019, the Burkan-3 made its combat debut, flying over 1.2k km to strike a military target in Dammam, Saudi Arabia. In 2023, Ansar Allah began firing these missiles and other ballistic and drone weapons at Israel in solidarity with Gaza. The Burkan-3 has a combat range up to 1.7k km, and a 100-150 kg payload.\n\ud83c\udf0f The latter\u2019s range is enough to hit anywhere in the Arabian Peninsula. The entire family of missiles is also within range of Somaliland, which recently expressed readiness to j[oin the war against the Houthis](https://t.me/geopolitics_prime/74720).\n\ud83c\udf0f The Burkan is part of a lineup of Houthi ballistic, cruise and hypersonic capabilities, including the Toufan (Storm), based on an Iranian Ghadr, the solid-fueled Hatem (Decisive Judge), modeled after [Kheibar Shekan](https://t.me/geopolitics_prime/72700), and Palestine-2, a hypersonic system with non-ballistic maneuverability capabilities.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T19:29:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea Houthis say attacked Aramco facilities in Riyadh with ballistic missiles, drones\nAnsar Allah Spokesman Yahya Saree said Saudi Aramco facilities in Riyadh were targeted with a ballistic missile and drones in response to Saudi strikes on Sanaa and other provinces.\nHe said the strikes were \u201cprecise and direct\u201d and caused fires at the targeted sites.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T19:01:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9New footage allegedly shows a morning strike by what may have been a Russian Geran-5 loitering munition/cruise missile on Kiev\u2019s Northern Bridge.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T18:14:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 'Surprises' in store for their enemies: IRGC chief reveals Iran's new military technologies\nIran has made major advances across ground, air, air-defense, and naval systems, IRGC deputy commander Major General Mostafa Izadi said.\n\ud83d\udcac \"The armed forces are using various technologies, some of which have been employed on the battlefield and others will be utilized in the future,\" he added.\nIzadi also claimed that US forces had moved more than 500 km away from the Persian Gulf and Sea of Oman because of the threat from Iranian ballistic missiles.\n\ud83d\udcac \"This demonstrates the strength of Islamic Iran in the face of the enemy,\" he stressed, adding that regional countries now realize the US presence doesn't contribute to security \u2014 it's a source of insecurity.\nHis remarks come amid continued tensions over the Strait of Hormuz, where Iranian commanders say their forces control key sections of the waterway. Iran is signaling that any future confrontation could involve capabilities that have not yet been fully revealed.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T16:06:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
