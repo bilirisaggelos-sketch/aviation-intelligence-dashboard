@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-04T12:33:04.191587+00:00",
+  "generated_at": "2026-10-04T17:03:50.096911+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSan Antonio, TX, Wednesday, October 7, 2026 through Wednesday, October 7, 2026 Local\nFacility: ZHU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/04/2026",
+      "location": "ZHU TX",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nGrand Island, NE, Monday, October 5, 2026 through Monday, October 5, 2026 Local\nFacility: ZMP",
@@ -49,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/02/2026",
       "location": "ZID IN",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 2, 2026 through Sunday, October 4, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/02/2026",
-      "location": "ZAB AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -155,6 +155,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2051\r\nIssue Time: 2026 Oct 04 1403 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 04 1402 UTC\nSynoptic Period: 1200-1500\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-04 14:03:28.167",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK05\r",
       "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2050\r\nIssue Time: 2026 Oct 04 1123 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 04 1122 UTC\nSynoptic Period: 0900-1200\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -230,25 +249,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3750\r\nIssue Time: 2026 Oct 01 1430 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3749\nBegin Time: 2026 Sep 30 0945 UTC\nYesterday Maximum 2MeV Flux: 3120 pfu\nMax time: 2026 Sep 30 1435 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-01 14:30:29.700",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "text": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit\nFootage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
       "source": "BBC",
@@ -270,32 +270,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles targeted Dammam, eastern Saudi Arabia",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: An unidentified C-130 cargo plane was seen landing at Mehrabad Airport, Tehran, with its AIS turned off\nSome say unfrozen money is being delivered to Iran through Turkey.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T21:43:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Latest map update of the Taizz front, Yemen:\n\u2013 Clashes continue over Jabal Han, the mountain west of Taizz city.\n\u2013 PLC counterattacks in the direction of Sama and Al-Ja\u2019sha have been somewhat successful.\n\u2013 Ansarallah has advanced to the area of Zakirah and is only 6 kilometers away from the vital town of Al-Turbah on the Taizz\u2013Aden road.\n\u2013 Ansarallah continues to advance slowly but steadily on Jabal Habashi, west of Taizz city.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T18:56:48+00:00",
+      "timestamp": "2026-10-04T14:05:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -309,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Some kind of surveillance drone was downed above Qeshm Island",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Map of the Taizz front, Yemen, as of 2 hours ago:\n\u2013 Ansarallah captured Safiya junction, cutting off the Taizz\u2013Aden road.\n\u2013 Ansarallah captured Al-Samsarah, another key point on the Taizz\u2013Aden road.\n\u2013 Ansarallah captured Souq Al-Markaz (the Central Market) and Al-Aza\u2019ez.\n\u2013 Ansarallah control the heights of Al-Zakirah, Maqarmah, etc.\nHouthi forces are currently advancing into the major town of Al-Turbah and are expected to capture it in the near future.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T14:47:04+00:00",
+      "timestamp": "2026-10-04T13:23:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -322,6 +302,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddee\ud83c\uddf6\u274c\ud83c\uddf8\ud83c\udde6 - Ansarullah announced that, in response to 50 airstrikes carried out by the RSAF in a period of 12 hours, the group struck Aramco facilities in Saudi Arabia's Riyadh, and another in 'Khurais', using Ballistic Missiles and OWA drones, impacting and causing fires. \nWe detected fires in Aramco of \"[Khurais](https://t.me/GeoPWatch/40368)\" and \"[Riyadh](https://t.me/GeoPWatch/40366)\" using FIRMS overnight.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T13:13:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The Omani co-pilot who allegedly attempted to hijack a Flydubai plane told investigators he planned to crash the aircraft into Ben Gurion Airport\u2019s terminal.\nHe allegedly waited until the plane was over Jordan, near Israel, before attacking the Indian pilot, intending to make a normal landing approach and crash into the terminal at the last moment, when interception would no longer be possible.\nSource: Amit Segal",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T16:59:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -451,13 +469,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -518,25 +535,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 Hasbara Update: The Israeli government must really be worried about this NAZA film. In order to suppress its release and confuse people, they have produced their own documentary using the same name. The Israeli embassy in the US is promoting the film on their X account.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T01:12:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf3 Israeli Prime Minister Benjamin Netanyahu spoke with the Indian captain of Flydubai flight FZ1073, Captain Smith Machar, telling him: \u201cYou are a hero to Israel, India and the entire world. I invite you to light a torch on Israel\u2019s Independence Day.\u201d\nDuring the call, the captain gave his account of the attack:\n\u201cThe co-pilot asked to pray. He got up and stood behind me. Out of respect for him, I didn\u2019t look back, until after four or five minutes I felt a strong blow to my head. I thought something had happened to the plane, but then I was hit again and realized it was him.\n\u201cI almost lost my eyesight because of his blows. I opened the door once, but he closed it, and then I fell to the floor and realized I had one more chance. During that time, I heard people screaming and understood that the plane was being pulled downward.\n\u201cWhen I opened the door again, I saw that people were waiting to jump inside.\u201d\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
@@ -576,6 +574,63 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Houthis put Aden-based government\u2019s second-most-important stronghold into a giant cauldron\n\u00a0\nThe situation in Taiz governorate, a key strategic crossroads, industrial hub, agricultural center and physical buffer between the Ansar Allah-aligned northern Yemeni government and its Saudi-backed southern adversary, is growing desperate.\nSimultaneous Houthi offensives southwest and southeast of Taiz City have reportedly won them control over virtually all key roads into and out of the city, including sections of the main highway between Taiz City and Aden.\n\ud83d\udcf9 Houthi-affiliated media reported Sunday that the Yemeni Armed Forces had entered Al-Turbah, a mountainous highland town directly overlooking the highway, and that enemy forces had been expelled from the town, as well as the broader Al-Shamayatayn and Sami districts of Taiz governorate.\nThe Saudi-backed government reported the targeting of \u201chundreds\u201d of Houthi positions on the Taiz front in the past 24 hours, but that apparently proved insufficient to stop their advance. Pro-Ansar Allah social media have posted a video of what they say is Saudi warplanes bombing their own allies after they fled the battlefield.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T16:29:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf6\ud83d\udee2 Iraq sends 2M barrels beyond Hormuz in export shift\nIraq\u2019s state tanker company has arranged a VLCC carrying 2M barrels of crude to sail beyond the Strait of Hormuz, marking its first such move in decades.\nBy taking responsibility for moving the cargo outside the Persian Gulf, Baghdad is trying to make Iraqi crude easier to buy for refiners wary of Hormuz disruptions and reduce the discounts needed to move barrels from Basra.\nIraq is also seeking funds to expand its own tanker fleet while pursuing alternative export routes through Turkey and potentially Syria.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T15:48:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udccd\ud83e\ude96 Yemen's Saudi-backed government launches operation to retake Houthi-held territory\nRashad al-Alimi, head of Yemen's Presidential Leadership Council, has announced military operations to retake remaining Houthi-held territory and restore state authority across the country, Al Jazeera reports.\n\ud83d\udcac \"We have instructed the armed forces, security forces and all military formations to begin carrying out their assigned tasks under an approved plan until the country is liberated from the Houthis,\" he said.\nSaudi Arabia entered Yemen's civil war in 2015 at the head of an Arab coalition backing the government, which the Houthis had driven out of Sanaa. Fighting has intensified since a fragile 2022 truce collapsed in July. \nDespite the counteroffensive, the Houthis have maintained the initiative on the ground:\n\ud83d\udfe5 they seized the Bab el-Mandeb Strait in a [lightning offensive](https://t.me/geopolitics_prime/75488) that saw government forces collapse\n\ud83d\udfe5 they've made gains on strategic hilltops near [Taiz](https://t.me/geopolitics_prime/75564) \u2014 advancing on the last road between the city and Aden, where the Saudi-backed government is based\nBab el-Mandeb is the southern exit of the Red Sea \u2014 a key shipping route that has assumed even more importance this year as an alternative to the effectively closed Strait of Hormuz.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T15:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\udd14\ud83e\udd25 Why is Trump holding back from bombing the Houthis?\n \nPresident Donald Trump has so far avoided reopening direct US strikes on Yemen\u2019s Houthis, despite renewed pressure on Saudi Arabia and growing concerns over Red Sea shipping, Politico reported.\nThe main constraints are practical:\n \n\ud83d\udd34 Operation Rough Rider, last year's US air campaign against the Houthis, delivered limited results \u2014 even as Trump declared the Houthis had \"capitulated\"\n\ud83d\udd34 The Iran war has strained US munitions stocks, making another sustained campaign harder to justify\n\ud83d\udd34 The Houthis are currently pledging not to attack American ships, reducing the immediate pressure on Washington to intervene\nFormer US envoy to Yemen Tim Lenderking said Washington has little incentive to open another front while the conflict with Iran remains unresolved. \n\ud83d\udd0dThe Houthis have meanwhile become a far more capable force, expanding local weapons production, modifying Iranian-supplied missiles, and reportedly integrating AI into parts of their arsenal. Western officials cited in the report said that even reduced Iranian support would not necessarily cripple the group.\nThe emerging calculation in Washington is that containing the Houthis may be cheaper than trying to defeat them outright, especially while the US is already managing simultaneous crises in Iran, Gaza, and Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -601,63 +656,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-04T10:19:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5\ud83c\uddf7\ud83c\uddfa 'Logistical nightmare for Kiev and the whole country': Russia keeps striking Ukraine's key bridges\nRussian drones have reportedly hit Kiev's Northern Bridge again today, local sources report.\nThe disruption is significant because roughly 1 million people live on Kiev's eastern bank, while most government offices and businesses sit on the west \u2014 and if the bridges go quiet, there's no easy Plan B, The New York Times reports.\n\ud83d\udd0d Any prolonged bridge closures would complicate not only daily commuting but also the movement of food, equipment, and other supplies across the Dnieper.\nOver the past three days, Kiev's bridges were reportedly attacked six times, prompting authorities to close or restrict five of the city's six road crossings. \n\ud83d\udc49And here's the thing: these aren't just commuter crossings. According to Russia's Defense Ministry, the bridges were also feeding military logistics \u2014 troops, weapons, and supplies \u2014 straight to the front.\nThe strikes are part of a broader Russian campaign against Ukrainian rear infrastructure \u2014 railways, warehouses, data centers, industrial sites, and the power grid used by Ukrainian troops.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T09:38:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7Strait of Hormuz to remain closed until Iran\u2019s conditions are fulfilled - Ghalibaf\nIran will not reopen the Strait of Hormuz until seven conditions linked to the Islamabad memorandum are fulfilled, Iranian parliament speaker Mohammad Bagher Ghalibaf said.\nIran\u2019s seven conditions:\n\u27a1\ufe0fEnd the war on all fronts, including military operations in Lebanon and Yemen\n\u27a1\ufe0fLift the US naval blockade on Iranian ports and maritime access\n\u27a1\ufe0fRemove economic sanctions, including restrictions on Iranian oil exports\n\u27a1\ufe0fRelease Iran\u2019s frozen assets held in foreign banks\n\u27a1\ufe0fAccept a new framework for the Strait of Hormuz, covering regional maritime security and navigation\n\u27a1\ufe0fEnd political and military threats against Iran and its leadership\n\u27a1\ufe0fProvide compensation for war damage suffered during the conflict\nGhalibaf said Tehran would not base its national-security decisions on statements or social-media posts from US officials, arguing that Iran would judge Washington by its actions instead. He also said the US had recently sent proposals through an intermediary, but insisted that the period of \u201cdelaying tactics and unilateral demands\u201d was over.\nAccording to Ghalibaf, Iran\u2019s position is final: the Strait of Hormuz will remain closed until all seven conditions are met.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T08:55:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddf4\ud83c\uddf2Saudi Arabia eyes Oman as hedge against blocked oil export routes\n\u00a0\nIran\u2019s shutdown of Hormuz and Ansar Allah\u2019s targeting of Saudi assets along the Red Sea have put the kingdom\u2019s economy on the brink of crisis, with over 40% of GDP, ~80% of export earnings and up to 90% of budget revenues coming from a resource Riyadh is now[ having trouble getting onto the world market](https://t.me/geopolitics_prime/75197).\nEnter the Duqm route: a $7B, 1k km proposed mega pipeline to link oil fields in eastern Saudi Arabia to the safe, blockade-free port of the same name along Oman\u2019s Arabian Sea coastline.\nThe existence of the project, currently in the feasibility study phase, was formally revealed by TotalEnergies CEO Patrick Pouyanne this week, although Israel\u2019s influential Institute for National Security Studies think tank discussed the idea in a report dated September 17 \u2013 touting the project\u2019s potential to get up to 7M bpd in Saudi oil out of the Gulf.\n\ud83d\udd0dThere\u2019s no official word yet from Oman, but the idea of building a pipeline from Saudi Arabia through the sultanate was first proposed in the early 1970s, and formally floated by Oman\u2019s economy minister in 2021.\nIt never materialized due to Riyadh\u2019s prized East-West Pipeline, potential engineering problems of a route running through the vast, potentially treacherous Empty Quarter desert, and Oman\u2019s long tradition of neutrality and [willingness to cooperate with both Iran and the Arab Gulf powers](https://t.me/geopolitics_prime/75510).\nA mega pipeline with the Saudis would be a major financial boon for Muscat, but would first have to overcome massive geopolitical and economic hurdles, including upfront capital costs, the issue of Oman\u2019s aggressive push to become the world\u2019s leading exporter of clean hydrogen fuels, and its agreements with [Iran regarding Hormuz](https://t.me/geopolitics_prime/74908).\nNot to mention regional pipelines\u2019 critical vulnerabilities to potential drone and missile strikes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T05:16:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
