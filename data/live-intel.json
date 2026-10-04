@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-04T20:12:14.991214+00:00",
+  "generated_at": "2026-10-04T23:15:53.609195+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nsacramento, CA\nFacility: ZOA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/04/2026",
+      "location": "ZOA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nSan Antonio, TX, Wednesday, October 7, 2026 through Wednesday, October 7, 2026 Local\nFacility: ZHU",
@@ -30,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/03/2026",
       "location": "ZMP NE",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nST PAUL, MN, Sunday, October 4, 2026 Local\nFacility: ZMP",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/02/2026",
-      "location": "ZMP MN",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -154,6 +154,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK06\r",
+      "text": "Space Weather Message Code: ALTK06\r\nSerial Number: 726\r\nIssue Time: 2026 Oct 04 2058 UTC\r\n\r\nALERT: Geomagnetic K-index of 6 \nThreshold Reached: 2026 Oct 04 2057 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-04 20:58:04.127",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5425\r\nIssue Time: 2026 Oct 04 1901 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5424\nValid From: 2026 Oct 04 0615 UTC\nNow Valid Until: 2026 Oct 05 0300 UTC\nWarning Condition: Persistence\nextended past Kp5 warning.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -230,25 +249,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2051\r\nIssue Time: 2026 Oct 04 1403 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 04 1402 UTC\nSynoptic Period: 1200-1500\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-04 14:03:28.167",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "text": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit\nFootage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
       "source": "BBC",
@@ -264,44 +264,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: An unidentified C-130 cargo plane was seen landing at Mehrabad Airport, Tehran, with its AIS turned off\nSome say unfrozen money is being delivered to Iran through Turkey.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T14:05:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky:\nWhen somebody proposes an alternative to helping Ukraine, there is only one \u2014 not helping. What is the alternative? Not helping. \nIf the alternative is not helping Ukraine, that means Ukraine stands alone. For example, imagine that in 2022 we defended ourselves for as long as we could, but were left alone without any help \u2014 without help from Germany, Europe, Britain or the U.S. What would have happened? What are they proposing to people? \nThe alternative of not helping means that Ukraine would not have held out, would have fallen, and Russia would now be closer to your borders. The threat would simply be closer to you \u2014 on Poland\u2019s borders or somewhere else. \nAnd if, even now, with Ukraine in a strong position, drones are already reaching many European countries, Putin would simply become more confident if a strong Ukraine were no longer standing in the path of those drones, and more of them would reach you. \nSo when someone says there is an alternative to helping Ukraine, they simply do not want to take responsibility for the terrible result. That is why I would not look for any other option than helping Ukraine.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T17:52:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -648,25 +610,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd14\ud83e\udd25 Why is Trump holding back from bombing the Houthis?\n \nPresident Donald Trump has so far avoided reopening direct US strikes on Yemen\u2019s Houthis, despite renewed pressure on Saudi Arabia and growing concerns over Red Sea shipping, Politico reported.\nThe main constraints are practical:\n \n\ud83d\udd34 Operation Rough Rider, last year's US air campaign against the Houthis, delivered limited results \u2014 even as Trump declared the Houthis had \"capitulated\"\n\ud83d\udd34 The Iran war has strained US munitions stocks, making another sustained campaign harder to justify\n\ud83d\udd34 The Houthis are currently pledging not to attack American ships, reducing the immediate pressure on Washington to intervene\nFormer US envoy to Yemen Tim Lenderking said Washington has little incentive to open another front while the conflict with Iran remains unresolved. \n\ud83d\udd0dThe Houthis have meanwhile become a far more capable force, expanding local weapons production, modifying Iranian-supplied missiles, and reportedly integrating AI into parts of their arsenal. Western officials cited in the report said that even reduced Iranian support would not necessarily cripple the group.\nThe emerging calculation in Washington is that containing the Houthis may be cheaper than trying to defeat them outright, especially while the US is already managing simultaneous crises in Iran, Gaza, and Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T12:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
