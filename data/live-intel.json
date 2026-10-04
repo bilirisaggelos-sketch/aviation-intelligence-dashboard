@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T17:03:50.096911+00:00",
+  "generated_at": "2026-10-04T20:12:14.991214+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -154,33 +154,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2051\r\nIssue Time: 2026 Oct 04 1403 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 04 1402 UTC\nSynoptic Period: 1200-1500\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5425\r\nIssue Time: 2026 Oct 04 1901 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5424\nValid From: 2026 Oct 04 0615 UTC\nNow Valid Until: 2026 Oct 05 0300 UTC\nWarning Condition: Persistence\nextended past Kp5 warning.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-04 14:03:28.167",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2050\r\nIssue Time: 2026 Oct 04 1123 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 04 1122 UTC\nSynoptic Period: 0900-1200\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-04 11:23:41.163",
+      "timestamp": "2026-10-04 19:01:38.570",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -193,13 +174,13 @@
     },
     {
       "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2267\r\nIssue Time: 2026 Oct 04 1107 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 04 1110 UTC\nValid To: 2026 Oct 04 2100 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2268\r\nIssue Time: 2026 Oct 04 1850 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\nExtension to Serial Number: 2267\nValid From: 2026 Oct 04 1110 UTC\nNow Valid Until: 2026 Oct 05 0300 UTC\nWarning Condition: Persistence\nExtended with issuance of G2 warning.\r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-04 11:07:31.433",
+      "timestamp": "2026-10-04 18:50:12.297",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -211,14 +192,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2689\r\nIssue Time: 2026 Oct 04 0801 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 04 0757 UTC\nSynoptic Period: 0600-0900\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "title": "Space Weather Message Code: WARK06\r",
+      "text": "Space Weather Message Code: WARK06\r\nSerial Number: 671\r\nIssue Time: 2026 Oct 04 1847 UTC\r\n\r\nWARNING: Geomagnetic K-index of 6 expected \nValid From: 2026 Oct 04 1847 UTC\nValid To: 2026 Oct 04 2359 UTC\nWarning Conditions: Onset\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-04 08:01:06.560",
+      "timestamp": "2026-10-04 18:47:59.650",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -230,14 +211,33 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5424\r\nIssue Time: 2026 Oct 04 0613 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 04 0615 UTC\nValid To: 2026 Oct 04 2359 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2052\r\nIssue Time: 2026 Oct 04 1840 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 04 1839 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-04 06:13:42.580",
+      "timestamp": "2026-10-04 18:40:00.443",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2051\r\nIssue Time: 2026 Oct 04 1403 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 04 1402 UTC\nSynoptic Period: 1200-1500\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-04 14:03:28.167",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -288,51 +288,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Map of the Taizz front, Yemen, as of 2 hours ago:\n\u2013 Ansarallah captured Safiya junction, cutting off the Taizz\u2013Aden road.\n\u2013 Ansarallah captured Al-Samsarah, another key point on the Taizz\u2013Aden road.\n\u2013 Ansarallah captured Souq Al-Markaz (the Central Market) and Al-Aza\u2019ez.\n\u2013 Ansarallah control the heights of Al-Zakirah, Maqarmah, etc.\nHouthi forces are currently advancing into the major town of Al-Turbah and are expected to capture it in the near future.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T13:23:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddee\ud83c\uddf6\u274c\ud83c\uddf8\ud83c\udde6 - Ansarullah announced that, in response to 50 airstrikes carried out by the RSAF in a period of 12 hours, the group struck Aramco facilities in Saudi Arabia's Riyadh, and another in 'Khurais', using Ballistic Missiles and OWA drones, impacting and causing fires. \nWe detected fires in Aramco of \"[Khurais](https://t.me/GeoPWatch/40368)\" and \"[Riyadh](https://t.me/GeoPWatch/40366)\" using FIRMS overnight.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T13:13:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The Omani co-pilot who allegedly attempted to hijack a Flydubai plane told investigators he planned to crash the aircraft into Ben Gurion Airport\u2019s terminal.\nHe allegedly waited until the plane was over Jordan, near Israel, before attacking the Indian pilot, intending to make a normal landing approach and crash into the terminal at the last moment, when interception would no longer be possible.\nSource: Amit Segal",
+      "text": "Zelensky:\nWhen somebody proposes an alternative to helping Ukraine, there is only one \u2014 not helping. What is the alternative? Not helping. \nIf the alternative is not helping Ukraine, that means Ukraine stands alone. For example, imagine that in 2022 we defended ourselves for as long as we could, but were left alone without any help \u2014 without help from Germany, Europe, Britain or the U.S. What would have happened? What are they proposing to people? \nThe alternative of not helping means that Ukraine would not have held out, would have fallen, and Russia would now be closer to your borders. The threat would simply be closer to you \u2014 on Poland\u2019s borders or somewhere else. \nAnd if, even now, with Ukraine in a strong position, drones are already reaching many European countries, Putin would simply become more confident if a strong Ukraine were no longer standing in the path of those drones, and more of them would reach you. \nSo when someone says there is an alternative to helping Ukraine, they simply do not want to take responsibility for the terrible result. That is why I would not look for any other option than helping Ukraine.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T16:59:31+00:00",
+      "timestamp": "2026-10-04T17:52:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -403,6 +365,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udeab\ud83c\uddfa\ud83c\uddf8 \u26a1\ufe0fSome reports indicate that missiles were launched towards the Strait of Hormuz by Iran\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T17:46:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russian forces\u2019 strike drone operators destroyed Ukrainian army reserve groups in the Zaporozhye Region, the Russian Defense Ministry said.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -447,44 +429,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-04T01:54:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Yemeni ballistic missiles targeted Dammam in eastern Saudi Arabia \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T21:46:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea The Yemeni Air Force destroyed two Houthi missile launchers in Sanaa, the Saudi TV channel Al Arabiya reported, citing sources.\nAccording to the TV channel, the attack was part of a large-scale campaign by government forces to destroy weapons depots and undermine the Houthi movement\u2019s missile capabilities.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-03T20:05:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,6 +518,82 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\uddf4 Somalia ready to provide Ethiopia with port access, won\u2019t accept Israeli presence in Somaliland\n\u00a0\nMogadishu is ready to provide its landlocked neighbor with access to two or three of its ports for commercial imports and exports, Somali President Hassan Sheikh Mohamud has told Al-Jazeera.\nThe port access would presumably be contingent on Ethiopia annulling its 2024 port access MoU with the Somali breakaway of Somaliland, which has yet to be fully implemented amid negotiations with Somalia.\n\ud83d\udcf9 In the interview, Hassan Sheikh also commented on Israeli attempts [to set up a presence in Somaliland](https://t.me/geopolitics_prime/74720), emphasizing that Mogadishu would not tolerate such a presence \u201cunder any circumstances.\u201d\nAt the same time, the Somali president accused the Houthis \u2013 Israel\u2019s key regional adversaries, of being [\u201caggressive\u201d and of \u201cdestabilizing\u201d](https://t.me/geopolitics_prime/74031) Yemen and the region.\n\ud83d\udc49 This can be explained by Somalia\u2019s signing of a major military cooperation agreement with Saudi Arabia in February and its longstanding alliance with Turkey, another member of the new Mecca defense pact.\nHassan Sheikh\u2019s government currently controls as little as 20% of Somalia\u2019s sovereign territory, including just one major port \u2013 Mogadishu. Al-Qaeda ally Al-Shabaab controls of ~30% of the country, Somaliland about 22%, and semi-autonomous states like Puntland and Jubaland much of the rest (including the major ports of Bosaso and Kismayo).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T19:58:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u26a1\ufe0f\ud83d\udcf9 Houthis enter strategic Taiz hub of At Turbah as crowds celebrate\nSpontaneous demonstrations, song and dance broke out in the critical Taiz governorate town of At Turbah on Sunday as Houthi fighters in pickups entered it.\n\ud83d\udccdLocal residents were seen greeting and mingling with fighters, who chanted their famed Sarkha slogan as they rode through town.\nAt Turbah sits directly at the intersection of a critical highway link connecting the city of Taiz to Aden, capital of the Saudi-backed Yemeni government. The Houthis have been surrounding Taiz itself, putting the area into a massive pocket amid fierce fighting with enemy ground forces and the Saudi Air Force.\nAnsar Allah political bureau member Hezam al-Asad tweeted late Sunday that \u201cby the grace and favor of God, Taiz is being liberated, while [Aramco\u2019s facilities in Riyadh and Khurais are ablaze](https://t.me/geopolitics_prime/75601).\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T18:33:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran warns neighbors against letting the US and Israel use their territory for attacks\n\ud83d\udcac \u201cIf in the future we witness another aggression by America and the Zionist regime and their soil is used to attack Iran, certainly the response will be different,\u201d Foreign Ministry spokesman Esmaeil Baghaei said.\nHe said Tehran has already raised objections with regional states that provided territory or facilities during previous attacks and warned them against allowing their infrastructure to be used against Iran again.\nAt the same time, Baghaei stressed that Iran still seeks good relations with its neighbors and expects them to uphold the principle of good-neighborliness.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T17:53:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u2622\ufe0f US attempt to put nuclear reactor on the Moon before China and Russia could end in disaster\n\u00a0\n\u201cThere will always be a space race going on, and if you enter nuclear power into that mix, then it could take a potentially more dangerous turn,\u201d Union of Concerned Scientists nuclear safety director Edwin Lyman told NYT.\nFrom space rockets exploding on the launch pad or overhead, to meteorite strikes and a harsh lunar climate (no atmosphere, no water, severe temperature swings and highly abrasive, electrostatically charged Moon dust), an accident involving even a small reactor threatens to produce much more radioactive fallout than on Earth, and turn entire swathes of the Moon into an exclusion zone.\n\ud83d\udef0 Then there\u2019s the matter of experience. NYT surprisingly admitted that \u201cno country has more experience than Russia\u201d when it comes to space-based reactor technology, citing 30+ deployments aboard Soviet-era satellites. Russia also \u201ccontrols the largest supply of what is considered the safest nuclear fuel for space missions\u201d: HALEU \u2013 a low-enriched fuel the US doesn\u2019t have the ability to produce at scale.\nThe US also hasn\u2019t built a space-grade reactor since the 1960s, and despite spending $20B+ in this area since then, has yet to field a new, working design with adequate heat dissipation, shielding and structural integrity characteristics.\nThat makes US plans to put a reactor on the Moon as soon as 2030 \u2013 a full six years before China and Russia hope to do so, fraught with risk.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-04T17:11:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd25 Houthis put Aden-based government\u2019s second-most-important stronghold into a giant cauldron\n\u00a0\nThe situation in Taiz governorate, a key strategic crossroads, industrial hub, agricultural center and physical buffer between the Ansar Allah-aligned northern Yemeni government and its Saudi-backed southern adversary, is growing desperate.\nSimultaneous Houthi offensives southwest and southeast of Taiz City have reportedly won them control over virtually all key roads into and out of the city, including sections of the main highway between Taiz City and Aden.\n\ud83d\udcf9 Houthi-affiliated media reported Sunday that the Yemeni Armed Forces had entered Al-Turbah, a mountainous highland town directly overlooking the highway, and that enemy forces had been expelled from the town, as well as the broader Al-Shamayatayn and Sami districts of Taiz governorate.\nThe Saudi-backed government reported the targeting of \u201chundreds\u201d of Houthi positions on the Taiz front in the past 24 hours, but that apparently proved insufficient to stop their advance. Pro-Ansar Allah social media have posted a video of what they say is Saudi warplanes bombing their own allies after they fled the battlefield.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -621,12 +641,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -637,25 +658,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-04T12:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 \u26b0\ufe0f Israel\u2019s 3-year regional war cost it 1,300+ soldiers\nIsrael\u2019s Defense Ministry says 1,318 soldiers and security personnel have died since October 7, 2023, as Israel expanded its military campaign far beyond Gaza.\nThe toll accumulated during Israel\u2019s offensive in Gaza, which Amnesty International has concluded amounts to genocide against Palestinians, as well as fighting in Lebanon, the West Bank, and the widening confrontation with Iran.\nWhat began as the war in Gaza evolved into a regional strategy of repeated military escalation: sustained operations in the Palestinian enclave, attacks and ground operations in Lebanon, and direct strikes on Iran followed by Iranian retaliation.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T10:19:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
