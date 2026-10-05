@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T02:18:20.316766+00:00",
+  "generated_at": "2026-10-05T09:32:17.776729+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -11,25 +11,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/05/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nsacramento, CA\nFacility: ZOA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/04/2026",
-      "location": "ZOA CA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -154,6 +135,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2054\r\nIssue Time: 2026 Oct 05 0352 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 05 0352 UTC\nSynoptic Period: 0300-0600\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-05 03:52:52.680",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2269\r\nIssue Time: 2026 Oct 05 0350 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 05 0350 UTC\nValid To: 2026 Oct 05 1500 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-05 03:50:48.633",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5426\r\nIssue Time: 2026 Oct 05 0156 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 05 0155 UTC\nValid To: 2026 Oct 05 2359 UTC\nWarning Conditions: Persistence\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -211,44 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5425\r\nIssue Time: 2026 Oct 04 1901 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5424\nValid From: 2026 Oct 04 0615 UTC\nNow Valid Until: 2026 Oct 05 0300 UTC\nWarning Condition: Persistence\nextended past Kp5 warning.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-04 19:01:38.570",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2268\r\nIssue Time: 2026 Oct 04 1850 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 5 expected\nExtension to Serial Number: 2267\nValid From: 2026 Oct 04 1110 UTC\nNow Valid Until: 2026 Oct 05 0300 UTC\nWarning Condition: Persistence\nExtended with issuance of G2 warning.\r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-04 18:50:12.297",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit",
       "text": "Kyiv bridge hit in further Russian drone attack as German chancellor makes surprise visit\nFootage shows a drone hitting the Pivnichyi (Northern) Bridge as vehicles move across it, creating a large fireball.",
       "source": "BBC",
@@ -270,6 +251,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Oil flows from the Strait of Hormuz have once again decreased, as Iran ramps up attacks\nFor a few weeks, the U.S. had been successfully escorting millions of barrels of crude oil through the Strait\u2014but that short-lived success is now fading, as Iran has improved its targeting and escalated attacks against ship-to-ship transfers. \nThe cost of transporting oil has also skyrocketed; the price of chartering an oil tanker has increased by a staggering 1000%, and has reached $1.3 million a day compared to $50,000 before the war. \u2013 WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-05T03:18:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddec\ud83c\udde7/\ud83c\uddee\ud83c\uddf7 NOTE: Iranian ballistic missiles can reach the United Kingdom; there is no need for a terrorist bomb plot at RAF Fairford\nAnd this is only the \u2018demonstrated\u2019 range of Iran\u2019s ballistic missiles. \nSome ballistic missiles in Iran\u2019s arsenal, although small in number and not yet optimized, can almost certainly reach the United States.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -283,6 +283,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Saudi Defense Ministry: \n100 fighter jets took part in operations against the Houthis in Yemen today.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-05T09:14:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -422,12 +441,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Frontline Sentinel \u2013 Sumy, Sumy Oblast 04/10/2026:\n\ud83c\uddfa\ud83c\udde6Ukrainian advances:\u00a0\u00a0\nUkrainian forces have advanced in northern Sumy Oblast, conducting a series of stabilisation counterattacks along the line of contact and recapturing Nova Sich, Psyarivka, Ivol\u2019zhansk\u2019e and Korchakivka. These operations have strengthened the security situation around Sumy city, disrupted potential Russian assaults against nearby settlements, and halted Russian consolidation efforts within the northern Sumy forest belts, which provided valuable cover for Russian forces. Overall resulting in a Ukrainian victory within the axis.\n\ud83d\udccdMapped territorial changes:\u00a0\nUkrainian sources such as Deepstate never acknowledged Russian controlled territories within the region denying multiple claims and geolocated footage and have since not confirmed any Ukrainian counter attacks within the region. Neutral mapping projects such as suriyak mapping and AMK have confirmed Ukrainian stabilisation missions and their success's within the area.\n\u2139\ufe0fHUMINT:\nDespite Ukrainian successes within the region a Ukrainian civilian within the Sumy region spoke to us about the situation surrounding Sumy and within the city itself:\n\"It's louder than ever here, bombardments are increasing there is never a day of peace. People are scared to go into the city center or drive their vehicles around villages outside of the city because of drones. In my village we get no sleep, constant air defence is firing at drones all night long and they're falling in our fields and forests it doesn't feel like the situation is worse rather than better.\"\n\ud83c\udfafStrategic value:\nUkrainian forces have successfully recaptured and secured key areas in northern Sumy, pushing Russian forces further from Sumy city and reducing the immediate threat to settlements along its northern approaches. The counterattacks also disrupt Russian consolidation efforts and strengthen Ukraine\u2019s defensive position along the axis eliminating any presence of Russian attack on Sumy city.",
+      "text": "\u26a1\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\uddfa\ud83c\uddf8500 personnel from Mexico's Armed Forces auch as their National Guard have deployed to the Mexico-U.S. border to support operations to stop narcotics and human trafficking as part of Operation \"Mirror,\" in cordination with the U.S. \nThey deployed with two military helicopters, drones, and anti-drone systems.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:18:09+00:00",
+      "timestamp": "2026-10-05T02:32:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,12 +460,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Iran-backed Houthis will open a humanitarian corridor to allow aid into Taizz and allow those who want to leave the city the opportunity to do so.\nOnly those not carrying weapons or military vehicles (technicals, heavy trucks, etc.) will be allowed to exit.\nHouthis announces that any Saudi-backed PLC fighter in Taizz that voluntarily surrenders his weapons will be allowed to return to his home governorate safely and unhindered.\nThe Emirates-backed \u2018Southern Giants Brigades\u2019 have intercepted convoys of PLC that fled Taizz. \nThey demand that they return to Taizz Governorate to fight the Houthis, or surrender their weapons to the Southern Giants Brigades.",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea The Houthis announced that over the past 24 hours, Saudi Arabian jets have conducted 106 air raids and missile strikes, targeting Sana'a and the governorates of Al-Jawf, Taiz, Amran, Hajjah, and Saada. \nThe airstrikes were carried out by F-15s and Typhoon aircraft which took off from airbases in Khamis Mushait and Taif, while missile attacks originated from Najran, Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:16:22+00:00",
+      "timestamp": "2026-10-05T02:29:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,12 +479,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Latest field situation in Taiz\n\ud83d\udd39 Ansar Allah (Houthis) have reportedly operationally encircled Taiz by cutting key supply routes. The key towns of Al-Turbah, Al-Samsarah, and Al-Bayrin have been captured by Iran-affiliated Houthi forces.\n\ud83d\udd39 Advances along the axis are ongoing, with further areas potentially falling under Houthi control by the end of the night.",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [The Guardian](https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine): A Russian drone struck Kyiv\u2019s Pivnichnyi Bridge while vehicles were travelling across the major roadway.\nClose-up footage shows the drone diving into the bridge before exploding between passing cars. Kyiv Mayor Vitali Klitschko said two people were injured.\nThe attack marked the fourth consecutive day of Russian strikes targeting bridges connecting the two banks of the Dnipro River.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:16:17+00:00",
+      "timestamp": "2026-10-05T02:29:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -479,12 +498,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Due to an ongoing Russian drone attack on Ukraine, Poland has issued a RCB Alert for the Lublin Voivodeship.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\udde6\ud83c\udde6\ud83c\uddea [Corriere](https://www.corriere.it/economia/trasporti/aerei/26_ottobre_04/cosa-successo-volo-flydubai.shtml): A minute-by-minute account of the dramatic moments in which the Omani co-pilot aboard the Flydubai flight to Tel Aviv allegedly attempted to seize control of the aircraft and crash it:\n09:15 \u2014 Co-pilot Hammam al-Hamami says he wants to pray.\n09:20 \u2014 Al-Hamami attacks the Indian captain, Smith Machhar, from behind with an emergency axe. During the ensuing struggle, the injured captain manages to open the cockpit door.\n09:21 \u2014 As passengers rush into the cockpit, al-Hamami disengages the autopilot, takes control of the aircraft, shuts down both engines and pushes the control column fully forward, sending the plane into a dive over the Saudi desert.\n09:22 \u2014 Before being removed from the cockpit, al-Hamami allegedly attempts to disable the aircraft\u2019s systems. Israeli passenger Yaniv Hayun then pulls back on the control column to prevent the aircraft from losing further altitude.\n09:25 \u2014 Two off-duty pilots intervene and restore the aircraft to stable flight.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:12:34+00:00",
+      "timestamp": "2026-10-05T02:26:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -498,88 +517,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "A drone strike has hit an energy infrastructure facility in Poltava Oblast. As a result of the attack, approximately 22,000 customers are temporarily without electricity, per Poltava Oblast Governor Vitalii Diakyvnych.",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 The Houthi armed forces say they have expelled and targeted Saudi military reinforcements east of al\u2011Jawf following what they described as failed attempts to advance toward their positions.\nThe statement claims a large number of vehicles were burned, dozens killed or wounded, and remaining forces pursued in the al\u2011Jawf desert. \nIt says ballistic missiles and drones were used against the gatherings.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:12:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Australia is investigating the flydubai co-pilot\u2019s links to the country after he allegedly attacked the captain with an emergency crash axe during a flight from Dubai to Tel Aviv. The co-pilot reportedly studied at a university in Melbourne, according to Reuters.\nFaytuks Network (\nIsraeli investigators believe the attempted hijacking of FlyDubai flight FZ1073 was likely a lone-wolf attack, CBS News reports, though all avenues remain under investigation. The assessment comes despite Trump\u2019s suggestion the co-pilot may have been linked to Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:09:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "NEW: The U.S. Embassy says checkpoints across Judea and Samaria will be closed on October 5 and 7, effectively blocking entry into Israel except for medical and humanitarian cases.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:00:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Houthi fighters have seized the home of Yemen's parliament speaker, Sultan al-Burkani, south of Taiz in the country's southwest, following an exchange of fire with pro-Saudi forces loyal to the Yemeni government.\nSky News Arabia",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T01:59:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Pakistan \ud83c\uddf5\ud83c\uddf0: \u201cIttihad-ul-Mujahideen Pakistan\u201d (#IMP) ambushed Pakistani soldiers in Ghulam Khan Tehsil, North Waziristan.\nMilitants used #USA-made \ud83c\uddfa\ud83c\uddf8 M16A4 rifles, RPG-7 with #China-made \ud83c\udde8\ud83c\uddf3 DZGI-40 air-burst & Type 69-1 Anti-Tank rockets, PKM machine guns and AKM rifles.\nhttps://x.com/war_noir/status/2106776453798937044",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T01:59:00+00:00",
+      "timestamp": "2026-10-05T02:26:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u26f4\ud83c\udff3\ufe0f US ships gone from Hormuz as Iranian commander mocks Trump-Hegseth bravado\nFor the first time, no US naval vessels are present in the Persian Gulf, Strait of Hormuz or Gulf of Oman \u2014 or even the northern Indian Ocean, senior IRGC commander Rear Admiral Ali Fadavi said, IRNA reported.\nThe statement offers a stark counterpoint to recent claims by Donald Trump and Pete Hegseth that [the US \u201ccontrols\u201d and \u201cdominates\u201d the Strait of Hormuz](https://t.me/geopolitics_prime/75592).\nAccording to Fadavi, US vessels are now absent even from the northern Indian Ocean.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\ude96\ud83c\uddfe\ud83c\uddeaSaudi-allied Yemeni forces claim Bab al-Mandab and Dhu Bab Airport under government control\nMilitary spokesman Colonel Majed Al-Nuzaili:\nOperation \"Dawn of Yemen\" has begun on a wide scale, targeting Houthi capabilities and personnel, Yemeni Armed Forces spokesman Colonel Majed Al-Nuzaili said. \nKey takeaways from his statement:\n\u2666\ufe0f Giants Forces and National Shield took control of Bab al-Mandab\n\u2666\ufe0f Dhu Bab Airport is under government forces' control\n\u2666\ufe0f The road between Dhu Bab and Al-Makha has been cut, with fire control tightened over it\n\u2666\ufe0f Hundreds of Houthi fighters are besieged in the Dhu Bab area and must surrender\n\u2666\ufe0f Some Houthi militia members fled by boat across the sea after being surrounded\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T00:39:37+00:00",
+      "timestamp": "2026-10-05T09:05:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -612,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\uddf4 Somalia ready to provide Ethiopia with port access, won\u2019t accept Israeli presence in Somaliland\n\u00a0\nMogadishu is ready to provide its landlocked neighbor with access to two or three of its ports for commercial imports and exports, Somali President Hassan Sheikh Mohamud has told Al-Jazeera.\nThe port access would presumably be contingent on Ethiopia annulling its 2024 port access MoU with the Somali breakaway of Somaliland, which has yet to be fully implemented amid negotiations with Somalia.\n\ud83d\udcf9 In the interview, Hassan Sheikh also commented on Israeli attempts [to set up a presence in Somaliland](https://t.me/geopolitics_prime/74720), emphasizing that Mogadishu would not tolerate such a presence \u201cunder any circumstances.\u201d\nAt the same time, the Somali president accused the Houthis \u2013 Israel\u2019s key regional adversaries, of being [\u201caggressive\u201d and of \u201cdestabilizing\u201d](https://t.me/geopolitics_prime/74031) Yemen and the region.\n\ud83d\udc49 This can be explained by Somalia\u2019s signing of a major military cooperation agreement with Saudi Arabia in February and its longstanding alliance with Turkey, another member of the new Mecca defense pact.\nHassan Sheikh\u2019s government currently controls as little as 20% of Somalia\u2019s sovereign territory, including just one major port \u2013 Mogadishu. Al-Qaeda ally Al-Shabaab controls of ~30% of the country, Somaliland about 22%, and semi-autonomous states like Puntland and Jubaland much of the rest (including the major ports of Bosaso and Kismayo).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf5\ud83c\uddf9\ud83c\uddfa\ud83c\uddf8 Portuguese prosecutors review legality of US\u2019 use of Azores base during Iran war\nThe Prosecutor General\u2019s Office has launched an investigation after the opposition Left Bloc filed a formal complaint characterizing US military transit via the Lajes Air Base in the Azores archipelago as a \u201cgross violation of international law.\u201d\nUnder its 1951 defense treaty with Portugal, the US is allowed to use Lajes without prior authorization in peacetime, but must ask for permission in wartime. Foreign Minister Paulo Rangel said Lisbon authorized t[he base\u2019s use after US assurances](https://t.me/geopolitics_prime/66094) that its operations would be \u2018defensive, necessary and proportionate\u2019, and would not target civilians.\n\ud83d\udc49 Situated in the mid-Atlantic and serving as an indispensable refueling hub connecting North America, Europe and Africa, Lajes was used heavily by the US during the \u2018War on Terror\u2019 as a staging and transit site for forces on route to Afghanistan and Iraq, and to facilitate the bombing of Libya and Syria.\nIn Iran, the base played a major role both during the leadup and active phases of the war, with Lisbon authorizing dozens of landings and overflights, and servicing US forces through the spring and summer.\n\u27a1\ufe0f Portugal okayed US operations even as other European countries, [including Spain](https://t.me/geopolitics_prime/72928), Italy and France denied base access or blocked overflights. Some of these countries have subsequently been hit with suspected US or[ Israeli-backed unrest,](https://t.me/geopolitics_prime/70960) diplomatic shaming, election meddling and defense contract cancellations.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T19:58:01+00:00",
+      "timestamp": "2026-10-05T07:26:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u26a1\ufe0f\ud83d\udcf9 Houthis enter strategic Taiz hub of At Turbah as crowds celebrate\nSpontaneous demonstrations, song and dance broke out in the critical Taiz governorate town of At Turbah on Sunday as Houthi fighters in pickups entered it.\n\ud83d\udccdLocal residents were seen greeting and mingling with fighters, who chanted their famed Sarkha slogan as they rode through town.\nAt Turbah sits directly at the intersection of a critical highway link connecting the city of Taiz to Aden, capital of the Saudi-backed Yemeni government. The Houthis have been surrounding Taiz itself, putting the area into a massive pocket amid fierce fighting with enemy ground forces and the Saudi Air Force.\nAnsar Allah political bureau member Hezam al-Asad tweeted late Sunday that \u201cby the grace and favor of God, Taiz is being liberated, while [Aramco\u2019s facilities in Riyadh and Khurais are ablaze](https://t.me/geopolitics_prime/75601).\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udee2 Even Mideast\u2019s oil chokepoints have chokepoints\n \nSaudi Arabia\u2019s 7M bpd nameplate capacity East-West Pipeline restarted operations on September 22, almost two weeks after its September 11 shutdown following mysterious drone attacks that no group has claimed responsibility for.\n\ud83d\udc49 Markets reacted positively, with crude prices, which had surged well past the $100 mark, slipping back down to the 90s.\nBut actual oil shipping out of Yanbu \u2013 the western terminal and endpoint of the 1.2k km mega pipeline, still isn\u2019t back to full capacity. Tanker loadings began only days after the pipeline\u2019s official return to operation, and ship-tracking and data intelligence firm Kpler revealed that a return to the ~5.5M bpd average being shipped before the shutdown would take another month.\n\u27a1\ufe0f Then there\u2019s the gauntlet Saudi shipping still has to face while operating in the Red Sea \u2013 more vulnerable than ever in the south after the Houthis\u2019 seizure of the entire Yemeni Red Sea coast and all of the area\u2019s strategic islands, and at risk in the north as well to[ Houthi long-range missiles and drones.](https://t.me/geopolitics_prime/74495)\nWar risk insurance surcharges have tripled, from 1% of a vessel\u2019s value in July, before the Saudi attack on Sanaa airport that triggered a full-scale resumption of the Yemen war, to 3% now, according to insurance industry sources speaking to Reuters.\nYanbu also isn\u2019t the only oil-loading port with problems, The Cradle points out. The Turkish Mediterranean port of Ceyhan, eyed by Iraq as an alternative to Hormuz, processes an average of just 200k bpd, 50k bpd less than it did before the Iran war, due to drone and missile attacks on[ Iraq\u2019s northern oilfields by local militias and the IRGC.](https://t.me/geopolitics_prime/72510)\nAnd Baniyas, Syria\u2019s largely defunct oil export terminal, which hopes to facilitate up to 2M bpd-worth of Iraqi exports using a new pipeline, is currently shipping just 50k bpd via overland tanker trucks driving [Mad Max-style missions.](https://t.me/geopolitics_prime/75196)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T18:33:58+00:00",
+      "timestamp": "2026-10-05T06:28:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,31 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran warns neighbors against letting the US and Israel use their territory for attacks\n\ud83d\udcac \u201cIf in the future we witness another aggression by America and the Zionist regime and their soil is used to attack Iran, certainly the response will be different,\u201d Foreign Ministry spokesman Esmaeil Baghaei said.\nHe said Tehran has already raised objections with regional states that provided territory or facilities during previous attacks and warned them against allowing their infrastructure to be used against Iran again.\nAt the same time, Baghaei stressed that Iran still seeks good relations with its neighbors and expects them to uphold the principle of good-neighborliness.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian drones strike Ukrainian energy and port infrastructure overnight \nTargets hit:\nKharkov region \u2014 the Kochetok electrical substation\nOdessa region:\n\ud83d\udd34 The Vilkovo port point, used to move military cargo\n\ud83d\udd34 Fuel storage at the port of Chernomorsk \u2014 plus a dry cargo vessel loaded with military equipment\n\ud83d\udd34 South of Odessa, a dry cargo ship carrying military cargo was hit at sea.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T17:53:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u2622\ufe0f US attempt to put nuclear reactor on the Moon before China and Russia could end in disaster\n\u00a0\n\u201cThere will always be a space race going on, and if you enter nuclear power into that mix, then it could take a potentially more dangerous turn,\u201d Union of Concerned Scientists nuclear safety director Edwin Lyman told NYT.\nFrom space rockets exploding on the launch pad or overhead, to meteorite strikes and a harsh lunar climate (no atmosphere, no water, severe temperature swings and highly abrasive, electrostatically charged Moon dust), an accident involving even a small reactor threatens to produce much more radioactive fallout than on Earth, and turn entire swathes of the Moon into an exclusion zone.\n\ud83d\udef0 Then there\u2019s the matter of experience. NYT surprisingly admitted that \u201cno country has more experience than Russia\u201d when it comes to space-based reactor technology, citing 30+ deployments aboard Soviet-era satellites. Russia also \u201ccontrols the largest supply of what is considered the safest nuclear fuel for space missions\u201d: HALEU \u2013 a low-enriched fuel the US doesn\u2019t have the ability to produce at scale.\nThe US also hasn\u2019t built a space-grade reactor since the 1960s, and despite spending $20B+ in this area since then, has yet to field a new, working design with adequate heat dissipation, shielding and structural integrity characteristics.\nThat makes US plans to put a reactor on the Moon as soon as 2030 \u2013 a full six years before China and Russia hope to do so, fraught with risk.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-04T17:11:01+00:00",
+      "timestamp": "2026-10-05T05:46:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
