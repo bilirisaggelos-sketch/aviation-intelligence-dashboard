@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T00:42:44.109821+00:00",
+  "generated_at": "2026-10-06T06:54:11.728944+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/04/2026",
       "location": "ZHU TX",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nGrand Island, NE, Monday, October 5, 2026 through Monday, October 5, 2026 Local\nFacility: ZMP",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/03/2026",
-      "location": "ZMP NE",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -173,6 +154,63 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1530\r\nIssue Time: 2026 Oct 06 0615 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Oct 06 0559 UTC\nEstimate Velocity: 947 km/s\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-06 06:15:04.390",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3752\r\nIssue Time: 2026 Oct 06 0507 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3751\nBegin Time: 2026 Oct 05 1830 UTC\nYesterday Maximum 2MeV Flux: 2358 pfu\nMax time: 2026 Oct 05 2010 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-06 05:07:58.703",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5428\r\nIssue Time: 2026 Oct 06 0343 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5427\nValid From: 2026 Oct 05 0155 UTC\nNow Valid Until: 2026 Oct 06 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-06 03:43:55.093",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5427\r\nIssue Time: 2026 Oct 05 2111 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5426\nValid From: 2026 Oct 05 0155 UTC\nNow Valid Until: 2026 Oct 06 0600 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -211,59 +249,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2054\r\nIssue Time: 2026 Oct 05 0352 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 05 0352 UTC\nSynoptic Period: 0300-0600\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Riyadh Airport, Saudi Arabia, was struck directly by Yemeni ballistic missiles",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-05 03:52:52.680",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T02:53:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2269\r\nIssue Time: 2026 Oct 05 0350 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 05 0350 UTC\nValid To: 2026 Oct 05 1500 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-05 03:50:48.633",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5426\r\nIssue Time: 2026 Oct 05 0156 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 05 0155 UTC\nValid To: 2026 Oct 05 2359 UTC\nWarning Conditions: Persistence\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-05 01:56:45.643",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -308,6 +308,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukrainian drones hit the Volodarskaya oil depot in Moscow Oblast, reportedly setting at least two fuel tanks on fire.\nThe facility is the largest oil depot in Moscow Oblast by storage capacity and a major fuel-distribution hub supplying Moscow\u2019s airports.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T06:39:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "The Conservative Party in the UK has unveiled plans for a \u00a310 billion air and missile defense system dubbed the \u201cBritannia Shield,\u201d modelled partly on Israel\u2019s Iron Dome.\nThe system would combine advanced radar, upgraded command systems, interceptor missiles and counter-drone technology, while significantly increasing Britain\u2019s missile stockpiles.\nShadow defense secretary James Cartlidge said it would protect critical infrastructure, military bases, UK territories and overseas bases, with an initial deployable capability planned within the first term of a future Conservative government.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -333,25 +352,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-05T22:27:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. evacuated 12 B-1 bombers from RAF Fairford in the UK after intelligence indicated a possible Iranian drone attack on the base.\nBritish authorities had also arrested several dual British-Iranian citizens suspected of planning an attack, though U.S. officials said it was unclear whether the cases were connected.\nTrump confirmed the bombers were moved because of an Iranian security threat, contradicting Rubio, who had initially described the move as a routine rotation.\nSource: Axios",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T22:16:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -450,13 +450,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -480,12 +479,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf2\ud83c\uddfd\ud83c\uddfa\ud83c\uddf8500 personnel from Mexico's Armed Forces auch as their National Guard have deployed to the Mexico-U.S. border to support operations to stop narcotics and human trafficking as part of Operation \"Mirror,\" in cordination with the U.S. \nThey deployed with two military helicopters, drones, and anti-drone systems.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian drones targeted Zaporizhzhia city Monday night, striking one of the bridges over the Dniper river.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:32:24+00:00",
+      "timestamp": "2026-10-06T05:07:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -499,12 +498,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea The Houthis announced that over the past 24 hours, Saudi Arabian jets have conducted 106 air raids and missile strikes, targeting Sana'a and the governorates of Al-Jawf, Taiz, Amran, Hajjah, and Saada. \nThe airstrikes were carried out by F-15s and Typhoon aircraft which took off from airbases in Khamis Mushait and Taif, while missile attacks originated from Najran, Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted the Volodarsk linear production and dispatch station, Konstantinovo, Moscow region, during this evening's strikes on Russia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:29:37+00:00",
+      "timestamp": "2026-10-06T03:21:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -518,12 +517,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [The Guardian](https://www.theguardian.com/world/2026/oct/04/russia-strikes-kyiv-bridge-german-chancellor-merz-visits-ukraine): A Russian drone struck Kyiv\u2019s Pivnichnyi Bridge while vehicles were travelling across the major roadway.\nClose-up footage shows the drone diving into the bridge before exploding between passing cars. Kyiv Mayor Vitali Klitschko said two people were injured.\nThe attack marked the fourth consecutive day of Russian strikes targeting bridges connecting the two banks of the Dnipro River.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6Ukrainian President Zelenskyy says that they're sourcing ammo for F-16s from around the world to better defend against Russian jet-drones.\n\"We are currently sourcing ammunition for the F-16 from all over the world; it is one of the most effective tools available today for shooting down suicide drones. Some shipments are already on their way, and more are to come, so that our aircraft will have the ammunition they need to defend our cities.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:29:18+00:00",
+      "timestamp": "2026-10-06T03:18:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -537,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\udde6\ud83c\udde6\ud83c\uddea [Corriere](https://www.corriere.it/economia/trasporti/aerei/26_ottobre_04/cosa-successo-volo-flydubai.shtml): A minute-by-minute account of the dramatic moments in which the Omani co-pilot aboard the Flydubai flight to Tel Aviv allegedly attempted to seize control of the aircraft and crash it:\n09:15 \u2014 Co-pilot Hammam al-Hamami says he wants to pray.\n09:20 \u2014 Al-Hamami attacks the Indian captain, Smith Machhar, from behind with an emergency axe. During the ensuing struggle, the injured captain manages to open the cockpit door.\n09:21 \u2014 As passengers rush into the cockpit, al-Hamami disengages the autopilot, takes control of the aircraft, shuts down both engines and pushes the control column fully forward, sending the plane into a dive over the Saudi desert.\n09:22 \u2014 Before being removed from the cockpit, al-Hamami allegedly attempts to disable the aircraft\u2019s systems. Israeli passenger Yaniv Hayun then pulls back on the control column to prevent the aircraft from losing further altitude.\n09:25 \u2014 Two off-duty pilots intervene and restore the aircraft to stable flight.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf3[Caracol:](https://caracol.com.co/2026/10/05/colombia-supera-los-440-ataques-con-drones-inteligencia-alerta-por-tecnologia-de-origen-chino/) The Colombian General Command's official information system for tracking military operations, BISIGOI, registered 442 attacks from drones loaded with explosives from January 1st 2024 to the 1st of October 2026, killing 25 people and injuring 356. \nThe report further warns that Colombia has become the main testing ground for drone usage by non-state actors in Latin America, with Chinese drones and UAS related systems likely being the majority of systems used by non-state groups. \nAlthough the report emphasizes that this doesn't mean that this is necessarily the fault of the Chinese government. \nA key problem is that there's no bilateral mechanism between Colombia and China for sharing information on serial numbers, manufacturers and distributors, suspicious buyers, etc. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:26:47+00:00",
+      "timestamp": "2026-10-06T03:17:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -556,89 +555,51 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 The Houthi armed forces say they have expelled and targeted Saudi military reinforcements east of al\u2011Jawf following what they described as failed attempts to advance toward their positions.\nThe statement claims a large number of vehicles were burned, dozens killed or wounded, and remaining forces pursued in the al\u2011Jawf desert. \nIt says ballistic missiles and drones were used against the gatherings.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\udde6\ud83c\uddea\ud83c\uddf8\ud83c\udde6 [CBS News:](https://www.cbsnews.com/news/israel-flydubai-plane-shoot-down-threat/) Israel was prepared to shoot down FlyDubai Flight 1073 after the captain was attacked and the aircraft stopped responding to Israeli Air Force communications.\nIsraeli fighter jets were scrambled and the country\u2019s airspace was closed, but the jets were recalled after the plane turned toward Saudi Arabia, where Saudi fighter jets were also deployed.\nPassengers and crew subdued the co-pilot, while two off-duty pilots regained control and landed the aircraft safely in Tabuk.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T02:26:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2705 New footage shows aftermath of Yemeni strikes on Aramco sites\nNew photos and video show what Naya reported were the results of Yemeni missile strikes on Saudi Aramco oil facilities in Jeddah earlier today.\nThe footage follows [Ansar Allah\u2019s announcement of a major missile-and-drone campaign](https://t.me/geopolitics_prime/75702) against targets across Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T22:44:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\udd98 US Navy Seahawk squawks emergency over Red Sea near Saudi Arabia\nA US Navy MH-60R Seahawk was tracked squawking emergency code 7700 over the Red Sea off Saudi Arabia\u2019s Yanbu coast, according to FlightRadar24 data.\nThe tracker later displayed the helicopter at 0 meters altitude, fueling speculation online that it may have gone down. There is no official confirmation of a crash, however, and the nature of the emergency remains unknown.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T22:05:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 Houthis launch three major strikes deep inside Saudi Arabia\nYemen\u2019s Ansar Allah movement carried out three large-scale operations using ballistic and cruise missiles as well as drones against targets across Saudi Arabia, Al Masirah reported.\n\ud83d\udcac \u201cWe carried out three major operations using a large number of ballistic and cruise missiles, as well as drones,\u201d spokesman Yahya Saree said.\nKing Khalid International Airport in Riyadh was targeted in the first operation, disrupting flights. A second strike hit an Aramco refinery in Rabigh, where a fire broke out.\nThe third wave targeted Abha Airport, Khamis Mushait Air Base, the Al-Akifah military camp, and other sites in Najran and Jizan.\nThe Houthis said the attacks came in response to 60 Saudi-led air and missile strikes over the previous 24 hours, which they said killed and wounded civilians, including women and children.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T21:21:01+00:00",
+      "timestamp": "2026-10-06T03:12:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
+        "CASELS",
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3 Trump points finger at Iran over Flydubai attack \u2014 without evidence\nAsked whether Iran was responsible for the attempted attack aboard a Flydubai flight bound for Tel Aviv, US President Donald Trump offered a definitive answer:\n\ud83d\udcac \u201cI do. I personally do.\u201d\nSo far, however, investigators have not established any concrete link to Iran. Israeli investigators currently believe the co-pilot may have acted alone, while his motive remains under investigation. Even Benjamin Netanyahu previously said it was \u201ctoo early to say\u201d whether Tehran was involved.\nThe September 30 incident involved an Omani [co-pilot allegedly attacking the captain](https://t.me/geopolitics_prime/75399) with an emergency axe and attempting to crash the Dubai\u2013Tel Aviv flight. Passengers and crew subdued him, and the aircraft landed safely in Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Houthi ballistic missile strikes reportedly targeted ARAMCO facilities in Jeddah, Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T20:39:01+00:00",
+      "timestamp": "2026-10-06T03:12:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Are the US and Israel meddling in a Brazilian vote that could reshape Latin America?\nBrazil is one of the last major outposts of anti-US imperialist and anti-Israeli politics in a region swept by an \u201cangry tide\u201d of far-right forces following Javier Milei\u2019s victory in Argentina in 2023, and Washington is doing its best to push it over the edge into its own camp.\n\ud83d\udc49 Brazil\u2019s federal police have launched an official probe into suspected US election interference after receiving a formal a complaint from the Attorney General\u2019s Office.\n\u201cThe inquiry has not yet been formally published, but we already have an investigation in progress,\u201d Federal Police chief Andrei Rodrigues said Sunday, the same day Brazilians went to the polls for the first round of voting in parliamentary, gubernatorial and presidential elections, where center-left incumbent Lula da Silva faced off against ultraconservative Jair Bolsonaro\u2019s son Flavio.\n\ud83d\udde3 [Lula openly accused Trump of plotting to \u201ccolonize\u201d Brazil ](https://t.me/geopolitics_prime/75133)shortly before the vote, alleging that Washington seeks to secure the nation\u2019s vast resources and weaken its sovereignty.\nThe State Department assured that this was a \u201cbaseless lie,\u201d and that the US is not meddling in Brazil\u2019s democratic process.\nBut Lula and the AG\u2019s Office aren\u2019t the only ones fearing interference.\n\ud83d\udd34 On the elections\u2019 eve, The Guardian exposed a Trump administration push to fund \u2018civil society groups\u2019 to undermine Brazil\u2019s Supreme Court, weaponize the judiciary and potentially influence election results if they prove razor thin\n\ud83d\udd34 These fears have materialized, with Bolsonaro taking 47% of the vote and da Silva trailing with 45% in Sunday\u2019s vote, setting the stage for an extremely tense October 25 showdown which could easily escalate\n\ud83d\udd34 Also in September, Brazil\u2019s intelligence services briefed a European delegation on attempts to meddle in the upcoming vote, accusing Washington of everything from \u201clawfare to interference that is openly acknowledged.\u201d A cyber official reported a doubling of cyberattacks against Brazil since 2025, and a \u201csharp rise\u201d in election-related hack and phishing attacks targeting the president\u2019s office.\n\ud83d\udd34 As for Israel, Netanyahu has explicitly aligned with the Bolsonaro family, calling Flavio a \u201cfriend and champion.\u201d Flavio\u2019s brother Eduardo openly collaborated with Israeli Diaspora Affairs Minister Amichai Chikli in 2025 to pressure Brazil\u2019s government to drop a judge\u2019s war crimes probe against an IDF soldier on a tourist trip to Brazil. Jair maintained a close, warm political alliance and personal rapport with the Israeli PM.\n\u00a0\nPolymarket,[ the infamous DARPA and Palantir-linked geopolitical prediction market](https://t.me/geopolitics_prime/74741), favors Bolsonaro Jr. to win the runoff with a 93% probability.\nMeanwhile, [Argentinian military equipment has been spotted entering southern Brazil](https://t.me/geopolitics_prime/75629) for suspiciously timed drills partly coinciding with Brazil\u2019s tension-filled vote.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T06:53:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -652,40 +613,22 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Hormuz oil flows rise, but costs and risks could soon become unsustainable\nOil industry trackers say crude flows through the Strait of Hormuz have recovered to 13-17 million barrels a day.\nThat may seem like a relatively modest drop from the 20 million barrels a day that flowed through the waterway before the Iran war.\nBut what is the cost?\n\ud83c\udf0f Iran still keeps the strait closed, leaving vessels at risk of attack, while war-risk insurance premiums have soared to 5%\u20136% of cargo value, adding up to roughly $10 million per transit\n\ud83c\udf0f Beyond insurance, a round trip for shuttle runs moving crude through the dangerous strait now costs $40 million, or $15-$20 per barrel. Compare that with the $1-$2-per-barrel \u201ctoll\u201d proposed by Iran, which would carry no additional risk\n\ud83c\udf0f The cost of hiring a Very Large Crude Carrier (VLCC) has surged from $231,400 a day to $1.2 million\n\ud83c\udf0f Ship-management companies are offering sailors bonuses of up to $25,000 per round trip\n\ud83c\udf0f Ship-to-ship transfers are complicated and risky. Shuttles operate at night with transponders off and GPS signals disabled for hours, with navigation relying on old-school methods\n\ud83c\udf0f The US must maintain a naval presence in the region to protect and oversee the scheme while facing the risk of attack itself. Another US carrier strike group, led by the USS Roosevelt, has been sent to the Gulf\nResponsible Statecraft argues that the entire project, aimed at making Donald Trump appear to be \u201cwinning\u201d ahead of the November midterms, is ultimately unsustainable.\nMeanwhile, US strategic reserves are depleted, while gasoline and diesel prices at home remain high. Global oil prices also remain elevated despite reports of rising Gulf crude exports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd0d\ud83c\uddee\ud83c\uddf1 Israel\u2019s security agency joins Flydubai interrogation in UAE \u2014 report\nShin Bet agents flew to the UAE to take part in the questioning of Hamam al-Hammami, the Omani co-pilot accused of attempting a terror attack aboard a Flydubai flight last week, The Times of Israel reports.\nKey revelations from the interrogation:\n\u2666\ufe0f Al-Hammami told UAE investigators he planned to crash the flight into Ben Gurion Airport before he was even hired by Flydubai\n\u2666\ufe0f He said he chose Flydubai specifically because it flew to Tel Aviv\n\u2666\ufe0f He had flown the Tel Aviv route earlier this year and considered hijacking the plane then, but opted not to\n\u2666\ufe0f A backup plan involved crashing into a US military base in Jordan if Ben Gurion was unreachable\n[On September 30, 2026, Flydubai Flight FZ1073 departed Dubai for Tel Aviv](https://t.me/geopolitics_prime/75550) carrying 174 people, mostly Israeli citizens. Mid-flight, the co-pilot attacked the captain (Smit Machchhar, an Indian national) with a crash axe inside the cockpit, stabbing him and attempting to seize control of the aircraft. \nThe plane plunged roughly 17,000 feet in under two minutes before Israeli passengers and crew stormed the cockpit, subdued the attacker, and reserve pilots on board stabilized the aircraft. The flight diverted to Tabuk, Saudi Arabia, where it landed safely.\u00a0 \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T18:11:01+00:00",
+      "timestamp": "2026-10-06T06:17:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran has technical means to shut down Starlink \u2013 top cyber official\n\u00a0\nIran became \u201cthe first country to successfully and deliberately shut down Starlink operations\u201d during January\u2019s US-Israeli coup attempt and will consider the equipment a \u201clegitimate military target\u201d again if it\u2019s used as a \u201ctool of warfare,\u201d Supreme Council of Cyberspace Secretary [Mohammad-Amin Aghamiri](https://t.me/geopolitics_prime/65291) has said.\n\ud83d\udcacIran\u2019s Starlink-jamming systems are \u201coperational and ready for deployment,\u201d Aghamiri said.\nThe official did not elaborate on what specific tools Iran has at its disposal. However, Geopolitics Prime previously reported on a multipronged Iranian strategy to crack down on the US satellite internet service, including:\n\ud83c\udf0f Seizures of terminals smuggled into the country to [coordinate](https://t.me/geopolitics_prime/62858) riots\n\ud83c\udf0f A temporary blacking out of virtually the entire internet and setting up a secure intranet\n\ud83c\udf0f Deployment of military-grade jamming equipment to degrade terminals\u2019 connection [to orbiting satellites by up to 80](https://t.me/geopolitics_prime/62903)%\n\ud83c\udf0f Use of signal detection vans and drones to triangulate usage areas\n\u00a0\nAghamiri\u2019s comments come on the heels of news that Iran has slapped Norway with a formal diplomatic protest over Oslo\u2019s failure to rein in Starlink\u2019s illegal operations over Iran in its capacity as the primary notifying administration registering Starlink with the [International Telecommunications Union](https://t.me/geopolitics_prime/75675).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T17:29:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
