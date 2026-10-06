@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:05:05.761569+00:00",
+  "generated_at": "2026-10-06T19:34:26.257545+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -154,6 +154,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA30\r",
+      "text": "Space Weather Message Code: WATA30\r\nSerial Number: 283\r\nIssue Time: 2026 Oct 06 1633 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G2 Predicted \nHighest Storm Level Predicted by Day:\nOct 07: None (Below G1) Oct 08: None (Below G1) Oct 09: G2 (Moderate) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: G1 to G2 (Minor-Moderate) geomagnetic storms are likely on 09 Oct with the arrival of a CME that left the Sun on 06 Oct.\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-06 16:33:38.640",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP2\r",
       "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1530\r\nIssue Time: 2026 Oct 06 0615 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Oct 06 0559 UTC\nEstimate Velocity: 947 km/s\nComment:",
       "source": "NOAA Space Weather",
@@ -230,25 +249,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3751\r\nIssue Time: 2026 Oct 05 1847 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Oct 05 1830 UTC\nStation: GOES-19\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-05 18:47:07.310",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Ship sinks and crew missing after Black Sea drone attack",
       "text": "Ship sinks and crew missing after Black Sea drone attack\nIt is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
       "source": "BBC",
@@ -268,14 +268,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Defence lawyer in Cornell University case calls for special prosecutor to be removed",
-      "text": "Defence lawyer in Cornell University case calls for special prosecutor to be removed\nNew York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
+      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+      "text": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments\nNew York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-06T13:36:46+00:00",
+      "timestamp": "2026-10-06T18:05:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -283,6 +283,64 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Ansarallah have released footage of targeting PLC vehicles with FPV drones today",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T16:06:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The PLC attempted a counterattack west of Al-Wazi\u2019iyah, but it failed and the convoys got destroyed by FPV drones, anti-tank guided missiles, and AT mines",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T16:03:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Situational update of the Taizz front, Yemen:\n\u2013 Ansarallah have eliminated the last pockets of PLC resistance in the Qadas heights and Salu mountain; the towns of Hasahes, Sharaf, Hayjat Al-Abd, and Souq Jamrak were also captured.\n\u2013 In the northern direction of Taizz city, Ansarallah have captured Zanam mountain and Shanakheb mountain, and the towns of Balaan, Maysar, and Al-Makhaf. They are approaching Al-Misrakh.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T15:52:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -345,89 +403,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Riyadh Airport, Saudi Arabia, was struck directly by Yemeni ballistic missiles",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T02:53:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "The PLC are stuck in Ras Al-Arah\nMore missiles & FPVs are hitting\nIt\u2019s a massacre",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T00:13:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Ansarallah is hitting the withdrawn PLC troops with precision-guided artillery and missiles\nMore than 100+ PLC members have been killed or wounded in Ras Al-Arah, which is now constantly under fire.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T23:49:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukraine covered the Northern Bridge in Kyiv with protective netting against drones as it prepares for possible new Russian attacks.",
+      "text": "Sweden to Send Patriots and Troops to Protect NATO\u2019s Ukraine Supply Hub\nAround 100 Swedish personnel will deploy to Poland's Rzesz\u00f3w-Jasionka Airport from December, replacing Dutch Patriot forces amid warnings of Russian drone and missile attacks.\n[READ MORE](https://clashreport.com/world/articles/sweden-to-send-patriots-and-troops-to-protect-nato-s-ukraine-supply-hub-fd8tb9zcmso)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T11:05:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Macron watches France conduct the first launch of its new M51.3 ballistic missile from the nuclear submarine Le Vigilant.\nHe said the test demonstrated the credibility of France\u2019s nuclear deterrent: \u201cTo be free, you must be feared. And to be feared, you must be powerful.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T10:54:07+00:00",
+      "timestamp": "2026-10-06T17:07:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -498,12 +480,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 \u2014 Flights are now being diverted to Prince Mohammad bin Abdulaziz International Airport in Medina, western Saudi Arabia, for landing.\n\ud83d\udd34",
+      "text": "A UAV unit of the First Division of the Nation\u2019s Shield Forces (NSF) carried out a precision strike targeting a gathering of Ansar Allah troops on the Al-Wazi\u02bdiyah front.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T23:24:42+00:00",
+      "timestamp": "2026-10-06T17:31:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,12 +499,70 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 \u2014 Continued suspension of flights at King Khalid International Airport in the Saudi capital, Riyadh.\n\ud83d\udd34",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 New footage shows columns of smoke rising from Aramco oil facilities in the Jeddah area of Saudi Arabia following a ballistic missiles attack reportedly carried out by the Ansar Allah (Houthi) movement yesterday.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T23:12:54+00:00",
+      "timestamp": "2026-10-06T17:26:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf0 \u2014 Pakistan has announced the successful test of a new Fatah-4 cruise missile variant with an increased range.\nAccording to the military, the updated missile can travel farther than the existing model, although its exact range was not disclosed. The original Fatah-4 has a reported range of approximately 750 km and is part of Pakistan\u2019s conventional missile capabilities.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T16:59:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Cruise missiles launched from areas in southern Iran toward the Strait of Hormuz.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T16:50:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\udde6\u274c\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian drones hit the Volodarskaya oil depot in Moscow Oblast, reportedly setting at least two fuel tanks on fire.\n\u27a1\ufe0f The facility is the largest oil depot in Moscow Oblast by storage capacity and a major fuel-distribution hub supplying Moscow\u2019s airports.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T15:52:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,6 +690,84 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Houthis accuse enemies of \u2018imaginary heroics\u2019 and fake victories\n\u00a0\n\u201cThe Armed Forces maintain full control over all their battlefield gains. What the enemy promotes as victories is nothing but imaginary heroics intended to please its masters, just like its malicious tactics, which our people are well aware of, whether along the western coast or in other areas,\u201d Houthi-aligned Yemeni Armed Forces spokesman Yahya Saree has said.\nSaree\u2019s comments follow the Saudi-aligned Aden government\u2019s claims Monday that its forces had successfully executed a counteroffensive in areas recently won by the Houthis, including Bab al-Mandab and Mocha, as part of Operation \u201c[Dawn of Yemen](https://t.me/geopolitics_prime/75676).\u201d\nSaree reported that over 200 enemy troops had been killed or wounded in strikes on enemy positions in the areas of Ras al-Arah and al-Saqiya in southwestern Yemen, and that the Armed Forces were carrying out attacks in al-Jawf and Marib provinces, killing scores of mercenaries and destroying [multiple vehicles](https://t.me/geopolitics_prime/75690).\n\ud83d\udcacMercenary forces\u2019 attempts to infiltrate Bab al-Mandab were met with a \u201cdecisive response\u201d and \u201cstrong defense\u201d and were supressed, and enemies were forced to retreat without achieving any battlefield success, highlighting Saudi Arabia\u2019s inability to change the military equation in strategic areas on the battlefield, the spokesman said.\n\u201cWe renew our warning to all international airlines against continuing to make flights in Saudi airspace, as it has become a theater for our military operations, excepting the airspace over the holy areas of Mecca and Medina,\u201d Saree said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T18:29:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd25 Trump's challenge: More crude, same high diesel prices \u2013 Hormuz flows and US output may not help\nDiesel prices are set to remain elevated in the US and globally through 2027, Goldman Sachs warns.\nEven as some crude continues to flow through the Strait of Hormuz and US oil production hits a record 13.95 million barrels per day, that doesn\u2019t mean those volumes will immediately translate into much-needed diesel.\n\ud83d\udd34A 42-gallon barrel of US-refined crude yields about 19-20 gallons of gasoline and 11-13 gallons of ultra-low-sulfur distillate, most of which becomes diesel, Forbes explains\n\ud83d\udd34US refineries already operate at around 96% of capacity, which has been declining in recent years. They can\u2019t ramp up production overnight\n\ud83d\udd34To make matters worse, US distillate inventories have fallen below 100 million barrels and may remain below the 2021\u20132025 five-year low through 2026 and most of 2027, EIA says\nThe global outlook is also grim, with major supplies disrupted in the Middle East, Russia, and China:\n\ud83d\udd34Russia has restricted fuel exports following Ukrainian attacks on its refineries \u2014 part of Kiev\u2019s strategy backed by its Western allies\n\ud83d\udd34Middle Eastern refinery output and shipping have been disrupted by the war with Iran, launched by the US and Israel in February\n\ud83d\udd34China has temporarily banned fuel exports to bolster domestic stocks amid geopolitical uncertainty\nEurope is in an especially difficult position, having cut refining capacity over the past 15 years amid the green transition to just 14.4 million barrels per day. Donald Trump has twisted its arm into releasing some of its diesel reserves \u2013 but it's a drop in the bucket, experts say.\nDiesel is expected to average above $40 a barrel in 2027 \u2013 more than twice their historical norm of around $20.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T17:48:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udee9\ud83d\ude80\ud83c\uddfa\ud83c\uddf8 US drone maker Anduril dives into submarine tech\n\u00a0\nThe Trump administration-linked defense startup, which just lost one of its brand new Dive-LD unmanned drone submersibles to Iran, plans to pump $3.7B into a new shipbuilding facility in Sparrows Point, Maryland to assist in the production of America\u2019s [nuclear-powered submarines](https://t.me/geopolitics_prime/74351).\nAnduril promises the facility, set to be up and running by 2030 and to employ ~3.1k people, will \u201creally reimagine how a shipyard is built and how this work is done.\u201d That may be a veiled dig at traditional shipbuilding majors, who are short up to 250k skilled workers to complete subs the Pentagon has already [ordered](https://t.me/geopolitics_prime/72896).\nThe company\u2019s new project comes in the wake of DoD chief Hegseth\u2019s announcement that Anduril CEO Palmer Luckey, Elon Musk and former House Speaker Newt Gingrich had been tapped to spearhead a new project to secure \u201cabsolute technological dominance\u201d in future [US wars](https://t.me/geopolitics_prime/75490).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T17:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f\ud83d\udd25 Houthis showcase direct missile hit on Saudi-backed military vehicles\nThe Houthi military released footage showing a missile striking Saudi-backed Yemeni forces and military vehicles amid renewed fighting in the country.\nThe confrontation between the Houthis and Yemen\u2019s internationally recognized government forces, backed by Saudi Arabia, resumed in mid-July after a four-year lull. \nSince then, Houthi forces have expanded their positions along the Red Sea coast and around the Bab al-Mandab Strait, a key maritime chokepoint.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T14:58:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\udd25\ud83d\udcca Trump\u2019s Golden Dome risks turning into tin strainer amid funding woes\n \nThe Trump administration\u2019s modern-day reboot of Reagan\u2019s Strategic Defense Initiative could cost between $1.2T and $3.6T to build and operate, per independent analyses by the Congressional Budget Office and the American Enterprise Institute.\nBut even the Pentagon\u2019s own \u2018modest\u2019 projections of $185B may be out of America\u2019s [price range. ](https://t.me/geopolitics_prime/68909)\nDC Beltway media report that the DoD\u2019s decision to pack Golden Dome funding into a $350B spending package that\u2019s separate from Trump\u2019s $1.5T proposed defense budget could leave the missile defense project without funds.\nAs of the start of the federal fiscal year (October 1), \u201cthe program has no money,\u201d CSIS Missile Defense Project director Thomas Karako told The Hill.\n\ud83d\udcac\u201cThis stands or falls with FY-27 appropriations\u2026that\u2019s the single most urgent thing for Golden Dome. It is life and death from that standpoint. Without money there\u2019s no program, it\u2019s just PowerPoint slides,\u201d he explained.\nCongress already pumped $24.5B into the project in last year\u2019s \u2018Big Beautiful Bill\u2019. The Pentagon now wants $17B more in the $350B package. But that money is under threat because of Congress\u2019s Continuing Resolution stopgap funding measure \u2013 which funds the government by extending the previous year\u2019s spending, thus effectively freezing out Golden Dome.\nIf Congress can\u2019t find a way to get the money, \u201cthere is no Golden Dome because there is no funding,\u201d Space Force Golden Dome program director Michael Guetlein said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -669,7 +787,7 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf1 Israel was prepared to kill everyone onboard \u2018hijacked\u2019 Flydubai flight - report\n\u00a0\nIf Flydubai Flight 1073\u2019s passengers and crew had not retaken control of the airliner by the time it reached Jordan, Israeli warplanes would have been dispatched into Jordanian airspace, and if necessary, shot the plane down, Israeli sources \u2018with direct knowledge of the situation\u2019 told CBS News.\n\ud83d\udc49 Israel spent years preparing for a 9/11-style hijack scenario, and when the IAF tried and failed to get in touch with the plane, an emergency command center was immediately set up, Israel\u2019s airspace closed, and jets scrambled \u2013 only to be turned back after the jetliner swung around and made an emergency landing in Saudi Arabia.\nIf the plane had continued on, the command center would have contacted Netanyahu, who would have to make the final decision on the fate of the plane and its 182 passengers and crew.\nIt wouldn\u2019t have been for Israel to deploy a version of its Hannibal Directive \u2013 which instructs the IDF to do everything in its power, up to and including killing, to stop Israeli citizens from being kidnapped.[ The directive is known to have been used on October 7.](https://t.me/geopolitics_prime/61831)\n\u2708\ufe0f [As for Flydubai Flight 1073,](https://t.me/geopolitics_prime/75532) journalists have lingering questions about just what that incident was \u2013 an attempted hijacking by a lone wolf extremist, or a false flag and choreographed PR stunt by Netanyahu to blame Iran, strengthen Israeli-Gulf relations and generate global sympathy for Israel.\nJust a day before the incident, [Netanyahu published a video](https://t.me/geopolitics_prime/75277) warning of unspecified \u2018security threats\u2019 to Israel. Days before that, he made a secret trip to the UAE to plead with Sheikh Mohamed bin Zayed to retract stories about [Netanyahu\u2019s foreknowledge of the October 7 plot.](https://t.me/geopolitics_prime/75322)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf1 Israel was prepared to kill everyone onboard \u2018hijacked\u2019 Flydubai flight - report\n\u00a0\nIf Flydubai Flight 1073\u2019s passengers and crew had not retaken control of the airliner by the time it reached Jordan, Israeli warplanes would have been dispatched into Jordanian airspace, and if necessary, shot the plane down, Israeli sources \u2018with direct knowledge of the situation\u2019 told CBS News.\n\ud83d\udc49 Israel spent years preparing for a 9/11-style hijack scenario, and when the IAF tried and failed to get in touch with the plane, an emergency command center was immediately set up, Israel\u2019s airspace closed, and jets scrambled \u2013 only to be turned back after the jetliner swung around and made an emergency landing in Saudi Arabia.\nIf the plane had continued on, the command center would have contacted Netanyahu, who would have to make the final decision on the fate of the plane and its 182 passengers and crew.\nIt wouldn\u2019t have been for Israel to deploy a version of its Hannibal Directive \u2013 which instructs the IDF to do everything in its power, up to and including killing, to stop Israeli citizens from being kidnapped.[ The directive is known to have been used on October 7](https://t.me/geopolitics_prime/61831).\n\u2708\ufe0f [As for Flydubai Flight 1073](https://t.me/geopolitics_prime/75532), journalists have lingering questions about just what that incident was \u2013 an attempted hijacking by a lone wolf extremist, or a false flag and choreographed PR stunt by Netanyahu to blame Iran, strengthen Israeli-Gulf relations and generate global sympathy for Israel.\nJust a day before the incident, [Netanyahu published a video](https://t.me/geopolitics_prime/75277) warning of unspecified \u2018security threats\u2019 to Israel. Days before that, he made a secret trip to the UAE to plead with Sheikh Mohamed bin Zayed to retract stories about [Netanyahu\u2019s foreknowledge of the October 7 plot](https://t.me/geopolitics_prime/75322).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
