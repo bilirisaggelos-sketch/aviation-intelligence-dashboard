@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-05T18:51:14.498415+00:00",
+  "generated_at": "2026-10-06T00:42:44.109821+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nCHICAGO, IL, Sunday, October 11, 2026 Local\nFacility: ZAU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/05/2026",
+      "location": "ZAU IL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSAN FRANCISCO, CA, Thursday, October 8, 2026 through Sunday, October 11, 2026 Local\nFacility: ZOA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/05/2026",
+      "location": "ZOA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, October 5, 2026 through Saturday, October 10, 2026 Local\nFacility: ZJX",
@@ -135,6 +173,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5427\r\nIssue Time: 2026 Oct 05 2111 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5426\nValid From: 2026 Oct 05 0155 UTC\nNow Valid Until: 2026 Oct 06 0600 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-05 21:11:06.667",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3751\r\nIssue Time: 2026 Oct 05 1847 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Oct 05 1830 UTC\nStation: GOES-19\nComment:",
       "source": "NOAA Space Weather",
@@ -211,53 +268,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2053\r\nIssue Time: 2026 Oct 04 2357 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 04 2357 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-04 23:57:49.970",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles struck Jeddah ARAMCO refinery moments ago\nSaudi Arabia has stopped sending early warning alerts for missile attacks.",
+      "text": "The PLC are stuck in Ras Al-Arah\nMore missiles & FPVs are hitting\nIt\u2019s a massacre",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T14:41:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemen announces the entire airspace of Saudi Arabia as unsafe and tells airlines to avoid it",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T13:30:30+00:00",
+      "timestamp": "2026-10-06T00:13:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -271,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Ansarallah has uploaded footage targeting PLC troops and vehicles in Ras Al-Arah, Bab Al-Mandab front, with precision-guided missiles earlier today\nRas Al-Arah was the primary staging ground for the micro offensive against Murad and Dhubab.",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Ansarallah is hitting the withdrawn PLC troops with precision-guided artillery and missiles\nMore than 100+ PLC members have been killed or wounded in Ras Al-Arah, which is now constantly under fire.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T13:12:42+00:00",
+      "timestamp": "2026-10-05T23:49:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -290,12 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The U.S. Army is testing counter-drone technology along the Mexico border as cartel drone activity increases.\nThe military detected 378 drone incursions in 30 days, mostly commercial drones used for surveillance during smuggling and trafficking operations. \nIt has also downed 11 cartel drones with lasers since August.\nSource: Reuters",
+      "text": "The Conservative Party in the UK has unveiled plans for a \u00a310 billion air and missile defense system dubbed the \u201cBritannia Shield,\u201d modelled partly on Israel\u2019s Iron Dome.\nThe system would combine advanced radar, upgraded command systems, interceptor missiles and counter-drone technology, while significantly increasing Britain\u2019s missile stockpiles.\nShadow defense secretary James Cartlidge said it would protect critical infrastructure, military bases, UK territories and overseas bases, with an initial deployable capability planned within the first term of a future Conservative government.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T18:18:40+00:00",
+      "timestamp": "2026-10-05T22:31:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -309,12 +327,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Europe Must Let Weapons Makers Deploy Drone Countermeasures, KNDS Says\nThe Franco-German arms group wants legal authority to deploy counter-drone systems at its factories, as sabotage and espionage cases threaten Europe\u2019s defense production.\n[READ MORE](https://clashreport.com/defense/articles/europe-must-let-weapons-makers-deploy-drone-countermeasures-knds-says-of36kxdp5yb)",
+      "text": "The Saudi-led coalition says it destroyed a ballistic missile launch platform in Sanaa and a missile storage facility in Saada containing 20 ballistic missiles, according to SPA.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T17:01:24+00:00",
+      "timestamp": "2026-10-05T22:27:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The U.S. evacuated 12 B-1 bombers from RAF Fairford in the UK after intelligence indicated a possible Iranian drone attack on the base.\nBritish authorities had also arrested several dual British-Iranian citizens suspected of planning an attack, though U.S. officials said it was unclear whether the cases were connected.\nTrump confirmed the bombers were moved because of an Iranian security threat, contradicting Rubio, who had initially described the move as a routine rotation.\nSource: Axios",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-05T22:16:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -385,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Initial and unconfirmed reports indicate that a ballistic missile attack launched by Ansar Allah targeted northern Riyadh, near King Khalid International Airport.\n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 \u2014 Flights are now being diverted to Prince Mohammad bin Abdulaziz International Airport in Medina, western Saudi Arabia, for landing.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T17:49:51+00:00",
+      "timestamp": "2026-10-05T23:24:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -404,21 +441,22 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea \u2014 NEW: Ansar Allah fighters in the center of Dhubab city, Yemen, deny PLC claims of having taken control of the city.\n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 \u2014 Continued suspension of flights at King Khalid International Airport in the Saudi capital, Riyadh.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T17:41:46+00:00",
+      "timestamp": "2026-10-05T23:12:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -432,13 +470,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -538,6 +575,83 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2705 New footage shows aftermath of Yemeni strikes on Aramco sites\nNew photos and video show what Naya reported were the results of Yemeni missile strikes on Saudi Aramco oil facilities in Jeddah earlier today.\nThe footage follows [Ansar Allah\u2019s announcement of a major missile-and-drone campaign](https://t.me/geopolitics_prime/75702) against targets across Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-05T22:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\udd98 US Navy Seahawk squawks emergency over Red Sea near Saudi Arabia\nA US Navy MH-60R Seahawk was tracked squawking emergency code 7700 over the Red Sea off Saudi Arabia\u2019s Yanbu coast, according to FlightRadar24 data.\nThe tracker later displayed the helicopter at 0 meters altitude, fueling speculation online that it may have gone down. There is no official confirmation of a crash, however, and the nature of the emergency remains unknown.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-05T22:05:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80 Houthis launch three major strikes deep inside Saudi Arabia\nYemen\u2019s Ansar Allah movement carried out three large-scale operations using ballistic and cruise missiles as well as drones against targets across Saudi Arabia, Al Masirah reported.\n\ud83d\udcac \u201cWe carried out three major operations using a large number of ballistic and cruise missiles, as well as drones,\u201d spokesman Yahya Saree said.\nKing Khalid International Airport in Riyadh was targeted in the first operation, disrupting flights. A second strike hit an Aramco refinery in Rabigh, where a fire broke out.\nThe third wave targeted Abha Airport, Khamis Mushait Air Base, the Al-Akifah military camp, and other sites in Najran and Jizan.\nThe Houthis said the attacks came in response to 60 Saudi-led air and missile strikes over the previous 24 hours, which they said killed and wounded civilians, including women and children.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-05T21:21:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3 Trump points finger at Iran over Flydubai attack \u2014 without evidence\nAsked whether Iran was responsible for the attempted attack aboard a Flydubai flight bound for Tel Aviv, US President Donald Trump offered a definitive answer:\n\ud83d\udcac \u201cI do. I personally do.\u201d\nSo far, however, investigators have not established any concrete link to Iran. Israeli investigators currently believe the co-pilot may have acted alone, while his motive remains under investigation. Even Benjamin Netanyahu previously said it was \u201ctoo early to say\u201d whether Tehran was involved.\nThe September 30 incident involved an Omani [co-pilot allegedly attacking the captain](https://t.me/geopolitics_prime/75399) with an emergency axe and attempting to crash the Dubai\u2013Tel Aviv flight. Passengers and crew subdued him, and the aircraft landed safely in Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-05T20:39:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7 Hormuz oil flows rise, but costs and risks could soon become unsustainable\nOil industry trackers say crude flows through the Strait of Hormuz have recovered to 13-17 million barrels a day.\nThat may seem like a relatively modest drop from the 20 million barrels a day that flowed through the waterway before the Iran war.\nBut what is the cost?\n\ud83c\udf0f Iran still keeps the strait closed, leaving vessels at risk of attack, while war-risk insurance premiums have soared to 5%\u20136% of cargo value, adding up to roughly $10 million per transit\n\ud83c\udf0f Beyond insurance, a round trip for shuttle runs moving crude through the dangerous strait now costs $40 million, or $15-$20 per barrel. Compare that with the $1-$2-per-barrel \u201ctoll\u201d proposed by Iran, which would carry no additional risk\n\ud83c\udf0f The cost of hiring a Very Large Crude Carrier (VLCC) has surged from $231,400 a day to $1.2 million\n\ud83c\udf0f Ship-management companies are offering sailors bonuses of up to $25,000 per round trip\n\ud83c\udf0f Ship-to-ship transfers are complicated and risky. Shuttles operate at night with transponders off and GPS signals disabled for hours, with navigation relying on old-school methods\n\ud83c\udf0f The US must maintain a naval presence in the region to protect and oversee the scheme while facing the risk of attack itself. Another US carrier strike group, led by the USS Roosevelt, has been sent to the Gulf\nResponsible Statecraft argues that the entire project, aimed at making Donald Trump appear to be \u201cwinning\u201d ahead of the November midterms, is ultimately unsustainable.\nMeanwhile, US strategic reserves are depleted, while gasoline and diesel prices at home remain high. Global oil prices also remain elevated despite reports of rising Gulf crude exports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -563,44 +677,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-05T17:29:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u269b\ufe0f\ud83d\udc41 OpenAI are gamblers who might plunge humanity off a cliff, ex-employee warns\nThe \u201cculture\u201d inside Sam Altman\u2019s AI empire is hopelessly \u201cbroken,\u201d and the whole industry\u2019s \u201capproach to safety will guarantee more failures\u201d which are becoming more and more costly and difficult to fix, David Robinson, former OpenAI safety lead-turned media whistleblower wrote in a new op-ed.\nThe problem isn\u2019t just about creating laws, but imbuing Silicon Valley with a \u201cwisdom\u201d it fundamentally lacks due to a dearth of humility. This results in a dangerous, \u201cunimpeded optimism about being able to solve problems as they arise.\u201d\nThis kind of environment \u201cis no place to grow artificial minds that could be smarter than we are and that might not do what we want them to,\u201d Robinson warns, arguing that \u201cachieving something much closer to perfection the first time\u201d is now \u201cessential because [correction] after a mistake may not be possible.\u201d\nFrontier AI labs \u201cneed to run like nuclear power plants or busy airports, with layers of redundancy and careful, time-consuming planning, so that the occasional and inevitable human error does not open a door to disaster.\u201d\nWhat\u2019s more, AI firms have yet to answer the fundamental question: how superintelligent machines will relate to human beings.\n\ud83d\udd34\u201cIf you listen to superintelligence enthusiasts, some of the supposedly good futures involve creating machines that could look at New York City or Chicago the way you or I might view an ant hill. I don\u2019t want that for my kids, and I don\u2019t think other people do either,\u201d Robinson wrote.\ud83d\udd34\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T16:49:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25Houthis release footage of missiles striking Saudi-backed forces near Bab al-Mandab\nYemeni military media released footage showing locally made ballistic missiles striking concentrations of Saudi-backed forces in the Ras al-Ara area.\nThe strikes came as fighting intensified around the approaches to the Bab al-Mandab Strait, one of the world\u2019s most important maritime chokepoints.\nEarlier in the day, the Yemeni army said it had secured the Dhubab area and other strategically important positions near Bab al-Mandab during an operation launched over the weekend against Houthi forces.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-05T14:37:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
