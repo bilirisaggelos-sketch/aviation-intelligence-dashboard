@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T23:19:08.421645+00:00",
+  "generated_at": "2026-10-07T02:39:17.418869+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -87,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/02/2026",
       "location": "ZID IN",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nST PAUL, MN, Tuesday, October 6, 2026 through Tuesday, October 6, 2026 Local\nFacility: ZMP",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/01/2026",
-      "location": "ZMP MN",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -249,25 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "text": "Ship sinks and crew missing after Black Sea drone attack\nIt is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-06T11:53:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
       "text": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments\nNew York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
       "source": "BBC",
@@ -287,14 +249,52 @@
       "verified_source_count": 1
     },
     {
+      "title": "Ship sinks and crew missing after Black Sea drone attack",
+      "text": "Ship sinks and crew missing after Black Sea drone attack\nIt is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-06T11:53:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Ansarallah have released footage of targeting PLC vehicles with FPV drones today",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles just targeted Riyadh International Airport, KSA",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T16:06:25+00:00",
+      "timestamp": "2026-10-07T01:22:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Ansarallah (the Houthis) targeted the Saudi military headquarters at Aden Airport, southern Yemen, with ballistic missiles",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T23:46:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -305,101 +305,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: The PLC attempted a counterattack west of Al-Wazi\u2019iyah, but it failed and the convoys got destroyed by FPV drones, anti-tank guided missiles, and AT mines",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T16:03:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Situational update of the Taizz front, Yemen:\n\u2013 Ansarallah have eliminated the last pockets of PLC resistance in the Qadas heights and Salu mountain; the towns of Hasahes, Sharaf, Hayjat Al-Abd, and Souq Jamrak were also captured.\n\u2013 In the northern direction of Taizz city, Ansarallah have captured Zanam mountain and Shanakheb mountain, and the towns of Balaan, Maysar, and Al-Makhaf. They are approaching Al-Misrakh.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T15:52:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Jazan and Najran airports were targeted by ballistic missiles last night\nYemen is now imposing an air blockade against Saudi Arabia.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T13:53:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "> Start an offensive with 100 Saudi fighter jets providing air support\n> Somehow fail\n> Retreat to your starting position\n> Get obliterated by ballistic missiles",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T13:28:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 It\u2019s so over for the PLC\nAnsarallah\u2019s Iranian-derived precision strike capabilities have become insane.\nDrone-guided and optical guided tactical ballistic missiles slamming straight into moving and stationary targets with pinpoint accuracy.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T13:23:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -537,6 +442,121 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea \u2014 The spokesperson for the coalition forces said that air defenses intercepted and destroyed a ballistic missile launched by the Ansar Allah (Houthi) movement north of the Saudi capital, Riyadh.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T02:07:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 The spokesperson for the Ansar Allah (Houthi) movement announced that a Saudi military CH-4 armed reconnaissance drone was shot down over Yemen\u2019s Al-Jawf Governorate.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T02:05:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "Resumption of flights at King Fahd International Airport in Dammam, KSA.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T23:54:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Additional footage of the moment Aden Airport was targeted in an Ansar Allah attack with two missiles.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T23:40:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Columns of smoke rise from Aden Airport following an Ansar Allah attack that targeted the airport with two missiles.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T23:24:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 The Ansar Allah (Houthi) movement targeted Aden Airport with two missiles.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-06T23:21:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Saudi Al Arabiya TV claims that the Ansar Allah (Houthi) movement targeted Aden Airport with two missiles.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
@@ -574,70 +594,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 \u2014 Operations at Najran and Jizan airports in Saudi Arabia have been suspended, with 10 flights canceled over the past 12 hours.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T22:02:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf8\ud83c\uddfe\ud83c\uddfe\ud83c\uddea Syria condemned the attack by the Houthi movement (Ansar Allah) on the facilities of King Abdullah bin Abdulaziz International Airport in the city of Jizan and the international airport in the city of Najran, located in Saudi Arabia, and expressed full solidarity with the Kingdom, confirming its support in confronting all threats to the country's security and territorial integrity.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T20:51:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "A UAV unit of the First Division of the Nation\u2019s Shield Forces (NSF) carried out a precision strike targeting a gathering of Ansar Allah troops on the Al-Wazi\u02bdiyah front.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T17:31:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussian drones targeted Zaporizhzhia city Monday night, striking one of the bridges over the Dniper river.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [WSJ](https://www.wsj.com/world/the-silent-electronic-battleground-shaping-the-future-of-warfare-c2da7abe?mod=hp_lead_pos7): A silent electronic battle is raging in the Russia-Ukraine war, with both sides attacking and defending communication signals on an unprecedented scale. \nUkraine\u2019s Night Watch unit used its Lima system to confuse ballistic missiles over the Dnipro, and in November intercepted a hypersonic Kinzhal by beaming a false navigation signal that forced it to alter course and break up.\nUkrainian and Western experts said such systems can foil ballistic missile attacks at a fraction of the cost of Patriot interceptors, though they are not a perfect substitute.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T05:07:40+00:00",
+      "timestamp": "2026-10-07T02:29:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -651,12 +614,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted the Volodarsk linear production and dispatch station, Konstantinovo, Moscow region, during this evening's strikes on Russia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea The Saudi General Authority of Civil Aviation acknowledged that on Monday evening the King Abdulaziz International Airport and Najran International Airport was targeted by Houthi strikes, causing three minor injuries and property damage. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T03:21:38+00:00",
+      "timestamp": "2026-10-07T02:28:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -670,12 +633,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6Ukrainian President Zelenskyy says that they're sourcing ammo for F-16s from around the world to better defend against Russian jet-drones.\n\"We are currently sourcing ammunition for the F-16 from all over the world; it is one of the most effective tools available today for shooting down suicide drones. Some shipments are already on their way, and more are to come, so that our aircraft will have the ammunition they need to defend our cities.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf0Pakistani Army announced they successfully conducted a test launch of the indigenously developed extended-range version of the Fatah-4 GLCM.\nThe original Fatah-4 has a publicly reported range of 750 km. However, Pakistan has not disclosed the precise range of the newly tested extended-range version. \nThe missile is reportedly equipped with advanced avionics and navigation systems, with the test validating upgraded subsystems intended to improve accuracy and survivability.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T03:18:03+00:00",
+      "timestamp": "2026-10-07T02:27:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -689,12 +652,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf3[Caracol:](https://caracol.com.co/2026/10/05/colombia-supera-los-440-ataques-con-drones-inteligencia-alerta-por-tecnologia-de-origen-chino/) The Colombian General Command's official information system for tracking military operations, BISIGOI, registered 442 attacks from drones loaded with explosives from January 1st 2024 to the 1st of October 2026, killing 25 people and injuring 356. \nThe report further warns that Colombia has become the main testing ground for drone usage by non-state actors in Latin America, with Chinese drones and UAS related systems likely being the majority of systems used by non-state groups. \nAlthough the report emphasizes that this doesn't mean that this is necessarily the fault of the Chinese government. \nA key problem is that there's no bilateral mechanism between Colombia and China for sharing information on serial numbers, manufacturers and distributors, suspicious buyers, etc. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "NOW: At least x6 ballistic missiles just targeted Kyiv, with initial reports of direct hits at the Trypillya substation.\nAdditionally, a total of 13 Russian tactical bombers are airborne between Tu-95MS and Tu-160, likely carrying Kh-101 cruise missiles.\nContributed by:",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T03:17:17+00:00",
+      "timestamp": "2026-10-07T02:18:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -708,12 +671,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\udde6\ud83c\uddea\ud83c\uddf8\ud83c\udde6 [CBS News:](https://www.cbsnews.com/news/israel-flydubai-plane-shoot-down-threat/) Israel was prepared to shoot down FlyDubai Flight 1073 after the captain was attacked and the aircraft stopped responding to Israeli Air Force communications.\nIsraeli fighter jets were scrambled and the country\u2019s airspace was closed, but the jets were recalled after the plane turned toward Saudi Arabia, where Saudi fighter jets were also deployed.\nPassengers and crew subdued the co-pilot, while two off-duty pilots regained control and landed the aircraft safely in Tabuk.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "THROWBACK: 7 months before Israel\u2019s pager attack, Hezbollah leader Hassan Nasrallah warned his fighters to abandon their cell phones. Hezbollah instead distributed pagers\u2026 \nNasrallah warned:\n\u201cYour cell phone is a lethal collaborator.\u201d\n\u201c[Israel] does not need human collaborators, because people carry cell phones with them wherever they go.\u201d\n\u201cDisable it, bury it, lock it in a metal box.\u201d\n\u201cThe cell phones you, your wife, and your children hold are the collaborators.\u201d\nThey all went with pagers instead\u2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T03:12:41+00:00",
+      "timestamp": "2026-10-07T02:15:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -727,12 +690,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Houthi ballistic missile strikes reportedly targeted ARAMCO facilities in Jeddah, Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Zelenskyy on the Black Sea attack: \nTwo civilian vessels were hit in Bulgarian waters overnight. One sank, the other sustained significant damage.\nUkraine's Navy contacted its Bulgarian counterparts and confirmed a combined Russian attack using naval and aerial drones. \nUkrainian Defense Forces conducted no operations in that part of the sea.\nHe called it part of Russia's attempt to make the western Black Sea unsuitable for navigation.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T03:12:15+00:00",
+      "timestamp": "2026-10-07T02:14:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -742,6 +705,103 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "PIJ headquarters in both Syria and Lebanon were hit by Israeli strikes, according to Palestinian Islamic Jihad leader Ziad al-Nakhala.\nHe also gave casualty figures: more than 2,000 Al-Quds Brigades operatives killed during the war in Gaza, over 80 killed in Lebanon while fighting alongside Hezbollah, and dozens more in the West Bank.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T02:13:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The Saudi-led coalition claims it intercepted and destroyed a ballistic missile north of Riyadh, launched by the Houthis.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T02:06:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "An overnight Russian ballistic missile attack targeted multiple cities across Ukraine, including Kyiv. The Trypilska Thermal Power Plant was struck, along with several warehouses, while additional unspecified locations in the Kyiv area were also hit. Ukrainian air defenses reportedly intercepted several missiles over the capital during the attack. \nIn Dnipro, the area around the Yuzhmash plant reportedly sustained damage. The Kremenchuk Hydroelectric Power Plant was also struck by a missile, possibly a Zircon or Oniks cruise missile.\nThanks to falconintel on TG for providing us with the data.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T02:06:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83d\udd25 Russia pounds Ukraine's energy grid\nUkraine's energy infrastructure is under massive attack, with explosions reported in Kiev, Dnepropetrovsk, and Tripolye as Russia launches a coordinated missile and drone barrage.\nAccording to local reports, Russia used Iskander-M and Hwasong-11A ballistic missiles, as well as Zircon and Kalibr cruise missiles.\nExplosions reported at Combined Heat and Power Plant No. 5 in Kiev, as well as Tripolye thermal power plant.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T00:54:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Houthis hit Saudi military headquarters at Aden Airport with ballistic missiles\nAnsar Allah forces have targeted the Saudi officers' headquarters at Aden International Airport with ballistic missiles, with impacts confirmed at the site.\nAden is the seat of Yemen's internationally recognized government \u2014 and the airport has served as a key Saudi military hub throughout the war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T00:02:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -809,45 +869,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-06T14:58:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\ud83d\udcca Trump\u2019s Golden Dome risks turning into tin strainer amid funding woes\n \nThe Trump administration\u2019s modern-day reboot of Reagan\u2019s Strategic Defense Initiative could cost between $1.2T and $3.6T to build and operate, per independent analyses by the Congressional Budget Office and the American Enterprise Institute.\nBut even the Pentagon\u2019s own \u2018modest\u2019 projections of $185B may be out of America\u2019s [price range. ](https://t.me/geopolitics_prime/68909)\nDC Beltway media report that the DoD\u2019s decision to pack Golden Dome funding into a $350B spending package that\u2019s separate from Trump\u2019s $1.5T proposed defense budget could leave the missile defense project without funds.\nAs of the start of the federal fiscal year (October 1), \u201cthe program has no money,\u201d CSIS Missile Defense Project director Thomas Karako told The Hill.\n\ud83d\udcac\u201cThis stands or falls with FY-27 appropriations\u2026that\u2019s the single most urgent thing for Golden Dome. It is life and death from that standpoint. Without money there\u2019s no program, it\u2019s just PowerPoint slides,\u201d he explained.\nCongress already pumped $24.5B into the project in last year\u2019s \u2018Big Beautiful Bill\u2019. The Pentagon now wants $17B more in the $350B package. But that money is under threat because of Congress\u2019s Continuing Resolution stopgap funding measure \u2013 which funds the government by extending the previous year\u2019s spending, thus effectively freezing out Golden Dome.\nIf Congress can\u2019t find a way to get the money, \u201cthere is no Golden Dome because there is no funding,\u201d Space Force Golden Dome program director Michael Guetlein said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T13:46:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf1 Israel was prepared to kill everyone onboard \u2018hijacked\u2019 Flydubai flight - report\n\u00a0\nIf Flydubai Flight 1073\u2019s passengers and crew had not retaken control of the airliner by the time it reached Jordan, Israeli warplanes would have been dispatched into Jordanian airspace, and if necessary, shot the plane down, Israeli sources \u2018with direct knowledge of the situation\u2019 told CBS News.\n\ud83d\udc49 Israel spent years preparing for a 9/11-style hijack scenario, and when the IAF tried and failed to get in touch with the plane, an emergency command center was immediately set up, Israel\u2019s airspace closed, and jets scrambled \u2013 only to be turned back after the jetliner swung around and made an emergency landing in Saudi Arabia.\nIf the plane had continued on, the command center would have contacted Netanyahu, who would have to make the final decision on the fate of the plane and its 182 passengers and crew.\nIt wouldn\u2019t have been for Israel to deploy a version of its Hannibal Directive \u2013 which instructs the IDF to do everything in its power, up to and including killing, to stop Israeli citizens from being kidnapped.[ The directive is known to have been used on October 7](https://t.me/geopolitics_prime/61831).\n\u2708\ufe0f [As for Flydubai Flight 1073](https://t.me/geopolitics_prime/75532), journalists have lingering questions about just what that incident was \u2013 an attempted hijacking by a lone wolf extremist, or a false flag and choreographed PR stunt by Netanyahu to blame Iran, strengthen Israeli-Gulf relations and generate global sympathy for Israel.\nJust a day before the incident, [Netanyahu published a video](https://t.me/geopolitics_prime/75277) warning of unspecified \u2018security threats\u2019 to Israel. Days before that, he made a secret trip to the UAE to plead with Sheikh Mohamed bin Zayed to retract stories about [Netanyahu\u2019s foreknowledge of the October 7 plot](https://t.me/geopolitics_prime/75322).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T13:05:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
