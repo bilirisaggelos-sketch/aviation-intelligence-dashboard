@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T02:39:17.418869+00:00",
+  "generated_at": "2026-10-07T09:20:55.904772+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3752\r\nIssue Time: 2026 Oct 07 0504 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3752\nBegin Time: 2026 Oct 05 1830 UTC\nYesterday Maximum 2MeV Flux: 10956 pfu\nCORRECTED",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-07 05:04:25.963",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA30\r",
       "text": "Space Weather Message Code: WATA30\r\nSerial Number: 283\r\nIssue Time: 2026 Oct 06 1633 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G2 Predicted \nHighest Storm Level Predicted by Day:\nOct 07: None (Below G1) Oct 08: None (Below G1) Oct 09: G2 (Moderate) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: G1 to G2 (Minor-Moderate) geomagnetic storms are likely on 09 Oct with the arrival of a CME that left the Sun on 06 Oct.\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
       "source": "NOAA Space Weather",
@@ -211,63 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5427\r\nIssue Time: 2026 Oct 05 2111 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5426\nValid From: 2026 Oct 05 0155 UTC\nNow Valid Until: 2026 Oct 06 0600 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-05 21:11:06.667",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "text": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments\nNew York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-06T18:05:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "text": "Ship sinks and crew missing after Black Sea drone attack\nIt is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-06T11:53:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles just targeted Riyadh International Airport, KSA",
@@ -298,89 +260,32 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Footage from this morning shows a Russian Kh-101 cruise missile flying at low altitude over Ukraine's Poltava region.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T08:41:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "CASELS",
+        "Clash Report"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Two top Trump advisers, James Blair and Chris LaCivita, traveled to Bosnia\u2019s Republika Srpska to provide election advice to its Russia-aligned government while simultaneously leading Republican efforts for the U.S. midterms.\nThe pair were reportedly paid hundreds of thousands of dollars each through a Washington law firm. Republika Srpska, led politically by Milorad Dodik\u2019s nationalist party, has cultivated close ties with Putin while also courting Trump and his allies.\nTrump-linked lobbyists and operatives have received more than $4 million from the Republika Srpska government since early 2025.\nSource: NYT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T22:59:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "France Test-Fires New Submarine-Launched Nuclear-Capable M51.3 Missile\nLe Vigilant launched the M51.3 off Brittany without a payload to test its readiness after a major overhaul, advancing France\u2019s nuclear modernization efforts.\n[READ MORE](https://clashreport.com/defense/articles/france-test-fires-new-submarine-launched-nuclear-capable-m51-3-missile-5f95z6041lw)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T21:17:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former Israeli MP Moshe Feiglin says Israel should annex Gaza and build an international airport there, claiming this would calm the Middle East.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T21:13:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former Israeli MP Moshe Feiglin:\nThe enemy is Gaza, not Hamas.\nThe baby that will be born in Gaza tomorrow will do exactly the same, God forbid, to your baby that will be born tomorrow in Jerusalem.\nThere\u2019s no other way. That\u2019s the reason they live for. That\u2019s what they learn with their mother\u2019s milk.\nYou\u2019re not going to change them. You\u2019re not going to educate them.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T21:07:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -442,6 +347,65 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Statement from Hamas spokesperson Abu Ubaida on the third anniversary of October 7th Al-Aqsa Flood operation :\nAbu Ubaida marked three years since the October 7, 2023 Al-Aqsa Flood operation, hailed it a major military achievement that permanently shattered israel\u2019s security doctrine.\nHe praised Gaza\u2019s population and the fighters and commanders involved in the operation, saying their resistance had changed the course of history and exposed the international inaction over Gaza.\nAbu Ubaida also called on supporters of Palestine and the ummah to take action, specifically pointing to Sudan, Libya, Yemen, Lebanon, Iraq and Iran, and suggested that opening additional fronts against israel would have a significant impact.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T08:20:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\u2014 2 ballistic Missiles and Explosive Drones Launched by Ansar Allah Forces Struck near Aden International Airport early Wednesday morning. \nThe targeted strike occurred amidst heavy escalation following the activation of the Mecca Pact.\nAccording to Local sources Multiple Pakistani Military Officers were seriously injured in the blast. \n\ud83c\uddf5\ud83c\uddf0Pakistan recently deployed air Defense Assets and Military Advisors to the Region to Support Saudi-Backed Forces.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T04:22:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddf5\ud83c\uddf0\ud83c\uddf9\ud83c\uddf7\u26a1\ufe0f\u2014 Turkey is deploying special forces and air defense systems to Saudi Arabia under the Mecca Pact to protect critical infrastructure, particularly the East-West Oil Pipeline.\nThis initial buildup includes technicians and electronic warfare units, building on a presence in the Gulf kingdom since 2025.\nTurkish pilots and aircraft may also be sent to counter Houthi drones and ballistic missiles.\n\ud83c\uddf5\ud83c\uddf0 Troops will operate alongside Saudi and Pakistani forces from a joint coordination center, with a separate Turkish command facility.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T04:10:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea \u2014 The spokesperson for the coalition forces said that air defenses intercepted and destroyed a ballistic missile launched by the Ansar Allah (Houthi) movement north of the Saudi capital, Riyadh.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
@@ -451,13 +415,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -537,203 +500,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 The Ansar Allah (Houthi) movement targeted Aden Airport with two missiles.\n\ud83d\udd34",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Statement from Hamas spokesperson Abu Ubaida on the third anniversary of October 7th Al-Aqsa Flood operation :\nAbu Ubaida marked three years since the October 7, 2023 Al-Aqsa Flood operation, hailed it a major military achievement that permanently shattered israel\u2019s security doctrine.\nHe praised Gaza\u2019s population and the fighters and commanders involved in the operation, saying their resistance had changed the course of history and exposed the international inaction over Gaza.\nAbu Ubaida also called on supporters of Palestine and the ummah to take action, specifically pointing to Sudan, Libya, Yemen, Lebanon, Iraq and Iran, and suggested that opening additional fronts against israel would have a significant impact.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T23:21:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Saudi Al Arabiya TV claims that the Ansar Allah (Houthi) movement targeted Aden Airport with two missiles.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T23:17:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 The Ansar Allah (Houthi) movement targeted a PLC operations room in Aden Governorate with either a ballistic missile or drones.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T23:15:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa [WSJ](https://www.wsj.com/world/the-silent-electronic-battleground-shaping-the-future-of-warfare-c2da7abe?mod=hp_lead_pos7): A silent electronic battle is raging in the Russia-Ukraine war, with both sides attacking and defending communication signals on an unprecedented scale. \nUkraine\u2019s Night Watch unit used its Lima system to confuse ballistic missiles over the Dnipro, and in November intercepted a hypersonic Kinzhal by beaming a false navigation signal that forced it to alter course and break up.\nUkrainian and Western experts said such systems can foil ballistic missile attacks at a fraction of the cost of Patriot interceptors, though they are not a perfect substitute.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:29:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea The Saudi General Authority of Civil Aviation acknowledged that on Monday evening the King Abdulaziz International Airport and Najran International Airport was targeted by Houthi strikes, causing three minor injuries and property damage. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:28:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf0Pakistani Army announced they successfully conducted a test launch of the indigenously developed extended-range version of the Fatah-4 GLCM.\nThe original Fatah-4 has a publicly reported range of 750 km. However, Pakistan has not disclosed the precise range of the newly tested extended-range version. \nThe missile is reportedly equipped with advanced avionics and navigation systems, with the test validating upgraded subsystems intended to improve accuracy and survivability.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:27:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "NOW: At least x6 ballistic missiles just targeted Kyiv, with initial reports of direct hits at the Trypillya substation.\nAdditionally, a total of 13 Russian tactical bombers are airborne between Tu-95MS and Tu-160, likely carrying Kh-101 cruise missiles.\nContributed by:",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:18:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "THROWBACK: 7 months before Israel\u2019s pager attack, Hezbollah leader Hassan Nasrallah warned his fighters to abandon their cell phones. Hezbollah instead distributed pagers\u2026 \nNasrallah warned:\n\u201cYour cell phone is a lethal collaborator.\u201d\n\u201c[Israel] does not need human collaborators, because people carry cell phones with them wherever they go.\u201d\n\u201cDisable it, bury it, lock it in a metal box.\u201d\n\u201cThe cell phones you, your wife, and your children hold are the collaborators.\u201d\nThey all went with pagers instead\u2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:15:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Zelenskyy on the Black Sea attack: \nTwo civilian vessels were hit in Bulgarian waters overnight. One sank, the other sustained significant damage.\nUkraine's Navy contacted its Bulgarian counterparts and confirmed a combined Russian attack using naval and aerial drones. \nUkrainian Defense Forces conducted no operations in that part of the sea.\nHe called it part of Russia's attempt to make the western Black Sea unsuitable for navigation.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:14:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "PIJ headquarters in both Syria and Lebanon were hit by Israeli strikes, according to Palestinian Islamic Jihad leader Ziad al-Nakhala.\nHe also gave casualty figures: more than 2,000 Al-Quds Brigades operatives killed during the war in Gaza, over 80 killed in Lebanon while fighting alongside Hezbollah, and dozens more in the West Bank.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:13:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "The Saudi-led coalition claims it intercepted and destroyed a ballistic missile north of Riyadh, launched by the Houthis.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:06:14+00:00",
+      "timestamp": "2026-10-07T08:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -741,19 +514,134 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "CASELS"
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "An overnight Russian ballistic missile attack targeted multiple cities across Ukraine, including Kyiv. The Trypilska Thermal Power Plant was struck, along with several warehouses, while additional unspecified locations in the Kyiv area were also hit. Ukrainian air defenses reportedly intercepted several missiles over the capital during the attack. \nIn Dnipro, the area around the Yuzhmash plant reportedly sustained damage. The Kremenchuk Hydroelectric Power Plant was also struck by a missile, possibly a Zircon or Oniks cruise missile.\nThanks to falconintel on TG for providing us with the data.",
+      "text": "During last night's large-scale Russian missile attack on Ukraine, the interception rate of Kh-101 cruise missiles was unusually low - one of the lowest so far this year. \nOut of roughly 48 Kh-101 cruise missiles launched, I could only confirm around 10 interceptions, mainly by fighter jets. \nIn my opinion, this was caused by Ukraine's ongoing F-16 maintenance crisis, and due to the fact that Russia is striking areas of Ukraine closer to the border, providing Ukrainian air defences with much less time to shoot down the missiles. The missiles also flew in very large groups immediately towards their targets, without changing course much, completely overwhelming Ukrainian air defences. \nThe Kh-101s impacted three cities - Kremenchuk (Poltava Oblast), Pryluky (Chernihiv Oblast), and Oleksandriya (Kirovohrad Oblast).\nMost of the impacts occurred in Kremenchuk, while around a dozen occurred in Oleksandriya, along with another dozen or so in Pryluky. Multiple different locations in Kremenchuk, including the hydroelectric power plant, were hit. \nThe interception rate on Kalibrs was much higher (roughly 9 out of 12 missiles were shot down), with the remaining 3 striking two different targets in Kremenchuk.\nAs for ballistics, patriot systems in Kyiv shot down ~4 out of 10 Iskander-M/RM-48U S-400 missiles, and air defences near the city of Ukrainka in Kyiv Oblast shot down both Oniks-M supersonic cruise missiles targeting the Trypillya Thermal Power Plant. The 2 Zircons both impacted Trypillya TPP.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:06:08+00:00",
+      "timestamp": "2026-10-07T05:22:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "NOTAMs have closed airspace over Lublin and Rzesz\u00f3w due to unplanned military activity related to state security following Russian strikes on Ukraine. - Flightradar24",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T05:22:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf7\ud83c\uddf5\ud83c\uddf8\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The IDF has released new figures summarizing its operations across multiple fronts in the three years since the October 7 attack.\nAccording to the military, around 100,000 targets have been struck, including 65,000 in Gaza, 28,000 in Lebanon and Syria, 4,500 in Iran and 80 in Yemen.\nThe IDF says around 31,500 projectiles have been launched toward Israel during the same period: approximately 20,000 from Lebanon, 10,200 from Gaza, 1,200 from Iran, 90 from Yemen and 50 from Syria.\nIn the West Bank, the IDF says around 45,000 wanted Palestinians have been arrested, more than 3,800 weapons seized, and over $15 million in funds allegedly intended to finance terrorism confiscated.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T04:10:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussia targeted Kyiv, Dnipro and Kremenchuck this evening, launching both ballistic missiles (Iskander-M and Kn-23s) and hypersonic and supersonic missiles (Zircon and Oniks). \nIn Kyiv they targeted energy infrastructure with rolling blackouts across the city as well as a warehouse (media 1-5)\nIn Dnipro an industrial was targeted by Russian strikes (media 6-7)\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T03:13:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf4\ud83c\uddea\ud83c\udde8 Some U.S. MQ-9 Reaper drones have been moved from Africa to Colombia and Ecuador as part of operations targeting drug-trafficking organizations, offering long-endurance surveillance and advanced sensor capabilities.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T03:13:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea More footage of the strikes at the Aden International Airport with ballistic missiles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T03:12:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The Houthis struck Aden International Airport, in PLC-held southern Yemen, with at least two ballistic missiles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T03:12:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -767,12 +655,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\udd25 Russia pounds Ukraine's energy grid\nUkraine's energy infrastructure is under massive attack, with explosions reported in Kiev, Dnepropetrovsk, and Tripolye as Russia launches a coordinated missile and drone barrage.\nAccording to local reports, Russia used Iskander-M and Hwasong-11A ballistic missiles, as well as Zircon and Kalibr cruise missiles.\nExplosions reported at Combined Heat and Power Plant No. 5 in Kiev, as well as Tripolye thermal power plant.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udcf9 Houthi strikes appear to hit AESSCO facilities at Riyadh's King Khalid Airport \u2014 burn marks are visible on a warehouse or hangar\nAESSCO operates under SAMI Advanced Electronics, part of Saudi Arabia's state-owned defense group SAMI.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T00:54:58+00:00",
+      "timestamp": "2026-10-07T08:42:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -786,32 +674,108 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Houthis hit Saudi military headquarters at Aden Airport with ballistic missiles\nAnsar Allah forces have targeted the Saudi officers' headquarters at Aden International Airport with ballistic missiles, with impacts confirmed at the site.\nAden is the seat of Yemen's internationally recognized government \u2014 and the airport has served as a key Saudi military hub throughout the war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udcf9 Video has emerged online showing the moment a Russian missile hits a warehouse storing components for Flamingo missiles in Chernigov region\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T00:02:04+00:00",
+      "timestamp": "2026-10-07T08:15:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96\ud83c\uddee\ud83c\uddf1Israel shuts West Bank, Gaza crossings for October 7 commemorations\nIsrael has imposed a general closure on the Judea and Samaria area of the West Bank as part of security measures surrounding commemorations of the October 7 events, the Coordinator of Government Activities in the Territories (COGAT) announced.\nThe move follows a security assessment and a decision by Israel\u2019s defense minister.\n\ud83c\udf0f West Bank crossings will remain closed, with passage allowed only for humanitarian, medical and other exceptional cases, subject to COGAT approval\n\ud83c\udf0fEssential healthcare workers and certain other approved categories will still be permitted to cross\n\ud83c\udf0fCollection of aid from the Gazan side of the Kerem Shalom Crossing will continue as usual\nHamas launched its \u2018Al-Aqsa Flood\u2019 operation against southern Israel on October 7, 2023. Israel responded by unleashing \u2018Operation Swords of Iron,\u2019 and imposing a blockade on the Gaza Strip. Israeli attacks have since killed tens of thousands of Palestinians and displaced much of Gaza\u2019s population.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T07:08:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9\ud83c\uddf7\ud83c\uddfa Russia hits Ukraine's Flamingo missile and drone production in overnight strike\nPort and ship repair infrastructure in the Odessa region was also hit.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T05:42:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Houthis say they struck King Khalid Airport in Riyadh with a ballistic missile\nThe strike was accurate and resulted in the disruption of air traffic at the airport, Spokesperson Brigadier General Yahya Sare\u2019e said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T04:23:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Turkish military buildup in Saudi Arabia may initially be limited to special forces and air defenses \u2013 reports\nTurkey is planning to deploy additional equipment, technicians, emergency response teams, and support personnel to Saudi Arabia under the Mecca Pact, Turkish officials told Middle East Eye, commenting on [the October 5 joint statement](https://t.me/geopolitics_prime/75697) issued by the pact\u2019s signatories.\nTurkey has maintained technical teams, air defense systems, and electronic warfare equipment in the Gulf kingdom since 2025 to protect critical infrastructure, including energy facilities.\nOne official said that limited forces are being deployed under a 2010 military training agreement between Saudi Arabia and Turkey, but any major deployment would require parliamentary approval. The official also noted that the Mecca Pact has yet to be ratified by Turkey\u2019s Grand National Assembly.\nThe Turkish parliament could formally authorize the deployment of a limited number of Turkish special forces as early as later this month, according to another official.\nSeparate sources told MEE that Turkey could also send an undisclosed number of pilots and aircraft to Saudi Arabia to counter Houthi-launched drones and ballistic missiles.\nAccording to Saudi sources cited by the publication, Turkish troops would operate alongside Saudi and Pakistani forces from a joint coordination center, while Turkey\u2019s command unit would operate from a separate facility.\nThe primary purpose of the military presence is reportedly to protect critical Saudi infrastructure, particularly the East-West Oil Pipeline, Tasnim News reports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T03:58:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Houthis accuse enemies of \u2018imaginary heroics\u2019 and fake victories\n\u00a0\n\u201cThe Armed Forces maintain full control over all their battlefield gains. What the enemy promotes as victories is nothing but imaginary heroics intended to please its masters, just like its malicious tactics, which our people are well aware of, whether along the western coast or in other areas,\u201d Houthi-aligned Yemeni Armed Forces spokesman Yahya Saree has said.\nSaree\u2019s comments follow the Saudi-aligned Aden government\u2019s claims Monday that its forces had successfully executed a counteroffensive in areas recently won by the Houthis, including Bab al-Mandab and Mocha, as part of Operation \u201c[Dawn of Yemen](https://t.me/geopolitics_prime/75676).\u201d\nSaree reported that over 200 enemy troops had been killed or wounded in strikes on enemy positions in the areas of Ras al-Arah and al-Saqiya in southwestern Yemen, and that the Armed Forces were carrying out attacks in al-Jawf and Marib provinces, killing scores of mercenaries and destroying [multiple vehicles](https://t.me/geopolitics_prime/75690).\n\ud83d\udcacMercenary forces\u2019 attempts to infiltrate Bab al-Mandab were met with a \u201cdecisive response\u201d and \u201cstrong defense\u201d and were supressed, and enemies were forced to retreat without achieving any battlefield success, highlighting Saudi Arabia\u2019s inability to change the military equation in strategic areas on the battlefield, the spokesman said.\n\u201cWe renew our warning to all international airlines against continuing to make flights in Saudi airspace, as it has become a theater for our military operations, excepting the airspace over the holy areas of Mecca and Medina,\u201d Saree said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd0d\ud83d\udd28 UN Resolution 2216 gives no legal basis for the war or blockade on Yemen \u2014 Houthi advisor\nAbdulilah Mohammed Hajar, advisor to the president of Yemen's Supreme Political Council, has laid out the legal case against the Saudi-led campaign \u2014 arguing the entire war rests on a resolution passed after it began.\n\ud83d\udd34 The war began on March 15, 2015. Resolution 2216 came in April \u2014 it cannot retroactively authorize what already happened\n\ud83d\udd34 Even 2216 doesn't grant authority to any country to take military action. Military action requires Security Council authorization \u2014 not a single state's decision\n\ud83d\udd34 The blockade has no legal basis \u2014 2216 doesn't mention a blockade of Yemen at all\n\"[Sana'a Airport] was working until 2016, after which it was closed by Saudi Ambassador Mohammed al-Jaber in Sana'a. He gave instructions to close \nSana'a Airport. Now, many people are dying because they cannot travel to other countries for medical treatment,\" he added.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T18:29:01+00:00",
+      "timestamp": "2026-10-07T03:05:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -825,50 +789,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25 Trump's challenge: More crude, same high diesel prices \u2013 Hormuz flows and US output may not help\nDiesel prices are set to remain elevated in the US and globally through 2027, Goldman Sachs warns.\nEven as some crude continues to flow through the Strait of Hormuz and US oil production hits a record 13.95 million barrels per day, that doesn\u2019t mean those volumes will immediately translate into much-needed diesel.\n\ud83d\udd34A 42-gallon barrel of US-refined crude yields about 19-20 gallons of gasoline and 11-13 gallons of ultra-low-sulfur distillate, most of which becomes diesel, Forbes explains\n\ud83d\udd34US refineries already operate at around 96% of capacity, which has been declining in recent years. They can\u2019t ramp up production overnight\n\ud83d\udd34To make matters worse, US distillate inventories have fallen below 100 million barrels and may remain below the 2021\u20132025 five-year low through 2026 and most of 2027, EIA says\nThe global outlook is also grim, with major supplies disrupted in the Middle East, Russia, and China:\n\ud83d\udd34Russia has restricted fuel exports following Ukrainian attacks on its refineries \u2014 part of Kiev\u2019s strategy backed by its Western allies\n\ud83d\udd34Middle Eastern refinery output and shipping have been disrupted by the war with Iran, launched by the US and Israel in February\n\ud83d\udd34China has temporarily banned fuel exports to bolster domestic stocks amid geopolitical uncertainty\nEurope is in an especially difficult position, having cut refining capacity over the past 15 years amid the green transition to just 14.4 million barrels per day. Donald Trump has twisted its arm into releasing some of its diesel reserves \u2013 but it's a drop in the bucket, experts say.\nDiesel is expected to average above $40 a barrel in 2027 \u2013 more than twice their historical norm of around $20.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8 Russia pounds Ukraine's energy grid\nUkraine's energy infrastructure is under massive attack, with explosions reported in Kiev, Dnepropetrovsk, and Tripolye as Russia launches a coordinated missile and drone barrage.\nAccording to local reports, Russia used Iskander-M and Hwasong-11A ballistic missiles, as well as Zircon and Kalibr cruise missiles.\nExplosions reported at Combined Heat and Power Plant No. 5 in Kiev, as well as Tripolye thermal power plant.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T17:48:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee9\ud83d\ude80\ud83c\uddfa\ud83c\uddf8 US drone maker Anduril dives into submarine tech\n\u00a0\nThe Trump administration-linked defense startup, which just lost one of its brand new Dive-LD unmanned drone submersibles to Iran, plans to pump $3.7B into a new shipbuilding facility in Sparrows Point, Maryland to assist in the production of America\u2019s [nuclear-powered submarines](https://t.me/geopolitics_prime/74351).\nAnduril promises the facility, set to be up and running by 2030 and to employ ~3.1k people, will \u201creally reimagine how a shipyard is built and how this work is done.\u201d That may be a veiled dig at traditional shipbuilding majors, who are short up to 250k skilled workers to complete subs the Pentagon has already [ordered](https://t.me/geopolitics_prime/72896).\nThe company\u2019s new project comes in the wake of DoD chief Hegseth\u2019s announcement that Anduril CEO Palmer Luckey, Elon Musk and former House Speaker Newt Gingrich had been tapped to spearhead a new project to secure \u201cabsolute technological dominance\u201d in future [US wars](https://t.me/geopolitics_prime/75490).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T17:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f\ud83d\udd25 Houthis showcase direct missile hit on Saudi-backed military vehicles\nThe Houthi military released footage showing a missile striking Saudi-backed Yemeni forces and military vehicles amid renewed fighting in the country.\nThe confrontation between the Houthis and Yemen\u2019s internationally recognized government forces, backed by Saudi Arabia, resumed in mid-July after a four-year lull. \nSince then, Houthi forces have expanded their positions along the Red Sea coast and around the Bab al-Mandab Strait, a key maritime chokepoint.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T14:58:41+00:00",
+      "timestamp": "2026-10-07T00:54:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
