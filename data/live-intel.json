@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-07T16:50:24.053870+00:00",
+  "generated_at": "2026-10-07T21:53:34.319962+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nStoystown, PA, Thursday, October 8, 2026 Local\nFacility: ZOB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/07/2026",
+      "location": "ZOB PA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nCHICAGO, IL, Sunday, October 11, 2026 Local\nFacility: ZAU",
@@ -249,6 +268,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
+      "text": "Children killed while they slept as Russian missile kills 19 in block of flats\nFive children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-07T18:12:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: According to Bloomberg, moving oil through the Strait of Hormuz without Iranian permission has become \u2018extremely dangerous\u2019 and a risky journey\nOne tanker captain describes sailing at night with no navigational lights, phones or AIS, hugging the Omani coast under U.S. military protection, and maneuvering around a vessel that had just been attacked. His own ship was later targeted by missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T21:09:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles just targeted Riyadh International Airport, KSA",
@@ -260,41 +317,43 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Ansarallah (the Houthis) targeted the Saudi military headquarters at Aden Airport, southern Yemen, with ballistic missiles",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T23:46:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Bulgaria halted the search for the missing crew of the T\u00fcrkiye-operated, Togo-flagged cargo ship Alfa Watan, which sank after a drone attack in its Black Sea search-and-rescue zone.\nAuthorities found life rafts and wreckage but no trace of the missing sailors. \nRussia denied targeting the merchant ship, while Zelensky said a joint investigation with Bulgaria\u2019s navy found Russia was behind the attack.\nSource: Reuters",
+      "text": "Israeli Opposition Leader Yair Lapid:\nHamas, Qatar and Iran always wanted us cut off from the world. And now the world is cutting itself off from us.\nThey worked on this for years, and now it is happening. Arrest warrants in The Hague, Israelis having their bags searched at airports in the Netherlands, football in Ireland, Eurovision boycotts, all the representatives who walked out during Netanyahu's speech at the UN General Assembly.\nThese are not things that just happened to us. This was their plan. This was their objective all along.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T16:39:26+00:00",
+      "timestamp": "2026-10-07T21:28:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Eritrean troops spotted driving through the Ethiopian town of Adigrat, 25 km from the border, per Reuters citing witnesses and ACLED. \nThis is the first confirmed presence of Eritrean soldiers on Ethiopian soil since the current conflict began September 23. \nACLED says they crossed at Zelambesa and Ethiopian military drone-struck their vehicles at Guada.\nEritrea denies it, calling the reports fabricated to justify Ethiopian aggression. \nEthiopia and Eritrea severed diplomatic ties last week. \nThe US urged both sides to exercise restraint, warning conflict would jeopardize US cooperation with both countries. \nFears growing of a wider Horn of Africa war involving Ethiopia, Eritrea, Sudan, and Egypt.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T20:50:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -308,12 +367,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Syria is set to become a new route for Iraqi crude exports, allowing shipments to bypass the Strait of Hormuz.\nIraq has asked Syria to help export crude by trucking oil overland to a Mediterranean port, expanding an existing route already used for Iraqi fuel-oil shipments.\nSource: Bloomberg",
+      "text": "FlyDubai co-pilot Hamam al-Hammami, who allegedly attempted to crash Flight 1073 near Tel Aviv last week, told investigators he had planned a similar attack in July but backed out because he cared about a crew member.\nThe Omani national reportedly sought employment with airlines flying to Israel and planned to incapacitate the captain and crash into a target such as Ben Gurion Airport.\nHammami had previously been barred from flying by Oman Air over extremist concerns, but FlyDubai hired him without checking with Omani authorities.\nSource: WSJ",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T14:16:36+00:00",
+      "timestamp": "2026-10-07T20:47:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,6 +424,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Opposition Leader Yair Lapid:\nHamas, Qatar and Iran always wanted us cut off from the world. And now the world is cutting itself off from us.\nThey worked on this for years, and now it is happening. Arrest warrants in The Hague, Israelis having their bags searched at airports in the Netherlands, football in Ireland, Eurovision boycotts, all the representatives who walked out during Netanyahu's speech at the UN General Assembly.\nThese are not things that just happened to us. This was their plan. This was their objective all along.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T21:45:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Ansarallah leader Abdul-Malik al-Houthi said Yemen had provided what he described as its maximum possible support to Palestinians since October 7, while accusing Saudi Arabia of using the period of de-escalation since 2022 to deepen military and intelligence cooperation with the United States and Israel against Yemen.\nSince the reduction of escalation with the Saudi enemy in 2022, we invested the time in supporting the Palestinian people.\nThe Saudi enemy sought cooperation with the Israeli enemy from the beginning of our operations in support of the Palestinian people, and continued interception operations throughout the support campaign, even outside its own airspace and at sea.\nThe Saudi enemy hosted Zionist officers for reconnaissance operations over Saada governorate, and American aircraft transported them from Cyprus to Saudi camps near the Yemeni border.\nWe have reached a point of despair with the Saudi enemy. Neither negotiations nor anything else have produced results.\nIt is a clear reality that there is American, Israeli and Saudi cooperation against the Yemeni people.\nOur people are too honorable, pure and sincere to accept any insult to the Islamic holy sites in Mecca, Medina or Al-Aqsa Mosque. \u2014 Abdul-Malik al-Houthi",
       "source": "Telegram",
       "source_type": "telegram",
@@ -383,135 +462,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Statement from Hamas spokesperson Abu Ubaida on the third anniversary of October 7th Al-Aqsa Flood operation :\nAbu Ubaida marked three years since the October 7, 2023 Al-Aqsa Flood operation, hailed it a major military achievement that permanently shattered israel\u2019s security doctrine.\nHe praised Gaza\u2019s population and the fighters and commanders involved in the operation, saying their resistance had changed the course of history and exposed the international inaction over Gaza.\nAbu Ubaida also called on supporters of Palestine and the ummah to take action, specifically pointing to Sudan, Libya, Yemen, Lebanon, Iraq and Iran, and suggested that opening additional fronts against israel would have a significant impact.",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemen\u2019s Armed Forces say Saudi warplanes carried out 156 air and missile strikes over the past 24 hours against what they described as civilian sites in Sanaa, Taiz, Saada, Al-Jawf, Marib and Amran.\nAccording to the statement, F-15 and Typhoon aircraft operated from Khamis Mushait and Taif, while missile attacks were launched from Najran and Jizan. The group says the total number of Saudi air and missile strikes since the latest escalation began has reached 1,798.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T08:20:00+00:00",
+      "timestamp": "2026-10-07T16:52:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\u2014 2 ballistic Missiles and Explosive Drones Launched by Ansar Allah Forces Struck near Aden International Airport early Wednesday morning. \nThe targeted strike occurred amidst heavy escalation following the activation of the Mecca Pact.\nAccording to Local sources Multiple Pakistani Military Officers were seriously injured in the blast. \n\ud83c\uddf5\ud83c\uddf0Pakistan recently deployed air Defense Assets and Military Advisors to the Region to Support Saudi-Backed Forces.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T04:22:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddf5\ud83c\uddf0\ud83c\uddf9\ud83c\uddf7\u26a1\ufe0f\u2014 Turkey is deploying special forces and air defense systems to Saudi Arabia under the Mecca Pact to protect critical infrastructure, particularly the East-West Oil Pipeline.\nThis initial buildup includes technicians and electronic warfare units, building on a presence in the Gulf kingdom since 2025.\nTurkish pilots and aircraft may also be sent to counter Houthi drones and ballistic missiles.\n\ud83c\uddf5\ud83c\uddf0 Troops will operate alongside Saudi and Pakistani forces from a joint coordination center, with a separate Turkish command facility.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T04:10:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea \u2014 The spokesperson for the coalition forces said that air defenses intercepted and destroyed a ballistic missile launched by the Ansar Allah (Houthi) movement north of the Saudi capital, Riyadh.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:07:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 The spokesperson for the Ansar Allah (Houthi) movement announced that a Saudi military CH-4 armed reconnaissance drone was shot down over Yemen\u2019s Al-Jawf Governorate.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T02:05:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "Resumption of flights at King Fahd International Airport in Dammam, KSA.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T23:54:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Additional footage of the moment Aden Airport was targeted in an Ansar Allah attack with two missiles.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-06T23:40:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -546,13 +510,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -661,12 +624,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -680,10 +644,87 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Syria weighs sending up to 20,000 troops to Yemen \u2014 including Islamist foreign fighters\nSaudi Arabia and Syria are discussing deploying Syrian forces to Yemen to join the counteroffensive against the Houthis, 3 US officials told Axios.\nPresident Ahmed al-Sharaa is seriously considering sending up to 20,000 Syrian troops to Yemen. One unit under consideration \u2014 the 84th Division \u2014 includes thousands of Islamist foreign fighters who helped topple Assad.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T21:31:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\u2694\ufe0f Iran ready to defend itself with preemptive strikes - army spox\nA potential Iranian response to an emerging threat will be \u201cmore crushing, broader, more decisive, and faster\u201d than before, Iran\u2019s Army spokesman Brigadier General Mohammad Akrami-Nia said as quoted by Iranian media.\nAccording to him:\n\ud83c\udf0f The Iranian military gained considerable experience from the latest US-Israeli aggression and is willing to carry out preemptive strikes instead of waiting for the enemy to hit first\n\ud83c\udf0f Iran's military-industrial sector has been operating around the clock and Iran\u2019s armed forces are well equipped and supplied \n\ud83c\udf0f Iran\u2019s drone and missile weaponry has become more advanced\n\ud83c\udf0f The Iranian Army gained an understanding of its enemies\u2019 vulnerabilities and knows how to capitalize on them\nIran demonstrated its courage and power while standing up to the US and, when the current war is over, \u201cwill enjoy a special position as an international power,\u201d Akrami-Nia suggested.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T18:45:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Emergency blackouts leave Kiev without power, water, and internet\nWater pumping stations had been partially de-energized, with supply problems reported on the right bank of the Dnepr River, where power remains out and electric transport has been halted. \nThe emergency cuts were ordered by Ukraine's national energy company Ukrenergo and announced by energy company DTEK, following earlier plans to introduce rolling hourly blackouts in parts of the country.\nUkrainian media are also reporting internet disruptions across the city, and preliminary reports suggest a drone fell on a power transmission line.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T18:36:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcca Syria to serve as Iraq\u2019s oil route to bypass Hormuz \u2013 but volumes remain a drop in the bucket\nThe Iraqi government has asked Syria to help with crude oil exports, Yousef Qiblawy, chief executive officer of the state-owned Syrian Petroleum Co., told Bloomberg.\nIraq already sends some of its fuel oil to Syria\u2019s Mediterranean port of Baniyas by truck, with around 1,000 vehicles making the journey each day, each carrying roughly 220 barrels, Qiblawy said.\nHe noted that the same or even a larger number of trucks loaded with crude could pass through Syria.\nThe export of Iraqi crude to Syria by truck could begin as early as mid-October, according to Qiblawy.\nIraq also transits some crude and fuel oil through Jordan to avoid the dangerous Strait of Hormuz. Reuters reported last week that Iraq\u2019s state-owned Oil Tanker Company had also managed to transport 2 million barrels of Iraqi crude aboard a very large crude carrier (VLCC) through the strait.\nBased on the figures cited by Qiblawy, trucks passing through Syria would carry 220,000 barrels of oil per day, or between 6.6 million and 6.82 million barrels per month. That's a far cry from the 93 million barrels per month that Iraq routinely exported through the Strait of Hormuz before the Iran war, according to numbers cited by Iraqi Oil Minister Basim Mohammed in May.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T16:51:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -715,101 +756,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-07T13:44:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\ud83c\uddf7\ud83c\uddfaRussian soldier tackles Ukrainian drone barehanded\nTo add insult to injury, the soldier flipped the bird to the drone before grabbing it and throwing it outside, leaving the Ukrainian UAV operator no time to react.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T12:46:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\ude80Russian drones hammer Ukrainian logistics in Odessa region\nHaving first hit a bridge, Russian drone operators then focused on the ensuing traffic jam, targeting trucks used to move cargo for the Ukrainian military and pointedly ignoring civilian vehicles.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T12:03:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb5 Hormuz danger pay hits $100,000 a month for tanker captains\nWith Iran still keeping the [Strait of Hormuz closed](https://t.me/geopolitics_prime/75696), crossings have become so dangerous that shipowners are offering exorbitant rewards to keep crews willing to make the voyage, reports the FT.\n\ud83d\udd36 tanker captains can now reportedly earn the equivalent of $100,000 a month, plus $50,000 for each Hormuz transit\n\ud83d\udd36 ordinary seafarers are receiving four to six times their usual pay during crossings\n\ud83d\udd36 crews are taking additional precautions, sailing mostly at night and switching off GPS signals\n\ud83d\udd36 only a handful of tankers are still making regular shuttle runs through the strait, with traffic falling to 13 vessels on October 4, from 24 a week earlier\n\ud83d\udd36 93 ships have been hit and 24 sailors killed since February 28 (International Maritime Organization)\n\ud83d\udd36 tanker freight rates have surged to $1.3 million a day, versus $20,000\u2013$50,000 last year\n\ud83d\udd36 insurance can reach $20 million per supertanker voyage\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T10:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Houthi strikes appear to hit AESSCO facilities at Riyadh's King Khalid Airport \u2014 burn marks are visible on a warehouse or hangar\nAESSCO operates under SAMI Advanced Electronics, part of Saudi Arabia's state-owned defense group SAMI.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T08:42:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Video has emerged online showing the moment a Russian missile hits a warehouse storing components for Flamingo missiles in Chernigov region\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T08:15:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
