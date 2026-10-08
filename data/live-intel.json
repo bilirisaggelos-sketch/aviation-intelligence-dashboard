@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:40:07.785864+00:00",
+  "generated_at": "2026-10-08T20:51:18.814739+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -11,25 +11,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/08/2026",
       "location": "ZBW NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nStoystown, PA, Thursday, October 8, 2026 Local\nFacility: ZOB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/07/2026",
-      "location": "ZOB PA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -135,14 +116,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3752\r\nIssue Time: 2026 Oct 08 0501 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3752\nBegin Time: 2026 Oct 05 1830 UTC\nYesterday Maximum 2MeV Flux: 11911 pfu\nCORRECTED",
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1531\r\nIssue Time: 2026 Oct 08 1646 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Oct 08 1542 UTC\nEstimate Velocity: 4125 km/s\nComment: Corrected for begin time. Type II speed recorded by Sagamore Hill RSTN site.\nCORRECTED",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-08 05:01:00.663",
+      "timestamp": "2026-10-08 16:46:44.923",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -154,33 +135,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3752\r\nIssue Time: 2026 Oct 07 0504 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3752\nBegin Time: 2026 Oct 05 1830 UTC\nYesterday Maximum 2MeV Flux: 10956 pfu\nCORRECTED",
+      "title": "Space Weather Message Code: ALTTP4\r",
+      "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 719\r\nIssue Time: 2026 Oct 08 1644 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Oct 08 1612 UTC\nComment: Type IV recorded by Sagamore Hill RSTN site",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-07 05:04:25.963",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WATA30\r",
-      "text": "Space Weather Message Code: WATA30\r\nSerial Number: 283\r\nIssue Time: 2026 Oct 06 1633 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G2 Predicted \nHighest Storm Level Predicted by Day:\nOct 07: None (Below G1) Oct 08: None (Below G1) Oct 09: G2 (Moderate) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: G1 to G2 (Minor-Moderate) geomagnetic storms are likely on 09 Oct with the arrival of a CME that left the Sun on 06 Oct.\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-06 16:33:38.640",
+      "timestamp": "2026-10-08 16:44:50.033",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -193,13 +155,13 @@
     },
     {
       "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1530\r\nIssue Time: 2026 Oct 06 0615 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Oct 06 0559 UTC\nEstimate Velocity: 947 km/s\nComment:",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1531\r\nIssue Time: 2026 Oct 08 1643 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Oct 08 1642 UTC\nEstimate Velocity: 4125 km/s\nComment: Type II speed recorded by Sagamore Hill RSTN site.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-06 06:15:04.390",
+      "timestamp": "2026-10-08 16:43:45.180",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -211,14 +173,33 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3752\r\nIssue Time: 2026 Oct 06 0507 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3751\nBegin Time: 2026 Oct 05 1830 UTC\nYesterday Maximum 2MeV Flux: 2358 pfu\nMax time: 2026 Oct 05 2010 UTC",
+      "title": "Space Weather Message Code: SUMXM5\r",
+      "text": "Space Weather Message Code: SUMXM5\r\nSerial Number: 327\r\nIssue Time: 2026 Oct 08 1604 UTC\r\n\r\nSUMMARY: X-ray Event exceeded M5 \nBegin Time: 2026 Oct 08 1529 UTC\nMaximum Time: 2026 Oct 08 1548 UTC\nEnd Time: 2026 Oct 08 1558 UTC\nXray Class: M6.7\nOptical Class: 2b\nLocation: N12W20\nNoaa Scale: R2 - Moderate\nComment: \r\n\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered primarily on sub-solar point on the sunlit side of Earth.\r\nRadio - Limited blackout of HF (high frequency) radio communication for tens of minutes.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-06 05:07:58.703",
+      "timestamp": "2026-10-08 16:04:08.200",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTXMF\r",
+      "text": "Space Weather Message Code: ALTXMF\r\nSerial Number: 542\r\nIssue Time: 2026 Oct 08 1547 UTC\r\n\r\nALERT: X-Ray Flux exceeded M5 \nThreshold Reached: 2026 Oct 08 1546 UTC\nNoaa Scale: R2 - Moderate\nComment: \r\n\r\nNOAA Scale: R2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact centered on sub-solar point on the sunlit side of Earth. Extent of blackout of HF (high frequency) radio communication dependent upon current X-ray Flux intensity. For real-time information on affected area and expected duration please see http://www.swpc.noaa.gov/products/d-region-absorption-predictions-d-rap.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-08 15:47:10.930",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -251,12 +232,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf8\ud83c\uddfe Besides supporting Yemen to build their own ballistic missile program, Iran had also constructed underground missile bases in Syria.\nBut we all know how that ended.\nUnfortunately not every nation has the wisdom and courage of the Yemenis.",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: The Iranian drone attack against Erbil is still ongoing, several impacts have been reported",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T15:00:29+00:00",
+      "timestamp": "2026-10-08T19:34:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -270,95 +251,19 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NOTE: Yesterday, Al-Arabiya uploaded footage of a Saudi airstrike taking out a Yemeni TEL launcher in the capital Sanaa\nThe footage shows that Yemen has moved far beyond limited ballistic missile capability, and has turned into a major regional missile power with relatively advanced capabilities.",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Shahed-136 drone impacts in Erbil, Iraqi Kurdistan",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T14:55:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfe\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 Hebrew media: \u2018Since 2020, Iran has delivered thousands of ballistic missile components to Yemen, sent technical experts to teach the Yemenis how to assemble them, and trained Houthi engineers how to operate and develop their own missiles\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T14:50:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfe\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 Hebrew media: \u2018Yemen has received so many ballistic missiles that it has become a \u2018mini Iran\u2019 posing a major threat to the entire region\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T14:48:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Reuters confirms an aircraft was hit directly by a missile",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T12:48:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles struck Riyadh International Airport moments ago",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T11:49:57+00:00",
+      "timestamp": "2026-10-08T19:24:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -366,12 +271,50 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: According to Bloomberg, moving oil through the Strait of Hormuz without Iranian permission has become \u2018extremely dangerous\u2019 and a risky journey\nOne tanker captain describes sailing at night with no navigational lights, phones or AIS, hugging the Omani coast under U.S. military protection, and maneuvering around a vessel that had just been attacked. His own ship was later targeted by missiles.",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: The ARAMCO refinery in Abqaiq, eastern Saudi Arabia, was struck by Yemeni ballistic missiles",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T21:09:37+00:00",
+      "timestamp": "2026-10-08T17:13:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\udde9\ud83c\uddea/\ud83c\uddee\ud83c\uddf3/\ud83c\uddf8\ud83c\udde6 NEW: Lufthansa and Air India have suspended flights to Riyadh King Khaled International Airport until further notice",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T15:47:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea CONFIRMED: Yemen destroyed a Saudia Airlines Airbus A321-200 at Riyadh Airport",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T15:44:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -385,12 +328,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Polish prosecutors have closed their investigation into the September 10, 2025, incursion of Russian drones into Polish airspace after failing to identify those responsible.\nInvestigators found that some of the drones contained Polish SIM cards but did not disclose how they were obtained.",
+      "text": "The Pentagon has drafted plans for a three-day campaign of intense strikes against Iran, targeting its missile and drone arsenal, energy facilities and Revolutionary Guard headquarters.\nTrump has rejected five proposals for major operations against Iran or the Houthis in recent months and said Thursday that he would not attack Iran before the U.S. midterm elections, citing productive diplomatic talks.\nSome Trump advisers doubt further strikes would change Tehran's position, while others believe a short campaign could increase pressure on Iran's weakening economy.\nSource: NYT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T14:08:05+00:00",
+      "timestamp": "2026-10-08T20:49:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Iran hit Iranian-Kurdish groups' sites in Erbil with Shahed-136 drones again tonight.\nTonight\u2019s attack is the first significant test of Erbil\u2019s air defenses since the US-led coalition departed around 30 September.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T20:28:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -442,12 +404,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\u2014 Pakistani Fighter Jets Strike Ansar Allah in Saudi-Yemeni Theater\nA Senior Pakistani Military Official has Confirmed that Pakistan Air Force (PAF) Fighter jets are Conducting Airstrikes Against Ansar Allah Forces, speaking anonymously to The New York Times.\nThe direct combat deployment marks a significant escalation under the Mecca Joint Defence Agreement.\nSource: The New York Times\n\ud83d\udd34",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e \u2014 Additional footage shows the moment Shahed-136 drones struck the headquarters of Iranian Kurdish opposition groups in Erbil Governorate, northern Iraq.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T10:08:18+00:00",
+      "timestamp": "2026-10-08T19:52:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -461,12 +423,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Opposition Leader Yair Lapid:\nHamas, Qatar and Iran always wanted us cut off from the world. And now the world is cutting itself off from us.\nThey worked on this for years, and now it is happening. Arrest warrants in The Hague, Israelis having their bags searched at airports in the Netherlands, football in Ireland, Eurovision boycotts, all the representatives who walked out during Netanyahu's speech at the UN General Assembly.\nThese are not things that just happened to us. This was their plan. This was their objective all along.\n\ud83d\udd34",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddee\ud83c\uddf6\ud83c\udf1e \u2014 Another video shows the moment a Shahed-136 drone struck one of the headquarters of an Iranian Kurdish opposition group in Erbil Governorate, northern Iraq.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T21:45:28+00:00",
+      "timestamp": "2026-10-08T19:45:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -474,6 +436,45 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddee\ud83c\uddf6\ud83c\udf1e \u2014 Iranian forces reportedly carried out a drone attack using Shahed-136, targeting an area associated with an Iranian Kurdish opposition group in Erbil, in Iraq\u2019s Kurdistan Region.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T19:35:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7 Drones hit erbil, iraq. Iranian opposition targets.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T19:32:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -505,63 +506,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-08T05:33:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 BREAKING: The Houthis say they struck King Khalid International Airport in Riyadh with a ballistic missile, claiming the missile hit its target and disrupted airport operations.\nHouthi military spokesman Yahya Saree also said Saudi troop concentrations at Qa\u2019wa camp in Ras al-Ara and positions south of Bab al-Mandab, Al-Suqya and Ras al-Ara were targeted with ballistic missiles, claiming casualties and fires at weapons depots.\nSeparately, the Houthis said they downed a Saudi-operated Turkish-made Bayraktar Ak\u0131nc\u0131 armed reconnaissance drone over Taiz governorate.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T03:08:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemen\u2019s Armed Forces say Saudi warplanes carried out 156 air and missile strikes over the past 24 hours against what they described as civilian sites in Sanaa, Taiz, Saada, Al-Jawf, Marib and Amran.\nAccording to the statement, F-15 and Typhoon aircraft operated from Khamis Mushait and Taif, while missile attacks were launched from Najran and Jizan. The group says the total number of Saudi air and missile strikes since the latest escalation began has reached 1,798.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T16:52:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 BREAKING: A recording has leaked to the media in which Israel's National Security Minister, Itamar Ben Gvir, is heard insulting Prime Minister Benjamin Netanyahu among a group of trusted friends.\n\"That's shocking!\" \u2014 said an anonymous person asked about it in a bakery in central Jerusalem.\nDue to the awfulness of what Itamar Ben Gvir says, we are publishing only a short excerpt from the released recordings.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T16:10:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -708,6 +652,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Iranian drones strike Kurdish opposition party headquarters in Erbil\nIranian drones have targeted the headquarters of Iranian-Kurdish opposition parties in Rizgary, Erbil province in Iraqi Kurdistan, with widespread fires breaking out across the sites.\nFootage shows interception attempts as drones headed toward the party headquarters before reaching their targets.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T19:54:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd2f Mike Huckabee\u2019s staff member suppressed criticism of Israel \u2013 report\nDavid Milstein, the chief of staff of US Ambassador to Israel Huckabee, either diluted or outright blocked US embassy reports that were critical of Israel, an NYT investigation reveals.\nExamples of Milstein\u2019s meddling listed by the newspapers include:\n\ud83c\udf0f A report criticizing an upsurge in the illegal Israeli settlement construction in the West Bank in March 2026 that never reached the US administration\n\ud83c\udf0f Reports containing Israel Defense Forces concerns about the Israeli settler violence in the West Bank in April 2026 that could spark a Palestinian uprising, with Milstein instead praising PM Benjamin Netanyahu\u2019s efforts to tackle settler violence\n\ud83c\udf0f Detailed reports about the deaths of nine Palestinian Americans in the West Bank, requested by members of the US Congress, were blocked\nOfficials interviewed by the newspaper noted that Milstein sought to control all of the outgoing correspondence from the embassy related to the Palestinian matters.\nThe goal of Milstein\u2019s actions apparently was to paint the Netanyahu government in a more favorable light to the Trump administration.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T18:13:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddea\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Eritrea at the center of Ethiopian civil war \u2013 and wider US-Israeli geopolitical game\nThe Ethiopian civil war is drawing renewed attention to Eritrea, the Red Sea \u2013 and ultimately, [the strategic Bab el-Mandeb Strait.](https://t.me/geopolitics_prime/75528)\n\ud83d\udc49 While Eritrea could offer the US and Israel a strategic launchpad against the Houthis and wider Axis of Resistance, its interest may have further grown amid reports of Asmara\u2019s rapprochement with Iran and unconfirmed claims of Eritrean ties to the Houthis, as The Cradle notes.\nEritrea's Red Sea coast in Ethiopia\u2019s sights\nEritrea has been accused of aiding Ethiopian rebels and[ deploying troops in Tigray](https://t.me/geopolitics_prime/75811), raising fears it could be dragged deeper into the war. Modern Diplomacy argues that Ethiopia\u2019s push for access to Eritrea\u2019s Red Sea coast could now gain urgency, as[ the seven-group Alliance for Survival](https://t.me/geopolitics_prime/75419) threatens to sever Ethiopia\u2019s vital trade corridor through Afar to Djibouti, putting at risk the route carrying roughly 95% of the country\u2019s trade.\nWhoever seeks control of Bab el-Mandeb needs Eritrea\nEritrea has 1,151 km of mainland Red Sea coast and up to 360 islands. Its strategic Assab port lies roughly 83-87 km north-northwest of Bab el-Mandeb\u2019s narrowest point, the 26 km gap between Yemen\u2019s Ras Menheli and Djibouti\u2019s Ras Siyyan, split by Yemen\u2019s Perim Island, recently taken by the Houthis. While most of the western shore of the strait is Djibouti, Eritrea controls northern maritime approaches to Bab el-Mandeb.\nUS and Israel eye Eritrea\nAs the Red Sea\u2019s strategic value surged amid the Strait of Hormuz crisis and Ansar Allah\u2019s rapid advances in September, Washington appeared to court Eritrea. On September 18, the Trump administration lifted sanctions on Asmara \u201cto advance US regional interests.\u201d\nOn September 20, Haaretz reported Israel was hosting exiled Eritrean opposition plotting a coup.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -733,102 +715,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-08T14:44:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2708\ufe0fRussia's Geran-4 Seeker drone delivers a precise strike on a vessel at the Yuzhny port near Odessa\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T12:43:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\udcf9 Videos circulating online show what is reported as the aftermath of a Yemeni missile attack on King Khalid International Airport in Riyadh\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T12:15:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Aramco takes another hit as images indicate fresh damage at oil facility\nAmid Ansar Allah\u2019s ballistic and cruise missile strikes across Saudi Arabia, the oil refinery south of the capital, Riyadh, appears to have sustained further destructive impact.\n\ud83d\udc49 New satellite imagery shows a destroyed fuel storage tank and a dark stain, potentially indicating an oil spill. \nPreviously circulated images showed[ storage tanks damaged](https://t.me/geopolitics_prime/74912) at an oil facility near King Khalid International Airport in Riyadh, and an Aramco refinery in Rabigh.\nThe Houthis said [the attacks came in response to Saudi-led air and missile strikes](https://t.me/geopolitics_prime/75702), which they said killed and wounded civilians, including women and children.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T11:45:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u26f4 Oil tankers stampede to Hormuz as risk sends rates sky-high\nSupertankers are flooding the Persian Gulf to capture soaring premiums for oil shipments through the Strait of Hormuz, tightening vessel supply worldwide and pushing freight rates to extremes, reports Bloomberg.\n[ \nCrude flows through the strait ](https://t.me/geopolitics_prime/75696)have rebounded toward pre-conflict levels despite Iran still keeping the waterway closed, leaving vessels at risk of attack. The risks have sent tanker costs soaring.\n\u2666\ufe0f cost of hiring a very large crude carrier (VLCC) for the roughly three-week Gulf-to-East Asia voyage has hit a record nearly $1.4 million a day\n\u2666\ufe0f a VLCC was offered $82 million to sail from the US Gulf to Japan - over 50% higher than just three weeks ago\n\u2666\ufe0f more than 40% of the world\u2019s 850 VLCCs are now in or near the Persian Gulf (Signal Ocean)\n\u2666\ufe0f empty VLCCs heading to Atlantic ports have halved in the past month\nOil is increasingly being transferred between tankers in the Gulf of Oman or off India\u2019s west coast to reach vessels willing to take the risk of sailing through Hormuz.\nThe ship scarcity has forced a shift to smaller Suezmax and Aframax vessels on non-Middle Eastern routes. Most November US-to-Asia deals now use these ships, lifting their rates in turn, noted shipbroker Fearnleys.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T10:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran appears to be expanding maritime control beyond Hormuz\nVessels suspected of violating Iran's blockade of the Strait of Hormuz could now be targeted across the Persian Gulf and Gulf of Oman as well, according to reports.\n\ud83d\udc49 A tanker was hit by multiple projectiles about 94 km off Madinat ash Shamal in Qatar - roughly 500 km west of the Strait of Hormuz, in the Persian Gulf, per UKMTO. \nThe vessel was Antigua and Barbuda flagged tanker Acers, according to maritime security firm Vanguard Tech.\n[Iran has imposed restrictions on shipping through the Strait of Hormuz](https://t.me/geopolitics_prime/73892), saying vessels must use designated routes and obtain authorization. \nIranian security sources have accused the US of falsely portraying the strait as fully open to push oil prices lower, while warning that ships violating the restrictions could be targeted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T07:45:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
