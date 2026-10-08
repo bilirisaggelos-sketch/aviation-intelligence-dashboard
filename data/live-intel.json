@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T08:02:06.350990+00:00",
+  "generated_at": "2026-10-08T15:40:07.785864+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -231,7 +231,7 @@
     },
     {
       "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "text": "US and Lebanon protecting wanted Syrian general, BBC finds\nBassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+      "text": "US and Lebanon protecting wanted Syrian general, BBC finds\nBassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
@@ -249,52 +249,109 @@
       "verified_source_count": 1
     },
     {
-      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-      "text": "Texas carries out first US execution since Christa Pike's botched lethal injections\nLawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-08T03:02:06+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf8\ud83c\uddfe Besides supporting Yemen to build their own ballistic missile program, Iran had also constructed underground missile bases in Syria.\nBut we all know how that ended.\nUnfortunately not every nation has the wisdom and courage of the Yemenis.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T15:00:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Israelis demand accountability over 7 October failures three years after attacks",
-      "text": "Israelis demand accountability over 7 October failures three years after attacks\nPrime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-07T16:00:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: According to Bloomberg, moving oil through the Strait of Hormuz without Iranian permission has become \u2018extremely dangerous\u2019 and a risky journey\nOne tanker captain describes sailing at night with no navigational lights, phones or AIS, hugging the Omani coast under U.S. military protection, and maneuvering around a vessel that had just been attacked. His own ship was later targeted by missiles.",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NOTE: Yesterday, Al-Arabiya uploaded footage of a Saudi airstrike taking out a Yemeni TEL launcher in the capital Sanaa\nThe footage shows that Yemen has moved far beyond limited ballistic missile capability, and has turned into a major regional missile power with relatively advanced capabilities.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T21:09:37+00:00",
+      "timestamp": "2026-10-08T14:55:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfe\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 Hebrew media: \u2018Since 2020, Iran has delivered thousands of ballistic missile components to Yemen, sent technical experts to teach the Yemenis how to assemble them, and trained Houthi engineers how to operate and develop their own missiles\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T14:50:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddfe\ud83c\uddea/\ud83c\uddee\ud83c\uddf7 Hebrew media: \u2018Yemen has received so many ballistic missiles that it has become a \u2018mini Iran\u2019 posing a major threat to the entire region\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T14:48:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Reuters confirms an aircraft was hit directly by a missile",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T12:48:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles struck Riyadh International Airport moments ago",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T11:49:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -309,70 +366,31 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missiles just targeted Riyadh International Airport, KSA",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: According to Bloomberg, moving oil through the Strait of Hormuz without Iranian permission has become \u2018extremely dangerous\u2019 and a risky journey\nOne tanker captain describes sailing at night with no navigational lights, phones or AIS, hugging the Omani coast under U.S. military protection, and maneuvering around a vessel that had just been attacked. His own ship was later targeted by missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T01:22:09+00:00",
+      "timestamp": "2026-10-07T21:09:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones struck a Yandex data center in Sasovo, Russia\u2019s Ryazan Oblast, and the Gazprom Neftekhim Salavat oil refinery in Bashkortostan overnight, sparking fires.\nIn Sasovo, the attack damaged one of Yandex\u2019s largest data centers, causing power outages and widespread disruptions to its cloud services.\nThe strike followed a series of Russian attacks on Ukrainian data centers.\nA fire also broke out at the Sasta machine-tool plant, which shares the site with the data center and supplies Russia\u2019s defense industry.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T06:51:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Trump:\nYou want to see problems? Let them hit a missile into San Diego or Los Angeles.\nYou want to see a horror show? You want to see problems? Let them hit San Diego. Let them hit Los Angeles.\nWe're not going to let that happen. We protect our cities. We protect our country.",
+      "text": "Polish prosecutors have closed their investigation into the September 10, 2025, incursion of Russian drones into Polish airspace after failing to identify those responsible.\nInvestigators found that some of the drones contained Polish SIM cards but did not disclose how they were obtained.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T00:27:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The Pentagon has ordered U.S. Central Command to finalize preparations for possible major strikes on Iran, according to U.S. officials.\nTrump has not made a final decision or set a date, but U.S. and Israeli sources say strikes could happen before the U.S. midterm elections in November.\nA renewed offensive could involve massive U.S.-Israeli attacks on Iranian energy infrastructure and nuclear facilities, potentially triggering Iranian missile retaliation and higher oil prices.\nU.S.-Iran nuclear negotiations remain stalled, while Trump and Netanyahu have held two calls in recent days.\nIsraeli officials believe strikes are more likely after the midterms, though an earlier attack remains possible.\nSource: Axios",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T23:15:47+00:00",
+      "timestamp": "2026-10-08T14:08:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -424,12 +442,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Opposition Leader Yair Lapid:\nHamas, Qatar and Iran always wanted us cut off from the world. And now the world is cutting itself off from us.\nThey worked on this for years, and now it is happening. Arrest warrants in The Hague, Israelis having their bags searched at airports in the Netherlands, football in Ireland, Eurovision boycotts, all the representatives who walked out during Netanyahu's speech at the UN General Assembly.\nThese are not things that just happened to us. This was their plan. This was their objective all along.\n\ud83d\udd34",
+      "text": "\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\u2014 Pakistani Fighter Jets Strike Ansar Allah in Saudi-Yemeni Theater\nA Senior Pakistani Military Official has Confirmed that Pakistan Air Force (PAF) Fighter jets are Conducting Airstrikes Against Ansar Allah Forces, speaking anonymously to The New York Times.\nThe direct combat deployment marks a significant escalation under the Mecca Joint Defence Agreement.\nSource: The New York Times\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T21:45:28+00:00",
+      "timestamp": "2026-10-08T10:08:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -443,12 +461,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Ansarallah leader Abdul-Malik al-Houthi said Yemen had provided what he described as its maximum possible support to Palestinians since October 7, while accusing Saudi Arabia of using the period of de-escalation since 2022 to deepen military and intelligence cooperation with the United States and Israel against Yemen.\nSince the reduction of escalation with the Saudi enemy in 2022, we invested the time in supporting the Palestinian people.\nThe Saudi enemy sought cooperation with the Israeli enemy from the beginning of our operations in support of the Palestinian people, and continued interception operations throughout the support campaign, even outside its own airspace and at sea.\nThe Saudi enemy hosted Zionist officers for reconnaissance operations over Saada governorate, and American aircraft transported them from Cyprus to Saudi camps near the Yemeni border.\nWe have reached a point of despair with the Saudi enemy. Neither negotiations nor anything else have produced results.\nIt is a clear reality that there is American, Israeli and Saudi cooperation against the Yemeni people.\nOur people are too honorable, pure and sincere to accept any insult to the Islamic holy sites in Mecca, Medina or Al-Aqsa Mosque. \u2014 Abdul-Malik al-Houthi",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Opposition Leader Yair Lapid:\nHamas, Qatar and Iran always wanted us cut off from the world. And now the world is cutting itself off from us.\nThey worked on this for years, and now it is happening. Arrest warrants in The Hague, Israelis having their bags searched at airports in the Netherlands, football in Ireland, Eurovision boycotts, all the representatives who walked out during Netanyahu's speech at the UN General Assembly.\nThese are not things that just happened to us. This was their plan. This was their objective all along.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T14:43:56+00:00",
+      "timestamp": "2026-10-07T21:45:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -509,13 +527,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -545,25 +562,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-07T16:10:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Statement from Hamas spokesperson Abu Ubaida on the third anniversary of October 7th Al-Aqsa Flood operation :\nAbu Ubaida marked three years since the October 7, 2023 Al-Aqsa Flood operation, hailed it a major military achievement that permanently shattered israel\u2019s security doctrine.\nHe praised Gaza\u2019s population and the fighters and commanders involved in the operation, saying their resistance had changed the course of history and exposed the international inaction over Gaza.\nAbu Ubaida also called on supporters of Palestine and the ummah to take action, specifically pointing to Sudan, Libya, Yemen, Lebanon, Iraq and Iran, and suggested that opening additional fronts against israel would have a significant impact.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T08:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -681,13 +679,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Middle East Spectator"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -701,13 +698,127 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddea\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Eritrea at the center of Ethiopian civil war \u2013 and wider US-Israeli geopolitical game\nThe Ethiopian civil war is drawing renewed attention to Eritrea, the Red Sea \u2013 and ultimately, [the strategic Bab el-Mandeb Strait.](https://t.me/geopolitics_prime/75528)\n\ud83d\udc49 While Eritrea could offer the US and Israel a strategic launchpad against the Houthis and wider Axis of Resistance, its interest may have further grown amid reports of Asmara\u2019s rapprochement with Iran and unconfirmed claims of Eritrean ties to the Houthis, as The Cradle notes.\nEritrea's Red Sea coast in Ethiopia\u2019s sights\nEritrea has been accused of aiding Ethiopian rebels and[ deploying troops in Tigray](https://t.me/geopolitics_prime/75811), raising fears it could be dragged deeper into the war. Modern Diplomacy argues that Ethiopia\u2019s push for access to Eritrea\u2019s Red Sea coast could now gain urgency, as[ the seven-group Alliance for Survival](https://t.me/geopolitics_prime/75419) threatens to sever Ethiopia\u2019s vital trade corridor through Afar to Djibouti, putting at risk the route carrying roughly 95% of the country\u2019s trade.\nWhoever seeks control of Bab el-Mandeb needs Eritrea\nEritrea has 1,151 km of mainland Red Sea coast and up to 360 islands. Its strategic Assab port lies roughly 83-87 km north-northwest of Bab el-Mandeb\u2019s narrowest point, the 26 km gap between Yemen\u2019s Ras Menheli and Djibouti\u2019s Ras Siyyan, split by Yemen\u2019s Perim Island, recently taken by the Houthis. While most of the western shore of the strait is Djibouti, Eritrea controls northern maritime approaches to Bab el-Mandeb.\nUS and Israel eye Eritrea\nAs the Red Sea\u2019s strategic value surged amid the Strait of Hormuz crisis and Ansar Allah\u2019s rapid advances in September, Washington appeared to court Eritrea. On September 18, the Trump administration lifted sanctions on Asmara \u201cto advance US regional interests.\u201d\nOn September 20, Haaretz reported Israel was hosting exiled Eritrean opposition plotting a coup.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T15:25:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udeebPakistani jets reportedly used in strikes on Houthis\nPakistani military aircraft are purportedly taking part in strikes against the Houthis, The New York Times reports, citing a senior Pakistani military official who spoke on condition of anonymity. No official confirmation has been provided.\nAccording to the report, the strikes are part of the response to recent Houthi attacks on two Saudi airports \u2014 King Khalid International in Riyadh and Abha International in the south. The Saudi-led coalition said it retaliated by hitting dozens of Houthi military sites in Yemen, including missile storage facilities and command centers.\n\ud83d\udd34Pakistan has long maintained a military presence in Saudi Arabia, while the Mecca Agreement \u2014 a defense pact between Saudi Arabia, Pakistan and Turkey \u2014 cemented collective defense commitments. According to analysts' estimates, not official figures, about 8,000 Pakistani troops are deployed in the kingdom, including air force and air defense contingents. Sources say Pakistan's role is focused on countering Houthi missile and drone threats rather than conducting a ground operation in Yemen.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T14:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2708\ufe0fRussia's Geran-4 Seeker drone delivers a precise strike on a vessel at the Yuzhny port near Odessa\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T12:43:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83d\udcf9 Videos circulating online show what is reported as the aftermath of a Yemeni missile attack on King Khalid International Airport in Riyadh\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T12:15:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Aramco takes another hit as images indicate fresh damage at oil facility\nAmid Ansar Allah\u2019s ballistic and cruise missile strikes across Saudi Arabia, the oil refinery south of the capital, Riyadh, appears to have sustained further destructive impact.\n\ud83d\udc49 New satellite imagery shows a destroyed fuel storage tank and a dark stain, potentially indicating an oil spill. \nPreviously circulated images showed[ storage tanks damaged](https://t.me/geopolitics_prime/74912) at an oil facility near King Khalid International Airport in Riyadh, and an Aramco refinery in Rabigh.\nThe Houthis said [the attacks came in response to Saudi-led air and missile strikes](https://t.me/geopolitics_prime/75702), which they said killed and wounded civilians, including women and children.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T11:45:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u26f4 Oil tankers stampede to Hormuz as risk sends rates sky-high\nSupertankers are flooding the Persian Gulf to capture soaring premiums for oil shipments through the Strait of Hormuz, tightening vessel supply worldwide and pushing freight rates to extremes, reports Bloomberg.\n[ \nCrude flows through the strait ](https://t.me/geopolitics_prime/75696)have rebounded toward pre-conflict levels despite Iran still keeping the waterway closed, leaving vessels at risk of attack. The risks have sent tanker costs soaring.\n\u2666\ufe0f cost of hiring a very large crude carrier (VLCC) for the roughly three-week Gulf-to-East Asia voyage has hit a record nearly $1.4 million a day\n\u2666\ufe0f a VLCC was offered $82 million to sail from the US Gulf to Japan - over 50% higher than just three weeks ago\n\u2666\ufe0f more than 40% of the world\u2019s 850 VLCCs are now in or near the Persian Gulf (Signal Ocean)\n\u2666\ufe0f empty VLCCs heading to Atlantic ports have halved in the past month\nOil is increasingly being transferred between tankers in the Gulf of Oman or off India\u2019s west coast to reach vessels willing to take the risk of sailing through Hormuz.\nThe ship scarcity has forced a shift to smaller Suezmax and Aframax vessels on non-Middle Eastern routes. Most November US-to-Asia deals now use these ships, lifting their rates in turn, noted shipbroker Fearnleys.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T10:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -727,122 +838,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian drones continue to hammer critical infrastructure in Kiev\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T07:02:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 US aircraft losses in war on Iran nearly double - drones take biggest hit\nThe US has now lost or damaged 81 military aircraft since launching Operation Epic Fury against Iran, according to an updated Congressional Research Service (CRS) report - nearly twice the 42 counted in May.\nThe revised tally includes newly reported helicopter losses, aircraft damaged in Iranian retaliatory strikes on bases in Saudi Arabia and Jordan, and a sharp increase in downed MQ-9 Reaper drones.\nThe losses are hitting some of the military\u2019s scarce, high-value platforms:\n\ud83d\udd34 45 lost MQ-9 Reapers - up from as many as 30 through June \n\ud83d\udd34 7 KC-135 tankers - 5 damaged by Iranian strike on [Prince Sultan Air Base ](https://t.me/geopolitics_prime/67612)\n\ud83d\udd34[ a Boeing E-3 Sentry (AWACS)](https://t.me/geopolitics_prime/67446) - hit at the same base \n\ud83d\udd34 damaged F-35A, F-15Es, A-10s and rescue helicopters\n\ud83d\udd34 downed AH-64 Apache\n\ud83d\udd34 4 AH-6 Little Birds and two MC-130Js destroyed during operation to recover US aircrews inside Iran\nThe growing losses are also driving up the bill. \n\ud83d\udc49 The Congressional Budget Office estimates Operation Epic Fury cost the Pentagon about $38 billion through Aug. 1, including up to $3.3 billion to replace lost equipment.\nThe White House has sought another $67.1 billion for the Pentagon, but Congress has yet to approve the emergency request.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T05:42:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian Geran drones hit Ukrainian infrastructure in Chabanka, Odessa region. \nTargets at the ports of Izmail and Odessa were also hit.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T04:18:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Houthis claim missile strike on Riyadh airport \u2014 warn airlines to avoid Saudi airspace\nYemen's Armed Forces say they struck King Khalid Airport in Riyadh with a ballistic missile, disrupting operations \u2014 and issued a final warning to international airlines.\n\ud83d\udcac \"We reiterate our call and warning \u2014 for the last time \u2014 to all international airlines against continuing to operate flights in Saudi airspace, as it has become a theater for our military operations, with the exception of the airspace over the holy areas in Mecca and Medina,\" Brig. Gen. Yahya Saree declared.\nHouthis also claimed ballistic missile strikes on Saudi-led forces south of Bab al-Mandab and a Bayraktar Akinci reconnaissance aircraft shot down over Taiz.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T03:14:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 CBS obtains footage of Iranian strikes on Camp Buehring \u2014 troops abandoned the base and fled into the desert\nNew footage shows Iranian missile and drone strikes hitting Camp Buehring, a major US military base in Kuwait, during the opening days of the Iran war.\n\ud83d\udd34 Most of the roughly 7,000 troops had been relocated before the war began \u2014 but more than 100 remained\n\ud83d\udd34 Following repeated attacks, the remaining soldiers abandoned the base and relocated to remote positions in the Kuwaiti desert\n\ud83d\udd34 One soldier described the base as \"demolished\": \"They hit us bad. It was horrible\" \u2014 and questioned why reinforcements never arrived\nCBS previously reported multiple US aircraft damaged at Muwaffaq Salti Air Base in Jordan \u2014 eight F-15s and an A-10 missing a wing. Images obtained by MeidasTouch showed a hardened bunker at a US base in Kuwait took a direct drone hit \u2014 the exact shelter troops are trained to run to.\nYet, Trump calls it \"a very inexpensive price to pay.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T00:08:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcca Iran tightens grip on Hormuz as Gulf exports surge \u2014 12 tankers attacked in a single week\nAttacks on tankers in the Strait of Hormuz reached their highest level since the conflict began, with at least 12 incidents reported from September 28 to October 5, Arab News reported, citing maritime security sources.\nIncidents include drone overflights, surveillance, and hailing via VHF radio by Iran's Revolutionary Guards.\nAccording to Bloomberg, moving oil through Hormuz without Iranian permission has become \"extremely dangerous\" \u2014 captains are now sailing at night with no lights, phones, or AIS to slip past Iranian controls, with some making up to $100,000 a month for the run. Iran is reportedly seeking to strike tankers beyond the strait to deter illegal passage entirely.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T23:16:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
