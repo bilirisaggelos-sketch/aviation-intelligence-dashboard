@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-07T21:53:34.319962+00:00",
+  "generated_at": "2026-10-08T01:43:08.623229+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSYRACUSE, NY, Friday, October 9, 2026 through Friday, October 9, 2026 Local\nFacility: ZBW",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/08/2026",
+      "location": "ZBW NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nStoystown, PA, Thursday, October 8, 2026 Local\nFacility: ZOB",
@@ -125,25 +144,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/01/2026",
       "location": "ZMP MN",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKey West, FL\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "09/28/2026",
-      "location": "ZMA FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -298,12 +298,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -328,60 +329,60 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Israeli Opposition Leader Yair Lapid:\nHamas, Qatar and Iran always wanted us cut off from the world. And now the world is cutting itself off from us.\nThey worked on this for years, and now it is happening. Arrest warrants in The Hague, Israelis having their bags searched at airports in the Netherlands, football in Ireland, Eurovision boycotts, all the representatives who walked out during Netanyahu's speech at the UN General Assembly.\nThese are not things that just happened to us. This was their plan. This was their objective all along.",
+      "text": "Trump:\nYou want to see problems? Let them hit a missile into San Diego or Los Angeles.\nYou want to see a horror show? You want to see problems? Let them hit San Diego. Let them hit Los Angeles.\nWe're not going to let that happen. We protect our cities. We protect our country.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T21:28:04+00:00",
+      "timestamp": "2026-10-08T00:27:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The Pentagon has ordered U.S. Central Command to finalize preparations for possible major strikes on Iran, according to U.S. officials.\nTrump has not made a final decision or set a date, but U.S. and Israeli sources say strikes could happen before the U.S. midterm elections in November.\nA renewed offensive could involve massive U.S.-Israeli attacks on Iranian energy infrastructure and nuclear facilities, potentially triggering Iranian missile retaliation and higher oil prices.\nU.S.-Iran nuclear negotiations remain stalled, while Trump and Netanyahu have held two calls in recent days.\nIsraeli officials believe strikes are more likely after the midterms, though an earlier attack remains possible.\nSource: Axios",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T23:15:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "New footage obtained by CBS News shows Iranian missile and drone strikes on Camp Buehring, a major U.S. military base in Kuwait, during the opening days of the Iran war.\nMost of the roughly 7,000 troops had been relocated before the war, but more than 100 remained. Following repeated attacks, the remaining soldiers abandoned the base and relocated to remote positions in the Kuwaiti desert.\nOne soldier described the base as \u201cdemolished,\u201d saying, \u201cThey hit us bad. It was horrible,\u201d and questioned why reinforcements never arrived.\nNo U.S. troops were killed by enemy fire at Camp Buehring, but several were injured, including two struck by lightning after relocating to the desert.\nSource: CBS News",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T22:25:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Eritrean troops spotted driving through the Ethiopian town of Adigrat, 25 km from the border, per Reuters citing witnesses and ACLED. \nThis is the first confirmed presence of Eritrean soldiers on Ethiopian soil since the current conflict began September 23. \nACLED says they crossed at Zelambesa and Ethiopian military drone-struck their vehicles at Guada.\nEritrea denies it, calling the reports fabricated to justify Ethiopian aggression. \nEthiopia and Eritrea severed diplomatic ties last week. \nThe US urged both sides to exercise restraint, warning conflict would jeopardize US cooperation with both countries. \nFears growing of a wider Horn of Africa war involving Ethiopia, Eritrea, Sudan, and Egypt.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T20:50:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "FlyDubai co-pilot Hamam al-Hammami, who allegedly attempted to crash Flight 1073 near Tel Aviv last week, told investigators he had planned a similar attack in July but backed out because he cared about a crew member.\nThe Omani national reportedly sought employment with airlines flying to Israel and planned to incapacitate the captain and crash into a target such as Ben Gurion Airport.\nHammami had previously been barred from flying by Oman Air over extremist concerns, but FlyDubai hired him without checking with Omani authorities.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T20:47:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -433,13 +434,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -648,6 +648,46 @@
       "verification_confidence": 65,
       "verified_sources": [
         "CASELS",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 CBS obtains footage of Iranian strikes on Camp Buehring \u2014 troops abandoned the base and fled into the desert\nNew footage shows Iranian missile and drone strikes hitting Camp Buehring, a major US military base in Kuwait, during the opening days of the Iran war.\n\ud83d\udd34 Most of the roughly 7,000 troops had been relocated before the war began \u2014 but more than 100 remained\n\ud83d\udd34 Following repeated attacks, the remaining soldiers abandoned the base and relocated to remote positions in the Kuwaiti desert\n\ud83d\udd34 One soldier described the base as \"demolished\": \"They hit us bad. It was horrible\" \u2014 and questioned why reinforcements never arrived\nCBS previously reported multiple US aircraft damaged at Muwaffaq Salti Air Base in Jordan \u2014 eight F-15s and an A-10 missing a wing. Images obtained by MeidasTouch showed a hardened bunker at a US base in Kuwait took a direct drone hit \u2014 the exact shelter troops are trained to run to.\nYet, Trump calls it \"a very inexpensive price to pay.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T00:08:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcca Attacks on tankers in Hormuz hit highest of any week since start of Iran war\nAttacks on tankers in the Strait of Hormuz reached their highest level since the conflict began, with at least 12 incidents reported from September 28 to October 5, Arab News reported, citing maritime security sources.\nIncidents include drone overflights, surveillance, and hailing via VHF radio by Iran's Revolutionary Guards.\nAccording to Bloomberg, moving oil through Hormuz without Iranian permission has become \"extremely dangerous\" \u2014 captains are now sailing at night with no lights, phones, or AIS to slip past Iranian controls, with some making up to $100,000 a month for the run. Iran is reportedly seeking to strike tankers beyond the strait to deter illegal passage entirely.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-07T23:16:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
