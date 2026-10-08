@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T01:43:08.623229+00:00",
+  "generated_at": "2026-10-08T08:02:06.350990+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -98,25 +98,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSan Antonio, TX, Wednesday, October 7, 2026 through Wednesday, October 7, 2026 Local\nFacility: ZHU",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/04/2026",
-      "location": "ZHU TX",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEvansville, IN, Monday, October 5, 2026 through Saturday, October 10, 2026 Local\nFacility: ZID",
       "source": "FAA",
       "source_type": "official",
@@ -150,6 +131,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3752\r\nIssue Time: 2026 Oct 08 0501 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3752\nBegin Time: 2026 Oct 05 1830 UTC\nYesterday Maximum 2MeV Flux: 11911 pfu\nCORRECTED",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-08 05:01:00.663",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -230,21 +230,40 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5428\r\nIssue Time: 2026 Oct 06 0343 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5427\nValid From: 2026 Oct 05 0155 UTC\nNow Valid Until: 2026 Oct 06 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-06 03:43:55.093",
+      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
+      "text": "US and Lebanon protecting wanted Syrian general, BBC finds\nBassam al-Hassan, linked to reporter Austin Tice's abduction, is being sheltered in return for information.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-08T05:00:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+      "text": "Texas carries out first US execution since Christa Pike's botched lethal injections\nLawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-08T03:02:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -257,25 +276,6 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-10-07T16:00:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Children killed while they slept as Russian missile kills 19 in block of flats",
-      "text": "Children killed while they slept as Russian missile kills 19 in block of flats\nFive children are among the victims of a strike that destroyed 30 flats in northern Ukraine as families slept.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-07T18:12:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -329,6 +329,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Ukrainian drones struck a Yandex data center in Sasovo, Russia\u2019s Ryazan Oblast, and the Gazprom Neftekhim Salavat oil refinery in Bashkortostan overnight, sparking fires.\nIn Sasovo, the attack damaged one of Yandex\u2019s largest data centers, causing power outages and widespread disruptions to its cloud services.\nThe strike followed a series of Russian attacks on Ukrainian data centers.\nA fire also broke out at the Sasta machine-tool plant, which shares the site with the data center and supplies Russia\u2019s defense industry.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T06:51:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Trump:\nYou want to see problems? Let them hit a missile into San Diego or Los Angeles.\nYou want to see a horror show? You want to see problems? Let them hit San Diego. Let them hit Los Angeles.\nWe're not going to let that happen. We protect our cities. We protect our country.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -363,26 +382,6 @@
         "Clash Report"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "New footage obtained by CBS News shows Iranian missile and drone strikes on Camp Buehring, a major U.S. military base in Kuwait, during the opening days of the Iran war.\nMost of the roughly 7,000 troops had been relocated before the war, but more than 100 remained. Following repeated attacks, the remaining soldiers abandoned the base and relocated to remote positions in the Kuwaiti desert.\nOne soldier described the base as \u201cdemolished,\u201d saying, \u201cThey hit us bad. It was horrible,\u201d and questioned why reinforcements never arrived.\nNo U.S. troops were killed by enemy fire at Camp Buehring, but several were injured, including two struck by lightning after relocating to the desert.\nSource: CBS News",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T22:25:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -459,6 +458,64 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "The Muslim Brotherhood of 1928 is not actually the same Brotherhood of 1962, and neither was it the same Brotherhood post 1976 to 2013, and neither are they the same from then to here.\nThe only consistent pillar was LARPing, they would LARP, and then LARP some more, and LARP too hard that it broke off the meter with the occasional \"aura-farming moment\" and meaningful action.\nBut the central nervous center has been dead, shot, napalmed, arrested, beaten, raped... 500,000 people gone, literally and metaphorically, just like that, can you imagine? It is pretty disturbing actually.\nAnd so that is why you have branches funded by literally the UAE and Saudi Arabia (that designates them as terrorists), branches that are loyal to the kings of Morocco and Jordan, and branches that are stuck with Iran, there is no \"Muslim Brotherhood.\" in any worthwhile capacity, it is like warlords vying for influence in their own little domiciles.\nMeh, life goes on.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T05:49:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": ">\"Buu-uhh Sudanese Army.. uh... Ikhwan?\"\nGutted. Dead, ideologically compromised and stopped LARPing once the RSF became a serious threat, the old core from the 90s are mostly dead\n>\"Ehm... uh... Yemen?\"\nThe Muslim Brotherhood in Yemen is funded by the UAE and Saudi Arabia, are you serious?\n>\"Morocco!\"\nHave kissed the hands of the king, same thing in Jordan\n>\"Syria!\"\nLARP ceased, they yielded to Sharaa, in Iraq most who did not join ISIS are now compatible with Shia movements, in Lebanon they fight alongside Hezbollah too.\n>\"Turkey!\" \nHanded them over to Egypt, they fled to Austria and the UK now, and by them I mean some 300 members.\nGorka is a white craKKKer addicted to Jewish BBC who knows nothing of the subject.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T05:33:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 BREAKING: The Houthis say they struck King Khalid International Airport in Riyadh with a ballistic missile, claiming the missile hit its target and disrupted airport operations.\nHouthi military spokesman Yahya Saree also said Saudi troop concentrations at Qa\u2019wa camp in Ras al-Ara and positions south of Bab al-Mandab, Al-Suqya and Ras al-Ara were targeted with ballistic missiles, claiming casualties and fires at weapons depots.\nSeparately, the Houthis said they downed a Saudi-operated Turkish-made Bayraktar Ak\u0131nc\u0131 armed reconnaissance drone over Taiz governorate.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T03:08:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -655,6 +712,102 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran appears to be expanding maritime control beyond Hormuz\nVessels suspected of violating Iran's blockade of the Strait of Hormuz could now be targeted across the Persian Gulf and Gulf of Oman as well, according to reports.\n\ud83d\udc49 A tanker was hit by multiple projectiles about 94 km off Madinat ash Shamal in Qatar - roughly 500 km west of the Strait of Hormuz, in the Persian Gulf, per UKMTO. \nThe vessel was Antigua and Barbuda flagged tanker Acers, according to maritime security firm Vanguard Tech.\n[Iran has imposed restrictions on shipping through the Strait of Hormuz](https://t.me/geopolitics_prime/73892), saying vessels must use designated routes and obtain authorization. \nIranian security sources have accused the US of falsely portraying the strait as fully open to push oil prices lower, while warning that ships violating the restrictions could be targeted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T07:45:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian drones continue to hammer critical infrastructure in Kiev\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T07:02:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 US aircraft losses in war on Iran nearly double - drones take biggest hit\nThe US has now lost or damaged 81 military aircraft since launching Operation Epic Fury against Iran, according to an updated Congressional Research Service (CRS) report - nearly twice the 42 counted in May.\nThe revised tally includes newly reported helicopter losses, aircraft damaged in Iranian retaliatory strikes on bases in Saudi Arabia and Jordan, and a sharp increase in downed MQ-9 Reaper drones.\nThe losses are hitting some of the military\u2019s scarce, high-value platforms:\n\ud83d\udd34 45 lost MQ-9 Reapers - up from as many as 30 through June \n\ud83d\udd34 7 KC-135 tankers - 5 damaged by Iranian strike on [Prince Sultan Air Base ](https://t.me/geopolitics_prime/67612)\n\ud83d\udd34[ a Boeing E-3 Sentry (AWACS)](https://t.me/geopolitics_prime/67446) - hit at the same base \n\ud83d\udd34 damaged F-35A, F-15Es, A-10s and rescue helicopters\n\ud83d\udd34 downed AH-64 Apache\n\ud83d\udd34 4 AH-6 Little Birds and two MC-130Js destroyed during operation to recover US aircrews inside Iran\nThe growing losses are also driving up the bill. \n\ud83d\udc49 The Congressional Budget Office estimates Operation Epic Fury cost the Pentagon about $38 billion through Aug. 1, including up to $3.3 billion to replace lost equipment.\nThe White House has sought another $67.1 billion for the Pentagon, but Congress has yet to approve the emergency request.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T05:42:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian Geran drones hit Ukrainian infrastructure in Chabanka, Odessa region. \nTargets at the ports of Izmail and Odessa were also hit.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T04:18:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Houthis claim missile strike on Riyadh airport \u2014 warn airlines to avoid Saudi airspace\nYemen's Armed Forces say they struck King Khalid Airport in Riyadh with a ballistic missile, disrupting operations \u2014 and issued a final warning to international airlines.\n\ud83d\udcac \"We reiterate our call and warning \u2014 for the last time \u2014 to all international airlines against continuing to operate flights in Saudi airspace, as it has become a theater for our military operations, with the exception of the airspace over the holy areas in Mecca and Medina,\" Brig. Gen. Yahya Saree declared.\nHouthis also claimed ballistic missile strikes on Saudi-led forces south of Bab al-Mandab and a Bayraktar Akinci reconnaissance aircraft shot down over Taiz.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-08T03:14:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcf9 CBS obtains footage of Iranian strikes on Camp Buehring \u2014 troops abandoned the base and fled into the desert\nNew footage shows Iranian missile and drone strikes hitting Camp Buehring, a major US military base in Kuwait, during the opening days of the Iran war.\n\ud83d\udd34 Most of the roughly 7,000 troops had been relocated before the war began \u2014 but more than 100 remained\n\ud83d\udd34 Following repeated attacks, the remaining soldiers abandoned the base and relocated to remote positions in the Kuwaiti desert\n\ud83d\udd34 One soldier described the base as \"demolished\": \"They hit us bad. It was horrible\" \u2014 and questioned why reinforcements never arrived\nCBS previously reported multiple US aircraft damaged at Muwaffaq Salti Air Base in Jordan \u2014 eight F-15s and an A-10 missing a wing. Images obtained by MeidasTouch showed a hardened bunker at a US base in Kuwait took a direct drone hit \u2014 the exact shelter troops are trained to run to.\nYet, Trump calls it \"a very inexpensive price to pay.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -664,18 +817,17 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcca Attacks on tankers in Hormuz hit highest of any week since start of Iran war\nAttacks on tankers in the Strait of Hormuz reached their highest level since the conflict began, with at least 12 incidents reported from September 28 to October 5, Arab News reported, citing maritime security sources.\nIncidents include drone overflights, surveillance, and hailing via VHF radio by Iran's Revolutionary Guards.\nAccording to Bloomberg, moving oil through Hormuz without Iranian permission has become \"extremely dangerous\" \u2014 captains are now sailing at night with no lights, phones, or AIS to slip past Iranian controls, with some making up to $100,000 a month for the run. Iran is reportedly seeking to strike tankers beyond the strait to deter illegal passage entirely.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udcca Iran tightens grip on Hormuz as Gulf exports surge \u2014 12 tankers attacked in a single week\nAttacks on tankers in the Strait of Hormuz reached their highest level since the conflict began, with at least 12 incidents reported from September 28 to October 5, Arab News reported, citing maritime security sources.\nIncidents include drone overflights, surveillance, and hailing via VHF radio by Iran's Revolutionary Guards.\nAccording to Bloomberg, moving oil through Hormuz without Iranian permission has become \"extremely dangerous\" \u2014 captains are now sailing at night with no lights, phones, or AIS to slip past Iranian controls, with some making up to $100,000 a month for the run. Iran is reportedly seeking to strike tankers beyond the strait to deter illegal passage entirely.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -691,120 +843,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Syria weighs sending up to 20,000 troops to Yemen \u2014 including Islamist foreign fighters\nSaudi Arabia and Syria are discussing deploying Syrian forces to Yemen to join the counteroffensive against the Houthis, 3 US officials told Axios.\nPresident Ahmed al-Sharaa is seriously considering sending up to 20,000 Syrian troops to Yemen. One unit under consideration \u2014 the 84th Division \u2014 includes thousands of Islamist foreign fighters who helped topple Assad.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T21:31:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\u2694\ufe0f Iran ready to defend itself with preemptive strikes - army spox\nA potential Iranian response to an emerging threat will be \u201cmore crushing, broader, more decisive, and faster\u201d than before, Iran\u2019s Army spokesman Brigadier General Mohammad Akrami-Nia said as quoted by Iranian media.\nAccording to him:\n\ud83c\udf0f The Iranian military gained considerable experience from the latest US-Israeli aggression and is willing to carry out preemptive strikes instead of waiting for the enemy to hit first\n\ud83c\udf0f Iran's military-industrial sector has been operating around the clock and Iran\u2019s armed forces are well equipped and supplied \n\ud83c\udf0f Iran\u2019s drone and missile weaponry has become more advanced\n\ud83c\udf0f The Iranian Army gained an understanding of its enemies\u2019 vulnerabilities and knows how to capitalize on them\nIran demonstrated its courage and power while standing up to the US and, when the current war is over, \u201cwill enjoy a special position as an international power,\u201d Akrami-Nia suggested.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T18:45:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Emergency blackouts leave Kiev without power, water, and internet\nWater pumping stations had been partially de-energized, with supply problems reported on the right bank of the Dnepr River, where power remains out and electric transport has been halted. \nThe emergency cuts were ordered by Ukraine's national energy company Ukrenergo and announced by energy company DTEK, following earlier plans to introduce rolling hourly blackouts in parts of the country.\nUkrainian media are also reporting internet disruptions across the city, and preliminary reports suggest a drone fell on a power transmission line.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T18:36:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcca Syria to serve as Iraq\u2019s oil route to bypass Hormuz \u2013 but volumes remain a drop in the bucket\nThe Iraqi government has asked Syria to help with crude oil exports, Yousef Qiblawy, chief executive officer of the state-owned Syrian Petroleum Co., told Bloomberg.\nIraq already sends some of its fuel oil to Syria\u2019s Mediterranean port of Baniyas by truck, with around 1,000 vehicles making the journey each day, each carrying roughly 220 barrels, Qiblawy said.\nHe noted that the same or even a larger number of trucks loaded with crude could pass through Syria.\nThe export of Iraqi crude to Syria by truck could begin as early as mid-October, according to Qiblawy.\nIraq also transits some crude and fuel oil through Jordan to avoid the dangerous Strait of Hormuz. Reuters reported last week that Iraq\u2019s state-owned Oil Tanker Company had also managed to transport 2 million barrels of Iraqi crude aboard a very large crude carrier (VLCC) through the strait.\nBased on the figures cited by Qiblawy, trucks passing through Syria would carry 220,000 barrels of oil per day, or between 6.6 million and 6.82 million barrels per month. That's a far cry from the 93 million barrels per month that Iraq routinely exported through the Strait of Hormuz before the Iran war, according to numbers cited by Iraqi Oil Minister Basim Mohammed in May.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T16:51:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f\ud83d\udd2f Mossad\u2019s Flydubai security lapse puts Israelis\u2019 US visa waiver at risk\nIsraelis could reportedly lose their visa-free entry to the US over safety failures involving Flydubai, the Times of Israel reports.\nA US delegation is due to visit Israel to review its compliance with the security requirements of the US Visa Waiver Program, which Israel joined in 2023. Under the program, Israel is required to review information on all passengers and aircrew arriving in the country.\nIsraeli government officials had received the passenger and crew list for the notorious Flydubai Flight 1073 in advance, Haaretz reported earlier. The list included the Omani co-pilot accused of carrying out the attack.\nThe suspect, identified as 29-year-old Hamam Al Hammami, had been flagged as a security risk as early as 2024 when he was working as a co-pilot trainee for Oman Air. Despite being found in possession of extremist material, he was allowed to continue working for the airline in an administrative role, according to ABC News.\nIsrael\u2019s Transportation Ministry and Mossad were responsible for vetting the crew list, Haaretz points out. This raises questions about how the Israeli intelligence agency failed to flag Al Hammami before the flight and allowed him to board the aircraft.\n\ud83d\udc49The controversy adds to mounting reports that the Israeli government, led by Benjamin Netanyahu, was warned of an impending Hamas attack but that the prime minister failed to pass the warning on to Israeli security officials.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T15:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3\ud83c\uddee\ud83c\uddf1 Smotrich dismisses Palestinian nationhood as \u2018fiction\u2019\nIsrael\u2019s far-right Finance Minister Bezalel Smotrich used a National Conservatism Conference in Jerusalem to openly push for permanent seizure of territory in Gaza and Lebanon.\n\ud83d\udcac \u201cA side that started a war and lost it will lose territory to the victorious side,\u201d he said.\nHe also:\n\u2666\ufe0f repeated calls to impose Israeli sovereignty and civil law across the occupied West Bank (referring to it by the Israeli administrative term \u2018Judea and Samaria\u2019) citing \u201chistorical\u201d Jewish claims\n\u2666\ufe0f framed the \u201cfinal stage of the war\u201d as creating what he called a \u201cdirected opportunity for voluntary migration\u201d of Gaza residents to Arab and Muslim countries, accusing Egypt and other states of blocking their exit\n\u2666\ufe0f urged greater Israeli military and economic independence from the US - claiming a stronger, more nationalist Israel would still serve American interests\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T13:44:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
