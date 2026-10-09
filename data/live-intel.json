@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-09T19:50:15.651047+00:00",
+  "generated_at": "2026-10-09T23:56:18.649980+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Tuesday, October 13, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/09/2026",
+      "location": "ZAB NM",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNew Bern, NC, Saturday, October 10, 2026 through Sunday, October 11, 2026 Local\nFacility: ZDC",
@@ -336,10 +355,29 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 Cruise missiles from Iran towards the Strait of Hormuz",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-09T21:55:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News",
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -384,78 +422,79 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi-backed PLC forces attempted to mass forces in Ras Al-Arah, Bab Al-Mandab front, to start an offensive in the direction of Dhubab\nThe plan was foiled and the entire gathering of troops and vehicles was destroyed by ballistic missiles before they could carry out their offensive.",
+      "publisher": "Clash Report",
+      "text": "A senior Ukrainian official says Kyiv will continue its long-range drone strikes on Russian energy facilities: \u201cWe will burn their refineries.\u201d\nSource: FT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T12:16:21+00:00",
+      "timestamp": "2026-10-09T20:59:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddf5\ud83c\uddf0 NEW: Pakistan International Airlines suspends flights to Riyadh",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83d\udee2 #Trump strikes deal with #Putin to import Russian diesel into the #UnitedStates and global markets due to skyrocketing fuel prices following his starting of the Iran War alongside #Israel. \nThe Trump administration has also now sanctioned the entire International Criminal Court to protect Netanyahu and Putin.\nSimultaneously supporting Russia's economy and #Ukraine's downfall, it is clear the Trump administration support's the genocide of Ukraine. Unsurprising since they have fully supported Israel's genocide of Palestine. With Russia and Israel and the United States increasingly establishing trade routes and partnerships, it is obvious the allies that Trump and his administration seek.\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T12:07:51+00:00",
+      "timestamp": "2026-10-09T20:54:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudia Airlines Captain Hamoud Ali Al-Kalthami, who was present in the aircraft at the time of the Yemeni attack, was killed\nMay God have mercy on him\u2014and may Saudi Arabia be held accountable for putting its own citizens in serious danger by continuing the aggression in Yemen.",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Cruise missiles launched from southern Iran toward the Strait of Hormuz.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T11:59:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia confirms that 3 of its citizens were killed in the Yemeni attack on Riyadh Airport",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T11:57:39+00:00",
+      "timestamp": "2026-10-09T21:59:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News",
+        "Alsaa Plus EN",
         "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Reports indicate that an US spy drone was shot down over the city of Yazd in Iran.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-09T20:06:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
@@ -556,25 +595,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddee\ud83c\uddf6\ud83c\udf1e \u2014 Another video shows the moment a Shahed-136 drone struck one of the headquarters of an Iranian Kurdish opposition group in Erbil Governorate, northern Iraq.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T19:45:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Reports indicate that an US spy drone was shot down over the city of Yazd in Iran.",
       "source": "Telegram",
@@ -585,12 +605,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -690,6 +711,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran releases previously unseen footage of Shahed drone launches against US positions\nPreviously unreleased footage shows Shahed-136 and Shahed-238 drones being launched toward US military positions during Iran's Nasr 1 and Nasr 2 (Victory 1 and 2) operations, according to Tasnim News Agency.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-09T22:19:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Fires continue at Saudi Aramco facilities in Jeddah\nNew video captured overnight shows fires still burning at Aramco facilities in Jeddah after the site was directly targeted by Yemeni missiles.\nJeddah is the kingdom's second-largest city and a major Red Sea commercial hub.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-09T21:25:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcc9\ud83d\udee2 Oil prices dip a little amid Iran war speculation\nBrent crude futures decreased by about 1% to under $103 per barrel after Trump proclaimed that the US won\u2019t resume attacks on Iran before the midterms next month, Reuters reported.\nDuring the previous session, before Trump\u2019s announcement, Brent prices rose by about 4%.\nOil and fuel prices drastically increased after Iran shut down the Strait of Hormuz in response to US-Israeli aggression, with the subsequent blockade of Bab-el-Mandeb Strait by the Houthis further exacerbating the crisis.\nAs the US finds itself unable to either defeat Iran or reopen the Strait of Hormuz, the US government and members of the International Energy Agency try to mitigate the economic damage by [releasing fuel from strategic stocks](https://t.me/geopolitics_prime/75814). \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -715,25 +774,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-09T15:36:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Pentagon prepares three-day assault on Iran as US faces growing military challenges\nThe Pentagon has prepared plans for a three-day bombing campaign against Iran, targeting its missile and drone arsenals, energy infrastructure, and IRGC command facilities, The New York Times reports.\n\ud83d\udc49 The US is assembling three aircraft carrier strike groups in the Middle East, with more than 20,000 sailors and Marines and hundreds of aircraft expected in the region by late October. The buildup comes as the Trump administration weighs another round of attacks against Iran despite ongoing diplomatic talks.\nHowever, Iran's improving military capabilities are complicating Washington's calculations. Iranian missile tactics have reportedly forced US forces to expend more interceptors, straining already depleted ammunition stockpiles. Satellite imagery from Chinese companies has also helped Tehran improve its targeting of American military bases.\nAccording to US officials, American commanders are increasingly concerned about their ability to protect military installations and regional infrastructure from Iranian retaliation.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T14:14:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
