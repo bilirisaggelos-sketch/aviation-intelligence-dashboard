@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T20:51:18.814739+00:00",
+  "generated_at": "2026-10-09T01:07:22.469331+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -11,6 +11,63 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/08/2026",
       "location": "ZBW NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nJohnsontown, NC\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/08/2026",
+      "location": "ZDC NC",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 9, 2026 through Sunday, October 11, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/08/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nINDIO, CA, Saturday, October 10, 2026 through Sunday, October 11, 2026 Local\nFacility: ZLA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/08/2026",
+      "location": "ZLA CA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -211,25 +268,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "US and Lebanon protecting wanted Syrian general, BBC finds",
-      "text": "US and Lebanon protecting wanted Syrian general, BBC finds\nBassam al-Hassan is being sheltered in return for information - including about abducted US reporter Austin Tice.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-08T05:00:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: The Iranian drone attack against Erbil is still ongoing, several impacts have been reported",
@@ -260,13 +298,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -277,44 +314,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-08T17:13:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\udde9\ud83c\uddea/\ud83c\uddee\ud83c\uddf3/\ud83c\uddf8\ud83c\udde6 NEW: Lufthansa and Air India have suspended flights to Riyadh King Khaled International Airport until further notice",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T15:47:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea CONFIRMED: Yemen destroyed a Saudia Airlines Airbus A321-200 at Riyadh Airport",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T15:44:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -451,13 +450,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -519,12 +517,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "During last night's large-scale Russian missile attack on Ukraine, the interception rate of Kh-101 cruise missiles was unusually low - one of the lowest so far this year. \nOut of roughly 48 Kh-101 cruise missiles launched, I could only confirm around 10 interceptions, mainly by fighter jets. \nIn my opinion, this was caused by Ukraine's ongoing F-16 maintenance crisis, and due to the fact that Russia is striking areas of Ukraine closer to the border, providing Ukrainian air defences with much less time to shoot down the missiles. The missiles also flew in very large groups immediately towards their targets, without changing course much, completely overwhelming Ukrainian air defences. \nThe Kh-101s impacted three cities - Kremenchuk (Poltava Oblast), Pryluky (Chernihiv Oblast), and Oleksandriya (Kirovohrad Oblast).\nMost of the impacts occurred in Kremenchuk, while around a dozen occurred in Oleksandriya, along with another dozen or so in Pryluky. Multiple different locations in Kremenchuk, including the hydroelectric power plant, were hit. \nThe interception rate on Kalibrs was much higher (roughly 9 out of 12 missiles were shot down), with the remaining 3 striking two different targets in Kremenchuk.\nAs for ballistics, patriot systems in Kyiv shot down ~4 out of 10 Iskander-M/RM-48U S-400 missiles, and air defences near the city of Ukrainka in Kyiv Oblast shot down both Oniks-M supersonic cruise missiles targeting the Trypillya Thermal Power Plant. The 2 Zircons both impacted Trypillya TPP.",
+      "text": "\u2757\ufe0fA Russian FPV drone struck the Ukrainian coat of arms mounted on the building of the Zaporizhzhia Regional State Administration.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T05:22:53+00:00",
+      "timestamp": "2026-10-09T01:07:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "NOTAMs have closed airspace over Lublin and Rzesz\u00f3w due to unplanned military activity related to state security following Russian strikes on Ukraine. - Flightradar24",
+      "text": "One of the AVT crude oil processing units at Russia\u2019s Omsk Oil Refinery was hit during today\u2019s long-range drone attack.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T05:22:43+00:00",
+      "timestamp": "2026-10-09T01:06:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -557,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf7\ud83c\uddf5\ud83c\uddf8\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The IDF has released new figures summarizing its operations across multiple fronts in the three years since the October 7 attack.\nAccording to the military, around 100,000 targets have been struck, including 65,000 in Gaza, 28,000 in Lebanon and Syria, 4,500 in Iran and 80 in Yemen.\nThe IDF says around 31,500 projectiles have been launched toward Israel during the same period: approximately 20,000 from Lebanon, 10,200 from Gaza, 1,200 from Iran, 90 from Yemen and 50 from Syria.\nIn the West Bank, the IDF says around 45,000 wanted Palestinians have been arrested, more than 3,800 weapons seized, and over $15 million in funds allegedly intended to finance terrorism confiscated.",
+      "text": "\u2757\ufe0f\u2757\ufe0fThe Omsk Oil Refinery has reportedly been hit after a drone attack lasting around four hours. The facility, Russia\u2019s largest oil refinery, is more than 2,500 km from Ukraine. Earlier reports said Ukrainian FP-1 drones were targeting the site.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T04:10:12+00:00",
+      "timestamp": "2026-10-09T01:06:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -576,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussia targeted Kyiv, Dnipro and Kremenchuck this evening, launching both ballistic missiles (Iskander-M and Kn-23s) and hypersonic and supersonic missiles (Zircon and Oniks). \nIn Kyiv they targeted energy infrastructure with rolling blackouts across the city as well as a warehouse (media 1-5)\nIn Dnipro an industrial was targeted by Russian strikes (media 6-7)\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian border guards spotted a concentration of Russian military equipment on the Prydniprovskyi axis overnight and sent FPV drones against it. The Russian equipment targeted in the strikes included a T-72 tank, a Tigr armored vehicle, a fuel tanker and two D-30 howitzers.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T03:13:18+00:00",
+      "timestamp": "2026-10-09T01:05:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -595,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf4\ud83c\uddea\ud83c\udde8 Some U.S. MQ-9 Reaper drones have been moved from Africa to Colombia and Ecuador as part of operations targeting drug-trafficking organizations, offering long-endurance surveillance and advanced sensor capabilities.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Germany\u2019s Quantum Systems plans to supply Ukraine with tens of thousands of SPYS interceptor drones, jointly developed with Ukrainian company WIY. The interceptor is designed to counter Russian jet-powered Geran-4 and Geran-5 drones. Quantum Systems plans production of several thousand SPYS units per month, with initial deliveries possible this year. SPYS reaches 600 km/h, has a 15 km tactical radius and a maximum range of 30 km.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T03:13:11+00:00",
+      "timestamp": "2026-10-09T01:05:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -614,12 +612,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea More footage of the strikes at the Aden International Airport with ballistic missiles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian SIGNUM drone operators targeted Russian logistics and mobile fire groups across Donbas. The strikes hit pickup trucks, vans and other vehicles used to transport personnel, ammunition and supplies. A Russian Osa air defense system was also targeted twice.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T03:12:38+00:00",
+      "timestamp": "2026-10-09T01:05:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -632,20 +630,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The Houthis struck Aden International Airport, in PLC-held southern Yemen, with at least two ballistic missiles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0a Iran says military-industrial development continues despite war and sanctions\nBrigadier General Reza Talaei-Nik, spokesperson for Iran's Ministry of Defense, says 50 dual-purpose strategic projects are currently underway with private sector participation \u2014 spanning sectors from aerospace to diesel engines for railways and industrial plants.\n\ud83d\udc49 The projects are described as \"dual-purpose\" \u2014 serving both civilian and military applications.\nTrump's campaign was built on the premise that economic strangulation would force Iran to capitulate. Instead, Iran is announcing expanded industrial production, new missile tests, and domestic manufacturing across aerospace and heavy industry.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-07T03:12:34+00:00",
+      "timestamp": "2026-10-09T00:25:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -677,44 +675,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-08T18:13:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddea\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Eritrea at the center of Ethiopian civil war \u2013 and wider US-Israeli geopolitical game\nThe Ethiopian civil war is drawing renewed attention to Eritrea, the Red Sea \u2013 and ultimately, [the strategic Bab el-Mandeb Strait.](https://t.me/geopolitics_prime/75528)\n\ud83d\udc49 While Eritrea could offer the US and Israel a strategic launchpad against the Houthis and wider Axis of Resistance, its interest may have further grown amid reports of Asmara\u2019s rapprochement with Iran and unconfirmed claims of Eritrean ties to the Houthis, as The Cradle notes.\nEritrea's Red Sea coast in Ethiopia\u2019s sights\nEritrea has been accused of aiding Ethiopian rebels and[ deploying troops in Tigray](https://t.me/geopolitics_prime/75811), raising fears it could be dragged deeper into the war. Modern Diplomacy argues that Ethiopia\u2019s push for access to Eritrea\u2019s Red Sea coast could now gain urgency, as[ the seven-group Alliance for Survival](https://t.me/geopolitics_prime/75419) threatens to sever Ethiopia\u2019s vital trade corridor through Afar to Djibouti, putting at risk the route carrying roughly 95% of the country\u2019s trade.\nWhoever seeks control of Bab el-Mandeb needs Eritrea\nEritrea has 1,151 km of mainland Red Sea coast and up to 360 islands. Its strategic Assab port lies roughly 83-87 km north-northwest of Bab el-Mandeb\u2019s narrowest point, the 26 km gap between Yemen\u2019s Ras Menheli and Djibouti\u2019s Ras Siyyan, split by Yemen\u2019s Perim Island, recently taken by the Houthis. While most of the western shore of the strait is Djibouti, Eritrea controls northern maritime approaches to Bab el-Mandeb.\nUS and Israel eye Eritrea\nAs the Red Sea\u2019s strategic value surged amid the Strait of Hormuz crisis and Ansar Allah\u2019s rapid advances in September, Washington appeared to court Eritrea. On September 18, the Trump administration lifted sanctions on Asmara \u201cto advance US regional interests.\u201d\nOn September 20, Haaretz reported Israel was hosting exiled Eritrean opposition plotting a coup.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T15:25:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udeebPakistani jets reportedly used in strikes on Houthis\nPakistani military aircraft are purportedly taking part in strikes against the Houthis, The New York Times reports, citing a senior Pakistani military official who spoke on condition of anonymity. No official confirmation has been provided.\nAccording to the report, the strikes are part of the response to recent Houthi attacks on two Saudi airports \u2014 King Khalid International in Riyadh and Abha International in the south. The Saudi-led coalition said it retaliated by hitting dozens of Houthi military sites in Yemen, including missile storage facilities and command centers.\n\ud83d\udd34Pakistan has long maintained a military presence in Saudi Arabia, while the Mecca Agreement \u2014 a defense pact between Saudi Arabia, Pakistan and Turkey \u2014 cemented collective defense commitments. According to analysts' estimates, not official figures, about 8,000 Pakistani troops are deployed in the kingdom, including air force and air defense contingents. Sources say Pakistan's role is focused on countering Houthi missile and drone threats rather than conducting a ground operation in Yemen.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T14:44:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
