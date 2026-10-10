@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:16:08.264840+00:00",
+  "generated_at": "2026-10-10T23:46:04.333358+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -211,6 +211,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2057\r\nIssue Time: 2026 Oct 10 2145 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 10 2145 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-10 21:45:58.723",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK07\r",
       "text": "Space Weather Message Code: ALTK07\r\nSerial Number: 220\r\nIssue Time: 2026 Oct 10 1927 UTC\r\n\r\nALERT: Geomagnetic K-index of 7 \nThreshold Reached: 2026 Oct 10 1926 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G3 - Strong\nComment: \r\n\r\nNOAA Scale: G3 - Strong",
       "source": "NOAA Space Weather",
@@ -287,33 +306,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK07\r",
-      "text": "Space Weather Message Code: WARK07\r\nSerial Number: 153\r\nIssue Time: 2026 Oct 10 1742 UTC\r\n\r\nWARNING: Geomagnetic K-index of 7 or greater expected \nValid From: 2026 Oct 10 1742 UTC\nValid To: 2026 Oct 10 2359 UTC\nWarning Conditions: Onset\nNoaa Scale: G3 - Greater\nComment: \r\n\r\nNOAA Scale: G3 - Greater",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-10 17:42:57.273",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Several injured in attack on airport in Saudi capital Riyadh",
-      "text": "Several injured in attack on airport in Saudi capital Riyadh\nThe US embassy says it is \"aware of attacks on King Khalid International Airport\", which come days after Yemen's Houthis said they had struck it.",
+      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
+      "text": "Twelve killed in attack on airport in Saudi capital Riyadh\nAnother 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-10T18:37:10+00:00",
+      "timestamp": "2026-10-10T22:40:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -340,6 +340,64 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Saudi Arabia\u2019s Civil Aviation Authority announces that 12 people were killed and 309 people were injured as a result of the Yemeni strike against King Khalid International Airport today\nAmong the dead are 4 Saudis, 2 Bangladeshis, and 1 American, Egyptian, Jordanian, Syrian, Palestinian & Sudanese.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T21:58:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: A Yemeni ballistic missile just directly impacted King Fahd International Airport in Dammam, eastern Saudi Arabia",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T21:03:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: The Yemeni ballistic missile strike on King Khalid International Airport in Riyadh today killed at least 12 people and injured more than 50 \u2013 New York Times",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T21:00:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -402,46 +460,47 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: U.S. intelligence indicates that Iran has succeeded in preserving most of its missile and drone production facilities, despite months of U.S.-Israeli bombing\nAccording to a senior U.S. military official familiar with the details, Iran remains well-equipped with ballistic missiles, drones and anti-ship weapons, and can quickly replenish its stockpile. \u2013 Israel Hayom",
+      "publisher": "Clash Report",
+      "text": "Iran has preserved much of its missile and drone production capacity despite eight months of U.S. and Israeli strikes, allowing it to replenish its arsenals, Western officials told Bloomberg.\nOfficials said Iran still holds substantial stocks of ballistic and anti-ship missiles, while Russia is also supplying missiles. \nThe White House rejected the assessment, insisting Iran\u2019s military production capabilities had been destroyed.\nSource: Bloomberg",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T14:09:47+00:00",
+      "timestamp": "2026-10-10T21:58:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: The U.S. has reportedly urged Israel in recent weeks to launch a unilateral strike against Iran, rather than carrying out a joint operation like in February\nWashington wanted Israel to bear the risk of further escalation in the Middle East ahead of the U.S. midterm elections, believing a strike could hurt Trump politically but benefit Netanyahu ahead of Israel\u2019s elections.\nIDF Chief of Staff Eyal Zamir warned U.S. officials that such an attack would force Israel to postpone its elections. Washington has reportedly dropped the demand for now.\nThe proposed strike was driven by intelligence indicating that Iran is rapidly rebuilding its drone and ballistic missile production capabilities despite months of U.S. and Israeli attacks. \u2013 Maariv",
+      "publisher": "Clash Report",
+      "text": "Saudi Arabia\u2019s General Authority of Civil Aviation (GACA) said the October 10 attack on King Khalid International Airport in Riyadh killed 12 people and injured 309 others, some critically.\nThe dead included four Saudis, two Bangladeshis, and nationals of the U.S., Egypt, Jordan, Syria, Palestine and Sudan.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T14:03:01+00:00",
+      "timestamp": "2026-10-10T21:56:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Our Wars Today",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83d\udee2 #Trump strikes deal with #Putin to import Russian diesel into the #UnitedStates and global markets due to skyrocketing fuel prices following his starting of the Iran War alongside #Israel. \nThe Trump administration has also now sanctioned the entire International Criminal Court to protect Netanyahu and Putin.\nSimultaneously supporting Russia's economy and #Ukraine's downfall, it is clear the Trump administration support's the genocide of Ukraine. Unsurprising since they have fully supported Israel's genocide of Palestine. With Russia and Israel and the United States increasingly establishing trade routes and partnerships, it is obvious the allies that Trump and his administration seek.\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83d\udee2 #Trump strikes deal with #Putin to import Russian diesel into the #UnitedStates and global markets due to skyrocketing fuel prices following his starting of the Iran War alongside #Israel. \nThe Trump administration has also now sanctioned the entire International Criminal Court to protect Netanyahu and Putin.\nSimultaneously backing Russia's economy and #Ukraine's downfall, it is clear the Trump administration is encouraging and funding the genocide of Ukraine. Unsurprising since they have fully supported Israel's genocide of Palestine. With Russia and Israel and the United States increasingly establishing trade routes and partnerships, it is obivous the allies that Trump and his administration seek.\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -460,50 +519,88 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea The coalition led by Saudi Arabia has accused the Yemeni rebel movement Ansar Allah (the Houthis) of strikes on King Khalid International Airport in the kingdom\u2019s capital and promised a decisive response.\n\u201cThe terrorist attack carried out by the Houthi forces on Saturday on one of the passenger terminals of King Khalid International Airport in Riyadh, which resulted in the deaths and injuries of civilians among passengers and airport staff, is classified as a full\u2011scale war crime under international humanitarian law,\u201d alliance\u2019s official spokesperson Turki al\u2011Maliki said.\n\u201cThe command of the coalition\u2019s Joint Forces will respond decisively to this terrorist act in accordance with international humanitarian law and its customary norms.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T23:45:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 At least 12 people have died and another 309 have been injured in an attack on Riyadh Airport, the government said.\nTwo terminals at King Khalid International Airport were hit by direct missile strikes, the Wall Street Journal reported.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T23:45:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 The Saudi-led coalition spokesperson announced that a ballistic missile launched by Yemen\u2019s Ansar Allah movement (the Houthis) was intercepted and destroyed in Al-Kharj Governorate, Saudi Arabia.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T22:26:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 A supertanker carrying oil exploded after hitting a naval mine while trying to leave the Strait of Hormuz via an unauthorized route, the Islamic Revolutionary Guard Corps said.\nThe vessel reportedly had its navigation and positioning systems turned off, and it is now engulfed in flames visible from the shore. The Islamic Revolutionary Guard Corps warned that tankers ignoring the strait's rules risk suffering the same fate.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T21:55:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 - 242 flights cancelled and 230 flights delayed at Riyadh International Airport. Reports of a direct impact after Ansarullah BMs targeted the airport once again.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-10T14:30:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah has released footage showing Shuwaz loitering drones striking Saudi military concentrations in Kahbub and Al-Wazi\u2019iyah on October 10.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T13:04:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 As reported by the Iranian newspaper \"Vatan Emrouz,\" a new generation of Shahed-136 drones was used in strikes on the headquarters of Kurdish groups in Erbil on Thursday.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T09:11:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,6 +785,65 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Houthis strike international airport in Dammam\nA Yemeni ballistic missile has directly impacted King Fahd International Airport in Dammam, eastern Saudi Arabia, according to reports.\nDammam is the capital of the Eastern Province and sits at the heart of Saudi Arabia's oil-producing region. King Fahd International Airport is one of the largest in the world by area and serves the kingdom's main petroleum hub.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T23:20:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Iran preserved most of its missile production capacity \u2014 report\nIran still holds substantial stocks of ballistic and anti-ship missiles, and retains the industrial capacity to rapidly replenish its arsenals, Bloomberg reported citing Western officials.\nThis assessment directly contradicts repeated claims from the White House that Iran's military production had been destroyed.\n\ud83d\udd34 Before the war, Israel estimated Iran had roughly 2,500 ballistic missiles\n\ud83d\udd34 Western intelligence from June assessed Iran had kept about 75% of its pre-war arsenal\n\ud83d\udd34 Since February 28, Iran has fired at least 2,000 ballistic missiles and over 4,000 Shahed drones, per Bloomberg Economics analysis\nOfficials now say Iran retains enough combat potential to retaliate if the US resumes operations \u2014 and could pivot further toward asymmetric warfare.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T22:31:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Yemeni missile strike on Riyadh airport kills at least 12 \u2014 report\nA ballistic missile strike on King Khalid International Airport in Riyadh has killed at least 12 people and injured more than 50, according to the New York Times.\nAmid a shortage of interceptors in Saudi Arabia, Houthi missiles are reaching the capital.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T21:39:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\udde8\ud83c\udde9\ud83e\ude96 Blackwater founder\u2019s Congo ambush exposes neo-colonial scramble for African resources - and Ukraine\u2019s role\nVectus Global, a mercenary group owned by Blackwater founder Erik Prince, was ambushed in the Democratic Republic of the Congo on September 17, leaving at least 20 people dead or wounded, including former US Green Beret and UFC contestant Tim Kennedy, Reuters has now revealed.\n\ud83d\udc49 Prince's mercenaries were initially hired to secure Congo\u2019s mineral taxes valued at around $3 billion a year but plundered amid an ongoing conflict with the Rwanda-backed M23 rebels. The five-year contract, signed in December 2024, was valued at between $200 and $700 million, according to different estimates. In January and February, his forces deployed to Uvira after a US-brokered deal for the rebels to withdraw, Reuters reports.\nPrince employs Ukrainian and Colombian drone pilots to hunt M23 rebels, The New York Times reports. The Blackwater founder had business interests in Ukraine as early as 2019 and recently launched Vectus Air Defense Systems with Ukrainian drone firm Swarmer. The new venture was also set to collaborate with other companies, including Powerus, a drone maker backed by President Donald Trump\u2019s sons, Donald Jr. and Eric, The Wall Street Journal wrote.\n\u203c\ufe0f In 2024, Prince called on the US to \u201cput the imperial hat back on\u201d in Africa, claiming Africans are \u201cincapable of governing themselves.\u201d The DRC, whose mineral wealth is estimated at $24 trillion, has long been a battleground for colonialists. Its first democratically elected prime minister, Patrice Lumumba, was assassinated and then dissolved in acid in a CIA-backed operation in 1961.\nRemarkably, Ukrainian mercenaries have also reinforced M23 in its fight against the DRC government, Russia\u2019s Foreign Ministry revealed in July. A September report by the Global Initiative Against Transnational Organized Crime found that M23 and the forces meant to contain it are part of the same criminal ecosystem, built around the illegal plundering of Congo\u2019s resources.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -713,44 +869,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-10T18:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\ud83c\uddee\ud83c\uddf7 Are Trump\u2019s Iran claims about \u2018taking out\u2019 US cities setting the stage for a false flag?\nDonald Trump has claimed Iran would likely have hit Los Angeles and San Diego if it had nuclear weapons, arguing the US had no choice but to attack the Islamic Republic because it was \u201ctwo weeks away\u201d from developing a bomb.\nThere is no evidence that Iran possesses nuclear weapons or the capability to deliver a nuclear warhead over the roughly 12,300 km to either Californian city:\n\ud83d\udd34 Iran has a religious fatwa in place prohibiting nuclear weapons\n\ud83d\udd34 Iran\u2019s Ghadr, Emad, Sejjil and Khorramshahr missiles have ranges of roughly 1,700\u20132,500 km and estimated 4,000 km for some variants\nThis is not the first time Trump has invoked Los Angeles and San Diego. On October 5, he claimed defeating Iran could come at a price for the US involving losing the two cities.\nIn response to criticism, Trump argued he actually meant that Americans should accept high gasoline prices as a small price to pay for preventing Iran from \"going nuclear\" \u2013 rather than risk paying a far greater price: losing the two cities.\nStill, Trump's choice of California may not be incidental.\n\ud83d\udc49 In March, the FBI warned police departments in California that Iran could launch drones at the US West Coast from an unidentified vessel off the US coastline to retaliate US strikes. At the time, the White House dismissed the claim, stressing that it was based on a single unverified tip.\nNonetheless, Israeli media amplified the threat, citing Michael Rubin, a fellow at the neoconservative American Enterprise Institute, who claimed Iran could launch a drone attack from a cargo ship in the Pacific or from Mexico using Latin American \u201cbad actors.\u201d\nSpeculation over the alleged Iranian drone strike threat led some independent analysts to warn of a possible US or Israeli false-flag operation to justify escalating attacks on Iran, potentially including a nuclear strike.\nTrump has not ruled out renewed bombing after the midterms and previously floated the idea of nuking Iran, while US analyst Brandon Weichert claims Israel could attack Iran before the US elections in November.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T17:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3\ud83c\uddef\ud83c\uddf5 China slams Japan for using AI to rewrite its wartime past\nJapanese right-wing forces are feeding distorted data into mainstream AI models to whitewash Japan's wartime aggression, China's Foreign Ministry has stated.\nAccording to the Ministry:\n\ud83d\udd34 Manipulated models now describe the Japanese aggressive start of the Second Sino-Japanese War as a \"clash\" between Japanese and Chinese troops, refer to the Nanjing Massacre as the \"Fall of Nanjing,\" and frame Japan's aggression in Southeast Asia as \"interest\" in the region's resources\n\ud83d\udd34 The Japanese government also aims to promote its AI system Gennai among Southeast Asian countries. The platform favors current government statements as source material and excludes archives that contradict the official agenda\n\ud83d\udd34 Pro-Japanese media also generate content aimed at shaping anti-China opinion. Media reported multiple scripts, including AI-made ones, designed to show the contrast between living conditions in Japan and the US and those in China\nExperts warn that such policy serves militarist goals and helps Japan ease military restraints as Japanese PM Takaichi seeks increased arms exports and [long-range missile deployments](https://t.me/geopolitics_prime/75356). \nEarlier,[ Japan already turned to Palantir](https://t.me/geopolitics_prime/73211) to integrate its systems into a military command system as another step on the country's militarization path. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T14:56:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
