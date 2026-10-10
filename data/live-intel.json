@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T05:37:28.705477+00:00",
+  "generated_at": "2026-10-10T11:23:45.558125+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -155,25 +155,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, October 5, 2026 through Saturday, October 10, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/05/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nEvansville, IN, Monday, October 5, 2026 through Saturday, October 10, 2026 Local\nFacility: ZID",
       "source": "FAA",
       "source_type": "official",
@@ -207,6 +188,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5430\r\nIssue Time: 2026 Oct 10 0538 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5429\nValid From: 2026 Oct 09 0128 UTC\nNow Valid Until: 2026 Oct 10 1500 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-10 05:38:26.220",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -276,25 +276,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-09 01:29:51.387",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1531\r\nIssue Time: 2026 Oct 08 1646 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Oct 08 1542 UTC\nEstimate Velocity: 4125 km/s\nComment: Corrected for begin time. Type II speed recorded by Sagamore Hill RSTN site.\nCORRECTED",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-08 16:46:44.923",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,6 +365,25 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Houthi missile attacks on Riyadh\u2019s airport, which killed three people and destroyed a passenger jet, are threatening Saudi Arabia\u2019s flagship Future Investment Initiative summit later this month.\nThe event is expected to attract thousands of international executives and investors, but flight disruptions and security concerns could discourage attendance.\nSaudi leaders do not plan to cancel the summit but are increasingly worried about the attacks\u2019 economic impact and dwindling missile interceptor supplies.\nSource: FT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T06:58:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83d\udee2 #Trump strikes deal with #Putin to import Russian diesel into the #UnitedStates and global markets due to skyrocketing fuel prices following his starting of the Iran War alongside #Israel. \nThe Trump administration has also now sanctioned the entire International Criminal Court to protect Netanyahu and Putin.\nSimultaneously supporting Russia's economy and #Ukraine's downfall, it is clear the Trump administration support's the genocide of Ukraine. Unsurprising since they have fully supported Israel's genocide of Palestine. With Russia and Israel and the United States increasingly establishing trade routes and partnerships, it is obvious the allies that Trump and his administration seek.\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
       "source": "Telegram",
@@ -398,6 +398,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 As reported by the Iranian newspaper \"Vatan Emrouz,\" a new generation of Shahed-136 drones was used in strikes on the headquarters of Kurdish groups in Erbil on Thursday.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T09:11:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -469,63 +488,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-09T18:36:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\u2014 I strongly condemn the repeated terrorist attacks by the Houthi militia against the Kingdom of Saudi Arabia, including the targeting of King Khalid International Airport in Riyadh and Abha International Airport, which resulted in loss of lives and injuries to civilians.\nI commend the vigilance and professionalism of the Saudi armed forces and the Coalition in intercepting multiple ballistic missiles and their tireless efforts to protect innocent lives and safeguard the Kingdom.\nPakistan stands in unwavering solidarity with the leadership and people of our brotherly Kingdom of Saudi Arabia.\n\u2014 Shehbaz Sharif, PM Pakistan \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T04:58:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf5\ud83c\uddf0\u26a1\ufe0f\u2014 Ansar Allah Warns Pakistan \nWe will show no mercy to your soldiers if they come to our country to commit aggression alongside the Saudis.\nBassam Al-Saqqaf is a prominent official aligned with the Ansar Allah in Yemen. \nHe serves as the Director of the Public Works and Roads Office in Yemen's Ibb Governorate, A Region under the Administrative Control of the Ansar Allah-led government.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T03:35:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e \u2014 Additional footage shows the moment Shahed-136 drones struck the headquarters of Iranian Kurdish opposition groups in Erbil Governorate, northern Iraq.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-08T19:52:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -616,6 +578,25 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "Russia launched 160 drones at Ukraine overnight, including 110 jet-powered Shaheds, according to the Air Force. Ukrainian defenses downed or suppressed 117 drones, including 82 jet-powered Shaheds. Impacts were recorded at 14 locations and debris fell at 10 more.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T07:07:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf1 [Emirates247](https://www.emirates247.com/uae/uae-attorney-general-announces-updates-on-investigation-into-the-flydubai-flight-fz1073-incident/6556): The UAE Attorney General has revealed that the Omani co-pilot involved in the attempted hijacking of Flydubai flight FZ1073 on September 30 had planned to crash the aircraft into the passenger terminal at Ben Gurion Airport, aiming to cause as many casualties as possible.\nThe 29-year-old suspect confessed that he had become radicalized while studying in Australia in 2017 and was inspired by the September 11 attacks. Investigators say his ambition to carry out a similar attack motivated him to pursue a career in aviation.\nThe suspect used two previous flights to Tel Aviv to familiarize himself with the route and Ben Gurion Airport before attempting to execute his plan during his third flight on September 30.\nDuring the flight, he attacked the captain with an emergency axe inside the cockpit. Another pilot aboard the aircraft, assisted by crew members and passengers, intervened and restrained him, allowing the aircraft to be diverted and safely landed in Tabuk, Saudi Arabia.\nThe UAE Attorney General said the suspect had passed Flydubai's employment and security checks, which failed to identify his extremist views. He confessed to acting alone, although investigators are continuing to examine possible accomplices or connections.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
@@ -691,77 +672,77 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Pakistan \ud83c\uddf5\ud83c\uddf0: Baloch Republican Guards (#BRG) carried out an attack against a Pakistani Army checkpoint in Nasirabad, #Balochistan.\nGroup used PKM machine gun with PKT profile barrel, Type 69 RPG Launcher with PG-7V rockets, AKM rifle with GP-25 grenade launcher and Type 56-1 rifles.\nhttps://x.com/war_noir/status/2108614881494610407",
+      "publisher": "Geopolitics Prime",
+      "text": "Who stands to gain from sabotaging Syria\u2019s energy ambitions?\nJust as Syria is promoting itself as a potential corridor for Iraqi oil and regional gas flows to the Mediterranean, a string of [suspicious attacks](https://t.me/geopolitics_prime/75415) has targeted its energy infrastructure.\n\ud83d\udd36 On Aug. 18, an explosion halted gas pumping from the Jbessa plant in Hasakah \n\ud83d\udd36 On Sept. 28, another blast struck the Jbessa line near Al-Shula, Deir Ezzor\n\ud83d\udd36 On Sept. 30, an explosion knocked the Tishreen, Deir Ali and Al-Nasiriyah power plants offline\nThe strikes coincide with Syria\u2019s push to expand the Arab Gas Pipeline - a newly inaugurated section at Al-Furqlus adds capacity toward 11 million cubic meters per day - and revive the [Kirkuk\u2013Baniyas](https://t.me/geopolitics_prime/73269) oil route.\n\u27a1\ufe0f such corridors could offer alternatives to the Strait of Hormuz, open direct path to European markets, lowering transit costs \n\u27a1\ufe0f the corridors would compete with Israeli gas exports from Leviathan, Tamar, and Karish\n\u27a1\ufe0f Israel, which has [increased brash incursions ](https://t.me/geopolitics_prime/75054)and [strikes on Syria](https://t.me/geopolitics_prime/74885) since the fall of Assad, stands to gain from a weaker Syrian state \n\u27a1\ufe0f ISIS remnants remain another possibility, given past infrastructure attacks\nThe strikes come as Syria under interim leader Ahmed Al-Sharaa slides deeper [into instability](https://t.me/geopolitics_prime/74728?single), gripped by armed clashes, targeted killings, and mounting protests over soaring fuel prices and living costs.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T04:48:01+00:00",
+      "timestamp": "2026-10-10T10:51:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Ethiopia \ud83c\uddea\ud83c\uddf9: Amhara FANO National Movement (AFNM) shot down a Drone launched by Ethiopian Army over Amhara Region.\nFANO fighters seemingly shot a \u201cYIHA-III\u201d a.k.a \u201cSivrisinek\u201d ('Mosquito') Kamikaze Drone which was very likely supplied by #Turkey \ud83c\uddf9\ud83c\uddf7.\nhttps://x.com/war_noir/status/2108590061398757503",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran war exposes limits of US Malacca Strait strategy against China\nFor nearly 25 years, US strategists viewed a blockade of China\u2019s seaborne oil imports as a potent weapon against Beijing. But China has turned the tables on Washington, writes Pulitzer Prize-winning journalist Andy Browne.\nWhat is the Malacca Dilemma?\nApproximately 75% to 80% of China\u2019s seaborne oil imports pass through the Strait of Malacca. Beijing has long viewed the route as a major strategic vulnerability \u2014 and with good reason: US war planners saw it as a means of crippling China\u2019s economy and coercing Beijing into submission.\nThe Iran war has upended that calculus:\n\ud83d\udd34 China has weathered the disruption to oil supplies through the Strait of Hormuz largely unscathed\n\ud83d\udd34 Oil stockpiles, overland pipelines, coal-to-chemicals technologies and green energy capabilities have strengthened China\u2019s strategic position\n\ud83d\udd34 US allies in the Asia-Pacific, including Japan and the Philippines, have been hit hard and continue to struggle\n ces rising gasoline and diesel prices, depleted strategic reserves and mounting inflation\n\ud83d\udd34 The image of American power-projection capabilities has been shattered\nUS experts now suggest that closing the Strait of Malacca could starve out American regional allies before it meaningfully affects China.\nChina\u2019s Belt and Road Initiative has become a \u201cdefensive maneuver,\u201d building alternative routes to circumvent an energy blockade while strengthening Eurasian connectivity, argues Browne.\nBut that\u2019s not all. The Iran war has also exposed the vulnerability of US bases, destroyers and aircraft carriers in the Asia-Pacific. Chinese hypersonic, cruise and ballistic missiles could strike them in much the same way Iranian missiles have hit US assets in the Middle East. China\u2019s missile stockpiles are massive.\nAsian players\u2019 speculation about monetizing the strait is now creating a Malacca Dilemma of its own for Washington.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T04:47:58+00:00",
+      "timestamp": "2026-10-10T08:06:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Myanmar \ud83c\uddf2\ud83c\uddf2: Foreign group \u201cAnti-Fascist Internonational Front\u201d and \u201cWITCH\u201d (Women's Unit) carried out drone strikes against Burmese soldiers in Ayeyarwady Region.\nAIF / WITCH fighters used COTS Drones with modified domestic MG-2 rifle grenades and Thermal Sights.\nhttps://x.com/war_noir/status/2108574985547546881",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 Ukraine's Sahel proxy gambit: Instructors train Al-Qaeda-linked Mali rebels\nThe training occurs in northern Mali, close to the Mauritanian border, reports Nigerian newspaper Vanguard \u2014 a claim that fits a pattern of earlier [Ukraine-linked support ](https://t.me/geopolitics_prime/69527)for Tuareg rebels.\nThe report references a source inside the Azawad Liberation Front (FLA) \u2014 a group closely linked to the terrorist organization JNIM, an al-Qaeda affiliate in the Sahel.\nUkrainians operate in the area alongside Tuareg rebels, fighters and personnel cross the border, and the drones used by the separatists originate from Ukraine, a diplomatic source added. The same source called Ukraine's 2024 embassy opening in Mauritania's Nouakchott a calculated move, noting that FLA leaders treat the country as a rear base.\nMali, Niger, and Burkina Faso \u2014 all of which have distanced themselves from former colonial power France and forged closer ties with Russia \u2014 have severed diplomatic ties with Ukraine, accusing it of supplying weapons to the FLA and backing armed groups operating across the Sahel.\n\ud83d\udd34 Malian Foreign Minister Abdoulaye Diop told the UN in September that Ukraine was providing \"clear and open support to terrorist groups\" to undermine Mali's territorial integrity\n\ud83d\udd34 Niger's Prime Minister Ali Lamine Zeine accused France and Ukraine of using proxies to attack military positions and oil facilities along Niger's northeastern border\nIn 2024, Tuareg rebels released footage of FPV kamikaze drone strikes on Russian Africa Corps convoys in Mali, [with reports ](https://t.me/geopolitics_prime/54345)linking the fiber-optic guidance technology to Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T04:47:54+00:00",
+      "timestamp": "2026-10-10T07:25:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Forces belonging to Blackwater founder and Trump ally Erik Prince suffered a major defeat in eastern Congo on September 17, when an ambush left around 20 people dead or wounded.\nAt least seven Congolese and a former New Zealand special forces soldier were killed. \nFormer UFC fighter and U.S. Green Beret Tim Kennedy was shot three times in the leg and is being treated at Walter Reed military hospital near Washington.\nThree sources said the sophistication of the attack suggested involvement by Rwandan forces backing M23 rebels. One source said the attackers may have tracked a surveillance drone to the team's location.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran's missile arsenal could include cold-launch systems\nCold launch systems essentially eject a missile from a launch container before the missile\u2019s motor ignites and it sets off towards the intended target.\nSpeculation and claims about Iran obtaining this technology have been circulating on social media since this summer and received new impetus in recent days.\nIran\u2019s critics, however, insist that these reports are mostly spread by Iran\u2019s supporters and lack independent verification \u2013 which is hardly surprising, given the Iranian military\u2019s obvious reluctance to provide its enemies with data on its actual capabilities.\nEarlier this week, Iranian Army spokesman Brigadier General Mohammad Akrami-Nia announced that[ Iran\u2019s drone and missile weaponry](https://t.me/geopolitics_prime/75820) has become more advanced since the beginning of the US-Israeli aggression.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T04:47:38+00:00",
+      "timestamp": "2026-10-10T06:02:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -812,63 +793,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-10T03:46:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran releases previously unseen footage of Shahed drone launches against US positions\nPreviously unreleased footage shows Shahed-136 and Shahed-238 drones being launched toward US military positions during Iran's Nasr 1 and Nasr 2 (Victory 1 and 2) operations, according to Tasnim News Agency.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T22:19:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Fires continue at Saudi Aramco facilities in Jeddah\nNew video captured overnight shows fires still burning at Aramco facilities in Jeddah after the site was directly targeted by Yemeni missiles.\nJeddah is the kingdom's second-largest city and a major Red Sea commercial hub.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T21:25:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcc9\ud83d\udee2 Oil prices dip a little amid Iran war speculation\nBrent crude futures decreased by about 1% to under $103 per barrel after Trump proclaimed that the US won\u2019t resume attacks on Iran before the midterms next month, Reuters reported.\nDuring the previous session, before Trump\u2019s announcement, Brent prices rose by about 4%.\nOil and fuel prices drastically increased after Iran shut down the Strait of Hormuz in response to US-Israeli aggression, with the subsequent blockade of Bab-el-Mandeb Strait by the Houthis further exacerbating the crisis.\nAs the US finds itself unable to either defeat Iran or reopen the Strait of Hormuz, the US government and members of the International Energy Agency try to mitigate the economic damage by [releasing fuel from strategic stocks](https://t.me/geopolitics_prime/75814). \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T18:20:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
