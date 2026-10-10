@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T23:56:18.649980+00:00",
+  "generated_at": "2026-10-10T05:37:28.705477+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -49,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/09/2026",
       "location": "ZHN HI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSYRACUSE, NY, Friday, October 9, 2026 through Friday, October 9, 2026 Local\nFacility: ZBW",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/08/2026",
-      "location": "ZBW NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -344,25 +325,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-      "text": "Three Saudi nationals killed in Houthi attacks on Riyadh airport\nThe missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-09T13:50:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 Cruise missiles from Iran towards the Strait of Hormuz",
@@ -417,25 +379,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A senior Ukrainian official says Kyiv will continue its long-range drone strikes on Russian energy facilities: \u201cWe will burn their refineries.\u201d\nSource: FT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T20:59:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -596,6 +539,63 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddfa The U.S State Department has approved a $300 Million dollar sale to the Australian Government for integration & support services for an undisclosed amount of Tomahawk cruise missiles.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T04:07:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddea\ud83c\uddec The U.S State Department has approved a $832 Million dollar order with the Egyptian Army for 2,020 Javelin fire-and-forget anti-tank & anti-fortification missiles & 200 Javelin launcher systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T04:06:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddea The U.S State Department has approved a $1.04 Billion dollar order from the UAE Armed Forces for 10,000 Advanced Precision Kill Weapon System (APKWS II) systems, which are derived from the 77mm Hydra rocket systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T04:04:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Reports indicate that an US spy drone was shot down over the city of Yazd in Iran.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -616,12 +616,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\u203c\ufe0f Following its return from a military operation against Iran, the USS Abraham Lincoln, a Nimitz-class aircraft carrier of the US Navy, has been sighted at the North Island Naval Air Station in California. The ship bears special markings that reflect the combat results of the carrier's strike group during Operation Epic Fury against Iran.\n\u2666\ufe0f The USS Abraham Lincoln's strike group includes the aircraft carrier itself and the USS Frank E. Petersen Jr., a guided-missile destroyer of the Arleigh Burke class.\n\u2666\ufe0f According to data displayed on the ship, the group destroyed 103 kamikaze drones, 34 surface vessels, and 10 submarines during the operation against Iran.\n\u2666\ufe0f Furthermore, the carrier's strike group launched 23 anti-ship missiles, and the aircraft wing stationed on the USS Abraham Lincoln used 1,463 units of aviation ammunition during combat operations.",
+      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf1 [Emirates247](https://www.emirates247.com/uae/uae-attorney-general-announces-updates-on-investigation-into-the-flydubai-flight-fz1073-incident/6556): The UAE Attorney General has revealed that the Omani co-pilot involved in the attempted hijacking of Flydubai flight FZ1073 on September 30 had planned to crash the aircraft into the passenger terminal at Ben Gurion Airport, aiming to cause as many casualties as possible.\nThe 29-year-old suspect confessed that he had become radicalized while studying in Australia in 2017 and was inspired by the September 11 attacks. Investigators say his ambition to carry out a similar attack motivated him to pursue a career in aviation.\nThe suspect used two previous flights to Tel Aviv to familiarize himself with the route and Ben Gurion Airport before attempting to execute his plan during his third flight on September 30.\nDuring the flight, he attacked the captain with an emergency axe inside the cockpit. Another pilot aboard the aircraft, assisted by crew members and passengers, intervened and restrained him, allowing the aircraft to be diverted and safely landed in Tabuk, Saudi Arabia.\nThe UAE Attorney General said the suspect had passed Flydubai's employment and security checks, which failed to identify his extremist views. He confessed to acting alone, although investigators are continuing to examine possible accomplices or connections.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T06:43:21+00:00",
+      "timestamp": "2026-10-10T04:53:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -635,12 +635,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\udde9\ud83c\uddea\ud83c\uddeb\ud83c\uddf7\ud83c\uddec\ud83c\udde7\u203c\ufe0f According to General Fabien Mandon, Chief of Staff of the French Armed Forces, Germany has decided to withdraw from the Franco-German program for the development of the next-generation main battle tank (MGCS). This decision represents another significant blow to defense cooperation between the two countries, especially after the joint Franco-German-Spanish program for the development of a sixth-generation fighter (FCAS) was also canceled four months ago.\n\u2666\ufe0f The MGCS project began in 2017 and aimed to replace tanks of the French Leclerc and German Leopard 2 types with a new generation of combat systems by approximately 2040-2045. However, the program has been hampered for years by disagreements over funding, technology development, and the division of work between French and German companies.\n\u2666\ufe0f According to General Mandon, Germany's withdrawal is a significant loss in industrial terms, but years of joint work have helped to shape the basic concept of the next-generation tank. He also noted that France still needs heavy armored vehicles and the development of new combat systems, including the use of artificial intelligence and unmanned technologies.\n\u2666\ufe0f At the same time, against the backdrop of problems in military cooperation between France and Germany, the United Kingdom is offering Berlin the opportunity for a new partnership in the defense sector. British Prime Minister Rishi Sunak announced after a meeting with German Chancellor Olaf Scholz in Berlin that London is ready to invite Germany to join the international program for the development of a sixth-generation fighter (GCAP), which the United Kingdom is implementing with Italy and Japan.\n\ud83d\udde3\ufe0f \"I told the Chancellor that the United Kingdom is open to Germany joining the GCAP program. This issue should be developed with our partners, Italy and Japan, in the coming period,\" Sunak said.\n\u2666\ufe0f The development of a new generation of combat aircraft within the GCAP framework is planned for 2035. The program involves British BAE Systems, Italian Leonardo, and Japanese Mitsubishi Heavy Industries. The future fighter will be equipped with advanced sensors and artificial intelligence systems, and is designed to operate in conjunction with unmanned combat platforms.\n\u2666\ufe0f Germany's possible participation could help to expand the program's funding and technological capabilities. However, the addition of a new partner will require agreement among the participating countries. The position of Japan is particularly important, as Tokyo is interested in ensuring that the development of the new fighter does not slow down and that the project is completed on schedule.\n\u2666\ufe0f At this stage, Germany has not yet made a decision about joining GCAP. Nevertheless, following the collapse of two major joint military programs with France, the rapprochement between Berlin and London could lead to significant changes in the European defense industry and the direction of development of next-generation military technologies.",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 At least six U.S. Air Force KC-135 Stratotankers have been spotted at Israel's Ben Gurion International Airport.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T06:42:07+00:00",
+      "timestamp": "2026-10-10T04:52:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -654,12 +654,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\u2600\ufe0f The Kurdistan Region\u2019s Counter\u2011Terrorism Directorate says two bomb\u2011laden drones attacked the Eastern Refugee Camp in Kawrgosk, in the Khabat district of Erbil province, at 10:19 p.m. on Thursday, 8 October. \nNo casualties were reported.\nFootage circulated by a local Khabat leader shows the aftermath of the Iranian drone strike.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ud83c\udde6\ud83c\uddea\ud83c\uddf8\ud83c\udde6 [Gulf News](https://gulfnews.com/business/aviation/flydubai-cancels-flights-to-three-saudi-cities-after-deadly-airport-attacks-1.500704534): Flydubai cancelled flights to Riyadh and Yanbu until October 10, while services to Abha will remain suspended until October 11.\nThe cancellations follow two attacks on Riyadh\u2019s King Khalid International Airport that killed three Saudi nationals and wounded several others. The Houthis claimed responsibility.\nFlydubai said it is coordinating with authorities and advised affected passengers to review their refund or rebooking options through its website.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T01:46:41+00:00",
+      "timestamp": "2026-10-10T04:52:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -673,12 +673,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\udde9\ud83c\uddea\ud83c\uddee\ud83c\uddf3 [Reuters](https://www.reuters.com/world/middle-east/lufthansa-air-india-suspend-flights-riyadh-after-houthi-attacks-2026-10-08/)\u2060: Lufthansa Group and three Indian airlines have suspended flights to Riyadh following renewed Houthi attacks and threats against Saudi aviation infrastructure.\nLufthansa will suspend services until October 16, while Air India and Akasa Air have cancelled flights until October 10, and IndiGo until October 9. An Air India flight from Delhi was forced to return to its departure airport.\nThe suspensions follow a Houthi-ballistic missile attack on Riyadh\u2019s King Khalid International Airport. Nearly 50% of scheduled departures from Riyadh were cancelled by Thursday afternoon, according to aviation data.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddf8\ud83c\uddfe The Lebanese army arrested a suspected smuggler after a clash in Arsal, seizing approximately 60 kg of hashish, 35 kg of Captagon, 22 kg of marijuana, a pistol and ammunition. No injuries were reported.\nIn Qasr\u2013Hermel, the army intercepted rocket shells and approximately 24 kg of TNT being smuggled from Syria into Lebanon.\nInvestigations are underway, with efforts continuing to arrest those involved in the explosives operation.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T01:45:23+00:00",
+      "timestamp": "2026-10-10T04:51:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -692,12 +692,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea For the first time in years, Saudi jets reportedly targeted a Houthi military camp in Yarim, Ibb Governorate, believed to contain a ballistic-missile launch platform. \nThe site was allegedly used to launch several recent attacks, including missiles targeting Aden International Airport and forces along Yemen\u2019s western coast.\n[\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "#Pakistan \ud83c\uddf5\ud83c\uddf0: Baloch Republican Guards (#BRG) carried out an attack against a Pakistani Army checkpoint in Nasirabad, #Balochistan.\nGroup used PKM machine gun with PKT profile barrel, Type 69 RPG Launcher with PG-7V rockets, AKM rifle with GP-25 grenade launcher and Type 56-1 rifles.\nhttps://x.com/war_noir/status/2108614881494610407",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T01:42:49+00:00",
+      "timestamp": "2026-10-10T04:48:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -705,6 +705,120 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "#Ethiopia \ud83c\uddea\ud83c\uddf9: Amhara FANO National Movement (AFNM) shot down a Drone launched by Ethiopian Army over Amhara Region.\nFANO fighters seemingly shot a \u201cYIHA-III\u201d a.k.a \u201cSivrisinek\u201d ('Mosquito') Kamikaze Drone which was very likely supplied by #Turkey \ud83c\uddf9\ud83c\uddf7.\nhttps://x.com/war_noir/status/2108590061398757503",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T04:47:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "#Myanmar \ud83c\uddf2\ud83c\uddf2: Foreign group \u201cAnti-Fascist Internonational Front\u201d and \u201cWITCH\u201d (Women's Unit) carried out drone strikes against Burmese soldiers in Ayeyarwady Region.\nAIF / WITCH fighters used COTS Drones with modified domestic MG-2 rifle grenades and Thermal Sights.\nhttps://x.com/war_noir/status/2108574985547546881",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T04:47:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Forces belonging to Blackwater founder and Trump ally Erik Prince suffered a major defeat in eastern Congo on September 17, when an ambush left around 20 people dead or wounded.\nAt least seven Congolese and a former New Zealand special forces soldier were killed. \nFormer UFC fighter and U.S. Green Beret Tim Kennedy was shot three times in the leg and is being treated at Walter Reed military hospital near Washington.\nThree sources said the sophistication of the attack suggested involvement by Rwandan forces backing M23 rebels. One source said the attackers may have tracked a surveillance drone to the team's location.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T04:47:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u2708\ufe0fUS military jets on the move fuel Iran strike speculation \nAmid reports that the Pentagon is preparing a three-day [bombing campaign against Iran](https://t.me/geopolitics_prime/75908), at least six US C-17A Globemaster III heavy transport aircraft are reportedly flying from American bases in Germany toward the Middle East, according to flight-tracking data circulating online.\nThe aircraft can carry troops, heavy equipment and military supplies - adding to questions over whether Trump is preparing to resume strikes on Iran.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T05:21:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udee2 Saudi Aramco claims to have restored full crude supplies to Europe after pipeline attack\nSaudi Aramco has told European refiners it will provide full allocations of crude in November after the kingdom's East-West pipeline resumed operations following attacks, Bloomberg reported.\nLast month, Aramco told European refiners they would be allocated no crude in October after the pipeline was hit.\nSaudi Arabia typically exports 700,000\u2013800,000 barrels per day to Europe. In the meantime, the vulnerability remains \u2014 just one Houthi missile could cause another critical disruption.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T04:38:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0a Trump threatens Iran's existence \u2014 then complains he hasn't won the Nobel Peace Prize\nThe president issued a stark ultimatum to Iran and, in the same breath, aired his grievance about international recognition.\n\"Either they give us everything or they don't exist any longer. They know that... Any one of these eight wars, you get the Nobel Prize. I did eight. No president's ever done any. I settled eight wars,\" he said.\nEveryday he threatens to erase Iran from the map \u2014 then asks why the Nobel committee hadn't called.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-10T03:46:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -755,25 +869,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-09T18:20:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3 Chinese military tests readiness in the face of US encroachment\nConducted in the Gobi Desert, China's latest military drills involved a live-fire exercise with a PLA rocket artillery unit.\nA reconnaissance drone located a target and relayed coordinates to the command section who then directed launchers to execute a strike.\nThe drill took place as the US moves to deploy NMESIS anti-ship missile launchers on Japanese soil only about 100 kilometers away from the island of Taiwan.\nThe US maintains a significant military presence in Japan, South Korea and the Philippines, and even sends personnel to Taiwan \u2013 it is small wonder that China wants to keep its troops sharp and ready to do battle at a moment\u2019s notice.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T15:36:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
