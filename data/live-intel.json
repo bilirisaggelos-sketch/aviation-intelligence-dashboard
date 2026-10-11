@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T16:47:27.050757+00:00",
+  "generated_at": "2026-10-11T20:52:12.344301+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1129\r\nIssue Time: 2026 Oct 11 1911 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 12: None (Below G1) Oct 13: G1 (Minor) Oct 14: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-11 19:11:07.000",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA30\r",
+      "text": "Space Weather Message Code: WATA30\r\nSerial Number: 286\r\nIssue Time: 2026 Oct 11 1702 UTC\r\n\r\nCANCEL WATCH: Geomagnetic Storm Category G2 Predicted \nCancel Serial Number: 285\nOriginal Issue Time: 2026 Oct 09 1636 UTC\nCancelled Level Predicted:\nOct 11 : None (Below G1) \nConditions no longer warrant a G2 Watch.\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-11 17:02:59.390",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5432\r\nIssue Time: 2026 Oct 11 0457 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5431\nValid From: 2026 Oct 09 0128 UTC\nNow Valid Until: 2026 Oct 11 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -192,46 +230,8 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK06\r",
-      "text": "Space Weather Message Code: ALTK06\r\nSerial Number: 728\r\nIssue Time: 2026 Oct 10 1837 UTC\r\n\r\nALERT: Geomagnetic K-index of 6 \nThreshold Reached: 2026 Oct 10 1837 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-10 18:37:46.130",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2056\r\nIssue Time: 2026 Oct 10 1818 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 10 1818 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-10 18:18:53.587",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Saudi capital airport hit by second strike in two days",
-      "text": "Saudi capital airport hit by second strike in two days\nYemen's Houthi rebels claimed responsibility for attacks on the airport over the weekend, which have killed at least 13.",
+      "title": "Saudi capital airport hit by second Houthi strike in two days",
+      "text": "Saudi capital airport hit by second Houthi strike in two days\nThe Yemeni group says it carried out attacks that killed 13 people in Riyadh over the weekend and targeted two airports and oil facilities.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
@@ -245,6 +245,65 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 Moment of the missile entering Terminal 3 departure hall",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T20:07:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia announces that Dammam Airport was struck by a ballistic missile for the second time in 24 hours",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T19:00:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2018Ali, launch the drone and start filming! They\u2019re about to hit a mine\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T18:55:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -318,101 +377,22 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemen is currently striking Riyadh, the capital of Saudi Arabia, with ballistic missiles",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T13:48:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Ongoing military exercises in Iran, including ballistic missiles, drones, and air defense systems",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T10:43:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: Ukrainian kamikaze drone caused a traffic accident, flew over a panicked anti-drone team, and then hit its target anyway.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T16:42:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "South Korea successfully tested its first homegrown hypersonic glide vehicle. \nThe boost-glide weapon launched from a barge off the west coast, separated from its booster, performed maneuvers at hypersonic speed (Mach 5+), and hit a maritime target. \nNo speed or range figures were released. \nThe test came days after North Korea\u2019s own claimed hypersonic missile launch and amid elevated tensions after a border landmine incident. \nFull operational deployment is still years away, this was a technology demonstrator, but it marks South Korea\u2019s entry into the hypersonic glide club.",
+      "text": "Saudi Arabia\u2019s General Authority of Civil Aviation (GACA) said King Fahd International Airport in Dammam was targeted in an attack on Sunday evening, October 11.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T16:30:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Saudi Arabia\u2019s General Authority of Civil Aviation (GACA) announced that King Khalid International Airport in Riyadh was targeted in another attack on Sunday afternoon, October 11.\nThe authority confirmed that the attack resulted in injuries and said damage assessments and safety inspections of airport facilities are underway in coordination with relevant authorities.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T16:21:52+00:00",
+      "timestamp": "2026-10-11T18:37:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -493,13 +473,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -513,13 +494,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -542,25 +522,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6The Houthis of Yemen\u2019s Ansar Allah rebel group have once again called on airlines to cancel flights to Saudi Arabia, declaring the country\u2019s airports targets for strikes, the movement\u2019s military spokesman Yahya Saria stated.\n\u201cWe once again warn all airlines, staff, and travelers that using Saudi airports and airspace is unacceptable, as they are targets for strikes and a theater of military operations for our units, with the exception of the airports in Mecca and Medina,\u201d the spokesman wrote on his Telegram channel. \nSaria urged people to \u201ctake the warnings seriously,\u201d adding that Riyadh would be held responsible for the consequences of failed attempts to intercept missiles and drones. He also emphasized that the rebels will continue to adhere to the principle of \u201cairport for airport, blockade for blockade, and escalation for escalation\u201d until their goals are achieved.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T11:45:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi military spokesman Yahya Saree announced four major operations over the past 24 hours involving ballistic and cruise missiles and drones against targets across Saudi Arabia.\nSaree said King Khalid International Airport in Riyadh was targeted in three phases, while separate strikes hit Aramco\u2019s Shugadam gas facility, the Tanajib oil facility in the Eastern Province and King Fahd International Airport in Dammam. He also claimed six ballistic missiles and two drones struck Saudi troop concentrations around Ras al-Ara and Al-Saqiya.\nThe Houthis said their operations inside Saudi Arabia will continue to escalate and renewed warnings to international airlines against using Saudi airports, excluding those serving Mecca and Medina.",
       "source": "Telegram",
@@ -571,13 +532,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -591,13 +553,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -798,85 +759,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-11T16:30:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf7\ud83d\udc41 The world's webcams have become a battlefield intelligence network\nHundreds of millions of internet-connected cameras, security systems, doorbells, traffic controls, and baby monitors have quietly become a global surveillance resource for intelligence agencies and military hackers, WSJ reports.\nCybersecurity consultants estimate the number of such devices worldwide at roughly 1.2 billion, and experts describe a vast \"soft underbelly\" created by 24/7 digital eyes.\nHacked cameras are already reshaping modern warfare:\n\ud83d\udfe5 Britain's GCHQ, with support from the US NSA, intercepted and stored still images from Yahoo users' webcams under the \"Optic Nerve\" program. In just one six-month period in 2008, it collected images from more than 1.8 million Yahoo accounts worldwide\n\ud83d\udfe5 In 2017, WikiLeaks published CIA documents describing methods for turning Samsung televisions into listening devices\n\ud83d\udfe5 Israel had been receiving video from Tehran's cameras to its servers for years, building detailed \"life models\" of Iranian officials and their security details. Data from the cameras helped carry out an airstrike that killed Iran's supreme leader, Ali Khamenei\n\ud83d\udfe5 Iranian-linked groups have broken into more than 250 sensitive Israeli cameras this year in retaliation, targeting license-plate readers and devices near strategic sites and military gathering points\nBeyond military use, hacked footage serves propaganda and psychological operations. Some groups use captured imagery to project intelligence superiority and taunt adversaries, turning ordinary devices into tools of information warfare.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T14:15:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\uddfe\ud83c\uddfe\ud83c\uddea Syrian forces in Yemen: sectarian flashpoint in the making\nDamascus insists[ it will not send 10-20k fighters](https://t.me/geopolitics_prime/75823) to Yemen to fight Ansar Allah on Saudi Arabia\u2019s behalf, calling reports to that effect \u201cfalse,\u201d and assuring that \u201cthere is currently no movement of [Syrian forces](https://t.me/geopolitics_prime/75882) toward Yemen.\u201d\nA Syrian diplomat told Reuters that \u201cany military cooperation or exchange of expertise\u2026would take place exclusively through official channels and within the framework of the bilateral agreements governing relations between our two brotherly countries.\u201d\nUnlike Turkey and Pakistan, Syria and Saudi Arabia do not have [any official mutual defense treaty obligations](https://t.me/geopolitics_prime/75480).\nNeither of those much larger and militarily more potent powers currently plan to send troops to Yemen. For Sharaa\u2019s Syria, doing so would be even more dangerous. That\u2019s because:\n\u27a1\ufe0f 70-80% of Syria\u2019s military potential, including its Navy, Air Force, and long-range ballistic and cruise capabilities, were [wiped out by Israel ](https://t.me/geopolitics_prime/73108)in the weeks following the Assad government\u2019s December 2024 disintegration\n\u27a1\ufe0f The Syrian Armed Forces\u2019 core, mobilizable, sustainable force numbers as few as 35-70k fighters (Carnegie Endowment), including tens of thousands of foreign jihadist fighters\n\u27a1\ufe0f Since 2024, these forces have been tasked mostly with internal policing and [harassment of minorities](https://t.me/geopolitics_prime/75682), not fighting battle-hardened mountain militias on their home turf\n\u27a1\ufe0f The Houthis were fighting [AQAP](https://t.me/geopolitics_prime/74031) \u2013 the Yemeni equivalent of Sharaa\u2019s Salafi jihadists, even before they seized power in 2014, and proved remarkably successful in driving them out of northern Yemen\n\ud83d\udfe5 Syrian involvement in Yemen risks serious domestic blowback: the Houthis have long-range missiles and drones that could reach Damascus, and Syria has few air defense capabilities after Israel systematically wiped them out\n\ud83d\udfe5 A troop deployment would risk deepening regional religious, nationalist and anti-imperialist divides \u2013 from Syrian Shia, Alawite, Druze and Christian communities taking advantage of a weakening of the central government\u2019s repressive organs, to crack Hezbollah fighters, Iraqi PMF militias or even Iran getting involved directly to force Syria to pull back from Yemen.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T12:12:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel expands air defense footprint in North Africa with Morocco deal\nThe two countries are holding \"advanced talks\" about integrating Israeli David's Sling system into Morocco's air defense architecture, ES&T reports.\nThe system is designed to intercept ballistic missiles and cruise missiles at ranges of 40 to 300 kilometers. Each interceptor missile costs around $1 million.\nMorocco already uses various Israeli-made weapon systems, including:\n\ud83d\udd34 Barak MX and Spyder air defense systems\n\ud83d\udd34 PULS rocket launchers\n\ud83d\udd34 ATMOS howitzers\nThe deal is part of expanding military-technical cooperation between [Morocco and Israel](https://t.me/geopolitics_prime/75897) following the normalization of relations under the Abraham Accords. Previously, only Finland had signed deal for the supply of this system. \nThe sale of the system, developed with US participation, will require American approval. However, given the deep integration of American systems into Morocco's defensive architecture, particularly Patriot systems and the expected delivery of F-16 Block 72 fighters, this is unlikely to pose an obstacle.\nNotably, Algeria, Morocco's main rival on the continent, has been closely cooperating on military-technical matters with Russia, which had the opportunity to study the David's Sling's combat use in Syria.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T10:50:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f\ud83c\uddfe\ud83c\uddeaHouthis warn of new strikes on Saudi airports amid ongoing air campaign\nSaudi airports and airspace could face further strikes, following Saturday's deadly attack on Riyadh's King Khalid International Airport, amid an ongoing Saudi air campaign against the group, Houthi military spokesman Yahya Saree stated.\nSaree urged the public to \"take our warning seriously\" and said Saudi Arabia would bear responsibility for any failed missile interceptions. Framing the group's position as a response to Saudi military operations, he pledged \"airport for airport, siege for siege, and escalation for escalation\" until its objectives are achieved.\nThe warning follows a major escalation in Saudi military operations, with the Saudi-led coalition reporting 82 airstrikes against Houthi positions across four Yemeni governorates \u2014 Saada, Al Hudaydah, Al Jawf, and Ma'rib.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T10:09:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
