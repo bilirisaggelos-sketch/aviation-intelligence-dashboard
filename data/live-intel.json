@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-11T11:33:07.936945+00:00",
+  "generated_at": "2026-10-11T16:47:27.050757+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLas Vegas, NV, Tuesday, October 13, 2026 Local\nFacility: ZLA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/11/2026",
+      "location": "ZLA NV",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nAnchorage, AK, Tuesday, October 13, 2026 through Tuesday, October 13, 2026 Local\nFacility: ZAN",
@@ -68,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/08/2026",
       "location": "ZDC NC",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 9, 2026 through Sunday, October 11, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/08/2026",
-      "location": "ZAB AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -230,14 +230,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
-      "text": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says\nEight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
+      "title": "Saudi capital airport hit by second strike in two days",
+      "text": "Saudi capital airport hit by second strike in two days\nYemen's Houthi rebels claimed responsibility for attacks on the airport over the weekend, which have killed at least 13.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-10T14:49:32+00:00",
+      "timestamp": "2026-10-11T16:41:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -247,6 +247,104 @@
         "BBC World News"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemen\u2019s Armed Forces warn for the 5th time that Saudi airspace and airports are no longer safe, with the exception of the holy cities Mecca and Medina, urging everyone to avoid air travel throughout the entire Kingdom",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T16:29:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia\u2019s General Civil Aviation Authority announces that the attack on King Khalid International Airport in Riyadh today resulted in \u2018injuries\u2019 and that a damage assessment is underway",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T16:24:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: A renewed ballistic missile attack targets Riyadh",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T15:56:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Terminal 4 of King Khalid International Airport, Riyadh, has been directly struck by a Yemeni cruise missile\nThere are dozens of casualties.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T15:12:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemen is currently striking Riyadh, the capital of Saudi Arabia, with ballistic missiles",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T13:48:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -270,127 +368,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran carried out missile tests",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T09:48:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia has decided to reopen Riyadh Airport despite Yemen\u2019s repeated warnings\nSo far, 15 civilians have been killed and more than 300+ have been injured due to the reckless actions of the Saudi government.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T02:07:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Saudi Arabia\u2019s Civil Aviation Authority announces that 12 people were killed and 309 people were injured as a result of the Yemeni strike against King Khalid International Airport today\nAmong the dead are 4 Saudis, 2 Bangladeshis, and 1 American, Egyptian, Jordanian, Syrian, Palestinian & Sudanese.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T21:58:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: A Yemeni ballistic missile just directly impacted King Fahd International Airport in Dammam, eastern Saudi Arabia",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T21:03:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: The Yemeni ballistic missile strike on King Khalid International Airport in Riyadh today killed at least 12 people and injured more than 50 \u2013 New York Times",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T21:00:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Dozens of Saudi-backed PLC fighters surrender to advancing Ansarallah forces in Yemen",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T17:19:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Western intelligence agencies have warned that Russia is stepping up assassination plots against European defense executives as part of a broader campaign of sabotage aimed at weakening support for Ukraine.\nOfficials from five European intelligence agencies said senior executives, particularly those involved in drone manufacturing, are being targeted by Russian operatives.\nRussia\u2019s GRU military intelligence agency is reportedly working more closely with organized crime groups and cross-border networks to plan attacks and monitor potential targets.\nSeveral defense companies have increased security for their executives, while others have relocated production sites over Russian threats.\nSource: FT",
+      "text": "WATCH: Ukrainian kamikaze drone caused a traffic accident, flew over a panicked anti-drone team, and then hit its target anyway.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T06:56:01+00:00",
+      "timestamp": "2026-10-11T16:42:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -404,22 +388,79 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukrainian drones struck a Yandex data center in Russia\u2019s Vladimir region, forcing it to shut down completely.\nThe attack was linked to major disruptions affecting more than 80 Yandex services, including music streaming, taxi services, AI tools, smart home systems and Yandex Cloud infrastructure.",
+      "text": "South Korea successfully tested its first homegrown hypersonic glide vehicle. \nThe boost-glide weapon launched from a barge off the west coast, separated from its booster, performed maneuvers at hypersonic speed (Mach 5+), and hit a maritime target. \nNo speed or range figures were released. \nThe test came days after North Korea\u2019s own claimed hypersonic missile launch and amid elevated tensions after a border landmine incident. \nFull operational deployment is still years away, this was a technology demonstrator, but it marks South Korea\u2019s entry into the hypersonic glide club.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T06:54:25+00:00",
+      "timestamp": "2026-10-11T16:30:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Saudi Arabia\u2019s General Authority of Civil Aviation (GACA) announced that King Khalid International Airport in Riyadh was targeted in another attack on Sunday afternoon, October 11.\nThe authority confirmed that the attack resulted in injuries and said damage assessments and safety inspections of airport facilities are underway in coordination with relevant authorities.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T16:21:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "Clash Report",
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "Truly? Our president cut a deal with an autocratic war criminal emulator of Peter the Great because he started a war with Iran for Israel and it caused fuel prices to sky rocket and so now he's trying to stem it elsewhere while also slipping a pinkie into the Kremlin? I'm shocked, let me tell you, simply flabbergasted...",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T14:30:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Ukraine steps up strikes on Russia\u2019s tech infrastructure, damaging third data center in 4 days](https://apnews.com/article/russia-ukraine-war-yandex-trump-zelenskyy-f621fa788196f204448e7f75fcc78c68)\nA Ukrainian drone attack shut down a data center run by Russian technology giant Yandex, the company said Sunday, the third strike on its facilities in four days as Kyiv widens its campaign against infrastructure inside Russia. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-yandex-trump-zelenskyy-f621fa788196f204448e7f75fcc78c68)\nThe Associated Press | apnews\u200b.com \u2022 Oct 11, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T14:11:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -443,202 +484,130 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "The Zolfaghar ballistic missile and its anti-ship variant, the Zolfaghar Basir, were displayed during a nighttime public gathering in Andisheh, Tehran Province.",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi military spokesman Yahya Saree announced four major operations over the past 24 hours involving ballistic and cruise missiles and drones against targets across Saudi Arabia.\nSaree said King Khalid International Airport in Riyadh was targeted in three phases, while separate strikes hit Aramco\u2019s Shugadam gas facility, the Tanajib oil facility in the Eastern Province and King Fahd International Airport in Dammam. He also claimed six ballistic missiles and two drones struck Saudi troop concentrations around Ras al-Ara and Al-Saqiya.\nThe Houthis said their operations inside Saudi Arabia will continue to escalate and renewed warnings to international airlines against using Saudi airports, excluding those serving Mecca and Medina.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T04:35:12+00:00",
+      "timestamp": "2026-10-11T16:02:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 The U.S. Central Command (CENTCOM) announced that a U.S. fighter jet struck the stern of the M/V Ocean Molica, disabling its propulsion system. According to CENTCOM, the vessel had departed an Iranian port and attempted to cross the blockade imposed by the United States on Iranian ports.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T00:20:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Coalition Forces Spokesperson announces the interception and destruction of a drone launched by Yemen\u2019s Ansar Allah (Houthi) movement, in Saudi Arabia\u2019s Eastern Province.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T00:11:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea The coalition led by Saudi Arabia has accused the Yemeni rebel movement Ansar Allah (the Houthis) of strikes on King Khalid International Airport in the kingdom\u2019s capital and promised a decisive response.\n\u201cThe terrorist attack carried out by the Houthi forces on Saturday on one of the passenger terminals of King Khalid International Airport in Riyadh, which resulted in the deaths and injuries of civilians among passengers and airport staff, is classified as a full\u2011scale war crime under international humanitarian law,\u201d alliance\u2019s official spokesperson Turki al\u2011Maliki said.\n\u201cThe command of the coalition\u2019s Joint Forces will respond decisively to this terrorist act in accordance with international humanitarian law and its customary norms.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T23:45:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 At least 12 people have died and another 309 have been injured in an attack on Riyadh Airport, the government said.\nTwo terminals at King Khalid International Airport were hit by direct missile strikes, the Wall Street Journal reported.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T23:45:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 The Saudi-led coalition spokesperson announced that a ballistic missile launched by Yemen\u2019s Ansar Allah movement (the Houthis) was intercepted and destroyed in Al-Kharj Governorate, Saudi Arabia.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T22:26:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 A supertanker carrying oil exploded after hitting a naval mine while trying to leave the Strait of Hormuz via an unauthorized route, the Islamic Revolutionary Guard Corps said.\nThe vessel reportedly had its navigation and positioning systems turned off, and it is now engulfed in flames visible from the shore. The Islamic Revolutionary Guard Corps warned that tankers ignoring the strait's rules risk suffering the same fate.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T21:55:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 Israeli Army Radio: 12 Hours of Searches in the Western Galilee. The Israeli army is still investigating the nature of the unidentified object detected last night on radar systems, around 8:00 PM, in the airspace over the Israeli border area. The search operations, both on the ground and in the air, are continuing. The incident has not yet been declared over, but there are no special instructions for the Home Front Command.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T06:23:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
+        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Saudi Civil Aviation Authority: 12 people killed in the attack targeting King Khalid International Airport in Riyadh\nSaudi Civil Aviation Authority: 309 people injured in the attack on King Khalid International Airport on Saturday afternoon\nNo one has adopted the attack yet..probably houthis but there are some talks about a UAE involvment",
+      "publisher": "Alsaa Plus EN",
+      "text": "Correction: The missile turned out to be a cruise missile, not a ballistic missile as initially reported",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T03:36:10+00:00",
+      "timestamp": "2026-10-11T15:33:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Reports of Yemeni ballistic missile strikes on terminal 4 in Riyadh international airport, with fires reportedly starting after the attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T14:50:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Wait they used anti air missiles to kill birds?\nAre birds part of Hamas?",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6The Houthis of Yemen\u2019s Ansar Allah rebel group have once again called on airlines to cancel flights to Saudi Arabia, declaring the country\u2019s airports targets for strikes, the movement\u2019s military spokesman Yahya Saria stated.\n\u201cWe once again warn all airlines, staff, and travelers that using Saudi airports and airspace is unacceptable, as they are targets for strikes and a theater of military operations for our units, with the exception of the airports in Mecca and Medina,\u201d the spokesman wrote on his Telegram channel. \nSaria urged people to \u201ctake the warnings seriously,\u201d adding that Riyadh would be held responsible for the consequences of failed attempts to intercept missiles and drones. He also emphasized that the rebels will continue to adhere to the principle of \u201cairport for airport, blockade for blockade, and escalation for escalation\u201d until their goals are achieved.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T18:00:09+00:00",
+      "timestamp": "2026-10-11T11:45:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83e\udd86Israeli media : The activation of the sirens was due to a false detection of a flock of birds, which prompted the air defenses to launch an interceptor missile at them, and an explosion was heard.",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi military spokesman Yahya Saree announced four major operations over the past 24 hours involving ballistic and cruise missiles and drones against targets across Saudi Arabia.\nSaree said King Khalid International Airport in Riyadh was targeted in three phases, while separate strikes hit Aramco\u2019s Shugadam gas facility, the Tanajib oil facility in the Eastern Province and King Fahd International Airport in Dammam. He also claimed six ballistic missiles and two drones struck Saudi troop concentrations around Ras al-Ara and Al-Saqiya.\nThe Houthis said their operations inside Saudi Arabia will continue to escalate and renewed warnings to international airlines against using Saudi airports, excluding those serving Mecca and Medina.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T17:23:12+00:00",
+      "timestamp": "2026-10-11T16:02:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemen is currently striking Riyadh, the capital of Saudi Arabia, with ballistic missiles",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T14:01:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 A citizen from the town of Yater was martyred after an israeli drone targeted him while he was inspecting his land and the olive harvest there, making him the second civilian killed today for the simple crime of harvesting olives",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T13:34:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -813,11 +782,69 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6Houthis claim three strikes on Riyadh airport\nYemen's Ansar Allah says it attacked King Khalid International Airport in Riyadh three times since Friday, disrupting air traffic and forcing the airport to shut down completely.\nHouthi military spokesman Yahya Saree said the group carried out four military operations over the past 24 hours, using ballistic missiles, cruise missiles, and drones.\nThe strikes were conducted in three stages, according to Saree, who announced the operations on Al Masirah television.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T16:30:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf7\ud83d\udc41 The world's webcams have become a battlefield intelligence network\nHundreds of millions of internet-connected cameras, security systems, doorbells, traffic controls, and baby monitors have quietly become a global surveillance resource for intelligence agencies and military hackers, WSJ reports.\nCybersecurity consultants estimate the number of such devices worldwide at roughly 1.2 billion, and experts describe a vast \"soft underbelly\" created by 24/7 digital eyes.\nHacked cameras are already reshaping modern warfare:\n\ud83d\udfe5 Britain's GCHQ, with support from the US NSA, intercepted and stored still images from Yahoo users' webcams under the \"Optic Nerve\" program. In just one six-month period in 2008, it collected images from more than 1.8 million Yahoo accounts worldwide\n\ud83d\udfe5 In 2017, WikiLeaks published CIA documents describing methods for turning Samsung televisions into listening devices\n\ud83d\udfe5 Israel had been receiving video from Tehran's cameras to its servers for years, building detailed \"life models\" of Iranian officials and their security details. Data from the cameras helped carry out an airstrike that killed Iran's supreme leader, Ali Khamenei\n\ud83d\udfe5 Iranian-linked groups have broken into more than 250 sensitive Israeli cameras this year in retaliation, targeting license-plate readers and devices near strategic sites and military gathering points\nBeyond military use, hacked footage serves propaganda and psychological operations. Some groups use captured imagery to project intelligence superiority and taunt adversaries, turning ordinary devices into tools of information warfare.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T14:15:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\uddfe\ud83c\uddfe\ud83c\uddea Syrian forces in Yemen: sectarian flashpoint in the making\nDamascus insists[ it will not send 10-20k fighters](https://t.me/geopolitics_prime/75823) to Yemen to fight Ansar Allah on Saudi Arabia\u2019s behalf, calling reports to that effect \u201cfalse,\u201d and assuring that \u201cthere is currently no movement of [Syrian forces](https://t.me/geopolitics_prime/75882) toward Yemen.\u201d\nA Syrian diplomat told Reuters that \u201cany military cooperation or exchange of expertise\u2026would take place exclusively through official channels and within the framework of the bilateral agreements governing relations between our two brotherly countries.\u201d\nUnlike Turkey and Pakistan, Syria and Saudi Arabia do not have [any official mutual defense treaty obligations](https://t.me/geopolitics_prime/75480).\nNeither of those much larger and militarily more potent powers currently plan to send troops to Yemen. For Sharaa\u2019s Syria, doing so would be even more dangerous. That\u2019s because:\n\u27a1\ufe0f 70-80% of Syria\u2019s military potential, including its Navy, Air Force, and long-range ballistic and cruise capabilities, were [wiped out by Israel ](https://t.me/geopolitics_prime/73108)in the weeks following the Assad government\u2019s December 2024 disintegration\n\u27a1\ufe0f The Syrian Armed Forces\u2019 core, mobilizable, sustainable force numbers as few as 35-70k fighters (Carnegie Endowment), including tens of thousands of foreign jihadist fighters\n\u27a1\ufe0f Since 2024, these forces have been tasked mostly with internal policing and [harassment of minorities](https://t.me/geopolitics_prime/75682), not fighting battle-hardened mountain militias on their home turf\n\u27a1\ufe0f The Houthis were fighting [AQAP](https://t.me/geopolitics_prime/74031) \u2013 the Yemeni equivalent of Sharaa\u2019s Salafi jihadists, even before they seized power in 2014, and proved remarkably successful in driving them out of northern Yemen\n\ud83d\udfe5 Syrian involvement in Yemen risks serious domestic blowback: the Houthis have long-range missiles and drones that could reach Damascus, and Syria has few air defense capabilities after Israel systematically wiped them out\n\ud83d\udfe5 A troop deployment would risk deepening regional religious, nationalist and anti-imperialist divides \u2013 from Syrian Shia, Alawite, Druze and Christian communities taking advantage of a weakening of the central government\u2019s repressive organs, to crack Hezbollah fighters, Iraqi PMF militias or even Iran getting involved directly to force Syria to pull back from Yemen.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T12:12:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
@@ -850,101 +877,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-11T10:09:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3\ud83c\uddf1\ud83c\udde6Satellite imagery hints at Chinese air expansion in Laos\nA recently launched joint aviation training center in Ban Keun, [Laos,](https://t.me/geopolitics_prime/75905) probably hosts a contingent twice as large as was intended before, footage analyzed by SCMP reveals.\n\u27a1\ufe0f While the Lao People's Liberation Army Air Force has only four K-8 Chinese-made trainer aircraft, eight were seen on the runway\n\u27a1\ufe0f This potentially hints at the presence of China's aircraft, which conduct joint drills with the Lao Air Force\nChina's presence at this base allows the country to shield its major logistics routes in the region, including the Belt and Road Initiative, while strengthening defense ties with Laos and expanding its military footprint in Southeast Asia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T09:28:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 US Army's AI warfare ambitions crumble in desert training \nAs rumors speculate about a potential resumption of US-Iran hostilities, a recent WSJ report depicts hard-hitting results from the latest major US military training meant to demonstrate its battle readiness.\nThe US Army staged a major exercise at Fort Irwin in July to demonstrate what it calls an AI-enabled battlefield, bringing 9,700 soldiers to the Mojave Desert for a mock fight against a unit standing in for China's army.\nHowever, some of the equipment meant to represent the future of warfare failed when it mattered most.\n\u27a1\ufe0f Drones from Anduril and Theiss UAV Solutions either landed because of overheating or took ten minutes to get airborne, while spending only half their maximum flight time in the air to conserve battery\n\u27a1\ufe0f Wind gusts threw drones off course, and signals were lost behind the mountains\n\u27a1\ufe0f The augmented-reality headsets, on which three companies hold contracts worth more than $100 million each, showed deficiencies, and the army is uncertain whether it will move forward with them\nAs a result, the exercises mostly boiled down to training soldiers to clear buildings \u2014 a picture of outdated warfare and hardly what the American command expected to see.\nThe structural problems run deep\n\ud83d\udd34 Congressional probes and government oversight reports have found the army [wasted billions](https://t.me/geopolitics_prime/70744) on fumbled weapons programs, inadequate training, and failures in cybersecurity[.](https://t.me/geopolitics_prime/70744) New tech from startups, most of which has never been tested in war, has proven too fragile for real-world conditions\n\ud83d\udd34 Ousted Army Secretary[ Dan Driscoll ](https://t.me/geopolitics_prime/73962)described the current US Army as a \"calcified bureaucracy,\" where the military cannot keep up with the pace of technological development\nThe last major transformation inside the Pentagon came in the 1980s, when the service pivoted from Vietnam and built the force it would use in the Gulf War. If the US military struggles to implement the newest technologies in ideal test conditions, what happens when it faces an adversary that has already mastered mass drone warfare? Iran offers a preview. Over the past year, Iranian drone and missile strikes have successfully targeted US bases across the Middle East \u2014 in Jordan, Kuwait, Bahrain, Iraq, and the UAE \u2014 forcing the Pentagon to [withdraw forces from several of them. ](https://t.me/geopolitics_prime/75357)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T06:44:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Hormuz a \u2018dragon wrapped around the neck of America and its allies\u2019 - Iraqi resistance group\nUS actions backfired, and now Iran\u2019s grip on the Strait of Hormuz is strangling the US and its allies, Abdul Qader al-Karbalaei, the military deputy of the Harakat Hezbollah al-Nujaba movement in Iraq, noted in a post on X.\nHe added that:\n\ud83d\udd34 The US \u201cbesieged itself,\u201d and now the price of 30 liters of gasoline has reached $90, while in Iran, the price is only $7\n\ud83d\udd34 countries that stayed out of the war and blockade against Iran have secured transit privileges through Hormuz and escaped the resulting global crises\n\ud83d\udd34 Iraq should have followed these countries\u2019 example\nThe IRGC Navy Command warned earlier that action against vessels using unauthorized routes would no longer be confined to the Strait of Hormuz, adding that violators would[ be pursued across the entire region.](https://t.me/geopolitics_prime/75904)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T06:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 Ukraine's aircraft are becoming casualties of its own arsenal\nSeveral military jets were lost because of outdated weapons they carry, Ukrainian side says.\nDue to a severe shortage of ammunition, including modern air-to-air missiles, the Ukraine is forced to use Soviet-era R-60 missiles, which are 30 to 50 years old. \nThis has led to a growing number of cases in which they malfunction and explode, destroying the aircraft.\nAt the same time, the Ukrainian military acknowledges that it has no alternative \u2014 the R-60s are the only air-to-air missiles available in sufficient quantities.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T05:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Saudi-led coalition vows firm response to Houthi attack on Riyadh airport\nThe coalition says it will respond to the October 10 missile strike on King Khalid International Airport, which the coalition considers a war crime.\nThe attack killed 12 people and injured 309, per the Saudi Civil Aviation Authority.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T02:11:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
