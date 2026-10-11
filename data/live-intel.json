@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T05:21:00.089827+00:00",
+  "generated_at": "2026-10-11T11:33:07.936945+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -87,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/08/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nINDIO, CA, Saturday, October 10, 2026 through Sunday, October 11, 2026 Local\nFacility: ZLA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/08/2026",
-      "location": "ZLA CA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -249,25 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-      "text": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh\nSaudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-11T03:57:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says",
       "text": "Drone strike by Sudan paramilitary kills 41 near Ethiopian border, rights group says\nEight children are said to be among those killed by the strike, which hit a gathering of displaced people.",
       "source": "BBC",
@@ -283,6 +245,45 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Ongoing military exercises in Iran, including ballistic missiles, drones, and air defense systems",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T10:43:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran carried out missile tests",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T09:48:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -336,13 +337,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -384,71 +384,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: Yemeni ballistic missiles towards Riyadh while evacuation efforts at King Khalid International Airport are still underway",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T15:23:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddfa\ud83c\udde6\u274c\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian drones struck the Samara oil pumping station in Russia's Samara region overnight, setting it ablaze.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T15:07:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran has preserved much of its missile and drone production capacity despite eight months of U.S. and Israeli strikes, allowing it to replenish its arsenals, Western officials told Bloomberg.\nOfficials said Iran still holds substantial stocks of ballistic and anti-ship missiles, while Russia is also supplying missiles. \nThe White House rejected the assessment, insisting Iran\u2019s military production capabilities had been destroyed.\nSource: Bloomberg",
+      "text": "Western intelligence agencies have warned that Russia is stepping up assassination plots against European defense executives as part of a broader campaign of sabotage aimed at weakening support for Ukraine.\nOfficials from five European intelligence agencies said senior executives, particularly those involved in drone manufacturing, are being targeted by Russian operatives.\nRussia\u2019s GRU military intelligence agency is reportedly working more closely with organized crime groups and cross-border networks to plan attacks and monitor potential targets.\nSeveral defense companies have increased security for their executives, while others have relocated production sites over Russian threats.\nSource: FT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T21:58:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Saudi Arabia\u2019s General Authority of Civil Aviation (GACA) said the October 10 attack on King Khalid International Airport in Riyadh killed 12 people and injured 309 others, some critically.\nThe dead included four Saudis, two Bangladeshis, and nationals of the U.S., Egypt, Jordan, Syria, Palestine and Sudan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T21:56:50+00:00",
+      "timestamp": "2026-10-11T06:56:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -458,6 +400,26 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones struck a Yandex data center in Russia\u2019s Vladimir region, forcing it to shut down completely.\nThe attack was linked to major disruptions affecting more than 80 Yandex services, including music streaming, taxi services, AI tools, smart home systems and Yandex Cloud infrastructure.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T06:54:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -614,6 +576,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 Israeli Army Radio: 12 Hours of Searches in the Western Galilee. The Israeli army is still investigating the nature of the unidentified object detected last night on radar systems, around 8:00 PM, in the airspace over the Israeli border area. The search operations, both on the ground and in the air, are continuing. The incident has not yet been declared over, but there are no special instructions for the Home Front Command.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T06:23:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Saudi Civil Aviation Authority: 12 people killed in the attack targeting King Khalid International Airport in Riyadh\nSaudi Civil Aviation Authority: 309 people injured in the attack on King Khalid International Airport on Saturday afternoon\nNo one has adopted the attack yet..probably houthis but there are some talks about a UAE involvment",
       "source": "Telegram",
       "source_type": "telegram",
@@ -670,20 +651,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea A missile attack against Riyadh International Airport. Direct hit on Terminal 3. The entire airport has been evacuated. Airspace around the airport has been cleared. It is a mass casualty event.",
+      "publisher": "CASELS",
+      "text": "Russia launched 116 drones at Ukraine overnight, including 95 jet-powered Shaheds, the Air Force says. As of 08:30, Ukrainian defenses had downed or suppressed 94 drones, including 74 jet-powered Shaheds. Ten drones struck seven locations, with debris reported at nine others.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T15:22:49+00:00",
+      "timestamp": "2026-10-11T06:32:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a0\ufe0f Confirmed: Metrics show a second collapse in the networks of Russian tech giant Yandex after a new Ukrainian drone attack on data centers in Vladimir this morning. The campaign comes not long after Russia's threat to give Ukraine a \"digital detox.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T06:04:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The State Department updated its Saudi Arabia travel advisory, retaining Level 3 (\u2018Reconsider Travel\u2019). U.S. government employees need special authorization to use Riyadh\u2019s King Khalid International Airport amid missile and drone threat.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T06:04:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -794,60 +813,23 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Clash Report"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Widespread outages reported across Yandex Cloud services following reported drone strikes targeting Yandex data center infrastructure. Key developer tools, databases, and platform components show widespread system unavailability.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T04:09:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Saudi-led coalition vows firm response to Houthi attack on Riyadh airport\nThe coalition says it will respond to the October 10 missile strike on King Khalid International Airport, which the coalition considers a war crime.\nThe attack killed 12 people and injured 309, per the Saudi Civil Aviation Authority.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel expands air defense footprint in North Africa with Morocco deal\nThe two countries are holding \"advanced talks\" about integrating Israeli David's Sling system into Morocco's air defense architecture, ES&T reports.\nThe system is designed to intercept ballistic missiles and cruise missiles at ranges of 40 to 300 kilometers. Each interceptor missile costs around $1 million.\nMorocco already uses various Israeli-made weapon systems, including:\n\ud83d\udd34 Barak MX and Spyder air defense systems\n\ud83d\udd34 PULS rocket launchers\n\ud83d\udd34 ATMOS howitzers\nThe deal is part of expanding military-technical cooperation between [Morocco and Israel](https://t.me/geopolitics_prime/75897) following the normalization of relations under the Abraham Accords. Previously, only Finland had signed deal for the supply of this system. \nThe sale of the system, developed with US participation, will require American approval. However, given the deep integration of American systems into Morocco's defensive architecture, particularly Patriot systems and the expected delivery of F-16 Block 72 fighters, this is unlikely to pose an obstacle.\nNotably, Algeria, Morocco's main rival on the continent, has been closely cooperating on military-technical matters with Russia, which had the opportunity to study the David's Sling's combat use in Syria.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T02:11:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Houthis strike international airport in Dammam\nA Yemeni ballistic missile has directly impacted King Fahd International Airport in Dammam, eastern Saudi Arabia, according to reports.\nDammam is the capital of the Eastern Province and sits at the heart of Saudi Arabia's oil-producing region. King Fahd International Airport is one of the largest in the world by area and serves the kingdom's main petroleum hub.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T23:20:12+00:00",
+      "timestamp": "2026-10-11T10:50:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -862,32 +844,107 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Iran preserved most of its missile production capacity \u2014 report\nIran still holds substantial stocks of ballistic and anti-ship missiles, and retains the industrial capacity to rapidly replenish its arsenals, Bloomberg reported citing Western officials.\nThis assessment directly contradicts repeated claims from the White House that Iran's military production had been destroyed.\n\ud83d\udd34 Before the war, Israel estimated Iran had roughly 2,500 ballistic missiles\n\ud83d\udd34 Western intelligence from June assessed Iran had kept about 75% of its pre-war arsenal\n\ud83d\udd34 Since February 28, Iran has fired at least 2,000 ballistic missiles and over 4,000 Shahed drones, per Bloomberg Economics analysis\nOfficials now say Iran retains enough combat potential to retaliate if the US resumes operations \u2014 and could pivot further toward asymmetric warfare.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2694\ufe0f\ud83c\uddfe\ud83c\uddeaHouthis warn of new strikes on Saudi airports amid ongoing air campaign\nSaudi airports and airspace could face further strikes, following Saturday's deadly attack on Riyadh's King Khalid International Airport, amid an ongoing Saudi air campaign against the group, Houthi military spokesman Yahya Saree stated.\nSaree urged the public to \"take our warning seriously\" and said Saudi Arabia would bear responsibility for any failed missile interceptions. Framing the group's position as a response to Saudi military operations, he pledged \"airport for airport, siege for siege, and escalation for escalation\" until its objectives are achieved.\nThe warning follows a major escalation in Saudi military operations, with the Saudi-led coalition reporting 82 airstrikes against Houthi positions across four Yemeni governorates \u2014 Saada, Al Hudaydah, Al Jawf, and Ma'rib.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T22:31:01+00:00",
+      "timestamp": "2026-10-11T10:09:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Yemeni missile strike on Riyadh airport kills at least 12 \u2014 report\nA ballistic missile strike on King Khalid International Airport in Riyadh has killed at least 12 people and injured more than 50, according to the New York Times.\nAmid a shortage of interceptors in Saudi Arabia, Houthi missiles are reaching the capital.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udde8\ud83c\uddf3\ud83c\uddf1\ud83c\udde6Satellite imagery hints at Chinese air expansion in Laos\nA recently launched joint aviation training center in Ban Keun, [Laos,](https://t.me/geopolitics_prime/75905) probably hosts a contingent twice as large as was intended before, footage analyzed by SCMP reveals.\n\u27a1\ufe0f While the Lao People's Liberation Army Air Force has only four K-8 Chinese-made trainer aircraft, eight were seen on the runway\n\u27a1\ufe0f This potentially hints at the presence of China's aircraft, which conduct joint drills with the Lao Air Force\nChina's presence at this base allows the country to shield its major logistics routes in the region, including the Belt and Road Initiative, while strengthening defense ties with Laos and expanding its military footprint in Southeast Asia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T21:39:01+00:00",
+      "timestamp": "2026-10-11T09:28:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 US Army's AI warfare ambitions crumble in desert training \nAs rumors speculate about a potential resumption of US-Iran hostilities, a recent WSJ report depicts hard-hitting results from the latest major US military training meant to demonstrate its battle readiness.\nThe US Army staged a major exercise at Fort Irwin in July to demonstrate what it calls an AI-enabled battlefield, bringing 9,700 soldiers to the Mojave Desert for a mock fight against a unit standing in for China's army.\nHowever, some of the equipment meant to represent the future of warfare failed when it mattered most.\n\u27a1\ufe0f Drones from Anduril and Theiss UAV Solutions either landed because of overheating or took ten minutes to get airborne, while spending only half their maximum flight time in the air to conserve battery\n\u27a1\ufe0f Wind gusts threw drones off course, and signals were lost behind the mountains\n\u27a1\ufe0f The augmented-reality headsets, on which three companies hold contracts worth more than $100 million each, showed deficiencies, and the army is uncertain whether it will move forward with them\nAs a result, the exercises mostly boiled down to training soldiers to clear buildings \u2014 a picture of outdated warfare and hardly what the American command expected to see.\nThe structural problems run deep\n\ud83d\udd34 Congressional probes and government oversight reports have found the army [wasted billions](https://t.me/geopolitics_prime/70744) on fumbled weapons programs, inadequate training, and failures in cybersecurity[.](https://t.me/geopolitics_prime/70744) New tech from startups, most of which has never been tested in war, has proven too fragile for real-world conditions\n\ud83d\udd34 Ousted Army Secretary[ Dan Driscoll ](https://t.me/geopolitics_prime/73962)described the current US Army as a \"calcified bureaucracy,\" where the military cannot keep up with the pace of technological development\nThe last major transformation inside the Pentagon came in the 1980s, when the service pivoted from Vietnam and built the force it would use in the Gulf War. If the US military struggles to implement the newest technologies in ideal test conditions, what happens when it faces an adversary that has already mastered mass drone warfare? Iran offers a preview. Over the past year, Iranian drone and missile strikes have successfully targeted US bases across the Middle East \u2014 in Jordan, Kuwait, Bahrain, Iraq, and the UAE \u2014 forcing the Pentagon to [withdraw forces from several of them. ](https://t.me/geopolitics_prime/75357)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T06:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Hormuz a \u2018dragon wrapped around the neck of America and its allies\u2019 - Iraqi resistance group\nUS actions backfired, and now Iran\u2019s grip on the Strait of Hormuz is strangling the US and its allies, Abdul Qader al-Karbalaei, the military deputy of the Harakat Hezbollah al-Nujaba movement in Iraq, noted in a post on X.\nHe added that:\n\ud83d\udd34 The US \u201cbesieged itself,\u201d and now the price of 30 liters of gasoline has reached $90, while in Iran, the price is only $7\n\ud83d\udd34 countries that stayed out of the war and blockade against Iran have secured transit privileges through Hormuz and escaped the resulting global crises\n\ud83d\udd34 Iraq should have followed these countries\u2019 example\nThe IRGC Navy Command warned earlier that action against vessels using unauthorized routes would no longer be confined to the Strait of Hormuz, adding that violators would[ be pursued across the entire region.](https://t.me/geopolitics_prime/75904)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T06:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 Ukraine's aircraft are becoming casualties of its own arsenal\nSeveral military jets were lost because of outdated weapons they carry, Ukrainian side says.\nDue to a severe shortage of ammunition, including modern air-to-air missiles, the Ukraine is forced to use Soviet-era R-60 missiles, which are 30 to 50 years old. \nThis has led to a growing number of cases in which they malfunction and explode, destroying the aircraft.\nAt the same time, the Ukrainian military acknowledges that it has no alternative \u2014 the R-60s are the only air-to-air missiles available in sufficient quantities.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T05:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Saudi-led coalition vows firm response to Houthi attack on Riyadh airport\nThe coalition says it will respond to the October 10 missile strike on King Khalid International Airport, which the coalition considers a war crime.\nThe attack killed 12 people and injured 309, per the Saudi Civil Aviation Authority.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T02:11:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
