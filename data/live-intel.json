@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:46:04.333358+00:00",
+  "generated_at": "2026-10-11T05:21:00.089827+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -49,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/09/2026",
       "location": "ZDC NC",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKona, HI, Saturday, October 10, 2026 through Saturday, October 10, 2026 Local\nFacility: ZHN",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/09/2026",
-      "location": "ZHN HI",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -173,40 +154,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nEvansville, IN, Monday, October 5, 2026 through Saturday, October 10, 2026 Local\nFacility: ZID",
-      "source": "FAA",
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5432\r\nIssue Time: 2026 Oct 11 0457 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5431\nValid From: 2026 Oct 09 0128 UTC\nNow Valid Until: 2026 Oct 11 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
       "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/02/2026",
-      "location": "ZID IN",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-11 04:57:50.150",
+      "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
       "verification_confidence": 100,
       "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nANOKA, MN, Monday, October 5, 2026 through Monday, October 19, 2026 Local\nFacility: ZMP",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/01/2026",
-      "location": "ZMP MN",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -287,33 +249,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK07\r",
-      "text": "Space Weather Message Code: ALTK07\r\nSerial Number: 219\r\nIssue Time: 2026 Oct 10 1758 UTC\r\n\r\nALERT: Geomagnetic K-index of 7 \nThreshold Reached: 2026 Oct 10 1758 UTC\nSynoptic Period: 1500-1800\nActive Warning: YES\nNoaa Scale: G3 - Strong\nComment: \r\n\r\nNOAA Scale: G3 - Strong",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-10 17:58:50.070",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "text": "Twelve killed in attack on airport in Saudi capital Riyadh\nAnother 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it.",
+      "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
+      "text": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh\nSaudi and US officials blame the attack on Yemen's Houthis, who have not commented on the latest strike.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-10T22:40:56+00:00",
+      "timestamp": "2026-10-11T03:57:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -340,6 +283,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia has decided to reopen Riyadh Airport despite Yemen\u2019s repeated warnings\nSo far, 15 civilians have been killed and more than 300+ have been injured due to the reckless actions of the Saudi government.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T02:07:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -519,6 +481,63 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "The Zolfaghar ballistic missile and its anti-ship variant, the Zolfaghar Basir, were displayed during a nighttime public gathering in Andisheh, Tehran Province.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T04:35:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 The U.S. Central Command (CENTCOM) announced that a U.S. fighter jet struck the stern of the M/V Ocean Molica, disabling its propulsion system. According to CENTCOM, the vessel had departed an Iranian port and attempted to cross the blockade imposed by the United States on Iranian ports.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T00:20:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Coalition Forces Spokesperson announces the interception and destruction of a drone launched by Yemen\u2019s Ansar Allah (Houthi) movement, in Saudi Arabia\u2019s Eastern Province.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T00:11:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea The coalition led by Saudi Arabia has accused the Yemeni rebel movement Ansar Allah (the Houthis) of strikes on King Khalid International Airport in the kingdom\u2019s capital and promised a decisive response.\n\u201cThe terrorist attack carried out by the Houthi forces on Saturday on one of the passenger terminals of King Khalid International Airport in Riyadh, which resulted in the deaths and injuries of civilians among passengers and airport staff, is classified as a full\u2011scale war crime under international humanitarian law,\u201d alliance\u2019s official spokesperson Turki al\u2011Maliki said.\n\u201cThe command of the coalition\u2019s Joint Forces will respond decisively to this terrorist act in accordance with international humanitarian law and its customary norms.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
@@ -594,20 +613,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 - 242 flights cancelled and 230 flights delayed at Riyadh International Airport. Reports of a direct impact after Ansarullah BMs targeted the airport once again.",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Saudi Civil Aviation Authority: 12 people killed in the attack targeting King Khalid International Airport in Riyadh\nSaudi Civil Aviation Authority: 309 people injured in the attack on King Khalid International Airport on Saturday afternoon\nNo one has adopted the attack yet..probably houthis but there are some talks about a UAE involvment",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T14:30:40+00:00",
+      "timestamp": "2026-10-11T03:36:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -670,32 +689,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 An Israeli interceptor missile was launched towards a target in the skies over southern lebanon, amid ambiguity about the nature of the target and whether it was a false identification.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T14:45:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russia launched 160 drones at Ukraine overnight, including 110 jet-powered Shaheds, according to the Air Force. Ukrainian defenses downed or suppressed 117 drones, including 82 jet-powered Shaheds. Impacts were recorded at 14 locations and debris fell at 10 more.",
+      "text": "\u26a1\ud83c\uddec\ud83c\udde7\ud83c\uddf8\ud83c\udde6 [UK Foreign Office](https://www.gov.uk/foreign-travel-advice/saudi-arabia): Britain updated its Saudi Arabia travel advisory, warning against all but essential travel to Riyadh province.\nBritish nationals were told to avoid King Khalid International Airport following a \u201cserious incident\u201d at approximately 3:00 p.m. local time on October 10.\nThe advisory urges travellers to avoid the airport until it is secure, monitor Saudi authorities\u2019 instructions and prepare for possible flight cancellations and travel disruption.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T07:07:27+00:00",
+      "timestamp": "2026-10-11T04:20:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -709,12 +709,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde6\ud83c\uddea\ud83c\uddee\ud83c\uddf1 [Emirates247](https://www.emirates247.com/uae/uae-attorney-general-announces-updates-on-investigation-into-the-flydubai-flight-fz1073-incident/6556): The UAE Attorney General has revealed that the Omani co-pilot involved in the attempted hijacking of Flydubai flight FZ1073 on September 30 had planned to crash the aircraft into the passenger terminal at Ben Gurion Airport, aiming to cause as many casualties as possible.\nThe 29-year-old suspect confessed that he had become radicalized while studying in Australia in 2017 and was inspired by the September 11 attacks. Investigators say his ambition to carry out a similar attack motivated him to pursue a career in aviation.\nThe suspect used two previous flights to Tel Aviv to familiarize himself with the route and Ben Gurion Airport before attempting to execute his plan during his third flight on September 30.\nDuring the flight, he attacked the captain with an emergency axe inside the cockpit. Another pilot aboard the aircraft, assisted by crew members and passengers, intervened and restrained him, allowing the aircraft to be diverted and safely landed in Tabuk, Saudi Arabia.\nThe UAE Attorney General said the suspect had passed Flydubai's employment and security checks, which failed to identify his extremist views. He confessed to acting alone, although investigators are continuing to examine possible accomplices or connections.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 All flights in and out of Riyadh Airport have been suspended.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T04:53:25+00:00",
+      "timestamp": "2026-10-11T04:19:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -728,12 +728,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 At least six U.S. Air Force KC-135 Stratotankers have been spotted at Israel's Ben Gurion International Airport.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf9\ud83c\uddf7\ud83c\uddf8\ud83c\udde6 Turkish airlines has canceled flights to Riyadh following the attack on King Khaled International airport.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T04:52:59+00:00",
+      "timestamp": "2026-10-11T04:18:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -747,12 +747,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\udde6\ud83c\uddea\ud83c\uddf8\ud83c\udde6 [Gulf News](https://gulfnews.com/business/aviation/flydubai-cancels-flights-to-three-saudi-cities-after-deadly-airport-attacks-1.500704534): Flydubai cancelled flights to Riyadh and Yanbu until October 10, while services to Abha will remain suspended until October 11.\nThe cancellations follow two attacks on Riyadh\u2019s King Khalid International Airport that killed three Saudi nationals and wounded several others. The Houthis claimed responsibility.\nFlydubai said it is coordinating with authorities and advised affected passengers to review their refund or rebooking options through its website.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Official statement from the UAE Attorney General on the Flydubai case.\nThe Omani first officer planned to carry out a suicide attack by crashing a Flydubai passenger plane into the terminal at Ben Gurion Airport. The stated objective was to cause as many casualties as possible, in a manner similar to the September 11 attacks.\nThe roots of his radicalization go back to 2017, when he stayed in Melbourne, Australia, for studies and began adopting extremist views.\nHe also gathered intelligence in preparation for the attack attempt. That collection took place on two flights to Israel and covered both the flight path and Ben Gurion Airport itself.\nOn the hiring question, the Attorney General's statement says the suspect met all professional and security requirements of Flydubai at the time he was taken on. The preliminary checks conducted on him revealed no signs of extremist positions or terrorist intentions.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T04:52:47+00:00",
+      "timestamp": "2026-10-11T04:10:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -766,12 +766,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddf8\ud83c\uddfe The Lebanese army arrested a suspected smuggler after a clash in Arsal, seizing approximately 60 kg of hashish, 35 kg of Captagon, 22 kg of marijuana, a pistol and ammunition. No injuries were reported.\nIn Qasr\u2013Hermel, the army intercepted rocket shells and approximately 24 kg of TNT being smuggled from Syria into Lebanon.\nInvestigations are underway, with efforts continuing to arrest those involved in the explosives operation.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Earlier today, Houthi forces struck the Shedgum gas plant in Saudi Arabia's Ghawar oil field, with ballistic missiles.\nA large smoke plume is visible from satellite imagery, with FIRMS data showing a peak FRP (fire radiating power) of 616 MW, significantly higher than the usual 69MW.\n\ud83d\udccd 25\u00b038'53.37\"N 49\u00b023'32.51\"E",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T04:51:31+00:00",
+      "timestamp": "2026-10-11T04:10:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -779,6 +779,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russian state media Tass confirms that the Yandex data center in Vladimir has been completely shut down as a result of a drone attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T04:09:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Widespread outages reported across Yandex Cloud services following reported drone strikes targeting Yandex data center infrastructure. Key developer tools, databases, and platform components show widespread system unavailability.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T04:09:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Saudi-led coalition vows firm response to Houthi attack on Riyadh airport\nThe coalition says it will respond to the October 10 missile strike on King Khalid International Airport, which the coalition considers a war crime.\nThe attack killed 12 people and injured 309, per the Saudi Civil Aviation Authority.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-11T02:11:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -831,44 +888,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-10T21:39:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\udde9\ud83e\ude96 Blackwater founder\u2019s Congo ambush exposes neo-colonial scramble for African resources - and Ukraine\u2019s role\nVectus Global, a mercenary group owned by Blackwater founder Erik Prince, was ambushed in the Democratic Republic of the Congo on September 17, leaving at least 20 people dead or wounded, including former US Green Beret and UFC contestant Tim Kennedy, Reuters has now revealed.\n\ud83d\udc49 Prince's mercenaries were initially hired to secure Congo\u2019s mineral taxes valued at around $3 billion a year but plundered amid an ongoing conflict with the Rwanda-backed M23 rebels. The five-year contract, signed in December 2024, was valued at between $200 and $700 million, according to different estimates. In January and February, his forces deployed to Uvira after a US-brokered deal for the rebels to withdraw, Reuters reports.\nPrince employs Ukrainian and Colombian drone pilots to hunt M23 rebels, The New York Times reports. The Blackwater founder had business interests in Ukraine as early as 2019 and recently launched Vectus Air Defense Systems with Ukrainian drone firm Swarmer. The new venture was also set to collaborate with other companies, including Powerus, a drone maker backed by President Donald Trump\u2019s sons, Donald Jr. and Eric, The Wall Street Journal wrote.\n\u203c\ufe0f In 2024, Prince called on the US to \u201cput the imperial hat back on\u201d in Africa, claiming Africans are \u201cincapable of governing themselves.\u201d The DRC, whose mineral wealth is estimated at $24 trillion, has long been a battleground for colonialists. Its first democratically elected prime minister, Patrice Lumumba, was assassinated and then dissolved in acid in a CIA-backed operation in 1961.\nRemarkably, Ukrainian mercenaries have also reinforced M23 in its fight against the DRC government, Russia\u2019s Foreign Ministry revealed in July. A September report by the Global Initiative Against Transnational Organized Crime found that M23 and the forces meant to contain it are part of the same criminal ecosystem, built around the illegal plundering of Congo\u2019s resources.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T19:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udef0\ud83c\udde8\ud83c\uddf3 China racing to build satellite armada to challenge Starlink\nThe country has successfully launched a Long March 12 rocket carrying the 27th wave of satellites as part of the GuoWang project, a flagship Chinese initiative to create a global satellite internet network. \nA total of 13,000 satellites are planned for orbit, which would make this constellation one of the largest in the world.\nWhy China needs it:\n\ud83d\udd34 An independent satellite network reduces dependence on foreign technology and ensures control over critical communications infrastructure\n\ud83d\udd34 GuoWang is positioned as an alternative for countries that do not want to rely on American infrastructure\n\ud83d\udd34 Like Starlink, this constellation has dual-use potential. It can provide communications for military operations, which is particularly relevant amid growing tensions in the Indo-Pacific region\nGuoWang satellites operate at an altitude of about 1,000 kilometers, higher than Starlink's 340\u2013550 kilometers. This means:\n\ud83d\udd34 Greater coverage per satellite\n\ud83d\udd34 Fewer satellites needed for global coverage\n\ud83d\udd34 Fewer problems with atmospheric drag\nUnlike Starlink, which relies on private investment and contracts, GuoWang is fully state-funded. This means the project will not face profitability pressures in its early stages and can afford a long deployment timeline without market pressure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-10T18:23:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
