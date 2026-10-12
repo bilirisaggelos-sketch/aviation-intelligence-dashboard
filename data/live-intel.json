@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-12T00:23:37.791799+00:00",
+  "generated_at": "2026-10-12T06:23:36.455116+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL, Tuesday, October 13, 2026 through Saturday, October 17, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/12/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nYoungstown, OH, Monday, October 12, 2026 through Monday, October 12, 2026 Local\nFacility: ZOB",
@@ -98,25 +117,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew Bern, NC, Saturday, October 10, 2026 through Sunday, October 11, 2026 Local\nFacility: ZDC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/09/2026",
-      "location": "ZDC NC",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nJohnsontown, NC\nFacility: ZDC",
       "source": "FAA",
       "source_type": "official",
@@ -125,25 +125,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/08/2026",
       "location": "ZDC NC",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSAN FRANCISCO, CA, Thursday, October 8, 2026 through Sunday, October 11, 2026 Local\nFacility: ZOA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/05/2026",
-      "location": "ZOA CA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -270,6 +251,26 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6\u26a1\ufe0f \u2014 KSA's General Authority of Civil Aviation announces 1 death of a Pakistani national and 11 injuries as the result of an Ansarallah strike against Terminal 4 of King Khalid Intl. Airport, Riyadh earlier today.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-12T00:38:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 Moment of the missile entering Terminal 3 departure hall",
       "source": "Telegram",
       "source_type": "telegram",
@@ -347,13 +348,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia\u2019s General Civil Aviation Authority announces that the attack on King Khalid International Airport in Riyadh today resulted in \u2018injuries\u2019 and that a damage assessment is underway",
+      "publisher": "Clash Report",
+      "text": "Saudi Crown Prince Mohammed bin Salman is moving cautiously between heavily guarded palaces equipped with bunkers, accompanied by handpicked security guards, as Houthi attacks intensify.\nSaudi officials say the kingdom is running low on interceptor missiles and struggling to protect its energy infrastructure and royal palaces.\nSource: WSJ",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T16:24:59+00:00",
+      "timestamp": "2026-10-12T05:22:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -361,19 +362,38 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Clash Report",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Saudi Arabia\u2019s General Authority of Civil Aviation (GACA) said King Fahd International Airport in Dammam was targeted in an attack on Sunday evening, October 11.",
+      "text": "Senator Darline Graham on Israel:\nI fully believe that we need to stand with Israel. The same people that want to hurt and attack Israel want to come after us.\nThe terrorists that were close to getting a nuclear weapon will come here. So we need to stand with our strongest ally in the Middle East.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T18:37:50+00:00",
+      "timestamp": "2026-10-12T05:06:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Saudi Arabia\u2019s General Authority of Civil Aviation (GACA) confirmed that one Pakistani resident was killed and 11 others injured in an attack on King Khalid International Airport in Riyadh on October 11.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-12T04:56:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -542,6 +562,26 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "The Wall Street Journal reports that Saudi Arabia is suffering from a shortage of interceptor missiles and other air defence systems due to the recent heavy daily Ansarallah missile and drone attacks on its territory. \nSaudi Arabia is reportedly struggling to defend its entire airspace with adequate air defence, and is redeploying air defence batteries around the country to protect key energy facilities, as well as its palaces. Crown Prince Mohammed Bin Salman is reportedly carefully moving between \u201cheavily guarded palaces equipped with bunkers\u201d alongside handpicked security guards. \nYesterday, two Ansarallah cruise missiles managed to breach Saudi airspace for over 800 km, with one being intercepted over King Khalid International Airport and the other impacting.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-12T05:16:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi military spokesman Yahya Saree announced four major operations over the past 24 hours involving ballistic and cruise missiles and drones against targets across Saudi Arabia.\nSaree said King Khalid International Airport in Riyadh was targeted in three phases, while separate strikes hit Aramco\u2019s Shugadam gas facility, the Tanajib oil facility in the Eastern Province and King Fahd International Airport in Dammam. He also claimed six ballistic missiles and two drones struck Saudi troop concentrations around Ras al-Ara and Al-Saqiya.\nThe Houthis said their operations inside Saudi Arabia will continue to escalate and renewed warnings to international airlines against using Saudi airports, excluding those serving Mecca and Medina.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -601,12 +641,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "SBS Birds, figures of the day:\n100,000 Russian personnel eliminated with irreversible and sanitary losses since the beginning of 2026, and 150,000 others have been eliminated in 16 months since the formation of the SBS Group (from 06.11.2025) - verified results by SBS Birds and each kill has been recorded by an FPV drone and visually confirmed.\n100,000 Russians were killed in 2026 by SBS (Unmanned Drone Systems; which is consisted of dozen Ukrainian drone units). Note that there are many other drone units that work with their relative units like Skala, SBU Alpha, and many more.",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 [Reuters](https://www.reuters.com/world/middle-east/faa-tells-us-airlines-exercise-caution-saudi-arabia-flights-citing-safety-risks-2026-10-11/?taid=6acc0df15a7e00000147ae04&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter): The FAA has warned U.S. airlines to exercise caution when flying to or over Saudi Arabia, citing ongoing military activity and interference with navigation systems.\nThe advisory runs until December 10 and warns of risks at all altitudes, including during takeoff, landing and overflight. It also applies to U.S.-registered aircraft.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T00:14:38+00:00",
+      "timestamp": "2026-10-12T02:29:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -620,12 +660,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "22 people were reportedly injured in a missile strike in a Kharkiv suburb, says the regional administration, with medics doing everything possible to stabilize the wounded. A 16-year-old boy, a 19-year-old girl, and a 51-year-old woman were killed.",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Additional footage has been released showcasing another angle of the afternoon of the Houthi ballistic missile strike on King Khalid International Airport in Riyadh, Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T00:12:52+00:00",
+      "timestamp": "2026-10-12T02:27:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -639,12 +679,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Moscow airports remain shut down as drones swarm the capital and region, with the main groups approaching from the north near Mytishchi, Dubna, Lobnya, and Solnechnogorsk.\nIf our translations help you stay informed, consider supporting the project.\nIt keeps WarTranslated independent and active every day.\n\ud83e\ude75 Patreon: patreon.com/c/WarTranslated\n\u2615\ufe0f BuyMeACoffee: buymeacoffee.com/wartranslated",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 The IDF and Shin Bet destroyed Hamas infrastructure across the Gaza Strip over the past day, including an observation command post in Daraj Tuffah, a rocket launch site in Al Faqran, and three weapons depots holding rockets, explosives, mortars and Kalashnikov rifles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T00:12:48+00:00",
+      "timestamp": "2026-10-12T02:26:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -658,12 +698,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Right now, all Moscow airports including Sheremetyevo, Domodedovo, and Vnukovo have halted all flights and grounded traffic as authorities scramble over at least 12 Ukrainian drones targeting the Russian capital.",
+      "text": "RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far.\nSaturday, October 10:\nA missile struck the domestic terminal complex at King Khalid International Airport, affecting Terminals 3 and 4 and triggering a mass evacuation.\nSaudi aviation officials reported at least 12 killed and 309 wounded, including several in serious condition.\nThe dead included 4 Saudis, 2 Bangladeshis and citizens of the U.S., Egypt, Jordan, Syria, Palestine and Sudan.\nWitnesses described a projectile approaching the airport before an explosion caused part of the ceiling near a departure gate to collapse.\nSunday, October 11:\nSaudi coalition spokesman Turki al Malki said another projectile struck Terminal 4, igniting a fire.\nThe extent of the damage remains unclear. No additional casualty figures have been released.\nSeparately, the coalition reported intercepting a ballistic missile over Al Kharj, near Prince Sultan Air Base, while another projectile reportedly landed near King Fahd International Airport in Dammam.\nThe wider picture:\nAttacks on Riyadh airport between October 8 and 10 killed at least 15 people and wounded more than 300.\nOn October 8, 3 Saudis were killed in strikes targeting airport facilities and a Saudia aircraft. The Houthis claimed to have launched 2 cruise missiles at the airport.\nThe Saudi coalition has described the attacks as a war crime and threatened a decisive response.\nPresident Donald Trump condemned the strikes and said he was considering U.S. participation in Saudi military operations against the Houthis.\nWhat remains unknown:\nSaudi authorities have not identified the weapon used in Sunday\u2019s strike, confirmed whether Terminal 4 was occupied at the time, or released a new casualty assessment.\nThe latest strike comes as Riyadh hosts the WPC Energy Congress, bringing together senior oil ministers and energy executives.\nThe airport is a civilian aviation facility, and no military installation has been identified within the terminal complex.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T00:12:46+00:00",
+      "timestamp": "2026-10-12T02:19:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -676,39 +716,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Just now, a Russian missile hit a grocery store in a Kharkiv suburb, killing three people and injuring seven others, including a child, the regional governor said.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca3 Prelude to massive attack? US positions aerial refuelers closer to Iran\n17 USAF KC-135 and KC-46 tankers have been moved to Europe from the US in the past 72 hours, with at least 3 more redeployed from the US West Coast to the East Coast in preparation for the journey across the Atlantic, OSINT observers have calculated.\nThat\u2019s in addition to as many as 100 tankers already operating in CENTCOM\u2019s area of responsibility, which includes most of the Middle East, Pakistan, Afghanistan and Central Asia.\n\ud83d\udc49 Observers have also spotted the arrival of US tankers at Ben Gurion International Airport in Tel Aviv. US tankers and military cargo aircraft were also spotted there 5 days before US-Israeli strikes on Iran began in February.\nThe purpose of the buildup and who it may be meant to intimidate or target is uncertain. [On Friday, Trump repeated](https://t.me/geopolitics_prime/75935) his oft-used genocidal threats against Iran, warning that \u201ceither they give us everything, or they don\u2019t exist any longer.\u201d\nOn Saturday, Trump said the US was evaluating whether to join Saudi Arabia in strikes on Ansar Allah in Yemen after a drone and missile attack killed at least a dozen people at Riyadh\u2019s international airport, including an American, in a tit-for-tat Yemeni response to \u201cbrutal Saudi aggression.\u201d\nIranian officials have warned the US and its allies that Tehran would expand the geography of its retaliation considerably to new targets and theaters if Washington renews its aggression, from oil shipping routes, pipelines, economic and military assets, to $2T+ in US tech and digital infrastructure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T00:11:46+00:00",
+      "timestamp": "2026-10-12T05:53:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Sochi was under prolonged drone attack overnight, with a fire signature now detected near air defense positions there, the same spot where a previous air defense detonation was recorded on September 4.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T00:08:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
