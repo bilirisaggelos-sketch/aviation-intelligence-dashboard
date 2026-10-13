@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T03:27:26.570769+00:00",
+  "generated_at": "2026-10-13T10:59:18.342928+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,6 +192,26 @@
       "verified_source_count": 1
     },
     {
+      "title": "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "text": "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack\nEleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-13T10:57:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: A ballistic missile struck the perimeter of Riyadh Airport minutes ago, with smoke seen rising",
@@ -260,12 +280,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -283,25 +304,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Bosnia\u2019s Foreign Minister Elmedin Konakovi\u0107 warned U.S. Secretary of State Marco Rubio that Republika Srpska, the pro-Russia Serb-majority entity, was spending millions on Trump-linked lobbyists and consultants to gain political influence in Washington.\nThe warning followed reports that Trump aides Chris LaCivita and James Blair received hundreds of thousands of dollars for campaign advice. \nKonakovi\u0107 also urged the U.S. to consider reimposing sanctions on former Republika Srpska President Milorad Dodik, a close Putin ally whose sanctions were lifted last year.\nSource: FT",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T23:01:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -412,12 +414,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -535,32 +538,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 Israeli media: Two unknown threats on the Lebanese border within 48 hours, and the IDF still has no answers, or at least is not providing them to the public.\nSome sources speculates that Hezbollah has introduced a new type of drone that can only be detected for a few seconds before disappearing from radar vision,but nothing is confirmed for now.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T11:35:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Etihad Airways flights between Abu Dhabi and Dammam, Jeddah and Riyadh have been cancelled due to regional disruption, company statement. https://x.com/FaytuksNetwork/status/2109818495387259058/photo/1\nFaytuks Network (\nQatar Airways flights to and from Riyadh (RUH) and Dammam (DMM) airports are temporarily suspended, per company statement.",
+      "text": "Two vessels were struck by drones, likely Russian, today in the Black Sea just 18 miles off the coast of Bulgaria, with one vessels sinking. Rescue operations are currently underway, as at least twelve crew members, possibly Ukrainian, have been reported injured. This follows last week\u2019s swathe of attacks against shipping within the EEZs of NATO nations in the Black Sea, with it being best to describe the response from the nations involved as paltry.\nMore to come.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:26:15+00:00",
+      "timestamp": "2026-10-13T06:20:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,12 +558,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Qatar Airways flights to and from Riyadh (RUH) and Dammam (DMM) airports are temporarily suspended, per company statement.",
+      "text": "BREAKING: 2 commercial ships have been targeted in drone attacks just outside Bulgarian territorial waters in the Black Sea, resulting in one vessel sinking and another damaged, according to the Bulgarian Prime Minister Rumen Radev.\nAZOV CONCORD sank 17 nautical miles east of Krapets following a drone strike, with a civilian ship assisting rescue operations. \nCHELSEA 3 was struck by three drones 18 nautical miles off Byala, where Border Police rescued all 15 crew members.\nThe Prime Minister has summoned Russian Ambassador Eleonora Mitrofanova and requested urgent NATO surveillance assistance in the region.\nNone of the ships came from Ukrainian ports.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:26:11+00:00",
+      "timestamp": "2026-10-13T06:08:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "#Yemen / #SaudiArabia \ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6: Ansar Allah (#Houthis) allegedly shot down two Drones over Bani Matar in Sana'a and Saada.\nOne of the Drones reported to be a Chinese CAIG \u201cWing Loong II\u201d MALE UAV / UCAV operated by the Saudi Forces.\nhttps://x.com/war_noir/status/2109861474633994309",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T06:01:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,12 +597,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "North Korea fired multiple ballistic missiles from near Pyongyang toward the East Sea earlier, with one flying over 900 km. Seoul assesses the launches were a show of force following South Korea\u2019s own hypersonic missile test last week.",
+      "text": "Five terror operatives were killed in Israeli strikes in the Gaza Strip in recent days, the military announces.\nThe IDF says that one strike on Sunday in southern Gaza's Khan Younis killed three members of the Palestinian Islamic Jihad, as they gathered to plan attacks on troops.\nThey are identified by the military as Muhammad Abu Hajjaj, an engineering operative, Yousef Abu Razak, a deputy squad commander, and Abdelhamid Jadallah, a rocket operative.\nA separate strike yesterday in southern Gaza killed Salah a-Din Iyad Abd al-Hamid and Izz a-Din Iyad Diab Barhoum, identified by the army as members of Hamas's elite Nukhba Force in the terror group's Rafah Brigade.\nThe IDF says the five had been advancing attacks against troops and civilians and attempting to restore the capabilities of the two terror groups, \"in systematic violation of the ceasefire.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:23:37+00:00",
+      "timestamp": "2026-10-13T06:01:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -612,12 +616,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The EU has approved sanctions on 1,569 people and entities in Russia\u2019s military industrial sector, including 826 companies and 743 execs. More than half the listings target the ballistic missile production chain, the EU says.",
+      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddf9\ud83c\uddea\ud83c\uddf9\ud83c\uddea\ud83c\uddf7 Ethiopian federal forces have retaken Adigrat, a strategic city around 30 km from the Eritrean border, bringing all four of Tigray\u2019s largest cities, Mekelle, Shire, Adigrat, and Aksum, under ENDF control. The takeover follows reports of Eritrean troop movements, armed clashes and drone strikes in northern Tigray. ACLED reported Ethiopian drone strikes targeting Eritrean forces in the area. For now, there has been no Ethiopian offensive into Eritrea.\nEthiopia has accused Eritrea of sending troops up to 60 km into Tigray. Eritrea has denied the allegations and accuses Ethiopia of using them to justify a war of aggression. Eritrea\u2019s foreign minister has appealed to the UN Security Council to condemn Ethiopia and take deterrent measures.\nThe escalation comes as Ethiopian forces continue advancing against the Tigray People\u2019s Liberation Front (TPLF).\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:23:28+00:00",
+      "timestamp": "2026-10-13T03:53:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,12 +635,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Saudi coalition forces confirm they destroyed a Houthi ballistic missile fired toward Riyadh earlier today.",
+      "text": "\u26a1\ud83c\uddf9\ud83c\uddfc\ud83c\uddfa\ud83c\uddf8[Taipei times](https://www.taipeitimes.com/News/front/archives/2026/10/11/2003865754): Taiwan will be receiving 500 Stinger missiles and 176 launchers by the end of the year. \nThis is the first batch of deliveries under a two stage plan for a total of 2,621 missiles and 763 launchers. \nThe Navy has alotted 295 missiles and 85 launchers to the Marines and 91 missiles and 21 launchers have been allocated for the military police.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:22:58+00:00",
+      "timestamp": "2026-10-13T03:53:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,12 +654,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Saudi Arabia has opened an investigation into why its air defenses failed to stop the Oct. 10 Houthi attack on Riyadh airport, AP reports. Initial findings suggest drones preceded cruise and ballistic missiles, with inadequate early warning to prevent casualties.",
+      "text": "\u26a1\ufe0f\ud83c\udde7\ud83c\uddeb\ud83c\udff4 ISIS-linked media claims at least 400 JNIM militants were killed in an ISIS counterattack in Burkina Faso\u2019s northern Sahel region.\nThe report also claims 300 motorcycles were burned and more than 460 machine guns, 13 rocket launchers and other equipment were seized.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:22:52+00:00",
+      "timestamp": "2026-10-13T03:52:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -669,12 +673,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian An-28 with M142 minigun shoots down two Russian Geran-2 drones, these An-28 will be retrofit with P1-Sun fast-drone interceptors. This plane has 200 kills alone.",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Additional footage of Saudi PAC-3 launches against a Houthi ballistic missile moments ago.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:16:57+00:00",
+      "timestamp": "2026-10-13T03:49:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +692,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "These are not merely patches, they are battle scars on the bodies of USAF KC-135R Stratotankers.\nThe metal panels represent emergency Battle Damage Repairs (BDR), installed to cover hundreds of holes caused by shrapnel from missile and drone blasts.\nTechnicians use T6 aluminum sheets to maintain structural integrity and cabin pressurization, allowing the damaged tankers to be flown to a transit base for permanent repairs.\nAmong them are KC-135R 59-1444 (Ohio ANG) and 63-8028 (Alaska ANG).\nCredit to division of areo",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 U.S. Mission in Saudi Arabia security alert:\n\u201cU.S. government employees now require special authorization to use any airport in Saudi Arabia. Citizens should exercise extreme caution, anticipate cancellations and airspace closures, and confirm flight status directly with airlines and airports.\nAmerican citizens have been detained for photographing recent events. Filming or sharing information about missile and drone interceptions or impact sites can expose you to legal liability under Saudi law.\nGovernment employees cannot travel within 20 miles of the Yemen border and need authorization to visit Jizan, Asir, Najran, Qatif, Yanbu and Taif. Car, train and bus services may offer alternatives to flying.\u201d\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:15:30+00:00",
+      "timestamp": "2026-10-13T03:48:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +711,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 US reduced to \u2018fuel smuggler\u2019 in Hormuz \u2014 IRGC Navy commander\nIRGC Navy commander Brigadier General Ali Ozmaei mocked Washington\u2019s operations in the Strait of Hormuz, saying the US is now deploying fighter jets and drones simply to help a handful of tankers slip through, Press TV reported.\n\ud83d\udcac \u201cIt has effectively turned into a fuel smuggler.\u201d\nOzmaei said the US is using F-35, F-16 and F-18 fighters, along with MQ-9 and MQ-1 drones, while avoiding the use of its own vessels in the strait.\nHe described the situation as evidence of US \u201chumiliation\u201d and \u201cdesperation.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8 Bomb threat forces Delta flight from New York into isolation at Ben Gurion Airport \nA Delta flight from New York was moved to an isolated area at Israel's Ben Gurion Airport after an anonymous bomb threat triggered a security alert.\nPassengers were evacuated to the terminal while security teams searched the aircraft for explosives.\nInitial assessments suggest the threat may have been a false alarm, but its credibility has not yet been established. The investigation is ongoing.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T00:31:58+00:00",
+      "timestamp": "2026-10-13T07:20:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -726,12 +730,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfe\ud83c\uddea Trump says Houthis are \u2018misbehaving very badly\u2019 amid missile campaign\nUS President Donald Trump offered a terse reaction to [Ansar Allah\u2019s recent strikes](https://t.me/geopolitics_prime/76094?single) against Saudi targets.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2708\ufe0f Australian Islamic leader denies link to Flydubai hijacker\nSamir Mohtadi, also known as Abu Hamza, publicly dismissed what he described as \u201cfalse accusations\u201d against him and his Melbourne-based Islamic community center, Bloomberg reports. \n\ud83d\udcac \u201cI have never met al-Hammami, who has been referred to in recent media reports, and we have no record of him ever attending our center. I strongly reject any attempt to associate me or Multicultural Youth Centre with al-Hammami,\u201d Mohtadi was quoted as saying. \nThe UAE\u2019s attorney-general said al-Hammami told investigators that, while studying in Melbourne, he regularly attended a mosque affiliated with RMIT University, where he met people associated with Mohtadi\u2019s Islamic center known as MyCentre.\n\ud83d\udc49 Investigators are working to reconstruct al-Hammami's background after he assaulted the captain o[f FlyDubai Flight FZ1073 on September 30](https://t.me/geopolitics_prime/75549), aiming to bring the aircraft down at Ben Gurion Airport in Tel Aviv. \nAustralia is looking into his time in the country \u2014 he studied at RMIT University in Melbourne from 2015 to 2017 but never completed an engineering degree. He went on to undergo flight training in New Zealand, which has launched its own probe.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T22:21:19+00:00",
+      "timestamp": "2026-10-13T06:26:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -745,31 +749,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 Houthis pound Riyadh airport with a ballistic missile\nAnsar Allah struck King Khalid International Airport in Riyadh with a ballistic missile, military spokesman Yahya Saree announced on X, saying \u201cthe hit was precise.\u201d\nFootage published by Naya showed Houthi missiles crossing the capital\u2019s night sky as Saudi air defenses launched in an attempt to intercept them.\nSaree renewed Ansar Allah\u2019s warning to international airlines against operating through Saudi airports, calling them unsafe while exempting Mecca and Medina.\nHe also reported a separate drone strike on Khamis Mushait Air Base, saying it scored a direct hit.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian Geran drones hit targets across Ukraine overnight\nExplosions were reported in Sarny and Rovno. In the Kharkov region, a locomotive was hit in Lyubotin, while strikes were also reported in Nikolayev, Khmelnitsky and near Kiev.\nIn Kiev's Dneprovsky district, a transport infrastructure facility was hit, according to Mayor Klitschko \u2014 preliminary reports point to the Darnitsa railcar repair plant and a warehouse.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T20:32:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddea\ud83c\uddec\ud83c\uddf8\ud83c\udde9Egypt's deadly gold mine strikes expose a century-old border dispute with Sudan\nA suspected Egyptian airstrike on an artisanal gold mining operation in the disputed Halaib Triangle area claimed by both Egypt and Sudan killed dozens of people on October 11, with estimates ranging from 72 to 160+ or even 200+ fatalities, and dozens of injuries.\n\u2757\ufe0fThis is the second time Egypt is suspected of targeting miners in the Halaib Triangle after drone and artillery attacks in June, which killed at least 23 workers. The Egyptian military has repeatedly demanded a halt in the \u201cillegal\u201d mining activity in what it insists is its sovereign territory.\nBritish colonial authorities are to blame for the dispute over the ~20.5k km territory, drawing two conflicting boundaries for the region between 1899 and 1902. The dispute has been a source of bad blood between the two countries ever since Sudan gained its independence in 1956.\n\u00a0\n\ud83d\udd34Civil war and foreign interference\n\u00a0\n\ud83c\udf0f Plagued by decades of civil unrest (the 1955\u20131972 and 1983\u20132005 civil wars, the 2003\u20132020 Darfur conflict, and the ongoing civil war since 2023), the Sudanese government\u2019s control over its territories is severely fragmented, allowing Egypt to unilaterally mount direct strikes on the border mining zone it might have otherwise hesitated to target.\n\ud83c\udf0f The UN and international aid groups have categorized the Sudanese civil conflict as the world\u2019s largest (but severely underreported) humanitarian crisis, with 14M+ people internally displaced, and ~25M (half the population) suffering acute food insecurity and famine conditions.\n\ud83c\udf0f The 2023 civil conflict was triggered by a power struggle between de facto leader of Sudan Gen. Abdel Fattah al-Burhan and Rapid Support Forces commander Muhammad Hamdan Dagalo following the collapse of a power sharing arrangement two years after the 2021 military coup.\n\ud83c\udf0f Sudan\u2019s resource wealth and geostrategic position along the Red Sea trade corridor prompted outside powers to intervene, with the UAE backing the RSF, while Egypt, Saudi Arabia, Turkey and others back al-Burhan and the Sudanese military. Tens of thousands of people have been killed to date, with up to 400k total perishing, the vast majority of them due to the collapse of the country\u2019s food, water and medical infrastructure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T19:46:01+00:00",
+      "timestamp": "2026-10-13T04:39:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
