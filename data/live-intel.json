@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-13T10:59:18.342928+00:00",
+  "generated_at": "2026-10-13T18:09:45.768973+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nRALEIGH, NC, Thursday, October 15, 2026 through Sunday, October 25, 2026 Local\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/13/2026",
+      "location": "ZDC NC",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMissoula, MT, Wednesday, October 14, 2026 Local\nFacility: ZLC",
@@ -78,21 +97,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Tuesday, October 13, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5434\r\nIssue Time: 2026 Oct 13 1431 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5433\nValid From: 2026 Oct 13 0115 UTC\nNow Valid Until: 2026 Oct 13 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
       "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/09/2026",
-      "location": "ZAB NM",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-13 14:31:37.343",
+      "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
       "verification_confidence": 100,
       "verified_sources": [
-        "Federal Aviation Administration"
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -173,117 +192,40 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2057\r\nIssue Time: 2026 Oct 10 2145 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 10 2145 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-10 21:45:58.723",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "text": "Bulgarian PM summons Russian ambassador after ship sinks in Black Sea drone attack\nEleven crew members are missing after a merchant ship was sunk overnight, local officials say.",
+      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
+      "text": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack\nSix crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-13T10:57:17+00:00",
+      "timestamp": "2026-10-13T14:51:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: In response to Saudi Arabia\u2019s recent threats, the Yemeni Armed Forces have issued their own evacuation warnings:\n\u2013 ARAMCO headquarters, Dhahran.\n\u2013 ARAMCO main refinery, Riyadh.\n\u2013 King Khalid International Airport, Riyadh.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T14:22:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: A ballistic missile struck the perimeter of Riyadh Airport minutes ago, with smoke seen rising",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T00:01:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 WATCH: The IRGC allowed an IRIB military correspondent to tour the Strait of Hormuz\nThe footage shows cruise missile launches towards violating vessels, minelaying by small boats in the southern lanes of the Strait, and tankers after being targeted.\nThe IRIB correspondent and his crew had to turn off their camera lights at night while sailing in the Strait of Hormuz to avoid being detected and targeted by the American navy.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T18:50:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: There is an unusual amount of aerial activity over Israel, and large amounts of American refuelers and long-range bombers have deployed to bases in Europe and the Middle East during the past week\nIn my estimation, it seems that the decision for a joint U.S.-Israeli attack on Iran has already been made, and it is now only a matter of timing.\nThe frequent and large-scale exercises of Iranian ballistic missiles and drones in recent days also point towards Iran preparing for an escalation.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T18:16:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Riyadh, the capital of Saudi Arabia, is once again under ballistic missile attack",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T18:03:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -291,12 +233,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "Some kind of unknown cluster bomblets that also appeared in Libya.\nProbably some random frankenstein 122mm rocket that Hezbollah fired.",
+      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemen\u2019s Armed Forces renew their warning to Saudi oil workers and airline employees, stating that ARAMCO sites and airports will soon be targeted in retaliatory military operations",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T15:58:39+00:00",
+      "timestamp": "2026-10-13T13:06:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -304,6 +246,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "MI5 Devotes More Resources to State Threats Than During Cold War\nMI5 chief says foreign threats have quadrupled in a decade, with Russia and Iran driving the agency\u2019s state-threat work to roughly the same scale as counterterrorism.\n[READ MORE](https://clashreport.com/world/articles/mi5-devotes-more-resources-to-state-threats-than-during-cold-war-spy-chief-08wwkcn1p83s/)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T17:43:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "JD Vance:\nI love you too sir. In a totally platonic way, to be clear. \nI'm the vice president, not James Talarico.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T17:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "An official told POLITICO that the U.S. blamed bad weather for failing to warn Ukraine of Russia\u2019s latest ballistic missile attack on Kyiv.\nKyiv reportedly considers the explanation inadequate.\nSource: POLITICO",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T16:07:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Ukraine had no intelligence from partners about missiles headed to Kyiv, Zelenskyy says](https://www.pbs.org/newshour/world/ukraine-had-no-intelligence-from-partners-about-missiles-headed-to-kyiv-zelenskyy-says)\nAt the White House, Trump told reporters that the U.S. has not stopped sharing intelligence with Ukraine. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/ukraine-had-no-intelligence-from-partners-about-missiles-headed-to-kyiv-zelenskyy-says)\npbs\u200b.org \u2022 Oct 13, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T18:04:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -385,20 +403,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83d\udee2 #Trump strikes deal with #Putin to import Russian diesel into the #UnitedStates and global markets due to skyrocketing fuel prices following his starting of the Iran War alongside #Israel. \nThe Trump administration has also now sanctioned the entire International Criminal Court to protect Netanyahu and Putin.\nSimultaneously backing Russia's economy and #Ukraine's downfall, it is clear the Trump administration is encouraging and funding the genocide of Ukraine. Unsurprising since they have fully supported Israel's genocide of Palestine. With Russia and Israel and the United States increasingly establishing trade routes and partnerships, it is obivous the allies that Trump and his administration seek.\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Saudi Arabia has warned civilians to evacuate the Al-Sabaha oil refinery in Sanaa\u2014owned by Yemen\u2019s main oil company\u2014signaling an imminent strike.\nMeanwhile, Yemen\u2019s Houthi rebels have once again warned all workers at Saudi oil facilities and airports to evacuate, also indicating that new strikes are being planned.\nAuthorities in Sanaa have warned all \"specialists, engineers, and workers at all oil production facilities\" in Saudi Arabia to leave areas designated as targets\u2014\"whether or not they have previously been struck\"\u2014to avoid threats to their lives.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-09T20:54:28+00:00",
+      "timestamp": "2026-10-13T14:11:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -414,13 +432,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -462,44 +479,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 The coalition says it is responding to a missile and drones launched by Yemen\u2019s Houthi movement (Ansar Allah) toward Saudi Arabia.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T09:27:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e \u2014 An Iranian Shahed-136 drone targeted the headquarters of Iranian Kurdish opposition parties in Erbil Governorate, northern Iraq.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T09:21:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 More maritime news out of the US, here are the highlights.\n\u2022 The Government accountability office (GAO) is now actively reviewing and testing all existing shipyards to see \u201cactual\u201d capacity for manufacturing instead of going off what the companies\u2019 are willing to \u2018show\u2019.\n\u2022 Bath Iron Works in Bath, Maine was recertified for both the infrastructure and manpower to construct 2 warships at once, with the capability to build 4 simultaneously.\n\u2022 Cleveland, OH has been chosen by the Trump administrators for the construction of a new 50,000sqft facility that will specialize in \u2018reconditioning\u2019, rehabilitating & new construction of submarine components + the construction of modules for submarines (which will then be shipped to one of the 3 shipyards in the US actively building submarines for final assembly)\n\u2022 Arsenal-2 unveiling by Anduril Industries in Baltimore County, Maryland (search our previous post for more info on this!)\n\u2022 Austal Shipyards in Mobile, Alabama are now up for sale, currently owned by Austal Limited, an Australian firm; despite their recent 400,000sqft (37,161 m\u00b2) enclosed addition for shipbuilding space, due to the firm consistently underbidding contracts and failing to provide adequate results. \n\u2022 Subsequently, Hanwha Defense; the South Korean firm that went in on rebuilding & restoring the Philadelphia Navy Yard has made it\u2019s interest known to purchase the Austal Yards. \n\u2022 The US Navy has contracted Raytheon + a slew of additional companies to provide nearly 2,000 new Standard Missile-6 (SM-6)s over a span of 4 years for $24.4 Billion (USD).",
       "source": "Telegram",
@@ -507,25 +486,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-13T03:16:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "Ansar Allah released new footage of RPG and anti-tank missile attacks on Saudi-backed forces.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T14:46:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -567,13 +527,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -711,12 +670,32 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Bomb threat forces Delta flight from New York into isolation at Ben Gurion Airport \nA Delta flight from New York was moved to an isolated area at Israel's Ben Gurion Airport after an anonymous bomb threat triggered a security alert.\nPassengers were evacuated to the terminal while security teams searched the aircraft for explosives.\nInitial assessments suggest the threat may have been a false alarm, but its credibility has not yet been established. The investigation is ongoing.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2694\ufe0f Saudis target Sanaa\u2019s oil storage as Houthis urge civilians to evacuate areas around Aramco sites\n\ud83d\udd0a\u201cThe Yemeni Armed Forces are warning all employees and citizens located near any Saudi Aramco facility to evacuate the area and stay away from it, as these facilities are legitimate targets for our forces,\u201d Ansar Allah-aligned military spokesman Yahya Saree said Tuesday.\nSaree\u2019s comments follow a similar warning from the Saudi-led coalition urging civilians to \u201cevacuate the site of the Yemen Petroleum Company \u2013 the al-Sabaha Central Station\u201d outside Sanaa. The warning was followed by an attack Tuesday afternoon.\nYemen Petroleum said the facility was not holding any fuel ready for distribution and sale at the time of the strike.\nBefore that attack, Saree warned that Riyadh would face a \u201charsh and painful response\u201d if Yemen\u2019s capital was struck, and that its international airport and main refinery would be targeted.\nOn Monday, Saudi Energy Minister Prince Abdulaziz bin Salman promised to ramp up the kingdom\u2019s oil production and exports, notwithstanding Yemeni targeting of major facilities in Riyadh, Khurais, Yanbu, Abha, Najran and Jizan, and last month\u2019s attack on the East-West [oil pipeline](https://t.me/geopolitics_prime/76084).\n\ud83d\udc49 The US Embassy in Riyadh issued a Level 3 travel advisory for Saudi Arabia Monday, urging Americans to \u201creconsider travel\u201d \u201cdue to the risk of drone and missile targeting,\u201d armed conflict, terrorism, exit bans \u201cand local laws regarding social media activity\u201d (it\u2019s illegal to film and share info regarding missile and drone strikes).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T07:20:09+00:00",
+      "timestamp": "2026-10-13T17:16:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5 Big Tech wants 1M+ orbital data centers but fears they may be attacked\n\u00a0\nFacing public scrutiny over plans to build noisy, power-sucking, water-hogging AI host facilities in rural areas, tech CEOs are looking into the feasibility of putting them in space, where, theoretically, they\u2019d have all [the space](https://t.me/geopolitics_prime/74895) and [solar power](https://t.me/geopolitics_prime/73521) they\u2019d ever need.\nPaying little mind to the risk of creating so much space junk it effectively seals humanity in on Earth forever (a phenomenon known as Kessler syndrome), Big Tech fears satellites may come under attack due to wars back on Earth, targeted by missiles, jamming, cyber or directed energy weapons. Russia, China, the US and India are known to possess or be working on such capabilities.\n\ud83d\udcac\u201cAnything of value that you put up in space increases the potential payoff of attacking space infrastructure,\u201d astropolitics researcher Bleddyn Bowen told Bloomberg. \u201cWe\u2019d rather not have a shooting war in space because we\u2019d all lose quite a lot.\u201d\nUS Space Force assures it has \u201ccapabilities to protect and defend US space interests,\u201d potentially including orbiting data centers, \u201cif directed by appropriate decision-makers.\u201d\nKeppler launched the first elements of a dedicated space-based data center into low-Earth orbit in January with Axiom Space\u2019s help. On October 2, SpaceX launched a Google data center test satellite.\nAmazon\u2019s Jeff Bezos and his private space company Blue Origin wants government permission to launch up to 50k such satellites. Elon Musk wants to put up to 1M in orbit.\nHarvard astrophysicist Jonathan McDowell fears that in a conflict scenario, adversaries could not only target each other\u2019s constellations, but deliberately create so much space junk that envisioned Sun-synchronous orbital trajectories become essentially \u201cunusable.\u201d\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T14:42:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -730,12 +709,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2708\ufe0f Australian Islamic leader denies link to Flydubai hijacker\nSamir Mohtadi, also known as Abu Hamza, publicly dismissed what he described as \u201cfalse accusations\u201d against him and his Melbourne-based Islamic community center, Bloomberg reports. \n\ud83d\udcac \u201cI have never met al-Hammami, who has been referred to in recent media reports, and we have no record of him ever attending our center. I strongly reject any attempt to associate me or Multicultural Youth Centre with al-Hammami,\u201d Mohtadi was quoted as saying. \nThe UAE\u2019s attorney-general said al-Hammami told investigators that, while studying in Melbourne, he regularly attended a mosque affiliated with RMIT University, where he met people associated with Mohtadi\u2019s Islamic center known as MyCentre.\n\ud83d\udc49 Investigators are working to reconstruct al-Hammami's background after he assaulted the captain o[f FlyDubai Flight FZ1073 on September 30](https://t.me/geopolitics_prime/75549), aiming to bring the aircraft down at Ben Gurion Airport in Tel Aviv. \nAustralia is looking into his time in the country \u2014 he studied at RMIT University in Melbourne from 2015 to 2017 but never completed an engineering degree. He went on to undergo flight training in New Zealand, which has launched its own probe.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, we\u2019ve been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow us to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T06:26:04+00:00",
+      "timestamp": "2026-10-13T14:40:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -749,12 +728,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian Geran drones hit targets across Ukraine overnight\nExplosions were reported in Sarny and Rovno. In the Kharkov region, a locomotive was hit in Lyubotin, while strikes were also reported in Nikolayev, Khmelnitsky and near Kiev.\nIn Kiev's Dneprovsky district, a transport infrastructure facility was hit, according to Mayor Klitschko \u2014 preliminary reports point to the Darnitsa railcar repair plant and a warehouse.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\ude96\ud83c\uddfa\ud83c\uddf8 US military secretly operating in Lebanon, enjoys de facto control over its military, officer reveals\n\u00a0\n\ud83d\udcac \u201cOfficially, there is no declared US military base in Lebanon,\u201d but \u201cAmericans are in fact present at Hamat Air Base\u2026[and] at Rayak Air Base, where they oversee the drone operations facility, while a surveillance system covering the Masnaa area is located at the heart of Rayak,\u201d a senior Lebanese Army officer told The Cradle.\nCategorizing the US military and security presence and influence in the country as \u201cexceptional,\u201d the officer said there is a \u201cvery high level\u201d of coordination, including \u201cregular visits by CENTCOM officials.\u201d\n\ud83d\udc49 The US decides what arms Lebanon gets, influences planning and training, and makes other decisions which raise \u201cserious questions about the limits of Lebanese sovereignty,\u201d the officer added, pointing out, for example, that when US military aircraft arrive, they are not subject to standard inspections.\nThe same is true for the US Embassy, a \u201chuge, heavily fortified compound with extensive security and logistical infrastructure,\u201d whose personnel have repeatedly provoked security incidents, from blocking roads, to stopping the mayor from approaching them, and even ordering Lebanese troops to withdraw.\n\u203c\ufe0f The US ambassador has \u201ca very broad scope for direct communication with the highest political, military, security and judicial levels,\u201d behaving more like a viceroy than a diplomat.\nLebanon\u2019s Army is very uncomfortable with political orders to cooperate with the IDF, considering the Israelis untrustworthy.\nThe Army is hesitant to implement [the government\u2019s demands to disarm Hezbollah. ](https://t.me/geopolitics_prime/75439)\u201cThere is a major difference between taking a political decision and having the ability to implement it on the ground.\u201d The Army doesn\u2019t want \u201cto be pushed into a confrontation with a segment of the Lebanese population.\u201d\nLebanon\u2019s military also has no real ability to deter Israel from attacks, the officer lamented, saying[ the country lacks the air defenses, EW, artillery, missiles, anti-tank weapons, coastal defenses, independent C&C and intel systems](https://t.me/geopolitics_prime/76088) required.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T04:39:52+00:00",
+      "timestamp": "2026-10-13T12:49:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
