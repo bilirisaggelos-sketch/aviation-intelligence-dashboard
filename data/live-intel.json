@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:52:25.337807+00:00",
+  "generated_at": "2026-10-13T03:27:26.570769+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -30,25 +30,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/12/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nYoungstown, OH, Monday, October 12, 2026 through Monday, October 12, 2026 Local\nFacility: ZOB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/11/2026",
-      "location": "ZOB OH",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -112,6 +93,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5433\r\nIssue Time: 2026 Oct 13 0115 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 13 0115 UTC\nValid To: 2026 Oct 13 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-13 01:15:49.670",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -192,21 +192,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK07\r",
-      "text": "Space Weather Message Code: ALTK07\r\nSerial Number: 220\r\nIssue Time: 2026 Oct 10 1927 UTC\r\n\r\nALERT: Geomagnetic K-index of 7 \nThreshold Reached: 2026 Oct 10 1926 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G3 - Strong\nComment: \r\n\r\nNOAA Scale: G3 - Strong",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: A ballistic missile struck the perimeter of Riyadh Airport minutes ago, with smoke seen rising",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-10 19:27:12.427",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T00:01:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -283,6 +283,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Bosnia\u2019s Foreign Minister Elmedin Konakovi\u0107 warned U.S. Secretary of State Marco Rubio that Republika Srpska, the pro-Russia Serb-majority entity, was spending millions on Trump-linked lobbyists and consultants to gain political influence in Washington.\nThe warning followed reports that Trump aides Chris LaCivita and James Blair received hundreds of thousands of dollars for campaign advice. \nKonakovi\u0107 also urged the U.S. to consider reimposing sanctions on former Republika Srpska President Milorad Dodik, a close Putin ally whose sanctions were lifted last year.\nSource: FT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-12T23:01:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -479,6 +498,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 More maritime news out of the US, here are the highlights.\n\u2022 The Government accountability office (GAO) is now actively reviewing and testing all existing shipyards to see \u201cactual\u201d capacity for manufacturing instead of going off what the companies\u2019 are willing to \u2018show\u2019.\n\u2022 Bath Iron Works in Bath, Maine was recertified for both the infrastructure and manpower to construct 2 warships at once, with the capability to build 4 simultaneously.\n\u2022 Cleveland, OH has been chosen by the Trump administrators for the construction of a new 50,000sqft facility that will specialize in \u2018reconditioning\u2019, rehabilitating & new construction of submarine components + the construction of modules for submarines (which will then be shipped to one of the 3 shipyards in the US actively building submarines for final assembly)\n\u2022 Arsenal-2 unveiling by Anduril Industries in Baltimore County, Maryland (search our previous post for more info on this!)\n\u2022 Austal Shipyards in Mobile, Alabama are now up for sale, currently owned by Austal Limited, an Australian firm; despite their recent 400,000sqft (37,161 m\u00b2) enclosed addition for shipbuilding space, due to the firm consistently underbidding contracts and failing to provide adequate results. \n\u2022 Subsequently, Hanwha Defense; the South Korean firm that went in on rebuilding & restoring the Philadelphia Navy Yard has made it\u2019s interest known to purchase the Austal Yards. \n\u2022 The US Navy has contracted Raytheon + a slew of additional companies to provide nearly 2,000 new Standard Missile-6 (SM-6)s over a span of 4 years for $24.4 Billion (USD).",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T03:16:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "Ansar Allah released new footage of RPG and anti-tank missile attacks on Saudi-backed forces.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -516,32 +554,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "The Wall Street Journal reports that Saudi Arabia is suffering from a shortage of interceptor missiles and other air defence systems due to the recent heavy daily Ansarallah missile and drone attacks on its territory. \nSaudi Arabia is reportedly struggling to defend its entire airspace with adequate air defence, and is redeploying air defence batteries around the country to protect key energy facilities, as well as its palaces. Crown Prince Mohammed Bin Salman is reportedly carefully moving between \u201cheavily guarded palaces equipped with bunkers\u201d alongside handpicked security guards. \nYesterday, two Ansarallah cruise missiles managed to breach Saudi airspace for over 800 km, with one being intercepted over King Khalid International Airport and the other impacting.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T05:16:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 [Reuters](https://www.reuters.com/world/middle-east/faa-tells-us-airlines-exercise-caution-saudi-arabia-flights-citing-safety-risks-2026-10-11/?taid=6acc0df15a7e00000147ae04&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter): The FAA has warned U.S. airlines to exercise caution when flying to or over Saudi Arabia, citing ongoing military activity and interference with navigation systems.\nThe advisory runs until December 10 and warns of risks at all altitudes, including during takeoff, landing and overflight. It also applies to U.S.-registered aircraft.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Etihad Airways flights between Abu Dhabi and Dammam, Jeddah and Riyadh have been cancelled due to regional disruption, company statement. https://x.com/FaytuksNetwork/status/2109818495387259058/photo/1\nFaytuks Network (\nQatar Airways flights to and from Riyadh (RUH) and Dammam (DMM) airports are temporarily suspended, per company statement.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T02:29:44+00:00",
+      "timestamp": "2026-10-13T03:26:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Additional footage has been released showcasing another angle of the afternoon of the Houthi ballistic missile strike on King Khalid International Airport in Riyadh, Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Qatar Airways flights to and from Riyadh (RUH) and Dammam (DMM) airports are temporarily suspended, per company statement.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T02:27:23+00:00",
+      "timestamp": "2026-10-13T03:26:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 The IDF and Shin Bet destroyed Hamas infrastructure across the Gaza Strip over the past day, including an observation command post in Daraj Tuffah, a rocket launch site in Al Faqran, and three weapons depots holding rockets, explosives, mortars and Kalashnikov rifles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "North Korea fired multiple ballistic missiles from near Pyongyang toward the East Sea earlier, with one flying over 900 km. Seoul assesses the launches were a show of force following South Korea\u2019s own hypersonic missile test last week.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T02:26:56+00:00",
+      "timestamp": "2026-10-13T03:23:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,12 +612,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "RIYADH AIRPORT: Terminal 4 struck for the 2nd time in 24 hours. What we know so far.\nSaturday, October 10:\nA missile struck the domestic terminal complex at King Khalid International Airport, affecting Terminals 3 and 4 and triggering a mass evacuation.\nSaudi aviation officials reported at least 12 killed and 309 wounded, including several in serious condition.\nThe dead included 4 Saudis, 2 Bangladeshis and citizens of the U.S., Egypt, Jordan, Syria, Palestine and Sudan.\nWitnesses described a projectile approaching the airport before an explosion caused part of the ceiling near a departure gate to collapse.\nSunday, October 11:\nSaudi coalition spokesman Turki al Malki said another projectile struck Terminal 4, igniting a fire.\nThe extent of the damage remains unclear. No additional casualty figures have been released.\nSeparately, the coalition reported intercepting a ballistic missile over Al Kharj, near Prince Sultan Air Base, while another projectile reportedly landed near King Fahd International Airport in Dammam.\nThe wider picture:\nAttacks on Riyadh airport between October 8 and 10 killed at least 15 people and wounded more than 300.\nOn October 8, 3 Saudis were killed in strikes targeting airport facilities and a Saudia aircraft. The Houthis claimed to have launched 2 cruise missiles at the airport.\nThe Saudi coalition has described the attacks as a war crime and threatened a decisive response.\nPresident Donald Trump condemned the strikes and said he was considering U.S. participation in Saudi military operations against the Houthis.\nWhat remains unknown:\nSaudi authorities have not identified the weapon used in Sunday\u2019s strike, confirmed whether Terminal 4 was occupied at the time, or released a new casualty assessment.\nThe latest strike comes as Riyadh hosts the WPC Energy Congress, bringing together senior oil ministers and energy executives.\nThe airport is a civilian aviation facility, and no military installation has been identified within the terminal complex.",
+      "text": "The EU has approved sanctions on 1,569 people and entities in Russia\u2019s military industrial sector, including 826 companies and 743 execs. More than half the listings target the ballistic missile production chain, the EU says.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T02:19:51+00:00",
+      "timestamp": "2026-10-13T03:23:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -606,6 +625,101 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Saudi coalition forces confirm they destroyed a Houthi ballistic missile fired toward Riyadh earlier today.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T03:22:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Saudi Arabia has opened an investigation into why its air defenses failed to stop the Oct. 10 Houthi attack on Riyadh airport, AP reports. Initial findings suggest drones preceded cruise and ballistic missiles, with inadequate early warning to prevent casualties.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T03:22:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukrainian An-28 with M142 minigun shoots down two Russian Geran-2 drones, these An-28 will be retrofit with P1-Sun fast-drone interceptors. This plane has 200 kills alone.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T03:16:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "These are not merely patches, they are battle scars on the bodies of USAF KC-135R Stratotankers.\nThe metal panels represent emergency Battle Damage Repairs (BDR), installed to cover hundreds of holes caused by shrapnel from missile and drone blasts.\nTechnicians use T6 aluminum sheets to maintain structural integrity and cabin pressurization, allowing the damaged tankers to be flown to a transit base for permanent repairs.\nAmong them are KC-135R 59-1444 (Ohio ANG) and 63-8028 (Alaska ANG).\nCredit to division of areo",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T03:15:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 US reduced to \u2018fuel smuggler\u2019 in Hormuz \u2014 IRGC Navy commander\nIRGC Navy commander Brigadier General Ali Ozmaei mocked Washington\u2019s operations in the Strait of Hormuz, saying the US is now deploying fighter jets and drones simply to help a handful of tankers slip through, Press TV reported.\n\ud83d\udcac \u201cIt has effectively turned into a fuel smuggler.\u201d\nOzmaei said the US is using F-35, F-16 and F-18 fighters, along with MQ-9 and MQ-1 drones, while avoiding the use of its own vessels in the strait.\nHe described the situation as evidence of US \u201chumiliation\u201d and \u201cdesperation.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T00:31:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -656,44 +770,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-12T19:46:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel used ceasefire to ramp up physical destruction of southern Lebanon, satellite images show\n\u00a0\nThe US-brokered 10-day April \u201ccessation of hostilities\u201d in Lebanon temporarily lowered the intensity of fighting, but gave Israel the breathing space it needed to begin a campaign to systematically demolish tens of thousands of homes, schools, mosques, other buildings and infrastructure in predominantly Shia villages.\nAn NYT analysis of the fate of 60 Lebanese towns and villages in the Israeli-occupied south based on \u2018before and after\u2019 satellite images found that 48 have been essentially [erased from the map](https://t.me/geopolitics_prime/74467), their buildings destroyed, farmlands burned, [generational olive groves bulldozed](https://t.me/geopolitics_prime/68093), cemeteries desecrated and settlements turned into a \u201cwasteland\u201d punctuated by Israeli military outposts.\n\ud83d\udc49 As much as 11% of the occupied territory\u2019s total land area was burned, with Lebanese fire brigades prohibited from putting out the blazes, whose numbers reached 200+ in 2026 to date (compared to three during the same period in 2023, per European Forest Fire Information System data).\nIsrael\u2019s campaign openly targets Shia residents and communities of any other confession (Christian, Druze or Sunni) ready to shelter them. Remaining residents from these other faiths told NYT they are uneasy about their future, with one person saying they feel \u201ccompletely isolated, everything around us is destroyed, and we can\u2019t move freely.\u201d\nThe IDF insists it\u2019s acting \u201cin accordance with international law\u201d and \u201cunderstandings reached between Israel and Lebanon.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T19:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee2\ud83d\udcb5 Saudi Arabia seeks to strengthen its oil export lifeline beyond Hormuz\n\u201cWe [Saudi Arabia] may end up with 10 million barrels within the next two to three years,\u201d as \u201cwe are improving the pump stations of the East-West pipeline,\u201d Energy Minister Prince Abdulaziz bin Salman told the WPC Energy Congress in Riyadh.\nHis other key statements: \n\ud83d\udfe5 Saudi Arabia could begin using a converted gas pipeline to transport around 1.2 million barrels of crude per day within seven to eight weeks. Additional investment could eventually raise its daily capacity to 3 million barrels\n\ud83d\udfe5 Aramco CEO Amin Nasser has been informed that the pipeline could remain in use for crude until May, before being restored to its original role supplying domestic gas during the summer\n\ud83d\udfe5 Saudi Arabia and Aramco are also developing a more flexible system that would allow the pipeline to switch between oil and gas. The project involves installing the necessary pumping stations and compressors to accommodate either type of flow, depending on the kingdom\u2019s needs\nThe East-West pipeline connects Saudi Arabia\u2019s oil-producing region in the east with the Red Sea coast, providing an alternative route for crude exports that bypasses the Strait of Hormuz. \nAmid repeated Houthi attacks on energy and aviation infrastructure, expanding pipeline capacity is part of Saudi Arabia\u2019s broader effort to strengthen the resilience of its energy sector and secure its export routes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T17:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
