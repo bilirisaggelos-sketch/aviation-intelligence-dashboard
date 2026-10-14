@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T06:45:54.315038+00:00",
+  "generated_at": "2026-10-14T12:47:32.014671+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,14 +192,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-      "text": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot\nThe Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa.",
+      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
+      "text": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says\nElon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-14T04:20:17+00:00",
+      "timestamp": "2026-10-14T11:32:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -211,14 +211,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-      "text": "Russian strikes hit key power plant in Kyiv, Zelensky says\nThe Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
+      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
+      "text": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot\nThe Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-14T04:36:06+00:00",
+      "timestamp": "2026-10-14T12:26:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -279,13 +279,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -309,12 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nOvernight, the Russians used 39 ballistic missiles and more than 120 attack drones and loitering munitions against our energy and critical infrastructure.\nRussia does not consider the statements of the U.S. President to be strong. \nWe ask America and EVERYONE in the world who does not turn a blind eye to reality to respond, and to respond firmly.",
+      "text": "T\u00fcrkiye unveiled Ar\u0131 Kovan\u0131 (Beehive) at the Ate\u015f Serbest-2026 exercise \u2014 a retractable-roof sentry shelter that rapidly deploys kamikaze FPV drones from a protected, fixed position. \nThe monoblock booth features a mechanical opening roof and a rotary launch mechanism carrying 30 G\u00f6z\u00fckara FPV/loitering munitions on a 10-shelf conveyor system.\nShelves can be quickly refilled by the operator as they empty. \nThe concept allows rapid vertical deployment of low-cost precision-strike drones for base defense or perimeter security without exposing operators \u2014 essentially an automated drone dispenser disguised as a guard booth.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T06:10:56+00:00",
+      "timestamp": "2026-10-14T12:22:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -322,6 +321,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drone strikes on three Yandex data centers (Oct 8\u201311) have crippled Russia\u2019s biggest tech company, with services still unstable six days later. \nFacilities in Sasovo and Vladimir were fully knocked offline, while Kaluga was partially hit \u2014 together taking down 80+ cloud services at peak and disrupting everyday apps millions of Russians depend on. \nYandex Pay, Maps, Taxi, Navigator, and the Alice AI assistant remain glitchy or unavailable across multiple regions as of today. \nYandex Cloud is in emergency mode with compute, databases, Kubernetes, and AI services degraded or offline.\nThe company waived fees through October and told customers to use backup options. \nYandex says user money and data are safe but acknowledges prolonged access issues. \nThe Vladimir facility alone was a 50 MW site designed for ~2,880 server racks. \nPhysical repairs could take weeks to months depending on damage to servers, power, and cooling systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T12:17:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[\u26a1\ufe0f - 'This cannot be a coincidence' \u2014 Ukraine's Starlink access restricted without warning, Zelensky adviser says. Ukrai...](https://t.me/KyivIndependent_official/56129)\n\u26a1\ufe0f 'This cannot be a coincidence' \u2014 Ukraine's Starlink access\n[https://kyivindependent.com/this-cannot-be-a-coincidence-ukraines-starlink-access-restricted-without-warning-zelensky-adviser-says/]\nrestricted without warning, Zelensky adviser says.\nUkraine relies on Starlink to operate its mid-strike drones in Russian-occupied\nUkraine. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013\nFootage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/56129)\n | t\u200b.me \u2022 Oct 14, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T12:43:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[In the Defense Forces, it is reported that the operation of the military version of Starlink is limited](https://www.pravda.com.ua/news/2026/10/14/8057920/)\nThe military version of the Starlink Starshield in Ukraine has a speed limit of up to 160 km/h, which prevents drone operators from carrying out missions. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/10/14/8057920/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u0438\u0440\u0438\u043b\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Oct 14, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T12:43:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -403,32 +459,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ukraine steps up strikes on Russia\u2019s tech infrastructure, damaging third data center in 4 days](https://apnews.com/article/russia-ukraine-war-yandex-trump-zelenskyy-f621fa788196f204448e7f75fcc78c68)\nA Ukrainian drone attack shut down a data center run by Russian technology giant Yandex, the company said Sunday, the third strike on its facilities in four days as Kyiv widens its campaign against infrastructure inside Russia. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/russia-ukraine-war-yandex-trump-zelenskyy-f621fa788196f204448e7f75fcc78c68)\nThe Associated Press | apnews\u200b.com \u2022 Oct 11, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-11T14:11:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddec\ud83c\udde7 \u2014 Israeli Prime Minister Benjamin Netanyahu on Britain:\nDo you know what happened in Britain, which has undergone Islamization?\nThree thousand people in Britain have been arrested and prosecuted over posts on social media.\nOnly on one side, of course. Only on the right.\n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea \u2014 The Coalition spokesperson said that coalition forces intercepted and destroyed a missile launched by the Houthi movement (Ansar Allah) toward the Saudi capital, Riyadh.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T06:44:02+00:00",
+      "timestamp": "2026-10-14T07:47:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,153 +478,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nThere is almost no country in the Middle East that does not ask us for help.\nAnd I will surprise you: There is almost no Western country that does not ask us for help.\n\ud83d\udd34",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 WATCH: An Ansarallah fighter, cheeks stuffed with qat, seems to be in a good mood because of recent battlefield victories (and the euphoric effects of the drug of course). He says that America, Israel and Ethiopia (???) are next on the Houthi hit list after they\u2019re finished with the Saudis.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T06:37:14+00:00",
+      "timestamp": "2026-10-14T12:25:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nWhat has happened in the West Bank is a miracle. A miracle.\nWhat was supposed to become a Palestinian state will not become one today.\nIt will not happen because we will not allow it.\n\ud83d\udd34",
+      "publisher": "CASELS",
+      "text": "Zelensky: 39 ballistic missiles and over 120 drones hit Ukrainian energy and infrastructure sites overnight.\nAround 500,000 people are without power.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T06:34:41+00:00",
+      "timestamp": "2026-10-14T06:48:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nWe have transformed Israel into the strongest power in the Middle East and one of the strongest powers in the world.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T06:30:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf7\ud83c\uddf1\ud83c\udde7\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu on Iran:\nNow, this is a fanatical regime. As long as it remains standing, it will try to recover. \nIt will try to renew its nuclear program. It will try to destroy us again, rebuild Hezbollah and rebuild Hamas.\nTo destroy this entire apparatus, we need to overthrow this regime.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T06:27:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian forces reportedly launched several Zircon hypersonic missiles at energy facilities in Kyiv, including the Trypillia power plant and a 750 kV substation, with impacts reported at both locations.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T02:17:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7-Image of the Iranian Kowsar aircraft in the Iranian sky. It is a light fighter jet developed by Iran and announced in 2018. Its design is based on the American F-5 with modifications and locally manufactured electronic equipment. It is designed to perform training and combat missions and includes navigation and fire control systems. It is considered part of Iran's efforts to develop its military aviation industry and reduce its dependence on foreign sources.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T01:23:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Israeli Prime Minister Benjamin Netanyahu discussed the possibility of resuming strikes against Iran with US President Donald Trump last week, Israel\u2019s Channel 12 reported.\nAccording to the television channel\u2019s American source, officials in Washington \u201cwere impressed\u201d by the Israeli prime minister's willingness to resume attacks on Iran before the parliamentary elections that are schedule to be held in Israel on October 27.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T20:50:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Missile strikes on Saudi Arabian territory continue. New explosions are reported in Riyadh.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T19:13:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -670,127 +593,50 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83e\uddca Ukraine\u2019s Starlink connection goes haywire amid latest Russian assault\nBesides not being warned in advance by NATO \u2018partners\u2019 on Russia\u2019s overnight missile strikes in Kiev, Ukrainian forces on the ground have reportedly faced \u201cdisrupted frontline operations\u201d after[ new technical restrictions ](https://t.me/geopolitics_prime/76157)were put in place on the use of Elon Musk\u2019s satellite internet service.\nStarlink terminals used to operate drones flying 160 km/h+ suffered \u201csignal failures,\u201d disrupting multiple missions Wednesday morning, Ukrainian officials and military personnel told FT.\n\ud83d\udcac \u201cLogistics at the frontline and middle strikes are badly limited,\u201d a senior Ukrainian official said. There was \u201cno warning,\u201d with the restrictions just becoming apparent \u201cin the middle of the night,\u201d they said.\n[Defense Ministry aide Serhii Beskrestnov said ](https://t.me/geopolitics_prime/75939)it was obvious \u201cthis action is not coincidental and is related to the current political situation.\u201d\n\ud83d\udc49 Musk has not made any formal announcement on the restrictions, but did recently accuse Zelensky of going \u201ctoo far\u201d by ignoring Trump\u2019s energy ceasefire demands, and saying it\u2019s \u201ctime for Ukraine to find a new leader.\u201d\nTrump insisted Tuesday that the US continues to do [intel sharing with Ukraine.](https://t.me/geopolitics_prime/76143)\n\u27a1\ufe0f Musk previously restricted Ukraine\u2019s Starlink access by geofencing coverage to limit Ukrainian strikes deep inside Russia. The US only once briefly paused intel sharing with Ukraine \u2013 in March 2025, after an explosive televised Trump-Zelensky exchange at the White House during which Trump accused his counterpart of \u201cgambling with World War Three.\u201d\nThe immediate chaos at the front once US intel and technological support are put on pause appears to confirm what Russian officials have been saying for almost five years \u2013 that this is a NATO proxy war that would end immediately if the West pulled its support for Kiev.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T12:08:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f\ud83c\uddf8\ud83c\udde6 Houthis confirm strikes against Saudi targets, declare Saudi airports and Aramco facilities 'legitimate targets' \n\ud83d\udcac\u201cThis was done using a large number of ballistic and cruise missiles and drones, causing destruction and fires in the targeted sites,\u201d [Houthi fighters said](https://t.me/geopolitics_prime/76159) in a statement. \nThey pledged that the strikes on the Saudi airports and oil facilities will continue in the coming days, which they warned will result in \u201c[dire consequences.\u201d ](https://t.me/geopolitics_prime/76155)\nThe Houthis urged all global shipping companies, citizens, and workers in those airports and companies \"to stay away from them and evacuate them immediately, as they will be legitimate [targets](https://t.me/geopolitics_prime/76166).\" \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T10:48:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcf9 Footage emerges of Russian Geran drone strikes hitting the Epicentre logistics centre in Ukraine's Khmelnitsky\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-14T05:40:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 New wave of Russian strikes hits Kiev energy sites as power goes out\nRussia sends Kiev a 5 a.m. wake-up call, with a fresh wave of strikes ravaging energy infrastructure in and around the capital.\nLocal Ukrainian channels reported explosions near the Kievskaya substation, CHP-5 and Tripolska thermal power plant, while parts of Kiev\u2019s left bank lost power.\nPreliminary local reports said Russia launched Zircon and Onyx missiles, along with Geran drones. A substation in the Kharkov region was also reported hit.\nNew videos show the latest explosions and blackout conditions in the capital.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T03:58:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcc9\ud83d\udea2 Iran\u2019s leverage in Hormuz bites as tanker traffic plunges\nShipping through the Strait of Hormuz has entered its most intense period of disruption since the start of the US-Israeli strikes on Iran, with 24 vessels hit in two weeks and six on Sunday alone, the Financial Times reported.\nThe pressure is showing in the numbers: only 2.9 million barrels of oil moved through the strait on October 11, while the seven-day average stood around 43% below pre-war levels.\nShipowners are increasingly avoiding the area, and some vessels have turned away from Gulf cargo hubs altogether.\nMeanwhile, global supertanker earnings have surged to a record $805,000 per day as longer routes and ship-to-ship transfers disrupt normal flows.\nSeven months into the war, Iran is still using the Strait of Hormuz as a powerful pressure point against vastly superior US military and economic power.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T01:47:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Netanyahu pushes for another Iran war as elections loom\nBenjamin Netanyahu has repeatedly discussed with Donald Trump the possibility of launching a new major US-Israeli operation against Iran before the Israeli and US elections, Axios reported.\nThe talks reportedly covered strikes on Iranian military and nuclear targets, while US and Israeli forces remain on alert and continue preparations.\n\ud83d\udcac \u201cBibi seems to want to go in again,\u201d a US official said, adding that Trump\u2019s response has essentially been: \u201cGo ahead and get ready.\u201d\nBut another attack carries an obvious price. Israeli military officials reportedly expect Iran to retaliate with hundreds of ballistic missiles, potentially forcing Israel to postpone its October 27 election, while Washington fears renewed fighting could drive already high fuel prices even higher.\nThe White House officially denies Trump and Netanyahu discussed restarting the war, while Axios reports Trump has been wavering over whether to strike again.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T00:59:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udca5 Houthi missiles punch through Saudi air defenses as US-made interceptor stocks run low\nSaudi Arabia has opened an investigation into how its air-defense network failed to stop recent Houthi missile and drone attacks on Riyadh, including the deadly strike on King Khalid International Airport, Associated Press reported. Investigators are examining both the interception failure and why weapons flying more than 1,000 km were not detected earlier.\nAP noted that maneuvering Houthi ballistic missiles can pose a challenge to Patriot interceptors, while Al Jazeera reported that Saudi Arabia and other US allies are struggling with limited stocks of Patriot and THAAD munitions after heavy expenditure during the Iran war.\nThe Wall Street Journal, citing Saudi officials, separately reported that Riyadh is running low on interceptor missiles and has been moving air-defense batteries around the country to protect airports, energy infrastructure and palaces.\nFor all the billions poured into Western air defenses, Houthi missiles increasingly seem right at home in Saudi skies.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T00:14:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 \u2018There will be no Arab army west of the Jordan River\u2019 \u2014 Netanyahu\nIsraeli Prime Minister Benjamin Netanyahu openly rejected the prospect of Palestinian military sovereignty in the occupied West Bank, declaring that only Israeli forces would remain in control.\n\ud83d\udcac \u201cThere will be no Arab army here, west of the Jordan River. Here, there will be the Israel Defense Forces.\u201d\nStanding near Tulkarm, Netanyahu also referred to its refugee camp as \u201cthe former refugee camp\u201d and rejected the return of its displaced residents:\n\ud83d\udcac \u201cNo. These are not residents; these are terrorists.\u201d\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T23:27:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Houthi drones rain bombs on Saudi-backed forces in Yemen\nNew footage from Ansar Allah\u2019s Military Media shows Houthi UAVs ravaging Saudi-backed forces and vehicles operating in open desert terrain with waves of air-dropped bombs.\nThe strikes reportedly used Rajoum hexacopter drones dropping 120mm mortar bombs, OF-843-pattern munitions and locally produced ordnance.\nThe strikes are believed to have targeted positions linked to the Saudi-backed Presidential Leadership Council.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T22:39:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
