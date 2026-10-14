@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-13T22:48:27.238523+00:00",
+  "generated_at": "2026-10-14T01:44:56.677538+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, October 16, 2026 through Sunday, October 18, 2026 Local\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/13/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nRALEIGH, NC, Thursday, October 15, 2026 through Sunday, October 25, 2026 Local\nFacility: ZDC",
@@ -212,14 +231,14 @@
       "verified_source_count": 2
     },
     {
-      "title": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack",
-      "text": "Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack\nSix crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.",
+      "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
+      "text": "Russian strikes hit key power plant in Kyiv, Zelensky says\nThe Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\".",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-13T14:51:59+00:00",
+      "timestamp": "2026-10-13T22:14:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -343,12 +362,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -383,13 +403,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
+        "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -527,12 +546,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Israeli Prime Minister Benjamin Netanyahu discussed the possibility of resuming strikes against Iran with US President Donald Trump last week, Israel\u2019s Channel 12 reported.\nAccording to the television channel\u2019s American source, officials in Washington \u201cwere impressed\u201d by the Israeli prime minister's willingness to resume attacks on Iran before the parliamentary elections that are schedule to be held in Israel on October 27.",
+      "text": "\ud83c\uddee\ud83c\uddf7-Image of the Iranian Kowsar aircraft in the Iranian sky. It is a light fighter jet developed by Iran and announced in 2018. Its design is based on the American F-5 with modifications and locally manufactured electronic equipment. It is designed to perform training and combat missions and includes navigation and fire control systems. It is considered part of Iran's efforts to develop its military aviation industry and reduce its dependence on foreign sources.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T20:50:49+00:00",
+      "timestamp": "2026-10-14T01:23:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -542,6 +561,26 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Israeli Prime Minister Benjamin Netanyahu discussed the possibility of resuming strikes against Iran with US President Donald Trump last week, Israel\u2019s Channel 12 reported.\nAccording to the television channel\u2019s American source, officials in Washington \u201cwere impressed\u201d by the Israeli prime minister's willingness to resume attacks on Iran before the parliamentary elections that are schedule to be held in Israel on October 27.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T20:50:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -571,25 +610,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-13T14:11:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\ud83c\uddfa\ud83c\uddf8 Saudi Arabia is investigating the reasons why its air defense systems failed to prevent drone and missile attacks carried out by the Houthis against the airport in Riyadh, which killed at least 13 people and injured more than 300.\nPreliminary investigations showed that the Houthis used drones to facilitate the tasks carried out by cruise missiles and ballistic missiles.\nRiyadh is seeking greater U.S. participation in military operations against the Houthis, while President Trump is considering the possibility of strikes.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-12T19:36:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -768,6 +788,64 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Netanyahu pushes for another Iran war as elections loom\nBenjamin Netanyahu has repeatedly discussed with Donald Trump the possibility of launching a new major US-Israeli operation against Iran before the Israeli and US elections, Axios reported.\nThe talks reportedly covered strikes on Iranian military and nuclear targets, while US and Israeli forces remain on alert and continue preparations.\n\ud83d\udcac \u201cBibi seems to want to go in again,\u201d a US official said, adding that Trump\u2019s response has essentially been: \u201cGo ahead and get ready.\u201d\nBut another attack carries an obvious price. Israeli military officials reportedly expect Iran to retaliate with hundreds of ballistic missiles, potentially forcing Israel to postpone its October 27 election, while Washington fears renewed fighting could drive already high fuel prices even higher.\nThe White House officially denies Trump and Netanyahu discussed restarting the war, while Axios reports Trump has been wavering over whether to strike again.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T00:59:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udca5 Houthi missiles punch through Saudi air defenses as US-made interceptor stocks run low\nSaudi Arabia has opened an investigation into how its air-defense network failed to stop recent Houthi missile and drone attacks on Riyadh, including the deadly strike on King Khalid International Airport, Associated Press reported. Investigators are examining both the interception failure and why weapons flying more than 1,000 km were not detected earlier.\nAP noted that maneuvering Houthi ballistic missiles can pose a challenge to Patriot interceptors, while Al Jazeera reported that Saudi Arabia and other US allies are struggling with limited stocks of Patriot and THAAD munitions after heavy expenditure during the Iran war.\nThe Wall Street Journal, citing Saudi officials, separately reported that Riyadh is running low on interceptor missiles and has been moving air-defense batteries around the country to protect airports, energy infrastructure and palaces.\nFor all the billions poured into Western air defenses, Houthi missiles increasingly seem right at home in Saudi skies.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T00:14:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 \u2018There will be no Arab army west of the Jordan River\u2019 \u2014 Netanyahu\nIsraeli Prime Minister Benjamin Netanyahu openly rejected the prospect of Palestinian military sovereignty in the occupied West Bank, declaring that only Israeli forces would remain in control.\n\ud83d\udcac \u201cThere will be no Arab army here, west of the Jordan River. Here, there will be the Israel Defense Forces.\u201d\nStanding near Tulkarm, Netanyahu also referred to its refugee camp as \u201cthe former refugee camp\u201d and rejected the return of its displaced residents:\n\ud83d\udcac \u201cNo. These are not residents; these are terrorists.\u201d\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-13T23:27:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
