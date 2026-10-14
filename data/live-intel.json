@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T12:47:32.014671+00:00",
+  "generated_at": "2026-10-14T17:54:43.894909+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,40 +192,118 @@
       "verified_source_count": 1
     },
     {
-      "title": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says",
-      "text": "Starlink restrictions affecting Ukraine's front line operations, Kyiv says\nElon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
+      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
+      "text": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says\nElon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-14T11:32:07+00:00",
+      "timestamp": "2026-10-14T13:11:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: A Yemeni ballistic missile impacted King Khalid Airport in Riyadh moments ago",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T17:51:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "Local Iranian fishermen everywhere in the Persian Gulf & Strait of Hormuz are now the eyes and ears of the IRGC.\nThey risk their lives for their country and Iranian sovereignty over the Strait.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T16:30:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
     {
-      "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
-      "text": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot\nThe Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-14T12:26:13+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: According to U.S. intelligence estimates, Iran has at least several thousands of anti-ship cruise missiles left in its arsenal, along with hundreds of mobile launch platforms that can quickly emerge and retreat back into tunnels",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T14:22:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf4\ud83c\uddf2 NEW: More explosions in the Strait of Hormuz; Iranian anti-ship missiles are currently working",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T14:17:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf4\ud83c\uddf2 NEW: Iran has sunk a cargo ship, the \u2018GPS PRIDE\u2019, in the Strait of Hormuz",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T14:14:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -269,70 +347,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: A Yemeni ballistic missile attack against Riyadh, the capital of Saudi Arabia, has been ongoing for more than an hour",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T19:29:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: The ARAMCO Headquarters in Dhahran, Saudi Arabia, is currently on fire, and was likely directly hit by a Yemeni missile moments ago \u2013 Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T19:27:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "T\u00fcrkiye unveiled Ar\u0131 Kovan\u0131 (Beehive) at the Ate\u015f Serbest-2026 exercise \u2014 a retractable-roof sentry shelter that rapidly deploys kamikaze FPV drones from a protected, fixed position. \nThe monoblock booth features a mechanical opening roof and a rotary launch mechanism carrying 30 G\u00f6z\u00fckara FPV/loitering munitions on a 10-shelf conveyor system.\nShelves can be quickly refilled by the operator as they empty. \nThe concept allows rapid vertical deployment of low-cost precision-strike drones for base defense or perimeter security without exposing operators \u2014 essentially an automated drone dispenser disguised as a guard booth.",
+      "text": "Former Israeli PM Naftali Bennett:\nHamas is growing stronger in Gaza. There are already 27,000 Hamas fighters, and the IDF is screaming: \"I need more soldiers. We need more soldiers.\"\nThe IDF is short of 20,000 combat soldiers.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T12:22:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drone strikes on three Yandex data centers (Oct 8\u201311) have crippled Russia\u2019s biggest tech company, with services still unstable six days later. \nFacilities in Sasovo and Vladimir were fully knocked offline, while Kaluga was partially hit \u2014 together taking down 80+ cloud services at peak and disrupting everyday apps millions of Russians depend on. \nYandex Pay, Maps, Taxi, Navigator, and the Alice AI assistant remain glitchy or unavailable across multiple regions as of today. \nYandex Cloud is in emergency mode with compute, databases, Kubernetes, and AI services degraded or offline.\nThe company waived fees through October and told customers to use backup options. \nYandex says user money and data are safe but acknowledges prolonged access issues. \nThe Vladimir facility alone was a 50 MW site designed for ~2,880 server racks. \nPhysical repairs could take weeks to months depending on damage to servers, power, and cooling systems.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T12:17:57+00:00",
+      "timestamp": "2026-10-14T17:02:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,12 +481,69 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea \u2014 The Coalition spokesperson said that coalition forces intercepted and destroyed a missile launched by the Houthi movement (Ansar Allah) toward the Saudi capital, Riyadh.\n\ud83d\udd34",
+      "text": "\u26a1\ud83c\uddf5\ud83c\uddf0 Pakistan has successfully tested the Fateh-2 ballistic missile at its maximum range.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T07:47:30+00:00",
+      "timestamp": "2026-10-14T17:33:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6\u26a1\u2014 New technical restrictions on Starlink have disrupted Ukrainian drone operations during a Russian missile strike on Kiev.\nUkrainian officials reported that drones operating at high speeds suffered sudden signal failures without prior warning.\nThis technical outage severely limited frontline logistics and middle-range strikes, according to a senior Ukrainian official.\n\ud83c\uddfa\ud83c\udde6 Defense Ministry aide Serhii Beskrestnov claimed the restrictions were politically motivated and not coincidental.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T15:05:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfa\ud83c\udde6 On October 11, a flight was carried out by a C-130H Hercules military transport aircraft of the Royal Saudi Air Force, callsign RSF6085, tail number 475, on the route Elefsis (LGEL) \u2013 Krak\u00f3w (EPKK) \u2013 Rzesz\u00f3w (EPRZ), in fulfillment of a defense agreement concluded between Saudi Arabia and Ukraine, under which interceptor UAVs are being supplied, as well as air defense crews.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T14:55:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddeb\ud83c\uddf7\u26a1\u2014 Air France has banned Pakistani pilots and cabin crew from operating flights to or over Israel.\nThe airline recently confirmed that it is complying with a strict new directive issued by the Israeli Ministry of Transport.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T14:44:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,12 +671,32 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83e\uddca Ukraine\u2019s Starlink connection goes haywire amid latest Russian assault\nBesides not being warned in advance by NATO \u2018partners\u2019 on Russia\u2019s overnight missile strikes in Kiev, Ukrainian forces on the ground have reportedly faced \u201cdisrupted frontline operations\u201d after[ new technical restrictions ](https://t.me/geopolitics_prime/76157)were put in place on the use of Elon Musk\u2019s satellite internet service.\nStarlink terminals used to operate drones flying 160 km/h+ suffered \u201csignal failures,\u201d disrupting multiple missions Wednesday morning, Ukrainian officials and military personnel told FT.\n\ud83d\udcac \u201cLogistics at the frontline and middle strikes are badly limited,\u201d a senior Ukrainian official said. There was \u201cno warning,\u201d with the restrictions just becoming apparent \u201cin the middle of the night,\u201d they said.\n[Defense Ministry aide Serhii Beskrestnov said ](https://t.me/geopolitics_prime/75939)it was obvious \u201cthis action is not coincidental and is related to the current political situation.\u201d\n\ud83d\udc49 Musk has not made any formal announcement on the restrictions, but did recently accuse Zelensky of going \u201ctoo far\u201d by ignoring Trump\u2019s energy ceasefire demands, and saying it\u2019s \u201ctime for Ukraine to find a new leader.\u201d\nTrump insisted Tuesday that the US continues to do [intel sharing with Ukraine.](https://t.me/geopolitics_prime/76143)\n\u27a1\ufe0f Musk previously restricted Ukraine\u2019s Starlink access by geofencing coverage to limit Ukrainian strikes deep inside Russia. The US only once briefly paused intel sharing with Ukraine \u2013 in March 2025, after an explosive televised Trump-Zelensky exchange at the White House during which Trump accused his counterpart of \u201cgambling with World War Three.\u201d\nThe immediate chaos at the front once US intel and technological support are put on pause appears to confirm what Russian officials have been saying for almost five years \u2013 that this is a NATO proxy war that would end immediately if the West pulled its support for Kiev.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udca7 Saudi Arabia\u2019s Worst Oil Nightmare May Be Just Beginning\nSaudi Arabia built a pipeline to get its oil around trouble in the Persian Gulf, but trouble has proved less attached to geography. An October 13 attack on an Aramco administrative building in Dhahran caused a limited fire, according to the Saudi Energy Ministry, bringing the fighting into the kingdom\u2019s oil-rich Eastern Province. No casualties were reported.\nAfter the October 10 Houthi missile strike on King Khalid International Airport killed at least 13 people, Saudi authorities now have another reminder that buying weapons and keeping vital sites safe are different achievements. Repeated attacks have disrupted flights, with the pressure extending from passenger terminals to Aramco\u2019s doorstep.\nThe East-West Pipeline was supposed to give Saudi oil some breathing room by carrying crude across the country to Yanbu on the Red Sea, bypassing the Strait of Hormuz. Aramco says the route helped sustain production and exports during disruptions in the strait.\nOnce the oil reaches Yanbu, though, the map presents another awkward detail: tankers heading south must pass through Bab el-Mandeb, where the Houthis threaten shipping. Cargoes can also sail north toward Suez, so claims that Saudi exports are completely trapped go too far. The detour exists; a trouble-free journey is another matter.\nBoth coasts need oil from functioning production and processing facilities in eastern Saudi Arabia. Changing the departure port does little good if those facilities are damaged. The Dhahran fire does not establish a production outage, but it gives Saudi planners another reason to look beyond the shipping lanes.\nAn even worse scenario would be Iran encouraging unrest and sabotage in the oil-rich Eastern Province, with attacks on foreign specialists potentially driving skilled workers out. Saudi Arabia could then struggle to keep its oil facilities running even if its export routes stayed open.\nSaudi Arabia already has to protect airports, oil facilities and export routes at once, while the Houthis can choose where to strike. They do not have to defeat the Saudi military to disrupt the economy it protects. An alternative export route is useful insurance, but the policy does not cover everything.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T12:08:01+00:00",
+      "timestamp": "2026-10-14T16:57:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Netanyahu puts potential strike on Iran on hold ahead of Israeli elections\nLaunching a preemptive strike against Iran ahead of Israel\u2019s October 27 elections would be undesirable, Israeli Prime Minister Benjamin Netanyahu said in an interview on Israel's Army Radio, dismissing accusations that he wants another military confrontation to boost his political standing.\n\u201cEven if Iran fires missiles at us, they will blame me,\u201d Netanyahu said, warning that Israel would respond forcefully to any attack.\nHowever, he refused to rule out striking Iran after the elections and declined to discuss his recent talks with the US about a possible military operation.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T16:18:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -608,6 +706,83 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3The underground network keeping Houthis in the fight\nFrom 2015-2022, the Saudi-led coalition conducted 25k+ air raids over Yemen, with hundreds more carried out since the July 2026 escalation.\nSaudi Arabia possesses 900+ military aircraft, including 150+ F-15 and 72 Eurofighter Typhoon jets, plus AWACS, SIGINT and aerial refuelling support and US intel assistance. On paper, it\u2019s the most powerful air force in the region after Israel\u2019s.\nBut despite near-total conventional superiority, Riyadh and its allies have not been able to defeat Ansar Allah, which has no air force, nor stop the targeting of its infrastructure (such attacks have only [intensified](https://t.me/geopolitics_prime/76159)).\n\u00a0\n\ud83e\udd14Houthis\u2019 hidden hand\n\u00a0\nJust as the US and Israel discovered in Iran, their Saudi counterparts are finding out that air superiority means nothing if you can\u2019t find, target and destroy the enemy\u2019s hard points.\nEmerging from the mountainous highlands of Saada, Ansar Allah\u2019s home province provides fighters extensive natural and manmade cover. The region\u2019s jagged limestone and volcanic rock formations are perfect for carving, and extremely dense and durable.\nWhen the Saudis began their air campaign in 2015, the Houthis started engineering large-scale bases and workshops in the mountains, fitting them with thick concrete ceilings, industrial vents, blast doors and safety systems.\nYemen\u2019s experience with fortress building goes back to the 70s, when President Saleh ordered the creation of extensive network of underground strategic command centers and Scud missile bases with East German, Soviet and North Korean engineering help.\nWhen coalition strikes hit these sites, they temporarily block entrances, damage ventilation or cause cosmetic damage, but the bases\u2019 inhabitants and their contents are left unharmed.\nThe only conceivable way Riyadh could hope to seriously degrade Houthi capabilities in this area would be to use US GBU-57 munitions. But these are only carried by B-2 bombers, and the US has as few as 6 left in its inventory after using 14 in last year\u2019s[ Iran strikes](https://t.me/geopolitics_prime/68755).\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T14:22:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Israel warns of mass displacement and new territorial seizures in Lebanon\nIf Hezbollah joins Iran in an attack on Israel, the Israeli military will unleash a devastating assault on Lebanon, seize more territory in the south, and force over 1 million Shiite residents from their homes, Israeli Defense Minister Israel Katz warned.\n\ud83d\udc49 Katz threatened to expand Israel\u2019s so-called security zone in southern Lebanon, warning of mass evacuations and heavy strikes on Beirut\u2019s southern suburbs.\nThe Israeli defense minister also made clear that Israel has no intention of withdrawing from the territory it currently occupies in Lebanon and Syria, while threatening Hezbollah leader Naim Qassem with the same fate as his predecessor Hassan Nasrallah.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T13:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel on \u2018heightened alert\u2019 looking out for Houthi ground, sea assault\n\u00a0\nThe IDF is setting up a specialized command hub inside its 80th Edom Territorial Division to prepare for a possible \u201csurprise attack\u201d by Yemen\u2019s Ansar Allah fighters.\nDefense officials told JPost the Houthis have ramped up warnings in recent months and weeks about potential \u201cground attacks\u201d targeting enemies, including Israel, and that their \u201cunpredictability\u201d \u2013 which has proven effective against Saudi Arabia, is prompting the IDF to take the threats seriously.\nIsraeli preparations include setting up a garrison of reserve and rapid-reaction forces around Eilat \u2013 Israel\u2019s sole Red Sea port city. The port was previously bankrupted by Ansar Allah after they disrupted Red Sea commercial shipping traffic in [solidarity with Gaza](https://t.me/geopolitics_prime/49323).\nThe deployment will include drills, including with local police and border police forces, an arms buildup, and work to improve coordination and communication between the army, navy and air force.\n\ud83d\udcac\u201cThe Houthis have long since ceased to be regarded as proxies of the Iranians, and they are demonstrating operational independence with an inexplicable determination against the Saudis,\u201d an Israeli defense official admitted, discussing Israel\u2019s preparations.\nThe potential Yemeni threat is said to feature \u201cprominently in Israeli security assessments.\u201d\nIt\u2019s not immediately clear what specifically spooked Israel to plan for an all-out Houthi ground or naval assault. The fighters do not possess a conventional blue or even brown water navy, but did recently demonstrate a high level of naval prowess and coordination by rapidly seizing virtually all the islands along the Red Sea coast from the [Saudi-backed](https://t.me/geopolitics_prime/74365) Aden government.\n\ud83d\udc49Ansar Allah has spent years asking neighboring nations to give thousands of its fighters safe passage through Saudi Arabia and Jordan to join the fight against Israel. These requests have consistently been [ignored](https://t.me/geopolitics_prime/62540).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T12:49:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83e\uddca Ukraine\u2019s Starlink connection goes haywire amid latest Russian assault\nBesides not being warned in advance by NATO \u2018partners\u2019 on Russia\u2019s overnight missile strikes in Kiev, Ukrainian forces on the ground have reportedly faced \u201cdisrupted frontline operations\u201d after[ new technical restrictions ](https://t.me/geopolitics_prime/76157)were put in place on the use of Elon Musk\u2019s satellite internet service.\nStarlink terminals used to operate drones flying 160 km/h+ suffered \u201csignal failures,\u201d disrupting multiple missions Wednesday morning, Ukrainian officials and military personnel told FT.\n\ud83d\udcac \u201cLogistics at the frontline and middle strikes are badly limited,\u201d a senior Ukrainian official said. There was \u201cno warning,\u201d with the restrictions just becoming apparent \u201cin the middle of the night,\u201d they said.\n[Defense Ministry aide Serhii Beskrestnov said ](https://t.me/geopolitics_prime/75939)it was obvious \u201cthis action is not coincidental and is related to the current political situation.\u201d\n\ud83d\udc49 Musk has not made any formal announcement on the restrictions, but did recently accuse Zelensky of going \u201ctoo far\u201d by ignoring Trump\u2019s energy ceasefire demands, and saying it\u2019s \u201ctime for Ukraine to find a new leader.\u201d\nTrump insisted Tuesday that the US continues to do [intel sharing with Ukraine.](https://t.me/geopolitics_prime/76143)\n\u27a1\ufe0f Musk previously restricted Ukraine\u2019s Starlink access by geofencing coverage to limit Ukrainian strikes deep inside Russia. The US only once briefly paused intel sharing with Ukraine \u2013 in March 2025, after an explosive televised Trump-Zelensky exchange at the White House during which Trump accused his counterpart of \u201cgambling with World War Three.\u201d\nThe immediate chaos at the front once US intel and technological support are put on pause appears to confirm what Russian officials have been saying for almost five years \u2013 that this is a NATO proxy war that would end immediately if the West pulled its support for Kiev.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T12:08:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -618,25 +793,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-14T10:48:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Footage emerges of Russian Geran drone strikes hitting the Epicentre logistics centre in Ukraine's Khmelnitsky\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T05:40:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
