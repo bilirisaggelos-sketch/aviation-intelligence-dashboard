@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:54:43.894909+00:00",
+  "generated_at": "2026-10-14T21:30:54.208456+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/12/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLas Vegas, NV, Tuesday, October 13, 2026 Local\nFacility: ZLA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/11/2026",
-      "location": "ZLA NV",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -192,26 +173,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-      "text": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says\nElon Musk's system allows Kyiv to protect Ukrainian skies and effectively guide drones to Russian targets.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-14T13:11:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: A Yemeni ballistic missile impacted King Khalid Airport in Riyadh moments ago",
@@ -223,13 +184,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -323,44 +283,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Visual confirmation of the moment ARAMCO Headquarters in Dhahran was struck by a ballistic missile",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T19:40:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former Israeli PM Naftali Bennett:\nHamas is growing stronger in Gaza. There are already 27,000 Hamas fighters, and the IDF is screaming: \"I need more soldiers. We need more soldiers.\"\nThe IDF is short of 20,000 combat soldiers.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T17:02:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -481,12 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf5\ud83c\uddf0 Pakistan has successfully tested the Fateh-2 ballistic missile at its maximum range.",
+      "text": "\u26a1\ud83c\uddf0\ud83c\uddf5 North Korea has conducted tests of submarine-launched cruise missiles, as reported by the country's official news agency.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T17:33:23+00:00",
+      "timestamp": "2026-10-14T21:27:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -500,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6\u26a1\u2014 New technical restrictions on Starlink have disrupted Ukrainian drone operations during a Russian missile strike on Kiev.\nUkrainian officials reported that drones operating at high speeds suffered sudden signal failures without prior warning.\nThis technical outage severely limited frontline logistics and middle-range strikes, according to a senior Ukrainian official.\n\ud83c\uddfa\ud83c\udde6 Defense Ministry aide Serhii Beskrestnov claimed the restrictions were politically motivated and not coincidental.",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemen\u2019s Ansar Allah movement says it targeted a Royal Saudi Air Force Eurofighter Typhoon fighter jet with a surface-to-air missile over Saada Governorate, northern Yemen. The aircraft reportedly took off from Taif Air Base. \nThe movement says the missile scored a direct hit, leaving the jet at risk of crashing.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T15:05:27+00:00",
+      "timestamp": "2026-10-14T21:19:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -519,12 +441,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddfa\ud83c\udde6 On October 11, a flight was carried out by a C-130H Hercules military transport aircraft of the Royal Saudi Air Force, callsign RSF6085, tail number 475, on the route Elefsis (LGEL) \u2013 Krak\u00f3w (EPKK) \u2013 Rzesz\u00f3w (EPRZ), in fulfillment of a defense agreement concluded between Saudi Arabia and Ukraine, under which interceptor UAVs are being supplied, as well as air defense crews.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nIsrael today is the strongest power.\nAnd I can also tell you that our economy is booming at a level that's difficult to believe.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T14:55:57+00:00",
+      "timestamp": "2026-10-14T21:00:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,12 +460,50 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddeb\ud83c\uddf7\u26a1\u2014 Air France has banned Pakistani pilots and cabin crew from operating flights to or over Israel.\nThe airline recently confirmed that it is complying with a strict new directive issued by the Israeli Ministry of Transport.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Prime Minister Benjamin Netanyahu on Iran:\nI say it is essential to overthrow this regime.\nWe've done a great deal. We've crushed it. They're at the weakest point they've ever been.\nBut we need to finish the job.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T14:44:30+00:00",
+      "timestamp": "2026-10-14T20:59:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 \u2014 Question: Is regime change in Iran realistic before the Israeli elections?\nIsraeli Prime Minister Benjamin Netanyahu: No, I don't think that's realistic.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T20:58:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nGadi Eisenkot wanted to stop the Gaza War immediately. He wanted to stop it before we had even entered Rafah.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T20:55:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -671,6 +631,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Houthis drive Saudi-backed forces from Dhubab Airport, capture armored vehicle\nYemen\u2019s Ansar Allah released new battlefield footage showing the repulsion of Saudi-backed forces at Dhubab Airport on October 14.\nAccording to the group\u2019s military media, several vehicles were burned or captured, including an armored vehicle, while a number of Saudi-backed fighters were taken prisoner.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T21:12:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2708\ufe0fUkraine's Saudi flight raises questions about its role in the Yemeni conflict\n \nA Ukrainian heavy transport aircraft, the Il-76MD, was tracked flying from Saudi Arabia to Istanbul on October 12, raising questions about whether Ukraine has chosen to support the Saudi government in its fight against the Houthis.\nThe aircraft left Sharurah, an airport in Najran province located directly on the border with Yemen. The airport is an important logistics center for Saudi operations against the Houthis in the region.\nThe Il-76MD is a military transport plane designed to carry personnel, military equipment, heavy cargo, and weapons. It is still unclear what exact cargo it might have been transporting.\nUkraine has maintained a presence in the Middle East and the Gulf for many years.\n\ud83c\udf0f During the Iran war, the country sent more than 200 specialists to Gulf states to help repel Iranian retaliatory strikes\n\ud83c\udf0f In March, Ukraine signed a military agreement with Saudi Arabia focused on counter-drone technology and air defense systems. Zelensky has openly said Ukraine wants Gulf financing in exchange for its wartime drone [expertise](https://t.me/geopolitics_prime/67493)\nThe presumed Ukrainian delivery fits into the broader picture of foreign aid to Saudi Arabia, which is struggling to defend its oil infrastructure and airports from [Houthi strikes](https://t.me/geopolitics_prime/76166). Calls for direct intervention in Yemen are already being heard [in Britain](https://t.me/geopolitics_prime/76199), while Trump has threatened the Houthis with [bombardment](https://t.me/geopolitics_prime/76099).\nYet despite the influx of foreign assistance, Saudi Arabia has been unable to reverse the Houthis' territorial gains. The group relies on an extensive network of underground [fortifications](https://t.me/geopolitics_prime/76197) and continues to hold positions near the [Bab al-Mandab Strait](https://t.me/geopolitics_prime/75960), keeping pressure on one of the world's most critical maritime chokepoints.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T19:12:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddf8\ud83c\udde6\ud83d\udca7 Saudi Arabia\u2019s Worst Oil Nightmare May Be Just Beginning\nSaudi Arabia built a pipeline to get its oil around trouble in the Persian Gulf, but trouble has proved less attached to geography. An October 13 attack on an Aramco administrative building in Dhahran caused a limited fire, according to the Saudi Energy Ministry, bringing the fighting into the kingdom\u2019s oil-rich Eastern Province. No casualties were reported.\nAfter the October 10 Houthi missile strike on King Khalid International Airport killed at least 13 people, Saudi authorities now have another reminder that buying weapons and keeping vital sites safe are different achievements. Repeated attacks have disrupted flights, with the pressure extending from passenger terminals to Aramco\u2019s doorstep.\nThe East-West Pipeline was supposed to give Saudi oil some breathing room by carrying crude across the country to Yanbu on the Red Sea, bypassing the Strait of Hormuz. Aramco says the route helped sustain production and exports during disruptions in the strait.\nOnce the oil reaches Yanbu, though, the map presents another awkward detail: tankers heading south must pass through Bab el-Mandeb, where the Houthis threaten shipping. Cargoes can also sail north toward Suez, so claims that Saudi exports are completely trapped go too far. The detour exists; a trouble-free journey is another matter.\nBoth coasts need oil from functioning production and processing facilities in eastern Saudi Arabia. Changing the departure port does little good if those facilities are damaged. The Dhahran fire does not establish a production outage, but it gives Saudi planners another reason to look beyond the shipping lanes.\nAn even worse scenario would be Iran encouraging unrest and sabotage in the oil-rich Eastern Province, with attacks on foreign specialists potentially driving skilled workers out. Saudi Arabia could then struggle to keep its oil facilities running even if its export routes stayed open.\nSaudi Arabia already has to protect airports, oil facilities and export routes at once, while the Houthis can choose where to strike. They do not have to defeat the Saudi military to disrupt the economy it protects. An alternative export route is useful insurance, but the policy does not cover everything.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -680,13 +678,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -776,13 +773,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
