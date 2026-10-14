@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T01:44:56.677538+00:00",
+  "generated_at": "2026-10-14T06:45:54.315038+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -87,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/11/2026",
       "location": "ZLA NV",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nAnchorage, AK, Tuesday, October 13, 2026 through Tuesday, October 13, 2026 Local\nFacility: ZAN",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/10/2026",
-      "location": "ZAN AK",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -218,17 +199,16 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-13T22:29:55+00:00",
+      "timestamp": "2026-10-14T04:20:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "Geopolitics Prime"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
@@ -238,7 +218,7 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-13T22:14:33+00:00",
+      "timestamp": "2026-10-14T04:36:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -261,14 +241,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -282,14 +260,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -303,12 +279,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -322,122 +299,22 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Oil tank explodes at Russia's Rostov terminal four days after Ukrainian drone strike; no new attack, just the fire still burning.\nOSINT assessments say at least 7 of 12 large tanks have been destroyed, with some reports suggesting no undamaged tanks remain. \nThe terminal, which handles ~2.5 million tonnes of oil products annually and loads tankers on the Don River, had already been struck once before in July.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T21:32:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukraine has launched another massive drone attack targeting Russia and Russian-occupied territories.",
+      "text": "Zelensky:\nOvernight, the Russians used 39 ballistic missiles and more than 120 attack drones and loitering munitions against our energy and critical infrastructure.\nRussia does not consider the statements of the U.S. President to be strong. \nWe ask America and EVERYONE in the world who does not turn a blind eye to reality to respond, and to respond firmly.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T19:39:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Loud booms were heard near Saudi Aramco\u2019s headquarters in Dhahran, with sources reporting a fire, an evacuation order and a possible strike on the building.\nSaudi authorities said debris from an intercepted missile fell on a residential area.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T19:28:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky Says Partners Failed to Warn Kyiv of Russian Ballistic Attack\nKyiv is investigating an early-warning failure after five Russian ballistic missiles struck the capital amid U.S. threats of cutting off intelligence sharing.\n[READ MORE](https://clashreport.com/world/articles/zelensky-says-partners-failed-to-warn-kyiv-of-russian-ballistic-attack-g1swv0d7tv)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T19:02:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "MI5 Devotes More Resources to State Threats Than During Cold War\nMI5 chief says foreign threats have quadrupled in a decade, with Russia and Iran driving the agency\u2019s state-threat work to roughly the same scale as counterterrorism.\n[READ MORE](https://clashreport.com/world/articles/mi5-devotes-more-resources-to-state-threats-than-during-cold-war-spy-chief-08wwkcn1p83s/)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T17:43:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "JD Vance:\nI love you too sir. In a totally platonic way, to be clear. \nI'm the vice president, not James Talarico.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T17:03:01+00:00",
+      "timestamp": "2026-10-14T06:10:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -546,6 +423,120 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddec\ud83c\udde7 \u2014 Israeli Prime Minister Benjamin Netanyahu on Britain:\nDo you know what happened in Britain, which has undergone Islamization?\nThree thousand people in Britain have been arrested and prosecuted over posts on social media.\nOnly on one side, of course. Only on the right.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T06:44:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nThere is almost no country in the Middle East that does not ask us for help.\nAnd I will surprise you: There is almost no Western country that does not ask us for help.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T06:37:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nWhat has happened in the West Bank is a miracle. A miracle.\nWhat was supposed to become a Palestinian state will not become one today.\nIt will not happen because we will not allow it.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T06:34:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nWe have transformed Israel into the strongest power in the Middle East and one of the strongest powers in the world.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T06:30:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf7\ud83c\uddf1\ud83c\udde7\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu on Iran:\nNow, this is a fanatical regime. As long as it remains standing, it will try to recover. \nIt will try to renew its nuclear program. It will try to destroy us again, rebuild Hezbollah and rebuild Hamas.\nTo destroy this entire apparatus, we need to overthrow this regime.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T06:27:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Russian forces reportedly launched several Zircon hypersonic missiles at energy facilities in Kyiv, including the Trypillia power plant and a 750 kV substation, with impacts reported at both locations.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-14T02:17:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7-Image of the Iranian Kowsar aircraft in the Iranian sky. It is a light fighter jet developed by Iran and announced in 2018. Its design is based on the American F-5 with modifications and locally manufactured electronic equipment. It is designed to perform training and combat missions and includes navigation and fire control systems. It is considered part of Iran's efforts to develop its military aviation industry and reduce its dependence on foreign sources.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -574,13 +565,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -603,32 +593,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Saudi Arabia has warned civilians to evacuate the Al-Sabaha oil refinery in Sanaa\u2014owned by Yemen\u2019s main oil company\u2014signaling an imminent strike.\nMeanwhile, Yemen\u2019s Houthi rebels have once again warned all workers at Saudi oil facilities and airports to evacuate, also indicating that new strikes are being planned.\nAuthorities in Sanaa have warned all \"specialists, engineers, and workers at all oil production facilities\" in Saudi Arabia to leave areas designated as targets\u2014\"whether or not they have previously been struck\"\u2014to avoid threats to their lives.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T14:11:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Two vessels were struck by drones, likely Russian, today in the Black Sea just 18 miles off the coast of Bulgaria, with one vessels sinking. Rescue operations are currently underway, as at least twelve crew members, possibly Ukrainian, have been reported injured. This follows last week\u2019s swathe of attacks against shipping within the EEZs of NATO nations in the Black Sea, with it being best to describe the response from the nations involved as paltry.\nMore to come.",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Additional footage showcasing the missile in the skies of Riyadh, Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T06:20:46+00:00",
+      "timestamp": "2026-10-14T05:39:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -642,12 +613,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "BREAKING: 2 commercial ships have been targeted in drone attacks just outside Bulgarian territorial waters in the Black Sea, resulting in one vessel sinking and another damaged, according to the Bulgarian Prime Minister Rumen Radev.\nAZOV CONCORD sank 17 nautical miles east of Krapets following a drone strike, with a civilian ship assisting rescue operations. \nCHELSEA 3 was struck by three drones 18 nautical miles off Byala, where Border Police rescued all 15 crew members.\nThe Prime Minister has summoned Russian Ambassador Eleonora Mitrofanova and requested urgent NATO surveillance assistance in the region.\nNone of the ships came from Ukrainian ports.",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Footage documenting a Saudi Arabian interception of the Houthi missile that was launched towards its capital, Riyadh.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T06:08:46+00:00",
+      "timestamp": "2026-10-14T05:39:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -661,12 +632,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "#Yemen / #SaudiArabia \ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6: Ansar Allah (#Houthis) allegedly shot down two Drones over Bani Matar in Sana'a and Saada.\nOne of the Drones reported to be a Chinese CAIG \u201cWing Loong II\u201d MALE UAV / UCAV operated by the Saudi Forces.\nhttps://x.com/war_noir/status/2109861474633994309",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 For the fifth time today, the IRCG continues its ballistic missile exercises in Isfahan.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T06:01:44+00:00",
+      "timestamp": "2026-10-14T05:35:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -680,12 +651,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Five terror operatives were killed in Israeli strikes in the Gaza Strip in recent days, the military announces.\nThe IDF says that one strike on Sunday in southern Gaza's Khan Younis killed three members of the Palestinian Islamic Jihad, as they gathered to plan attacks on troops.\nThey are identified by the military as Muhammad Abu Hajjaj, an engineering operative, Yousef Abu Razak, a deputy squad commander, and Abdelhamid Jadallah, a rocket operative.\nA separate strike yesterday in southern Gaza killed Salah a-Din Iyad Abd al-Hamid and Izz a-Din Iyad Diab Barhoum, identified by the army as members of Hamas's elite Nukhba Force in the terror group's Rafah Brigade.\nThe IDF says the five had been advancing attacks against troops and civilians and attempting to restore the capabilities of the two terror groups, \"in systematic violation of the ceasefire.",
+      "text": "Over 40 laptop farms across Texas were dismantled by the FBI last month, with nearly 200 computer devices seized. The network helped North Koreans obtain remote IT jobs at U.S. companies using stolen American identities, funding Pyongyang's nuclear and ballistic missile programs.\nIndictments were unsealed in Ohio against two U.S. nationals and 10 China-based North Koreans. Prosecutors say the scheme hit 70 companies for more than $3 million between 2019 and 2025.\nNew York Times",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T06:01:38+00:00",
+      "timestamp": "2026-10-14T05:30:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -698,96 +669,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddf9\ud83c\uddea\ud83c\uddf9\ud83c\uddea\ud83c\uddf7 Ethiopian federal forces have retaken Adigrat, a strategic city around 30 km from the Eritrean border, bringing all four of Tigray\u2019s largest cities, Mekelle, Shire, Adigrat, and Aksum, under ENDF control. The takeover follows reports of Eritrean troop movements, armed clashes and drone strikes in northern Tigray. ACLED reported Ethiopian drone strikes targeting Eritrean forces in the area. For now, there has been no Ethiopian offensive into Eritrea.\nEthiopia has accused Eritrea of sending troops up to 60 km into Tigray. Eritrea has denied the allegations and accuses Ethiopia of using them to justify a war of aggression. Eritrea\u2019s foreign minister has appealed to the UN Security Council to condemn Ethiopia and take deterrent measures.\nThe escalation comes as Ethiopian forces continue advancing against the Tigray People\u2019s Liberation Front (TPLF).\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Footage emerges of Russian Geran drone strikes hitting the Epicentre logistics centre in Ukraine's Khmelnitsky\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:53:20+00:00",
+      "timestamp": "2026-10-14T05:40:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddf9\ud83c\uddfc\ud83c\uddfa\ud83c\uddf8[Taipei times](https://www.taipeitimes.com/News/front/archives/2026/10/11/2003865754): Taiwan will be receiving 500 Stinger missiles and 176 launchers by the end of the year. \nThis is the first batch of deliveries under a two stage plan for a total of 2,621 missiles and 763 launchers. \nThe Navy has alotted 295 missiles and 85 launchers to the Marines and 91 missiles and 21 launchers have been allocated for the military police.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 New wave of Russian strikes hits Kiev energy sites as power goes out\nRussia sends Kiev a 5 a.m. wake-up call, with a fresh wave of strikes ravaging energy infrastructure in and around the capital.\nLocal Ukrainian channels reported explosions near the Kievskaya substation, CHP-5 and Tripolska thermal power plant, while parts of Kiev\u2019s left bank lost power.\nPreliminary local reports said Russia launched Zircon and Onyx missiles, along with Geran drones. A substation in the Kharkov region was also reported hit.\nNew videos show the latest explosions and blackout conditions in the capital.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:53:09+00:00",
+      "timestamp": "2026-10-14T03:58:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde7\ud83c\uddeb\ud83c\udff4 ISIS-linked media claims at least 400 JNIM militants were killed in an ISIS counterattack in Burkina Faso\u2019s northern Sahel region.\nThe report also claims 300 motorcycles were burned and more than 460 machine guns, 13 rocket launchers and other equipment were seized.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcc9\ud83d\udea2 Iran\u2019s leverage in Hormuz bites as tanker traffic plunges\nShipping through the Strait of Hormuz has entered its most intense period of disruption since the start of the US-Israeli strikes on Iran, with 24 vessels hit in two weeks and six on Sunday alone, the Financial Times reported.\nThe pressure is showing in the numbers: only 2.9 million barrels of oil moved through the strait on October 11, while the seven-day average stood around 43% below pre-war levels.\nShipowners are increasingly avoiding the area, and some vessels have turned away from Gulf cargo hubs altogether.\nMeanwhile, global supertanker earnings have surged to a record $805,000 per day as longer routes and ship-to-ship transfers disrupt normal flows.\nSeven months into the war, Iran is still using the Strait of Hormuz as a powerful pressure point against vastly superior US military and economic power.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:52:56+00:00",
+      "timestamp": "2026-10-14T01:47:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Additional footage of Saudi PAC-3 launches against a Houthi ballistic missile moments ago.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:49:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 U.S. Mission in Saudi Arabia security alert:\n\u201cU.S. government employees now require special authorization to use any airport in Saudi Arabia. Citizens should exercise extreme caution, anticipate cancellations and airspace closures, and confirm flight status directly with airlines and airports.\nAmerican citizens have been detained for photographing recent events. Filming or sharing information about missile and drone interceptions or impact sites can expose you to legal liability under Saudi law.\nGovernment employees cannot travel within 20 miles of the Yemen border and need authorization to visit Jizan, Asir, Najran, Qatif, Yanbu and Taif. Car, train and bus services may offer alternatives to flying.\u201d\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T03:48:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -803,13 +736,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -823,12 +755,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -867,105 +800,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 More footage emerges from Houthi strikes across Saudi Arabia\nA new batch of videos from Riyadh and Dammam shows fires and explosions following the latest Ansar Allah missile attacks, Naya reported.\nThe footage surfaced despite Saudi authorities urging people not to publish documentation of the strikes.\nPress TV described the attacks as retaliation for Saudi strikes on Yemen\u2019s oil infrastructure in Sana\u2019a.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T21:46:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Russia pounds Kiev as Ukraine complains West gave no missile warning\nRussian ballistic missiles struck Kiev before Ukraine received the advance launch information it normally gets from Western partners, Zelensky whined. Reuters confirmed that Ukraine received no prior warning of the attack.\nUkrainian media reported major explosions and fires, while incoming missiles were reportedly detected only when they were already approaching the capital.\nPolitico reported that US officials blamed the missed warning on \u201cbad weather\u201d \u2014 an explanation that raised eyebrows in Kiev.\nThe timing is particularly awkward: Washington has recently warned Ukraine that continued attacks on Russian oil refineries could put US intelligence sharing and weapons support at risk.\nFor now, both US and Ukrainian officials maintain that intelligence sharing has not formally been suspended.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T20:53:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2705 WATCH: Houthi missile pounds Aramco HQ in Dhahran\nFootage circulating on local channels shows the moment a Houthi missile struck Saudi Aramco\u2019s headquarters in Dhahran.\nReuters reported loud explosions around the complex, with one source saying the headquarters had been struck and another reporting a fire. Employees were ordered to evacuate and work from home the following day.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T20:05:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udf0f\ud83d\udcc8 Cables in the crosshairs: Iran, Yemen could amputate internet\u2019s East-West bridge\n\u00a0\nIranian Supreme National Security Council chief Mohsen Rezaei has warned that if the US resumed its aggression, Iranian counterstrikes may target $2T+ in US Big Tech assets in the region, including underwater internet cables, data centers and [AI infrastructure](https://t.me/geopolitics_prime/76062).\nAt least half-a-dozen key underwater cables run along the bottom of the Hormuz Strait, including:\n\ud83c\udf0f Asia-Africa-Europe 1: massive, 25k km transcontinental network\n\ud83c\udf0f South East Asia-Middle East-Western Europe 5: international network stretching from France to Singapore\n\ud83c\udf0f FALCON, Gulf Bridge International, Tata TGN-Gulf, and Persian Gulf Optical Internet: links connecting the Gulf to India, Africa, one another, Europe and Asia\nGulf and Hormuz waters\u2019 average depth is ~50-100M, and Iran has a broad array of tools it could use to target the easily spottable cable infrastructure, from remotely operated underwater vehicles and IRGC divers to specially-rigged seabed mines, or even by dragging [ship anchors](https://t.me/geopolitics_prime/67663).\nIf Iran\u2019s Ansar Allah allies joined the fight, damage would expand exponentially, affecting up to 90% of all data transfer capacity between Europe and Asia, and ~15% of global internet traffic, hitting the 2Africa, SEA-ME-WE 4 and 5, Europe India Gateway, and TGN-Eurasia networks.\nBab al-Mandab has an average depth of ~100-185M, and Houthis don\u2019t have the same sophisticated naval tech, but could adopt locally-made or Iranian-designed UUVs, weighted bottom sea mines, or the same, simple anchor dragging technique.\n\u27a1\ufe0fOnce decommissioned, restoring the infrastructure could prove difficult, since both Iran and Yemen\u2019s fighters can simply deny repair ships\u2019 entry into the region so long as the broader conflict continues.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T18:40:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Saudis target Sanaa\u2019s oil storage as Houthis urge civilians to evacuate areas around Aramco sites\n\ud83d\udd0a\u201cThe Yemeni Armed Forces are warning all employees and citizens located near any Saudi Aramco facility to evacuate the area and stay away from it, as these facilities are legitimate targets for our forces,\u201d Ansar Allah-aligned military spokesman Yahya Saree said Tuesday.\nSaree\u2019s comments follow a similar warning from the Saudi-led coalition urging civilians to \u201cevacuate the site of the Yemen Petroleum Company \u2013 the al-Sabaha Central Station\u201d outside Sanaa. The warning was followed by an attack Tuesday afternoon.\nYemen Petroleum said the facility was not holding any fuel ready for distribution and sale at the time of the strike.\nBefore that attack, Saree warned that Riyadh would face a \u201charsh and painful response\u201d if Yemen\u2019s capital was struck, and that its international airport and main refinery would be targeted.\nOn Monday, Saudi Energy Minister Prince Abdulaziz bin Salman promised to ramp up the kingdom\u2019s oil production and exports, notwithstanding Yemeni targeting of major facilities in Riyadh, Khurais, Yanbu, Abha, Najran and Jizan, and last month\u2019s attack on the East-West [oil pipeline](https://t.me/geopolitics_prime/76084).\n\ud83d\udc49 The US Embassy in Riyadh issued a Level 3 travel advisory for Saudi Arabia Monday, urging Americans to \u201creconsider travel\u201d \u201cdue to the risk of drone and missile targeting,\u201d armed conflict, terrorism, exit bans \u201cand local laws regarding social media activity\u201d (it\u2019s illegal to film and share info regarding missile and drone strikes).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-13T17:16:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
