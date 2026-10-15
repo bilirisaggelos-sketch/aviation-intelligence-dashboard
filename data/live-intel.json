@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-15T18:34:14.610808+00:00",
+  "generated_at": "2026-10-15T21:49:08.098873+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMarietta, GA, Friday, October 16, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/15/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 16, 2026 through Sunday, October 18, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/15/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nHerbon, KY, Saturday, October 17, 2026 Local\nFacility: ZID",
@@ -173,6 +211,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
+      "text": "Houthi missile attack on Yemeni presidential palace kills two, minister says\nYemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-15T17:18:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
       "text": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast\nA search and rescue operation is under way in the Black Sea after the latest attack in the area.",
       "source": "BBC",
@@ -270,12 +327,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Egyptian President el-Sisi on Israel:\nYesterday, when I spoke about the statements made by that Israeli official, who said Egypt cannot do anything because it is afraid of Israel, that is why I said: After 50 years, you are still thinking with the same mentality.\nWe have no ambitions and no ulterior objectives. We just want all of us to live.",
+      "text": "Saudi Arabia\u2019s Costly Defenses Struggle Against Cheap Houthi Drones\nDespite its advanced weapons, Saudi Arabia is struggling with Houthi drones and cruise missiles that fly low, evade detection, and strain defenses built around different assumptions.\n[READ MORE](https://clashreport.com/focus/articles/saudi-arabia-s-costly-defenses-struggle-against-cheap-houthi-drones-hnin0rwkzy)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T17:46:47+00:00",
+      "timestamp": "2026-10-15T20:48:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russia Turns Empty Field Into Major Jet Drone Base in Six Weeks\nSatellite imagery shows eight launch platforms at a nearly completed facility in the Rostov region, expanding its capacity to deploy fast jet drones that Ukraine has struggled to intercept.\n[READ MORE](https://clashreport.com/world/articles/russia-turns-empty-field-into-major-jet-drone-base-in-six-weeks-2baynjte0u8)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T19:48:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "UK Sends More Storm Shadows to Ukraine Ahead of Winter\nThe undisclosed missile resupply aims to help Kyiv disrupt Russian attacks on civilian infrastructure before winter, as London resists pressure for Ukraine to suspend strikes.\n[READ MORE](https://clashreport.com/defense/articles/uk-sends-more-storm-shadows-to-ukraine-ahead-of-winter-s94sw1ea4j)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T19:28:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -403,69 +498,69 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 WATCH: Video shows remnants of a cruise missile launched by Ansar Allah targeting King Khalid International Airport in Riyadh, the Saudi capital.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T19:34:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Ansar Allah launches a missile and drone attack targeting PLC forces gathering in Aden Governorate, southern Yemen.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T19:23:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 WATCH: Ansar Allah has released footage showing a Royal Saudi Air Force Eurofighter Typhoon fighter jet being hit by a surface-to-air missile over Yemen\u2019s Saada Governorate.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T19:16:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f Israeli PM Benjamin Netanyahu will convene a restricted security cabinet meeting tonight to discuss Iran.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-15T17:47:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf1\ud83c\udde7Shipments of explosives, diesel fuel and food supplies for Israeli forces are reportedly arriving in Zawtar al-Sharqiya, southern Lebanon, according to Al-Manar correspondent Samer al-Haj Ali.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T13:15:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Additional footage shows the IRGC launching ballistic missiles during exercises in multiple locations across Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T12:43:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 WATCH: Close-up footage captures the moment Iran\u2019s IRGC launches a missile during missile drills in southwestern Iran.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T12:08:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -631,6 +726,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 Russian strikes hit power infrastructure across Ukraine\nA new wave of Russian strikes hit targets in Kiev, Lutsk and Zaporozhye, Ukrainian channels reported.\nParts of Kiev and the surrounding region lost power after an energy facility was damaged, while Lutsk saw blackouts and water-supply disruptions following a Geran drone strike on power infrastructure.\nIn Zaporozhye, a strike on an industrial site reportedly sparked a major fire.\nFrom Kiev to Volyn, Russian drones keep the pressure on across multiple regions at once.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T20:03:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 \ud83c\uddf8\ud83c\udde6 \ud83c\uddfe\ud83c\uddea Houthis hit seat of Saudi-backed government in Yemen in rolling strikes\nA combined drone and missile strike carried out by the Houthis on October 15 targeted the al-Maashiq Palace in Aden, according to media reports.\nThe attack inflicted casualties upon security personnel of the Saudi-linked government, with local residents reporting at least five explosions.\nThe Saudi-backed government sought to portray the attack as a strike on a civilian and administrative site whereas the Houthis insist that they adhere to a policy of targeting the Saudi military presence wherever it may be located.\nA second wave of attack reportedly hit the Al-Bureiqa district of the city.\nThe strike took place as the Houthi forces conduct a major offensive against the Saudi-led coalition in the Taiz governorate.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T19:17:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2694\ufe0f \ud83c\uddf8\ud83c\udde6 Houthies vow retaliation for Saudi airstrikes\nSaudi Arabia\u2019s airspace and airports can no longer be considered safe, Ansar Allah spokesman Brigadier General Yahya Saree warned in a statement.\nThe Houthi pointed out that the Saudis have carried out over 270,000 airstrikes on Yemeni soil over the past 12 years, and promised to continue reprisals for these attacks for as long as Saudi Arabia continues its aggression and maintains the blockade of Yemen.\nEarlier this week, Saree also urged civilians to evacuate from areas adjacent to the Saudi Aramco facilities, which he said are regarded as military targets by the Houthis.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -694,44 +827,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-15T13:53:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\ud83c\uddfe\ud83c\uddeaFrom Aramco to Bab el-Mandeb: Latest Houthi-Saudi escalation in Yemen\nMissile and drone exchanges and ground fighting continue on multiple fronts between Yemen\u2019s Houthis and Saudi-backed forces, including near the Bab el-Mandeb Strait.\nAnsar Allah (Houthi) forces released footage showing clashes near the strategic chokepoint.\nKey developments:\n\ud83c\udf0f Saudi coalition spokesman Turki al-Maliki said its forces intercepted and destroyed a cruise missile near Medina; Houthi military spokesman Yahya Saree denied that the movement had conducted any attacks on Saudi Arabia that day\n\ud83c\udf0f Houthis claim ballistic/cruise missile and drone attacks on [Aramco oil facilities in Dhahran](https://t.me/geopolitics_prime/76203), a refinery in Riyadh, and King Khalid International Airport in retaliation for [Saudi strikes](https://t.me/geopolitics_prime/76147) on oil storage site in Sanaa\n\ud83c\udf0f Houthi strike caused limited fire in an [administrative building at the Dhahran complex](https://t.me/geopolitics_prime/76201); areas near CEO Amin Nasser\u2019s office suffered severe damage\n\ud83c\udf0f In the capital Riyadh, debris from intercepted projectiles injured one person and caused property damage, according to Saudi Civil Defense \n\ud83c\udf0f Ansar Allah forces struck a Saudi Typhoon fighter jet over Yemen\u2019s Saada Governorate with a surface-to-air missile, [military spokesman Yahya Saree announced ](https://t.me/geopolitics_prime/76213)\nThe UN World Food Program warns that fighting has cut off aid to more than 600,000 people in Taiz, where emergency-level hunger is rising. \n\ud83d\udc49 Broader Yemen figures show over 18 million facing acute food insecurity.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T11:45:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd14 Netanyahu\u2019s inner circle exposed? Alleged phone hack drops military flight footage\nA Telegram channel is circulating what it claims are confidential photos and videos of Israeli PM Benjamin Netanyahu taken from the hacked phones of his wife Sara and Israeli Ambassador to the UAE Yossi Shelley.\u00a0 \nThe material includes videos filmed inside a military helicopter carrying the PM and his entourage, plus photos from inside the official Israeli state aircraft known as the Wing of Zion.\n\ud83d\udcf9 One widely shared video shows passengers in uniforms and civilian clothes seated along the cabin, looking at phones or documents.\u00a0 \nSome coverage reports are treating this as an alleged blackmail attempt, with the operators ostensibly asking for $1,011 in Bitcoin for the first batch. \nOne Spanish-language report linked the material to the Iranian-aligned hacker group [Handala](https://t.me/geopolitics_prime/74825).\n\ud83d\udc49 Other analysis describes the Telegram channel as a newer entity that solicited material from third parties.\nThe authenticity of the posts remains unverified.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T10:25:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
