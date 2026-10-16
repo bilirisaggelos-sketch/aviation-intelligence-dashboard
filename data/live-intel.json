@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T04:40:10.172873+00:00",
+  "generated_at": "2026-10-16T09:19:25.202126+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -241,13 +241,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "BBC World News",
-        "CASELS"
+        "CASELS",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -347,128 +348,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukrainian drones are attacking Russia\u2019s Moscow region, reportedly hitting industrial and warehouse facilities.",
+      "text": "Order to Slow Ukraine\u2019s SpaceX Starshield Came from White House\nRestrictions on Ukraine\u2019s military satellite service originated inside the White House, disrupting drone missions as Washington pressed Kyiv to halt attacks on Russian refineries.\n[READ MORE](https://clashreport.com/world/articles/order-to-slow-ukraine-s-spacex-starshield-came-from-white-house-rb5k0tr2a2e)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T00:03:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A Reuters investigation found that Iran and its proxies carried out at least 135 precision strikes on 84 infrastructure sites across the Gulf since February 28, targeting critical oil, gas, electricity and transportation facilities.\nThe attacks caused billions of dollars in damage, disrupted global energy supplies and helped Iran withstand U.S. military pressure. \nGulf governments frequently downplayed the damage, often blaming falling debris from intercepted missiles and drones.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T23:51:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: Ukraine is nearly out of Patriot interceptor missiles as Russian strikes intensify.\nA Ukrainian official said the country had just 10 missiles left on October 7, most of which have since been used, leaving only a couple remaining. \nAnother source said supplies were completely exhausted.\nAlthough NATO says deliveries continue, Ukrainian officials warn that supplies have been irregular since May, with no guarantees of future shipments.\nSource: WaPo",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T23:48:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "An order to restrict Ukraine\u2019s Starshield satellite service reportedly came from inside the White House, disrupting Ukrainian strike operations and interceptor drones.\nThe restrictions came amid growing U.S. pressure on Kyiv to stop attacking Russian oil refineries. \nUkrainian officials were told the decision came from the White House, although a senior U.S. official denied Trump personally ordered it.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T23:46:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Saudi Arabia\u2019s Costly Defenses Struggle Against Cheap Houthi Drones\nDespite its advanced weapons, Saudi Arabia is struggling with Houthi drones and cruise missiles that fly low, evade detection, and strain defenses built around different assumptions.\n[READ MORE](https://clashreport.com/focus/articles/saudi-arabia-s-costly-defenses-struggle-against-cheap-houthi-drones-hnin0rwkzy)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T20:48:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russia Turns Empty Field Into Major Jet Drone Base in Six Weeks\nSatellite imagery shows eight launch platforms at a nearly completed facility in the Rostov region, expanding its capacity to deploy fast jet drones that Ukraine has struggled to intercept.\n[READ MORE](https://clashreport.com/world/articles/russia-turns-empty-field-into-major-jet-drone-base-in-six-weeks-2baynjte0u8)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T19:48:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "UK Sends More Storm Shadows to Ukraine Ahead of Winter\nThe undisclosed missile resupply aims to help Kyiv disrupt Russian attacks on civilian infrastructure before winter, as London resists pressure for Ukraine to suspend strikes.\n[READ MORE](https://clashreport.com/defense/articles/uk-sends-more-storm-shadows-to-ukraine-ahead-of-winter-s94sw1ea4j)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T19:28:11+00:00",
+      "timestamp": "2026-10-16T07:55:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -596,88 +481,50 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f US faces air defence missile shortages until 2030.\nA CBS report says extensive use of interceptors in the war with Iran has worsened shortages, with rebuilding Patriot and THAAD missile stockpiles potentially taking until 2030.",
+      "text": "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 Rocket attack reported in Ochakiv, Ukraine.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T08:30:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udca2\ud83c\uddfa\ud83c\udde6 Starlink restrictions threaten Ukraine\u2019s drone operations.\nSlower connectivity could disrupt command, coordination and logistics, making it harder for Ukrainian interceptor drones to counter Russian Geran drones flying at 500\u2013700 km/h.\nWith no immediate replacement available, the restrictions could also give Washington leverage over Kyiv.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T06:37:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f\u2014 US faces air defence missile shortages until 2030.\nA CBS report says extensive use of interceptors in the war with Iran has worsened shortages, with rebuilding Patriot and THAAD missile stockpiles potentially taking until 2030.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-16T02:13:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 WATCH: Video shows remnants of a cruise missile launched by Ansar Allah targeting King Khalid International Airport in Riyadh, the Saudi capital.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T19:34:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Ansar Allah launches a missile and drone attack targeting PLC forces gathering in Aden Governorate, southern Yemen.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T19:23:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 WATCH: Ansar Allah has released footage showing a Royal Saudi Air Force Eurofighter Typhoon fighter jet being hit by a surface-to-air missile over Yemen\u2019s Saada Governorate.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T19:16:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7\u26a1\ufe0f Israeli PM Benjamin Netanyahu will convene a restricted security cabinet meeting tonight to discuss Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T17:47:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -729,6 +576,44 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
+      "text": "St. Petersburg airspace is closed, all flights in holding pattern, per FlightRadar24 \nFinland has also restricted flights over the eastern part of the Gulf of Finland.\nA drone attack on St. Petersburg is underway.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T04:41:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\uddeb\ud83c\uddf7 \ud83c\uddf8\ud83c\udde6 France says it is actively protecting Saudi oil infrastructure, as promised by agreement. Frigate Languedoc shot down a drone approaching the container ship CMA CGM Champs Elys\u00e9es in Bab el-Mandeb on the 1st. Some sailors are refusing to take the route now that they know.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T04:41:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
       "text": "Yemen\u2019s National Army (YNA) has released footage showing precision strikes against Ansar Allah (Houthis) fighters on the Taiz front using artillery and air-dropped munitions delivered by drones.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -757,13 +642,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "BBC World News",
-        "CASELS"
+        "CASELS",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -786,61 +672,100 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "WATCH: Ukrainian drones are striking industrial and warehouse facilities in Russia\u2019s Moscow region.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80 Iran\u2019s retaliatory strikes shattered Gulf infrastructure - but Arab states downplayed damage\nDespite official claims that damage came only from falling debris, Iran\u2019s missiles and drones repeatedly disabled critical pieces of equipment, according to a Reuters analysis.\nIran\u2019s retaliatory strikes, along with those of Iran-aligned forces, inflicted damage across Saudi Arabia, the UAE, Qatar, Kuwait, Bahrain, Oman and Iraq, according to strike footage, satellite imagery, official data, and interviewed sources.\nKey results of strikes include:\n\ud83c\udf0f[ Fujairah port (UAE):](https://t.me/geopolitics_prime/66748) Hit at least 19 times, with destroyed oil-routing matrix manifolds and tanks that crippled loadings for weeks\n\ud83c\udf0f[ ](https://t.me/geopolitics_prime/66748)Qatar\u2019s Ras Laffan LNG plant: [Struck two \u201ccold boxes\u201d](https://t.me/geopolitics_prime/66940) that liquefy gas; repairs estimated at 3\u20135 years\n\ud83c\udf0f[ ](https://t.me/geopolitics_prime/66748)Emirates Global Aluminium Al Taweelah smelter: Power plant and [a full smelting line ](https://t.me/geopolitics_prime/72571)hit in one day, shutting all 1,262 cells (full production not expected before 2027)\n\ud83c\udf0f[ ](https://t.me/geopolitics_prime/66748)Saudi oil system: Five of nine biggest refineries damaged;[ East-West Pipeline](https://t.me/geopolitics_prime/74556) pumping stations hit\n\ud83c\udf0f[ ](https://t.me/geopolitics_prime/66748)other notable targets: airports struck in Bahrain, Kuwait, the UAE and Saudi Arabia; multiple power and desalination plants; [UAE\u2019s Barakah nuclear power plant](https://t.me/geopolitics_prime/67352), where an electrical substation was hit, forcing one of its four reactors onto emergency diesel generators; various gas complexes, refineries and industrial sites\nGulf governments often downplayed the toll and restricted imagery, yet high-value hits left facilities facing billions in repairs and prolonged outages.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T02:11:22+00:00",
+      "timestamp": "2026-10-16T08:56:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96Hezbollah sends spy drones into south Lebanon as Israel prepares for a new war\nHezbollah allegedly has been sending intelligence-gathering drones into Israeli-occupied parts of south Lebanon, Hebrew media revealed amid reports the resistance movement is preparing for a new Israeli campaign.\nIsrael's Air Force fired interceptors at suspicious targets in at least five incidents over the past two weeks. In three cases, the objects were confirmed to be Hezbollah devices but Israel only managed to bring down one. A \"suspicious\" balloon also entered Israeli airspace days ago, with the IDF unable to determine its origin.\nQatari-funded outlet Al-Modon says Hezbollah is preparing for war, given that any US-Israeli attack on Iran would also include strikes on Lebanon. Sources say FPV drones \u2014 which inflicted serious losses on Israeli forces during the war \u2014 are being upgraded to carry 4\u20136 kg of explosives.\nThis week, the Lebanese army seized a truck carrying explosives for alleged FPV drone construction. \"The vehicle belongs to the resistance, and the materials are intended to confront the occupation,\" said Hezbollah MP Hassan Fadlallah.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T07:30:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia scrambles for new trade lifeline to dodge Hormuz and Red Sea risks\nStruggling to fend off [mounting risks to its maritime trade and energy infrastructure](https://t.me/geopolitics_prime/76242), Saudi Arabia is exploring expanding a new freight corridor, reports The Cradle.\n\ud83d\udc49 Saudi Arabia\u2019s Port of NEOM and logistics partner CEVA Almajdouie have signed an MoU to study a combined sea-and-land freight corridor from Europe via Egypt and Saudi Arabia to Gulf Cooperation Council states and Iraq.\nWith shipping in the Strait of Hormuz disrupted, and Saudi Arabia\u2019s Red Sea export terminals and East\u2013West Pipeline pumping stations vulnerable to [Ansar Allah strikes](https://t.me/geopolitics_prime/76201), the new route would link NEOM\u2019s Red Sea port directly with CEVA Almajdouie\u2019s land transport network.\n\u2666\ufe0f cargo could be moved inland across Saudi Arabia and neighboring markets\n\u2666\ufe0f maritime gateways would link up directly to high-capacity inland networks - essential for supply-chain resilience\n\u2666\ufe0f for Iraq, the corridor would offer an alternative path for European and other imports, reducing dependence on conventional Persian Gulf routes\nThe project remains at an early exploratory stage, with no details yet released on costs, timelines or expected cargo volumes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T06:47:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf0\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 South Korea-US alliance frays at the edges amid trust issues\nIntelligence restrictions, scaled-back military drills and disputes over investments are increasingly straining US-South Korea ties, reports Bloomberg.\n\ud83d\udc49 Tensions over intel cooperation date back to March, when Seoul\u2019s unification minister publicly identified Kusong as the site of a North Korean uranium-enrichment facility.\nThe US reportedly viewed the disclosure as a breach of classified US intelligence and subsequently restricted some satellite-derived information on North Korea\u2019s nuclear facilities. \nSouth Korea\u2019s President Lee Jae Myung rejected the allegations as \u201cabsurd.\u201d \nSouth Korean officials insist that intelligence sharing on missiles, conventional forces and immediate military threats remains intact.\nOther key flashpoints:\n\ud83d\udd34 South Korean lawmaker Jung Chung-rae was forced to switch his planned US trip this month after his visa remained under review by the State Department and was not issued in time for a parliamentary audit of South Korean missions in the Americas. \n\ud83d\udd34 Donald Trump ordered a scaling back of the annual Ulchi Freedom Shield joint exercises in August from 11 days to five, with some live-fire and field training reduced or canceled. Trump cited costs, South Korea\u2019s refusal to support US efforts against Iran, and claimed the drills sent an \u201cinappropriate and hostile\u201d signal to North Korea. \n\ud83d\udd34 Investment disputes: Disagreements persist over a $350 billion investment framework, including projects involving Alaska LNG and nuclear reactors. South Korea has insisted on commercial viability and domestic legal requirements, with some projects remaining under review.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T06:05:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 Houthis flex clout, slam Aden palace with missiles as Saudi targets burn\nAnsar Allah claimed responsibility for [the attack on the Al-Maashiq Palace complex](https://t.me/geopolitics_prime/76253), the seat of Yemen\u2019s Saudi-backed government in Aden.\nHouthi missiles and drones targeted what military spokesperson Yahya Saree said housed a \u201cSaudi war operations room.\u201d He declared any Saudi military or economic presence on Yemeni soil a legitimate objective. \n\ud83d\udd34 the site housed Saudi officers and weapons depots, according to the Houthi-run news agency SABA\n\ud83d\udd34 assault killed five people and wounded 16, including guards and civilian staff\n\ud83d\udd34 the prime minister was reportedly unhurt in the attack\nThe assault marked the first direct hit on the palace in the current phase of fighting.\nThe Saudi-led coalition detailed the scale of recent Houthi operations against the kingdom:\n\ud83d\udd34 20 attacks this month on Riyadh\u2019s King Khalid International Airport, killing 17 and wounding 333\n\ud83d\udd34 strikes on Abha airport that killed three and injured 28\n\ud83d\udd34 intercepted drones over southern cities including Khamis Mushait\nCoalition spokesman Turki al-Maliki said the Houthis now field advanced ballistic missiles, drones and explosive-laden fast boats, supplied with help from regional actors.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T05:23:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "BBC World News",
         "CASELS",
-        "Clash Report"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russian UAV strikes targeted oil depots in the city of Shepetivka, Ukraine\u2019s Khmelnytskyi region, resulting in large fires.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T02:11:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "US Military Central Command (CENTCOM):\nThree FALSE Iranian claims in the past 24 hours: \n\ud83d\udeab CLAIM: The IRGC has continued to falsely claim control of the Strait of Hormuz.\n\u2705 FACT: The United States and regional partners control the strait as commercial vessels continue to transit despite unwarranted IRGC aggression.\n\ud83d\udeab CLAIM: Iran's Islamic Revolutionary Guard Corps (IRGC) claimed a Singapore-flagged container ship struck a naval mine in the Strait of Hormuz on Wednesday. This is FALSE.\n\u2705 FACT: The civilian container ship M/V GFS Pride was hit by an IRGC projectile. The vessel sank while being towed to shore. Despite the attack, commercial ships continue to flow through the Strait of Hormuz (whose primary routes remain clear of mines), with more than 40 ships moving in the last 24 hours.\n\ud83d\udeab CLAIM: The IRGC claims they killed hundreds of U.S. service members in Jordan. This is FALSE.\n\u2705 FACT: Three American service members were killed in action in July as partner forces defended against Iranian attacks. We honor the memories of all U.S. service members who paid the ultimate sacrifice and represent America's best.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T02:08:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -851,45 +776,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-16T03:53:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Trump slams Ukrainian corruption in fresh \u2018where\u2019s the cash?\u2019 attack\nPresident Donald Trump tore into Biden-era aid to Ukraine, questioning what happened to the enormous sums and weapons sent there.\n\ud83d\udcac \u201cWhere is the cash that we gave to Ukraine? ... Where\u2019s all the equipment?\u201d\n\ud83d\udcac \u201cBiden was giving them missiles, and they were being sold on the open market.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T01:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "British-made sea drones used in Ukrainian strike on Sochi \u2014 reports\nUkrainian forces used K3 Scout unmanned boats built by UK-based Kraken Technology in an attack on Russia\u2019s port of Sochi, The Times reported.\nThe drones can reach 55 knots and travel up to 650 nautical miles, giving them enough range to operate deep across the Black Sea. The strike reportedly targeted the Russian supply ship Nefrit.\nThe use of British-made systems marks another case of Western military technology being deployed in Ukrainian attacks on Russian territory.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T21:49:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
