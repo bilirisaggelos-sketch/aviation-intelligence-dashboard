@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T00:12:24.577086+00:00",
+  "generated_at": "2026-10-16T04:40:10.172873+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -241,12 +241,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News"
+        "BBC World News",
+        "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Seven crew missing after drone attack leaves tanker ablaze off Romania's coast",
@@ -355,12 +356,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -374,12 +376,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -593,6 +596,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f US faces air defence missile shortages until 2030.\nA CBS report says extensive use of interceptors in the war with Iran has worsened shortages, with rebuilding Patriot and THAAD missile stockpiles potentially taking until 2030.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T02:13:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 WATCH: Video shows remnants of a cruise missile launched by Ansar Allah targeting King Khalid International Airport in Riyadh, the Saudi capital.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
@@ -621,13 +643,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -708,12 +729,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 U.S. Mission in Saudi Arabia \u2014 October 14 security alert:\n\u201cRiyadh\u2019s King Khalid International Airport will remain closed through October 17. Jeddah and Dammam airports are operational, with some delays and cancellations. U.S. government employees require special authorisation to use any Saudi airport.\nCitizens should follow Saudi Civil Defense alerts, exercise extreme caution at airports and confirm flight status directly. Airports in Bahrain, Jordan, Oman, Qatar and the UAE remain operational; ground transport may offer alternatives.\nU.S. citizens have been detained for violating photography restrictions, including photographing government buildings, airports and impact sites. Filming or sharing information about missile and drone interceptions or impact sites can carry legal consequences.\u201d\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Yemen\u2019s National Army (YNA) has released footage showing precision strikes against Ansar Allah (Houthis) fighters on the Taiz front using artillery and air-dropped munitions delivered by drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T05:36:25+00:00",
+      "timestamp": "2026-10-16T04:16:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -727,12 +748,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Saudi civil defense announced that falling debris from a ballistic missile interception over Riyadh injured one resident earlier today.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 [Reuters](https://www.reuters.com/world/middle-east/saudi-led-coalition-says-houthis-attempted-attack-dozens-saudi-facilities-2026-10-15/): Houthis fired missiles and drones at the presidential palace complex in Aden on Thursday, killing five people and wounding 16, the first such attack on the seat of Yemen's Saudi-backed government since the conflict resumed last month, with the prime minister and cabinet reported safe.\nThe Saudi-led coalition separately said the Houthis have attempted dozens of attacks on Saudi infrastructure this month, accusing the group of acquiring advanced weapons with help from \"regional actors.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T03:34:58+00:00",
+      "timestamp": "2026-10-16T04:15:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 An explosive-laden drone attack hit the Palermo police station in Huila, Colombia, leaving two officers wounded and forcing the evacuation of the municipal mayor\u2019s office.\nAuthorities are working to determine who was responsible for the attack.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T04:15:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -746,12 +787,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\u2b1b An Iraqi Army brigadier and a soldier have been killed, and two others wounded, when a planted IED detonated during a military operation in Zghaytun Valley, southern Kirkuk province, on Wednesday morning.\nThe blast occurred as forces conducted a sweeping and search operation, following airstrikes on Tuesday against suspected ISIS positions in the same area. \nThe bodies and wounded were taken to hospitals in central Kirkuk.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "WATCH: Ukrainian drones are striking industrial and warehouse facilities in Russia\u2019s Moscow region.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T03:33:12+00:00",
+      "timestamp": "2026-10-16T02:11:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russian UAV strikes targeted oil depots in the city of Shepetivka, Ukraine\u2019s Khmelnytskyi region, resulting in large fires.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T02:11:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -765,12 +826,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 For the fourth consecutive day the IRCG is conducting its ballistic missile exercises.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "US Military Central Command (CENTCOM):\nThree FALSE Iranian claims in the past 24 hours: \n\ud83d\udeab CLAIM: The IRGC has continued to falsely claim control of the Strait of Hormuz.\n\u2705 FACT: The United States and regional partners control the strait as commercial vessels continue to transit despite unwarranted IRGC aggression.\n\ud83d\udeab CLAIM: Iran's Islamic Revolutionary Guard Corps (IRGC) claimed a Singapore-flagged container ship struck a naval mine in the Strait of Hormuz on Wednesday. This is FALSE.\n\u2705 FACT: The civilian container ship M/V GFS Pride was hit by an IRGC projectile. The vessel sank while being towed to shore. Despite the attack, commercial ships continue to flow through the Strait of Hormuz (whose primary routes remain clear of mines), with more than 40 ships moving in the last 24 hours.\n\ud83d\udeab CLAIM: The IRGC claims they killed hundreds of U.S. service members in Jordan. This is FALSE.\n\u2705 FACT: Three American service members were killed in action in July as partner forces defended against Iranian attacks. We honor the memories of all U.S. service members who paid the ultimate sacrifice and represent America's best.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T03:31:19+00:00",
+      "timestamp": "2026-10-16T02:08:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -783,39 +844,40 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Secretary Hegseth says the Pentagon is still seeking over $50B in one time funding to expand autonomous weapons and robotics production. He wanted hundreds of thousands of OWA drones in 2026, millions in the years to come. Congress hasn\u2019t appropriated the funds.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80 135 strikes, 84 sites: Iran\u2019s precision campaign reshapes the Gulf\nA months-long Reuters investigation found that Iran and allied forces carried out at least 135 drone and missile strikes on 84 infrastructure sites across the Gulf after the US and Israel began bombing Iran on February 28. The attacks repeatedly hit critical equipment, including targets only a few meters wide or hidden inside buildings.\nA former US Marine Corps strike coordinator who reviewed the evidence described the campaign as showing \u201cprecision, targeting expertise, and patience.\u201d Reuters said the strikes helped Iran withstand pressure from the far more powerful US military and gave Tehran major leverage over regional energy flows and negotiations.\nThe targets were not random. Iran repeatedly struck Fujairah\u2019s oil-routing systems, Qatar\u2019s Ras Laffan LNG complex and Saudi pipeline infrastructure used to bypass the Strait of Hormuz. At Fujairah, refined-fuel exports essentially stopped for a month after another Iranian strike in May.\nThe investigation also found Gulf governments repeatedly downplayed the damage, often blaming falling debris from successful interceptions. Reuters said experts reviewing the evidence considered it highly improbable that such precise damage to vital equipment was caused by debris alone.\nThe broader picture is stark: Washington launched a war against Iran expecting overwhelming military superiority. Months later, Reuters\u2019 own evidence shows Tehran systematically exploiting the Gulf\u2019s most vulnerable pressure points and forcing the region to reckon with the cost of that war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T03:28:43+00:00",
+      "timestamp": "2026-10-16T03:53:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "North Korea says it tested two types of submarine launched strategic cruise missiles in waters off its eastern coast today. - KCNA",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 Trump slams Ukrainian corruption in fresh \u2018where\u2019s the cash?\u2019 attack\nPresident Donald Trump tore into Biden-era aid to Ukraine, questioning what happened to the enormous sums and weapons sent there.\n\ud83d\udcac \u201cWhere is the cash that we gave to Ukraine? ... Where\u2019s all the equipment?\u201d\n\ud83d\udcac \u201cBiden was giving them missiles, and they were being sold on the open market.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T03:28:26+00:00",
+      "timestamp": "2026-10-16T01:54:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -828,83 +890,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-15T21:49:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udca5 Russian strikes hit power infrastructure across Ukraine\nA new wave of Russian strikes hit targets in Kiev, Lutsk and Zaporozhye, Ukrainian channels reported.\nParts of Kiev and the surrounding region lost power after an energy facility was damaged, while Lutsk saw blackouts and water-supply disruptions following a Geran drone strike on power infrastructure.\nIn Zaporozhye, a strike on an industrial site reportedly sparked a major fire.\nFrom Kiev to Volyn, Russian drones keep the pressure on across multiple regions at once.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T20:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 \ud83c\uddf8\ud83c\udde6 \ud83c\uddfe\ud83c\uddea Houthis hit seat of Saudi-backed government in Yemen in rolling strikes\nA combined drone and missile strike carried out by the Houthis on October 15 targeted the al-Maashiq Palace in Aden, according to media reports.\nThe attack inflicted casualties upon security personnel of the Saudi-linked government, with local residents reporting at least five explosions.\nThe Saudi-backed government sought to portray the attack as a strike on a civilian and administrative site whereas the Houthis insist that they adhere to a policy of targeting the Saudi military presence wherever it may be located.\nA second wave of attack reportedly hit the Al-Bureiqa district of the city.\nThe strike took place as the Houthi forces conduct a major offensive against the Saudi-led coalition in the Taiz governorate.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T19:17:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f \ud83c\uddf8\ud83c\udde6 Houthies vow retaliation for Saudi airstrikes\nSaudi Arabia\u2019s airspace and airports can no longer be considered safe, Ansar Allah spokesman Brigadier General Yahya Saree warned in a statement.\nThe Houthi pointed out that the Saudis have carried out over 270,000 airstrikes on Yemeni soil over the past 12 years, and promised to continue reprisals for these attacks for as long as Saudi Arabia continues its aggression and maintains the blockade of Yemen.\nEarlier this week, Saree also urged civilians to evacuate from areas adjacent to the Saudi Aramco facilities, which he said are regarded as military targets by the Houthis.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T18:13:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 Ukraine\u2019s Patriot missile stores run dry \nThe Ukrainian military is struggling to repel Russian missile strikes due to the lack of interceptors, CNN reports, citing a source familiar with the matter.\nRussia\u2019s latest attacks on Kiev\u2019s energy infrastructure were so effective because Ukraine simply had no Patriot missiles, the source claimed.\nThis isn\u2019t the first time Ukraine has run out of Patriot interceptors, apparently, the media outlet points out, noting how Volodymyr Zelensky has been asking his Western backers to help replenish Ukraine\u2019s dwindling arsenals.\nMissile interceptors have been in extremely high demand in the US of late due to the United States military running through them at high rate during the ongoing conflict with Iran.\nAs the Patriot missile production still lags behind, Reuters revealed last month that the latest US military aid package for Ukraine does not include these interceptors.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T16:46:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
