@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:05:52.744853+00:00",
+  "generated_at": "2026-10-16T21:14:23.438995+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2691\r\nIssue Time: 2026 Oct 16 1939 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 16 1940 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-16 19:39:45.267",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5436\r\nIssue Time: 2026 Oct 16 1938 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 16 1938 UTC\nValid To: 2026 Oct 17 0300 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-16 19:38:53.387",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3754\r\nIssue Time: 2026 Oct 16 1419 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Oct 16 1345 UTC\nStation: GOES-19\nComment:",
       "source": "NOAA Space Weather",
@@ -181,44 +219,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-13 14:31:37.343",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5433\r\nIssue Time: 2026 Oct 13 0115 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 13 0115 UTC\nValid To: 2026 Oct 13 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-13 01:15:49.670",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WATA20\r",
-      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1129\r\nIssue Time: 2026 Oct 11 1911 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 12: None (Below G1) Oct 13: G1 (Minor) Oct 14: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-11 19:11:07.000",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -288,20 +288,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddee\ud83c\uddf7/\ud83c\uddfe\ud83c\uddea NEW: The Saudi-led coalition in Yemen accuses Iran of supplying Ansarallah with advanced technology including ballistic missiles, drones, and explosive speedboats\nThey say Ansarallah has become the first \u2018terrorist group\u2019 in the world to possess such advanced capabilities and call upon the \u2018regional nation\u2019 [Iran] to stop supplying them with weapons.",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddfa\ud83c\udde6 \u26a0\ufe0f \ud83c\uddfa\ud83c\uddf8 #Musk Asked #Trump To Slow Down #Ukraine's Military Defenses, Telegraph Exclusive Reveals: \nElon Musk approached Donald Trump with the idea of slowing down Starlink in Ukraine, The Telegraph can reveal.\nThe billionaire tech entrepreneur approached the US president with the proposal to introduce speed limits on the system, which hampered Ukraine\u2019s drone defences, according to four sources familiar with the discussions\nOne of the sources said Mr Trump \u201cagreed\u201d with Mr Musk\u2019s suggestion, paving the way for the Pentagon to execute the slowdown on Starshield.\nMr Musk had previously blamed Mr Trump for the chaos, claiming any changes would have been decided by the US military and ultimately the president.\nAt the time, Mr Trump was embroiled in a row with Volodymyr Zelensky over Ukraine\u2019s strikes on Russian oil refineries.\nUS officials had warned Kyiv\u2019s team of peace negotiators that the U.S. could shut off intelligence-sharing and other kinds of support if the long-range attacks were not halted. \nEarlier this week, one of Mr Zelensky\u2019s advisers said Mr Musk\u2019s SpaceX had restricted access to the Starshield system, used by Kyiv to intercept jet-powered drones and strike behind enemy lines.\nSpeaking on the fringes of an EU summit on Friday, the Ukrainian president called the slowdown a \u201cvery dangerous and unpleasant surprise\u201d.\nMr Musk denied he was responsible for limiting Starlink access, blaming the White House. He claimed that \u201cany limits on speed or usage\u201d were \u201cdecided by the US military and ultimately POTUS\u201d, referring to Mr Trump.\nHowever, after what was described as a \u201cnight of carnage\u201d in Kyiv because of the blackout, a senior source said Mr Musk had been alarmed about the possibility of adverse consumer reaction in Europe.\nThe source said: \u201cHe tweeted out that he was innocent and that it was the US administration that did it. The reality is that they were both in it.\u201d\nA high-ranking European official and two well-placed Ukrainian sources confirmed this version of events.\nSpeaking on Friday evening, Mr Trump said he did not think \u200ceither \u200che \u2060nor Mr Musk had been responsible for Ukraine \u2060losing Starlink access.\nOn Friday, an anonymous US official, cited in a report by the AFP, insisted that Trump did not make the request for a reduction of Starshield\u2019s services for Ukraine. \u201cNo request was ever made by the president,\u201d the US official said, after a report by Reuters claimed the decision came from the White House. \nThe Pentagon has not publicly explained the restrictions.\nThe speed cap imposed on Ukraine limited drones using the Starshield system to around 160kmph, making it virtually impossible to intercept Russia\u2019s barrages of jet-powered drones and missiles, which travel double the speed.\nOn Friday, Mr Zelensky said signals were being restored.\nIt is not the first time Mr Musk has been accused of limiting the use of his Starlink platform to the detriment of Ukraine.\nIn 2023, he confirmed he had rebutted requests by Kyiv to use the system in drone attacks on Crimea, the peninsula illegally annexed by Russia, to avoid being complicit in a \u201cmajor act of war\u201d.\nMr Musk was lauded by Ukrainians earlier this year for his direct role in blocking illegal access to Starlink by Russian soldiers fighting in Ukraine.\nRadek Sikorski, Poland\u2019s foreign minister, warned the tech billionaire: \u201cAs your European customers, we are watching you.\u201d\nThe EU is planning to have its Iris2, a Starlink replacement, operational by 2030. Mr Zelensky arrived in Brussels bruised and seeking more support from his European allies after his war of words with Mr Trump.\nDiplomats said leaders had advised the Ukrainian president to tone down his criticism of his US counterpart amid fears Washington could further withdraw its support for Kyiv.\nMr Trump has been highly critical of Ukraine\u2019s strikes on Russia\u2019s oil refineries, blaming them for soaring energy prices before the midterm elections next month.\nMore: www.telegraph.co.uk/world-news/2026/10/16/musk-approached-trump-slow-down-starlink-help-ukraine/\n---\nT.me/ourwarstoday",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T15:09:51+00:00",
+      "timestamp": "2026-10-16T20:47:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -326,51 +326,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f - 'This cannot be a coincidence' \u2014 Ukraine's Starlink access restricted without warning, Zelensky adviser says. Ukrai...](https://t.me/KyivIndependent_official/56129)\n\u26a1\ufe0f 'This cannot be a coincidence' \u2014 Ukraine's Starlink access\n[https://kyivindependent.com/this-cannot-be-a-coincidence-ukraines-starlink-access-restricted-without-warning-zelensky-adviser-says/]\nrestricted without warning, Zelensky adviser says.\nUkraine relies on Starlink to operate its mid-strike drones in Russian-occupied\nUkraine. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013\nFootage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/56129)\n | t\u200b.me \u2022 Oct 14, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T12:43:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[In the Defense Forces, it is reported that the operation of the military version of Starlink is limited](https://www.pravda.com.ua/news/2026/10/14/8057920/)\nThe military version of the Starlink Starshield in Ukraine has a speed limit of up to 160 km/h, which prevents drone operators from carrying out missions. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/10/14/8057920/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u0438\u0440\u0438\u043b\u0435\u043d\u043a\u043e | pravda\u200b.com\u200b.ua \u2022 Oct 14, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-14T12:43:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6 Zelensky calls for anti-ballistic missiles to protect Ukraine\u2019s energy infrastructure.\n\u201cIf there\u2019s no energy ceasefire, give us anti-ballistic missiles to protect our energy facilities. Don\u2019t give us too many, just enough for the period you need.\u201d",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Ansarllah missiles targeted Aden Airport \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T11:56:30+00:00",
+      "timestamp": "2026-10-16T19:01:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udea8 \ud83c\uddfa\ud83c\udde6 Rocket attack reported in Ochakiv, Ukraine.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\nDeputy Foreign Minister of Iran Saeed Khatibzadeh stated that the war has proven that American bases in the Persian Gulf are intended to protect Israel.\nKhatibzadeh accused Saudi Arabia of imposing a blockade around Yemen, which, according to him, is leading to a severe shortage of medicines, food, and basic goods. He called for the lifting of the blockade, an end to hostilities, and for conditions to be created that would allow the people of Yemen to return to a normal life.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T08:30:17+00:00",
+      "timestamp": "2026-10-16T18:53:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -403,12 +365,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83d\udca2\ud83c\uddfa\ud83c\udde6 Starlink restrictions threaten Ukraine\u2019s drone operations.\nSlower connectivity could disrupt command, coordination and logistics, making it harder for Ukrainian interceptor drones to counter Russian Geran drones flying at 500\u2013700 km/h.\nWith no immediate replacement available, the restrictions could also give Washington leverage over Kyiv.",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7-Satellite images show the damage to Imam Khomeini's space research base in Semnan Province, where damage is visible in the launch preparation, assembly, and management facilities. This platform was used to launch satellite-carrying rockets such as Qased and others. The United States and Israel claim that this program operates for military purposes to develop long-range intercontinental ballistic missiles (ICBMs), although this facility is scientific and fully dedicated to space research, with no military activities present.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T06:37:15+00:00",
+      "timestamp": "2026-10-16T18:20:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -428,25 +390,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-16T12:19:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe Israeli Prime Minister Benjamin Netanyahu at a conference with the Druze community:\nI spoke with the President of Syria.\nIt was a very short and tough conversation, and the bloodshed stopped.\nI will do everything necessary to protect our Druze brothers. There is still a lot of work to be done, I cannot tell everything.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T18:33:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,6 +498,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran outlines way to resolve Hormuz crisis\nA US military presence is the central source of insecurity in the Persian Gulf region, Iran\u2019s Army spokesman Brigadier General Mohammad Akraminia said, as quoted by Iranian media.\nTherefore, he suggested, if the US military were to withdraw from the region, the Strait of Hormuz would reopen, the global economy would improve and a new local collective security framework could be established with the help of other countries in the region.\n\ud83d\udcacAnd if the US troops won\u2019t leave voluntarily, Iran will evict them, he added.\nAkraminia also mentioned that Iran\u2019s new operational plans, when implemented, could force US warships, which had already moved over 500 km away from the Iranian coast, to \u201cretreat further and move away from the region.\u201d\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T20:01:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf1 Netanyahu verbally attacks US journalist assaulted by Israeli settlers\nThe video that captured the incident in which WaPo journalist Heidi Levine was kicked down also ostensibly shows her being \u201cimmediately helped to her feet by the same unidentified individual,\u201d PM Benjamin Netanyahu has claimed.\nHe further insisted that the Israeli leadership \u201cwill not allow disputed incidents to be exploited to demonize the hundreds of thousands of law-abiding Jewish residents\u201d of the West Bank.\nThe attack occurred on October 15 when dozens of masked Israeli settlers assaulted Palestinian villagers who were gathering olives at a grove near Abu Falah, northeast of Ramallah.\n\ud83d\udc49 Levine, who got caught in the middle, was knocked down, kicked repeatedly and stripped of her phone and camera, the newspaper notes. She was later treated at a hospital in Ramallah.\nThe attackers hurled stones at the Palestinians and set olive trees ablaze, while the Israeli soldiers who arrived at the scene fired tear gas towards the Palestinians.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -599,44 +561,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-16T13:08:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf7\ud83c\uddfa Russia\u2019s Geran-5 drone closes in on record 800 km/h - nears cruise missile speed\nRussia\u2019s jet-powered Geran-5 attack drones used in recent strikes on [Ukraine\u2019s military-linked targets](https://t.me/geopolitics_prime/76171) has reached speeds nearing 800 km/h, according to air-monitoring data circulating online.\n\ud83d\udc49 Previous estimates put the speed maximum at around 600 km/h. \nRussia has either upgraded existing models or fielded a new varia[nt still listed under the Geran-5 designation](https://t.me/geopolitics_prime/75584), analysts speculate.\n\ud83d\udd36 speed increase means less time to detect drone threat, pass targeting data, and launch interceptors\n\ud83d\udd36 countering made especially difficult for mobile fire teams & units optimized against slower UAVs\n\ud83d\udd36 at roughly 800 km/h, the drone approaches the performance of some subsonic air-launched cruise missiles like [Russia\u2019s Kh-101 ](https://t.me/geopolitics_prime/72880)\n\ud83d\udd36 it retains lower cost and mass-production potential of an unmanned system\nRussia has progressively upgraded[ the Geran family with improved navigation](https://t.me/geopolitics_prime/74638), electronic warfare resistance and greater performance.\nThe Geran-5 model: \n\ud83d\udd34 uses a turbojet engine, unlike earlier piston-engine models\n\ud83d\udd34 can carry a warhead weighing up to 90 kg\n\ud83d\udd34 has an estimated operational range of ~1,000 km\n\ud83d\udd34 at ~ 6 meters long, it uses cruise missile-style configuration rather than flying-wing design\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T11:37:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25\ud83d\udcb0Trump\u2019s ballroom bonanza: Secret donors & lucrative government deals \nThe total of $333M has already been pledged toward Donald Trump\u2019s planned White House ballroom, with at least $77 million coming from donors seeking anonymity, reported The Washington Post.\nAn internal spreadsheet includes 67 donations above $10,000 recorded as of late September.\nWhile ordinary political giving follows campaign-finance law, this money flows through a nonprofit to the government - and into a White House account the president controls. \n\u2666\ufe0f $166.1M came from the tech industry, with Nvidia and Apple each committing $25M\n\u2666\ufe0f Nvidia reportedly requested its donation - made after it reached a[ deal with the Trump administration to sell its microchips to China](https://t.me/geopolitics_prime/60839) - be kept anonymous\n\u2666\ufe0f US-Israeli citizen and Trump [megadonor Miriam Adelson also pledged $25M](https://t.me/geopolitics_prime/68548)\n\u2666\ufe0f [Lockheed Martin, Microsoft and Palantir each gave $10M; ](https://t.me/geopolitics_prime/74041)Amazon, Comcast, Caterpillar are also among major donors\n\u2666\ufe0f crypto firms operating amid [Trump-relaxed regulation,](https://t.me/geopolitics_prime/61436) pledged over $18M \nSome donations followed government decisions affecting donors\u2019 businesses. \n\ud83d\udd34 an affiliate of Rocket mortgage lender pledged $10M after the federal approval of housing acquisitions\n\ud83d\udd34 Salesforce committed money after securing a hefty army contract \n\ud83d\udd34 tech billionaire and EchoStar cofounder Charles Ergen pledged $25M after regulators dropped a probe into his company \n\ud83d\udd34 Isabela Herrera pledged $2.5M after her father Julio Herrera Velutini, a Venezuelan-Italian banker indicted for bribery, secured a plea deal \nThe fundraising has yet to meet Trump\u2019s $400M target.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-16T10:16:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
