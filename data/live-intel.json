@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:49:08.098873+00:00",
+  "generated_at": "2026-10-16T00:12:24.577086+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -211,14 +211,33 @@
       "verified_source_count": 1
     },
     {
-      "title": "Houthi missile attack on Yemeni presidential palace kills two, minister says",
-      "text": "Houthi missile attack on Yemeni presidential palace kills two, minister says\nYemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+      "text": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say\nThe alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-15T17:18:49+00:00",
+      "timestamp": "2026-10-15T23:27:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "text": "Houthi missile attack on Yemeni presidential palace kills five, minister says\nYemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-15T23:38:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -321,6 +340,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones are attacking Russia\u2019s Moscow region, reportedly hitting industrial and warehouse facilities.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-16T00:03:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A Reuters investigation found that Iran and its proxies carried out at least 135 precision strikes on 84 infrastructure sites across the Gulf since February 28, targeting critical oil, gas, electricity and transportation facilities.\nThe attacks caused billions of dollars in damage, disrupted global energy supplies and helped Iran withstand U.S. military pressure. \nGulf governments frequently downplayed the damage, often blaming falling debris from intercepted missiles and drones.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T23:51:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: Ukraine is nearly out of Patriot interceptor missiles as Russian strikes intensify.\nA Ukrainian official said the country had just 10 missiles left on October 7, most of which have since been used, leaving only a couple remaining. \nAnother source said supplies were completely exhausted.\nAlthough NATO says deliveries continue, Ukrainian officials warn that supplies have been irregular since May, with no guarantees of future shipments.\nSource: WaPo",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T23:48:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "An order to restrict Ukraine\u2019s Starshield satellite service reportedly came from inside the White House, disrupting Ukrainian strike operations and interceptor drones.\nThe restrictions came amid growing U.S. pressure on Kyiv to stop attacking Russian oil refineries. \nUkrainian officials were told the decision came from the White House, although a senior U.S. official denied Trump personally ordered it.\nSource: Reuters",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T23:46:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -526,12 +621,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -726,6 +822,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "British-made sea drones used in Ukrainian strike on Sochi \u2014 reports\nUkrainian forces used K3 Scout unmanned boats built by UK-based Kraken Technology in an attack on Russia\u2019s port of Sochi, The Times reported.\nThe drones can reach 55 knots and travel up to 650 nautical miles, giving them enough range to operate deep across the Black Sea. The strike reportedly targeted the Russian supply ship Nefrit.\nThe use of British-made systems marks another case of Western military technology being deployed in Ukrainian attacks on Russian territory.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-15T21:49:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udca5 Russian strikes hit power infrastructure across Ukraine\nA new wave of Russian strikes hit targets in Kiev, Lutsk and Zaporozhye, Ukrainian channels reported.\nParts of Kiev and the surrounding region lost power after an energy facility was damaged, while Lutsk saw blackouts and water-supply disruptions following a Geran drone strike on power infrastructure.\nIn Zaporozhye, a strike on an industrial site reportedly sparked a major fire.\nFrom Kiev to Volyn, Russian drones keep the pressure on across multiple regions at once.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -754,12 +869,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -789,44 +905,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-15T16:46:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Houthis keep punching holes in Saudi Arabia\u2019s billion-dollar air defenses - report\nRetaliatory Houthi missile and drone attacks have laid bare vulnerabilities in Saudi Arabia\u2019s advanced air defenses, notes Middle East Eye.\nDespite billions spent on US-made Patriot PAC-3 interceptors, THAAD systems and advanced fighter jets (F-15 and Typhoon fighters), Houthi [barrages](https://t.me/geopolitics_prime/76094) keep getting through. \nKey factors explain the breaches:\n\ud83c\udf0fThe kingdom\u2019s vast desert territory, long borders with Yemen and dispersed oil facilities, airports and military installations - relatively close to Houthi launch areas in northern Yemen - make comprehensive protection challenging\n\ud83c\udf0fSustained fighting has reportedly strained supplies of Patriot and THAAD missiles, with commanders forced to prioritize threats\n\ud83c\udf0fCoordinated launches of drone swarms and different types of missiles can stretch surveillance networks\n\ud83c\udf0fMaintaining effective radar coverage, early warning, and coordination between systems across Saudi Arabia requires substantial resources\nFor years, the Houthis faced a Saudi-led campaign that sought to support the fractured, internationally backed Yemen government. \nThe 2022 ceasefire offered them an opportunity to rebuild, [expand](https://t.me/geopolitics_prime/74670) their long-range arsenal of ballistic and cruise missiles, and evolve into a formidable regional force.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T15:20:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7Trump\u2019s war on Iran lacks clear path to victory with escalation likely to worsen situation - reports\nBy pursuing a decisive \u201cwin\u201d against Iran, US President Donald Trump risks prolonging a conflict that is much more likely to end in a limited ceasefire, reports Responsible Statecraft. \nThe US president appears convinced that naval pressure in the Strait of Hormuz and economic squeeze will give him greater leverage, but several factors work against his hoped-for outcome:\n\u27a1\ufe0f Any meaningful nuclear agreement would require detailed negotiations, binding limits and international inspections. The 2015 Iran deal took years to negotiate before Trump scrapped it in 2018\n\u27a1\ufe0f Continued attacks could strengthen Iranian voices calling for a nuclear deterrent instead\n\u27a1\ufe0f The killing of senior Iranian leaders has already strengthened hardliners\n\u27a1\ufe0f There is no unified opposition movement in Iran potentially capable of replacing the current system\n\u27a1\ufe0f Economic hardship does not automatically translate into opposition to the government, while continued US attacks serve to rally Iranians around the flag and deepen anti-American sentiment \n\u27a1\ufe0f Israel's [killing](https://t.me/geopolitics_prime/66918) of Iranian Supreme National Security Council Secretary Ali Larijani - a pragmatic figure with deep connections inside Iran\u2019s power structure - removed someone who could potentially have helped negotiate with the US\nThe most realistic exit scenario, argues the publication, is a basic ceasefire that postpones the hardest questions, including the nuclear dispute, for subsequent negotiations, with clearer terms governing the Strait of Hormuz.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-15T13:53:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
