@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-17T19:30:01.327988+00:00",
+  "generated_at": "2026-10-17T21:42:15.265518+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nWichita, KS, Monday, October 19, 2026 through Monday, October 19, 2026 Local\nFacility: ZKC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/17/2026",
+      "location": "ZKC KS",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nAUSTIN, TX, Wednesday, October 21, 2026 through Sunday, October 25, 2026 Local\nFacility: ZHU",
@@ -74,6 +93,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1130\r\nIssue Time: 2026 Oct 17 2014 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 18: None (Below G1) Oct 19: None (Below G1) Oct 20: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-17 20:14:23.100",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -154,21 +192,40 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5434\r\nIssue Time: 2026 Oct 13 1431 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5433\nValid From: 2026 Oct 13 0115 UTC\nNow Valid Until: 2026 Oct 13 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 Shahed-136 drones incoming towards Erbil",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-13 14:31:37.343",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-17T21:04:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Iranian Shahed-136 drones are striking positions in Iraqi Kurdistan",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-17T20:21:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -210,6 +267,25 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israeli Defense Minister Israel Katz:\nThe achievements are dramatic.\nIn Gaza, we have achieved our objectives. Seventy to eighty percent of Gaza is destroyed.\nThe same is true in southern Lebanon.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-17T20:38:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -268,6 +344,25 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\uddec\ud83c\uddfe\ud83c\uddea I would like to write a short post about Khat.\n[According to sources](https://interbellumnews.com/conflicts/chewing-through-war-khat-on-yemens-front-lines), Khat is a flowering evergreen shrub that is used for its stimulant-like effect. It is native to East Africa and the Arabian Peninsula, like Yemen, for example.\nKhat's toxicity effects include:\n- Loss of appetite\n- Difficulty with breathing\n- Increases in both blood pressure and heart rate\nand, \"delusions\".\nOf course, I wondered how this could cause delusions, till I read a post from Naya quoting what they claim to be a source from the Houthis calling on the Egyptian people to \"start preparing now, even before the beginning of winter, by collecting firewood and sufficient heating supplies as an alternative to fuel\" if Egypt intervenes in the conflict in Yemen.\nThe source somehow continued the threat by claiming Yemeni missiles that reached Tel Aviv and Ben Gurion Ariport will find it very easy to reach, and I quote, Cairo Airport (no idea how is this related to the firewood and winter), tourist centers (same as the airports), and \"all energy sources within Egypt.\"\n\"Consider this a warning,\" the source finished his speech.\nDrugs are bad, friends.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-17T19:32:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -443,6 +538,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Ben-Gvir scrambles to stay in power as Netanyahu eyes unity government without him\nIsrael's far-right National Security Minister is lashing out after the country's ambassador to Washington suggested Netanyahu plans to form a post-election unity government with Gadi Eisenkot \u2014 and made clear Ben-Gvir's cabinet days are over.\n\"A government is neither in Washington nor CNN. Only the people of Israel will decide,\" Ben Gvir responded on X.\nThis is the same minister who called to \"kill 30 or 40\" Palestinians every night \u2014 now begging for a cabinet post.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-17T21:28:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\ude96 Erik Prince\u2019s costly mercenary force fails to deliver on Haiti\u2019s security promises \nBlackwater founder Erik Prince, who made his fortune offering security services worldwide, often outside the law,[ has been selling ](https://t.me/geopolitics_prime/64481)Haiti a high-tech mercenary solution to its gang crisis, but the country remains trapped in violence, reports CNN.\nPrince\u2019s private force, Vectus Global, was hired by Haiti\u2019s interim government last year[ for a mission to hunt gangs.](https://t.me/geopolitics_prime/55395)\nHis task force paired foreign contractors with elite local police to unleash more than 2,000 drone strikes since March last year. \nWhile some gang positions have reportedly been disrupted, the promised turnaround has not arrived.\n\u27a1\ufe0f vital road from Cap-Haitien to Port-au-Prince still sits under gang checkpoints more than 18 months after Prince said it would be freed within a year\n\u27a1\ufe0f international flights remain grounded for risk of being shot down over gang territory\n\u27a1\ufe0f general elections, once set for December, have been postponed indefinitely\n\u27a1\ufe0f gangs have simply shifted outward into farming communities that feed the country\n\u27a1\ufe0f forcible recruitment of children has tripled, with minors now making up 30\u201350 % of many groups\n\u27a1\ufe0f civilian casualties from the drone campaign stand at least at 85 dead according to UN tallies\n\u27a1\ufe0f over 1.5 million Haitians - roughly one-tenth of the population - remain internally displaced\nLocal human-rights advocates describe the expensive foreign presence as largely ineffective: no major gang leaders have been eliminated, armed groups still flaunt weapons and money online.\nPrince refuses to name his fee, only claiming it is a fraction of earlier multinational missions, while securing a decade-long deal for a cut of future border customs revenue.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -506,25 +620,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-17T12:39:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Iran fires back at US MOAB talk: Our missile power changed the equations \nIran\u2019s acting Defense Minister Majid Ibn Reza swatted away reports that Donald Trump was allegedly considering [unleashing the \u201cmother of all bombs\u201d](https://t.me/geopolitics_prime/76228) - the Massive Ordnance Air Blast Bomb or MOAB GBU-57A/B - on Iran.\nDismissing the threat, he noted on X that \u201ctitles and dimensions of bombs hold no importance.\u201d \nThe real detonation, he warned, would hit America\u2019s global reputation, its economy, and Trump\u2019s own electoral hopes. \n\ud83d\udd0a \u201cIt is our missile power that has changed the equations and brought you to a point where, from now on, you must say: Hello, sir!\u201d he added.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T10:37:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
