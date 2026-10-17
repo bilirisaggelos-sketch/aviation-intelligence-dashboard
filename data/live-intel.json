@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T17:14:47.850807+00:00",
+  "generated_at": "2026-10-17T19:30:01.327988+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -30,25 +30,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/15/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nHerbon, KY, Saturday, October 17, 2026 Local\nFacility: ZID",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/14/2026",
-      "location": "ZID KY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -194,6 +175,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea BREAKING: The Yemeni Armed Forces Spokesman, Brigadier General Yahya Saree, announces the downing of an AH-64 \u2018Apache\u2019 attack helicopter belonging to the Royal Saudi Air Force above Najran Province with a surface-to-air missile",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-17T19:24:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf6/\ud83c\uddee\ud83c\uddf6 NEW: Initial reports that a checkpoint or camp belonging to the Popular Mobilization Forces (PMF) was ~~hit by a drone strike~~",
       "source": "Telegram",
       "source_type": "telegram",
@@ -210,102 +210,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8| The US used 19 years' worth of Patriot missile stockpiles in just 7 months in the war against Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T13:39:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Iran is providing Ansarallah (the Houthis) with weapons, intelligence, training and direct operational support, helping them launch increasingly sophisticated missile and drone attacks against Saudi Arabia and the PLC, the Wall Street Journal reports\nIRGC officers assist Houthi missile, drone, tunnel and logistics units, including frontline operations.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T13:27:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump is blaming senior aides for Republicans\u2019 worsening midterm prospects, criticizing campaign spending, redistricting and candidate choices, Reuters reported.\nTrump has questioned why $200 million in spending by his super PAC has failed to improve polling and why his redistricting push, particularly in Texas, has not delivered clear gains.\nTensions have centered on political adviser James Blair and White House chief of staff Susie Wiles, with aides blaming one another.\nSource: Reuters",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T16:48:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran is reportedly providing the Houthis with intelligence, weapons, training and direct assistance in targeting drone and missile strikes against Saudi Arabia.\nIranian Revolutionary Guard officers are reportedly helping direct attacks on the ground, contributing to Houthi territorial gains and their seizure of Yemen\u2019s coastline along the strategic Bab al-Mandeb Strait.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T13:24:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Zelensky says Starlink terminals shut down at speeds above 161 km/h in Ukraine, while tests show they continue working above 180 km/h in the EU.\nHe calls the restrictions a \u201cplanned operation,\u201d saying they prevent Ukraine from using some interceptor drones against jet-powered Shaheds and delivering supplies to isolated frontline positions.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T11:28:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -361,26 +265,6 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Iran has provided the Houthis (Ansarallah) with weapons, intelligence, training and direct operational support, helping them launch increasingly sophisticated missile and drone attacks against Saudi Arabia and the Saudi-backed PLC, according to WSJ.\nIRGC officers assist Houthi missile, drone, tunnel and logistics units, including frontline operations. \nIran has historically smuggled weapons into Yemen aboard traditional boats and used submarines when maritime shipments were disrupted. \nIn July, two Mahan Air flights transported Iranian personnel and weapons components, prompting Saudi-aligned forces to bomb Sana\u2019a airport's runway and contributing to renewed fighting after a four-year truce.\nThe support helped the Houthis capture Mokha and secure Yemen\u2019s coastline along the Bab al-Mandeb Strait during their September offensive, using coordinated infantry assaults, missiles and fiber-optic FPV drones.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T13:15:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -641,44 +525,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-17T10:37:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Egypt ready to take action to defend Saudi Arabia amid Houthi escalation - president\nEgyptian President Abdel Fattah el-Sisi has pledged to take any necessary action to protect Saudi Arabia, according to Al Qahera News.\n\ud83d\udd0a \u201cWe will take any measure to protect Saudi Arabia,\u201d Sisi was cited as saying, calling for an emergency parliamentary session to authorize such action if requested.\nThe warning comes amid escalating hostilities between Yemen\u2019s Ansar Allah (Houthis) movement and the Saudi-led coalition, following deadly strikes on Riyadh\u2019s King Khalid International Airport and retaliatory Saudi airstrikes against Yemen.\nSisi already warned on October 15 that attacks on Saudi Arabia threatened Egyptian and broader Arab national security. His latest reported remarks raise the prospect of Egypt becoming more directly involved in the confrontation, although no military deployment has been announced. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T09:56:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 As Houthis tighten noose around Taiz, why does the city matter?\nThe Houthi forces are conducting a major offensive in the Taiz governorate, and [have attacked](https://t.me/geopolitics_prime/76253) the seat of the Saudi-backed government in Aden with drone and missile strikes.\nAnsar Allah forces are have also[ virtually encircled Taiz.](https://t.me/geopolitics_prime/76150)\n\u27a1\ufe0f with nearly 600,000 residents, Taiz is the last major urban stronghold of anti-Houthi forces in Yemen\u2019s southern highlands\n\u27a1\ufe0f its capture would bring Ansar Allah closer to Aden \u2013 the seat of the Saudi-backed government - and weaken the coalition\u2019s ability to launch counterattacks\n\u27a1\ufe0f Houthi advances around al-Turbah and al-Misrakh have cut sections of the roughly 200-km route to Aden\n\u27a1\ufe0f coalition airstrikes and ground operations have so far failed to reverse the gains\n\u27a1\ufe0f after Ansar Allah consolidated control over [Yemen\u2019s Red Sea coastline in September](https://t.me/geopolitics_prime/74392), the coalition launched an offensive to reclaim territory - losing Taiz would make it harder to threaten Houthi positions near [the Bab el-Mandeb Strait](https://t.me/geopolitics_prime/75903)\nThe fall of Taiz - predominantly Sunni Muslim while the Houthis adhere to the Zaydi school of Shi'ite Islam - would also be symbolic.\nThe city has long stood as a center of resistance to Houthis since 2015, when the Saudis formed a coalition with the UAE and waged a [proxy war in Yemen](https://t.me/geopolitics_prime/72131), providing material support to the anti-Houthi forces to restore the regime of Abdrabbuh Mansour Hadi.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T09:12:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
