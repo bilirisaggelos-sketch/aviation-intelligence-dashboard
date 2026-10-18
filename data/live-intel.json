@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:58:35.469957+00:00",
+  "generated_at": "2026-10-18T23:00:36.767372+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -394,12 +394,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -457,6 +458,45 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udeab\ud83c\uddfa\ud83c\uddf8 \u26a1\ufe0fSome reports indicate that missiles were launched towards the Strait of Hormuz by Iran\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T22:02:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa Zelensky told Bloomberg that US President Trump is pressuring Kiev to capitulate to Russia, adding that he believes recent US actions are aimed at forcing Ukraine to make concessions.\n\u201cI believe steps have been taken to persuade Ukraine to capitulate,\u201d Zelensky said, adding that he fears Washington is seeking to end the war earlier \u201cat Ukraine\u2019s expense.\u201d\nZelensky also proposed stopping Ukrainian strikes on Russian infrastructure that produces diesel fuel and on oil refineries in exchange for additional Patriot air defense missile systems, after Trump called for an end to these attacks amid rising diesel prices.\n\u201cMy latest model is this: we do not strike Russian diesel production, and you provide us with missiles for the Patriot systems to protect our facilities,\u201d he said.\nHowever, according to Zelensky, Washington wants Ukraine to halt the strikes without offering anything in return, and he warned that if the attacks continue, the US may \u201ccut us off from something\u201d ahead of the November 3 midterm elections.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T21:57:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -572,25 +612,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u203c\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe \u2014 IAF reconnaissance drones are flying over southern Syria.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T12:40:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -741,6 +762,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Araghchi warns US and Israel: 'We have unfinished jobs too'\nIran's Foreign Minister Abbas Araghchi has issued a direct, double-edged threat on X, warning the US against another war while calling out Benjamin Netanyahu's motives.\n\ud83d\udcac \"Last time you wanted to 'finish the job', Iran emerged even stronger. Want to try your luck again? Be our guest. But be careful; we have unfinished jobs too.\"\nBut Araghchi didn't just target the US military. He went straight for Netanyahu's legal and political vulnerabilities:\n\"Netanyahu is driving America into another war to stay out of jail, whatever the consequences for Israel\u2014let alone POTUS.\"\nIran survived the last 8 months of bombing, rebuilt its arsenal, and is ready for the next round. If the US goes in again to save Netanyahu, it will not be the quick victory Trump is being promised.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T22:27:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
