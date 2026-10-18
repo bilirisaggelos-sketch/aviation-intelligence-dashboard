@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-18T11:45:26.087597+00:00",
+  "generated_at": "2026-10-18T15:43:25.534810+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPalm Beach, FL, Tuesday, October 20, 2026 through Wednesday, October 20, 2027 Local\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/18/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNEW YORK, NY, Tuesday, October 20, 2026 through Friday, October 30, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/18/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nWichita, KS, Monday, October 19, 2026 through Monday, October 19, 2026 Local\nFacility: ZKC",
@@ -30,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
       "location": "ZHU TX",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 16, 2026 through Sunday, October 18, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/15/2026",
-      "location": "ZAB AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -194,6 +213,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Latest update on the situation in Taizz city:\n\u2013 Ansarallah have advanced further in western Taizz city, capturing Al-Jabalayn, Al-Jabali, and the PLC\u2019s 35th Armored Brigade camp.\n\u2013 Ansarallah have also circumvented the strategically important Jabal Han (Han Mountain) by capturing Al-Murab\u2019ah area and the Al-Ariel hill located to its northeast, encircling the few dozen PLC fighters that still remain at their positions on Jabal Han. As of now, the mountain is no longer assessed to be under effective PLC control.\n\u2013 Heavy clashes are ongoing in Al-Matar Al-Qadeem (Old Airport) neighbourhood and along the entire line of contact east of Han Mountain (Mlihaa\u2019, Wadi Al-\u2018Areen, etc.)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T15:20:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddea\ud83c\uddec/\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Egypt\u2019s National Defense Council has approved providing \u2018all necessary support\u2019 to help Saudi Arabia fight against Ansarallah in Yemen\nThis morning, at least 2 Egyptian C-130H military transport aircraft already landed at King Fahd Air Base in Taif, Saudi Arabia.\nSoon, the Egyptian Parliament will approve the sending of troops, fighter jets, air defenses, and other types of military aid to Saudi Arabia.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -241,12 +279,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -308,12 +347,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Romanian F-16s shot down two Russian jet-powered Geran attack drones over the Black Sea near Sulina on Saturday, after they entered Romanian airspace. \nRomania\u2019s Defense Ministry released cockpit images from the engagement.",
+      "text": "Trump\u2019s endorsements in foreign elections have a 6\u20131 record so far, with Viktor Orb\u00e1n\u2019s defeat in Hungary his only loss, ahead of his newly announced backing of Benjamin Netanyahu.\n\ud83c\uddf5\ud83c\uddf1 Poland: Karol Nawrocki won the 2025 presidential election after Trump administration officials urged Poles to vote for him.\n\ud83c\udde6\ud83c\uddf7 Argentina: Javier Milei\u2019s party won October 2025 midterms after Trump threatened to withhold aid if it lost and the U.S. finalized a $20 billion currency swap.\n\ud83c\udded\ud83c\uddf3 Honduras: Nasry Asfura won after Trump warned the U.S. would not keep funding Honduras if he lost, and pardoned Asfura\u2019s party colleague, former President Juan Orlando Hern\u00e1ndez, days before the vote.\n\ud83c\udde8\ud83c\uddf1 Chile: Jos\u00e9 Antonio Kast won the presidency after Trump\u2019s endorsement.\n\ud83c\uddef\ud83c\uddf5 Japan: Sanae Takaichi\u2019s party won a two-thirds supermajority in February\u2019s snap election, three days after Trump\u2019s \u201cComplete and Total Endorsement,\u201d and Trump later claimed credit.\n\ud83c\udde8\ud83c\uddf4 Colombia: Abelardo de la Espriella won the June runoff after Trump backed him.\n\ud83c\udded\ud83c\uddfa Hungary: Viktor Orb\u00e1n lost in April to P\u00e9ter Magyar\u2019s Tisza party, which won about 53% of the vote and a two-thirds majority, despite a campaign visit by Vice President JD Vance.\n\ud83c\uddee\ud83c\uddf1 Israel: Netanyahu, endorsed ahead of the October 27 election, is the next test.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T10:33:50+00:00",
+      "timestamp": "2026-10-18T15:39:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -327,12 +366,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Photos show a second Chinese ship believed to be a mothership for extra-large underwater drones, built at a shipyard in southern China. \nUnlike the first ship, launched at Shanghai\u2019s Hudong-Zhonghua shipyard, this hull was built at a different yard. \nThe ships would let China deploy and service the drones far from home, such as in the Indian Ocean. \nThe drones it is meant to support, tested off Hainan, are 35 to 45 meters long, much larger than the U.S. Navy\u2019s Orca, and could be used for surveillance, minelaying and strike missions.",
+      "text": "BREAKING: Trump has given his \"Complete and Total Endorsement\" to Benjamin Netanyahu ahead of Israel's October 27 election, warning that the U.S. would have to take on Iran itself if Israel chose another leader. \nIn a message addressed to Israelis, Trump called Netanyahu a \"Great Warrior Prime Minister\" and said Iran had been systematically destroyed militarily and financially, adding that unless it changes course, \"we will soon finish the job.\" \nHe wrote that if Israel elects \"anyone other than Bibi,\" America would have to do this work itself, which he said he is not inclined to do. \nThe endorsement comes as Netanyahu's Likud trails in polls behind former army chief Gadi Eisenkot's Yashar party.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T10:26:53+00:00",
+      "timestamp": "2026-10-18T14:52:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,31 +385,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: Iran\u2019s Parliament has approved Mehrdad Akhlaghi Ketabchi as the country\u2019s new Defense Minister.\nKetabchi is a veteran Defense Ministry official who helped build and develop Iran\u2019s missile industry. \nHe previously headed the Shahid Bagheri Industrial Group and later the Aerospace Industries Organization.",
+      "text": "Zelensky:\nOnly the U.S. has this intelligence to tell us when Russia uses ballistic missiles.\nWe didn't get it for three days.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T09:37:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "INTERESTING: Satellite imagery shows Russia is refilling its long-term military storage bases with new and refurbished armored vehicles after emptying many of them earlier in the war, according to open-source analysts and Radio Svoboda. \nAt the 22nd Central Tank Reserve Base in Kostroma, about 500 km from the Baltic states, analysts identified around 57 new T-90M tanks, along with new BTR-82A and BMP-3M vehicles. \nSeveral hundred refurbished tanks and infantry fighting vehicles have also appeared at a base in Altai Krai, and other sites are receiving new artillery systems. \nAnalysts say Russia\u2019s tank production, estimated at 200\u2013290 T-90Ms a year, now appears to be outpacing frontline losses, partly because drones have made tank-heavy assaults less common.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T09:32:34+00:00",
+      "timestamp": "2026-10-18T14:03:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -422,6 +442,83 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u203c\ufe0f\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddeaYemen\u2019s Ansar Allah movement launches an attack involving four missiles targeting PLC forces in Marib Governorate.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T15:20:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u203c\ufe0f\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 The IRGC is conducting missile drills in the holy city of Mashhad, Iran.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T13:58:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iran\u2019s new Defense Minister General Mehrdad Akhlaqi:\nIran\u2019s heavy fighter will take off next year. The aircraft is entirely made in Iran.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T13:05:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u203c\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe \u2014 IAF reconnaissance drones are flying over southern Syria.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T12:40:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Footage released by the Houthis shows the targeting and downing of a Saudi AH-6i attack helicopter near Najran on October 18.\nAccording to the statement, the helicopter was struck with a locally produced surface-to-air missile while carrying out operations in the border area.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -438,44 +535,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa \u2014 Drones are targeting bridges in St. Petersburg, Russia.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T02:12:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "There was no drone strike targeting a checkpoint belonging to Iraq\u2019s Popular Mobilization Forces (PMF) in Baghdad. The explosion was caused by a munitions stockpile detonating at one of the PMF\u2019s headquarters.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-17T15:20:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -690,50 +749,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea Yemen\u2019s Houthis claim fourth Saudi Karayel drone kill\nAnsar Allah forces have shot down a Saudi armed reconnaissance drone in the northwest of the country, military spokesman Brigadier General Yahya Saree announced.\nHouthi air defenses successfully targeted and brought down the Turkish-made Vestel Karayel-type drone while it was conducting hostile operations, Saree noted on X. \nHe identified it as the fourth of its type downed since the beginning of the recent escalation.\nHouthi military media previously released footage of wreckage from similar downed Karayel drones.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "Huckabee\u2019s family sells pay-to-play access tours to Israel - report\nThe family of US Ambassador to Israel Mike Huckabee is still profiting from paid tours that promise American citizens access to senior Israeli officials, according to a Zeteo report.\nThe travel business, now run by Mike Huckabee\u2019s son, and previously marketed as \u201cThe Israel Experience with Governor Mike Huckabee,\u201d has taken hundreds of Americans to Israel over the years. \n\ud83d\udd34 the price tag is $5,250 per person, covering flights from New York, five-star hotels and meals\n\ud83d\udd34 itineraries promise exclusive access, such as meetings with senior Israeli officials and evening lectures featuring hardline pro-Israel figures\n\ud83d\udd34 Palestinian communities and towns are entirely absent from the tours\n[A previous NYT report](https://t.me/geopolitics_prime/75870) found that Huckabee\u2019s chief of staff, David Milstein, had diluted or blocked embassy assessments critical of Israel to present PM Benjamin Netanyahu\u2019s government more favorably to President Donald Trump.\nMilstein was also reported to have subjected staff to loyalty tests, asking whether they were \u201cpro-Israel\u201d or \u201cpro-Hamas\u201d - an approach that reportedly left some officials afraid to speak openly.\n\u2757\ufe0fHuckabee himself has repeatedly denied that Israel is committing genocide in Gaza, and claimed there is \u201cno such thing as a Palestinian.\u201d \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T06:02:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc79 Netanyahu shrugs off genocide charge, says Israel is given a \u2018bum rap'\nBenjamin Netanyahu touts Israel\u2019s \u201cratio of one to one and a half combatants to non-combatants\u201d in Gaza.\nHe invokes an urban warfare expert to assert that \u201cno military in history has gone to the lengths that Israel has gone to prevent civilian casualties,\u201d and then lands the shrug: \u201cWhat kind of genocide? So that\u2019s a lie.\u201d \nHe then reaches for the US war in Afghanistan comparison, which supposedly produced ratios of 7-to-1.\nIsrael has gotten \u201ca bum rap\u201d he complains, insists that the IDF is the most moral army around.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T05:21:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0a Netanyahu says Israel is not colonialist \u2014 'We are the original owners'\nIsraeli Prime Minister Benjamin Netanyahu has rejected the label of a colonialist enterprise, asserting absolute historical and divine ownership over the territories in Gaza, Lebanon, and Syria.\nThe \u2018Greater Israel\u2019 is a plan to expand Israel\u2019s borders all the way to the limits vaguely described in ancient Jewish religious texts where God purportedly promised Jews the land stretching from the [Nile River to Euphrates](https://t.me/geopolitics_prime/65338).\nThere is another distinction: traditional colonialism sought to extract resources and subjugate the local population. The project unfolding today is different: it aims at total erasure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T02:38:01+00:00",
+      "timestamp": "2026-10-18T13:31:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
