@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T15:43:25.534810+00:00",
+  "generated_at": "2026-10-18T18:18:01.232306+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -117,6 +117,25 @@
     },
     {
       "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1131\r\nIssue Time: 2026 Oct 18 1724 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 19: G1 (Minor) Oct 20: G1 (Minor) Oct 21: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-18 17:24:58.920",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1130\r\nIssue Time: 2026 Oct 17 2014 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 18: None (Below G1) Oct 19: None (Below G1) Oct 20: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -181,25 +200,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-16 14:19:49.850",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5435\r\nIssue Time: 2026 Oct 13 2058 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5434\nValid From: 2026 Oct 13 0115 UTC\nNow Valid Until: 2026 Oct 14 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-13 20:58:58.750",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -347,12 +347,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Trump\u2019s endorsements in foreign elections have a 6\u20131 record so far, with Viktor Orb\u00e1n\u2019s defeat in Hungary his only loss, ahead of his newly announced backing of Benjamin Netanyahu.\n\ud83c\uddf5\ud83c\uddf1 Poland: Karol Nawrocki won the 2025 presidential election after Trump administration officials urged Poles to vote for him.\n\ud83c\udde6\ud83c\uddf7 Argentina: Javier Milei\u2019s party won October 2025 midterms after Trump threatened to withhold aid if it lost and the U.S. finalized a $20 billion currency swap.\n\ud83c\udded\ud83c\uddf3 Honduras: Nasry Asfura won after Trump warned the U.S. would not keep funding Honduras if he lost, and pardoned Asfura\u2019s party colleague, former President Juan Orlando Hern\u00e1ndez, days before the vote.\n\ud83c\udde8\ud83c\uddf1 Chile: Jos\u00e9 Antonio Kast won the presidency after Trump\u2019s endorsement.\n\ud83c\uddef\ud83c\uddf5 Japan: Sanae Takaichi\u2019s party won a two-thirds supermajority in February\u2019s snap election, three days after Trump\u2019s \u201cComplete and Total Endorsement,\u201d and Trump later claimed credit.\n\ud83c\udde8\ud83c\uddf4 Colombia: Abelardo de la Espriella won the June runoff after Trump backed him.\n\ud83c\udded\ud83c\uddfa Hungary: Viktor Orb\u00e1n lost in April to P\u00e9ter Magyar\u2019s Tisza party, which won about 53% of the vote and a two-thirds majority, despite a campaign visit by Vice President JD Vance.\n\ud83c\uddee\ud83c\uddf1 Israel: Netanyahu, endorsed ahead of the October 27 election, is the next test.",
+      "text": "James Talarico:\nLet me say something that a lot of Democrats aren't willing to say.\nWe should be looking for efficiency in our government.\nI believe in stewardship. We should be good stewards of taxpayer funds.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T15:39:59+00:00",
+      "timestamp": "2026-10-18T17:39:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -366,12 +366,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "BREAKING: Trump has given his \"Complete and Total Endorsement\" to Benjamin Netanyahu ahead of Israel's October 27 election, warning that the U.S. would have to take on Iran itself if Israel chose another leader. \nIn a message addressed to Israelis, Trump called Netanyahu a \"Great Warrior Prime Minister\" and said Iran had been systematically destroyed militarily and financially, adding that unless it changes course, \"we will soon finish the job.\" \nHe wrote that if Israel elects \"anyone other than Bibi,\" America would have to do this work itself, which he said he is not inclined to do. \nThe endorsement comes as Netanyahu's Likud trails in polls behind former army chief Gadi Eisenkot's Yashar party.",
+      "text": "James Talarico on ICE:\nWe were told that ICE was going to go after violent criminals. And I support that.\nIf you're an undocumented immigrant and you commit a violent crime, you should be deported immediately.\nBut that's not what they're doing.\nThey're going after Uber drivers. They're going after small business owners. They're going after grandmothers and infants.\nThey should be focused on going after the cartels, not our communities. They should be going after violent gang members, not moms and babies.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T14:52:38+00:00",
+      "timestamp": "2026-10-18T17:34:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -385,12 +385,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nOnly the U.S. has this intelligence to tell us when Russia uses ballistic missiles.\nWe didn't get it for three days.",
+      "text": "James Talarico:\nIf Adam Smith saw the kind of crony capitalist system we have today, he would be rolling over in his grave.\nAnd so what I'm trying to get back to is OG capitalism, where we actually reward work instead of wealth.\nI'm all for success. I want an economy that creates fewer trillionaires and more millionaires.\nRight now our tax system literally taxes work more than it taxes wealth. And I think that's backwards.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T14:03:39+00:00",
+      "timestamp": "2026-10-18T17:32:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "James Talarico:\nI want to get back to the kind of capitalism we had in the middle of the 20th century in this country.\nI want competition, but it's got to be fair competition. We've got to take on these monopolies, this consolidation, because again, it's fundamentally anti-capitalist.\nAll of the wealth is being accumulated by the top 1%. It's actually not going to the people doing the actual work in this economy.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T17:30:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -436,6 +455,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd34\ud83c\uddee\ud83c\uddf1\u2014 Netanyahu, Prime Minister of the Zionist regime:\nNo matter how badly the Iranian regime has been hit, it will return and will rebuild its nuclear and missile capabilities.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T16:53:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 \u2014 Israeli Prime Minister Benjamin Netanyahu says Israel\u2019s objective is the complete elimination of what he describes as the Iranian threat and the overthrow of Iran\u2019s regime. \nHe outlined these priorities in a Fox News interview on October 18, 2026, linking them to US-Israeli cooperation under President Donald Trump.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T16:31:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 Zelenskyy says Ukraine went 3 days without US missile intelligence\nUkrainian President Volodymyr Zelenskyy said only the United States has the intelligence needed to alert Kyiv when Russia launches ballistic missiles.\nHe said Ukraine did not receive this intelligence for three days during ballistic missile attacks.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T15:45:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -513,84 +589,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Footage released by the Houthis shows the targeting and downing of a Saudi AH-6i attack helicopter near Najran on October 18.\nAccording to the statement, the helicopter was struck with a locally produced surface-to-air missile while carrying out operations in the border area.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T08:34:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddf4\ud83c\uddf2 Oman Air resumes flights to Imam Khomeini Airport in Tehran after a hiatus of several months",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T09:55:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Footage released by the Houthis shows the targeting and downing of a Saudi AH-6i attack helicopter near Najran on October 18.\nAccording to the statement, the helicopter was struck with a locally produced surface-to-air missile while carrying out operations in the border area.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T08:34:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Ok, so my autistic side absolutely loves this thing. It's very impressive from an engineering perspective. If you've played any space/rocket sim like Kerbal Space Program, then you know what these are. It's basically an RCS (Reaction Control System) strapped to a car. It uses highly compressed nitrogen vented through thrusters to generate thrust, allowing the car to jump across distances. It's not really flying so much as jumping, kinda like in Rocket League.\nBut the rational part of my brain understands that this is a gimmick. We don't know the specifics of the final production system, but apparently, it has a 6,900 PSI tank in place of the passenger seats. That's roughly 470 times atmospheric pressure at sea level. If this thing enters a collision at high speed, then nothing is surviving the catastrophic rupture. The pressure wave alone will mincemeat the driver and everything around it.\nTLDR; It\u2019s a bomb. A land based Cruise Missile. What a visionary Elon truly is \ud83d\ude01",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-18T07:46:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -743,6 +741,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, they've been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow them to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-18T18:17:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
