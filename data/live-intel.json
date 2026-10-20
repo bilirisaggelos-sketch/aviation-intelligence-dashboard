@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-20T18:00:01.090331+00:00",
+  "generated_at": "2026-10-20T21:32:43.737181+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nGreer, SC, Wednesday, October 21, 2026 through Wednesday, October 21, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/20/2026",
+      "location": "ZTL SC",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nGreenville, NC, Tuesday, October 20, 2026 through Tuesday, October 20, 2026 Local\nFacility: ZDC",
@@ -116,6 +135,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1132\r\nIssue Time: 2026 Oct 20 1912 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 21: G1 (Minor) Oct 22: None (Below G1) Oct 23: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-20 19:12:44.190",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: SUM10R\r",
       "text": "Space Weather Message Code: SUM10R\r\nSerial Number: 930\r\nIssue Time: 2026 Oct 19 0909 UTC\r\n\r\nSUMMARY: 10cm Radio Burst \nBegin Time: 2026 Oct 19 0858 UTC\nMaximum Time: 2026 Oct 19 0859 UTC\nEnd Time: 2026 Oct 19 0859 UTC\nPeak Flux: 430 sfu\nDuration: 1 minutes\nLatest Penticton Noon Flux: 137 sfu\nComment:",
       "source": "NOAA Space Weather",
@@ -181,25 +219,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-16 19:39:45.267",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5436\r\nIssue Time: 2026 Oct 16 1938 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 16 1938 UTC\nValid To: 2026 Oct 17 0300 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-16 19:38:53.387",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -288,51 +307,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran carried out ballistic missile drills today\nThese exercises have been ongoing daily for more than a week.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T09:13:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The IRGC announces the downing of an American MQ-9 \u2018Reaper\u2019 drone over the Strait of Hormuz, the 54th so far",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T03:30:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Marco Rubio on Pakistan:\nIn the case of Pakistan, it's a country that we have to have a relationship with. It's a country that possesses nuclear weapons.\nIt's a country that, from a geographic standpoint, we need to be able to interact with them, in much the same way as the government of India has to have and has a relationship and meets with leaders from Iran.\nSo these are difficult things to balance, but they have to be as part of our foreign policy.",
+      "text": "Hegseth:\nAmerican manufacturing doesn't just build our missiles and our tanks, it builds the middle class as well. \nGood quality, stable, high-paying jobs that provide for families all across the country. \nThere's no reason to outsource these capabilities anywhere else.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T17:49:47+00:00",
+      "timestamp": "2026-10-20T20:52:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,12 +327,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nWe are thankful that intelligence works now. Speaking about early warning, we can now hear when ballistics are coming.\nWe are thankful for the Americans. Now it works. It's great.",
+      "text": "BIG: Elon Musk personally ordered the Starlink slowdown that crippled Ukraine\u2019s drones.\nMusk and Trump discussed the decision by phone after it became public. \nOne source claimed they had also discussed it beforehand. \nMusk had publicly said limits were up to the U.S. military and the president. \nTrump said on Monday he didn\u2019t know who was responsible. \nBoth men have been angry at Ukraine for striking Russian diesel refineries, which Trump blames for high fuel prices before the midterms. \nSource: WSJ",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T17:24:27+00:00",
+      "timestamp": "2026-10-20T20:29:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,6 +441,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Sharurah Domestic Airport is a dual civilian-military airport in Najran Province, southwestern KSA located ~120 miles from Ansarallah-controlled Yemen, around 20 miles closer than King Khalid AB, KSA's known closest military base to Ansarallah-controlled Yemen with a permanent fighter jet presence.\nSharurah Domestic Airport has no permanent fighter jet presence, and is likely housing fighter jets temporarily to allow for a higher tempo of Royal Saudi Air Force airstrikes against Ansarallah.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-20T18:56:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\udde6 According to reports, this is the first time Ukrainian armed forces have used the Gurfuz hexacopter for casualty evacuation.\nThe drone is designed to perform evacuations without the risk of instability or in-flight rollover. The development company has previously showcased a similar type of drone, called StarGate, which features a medical capsule capable of carrying a stretcher.\nThe StarGate uses a net system for protection against interceptor drones, so it is possible that the Gurfuz is also equipped with such a system. The drones have a payload capacity of approximately 150 kg.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -513,6 +514,26 @@
         "Alsaa Plus EN"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Sharurah Domestic Airport is a dual civilian-military airport in Najran Province, southwestern KSA located ~120 miles from Ansarallah-controlled Yemen, around 20 miles closer than King Khalid AB, KSA's known closest military base to Ansarallah-controlled Yemen with a permanent fighter jet presence.\nSharurah Domestic Airport has no permanent fighter jet presence, and is likely housing fighter jets temporarily to allow for a higher tempo of Royal Saudi Air Force airstrikes against Ansarallah.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-20T18:55:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -669,12 +690,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Handala hacks elite Israeli engineering unit, posts GoPro, ordnance ops footage\n\u00a0\nThe hactivist collective says it\u2019s cracked the phone of an IDF Yahalom Special Operations Engineering Unit commander, gaining access to confidential info about the unit\u2019s activities and personnel.\nHandala says it has \u2018hundreds\u2019 of secret documents and visual materials, including footage recorded by IDF military drones, providing Israel\u2019s adversaries with potentially militarily significant info on enemy tactics.\nThe group released a portion of the recovered material, showing Yahalom operators descending into enemy tunnels wearing GoPro cameras to record their movements, drone footage of the destruction of underground infrastructure, and even intimate video of unit members apparently celebrating the birthday of one of their comrades.\nThe Yahalom hack comes on the heels of Handala\u2019s [breach of the IDF Media Intelligence Monitoring & Analysis Unit](https://t.me/geopolitics_prime/76411), Israel\u2019s top psychological warfare unit, a few days earlier.\nHandala\u2019s hacks have provided an unparalleled window into the activities of Israel\u2019s military and political establishment, from [amateur photos of Netanyahu](https://t.me/geopolitics_prime/76232) and members of his inner circle, to embarrassing info compromising Israeli diplomacy, to the Israeli establishment\u2019s [links to the Epstein class](https://t.me/geopolitics_prime/71339), sensitive military info and an array of MIC technical data.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Are Saudi princes, millionaires trapped in the kingdom amid Houthi strikes?\n\u00a0\nSocial media is buzzing with unverified claims that members of Saudi Arabia\u2019s royal family (a massive group including 5-7k princes plus their relatives) are fleeing for safer climes abroad as Yemen ramps up strikes and threatens to collapse key sectors of the kingdom\u2019s economy.\n\ud83d\udc49 Reports to this effect began to spread on X in Arabic last week, migrating to its English-language segment this week.\nEach time they\u2019re posted, a flood of users with Saudi flags and profile descriptions floods in to call the information a hoax, prompting Grok\u2019s algorithm to classify the reports as \u201cunconfirmed rumors\u201d not verified by \u201ccredible sources\u201d like WSJ and Reuters.\nHowever, a US Embassy in Riyadh travel advisory in place since last week hints that something may be amiss, listing \u201cexit bans\u201d and \u201clocal laws regarding social media activities\u201d as two reasons US nationals should \u201creconsider travel\u201d to the kingdom.\nExit bans can target both foreigners and Saudi citizens, while local social media laws threaten hefty fines (up to $800k) or up to 5 years in prison for posting footage of Houthi attacks, or sharing claims about elites leaving the country \u2013 classified as \u201cspreading rumors and misinformation.\u201d\n\ud83d\udc49 This means that even if some royals, or Saudi Arabia\u2019s ~348k millionaires, are quietly trying to leave, finding out about it would require a critical mass to build up outside the country before it\u2019s officially reported.\nWSJ has reported that the kingdom\u2019s top leadership has gone dark, with MBS moved back and forth between fortified palaces to avoid being targeted.\nForeign diplomats, including Americans, face unprecedented restrictions on the provinces and industrial cities they\u2019re allowed to visit. The operation of Riyadh\u2019s airport is restricted, and those of Jeddah, Dammam and Medina face widespread delays and flight cancellations.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T14:23:03+00:00",
+      "timestamp": "2026-10-20T19:11:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Bug in the boardroom: OpenAI spy case takes Saudi twist - report\nA former OpenAI employee accused of planting a hidden microphone in a restricted conference room was allegedly in contact with a member of the Saudi royal family about job opportunities in the kingdom, the Wall Street Journal reports, citing federal prosecutors.\n\u00a0\ud83d\udd34 Prosecutors say Abdulrahman Alfozan, 35, hid a thumb-sized circuit board and microphone behind a wall-mounted TV in a restricted OpenAI conference room around September 28. Executives had reportedly met government officials there around the same time\n\ud83d\udd34 Alfozan was in frequent contact with an unnamed member of the Saudi royal family via WhatsApp, who allegedly sought to recruit him for a new AI initiative in the kingdom. \u201cSaudi needs you more than the US!\u201d the royal reportedly told him\n\ud83d\udd34 Alfozan joined OpenAI\u2019s product team in July 2025 with a $325,000 base salary and a $2.2 million equity grant, according to prosecutors. His salary later climbed to $385,000\nCiting flight-risk concerns and questioning Saudi Arabia's offer to cover his entire bail bond, a judge ordered Alfozan held without bail.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-20T18:29:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
