@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T15:04:20.078592+00:00",
+  "generated_at": "2026-10-21T19:19:24.052219+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5438\r\nIssue Time: 2026 Oct 21 1617 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 21 1616 UTC\nValid To: 2026 Oct 22 0600 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-21 16:17:18.167",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK04\r",
       "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2692\r\nIssue Time: 2026 Oct 21 0429 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 21 0429 UTC\nSynoptic Period: 0300-0600\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -200,25 +219,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-19 09:09:16.063",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WATA20\r",
-      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1131\r\nIssue Time: 2026 Oct 18 1724 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 19: G1 (Minor) Oct 20: G1 (Minor) Oct 21: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-18 17:24:58.920",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -327,12 +327,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Israeli Defense Minister Israel Katz:\nAs the prime minister and I have made clear, Israel will not withdraw from the \"security zones\" in Lebanon, Syria and Gaza.",
+      "text": "Dozens of Israeli fighter jets flew toward Iran's border on Monday in what Israel described as a deterrence exercise. \nHowever, some U.S. officials suspected Israel was deliberately trying to provoke Iran into firing at its aircraft, potentially providing a justification for renewed strikes against Iran.\nThe operation followed reports that Netanyahu had urged Trump to consider another attack on Iran.\nSource: Axios",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T14:56:36+00:00",
+      "timestamp": "2026-10-21T17:54:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "German Military Raises Russian Sabotage Threat Level to 'Significant'\nAn internal assessment places Russian sabotage at its second-highest threat level after drone discoveries raised concerns that German military aircraft were intended targets.\n[READ MORE](https://clashreport.com/world/articles/german-military-raises-russian-sabotage-threat-level-to-significant-g47yafouui)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-21T17:32:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,31 +460,52 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf0\ud83c\uddf7 A demonstration performance by the South Korean army in Geryong.\nIt is noteworthy that the armored vehicles received anti-drone cages, clearly as a reflection on the possibility of the North using FPV drones.",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 The coalition spokesperson announced the interception and destruction of a drone launched by Yemen\u2019s Ansar Allah movement toward Saudi Arabia\u2019s Eastern Province.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T13:46:06+00:00",
+      "timestamp": "2026-10-21T17:55:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iran\u2019s IRGC is conducting missile drills in Iran\u2019s Semnan Province.\n\ud83d\udd34",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Yemen\u2019s Ansar Allah movement launched a drone attack targeting Al Rayyan Airport in Hadramout Governorate, Yemen.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T12:52:11+00:00",
+      "timestamp": "2026-10-21T17:44:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7 \u2014 NEW: Dozens of Israeli Air Force fighter jets and refueling aircraft transited over Syria and Iraq, neared the Iranian border, and returned to Israel, according to Israel's Channel 12. \nJerusalem reportedly alerted Washington in advance, framing the operation as a deterrence maneuver against Tehran. However, sources cited by the channel suggest Israel may have sought to provoke an Iranian response to provide a pretext for an attack.\n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-21T17:29:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -485,44 +525,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-21T08:56:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Sharurah Domestic Airport is a dual civilian-military airport in Najran Province, southwestern KSA located ~120 miles from Ansarallah-controlled Yemen, around 20 miles closer than King Khalid AB, KSA's known closest military base to Ansarallah-controlled Yemen with a permanent fighter jet presence.\nSharurah Domestic Airport has no permanent fighter jet presence, and is likely housing fighter jets temporarily to allow for a higher tempo of Royal Saudi Air Force airstrikes against Ansarallah.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T18:55:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1 israeli military police have detained around 50 hasidim returning to the country at Tel Aviv\u2019s airport\n- the Jerusalem Post reports.\nThe ultra-Orthodox jews are suspected of evading military service.\nAccording to media reports, some of those detained have been released, while others will face a military court.\nIsrael\u2019s military radio station reported that the detainees were offered the possibility of immediately joining the army at a recruitment center in exchange for a suspended sentence. Those who refuse will be brought before a court and sent to a military prison.\nThe army has prepared for possible protests by ultra-Orthodox haredi groups near the Tel HaShomer base and the Kfar Yona prison.\nThis year there have already been multiple clashes between soldiers and members of the ultra-Orthodox community during protests outside military prisons.\nSince the establishment of the zionist regime in 1948, Orthodox jews have been exempt from compulsory military service, which was intended to allow them full\u2011time religious studies in yeshivas in order to rebuild the world of jewish learning after World War II.\nOver the decades, however, the haredi population has grown to around 13 percent of society, and their draft exemptions have begun to provoke enormous opposition.\nIn June 2024, Israel\u2019s Supreme Court ruled that there is no basis for special treatment of this group and ordered the government to begin drafting ultra\u2011Orthodox jews into the army.\nAs the Times of israel reported, in the draft cycle from July 2025 to July 2026, more than 4,000 haredi soldiers enlisted in the army, compared with 2,800 a year earlier and 2,200 at the beginning of the genocide of Palestinians that started in October 2023.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T14:17:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -612,6 +614,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcac\u2694\ufe0f Sisi risks pulling Cairo into \u2018Egyptian Vietnam 2.0\u2019 via Arabian troop deployment\n\u00a0\nEgypt\u2019s president is waiting for parliament to formally approve the deployment of troops to Saudi Arabia after it delayed a vote on the matter for a week amid opposition concerns that it could drag Cairo into a [regional quagmire](https://t.me/geopolitics_prime/76474).\nLawmakers have until October 26 to debate, and are expected to raise questions about the scope of the mission, the risks Egyptian troops might face, and whether the deployment could escalate into direct fighting with the Houthis.\n\u00a0\nPublicly, no indication has been given on the number of troops Egypt may send. Reports indicate the deployment would prominently feature air defense and logistical support, including protection of Saudi airports and oil infrastructure.\n\u00a0\nThe question of potential direct fighting with Yemenis is a central one:\n\u00a0\n\ud83d\udd36 In November, Egypt will mark the 59th anniversary of its withdrawal from Yemen in 1967 after a five-year mission which drained the nation\u2019s coffers and killed or injured up to 40k troops in grueling guerrilla warfare against the barefooted Zaydi royalist tribesmen of northern Yemen.\n\u00a0\n\ud83d\udd36 Described by historians as \u201cEgypt\u2019s Vietnam,\u201d the campaign saw Egyptian troops face off against the direct tribal and religious ancestors of today\u2019s Houthis (who, in a twist of history, were being backed by Saudi Arabia, Britain, Israel and Iran at the time to stop the spread of Egypt\u2019s [pan-Arab nationalist ideology](https://t.me/geopolitics_prime/76556)).\n\ud83d\udd36 Guerrillas used classic paramilitary tactics \u2013 hit-and-run ambushes, sniper attacks and night strikes, and were pitted against an enemy with little geographic, intelligence or social knowledge of Yemeni society.\n\ud83d\udd36 Egypt\u2019s defeat in Yemen left its military exhausted, weakened and demoralized ahead of Israel\u2019s June 1967 surprise assault, which would reshape the region for [decades](https://t.me/geopolitics_prime/60424) to come.\n\ud83d\udd36 Fast forward to the present, and the modern successors to the Zaydi tribesmen are not only politically far stronger and more organized, but possess missiles and drones that could reach Egypt itself.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-21T16:52:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udee9\ud83d\ude80 Ukraine loses DITA howitzer to Russian FPV drones\nRussian drone operators destroyed a Ukrainian-operated Czech-made DITA self-propelled howitzer with an FPV drone strike.\nFirst unveiled in 2022, the DITA is a modern 155-mm artillery system developed from the Czechoslovak DANA family. Mounted on an eight-wheeled Tatra T815-7 chassis, it has a maximum firing range of 39 km.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-21T16:06:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7 Iran\u2019s new defense chief flags pursuit of \u2018new air defense tech\u2019 \n\u00a0\n\ud83d\udcac\"For us, responding to repeated threats is not a rhetorical contest; it means turning threats into greater readiness and more effective defensive capabilities... We are focused on our goals with new technologies,\u201d [Mehrdad Akhlaghi](https://t.me/geopolitics_prime/76410), Iran\u2019s newly minted defense chief has said.\nAkhlaghi is a technocrat with an extensive engineering and missile-focused background, serving as the head of three leading [Iranian missile](https://t.me/geopolitics_prime/57734), drone, space and conventional arms makers, including the Aerospace Industries Organization.\nHis talk of \u201cnew tech\u201d and turning threats into \u201cmore effective\u201d defenses signals plans to apply the lessons learned in wars with the US and Israel and apply them to new defense production, using:\n\ud83c\udf0f Captured enemy drones, wreckage of an F-15E, Black Hawk helicopters and a C-130 transport, plus [unexploded US air-launched](https://t.me/geopolitics_prime/75256) munitions and a Tomahawk missile\n\ud83c\udf0f World\u2019s first confirmed hit on a US F-35A, likely by an Iranian 358/359 [loitering missile](https://t.me/geopolitics_prime/67820) exploiting the jet\u2019s heat signature, or a Majid (AD-08) SAM\n\ud83c\udf0f Successes targeting 81 US military aircraft listed lost or [damaged](https://t.me/geopolitics_prime/75836) in the war (per a new Congressional Research Service report)\n\ud83c\udf0f \u2018Smart\u2019, networked, AI-assisted platforms to shrink detection-to-intercept times. Iran possesses one of the region\u2019s most powerful domestic [AI schools](https://t.me/geopolitics_prime/71050), and a growing specialized microelectronics sector\n\ud83c\udf0f Improvements to the existing lineup of EW, and the precision, range and autonomy of munitions, plus survivability of [launchers](https://t.me/geopolitics_prime/75210)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -640,12 +680,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -694,25 +735,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-21T07:21:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc79 Netanyahu planned major strike on Iran for Oct 10, Trump blocked it \u2014 report\nIsraeli PM Benjamin Netanyahu ordered the military to prepare a multi-day bombing campaign against Iran for the weekend of October 10, the Financial Times reports, citing three sources.\nThe operation was expected to exceed the intensity of the joint US-Israeli offensive launched in February. Targets included nuclear facilities, power plants and other civilian infrastructure, as well as regime-related sites.\nTrump opposed renewing the war before the US midterm elections on November 3. The White House confirmed: \"The US will not attack Iran before the elections.\"\nOne FT source said it will be \"either a deal or an attack,\" adding that renewed strikes in the coming weeks remain a \"realistic scenario\" \u2014 possibly involving both countries.\nMeanwhile, the IDF has cancelled leave for all servicemen until Israel's parliamentary elections on October 27.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T05:57:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
