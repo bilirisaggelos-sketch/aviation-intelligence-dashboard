@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T09:58:01.986812+00:00",
+  "generated_at": "2026-10-21T15:04:20.078592+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,14 +230,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "text": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say\nA truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "title": "Macron accuses foreign leaders of exploiting French riots",
+      "text": "Macron accuses foreign leaders of exploiting French riots\nThe comment is an apparent swipe at Benjamin Netanyahu and Donald Trump, who both face elections in coming weeks.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-20T17:30:15+00:00",
+      "timestamp": "2026-10-21T14:04:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -257,6 +257,25 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-10-21T08:31:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "text": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say\nA truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-20T17:30:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -307,20 +326,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\uddfe/\ud83c\uddee\ud83c\uddf1 NEW: The IDF has begun moving military equipment to the Jabal Al-Arab summit in Syria's Druze-controlled Suwayda province to set up an early warning radar\nIn recent days, dozens of Israeli military helicopters have carried large amounts of weapons, equipment and communication devices to the area. Local Druze authorities have reportedly banned civilians from approaching or photographing the military site.\nThe radar would likely be used as an early warning system for Iranian ballistic missiles and drones that are launched towards Israel.",
+      "publisher": "Clash Report",
+      "text": "Israeli Defense Minister Israel Katz:\nAs the prime minister and I have made clear, Israel will not withdraw from the \"security zones\" in Lebanon, Syria and Gaza.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T13:12:50+00:00",
+      "timestamp": "2026-10-21T14:56:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -422,32 +441,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Houthi (Ansarallah) forces say they carried out no military operations toward Saudi territory today and reject Saudi claims that drones were intercepted over Medina.\nThe group described the Saudi account as false and said such claims no longer carry credibility among the Arab and Islamic public.",
+      "text": "\u26a1\ud83c\uddf0\ud83c\uddf7 A demonstration performance by the South Korean army in Geryong.\nIt is noteworthy that the armored vehicles received anti-drone cages, clearly as a reflection on the possibility of the North using FPV drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T08:56:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u203c\ufe0f\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Ansar Allah (Houthi) spokesperson Yahya Saree announces that the movement targeted a Saudi operations room at Badr Camp in Aden Governorate with a ballistic missile.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T08:15:32+00:00",
+      "timestamp": "2026-10-21T13:46:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -461,89 +460,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u203c\ufe0f\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Saudi Al Arabiya TV reports that a missile launched by the Ansar Allah movement targeted Aden Airport\u2019s runway.\n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iran\u2019s IRGC is conducting missile drills in Iran\u2019s Semnan Province.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T08:08:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udf1e\ud83c\uddf9\ud83c\uddf7 \u2014 An Iranian Shahed-136 drone targeted a Kurdistan Workers\u2019 Party (PKK) headquarters in Erbil Governorate, northern Iraq.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T07:47:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\u26a1\ufe0f \u2014 Sharurah Domestic Airport is a dual civilian-military airport in Najran Province, southwestern KSA located ~120 miles from Ansarallah-controlled Yemen, around 20 miles closer than King Khalid AB, KSA's known closest military base to Ansarallah-controlled Yemen with a permanent fighter jet presence.\nSharurah Domestic Airport has no permanent fighter jet presence, and is likely housing fighter jets temporarily to allow for a higher tempo of Royal Saudi Air Force airstrikes against Ansarallah.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T18:56:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6 According to reports, this is the first time Ukrainian armed forces have used the Gurfuz hexacopter for casualty evacuation.\nThe drone is designed to perform evacuations without the risk of instability or in-flight rollover. The development company has previously showcased a similar type of drone, called StarGate, which features a medical capsule capable of carrying a stretcher.\nThe StarGate uses a net system for protection against interceptor drones, so it is possible that the Gurfuz is also equipped with such a system. The drones have a payload capacity of approximately 150 kg.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T13:54:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Ansar Allah launches a drone targeting PLC forces.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T11:05:54+00:00",
+      "timestamp": "2026-10-21T12:52:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -566,13 +488,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -586,13 +507,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -692,6 +612,82 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran\u2019s new defense chief flags pursuit of \u2018new air defense tech\u2019 \n\u00a0\n\ud83d\udcac\"For us, responding to repeated threats is not a rhetorical contest; it means turning threats into greater readiness and more effective defensive capabilities... We are focused on our goals with new technologies,\u201d [Mehrdad Akhlaghi](https://t.me/geopolitics_prime/76410), Iran\u2019s newly minted defense chief has said.\nAkhlaghi is a technocrat with an extensive engineering and missile-focused background, serving as the head of three leading [Iranian missile](https://t.me/geopolitics_prime/57734), drone, space and conventional arms makers, including the Aerospace Industries Organization.\nHis talk of \u201cnew tech\u201d and turning threats into \u201cmore effective\u201d defenses signals plans to apply the lessons learned in wars with the US and Israel and apply them to new defense production, using:\n\ud83c\udf0f Captured enemy drones, wreckage of an F-15E, Black Hawk helicopters and a C-130 transport, plus [unexploded US air-launched](https://t.me/geopolitics_prime/75256) munitions and a Tomahawk missile\n\ud83c\udf0f World\u2019s first confirmed hit on a US F-35A, likely by an Iranian 358/359 [loitering missile](https://t.me/geopolitics_prime/67820) exploiting the jet\u2019s heat signature, or a Majid (AD-08) SAM\n\ud83c\udf0f Successes targeting 81 US military aircraft listed lost or [damaged](https://t.me/geopolitics_prime/75836) in the war (per a new Congressional Research Service report)\n\ud83c\udf0f \u2018Smart\u2019, networked, AI-assisted platforms to shrink detection-to-intercept times. Iran possesses one of the region\u2019s most powerful domestic [AI schools](https://t.me/geopolitics_prime/71050), and a growing specialized microelectronics sector\n\ud83c\udf0f Improvements to the existing lineup of EW, and the precision, range and autonomy of munitions, plus survivability of [launchers](https://t.me/geopolitics_prime/75210)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-21T14:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfe\ud83c\uddea Yemen\u2019s Houthis target airport logistics hub feeding Saudi-backed forces\n\u00a0\nAnsar Allah has struck Saudi military equipment at al-Rayyan Airport in Al-Mualla, eastern Yemen, a spokesperson for the group said Wednesday.\n\ud83d\udc49 The airport was reportedly targeted by multiple ballistic missiles and drones, with facilities used to transport weapons and military equipment targeted. The spokesman warned Yemen\u2019s enemies not to use civilian infrastructure for military purposes.\nSituated along the Gulf of Aden ~500km northeast of Aden, Al-Mualla is the primary strategic and logistics hub of the Saudi-backed Yemeni government in eastern Yemen, second in importance only to the interim capital. Its airport has been converted into a major base of operations for coalition forces.\nThe spokesperson also rejected Saudi reports on the interception of Houthi drones over Saudi Arabia, including Medina region, saying the group did not conduct any strikes directed toward Saudi territory on Wednesday.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-21T13:19:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 Israel warns Iran's rebuilt defenses may 'force' it to act before elections\nIsrael\u2019s security apparatus is monitoring Iran\u2019s efforts to revamp its capabilities in the wake of joint Israeli-US attacks on the Islamic Republic, and \u201cmay be forced to act\u201d to \u201cdefend itself\u201d ahead of the October 27 Israeli parliamentary vote, officials with knowledge of internal discussions have told JPost.\n\ud83d\udc49 The assessments cite \u201cIranian measures indicating renewed military preparations,\u201d the completion of which \u201ccould significantly strengthen Iran\u2019s combat capabilities,\u201d which have been reconstituted much faster than expected.\nOfficials said Netanyahu \u201cwants the elections to take place as planned and on schedule, something that would not be possible if Israel was in a state of emergency involving fighting against Iran.\u201d\nIn [past rounds of fighting (2024, 2025, 2026)](https://t.me/geopolitics_prime/52591) Iran retaliated to Israeli assassination campaigns, attacks inside Iran and an attempted regime change in coordination with the US by launching up to 2.4k missiles and thousands of[ strike drones at Israel](https://t.me/geopolitics_prime/71528), with each strike proving more and more damaging to the country\u2019s military, intelligence, tech, R&D and energy infrastructure.\n\u27a1\ufe0f It\u2019s not clear what new \u201cmilitary preparations\u201d Iran could be making that Israel considers justification for another preemptive attack, which would inevitably be met with a new response and trigger new spikes in already record-high global energy prices and record-low reserve inventories as winter approaches.\nIranian officials have warned repeatedly in recent weeks that T[ehran is ready to launch a devastating retaliation to any new aggression](https://t.me/geopolitics_prime/76149), and attack not only military sites, but new targets like US big tech assets, including data centers, AI infrastructure, and underwater internet cables, across the Gulf region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-21T12:02:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6Saudis couldn\u2019t engineer alternative to Houthis in Yemen, militia are \u2018here to stay\u2019 - ex-MI6 chief\n\u201cThe Houthis have got a long tradition in the country. They see themselves as the successors to the monarchical regime that ruled Yemen before 1968 and [see] the military republican system that governed for the last 50 years as an aberration,\u201d former MI6 head Sir John Sawers told a security forum in Qatar.\n\ud83d\udcacThe fighters have their own \u201cnational Yemeni agenda,\u201d and \u201cthe efforts that the Saudis have made to sustain an alternative government have not been successful over the last ten years,\u201d he added.\nSawers predicts \u201csome form of settlement\u201d will eventually take place, and that \u201cthe Houthis are here to stay. They\u2019re not going to be defeated and they\u2019re going to remain in control of a large part of Yemen for the foreseeable future.\u201d\nHis comments come amid the UK MoD\u2019s announcement that it will be deploying RAF jets to protect [Saudi ](https://t.me/geopolitics_prime/76496)infrastructure against Houthi attacks, and demands among part of [Britain\u2019s defense ](https://t.me/geopolitics_prime/76199)establishment to send ground troops.\n \nThe UK has delivered up to $45B in weapons to Saudi Arabia since 2015, plus 6.8k BAE Systems employees on the ground maintaining Saudi Arabia\u2019s Air Force. It has also provided targeting assistance, and between 2024-2025, joined US strikes meant to end Ansar Allah\u2019s blockade of the Red Sea to Israeli-linked shipping.\nThe \u201cmonarchical regime\u201d Sawers mentioned is a reference to the Zaydi Imamate, a unique, meritocratic form of monarchism which established Islamic self-rule in the northern Yemeni highlands in 897, and fiercely resisted foreign attacks for over a thousand years after that. Before 897, the ancient Bakil and Hashid tribal confederations of northern Yemen spent 2k+ years resisting, outlasting and avoiding conquest by the Roman Empire, the Aksum Kingdom, and early [Islamic caliphates](https://t.me/geopolitics_prime/74893).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-21T10:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\ude96\ud83c\uddee\ud83c\uddf1 Israel arms Druze in Suwayda: New military base or prelude to another attack on Syria?\nIsraeli forces have reportedly deployed weapons, advanced equipment and radar systems to Jabal al-Arab in Syria\u2019s Suwayda province, potentially paving the way for a military base, Syria 360 reports citing local sources.\n\ud83d\udc49 Local Druze authorities have reportedly barred civilians from approaching or photographing the sites.\nThe report comes amid warnings from a senior Syrian official, who told The Jerusalem Post on October 19 that Druze armed groups could soon attack Syrian forces to retake Druze villages, potentially with Israeli backing. The official also cited intensified Israeli aerial surveillance over Suwayda and Damascus, alongside alleged Israeli deliveries of weapons and ammunition to the province. \n\u27a1\ufe0f Tensions escalated in Suwayda in July 2025, when clashes erupted between Syrian government and Bedouin forces[ on the one side and Druze fighters on the other](https://t.me/geopolitics_prime/53923). After Syrian troops entered the province, Israel launched strikes across Syria, including on the General Staff headquarters in Damascus. \nBut Israel\u2019s intervention was no act of altruism: the government was exploiting the clashes to expand[ its control over southern Syria](https://t.me/geopolitics_prime/70780), Asharq Al-Awsat warned at the time.\n\u203c\ufe0f Following the fall of Bashar al-Assad, Israel established around 11 military bases and outposts in southern Syria, mostly in Quneitra Governorate, with positions extending north toward Rif Dimashq and Al-Tulul al-Humr sites, and south toward Daraa Governorate, according to the Jusoor portal. Two adjacent bases near Majdal Shams predated Assad\u2019s fall.\nThe expansion aligns with Israel\u2019s \u201cDavid Corridor,\" envisioned as [a route from the occupied Golan Heights](https://t.me/geopolitics_prime/54289) through Quneitra, Daraa, and Suwayda to al-Tanf, then east to Deir Ezzor and Iraqi Kurdistan. Although the Syrian government has blocked the proposed eastern leg, Israel continues to entrench itself in southern Syria.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -717,25 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-21T05:57:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Iran war creates a rift inside Trump's own family \u2014 report\nDonald Trump Jr. has repeatedly voiced his opposition to the Iran war in private conversations, including directly with his father, according to The Atlantic \u2014 a stark betrayal of the 2024 campaign promise to keep America out of Middle East conflicts.\nIn April, as Iran launched missiles toward Israel, Don Jr. posted: \n\ud83d\udcac \"Remember when they said Trump would get us into a full-blown war with Iran? Times like these should make us all realize how lucky we were to have Trump.\"\nTwo and a half years later, his father is enmeshed in a full-blown war with Iran \u2014 and Don Jr. is not happy about it.\nDon Jr.'s business [is in drones.](https://t.me/geopolitics_prime/70348) As the Gulf states grow increasingly frustrated with the US security umbrella and look elsewhere for defense partners, he\u2019s watching a rich client base slip away \u2014 all because his father continues this disastrous war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T03:57:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
