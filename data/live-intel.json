@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T21:32:43.737181+00:00",
+  "generated_at": "2026-10-21T00:09:43.330710+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -288,25 +288,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Multiple Yemeni ballistic missile attacks have taken place against Saudi Arabia today, including the capital Riyadh\nThe \u2018Kingdom Tower\u2019, one of the tallest buildings in Riyadh, has been evacuated and all employees were ordered to remote work.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T10:58:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
       "text": "Hegseth:\nAmerican manufacturing doesn't just build our missiles and our tanks, it builds the middle class as well. \nGood quality, stable, high-paying jobs that provide for families all across the country. \nThere's no reason to outsource these capabilities anywhere else.",
       "source": "Telegram",
@@ -336,12 +317,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -686,6 +668,26 @@
         "CASELS"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udef0 Musk personally ordered the Starlink slowdown that crippled Ukraine's drones \u2014 report\nElon Musk personally gave the order to restrict Starshield satellite communications, capping Ukrainian drones at around 160 km/h and crippling their ability to intercept Russian drones and missiles, according to The Wall Street Journal.\nAccording to the report, Musk and Trump discussed the decision by phone after it became public \u2014 with both men were angry at Ukraine for striking Russian diesel refineries.\nZelensky built his entire national defense around the mercy of the world's richest man and the US president. Now he reaps the consequences of his weakness: his military is paralyzed by a software update, his power grid is in ashes, and he is trapped in a war he can neither win nor end \u2014 because the conflict itself is the only thing keeping him in power.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-20T23:20:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
