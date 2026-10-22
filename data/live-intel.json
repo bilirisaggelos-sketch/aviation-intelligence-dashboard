@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T00:56:50.503616+00:00",
+  "generated_at": "2026-10-22T05:58:23.549377+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -30,25 +30,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/21/2026",
       "location": "ZMP IA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nGreer, SC, Wednesday, October 21, 2026 through Wednesday, October 21, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/20/2026",
-      "location": "ZTL SC",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -154,6 +135,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5439\r\nIssue Time: 2026 Oct 22 0532 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5438\nValid From: 2026 Oct 21 1616 UTC\nNow Valid Until: 2026 Oct 22 1500 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-22 05:32:43.167",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK05\r",
       "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2058\r\nIssue Time: 2026 Oct 22 0003 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 21 2359 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -230,25 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2692\r\nIssue Time: 2026 Oct 21 0429 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 21 0429 UTC\nSynoptic Period: 0300-0600\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-21 04:29:25.873",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
       "text": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks\nMoscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "source": "BBC",
@@ -276,44 +257,6 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-10-21T14:04:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
-      "text": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion\nThe Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-21T08:31:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
-      "text": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say\nA truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-20T17:30:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -459,25 +402,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Japan launches spacecraft to explore Martian moons and bring home soil](https://apnews.com/article/japan-mars-moon-mission-fb51fbbf90374631e8ae658f9ca46154)\nA Japanese spacecraft is rocketing toward Mars on an unprecedented quest to explore its mysterious moons and bring back samples. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/japan-mars-moon-mission-fb51fbbf90374631e8ae658f9ca46154)\nMarcia Dunn | apnews\u200b.com \u2022 Oct 19, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-19T19:59:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "It was a US drone, possibly the MQ-9 Reaper that conducted the attack on an Iranian cruise missile launcher.\nIran had earlier launched missiles at targets in the Strait of Hormuz.",
       "source": "Telegram",
@@ -488,53 +412,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Some media also report that an Iranian missile launcher was struck in Sirik by the Americans to force an Iranian move, although, not really confirmed. It's either a drone being shot down, or that.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T20:29:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7Initial reports indicate a drone was shot down off the coast of southern Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T20:29:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -567,13 +450,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -587,13 +469,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -645,13 +526,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -665,23 +545,22 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddf8\ud83c\uddf8\ud83c\udde9 A drone strike on a market in the disputed Abyei region of South Sudan killed at least 153 people. \nA local official blamed Sudan\u2019s military, but the claim has not been verified. The strike reportedly hit a fuel depot, and around 8,000 people were displaced. South Sudan has summoned Sudan\u2019s ambassador in protest.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Russia used around 25 missiles of various types, including Iskander-M, 3M22 Zircon, and RM-48U, in tonight's attack on Kyiv's energy infrastructure, targeting the CHP-4 and CHP-5 combined heat and power plants, among other facilities.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T03:44:03+00:00",
+      "timestamp": "2026-10-22T02:36:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -695,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 GRAPHIC: Footage shows the aftermath of an Israeli drone strike in Jabalia, northern Gaza, in which Hamas operative Tamer Mohammad Ibrahim Al-Zabaq was killed.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf2\ud83c\udde6\ud83c\uddee\ud83c\uddf1 [El Espa\u00f1ol](https://www.elespanol.com/observatorio-defensa/20261021/marruecos-ultima-compra-honda-david-cupula-israeli-km-alcance-destruir-misiles-drones/1003744421115_0.html): Morocco and Israel are negotiating the possible purchase of David's Sling air defense system, as part of a broader expansion of military ties since the 2020 Abraham Accords.\nThe system, co-developed by Israel's Rafael and U.S. firm Raytheon, would require approval from Washington and would add a higher layer to Morocco's existing Israeli-origin air defenses such as Barak MX and Spyder, as talks also reportedly cover long-range LORA ballistic missiles, with Israeli arms exports to Morocco already exceeding $2 billion this decade.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T03:42:29+00:00",
+      "timestamp": "2026-10-22T02:09:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -714,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Japan scrambled fighter jets 442 times between April and September, up from 265 during the same period in 2025. Chinese aircraft accounted for 285 scrambles and Russian aircraft for 152. \nNumbers come from",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russia launched a large-scale ballistic missile attack on Kyiv, with at least 25 missiles of various types reportedly used, primarily targeting energy infrastructure.\nNo interceptions were reported, while a Zircon/Oniks-M cruise missile was also launched toward the city.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T03:38:59+00:00",
+      "timestamp": "2026-10-22T02:09:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -733,12 +612,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The death toll from Monday\u2019s Houthi ballistic missile strike on a Yemeni government training camp has risen to 73, according to Shabwa\u2019s governor. More than 200 were wounded and 14 remain missing.\nFaytuks Network (\nThe death toll from a Houthi missile attack on a Yemeni government security forces training camp in Shabwa has risen to 58, with more than 200 injured and 14 missing, according to the provincial governor.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The Moscow region is also under attack by Ukrainian drones.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T03:38:19+00:00",
+      "timestamp": "2026-10-22T02:09:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -751,119 +630,60 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udef0 'I wasn\u2019t involved' in Ukraine Starlink clampdown \u2013 Trump\nPressed on who ordered the Starlink and Starshield limits that disrupted Ukrainian drone operations, \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Footage shows a Ukrainian FP-1 drone flying at low altitude over the rooftops of apartment buildings.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T22:01:57+00:00",
+      "timestamp": "2026-10-22T02:08:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime"
+        "CASELS"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde7\ud83c\uddfe\u2708\ufe0f Belarusian heavy-lift cargo jet spotted over Iran: what sorts of defensive hardware could Minsk be sending?\nA Belarusian TAE Avia Boeing 747\u2019s flight from Minsk to Tabriz, Iran over the weekend got security analysts and OSINT monitoring groups talking about the flight\u2019s purpose, and its potential cargo.\nThe trip follows three recorded Iranian Qeshm Fars cargo 747 journeys between Minsk, Tehran and Moscow from August-September, and four Belarusian Air Force Il-76 flights to Iran from December-February.\nCargo manifests are unavailable for any of the journeys, but Belarusian President Alexander Lukashenko dropped hints on their potential contents in August 2025, when he told his visiting Iranian counterpart, Masoud Pezeshkian, that Belarus is \u201cready to cooperate\u201d across all areas, including \"military-technical cooperation.\u201d\nLukashenko did not elaborate, but analysts suspect Tehran may have taken up his offer to [beef up defenses](https://t.me/geopolitics_prime/76562) and plug gaps in Iran\u2019s own highly developed domestic MIC to import:\n\ud83c\udf0f VOSTOK-E VHF: a modern Belarusian-built digital mobile long-range radar system designed to detect stealth threats\n\ud83c\udf0f Rosa-RB-M: air surveillance and target detection radar detecting low-flying aircraft, cruise missiles, and drones\n\ud83c\udf0f Groza: mobile electronic warfare and counter-UAV system created by Belarus\u2019 KB Radar to detect, jam and spoof enemy communications, radar signals and drone navigation systems\n\ud83c\udf0f Technical expertise, software and/or automated control equipment to upgrade Iran\u2019s Russian Buk-series medium-range air defenses\n\ud83c\udf0f Belarusian MZKT-series truck chassis for an Iranian mobile missile systems, including the Bavar-373 (Iran\u2019s S-300 analog), and 3 Khordad (the system used to down a $200M+ US drone over Hormuz in 2019)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 An attack has been reported in the Russian city of Lipetsk, drones and explosions were heard in the area, causing a fire in a residential building.\nThe region has experienced repeated air raid alerts amid Ukraine\u2019s long-range drone operations against targets inside Russia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T19:23:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcac\u2694\ufe0f Sisi risks pulling Cairo into \u2018Egyptian Vietnam 2.0\u2019 via Arabian troop deployment\n\u00a0\nEgypt\u2019s president is waiting for parliament to formally approve the deployment of troops to Saudi Arabia after it delayed a vote on the matter for a week amid opposition concerns that it could drag Cairo into a [regional quagmire](https://t.me/geopolitics_prime/76474).\nLawmakers have until October 26 to debate, and are expected to raise questions about the scope of the mission, the risks Egyptian troops might face, and whether the deployment could escalate into direct fighting with the Houthis.\n\u00a0\nPublicly, no indication has been given on the number of troops Egypt may send. Reports indicate the deployment would prominently feature air defense and logistical support, including protection of Saudi airports and oil infrastructure.\n\u00a0\nThe question of potential direct fighting with Yemenis is a central one:\n\u00a0\n\ud83d\udd36 In November, Egypt will mark the 59th anniversary of its withdrawal from Yemen in 1967 after a five-year mission which drained the nation\u2019s coffers and killed or injured up to 40k troops in grueling guerrilla warfare against the barefooted Zaydi royalist tribesmen of northern Yemen.\n\u00a0\n\ud83d\udd36 Described by historians as \u201cEgypt\u2019s Vietnam,\u201d the campaign saw Egyptian troops face off against the direct tribal and religious ancestors of today\u2019s Houthis (who, in a twist of history, were being backed by Saudi Arabia, Britain, Israel and Iran at the time to stop the spread of Egypt\u2019s [pan-Arab nationalist ideology](https://t.me/geopolitics_prime/76556)).\n\ud83d\udd36 Guerrillas used classic paramilitary tactics \u2013 hit-and-run ambushes, sniper attacks and night strikes, and were pitted against an enemy with little geographic, intelligence or social knowledge of Yemeni society.\n\ud83d\udd36 Egypt\u2019s defeat in Yemen left its military exhausted, weakened and demoralized ahead of Israel\u2019s June 1967 surprise assault, which would reshape the region for [decades](https://t.me/geopolitics_prime/60424) to come.\n\ud83d\udd36 Fast forward to the present, and the modern successors to the Zaydi tribesmen are not only politically far stronger and more organized, but possess missiles and drones that could reach Egypt itself.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T16:52:31+00:00",
+      "timestamp": "2026-10-22T02:08:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime"
+        "CASELS"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee9\ud83d\ude80 Ukraine loses DITA howitzer to Russian FPV drones\nRussian drone operators destroyed a Ukrainian-operated Czech-made DITA self-propelled howitzer with an FPV drone strike.\nFirst unveiled in 2022, the DITA is a modern 155-mm artillery system developed from the Czechoslovak DANA family. Mounted on an eight-wheeled Tatra T815-7 chassis, it has a maximum firing range of 39 km.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf2\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea The US embassy in Riyadh announced that any government employees working in Saudi Arabia require special authorization from Chief of Mission to use any airport in Saudi Arabia following recent Houthi missile and UAV attacks on airports in the Kingdom.\nThey added that US citizens should exercise maximum caution when using airports in Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T16:06:01+00:00",
+      "timestamp": "2026-10-22T02:07:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime"
+        "CASELS"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran\u2019s new defense chief flags pursuit of \u2018new air defense tech\u2019 \n\u00a0\n\ud83d\udcac\"For us, responding to repeated threats is not a rhetorical contest; it means turning threats into greater readiness and more effective defensive capabilities... We are focused on our goals with new technologies,\u201d [Mehrdad Akhlaghi](https://t.me/geopolitics_prime/76410), Iran\u2019s newly minted defense chief has said.\nAkhlaghi is a technocrat with an extensive engineering and missile-focused background, serving as the head of three leading [Iranian missile](https://t.me/geopolitics_prime/57734), drone, space and conventional arms makers, including the Aerospace Industries Organization.\nHis talk of \u201cnew tech\u201d and turning threats into \u201cmore effective\u201d defenses signals plans to apply the lessons learned in wars with the US and Israel and apply them to new defense production, using:\n\ud83c\udf0f Captured enemy drones, wreckage of an F-15E, Black Hawk helicopters and a C-130 transport, plus [unexploded US air-launched](https://t.me/geopolitics_prime/75256) munitions and a Tomahawk missile\n\ud83c\udf0f World\u2019s first confirmed hit on a US F-35A, likely by an Iranian 358/359 [loitering missile](https://t.me/geopolitics_prime/67820) exploiting the jet\u2019s heat signature, or a Majid (AD-08) SAM\n\ud83c\udf0f Successes targeting 81 US military aircraft listed lost or [damaged](https://t.me/geopolitics_prime/75836) in the war (per a new Congressional Research Service report)\n\ud83c\udf0f \u2018Smart\u2019, networked, AI-assisted platforms to shrink detection-to-intercept times. Iran possesses one of the region\u2019s most powerful domestic [AI schools](https://t.me/geopolitics_prime/71050), and a growing specialized microelectronics sector\n\ud83c\udf0f Improvements to the existing lineup of EW, and the precision, range and autonomy of munitions, plus survivability of [launchers](https://t.me/geopolitics_prime/75210)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T14:34:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea Yemen\u2019s Houthis target airport logistics hub feeding Saudi-backed forces\n\u00a0\nAnsar Allah has struck Saudi military equipment at al-Rayyan Airport in Al-Mualla, eastern Yemen, a spokesperson for the group said Wednesday.\n\ud83d\udc49 The airport was reportedly targeted by multiple ballistic missiles and drones, with facilities used to transport weapons and military equipment targeted. The spokesman warned Yemen\u2019s enemies not to use civilian infrastructure for military purposes.\nSituated along the Gulf of Aden ~500km northeast of Aden, Al-Mualla is the primary strategic and logistics hub of the Saudi-backed Yemeni government in eastern Yemen, second in importance only to the interim capital. Its airport has been converted into a major base of operations for coalition forces.\nThe spokesperson also rejected Saudi reports on the interception of Houthi drones over Saudi Arabia, including Medina region, saying the group did not conduct any strikes directed toward Saudi territory on Wednesday.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T13:19:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
