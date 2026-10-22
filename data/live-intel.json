@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T22:37:46.702709+00:00",
+  "generated_at": "2026-10-22T00:56:50.503616+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -154,6 +154,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2058\r\nIssue Time: 2026 Oct 22 0003 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 21 2359 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-22 00:03:32.887",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK05\r",
       "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2271\r\nIssue Time: 2026 Oct 21 2228 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 21 2227 UTC\nValid To: 2026 Oct 22 0900 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -230,27 +249,8 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5437\r\nIssue Time: 2026 Oct 21 0205 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 21 0204 UTC\nValid To: 2026 Oct 21 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-21 02:05:20.267",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "text": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks\nRussia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+      "text": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks\nMoscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
@@ -327,7 +327,7 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia\u2019s Civil Aviation Authority announces the death of 1 person and the injury of 9 others in an attack on Dammam Airport by Ansarallah",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia\u2019s Civil Aviation Authority announces the death of 1 person and the injury of 8 others in a ballistic missile attack on Dammam Airport",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -374,14 +374,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -490,12 +488,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -529,14 +528,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -667,14 +665,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -755,7 +752,7 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udef0 I wasn\u2019t involved\u2019 in Ukraine Starlink clampdown \u2013 Trump\nPressed on who ordered the Starlink and Starshield limits that disrupted Ukrainian drone operations, \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udef0 'I wasn\u2019t involved' in Ukraine Starlink clampdown \u2013 Trump\nPressed on who ordered the Starlink and Starshield limits that disrupted Ukrainian drone operations, \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -783,12 +780,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -866,44 +864,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 Israel warns Iran's rebuilt defenses may 'force' it to act before elections\nIsrael\u2019s security apparatus is monitoring Iran\u2019s efforts to revamp its capabilities in the wake of joint Israeli-US attacks on the Islamic Republic, and \u201cmay be forced to act\u201d to \u201cdefend itself\u201d ahead of the October 27 Israeli parliamentary vote, officials with knowledge of internal discussions have told JPost.\n\ud83d\udc49 The assessments cite \u201cIranian measures indicating renewed military preparations,\u201d the completion of which \u201ccould significantly strengthen Iran\u2019s combat capabilities,\u201d which have been reconstituted much faster than expected.\nOfficials said Netanyahu \u201cwants the elections to take place as planned and on schedule, something that would not be possible if Israel was in a state of emergency involving fighting against Iran.\u201d\nIn [past rounds of fighting (2024, 2025, 2026)](https://t.me/geopolitics_prime/52591) Iran retaliated to Israeli assassination campaigns, attacks inside Iran and an attempted regime change in coordination with the US by launching up to 2.4k missiles and thousands of[ strike drones at Israel](https://t.me/geopolitics_prime/71528), with each strike proving more and more damaging to the country\u2019s military, intelligence, tech, R&D and energy infrastructure.\n\u27a1\ufe0f It\u2019s not clear what new \u201cmilitary preparations\u201d Iran could be making that Israel considers justification for another preemptive attack, which would inevitably be met with a new response and trigger new spikes in already record-high global energy prices and record-low reserve inventories as winter approaches.\nIranian officials have warned repeatedly in recent weeks that T[ehran is ready to launch a devastating retaliation to any new aggression](https://t.me/geopolitics_prime/76149), and attack not only military sites, but new targets like US big tech assets, including data centers, AI infrastructure, and underwater internet cables, across the Gulf region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T12:02:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6Saudis couldn\u2019t engineer alternative to Houthis in Yemen, militia are \u2018here to stay\u2019 - ex-MI6 chief\n\u201cThe Houthis have got a long tradition in the country. They see themselves as the successors to the monarchical regime that ruled Yemen before 1968 and [see] the military republican system that governed for the last 50 years as an aberration,\u201d former MI6 head Sir John Sawers told a security forum in Qatar.\n\ud83d\udcacThe fighters have their own \u201cnational Yemeni agenda,\u201d and \u201cthe efforts that the Saudis have made to sustain an alternative government have not been successful over the last ten years,\u201d he added.\nSawers predicts \u201csome form of settlement\u201d will eventually take place, and that \u201cthe Houthis are here to stay. They\u2019re not going to be defeated and they\u2019re going to remain in control of a large part of Yemen for the foreseeable future.\u201d\nHis comments come amid the UK MoD\u2019s announcement that it will be deploying RAF jets to protect [Saudi ](https://t.me/geopolitics_prime/76496)infrastructure against Houthi attacks, and demands among part of [Britain\u2019s defense ](https://t.me/geopolitics_prime/76199)establishment to send ground troops.\n \nThe UK has delivered up to $45B in weapons to Saudi Arabia since 2015, plus 6.8k BAE Systems employees on the ground maintaining Saudi Arabia\u2019s Air Force. It has also provided targeting assistance, and between 2024-2025, joined US strikes meant to end Ansar Allah\u2019s blockade of the Red Sea to Israeli-linked shipping.\nThe \u201cmonarchical regime\u201d Sawers mentioned is a reference to the Zaydi Imamate, a unique, meritocratic form of monarchism which established Islamic self-rule in the northern Yemeni highlands in 897, and fiercely resisted foreign attacks for over a thousand years after that. Before 897, the ancient Bakil and Hashid tribal confederations of northern Yemen spent 2k+ years resisting, outlasting and avoiding conquest by the Roman Empire, the Aksum Kingdom, and early [Islamic caliphates](https://t.me/geopolitics_prime/74893).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T10:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
