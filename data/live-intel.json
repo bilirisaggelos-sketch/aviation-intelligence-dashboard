@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-22T16:03:50.467430+00:00",
+  "generated_at": "2026-10-22T20:10:17.774616+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 23, 2026 through Sunday, October 25, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/22/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, October 23, 2026 through Saturday, October 24, 2026 Local\nFacility: ZMA",
@@ -117,14 +136,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nU.S MEXICO BORDER, TX, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZHU",
+      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
-      "location": "ZHU TX",
+      "location": "ZLA AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -136,14 +155,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
+      "text": "FAA SECURITY TFR\nU.S MEXICO BORDER, TX, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZHU",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
-      "location": "ZLA AZ",
+      "location": "ZHU TX",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -188,6 +207,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5441\r\nIssue Time: 2026 Oct 22 1648 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5440\nValid From: 2026 Oct 21 1616 UTC\nNow Valid Until: 2026 Oct 22 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-22 16:48:36.817",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -268,40 +306,40 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2693\r\nIssue Time: 2026 Oct 21 2130 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 21 2059 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 NEW: Previously unseen images of the destruction at Muwaffaq Salti Air Base, Jordan, as a result of Iran\u2019s missile attacks",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-21 21:30:28.363",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
-      "text": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks\nMoscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-21T21:27:41+00:00",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T18:24:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf8\ud83c\udde6/\ud83c\uddfa\ud83c\uddf8 NEW: Previously unseen images of the destruction at Prince Sultan Air Base, Saudi Arabia, as a result of Iran\u2019s missile attacks",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T18:23:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -317,13 +355,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -344,63 +381,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Saudi Arabia\u2019s Civil Aviation Authority announces the death of 1 person and the injury of 8 others in a ballistic missile attack on Dammam Airport",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T22:24:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Israeli fighter jets have just taken off from Ovda Airbase and are now above the West Bank\nLast Monday, several squadrons of Israeli fighter jets came dangerously close to Iranian airspace, in what Axios called a \u2018mock attack\u2019. \nA similar thing may happen tonight.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T20:00:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Initial reports indicate that an anti-ship cruise missile launcher was targeted by a U.S. strike\nAnother possibility is that an American drone was downed by air defense missiles and crashed in Iranian territory.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T19:56:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -481,12 +461,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddfe\ud83c\uddea \u2014 Ansar Allah has released a video showing FPV drone strikes targeting vehicles belonging to PLC forces on the Marib front.\n\ud83d\udd34",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 \u2014 New images from inside the U.S. Prince Sultan Air Base in Saudi Arabia show the extent of the extensive damage caused by Iranian ballistic missile and drone attacks.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T13:31:22+00:00",
+      "timestamp": "2026-10-22T18:08:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -500,69 +480,50 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 US ELECTIONS UPDATE: On November 3rd, the United States midterm elections are happening. As things stand, the Democrats are likely to win a majority in the Senate and the House. Here are the Senate races to watch:\nGOP seats in play (Toss Up):\nOHIO \nJon Husted (R) vs. \nSherrod Brown (D)\nIOWA \nAshley Hinson (R) vs. \nJosh Turek (D)\nMAINE \nSusan Collins (R) vs. \nTroy Jackson (D)\nALASKA \nDan Sullivan (R) vs. \nMary Peltola (D)\nTEXAS \nKen Paxton (R) vs. \nJames Talarico (D)\nKANSAS \nRoger Marshall (R) vs. \nAdam Hamilton (D)\nNEBRASKA \nPete Ricketts (R) vs. \nDan Osborn (I)\nNORTH CAROLINA \nMichael Whatley (R) vs. \nRoy Cooper (D)\nDemocratic seats to defend:\nMICHIGAN \nMike Rogers (R) vs. \nAbdul El-Sayed (D)\nMINNESOTA \nMichele Tafoya (R) vs. \nPeggy Flanagan (D)\nNEW HAMPSHIRE \nJohn Sununu (R) vs. \nChris Pappas (D)\nGEORGIA \nMike Collins (R) vs. \nJon Ossoff (D)\nLong shots:\nFLORIDA \nAshley Moody (R) vs. \nAngie Nixon (D)\nSOUTH CAROLINA \nDarline Graham (R) vs. \nAnnie Andrews (D)\nMONTANA \nKurt Alme (R) vs. \nSeth Bodnar (Ind)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T20:01:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Lebanese Forces (LF) ministers walked out of today's Lebanese Cabinet session in protest after the government postponed referring the Dahr al-Baydar explosives case to the Judicial Council.\nFor context: Lebanese security forces stopped a truck carrying explosives at the Dahr al-Baidar checkpoint on the highway linking Beirut with the Bekaa Valley.\n\u200bLoyalty to the Resistance Bloc MP Hassan Fadlallah confirmed that the seized explosives belong to the Resistance and were designated solely for confronting enemy occupation.\n\u200bLebanese Forces (Al Kowat) are led by Samir Geagea, a former militia commander who\u00a0 indirectly served Israel and was convicted of political murders during and after the civil war.\n\u200bThe Lebanese Forces are fiercely\nopposed to Hezbollah and by pushing to disarm Hezbollah and aligning with the west, the LF are effectively trying to leave Lebanon defenseless and at the mercy of the US and Israel.\n\u200b",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T17:02:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi (Ansarallah) forces say they carried out four operations over the past 48 hours targeting the Saudi Ministry of Defense in Riyadh, King Fahd International Airport in Dammam, Aramco facilities in Yanbu, and Abha International Airport.\nThe statement also claims Saudi forces have carried out more than 2,900 air and missile strikes over the past 100 days, causing more than 562 deaths and injuries, and warns that further escalation against Yemen will be met with \u201cmajor options\u201d and continued strikes deep inside Saudi Arabia.\nTranslation by Inter Bellum News.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-22T12:10:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddf5\ud83c\uddf1\ud83c\uddfa\ud83c\udde6 A KSA Air Force Lockheed C-130 Hercules transport aircraft followed a weird pattern before landing at Rzesz\u00f3w-Jasionka Airport, the main logistics hub of the Ukrainian Army\nThis flight follows another strange flight by a Ukrainian Air Force Ilyushin 76MD Heavy Transport aircraft to the Sharorah Airport near the KSA-Yemeni border, last week, likely carrying Ukrainian drones and perhaps even personnel.\n\ud83d\udd17 [MenchOSINT](https://x.com/MenchOsint/status/2112995847516336570)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T20:32:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Some media also report that an Iranian missile launcher was struck in Sirik by the Americans to force an Iranian move, although, not really confirmed. It's either a drone being shot down, or that.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T20:27:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7Initial reports indicate a drone was shot down off the coast of southern Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-21T19:46:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -709,6 +670,101 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8 Pentagon expands F-35 orders, signaling potential military buildup\nThe Pentagon has struck a 10-year deal with Lockheed Martin for the production of 850 F-35 stealth fighter jets.\nWhile neither of the sides specified a value for the agreement, the F-35 versions could cost over $100 million per plane.\nAir & Space Forces Magazine reported the following production costs in September 2026:\n\ud83d\udd34 F-35A \u2013 $92 million\n\ud83d\udd34 F-35B \u2013 $121.4 million\n\ud83d\udd34 F-35C \u2013 $110.8 million\nUsing the average price, 850 aircraft would cost approximately $91.8 billion. In addition to F-35s, the agreement also includes \"initial spares, ten years of modification kits and sustainment, and international customer orders,\" according to Lockheed. The Pentagon\u2019s framework agreement still requires congressional approval.\nThe F-35 program has repeatedly faced criticism from US lawmakers over cost overruns, delays, and hardware and software flaws. During the war with Iran, one F-35 was heavily damaged in March. In July, Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) stated that it had destroyed three F-35s and damaged another three during a ballistic missile attack on Al-Azraq Air Base in Jordan.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T19:46:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Houthis release new video of FPV drone copter attacks on enemy forces\nYemen\u2019s Ansar Allah fighters have published fresh footage of their tactical combat drones\u2019 operations against the Saudi-backed Aden government\u2019s ground troops.\n\ud83d\udc49 Videos show militia FPV drones targeting an enemy tank, a Turkish-made MRAP, numerous pickup trucks and individual troops across environments ranging from rocky, mountainous terrain to arid desert areas.\nSome of the footage is accompanied by video from UAVs flying overhead corroborating successful targeting, signaling an unusually high level of battlefield coordination.\nThe videos are reminiscent of footage released [by Hezbollah](https://t.me/geopolitics_prime/73546) in the summer showing similar FPV drone attacks on Israeli armor, bunkers and makeshift bases, and the types of FPV UAV videos that have become omnipresent in the [Russia-NATO](https://t.me/geopolitics_prime/71865) proxy war in Ukraine.\nAnsar Allah released the [first footage of its FPV drone](https://t.me/geopolitics_prime/76067) operations in early October, confirming that it has added tactical FPV UAVs to its [growing lineup](https://t.me/geopolitics_prime/76070) of low-cost but effective defense technology.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T18:21:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udcc9\ud83c\uddee\ud83c\uddf1 Israel Lobby\u2019s New Playbook: From Buying Politicians to Targeting Critics\nNearly 20 years after John Mearsheimer and Stephen Walt shook up American politics with The Israel Lobby and U.S. Foreign Policy, a new book reveals how much has changed.\nIn Israel\u2019s Lobby, Eli Clifton and Ian Lustick trace a lobbying network that has grown considerably richer, expanded its influence over US elections and increasingly turned to pressuring critics \u2014 even as most Americans now view Israel unfavorably.\nGrowth in the Influence and Wealth of the Lobby\nThe authors trace how the lobby\u2019s leading institutions grew wealthier, with AIPAC\u2019s assets rising roughly ninefold between 2000 and 2023. That financial muscle reaches directly into elections: AIPAC said its members had given over $53M to pro-Israel candidates during the 2024 cycle by early November.\nTwo court rulings in 2010 helped build the machinery, opening the way for super PACs to raise and spend unlimited sums independently of candidates. Direct campaign donations remain capped, but wealthy donors can fund waves of ads against a critic. AIPAC credited its affiliated United Democracy Project with helping defeat Jamaal Bowman and Cori Bush in Democratic primaries, giving other lawmakers a concrete reason to fear crossing it.\nChange in Israel\u2019s Policy\nClifton and Lustick argue that this growing financial strength has accompanied Israel\u2019s retreat from a negotiated settlement with the Palestinians toward military dominance. The lobby\u2019s task has become harder as Israeli policy leaves less room for the peace promises that once helped sell US support.\nTheir account also describes a move from defending Israel\u2019s actions to treating opposition as antisemitism, with pressure extending into universities and public debate. When criticism carries a risk to careers, funding or reputations, supporters of Israeli policy gain another way to discourage dissent without winning the argument.\nDecline in Popularity and New Challenges\nDespite that pressure, Pew\u2019s March 2026 survey found that 60% of Americans viewed Israel unfavorably, including majorities under 50 in both parties. The lobby\u2019s deeper pockets have not stopped public opinion from turning, leaving a widening gap between what many Americans think and the choices their leaders make.\nThe US war against Iran shows how easily \u201cAmerica First\u201d rhetoric can coexist with military action sought by Israel. For Palestinians and countries facing Israeli attacks, falling approval ratings offer little protection while political backing and weapons keep flowing. Public anger becomes a material constraint only when it changes those decisions.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T18:11:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf6\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83d\udee2 Qatari US LNG deal highlights windfall for American gas producers amid the Hormuz crisis\nQatarEnergy has signed two long-term agreements with US energy company Cheniere to purchase up to 4 million tons of liquefied natural gas (LNG) annually through 2054.\nAccording to QatarEnergy, the agreements cover LNG supplies from Cheniere\u2019s Sabine Pass facility in Louisiana and Corpus Christi facility in Texas. Deliveries are expected to begin in 2031 and continue through 2054. The move shows Qatar\u2019s efforts to diversify its LNG supply sources beyond the Gulf and reduce reliance on shipments from the region.\nQatar has long been one of the world\u2019s largest LNG exporters. Before the US-Israeli war against Iran, the Gulf region \u2013 primarily Qatar \u2013 accounted for roughly 20% of global LNG exports. During the conflict, QatarEnergy\u2019s facilities at Ras Laffan Industrial City and Mesaieed Industrial City were hit, knocking out around 17% of Qatar\u2019s total LNG production capacity. The closure of the Strait of Hormuz further restricted [Qatar\u2019s export options](https://t.me/geopolitics_prime/76289).\nAs a result, QatarEnergy's profit fell by roughly 70% to $4 billion in the first half of 2026. Global credit rating agency Fitch still considers the company reliable, but its outlook remains negative, meaning a downgrade is still possible.\n\ud83d\udc49 While Donald Trump has repeatedly called on Iran to reopen the Strait of Hormuz, US LNG companies continue to benefit from the price spikes and gas shortages caused by the crisis. They had previously reaped huge profits by filling the gap left by declining Russian gas supplies to Europe following US-backed sanctions on Russia and [the Nord Stream sabotage](https://t.me/geopolitics_prime/69080).\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T17:28:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Aramco orders evacuation of remaining staff from its HQ as Houthi attacks accelerate\n\u00a0\nThe skeleton crew of workers still coming into the office at Aramco\u2019s Dhahran headquarters after last week\u2019s [Houthi missile strike](https://t.me/geopolitics_prime/76155) have been told to join their colleagues working from home, informed sources have told AFP.\n\ud83d\udd0a\u201cThere was an evacuation order issued for these staff, no specific reason was given,\u201d a source said.\nLast week, after Yemen\u2019s Houthis launched ballistic missiles targeting the sprawling headquarters complex, sources told European media \u201cthe top three floors\u201d of an Aramco operations center were left \u201cgone.\u201d\nAnsar Allah started targeting Aramco facilities in August, ramping up strikes in September in a bid to put economic pressure on the world\u2019s #1 crude oil exporter to force it to end its decade-long war and blockade of Yemen.\n\ud83d\udcac On Thursday, [Yemen\u2019s Houthi-aligned military](https://t.me/geopolitics_prime/76611) said it targeted an Aramco facility in Yanbu \u2013 the Red Sea port hub serving as the terminus of Saudi Arabia\u2019s 7M bpd capacity East-West pipeline \u2013 the kingdom\u2019s export lifeline since the closure of the Strait of Hormuz amid the US-Israeli war against Iran.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T16:45:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7 Iran has no illusions about US military might, bets on asymmetric endurance \u2013 Army chief\n\u00a0\n\ud83d\udd0a\u201cWe have assessed the enemy and are aware of its considerable capabilities, but taking all these factors into account, we have prepared ourselves for asymmetric warfare and acquired the equipment required for it,\u201d Iranian Army C-in-C Amir Hatami said Thursday during a visit to an Army drone manufacturing hub.\nIran\u2019s military has a good grasp on the enemy\u2019s operational plans, and is \u201cin a better position\u201d both qualitatively and quantitatively for its response than it was previously, he said, highlighting Iran\u2019s advancements in aerial and naval drones and micro air vehicles.\nThe commander\u2019s comments come amid the continued escalation of regional tensions, including the evacuation of US military and diplomatic personnel, a reported Israeli attempt [to provoke Iran](https://t.me/geopolitics_prime/76608) by flying warplanes near its border, the activation of Iran\u2019s decentralized Mosaic Defense doctrine, and reporting that Israel and the US are planning a \u201cshort, intensive\u201d strike campaign after upcoming elections.\n[Iran has warned](https://t.me/geopolitics_prime/76498) that any new attacks could prompt it to retaliate by targeting $2T+ in previously unhit [US Big Tech infrastructure](https://t.me/geopolitics_prime/76571) in the region as companies face a multi-trillion-dollar cash crunch at home.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -792,63 +848,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-22T11:41:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83e\ude96 How US push for Hezbollah disarmament is dragging Lebanon into a civil war\nThe US is pressing the Lebanese army to act decisively against Hezbollah's weapons, while the group refuses to give up its arsenal as long as Israeli forces remain on Lebanese soil. Together, these pressures could set Lebanon ablaze from within, The Cradle reports.\n\ud83d\udc49 The army leadership, however, is reluctant to launch a full-scale operation against Hezbollah's military structure. Estimates put the Lebanese Armed Forces at roughly 60,000 active personnel, backed by aging M48 and M60 tanks, limited artillery, and no effective air defense \u2014 a force that would struggle against Hezbollah's vast rocket arsenal and thousands of anti-tank systems and attack drones.\nBeyond the immediate danger of armed confrontation, the US-brokered campaign could pull Lebanon's political and sectarian fault lines into the military itself, breaking apart an institution that has spent decades holding a fragile national balance together.\nThe internal challenge coincides with a major change in the south\n\ud83c\udf0f A UN Security Council resolution ordered the steady withdrawal of the UNIFIL peacekeeping contingent, which served as an impartial observer and mediator that helped prevent accidental clashes and documented violations in southern Lebanon\n\ud83c\udf0f Its departure leaves Lebanon alone with the Israeli army, which has still not fulfilled its obligations to withdraw troops from the south of the country\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T09:25:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran expects imminent attack, orders forces to activate \u2018Mosaic Defense\u2019 \u2014 report\nTehran now assumes a US-Israeli attack is coming and views Washington's diplomatic gestures as \"unreliable\", a senior Iranian security official told Fars News.\n\ud83d\udc49 Operational units have been instructed that if a new large-scale war erupts \u2014 including assassinations of Iranian officials or killings of civilians \u2014 they should treat US political assets and the infrastructure of countries participating in the conflict as \"legitimate targets\", the report added.\nIran already considers itself at war with the US, viewing the naval blockade and airspace restrictions as a continuation of the military aggression that began on February 28, the official was quoted as saying.\n\ud83d\udcd1 [Iran\u2019s \u2018Mosaic Defense\u2019 doctrine ](https://t.me/geopolitics_prime/65841)is designed to ensure Iran can keep fighting even if its central leadership is decapitated. The IRGC has been restructured into 31 largely autonomous provincial commands, each with its own weapons stockpiles, logistics and decision-making authority \u2014 allowing commanders to launch missile and drone strikes without waiting for orders from Tehran.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T07:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran warns of strikes on US Mideast bases if provocations near Hormuz continue \nAt least four vessels involved in illegal oil transfers in the Gulf were hit and caught fire after being tracked by Iranian forces, the Islamic Revolutionary Guard Corps (IRGC) Navy said. \nAnother three \u2060vessels collided with mines west of the Strait of Hormuz, the IRGC Navy added, warning that the US military\u2019s continued provocations could \u2060lead to Iran\u2019s wider response \u2060against American bases in the Middle East.\nThe Navy praised Iranian people\u2019s \u201cunwavering support\u201d, which they said strengthens IRGC fighters who continue to control the Strait of Hormuz and \u201cbring despair to Iran\u2019s enemies.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T06:40:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
