@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-22T20:10:17.774616+00:00",
+  "generated_at": "2026-10-22T23:25:56.746248+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPerry, GA, Saturday, October 24, 2026 through Saturday, October 24, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/22/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nFort Myers, FL, Friday, October 23, 2026 Local\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/22/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 23, 2026 through Sunday, October 25, 2026 Local\nFacility: ZAB",
@@ -212,6 +250,25 @@
     },
     {
       "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5442\r\nIssue Time: 2026 Oct 22 2021 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5441\nValid From: 2026 Oct 21 1616 UTC\nNow Valid Until: 2026 Oct 23 0300 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-22 20:21:43.920",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5441\r\nIssue Time: 2026 Oct 22 1648 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5440\nValid From: 2026 Oct 21 1616 UTC\nNow Valid Until: 2026 Oct 22 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -287,21 +344,40 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2271\r\nIssue Time: 2026 Oct 21 2228 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 21 2227 UTC\nValid To: 2026 Oct 22 0900 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\udde6\ud83c\uddea WATCH: Previously unseen footage of an Iranian ballistic missile hitting a U.S. base in the United Arab Emirates",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-21 22:28:09.410",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T22:40:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 WATCH: Previously unseen footage of an Iranian ballistic missile hitting a U.S. military base",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T22:40:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -317,12 +393,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -336,12 +413,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -374,13 +452,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -505,25 +582,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-22T17:02:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi (Ansarallah) forces say they carried out four operations over the past 48 hours targeting the Saudi Ministry of Defense in Riyadh, King Fahd International Airport in Dammam, Aramco facilities in Yanbu, and Abha International Airport.\nThe statement also claims Saudi forces have carried out more than 2,900 air and missile strikes over the past 100 days, causing more than 562 deaths and injuries, and warns that further escalation against Yemen will be met with \u201cmajor options\u201d and continued strikes deep inside Saudi Arabia.\nTranslation by Inter Bellum News.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T12:10:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -670,6 +728,26 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf8 Hidden damage, burning aircraft, abandoned families: US troops break silence on Iran war\nNever-before-published images and firsthand accounts from US service members, contractors and military families paint a far grimmer picture of Iranian strikes on American bases than Washington has publicly acknowledged, MeidasTouch Network reported.\nPhotos reportedly show bombed barracks, damaged dormitories and aircraft burning at Prince Sultan Air Base in Saudi Arabia. Sources said an E-3 Sentry AWACS was damaged in one attack that injured 10\u201312 personnel, alongside two KC-135 tankers. MeidasTouch noted that some reported losses could not be independently verified.\nAt Muwaffaq Salti Air Base in Jordan, personnel described months of incoming fire. Sources said Iranian strikes damaged F-15s, F-35s, MQ-9 Reapers and helicopters, while one July attack on barracks killed three service members.\n\ud83d\udcac \u201cWe are sitting ducks,\u201d one service member said. Another described the deployment simply: \u201cThis is not a normal deployment.\u201d\nIn the UAE, troops said they received no warning that hostilities were about to begin and some had to dig their own foxholes. In Bahrain, military families said evacuation plans existed but were not activated before the airport was struck, leaving some to escape at their own expense.\n\ud83d\udcac \u201cWe were used as pawns in the war,\u201d one military spouse said. Another American described feeling \u201ccompletely abandoned by my own government.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-22T22:32:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddfa\ud83c\uddf8 Pentagon expands F-35 orders, signaling potential military buildup\nThe Pentagon has struck a 10-year deal with Lockheed Martin for the production of 850 F-35 stealth fighter jets.\nWhile neither of the sides specified a value for the agreement, the F-35 versions could cost over $100 million per plane.\nAir & Space Forces Magazine reported the following production costs in September 2026:\n\ud83d\udd34 F-35A \u2013 $92 million\n\ud83d\udd34 F-35B \u2013 $121.4 million\n\ud83d\udd34 F-35C \u2013 $110.8 million\nUsing the average price, 850 aircraft would cost approximately $91.8 billion. In addition to F-35s, the agreement also includes \"initial spares, ten years of modification kits and sustainment, and international customer orders,\" according to Lockheed. The Pentagon\u2019s framework agreement still requires congressional approval.\nThe F-35 program has repeatedly faced criticism from US lawmakers over cost overruns, delays, and hardware and software flaws. During the war with Iran, one F-35 was heavily damaged in March. In July, Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) stated that it had destroyed three F-35s and damaged another three during a ballistic missile attack on Al-Azraq Air Base in Jordan.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -695,159 +773,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-22T18:21:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udcc9\ud83c\uddee\ud83c\uddf1 Israel Lobby\u2019s New Playbook: From Buying Politicians to Targeting Critics\nNearly 20 years after John Mearsheimer and Stephen Walt shook up American politics with The Israel Lobby and U.S. Foreign Policy, a new book reveals how much has changed.\nIn Israel\u2019s Lobby, Eli Clifton and Ian Lustick trace a lobbying network that has grown considerably richer, expanded its influence over US elections and increasingly turned to pressuring critics \u2014 even as most Americans now view Israel unfavorably.\nGrowth in the Influence and Wealth of the Lobby\nThe authors trace how the lobby\u2019s leading institutions grew wealthier, with AIPAC\u2019s assets rising roughly ninefold between 2000 and 2023. That financial muscle reaches directly into elections: AIPAC said its members had given over $53M to pro-Israel candidates during the 2024 cycle by early November.\nTwo court rulings in 2010 helped build the machinery, opening the way for super PACs to raise and spend unlimited sums independently of candidates. Direct campaign donations remain capped, but wealthy donors can fund waves of ads against a critic. AIPAC credited its affiliated United Democracy Project with helping defeat Jamaal Bowman and Cori Bush in Democratic primaries, giving other lawmakers a concrete reason to fear crossing it.\nChange in Israel\u2019s Policy\nClifton and Lustick argue that this growing financial strength has accompanied Israel\u2019s retreat from a negotiated settlement with the Palestinians toward military dominance. The lobby\u2019s task has become harder as Israeli policy leaves less room for the peace promises that once helped sell US support.\nTheir account also describes a move from defending Israel\u2019s actions to treating opposition as antisemitism, with pressure extending into universities and public debate. When criticism carries a risk to careers, funding or reputations, supporters of Israeli policy gain another way to discourage dissent without winning the argument.\nDecline in Popularity and New Challenges\nDespite that pressure, Pew\u2019s March 2026 survey found that 60% of Americans viewed Israel unfavorably, including majorities under 50 in both parties. The lobby\u2019s deeper pockets have not stopped public opinion from turning, leaving a widening gap between what many Americans think and the choices their leaders make.\nThe US war against Iran shows how easily \u201cAmerica First\u201d rhetoric can coexist with military action sought by Israel. For Palestinians and countries facing Israeli attacks, falling approval ratings offer little protection while political backing and weapons keep flowing. Public anger becomes a material constraint only when it changes those decisions.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T18:11:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf6\ud83c\udde6\ud83c\uddfa\ud83c\uddf8\ud83d\udee2 Qatari US LNG deal highlights windfall for American gas producers amid the Hormuz crisis\nQatarEnergy has signed two long-term agreements with US energy company Cheniere to purchase up to 4 million tons of liquefied natural gas (LNG) annually through 2054.\nAccording to QatarEnergy, the agreements cover LNG supplies from Cheniere\u2019s Sabine Pass facility in Louisiana and Corpus Christi facility in Texas. Deliveries are expected to begin in 2031 and continue through 2054. The move shows Qatar\u2019s efforts to diversify its LNG supply sources beyond the Gulf and reduce reliance on shipments from the region.\nQatar has long been one of the world\u2019s largest LNG exporters. Before the US-Israeli war against Iran, the Gulf region \u2013 primarily Qatar \u2013 accounted for roughly 20% of global LNG exports. During the conflict, QatarEnergy\u2019s facilities at Ras Laffan Industrial City and Mesaieed Industrial City were hit, knocking out around 17% of Qatar\u2019s total LNG production capacity. The closure of the Strait of Hormuz further restricted [Qatar\u2019s export options](https://t.me/geopolitics_prime/76289).\nAs a result, QatarEnergy's profit fell by roughly 70% to $4 billion in the first half of 2026. Global credit rating agency Fitch still considers the company reliable, but its outlook remains negative, meaning a downgrade is still possible.\n\ud83d\udc49 While Donald Trump has repeatedly called on Iran to reopen the Strait of Hormuz, US LNG companies continue to benefit from the price spikes and gas shortages caused by the crisis. They had previously reaped huge profits by filling the gap left by declining Russian gas supplies to Europe following US-backed sanctions on Russia and [the Nord Stream sabotage](https://t.me/geopolitics_prime/69080).\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T17:28:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Aramco orders evacuation of remaining staff from its HQ as Houthi attacks accelerate\n\u00a0\nThe skeleton crew of workers still coming into the office at Aramco\u2019s Dhahran headquarters after last week\u2019s [Houthi missile strike](https://t.me/geopolitics_prime/76155) have been told to join their colleagues working from home, informed sources have told AFP.\n\ud83d\udd0a\u201cThere was an evacuation order issued for these staff, no specific reason was given,\u201d a source said.\nLast week, after Yemen\u2019s Houthis launched ballistic missiles targeting the sprawling headquarters complex, sources told European media \u201cthe top three floors\u201d of an Aramco operations center were left \u201cgone.\u201d\nAnsar Allah started targeting Aramco facilities in August, ramping up strikes in September in a bid to put economic pressure on the world\u2019s #1 crude oil exporter to force it to end its decade-long war and blockade of Yemen.\n\ud83d\udcac On Thursday, [Yemen\u2019s Houthi-aligned military](https://t.me/geopolitics_prime/76611) said it targeted an Aramco facility in Yanbu \u2013 the Red Sea port hub serving as the terminus of Saudi Arabia\u2019s 7M bpd capacity East-West pipeline \u2013 the kingdom\u2019s export lifeline since the closure of the Strait of Hormuz amid the US-Israeli war against Iran.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T16:45:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran has no illusions about US military might, bets on asymmetric endurance \u2013 Army chief\n\u00a0\n\ud83d\udd0a\u201cWe have assessed the enemy and are aware of its considerable capabilities, but taking all these factors into account, we have prepared ourselves for asymmetric warfare and acquired the equipment required for it,\u201d Iranian Army C-in-C Amir Hatami said Thursday during a visit to an Army drone manufacturing hub.\nIran\u2019s military has a good grasp on the enemy\u2019s operational plans, and is \u201cin a better position\u201d both qualitatively and quantitatively for its response than it was previously, he said, highlighting Iran\u2019s advancements in aerial and naval drones and micro air vehicles.\nThe commander\u2019s comments come amid the continued escalation of regional tensions, including the evacuation of US military and diplomatic personnel, a reported Israeli attempt [to provoke Iran](https://t.me/geopolitics_prime/76608) by flying warplanes near its border, the activation of Iran\u2019s decentralized Mosaic Defense doctrine, and reporting that Israel and the US are planning a \u201cshort, intensive\u201d strike campaign after upcoming elections.\n[Iran has warned](https://t.me/geopolitics_prime/76498) that any new attacks could prompt it to retaliate by targeting $2T+ in previously unhit [US Big Tech infrastructure](https://t.me/geopolitics_prime/76571) in the region as companies face a multi-trillion-dollar cash crunch at home.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T16:03:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran vows to unveil \u2018Father of All Bombs\u2019 amid Trump\u2019s MOAB threats\n\u00a0\n\u201cThe quantity of our missiles has grown at least 1.5 times since before the 12-Day War. Their quality has improved tremendously; their range, destructive power, and accuracy have increased. The United States has used its \u2018Mother of All Bombs\u2019. We are preparing to unveil the \u2018Father of All Bombs\u2019, something new to the enemy,\u201d IRGC spokesman Hossein Mohebi has said.\n\ud83d\udc49 Reiterating that Hormuz is \u201c100% closed\u201d to US warships, and that commercial vessels have resorted to smuggling in the dead of night with their transponders turned off, Mohebi pointed to evasive maneuvers carrier groups had to make in the course of the 2026 war as a sign of US awareness of the capabilities of Iran\u2019s missiles, not all of which have been unveiled.\nIt\u2019s not clear what sort of weapon Iran may unveil to compete with the Mother of All Bombs, whose gravity drop, air burst GBU-43B variant has a ~11 tons of TNT yield. The related GBU-57 MOP bunker buster has a ~2.4-ton TNT equivalent yield, and is optimized for kinetic penetration.[ Iran\u2019s Khorramshahr-4 ](https://t.me/geopolitics_prime/66835)comes closest in terms of payload (1.8k kg) and can be equipped with cluster bomblets to overwhelm enemy defenses.\n\u27a1\ufe0f Until now, Iran has generally not tried to match US capabilities weapon-for-weapon, but instead stuck to an asymmetric strategy of inexpensive, mass-produced missiles and drones shielded in underground \u2018missile cities\u2019, and leveraged its geographic control of the Hormuz Strait. [The big exception is Fattah-1 and 2](https://t.me/geopolitics_prime/51952) \u2013 Iran\u2019s lineup of hypersonic missiles. The US has yet to field a comparable capability.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T14:25:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel insists war is peace\u2019s only path, warns Hamas is poised to strike again\nThe Israel Defense Forces (IDF) has briefed US military and Israeli government officials on an intelligence assessment asserting that Hamas is gearing up to resume fighting in the Gaza Strip, Haaretz reports.\n\ud83d\udc49 The Israeli report argued that disarming the group would require a return to military action, asserting that an international body \u2013 an apparent reference to Donald Trump\u2019s Board of Peace \u2013 would be unable to accomplish the task.\nThe IDF also said that Hamas had repaired its tunnel network, replenished its weapons stockpiles in areas of the Gaza Strip still under its control, and rebuilt its ranks to an estimated 30,000-40,000 operatives, roughly matching its strength before October 7, 2023.\n\ud83d\udd0aHaaretz noted that the assessment emerged amid the Netanyahu government\u2019s reluctance to cooperate with the Gaza peace plan.\nThe report also comes just five days before Israel\u2019s October 27 general election, in which Israeli Prime Minister Benjamin Netanyahu is seeking another term as prime minister amid his ongoing corruption trial.\n\u27a1\ufe0fSimilar claims by the IDF regarding Hamas\u2019s purported plans were reported by Israeli media on August 23. Earlier that month, Netanyahu rejected a 15-point peace proposal put forward by Trump\u2019s Board of Peace in July, stalling efforts to advance its implementation.\nDespite the declared ceasefire, Israel has obstructed progress toward reconstruction in the Gaza Strip while maintaining its blockade. It has also continued to carry out attacks and expand its control over Palestinian territory, further displacing Palestinians, The New Humanitarian \u2013 a UN-linked crisis-reporting outlet \u2013 warns.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T13:46:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 Houthi missile and drone blitz targets Saudi MoD HQ, Aramco, two airports\n\u00a0\nYemen\u2019s Ansar Allah-aligned Armed Forces have resumed strikes on the Saudi interior after a brief pause, announcing ballistic missile and drone attacks on:\n\ud83c\udf0f the Ministry of Defense building in Riyadh, saying they scored a \u201cdirect hit\u201d\n\ud83c\udf0f the King Fahd International Airport in Damman, eastern Saudi Arabia, resulting in \u201ca disruption of air traffic\u201d\n\ud83c\udf0f a Saudi Aramco facility in Yanbu, a major industrial and port hub on the Red Sea home to multiple refineries, and the terminus of the East-West oil pipeline. The Armed Forces reported a \u201cdirect hit\u2026leading to a fire breaking out at the targeted site\u201d\n\ud83c\udf0f the Abha International Airport in southwest Saudi Arabia, also reporting a direct hit on the target\n\u00a0\nThe Armed Forces warned \u201cthat the Saudi enemy\u2019s threats to target Yemeni tribes will not go unpunished, and if it is involved in carrying out this threat, the consequences it faces will be catastrophic and unexpected, and we will resort to major options that we did not want to take.\u201d\nThe statement said Saudi air and missile strikes have attacked Yemen over 2.9k times since the July escalation, \u201ctargeting civilian infrastructure\u2026committing dozens of crimes and leaving more than 562 martyrs and wounded, most of them women and children.\u201d\nThursday\u2019s statement comes amid reports that non-emergency US Embassy personnel and their families have been ordered to evacuate Saudi Arabia, and viral claims that some members of the kingdom\u2019s political and economic elite may have fled, while top leaders are shuttled from palace to palace to avoid [being targeted by the Houthis](https://t.me/geopolitics_prime/76522).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T13:06:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel reportedly flies warplanes to Iran\u2019s border to rile Tehran, provoke escalation\n\u00a0\n\u201cDozens\u201d of IAF fighter jets and tankers were secretly scrambled for a \u201cpower projection\u201d mission on Monday, some flying up to the Iranian border before turning back, Israeli and US officials have told Axios.\n\ud83d\udc49 The mission, taking place the same day Benjamin Netanyahu met with Defense Secretary Hegseth at Ovda Air Base in southern Israel, involved the presumably unauthorized passage of Israeli warplanes through Syrian and Iraqi airspace.\nUS sources said Israel was aware Iran\u2019s air defenses would inevitably \u201cdetect the sortie,\u201d and may have been \u201choping the Iranians would fire at the aircraft, providing a justification\u201d for new strikes. The US was notified ahead of time.\n\u27a1\ufe0f The reported provocation may explain why Iran has activated [\u2018Mosaic Defense\u2019 ](https://t.me/geopolitics_prime/76600)[\u2013 the decentralized defense doctrine](https://t.me/geopolitics_prime/65841) which allowed it to survive February\u2019s decapitation strikes and immediately strike back, blinding US air defenses and intelligence and undermining its regional power projection capabilities.\nOfficials have told Israeli media that[ Israel\u2019s October 27 elections](https://t.me/geopolitics_prime/76559), in which Netanyahu\u2019s coalition faces a significant chance of losing power, may be postponed if Israel goes into a state of emergency caused by renewed fighting with Iran.\n\ud83d\udd0a Opposition leader Yair Lapid has warned Netanyahu that \u201cthere is absolutely no reason to attack Iran or anywhere else\u201d before the vote. \u201cIt won\u2019t help him in the elections, either, so I don\u2019t understand why he is doing it.\u201d\nNetanyahu told Israeli media on Thursday tha[t Iran was a \u201ccancer\u201d ](https://t.me/geopolitics_prime/76605)and that Israel wouldn\u2019t stop attacking until it \u201cbrings down\u201d the \u201cregime.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T11:41:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
