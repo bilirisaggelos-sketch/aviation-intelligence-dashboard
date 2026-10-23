@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T07:18:04.702002+00:00",
+  "generated_at": "2026-10-23T12:48:23.065710+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,6 +192,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3755\r\nIssue Time: 2026 Oct 23 1147 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Oct 23 1140 UTC\nStation: GOES-19\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-23 11:47:50.950",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5442\r\nIssue Time: 2026 Oct 22 2021 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5441\nValid From: 2026 Oct 21 1616 UTC\nNow Valid Until: 2026 Oct 23 0300 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -268,21 +287,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2058\r\nIssue Time: 2026 Oct 22 0003 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 21 2359 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Iranian Mil Mi-8 helicopters seen flying over Tehran with jamming / surveillance pods",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-22 00:03:32.887",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T12:47:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -378,6 +397,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Turkish Foreign Minister Hakan Fidan hosted the first joint meeting of the R4 and E3 foreign ministers in Istanbul, bringing together regional and European powers to discuss crises across the Middle East and beyond. \nThe R4 group of T\u00fcrkiye, Egypt, Pakistan and Saudi Arabia met with the E3 of Britain, France and Germany, with Italy also joining at Ankara\u2019s initiative. \nAttendees included Germany\u2019s Johann Wadephul, Britain\u2019s Ed Miliband, France\u2019s Jean-No\u00ebl Barrot, Egypt\u2019s Badr Abdelatty, Pakistan\u2019s Ishaq Dar, Saudi Arabia\u2019s Faisal bin Farhan and Italy\u2019s Antonio Tajani. \nThe agenda covered the Palestinian issue, including settlement expansion, settler violence and the two-state solution, as well as security in the Strait of Hormuz, Yemen, and efforts to end the Russia-Ukraine war and prevent spillover into the Black Sea. \nFidan was expected to stress \u201cregional ownership\u201d of security and greater international pressure on Israel.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T12:36:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Passengers were evacuated at Moscow\u2019s Sheremetyevo Airport after an air raid alert was declared amid a Ukrainian drone threat, with flights restricted at all four of the capital\u2019s major airports. \nRussia\u2019s aviation agency Rosaviatsiya halted arrivals and departures at Sheremetyevo, Domodedovo, Vnukovo and Zhukovsky from around 14:05 Moscow time for safety reasons. \nAirport staff directed passengers to shelters and safe zones, telling them to avoid elevators, windows and any drone debris. \nMoscow Mayor Sergei Sobyanin said air defenses were intercepting drones approaching the city, with at least 11 reported downed in recent hours.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T12:35:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -498,7 +555,7 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Palestinian fighters have shot 6 Israeli Soldiers in the occupied West Bank\nAt least 2 Palestinians assaulted an Israeli soldier guard tower, engaging in a fierce clash for over 20 minutes and forcing the army to call in backup.\nTwo Palestinians were shot and killed in the clash.\nIsrael has now locked down the city of Al-Khalil, believing a third fighter escaped.",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Palestinian fighters have shot 6 israeli soldiers in the occupied West Bank\nAt least 2 Palestinians assaulted an israeli soldier guard tower, engaging in a fierce clash for over 20 minutes and forcing the army to call in backup.\nTwo Palestinians were shot and killed in the clash.\nisrael has now locked down the city of Al-Khalil, believing a third fighter escaped.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -612,6 +669,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f Netanyahu moves to lock down West Bank days before Israeli election\nBenjamin Netanyahu has ordered the immediate closure of Hebron and preparations for a full lockdown across the West Bank.\n\ud83d\udd0a\u201cI have instructed the IDF and the security forces to immediately impose a closure on the city of Hebron and to prepare for a full lockdown across all of Judea and Samaria starting today,\u201d the Israeli PM wrote on X after a security assessment with senior defense and intelligence officials.\nHe said Israeli forces were stepping up operations and carrying out mass arrests, vowing to pursue Hamas members \u201ceverywhere and at all times.\u201d\nThe move follows a shooting early in the morning at the northern entrance to Hebron. Two Palestinians were reported killed, while six Israeli soldiers were injured.\nNetanyahu also ordered his Likud party to cancel all political events following the attack, the party said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T09:49:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel providing intel to Saudi Arabia for Yemen strikes \u2013 reports\nThe IDF has provided Riyadh with \u201cexceptional\u201d intelligence \u201ccapabilities to assist its military operations against the Houthis,\u201d an anonymous defense official told JPost.\n\ud83d\udc49 The intel-sharing, provided via \u201cUS mediation,\u201d lines up \u201cwith Israel\u2019s national interests and directives from the political leadership,\u201d the official said.\nIsrael benefits from the exchange \u201cbecause it wears down the military strength of an Israeli enemy that is preparing and planning to harm us in the future,\u201d and \u201clearning a great deal\u201d about the situation on the ground, observing \u201cmethods of operations and tactics,\u201d and weapons types used.\n\u27a1\ufe0f The intel support comes against the background of reports that the IDF is on \u201cheighted alert\u201d for some kind of [potential Houthi ground or sea assault inside Israel itself.](https://t.me/geopolitics_prime/76195)\nIt also follows reports that Benjamin Netanyahu had proposed joining the military campaign against Ansar Allah, but was shot down by MBS, who declined over fears of the domestic and regional repercussions of being seen as collaborating with Israel, whose treatment of the Palestinians Riyadh has formally condemned.\nAnsar Allah has consistently accused the House of Saud and other regional monarchies of being \u201cpuppets,\u201d \u201cmercenaries\u201d and \u201cservants\u201d of the US and Israel.\nThe Houthi-aligned Yemeni military reported Thursday that Saudi air and missile strikes had targeted Yemen 2.9k+ times since July\u2019s resumption of hostilities. JPost\u2019s source did not clarify when Israel began sharing intel, or what percentage of overall Saudi attacks have been based on info provided by the IDF.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T07:35:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcb5\ud83c\uddfa\ud83c\uddf8 US spent $11 billion on defending Israeli airspace since 2023 \u2014 Iranian FM\nOverall, the US used as many as 609 missiles in three years, a table provided by Iran\u2019s Foreign Minister Abbas Araghchi shows.\n\u201cIt has fired more interceptors defending Israel than Israel has. That is not a symbiotic relationship. It is a parasitic one,\u201d he notes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -637,25 +732,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-23T04:53:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb5 Kushner\u2019s hacked iPhone exposes secret Gulf money trail worth billions\nA new excerpt from Matthew Cole\u2019s book Princes and Thieves alleges that Dutch intelligence gained access to Jared Kushner\u2019s iPhone in 2018 and watched him log into a UAE-linked bank account that had received hundreds of millions of dollars routed through Azerbaijan. Vanity Fair published the excerpt.\nAccording to the book, UAE ruler Mohammed bin Zayed and Saudi Crown Prince Mohammed bin Salman discussed creating a multibillion-dollar foreign-policy slush fund tied to Trump administration goals. At least $2 billion was eventually placed into accounts linked to Kushner\u2019s activities, including roughly $750 million in a First Abu Dhabi Bank account to which Kushner allegedly had signatory access.\n\ud83d\udcac \u201cJared promised MBZ that he\u2019d push their agenda with Trump if they participated in a fund,\u201d a source quoted in the book said bluntly. The same source described the money as a way to advance normalization with Israel and wider regional objectives.\nThe book further claims roughly another $1 billion was routed to Israel via Azerbaijan for Kushner, while a third account was connected to secret defense arrangements involving Israel and the UAE. The author describes the three accounts together as a shadow foreign-policy structure involving Kushner, Israel, the UAE and Saudi Arabia.\nThe potential legal implications are serious: a former Mueller prosecutor told the author that any quid pro quo for the money could raise federal bribery and foreign-agent issues. Kushner\u2019s lawyer denies he violated any law and denies knowledge of the alleged UAE and Israeli accounts.\nCole\u2019s book frames the scheme as part of a broader effort to reshape the Middle East around ties with Israel, confrontation with Iran and the marginalization of Palestine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T00:01:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
