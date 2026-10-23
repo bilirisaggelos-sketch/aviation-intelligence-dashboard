@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T17:49:23.545053+00:00",
+  "generated_at": "2026-10-23T21:16:40.757712+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,6 +230,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2694\r\nIssue Time: 2026 Oct 23 1955 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 23 1953 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-23 19:55:04.007",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5443\r\nIssue Time: 2026 Oct 23 1927 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 23 1926 UTC\nValid To: 2026 Oct 24 0900 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-23 19:27:05.807",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3755\r\nIssue Time: 2026 Oct 23 1147 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Oct 23 1140 UTC\nStation: GOES-19\nComment:",
       "source": "NOAA Space Weather",
@@ -276,44 +314,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-22 16:48:36.817",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5440\r\nIssue Time: 2026 Oct 22 1424 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5439\nValid From: 2026 Oct 21 1616 UTC\nNow Valid Until: 2026 Oct 22 1800 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-22 14:24:34.303",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5439\r\nIssue Time: 2026 Oct 22 0532 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5438\nValid From: 2026 Oct 21 1616 UTC\nNow Valid Until: 2026 Oct 22 1500 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-22 05:32:43.167",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -374,12 +374,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -421,32 +422,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Yemeni ballistic missile attack ongoing against Riyadh, Saudi Arabia",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T00:21:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nThe speed limits on Starlink and Starshield are still there. The speed has not been restored. \nAnd the delivery of interceptors to protect us against Russian ballistic missiles is still delayed.\nThis is a real problem, because the Russians attack us almost every single day.",
+      "text": "Zelensky:\nDuring this year of war, we have received dozens, perhaps a few hundred, missiles to defend our skies.\nMiddle Eastern countries used about 2,000 in the first 48 hours of the war.\nThat doesn't mean we shouldn't support Middle Eastern allies. Of course we should support them, help them and defend them.\nBut everything has to be competitive.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T17:10:18+00:00",
+      "timestamp": "2026-10-23T20:59:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,12 +442,50 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "German Foreign Minister Wadephul:\nIran and the Houthis must stop attacking ships, airports, infrastructure, or simply their neighbors.",
+      "text": "Zelensky:\nWe told our American partners: Switch on Starlink in those parts of Russia where they launch ballistic missiles.\nWhy must we all be under attack? Why must all of Europe be afraid that Russian ballistic missiles will reach European territory?\nSwitch on Starlink. We will do it. We will handle it.\nOf course, we will do it if Russia doesn't stop this war.\nSwitch it on. It's not difficult, really.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T16:03:31+00:00",
+      "timestamp": "2026-10-23T20:52:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nRussia produces 140 ballistic missiles every month, and they already have 700 ballistic missiles in storage.\nEverybody talks about these missiles, but you can solve this problem.\nAbout 70% of the components in each ballistic missile come from other countries \u2014 Asia, the United States and Europe.\nYou can stop it because these are your companies. Worldwide companies are selling these components to Russia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T20:50:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nSome countries think they need to keep their interceptors for themselves. They are ready to help Ukraine, but first they need to defend themselves.\nBut that will not help if Ukraine falls, if Russia breaks our defensive lines.\nNobody can defend themselves alone against a country that is ready to do anything, that is ready to kill ordinary civilians with missiles and drones.\nThey already have an army of around 2 million. There is no European country with an army that strong. European armies are not ready for such a struggle.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T20:44:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,12 +575,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 The IRGC is conducting missile tests across Iran.\n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4\ud83c\uddee\ud83c\uddf7 \u2014 The USAF has reportedly begun relocating aircraft and fighter jets from its bases in Jordan over the past few days, amid ongoing preparations for potential military strikes against Iran.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T14:13:46+00:00",
+      "timestamp": "2026-10-23T18:57:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,12 +594,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "Never-before-seen footage shows an Iranian ballistic missile evading air defenses and striking close to American personnel at a U.S. military installation in the UAE.",
+      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea\ud83c\uddee\ud83c\uddf7\ud83c\uddfe\ud83c\uddea \u2014 German Foreign Minister Johann Wadephul:\nIran and the Houthis must stop attacking ships, airports, infrastructure, or simply their neighbors.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T04:27:30+00:00",
+      "timestamp": "2026-10-23T18:31:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -587,6 +607,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1There is a prominent logistical and operational deployment on the parking aprons today at Ovda Airbase (Ovda AB) in Israel featuring:\n-\u200b4 KC-46 Pegasus aerial refueling aircraft.\n\u200b-Approximately 12 F-35C stealth fighter jets (carrier-capable variant).",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T19:35:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf7 As the region is on the brink of an inevitable explosion, Iran unveils its own drone production line, while Russia introduces new modifications to its Shahed 136 (Geran) drones.\nRecently, Russia has introduced jet-powered drones equipped with what appear to be \"mustaches\" which have demonstrated significant effectiveness in strikes targeting bridges, pipelines, and power transmission towers.\nThese \"mustaches\" are contact sensors, and the drones carry an explosive payload capable of cutting through metals instead of causing a large scale explosion. Their speed has tripled, and they have become much harder to intercept.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T19:29:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -649,25 +707,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 US ELECTIONS UPDATE: On November 3rd, the United States midterm elections are happening. As things stand, the Democrats are likely to win a majority in the Senate and the House. Here are the Senate races to watch:\nGOP seats in play (Toss Up):\nOHIO \nJon Husted (R) vs. \nSherrod Brown (D)\nIOWA \nAshley Hinson (R) vs. \nJosh Turek (D)\nMAINE \nSusan Collins (R) vs. \nTroy Jackson (D)\nALASKA \nDan Sullivan (R) vs. \nMary Peltola (D)\nTEXAS \nKen Paxton (R) vs. \nJames Talarico (D)\nKANSAS \nRoger Marshall (R) vs. \nAdam Hamilton (D)\nNEBRASKA \nPete Ricketts (R) vs. \nDan Osborn (I)\nNORTH CAROLINA \nMichael Whatley (R) vs. \nRoy Cooper (D)\nDemocratic seats to defend:\nMICHIGAN \nMike Rogers (R) vs. \nAbdul El-Sayed (D)\nMINNESOTA \nMichele Tafoya (R) vs. \nPeggy Flanagan (D)\nNEW HAMPSHIRE \nJohn Sununu (R) vs. \nChris Pappas (D)\nGEORGIA \nMike Collins (R) vs. \nJon Ossoff (D)\nLong shots:\nFLORIDA \nAshley Moody (R) vs. \nAngie Nixon (D)\nSOUTH CAROLINA \nDarline Graham (R) vs. \nAnnie Andrews (D)\nMONTANA \nKurt Alme (R) vs. \nSeth Bodnar (Ind)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T20:01:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukrainian drone strikes damaged five major Russian data centers this month, including facilities operated by Yandex, Sberbank and VKontakte. AP reports widespread service disruptions.",
       "source": "Telegram",
@@ -707,12 +746,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Houthis show strikes against Saudi-backed forces with drones\nThe footage reveals Radium drones dropping bombs on military equipment across various of Yemen\u2019s border fronts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7Tehran prepares to strike undersea cables if US-Israeli attacks resume - report\nThe attacks would be aimed at underwater communications cable in the Persian Gulf region, Reuters claims, citing two unnamed Iranian security officials.\n\"If Iran is attacked, there will be no more red lines... from undersea cables to military bases, including covert ones,\" one of the officials said as quoted by the media agency.\nThe officials pointed out that Iran has full access to the cables and warned the US not to \u201cplay with fire.\u201d\nEarlier this week, the Islamic Revolutionary Guard Corps pointedly [warned](https://t.me/geopolitics_prime/76498) that \u201cseven major internet cables run beneath the Strait of Hormuz.\u201d\nIranian Supreme National Security Council Secretary Mohsen Rezaei also warned that Iran could target undersea internet cables, data centers, and AI facilities linked to the US if hostilities are resumed.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T17:26:01+00:00",
+      "timestamp": "2026-10-23T19:47:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -722,6 +761,45 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israeli occupation forces carry out demolitions of Palestinian homes in Hebron\nThe demolitions are ostensibly being carried out as collective punishment for a shooting at a checkpoint that claimed the lives of two Israeli soldiers and wounded six others, in which the two perpetrators were killed as well.\nIn the wake of the attack, Israeli PM Benjamin Netanyahu threatened to destroy the West Bank city in reprisal.\nThe operation apparently commenced without any administrative or legal appeal beforehand.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T18:15:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Houthis show strikes against Saudi-backed forces with drones\nThe footage reveals Radium drones dropping bombs on military equipment across various of Yemen\u2019s border fronts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T17:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -751,63 +829,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-23T12:59:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2721\ufe0f Netanyahu moves to lock down West Bank days before Israeli election\nBenjamin Netanyahu has ordered the immediate closure of Hebron and preparations for a full lockdown across the West Bank.\n\ud83d\udd0a\u201cI have instructed the IDF and the security forces to immediately impose a closure on the city of Hebron and to prepare for a full lockdown across all of Judea and Samaria starting today,\u201d the Israeli PM wrote on X after a security assessment with senior defense and intelligence officials.\nHe said Israeli forces were stepping up operations and carrying out mass arrests, vowing to pursue Hamas members \u201ceverywhere and at all times.\u201d\nThe move follows a shooting early in the morning at the northern entrance to Hebron. Two Palestinians were reported killed, while six Israeli soldiers were injured.\nNetanyahu also ordered his Likud party to cancel all political events following the attack, the party said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T09:49:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel providing intel to Saudi Arabia for Yemen strikes \u2013 reports\nThe IDF has provided Riyadh with \u201cexceptional\u201d intelligence \u201ccapabilities to assist its military operations against the Houthis,\u201d an anonymous defense official told JPost.\n\ud83d\udc49 The intel-sharing, provided via \u201cUS mediation,\u201d lines up \u201cwith Israel\u2019s national interests and directives from the political leadership,\u201d the official said.\nIsrael benefits from the exchange \u201cbecause it wears down the military strength of an Israeli enemy that is preparing and planning to harm us in the future,\u201d and \u201clearning a great deal\u201d about the situation on the ground, observing \u201cmethods of operations and tactics,\u201d and weapons types used.\n\u27a1\ufe0f The intel support comes against the background of reports that the IDF is on \u201cheighted alert\u201d for some kind of [potential Houthi ground or sea assault inside Israel itself.](https://t.me/geopolitics_prime/76195)\nIt also follows reports that Benjamin Netanyahu had proposed joining the military campaign against Ansar Allah, but was shot down by MBS, who declined over fears of the domestic and regional repercussions of being seen as collaborating with Israel, whose treatment of the Palestinians Riyadh has formally condemned.\nAnsar Allah has consistently accused the House of Saud and other regional monarchies of being \u201cpuppets,\u201d \u201cmercenaries\u201d and \u201cservants\u201d of the US and Israel.\nThe Houthi-aligned Yemeni military reported Thursday that Saudi air and missile strikes had targeted Yemen 2.9k+ times since July\u2019s resumption of hostilities. JPost\u2019s source did not clarify when Israel began sharing intel, or what percentage of overall Saudi attacks have been based on info provided by the IDF.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T07:35:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb5\ud83c\uddfa\ud83c\uddf8 US spent $11 billion on defending Israeli airspace since 2023 \u2014 Iranian FM\nOverall, the US used as many as 609 missiles in three years, a table provided by Iran\u2019s Foreign Minister Abbas Araghchi shows.\n\u201cIt has fired more interceptors defending Israel than Israel has. That is not a symbiotic relationship. It is a parasitic one,\u201d he notes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T06:54:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
