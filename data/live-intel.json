@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T23:25:56.746248+00:00",
+  "generated_at": "2026-10-23T01:49:26.962474+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -174,25 +174,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/16/2026",
-      "location": "ZLA AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nU.S MEXICO BORDER, TX, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZHU",
       "source": "FAA",
       "source_type": "official",
@@ -212,14 +193,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nAUSTIN, TX, Wednesday, October 21, 2026 through Sunday, October 25, 2026 Local\nFacility: ZHU",
+      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
-      "location": "ZHU TX",
+      "location": "ZLA AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -231,14 +212,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nRALEIGH, NC, Thursday, October 15, 2026 through Sunday, October 25, 2026 Local\nFacility: ZDC",
+      "text": "FAA SECURITY TFR\nAUSTIN, TX, Wednesday, October 21, 2026 through Sunday, October 25, 2026 Local\nFacility: ZHU",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
-      "timestamp": "10/13/2026",
-      "location": "ZDC NC",
+      "timestamp": "10/16/2026",
+      "location": "ZHU TX",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -346,6 +327,44 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Footage of a direct missile impact in Riyadh, Saudi Arabia",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T00:55:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 NEW: Yemeni ballistic missile attack ongoing against Riyadh, Saudi Arabia",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T00:21:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\udde6\ud83c\uddea WATCH: Previously unseen footage of an Iranian ballistic missile hitting a U.S. base in the United Arab Emirates",
       "source": "Telegram",
       "source_type": "telegram",
@@ -390,65 +409,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-22T18:24:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf8\ud83c\udde6/\ud83c\uddfa\ud83c\uddf8 NEW: Previously unseen images of the destruction at Prince Sultan Air Base, Saudi Arabia, as a result of Iran\u2019s missile attacks",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T18:23:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Yemeni ballistic missile and drone attack in Jazan, Saudi Arabia",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T15:57:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Direct impacts in Riyadh, the capital of Saudi Arabia, after Yemeni missile and drone attacks this afternoon",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T15:08:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -547,12 +507,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -589,6 +550,101 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\uddfe\ud83c\uddea #Yemen: Yemen\u2019s Houthi militants have used FPV drones to strike several vehicles, including tanks, belonging to Saudi-backed forces in Marib Governorate.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T01:31:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian forces advanced more than 15 kilometers behind Russian lines through underground gas pipelines during a counteroffensive in the Kupyansk sector, killing over 100 Russian soldiers and capturing over 30.\nOperation Veles combined underground advances with coordinated drone strikes and ground attacks, cutting off Russian infiltration routes into the rear of Kupyansk.\nUnits of the Charter Brigade, the R.U.Kh. and Lava Regiments, GUR units, including the Russian Volunteer Corps and the Freedom of Russia Legion, and the Achilles Brigade participated in the operation.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T01:29:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The Iran-backed Houthi group has asserted that it launched ballistic missiles targeting the Ministry of Defense headquarters in Riyadh, the capital of Saudi Arabia.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T01:27:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Iran\u2019s IRGC Navy claims four vessels were struck simultaneously and set ablaze while transferring oil between ships in the north-central Persian Gulf after using \u201cunauthorized routes.\u201d \nThe IRGC also reported that three other vessels struck mines west of the Strait of Hormuz last night and caught fire.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T01:27:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a0\ufe0f Confirmed: Metrics show a disruption to internet connectivity in Zhytomyr Oblast, #Ukraine, corresponding to the third set of power outages this week as Russia's strategy of drone attacks targeting energy infrastructure during the colder months expands westward",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T01:21:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -632,96 +688,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Russia launched a large-scale ballistic missile attack on Kyiv, with at least 25 missiles of various types reportedly used, primarily targeting energy infrastructure.\nNo interceptions were reported, while a Zircon/Oniks-M cruise missile was also launched toward the city.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5 Kushner\u2019s hacked iPhone exposes secret Gulf money trail worth billions\nA new excerpt from Matthew Cole\u2019s book Princes and Thieves alleges that Dutch intelligence gained access to Jared Kushner\u2019s iPhone in 2018 and watched him log into a UAE-linked bank account that had received hundreds of millions of dollars routed through Azerbaijan. Vanity Fair published the excerpt.\nAccording to the book, UAE ruler Mohammed bin Zayed and Saudi Crown Prince Mohammed bin Salman discussed creating a multibillion-dollar foreign-policy slush fund tied to Trump administration goals. At least $2 billion was eventually placed into accounts linked to Kushner\u2019s activities, including roughly $750 million in a First Abu Dhabi Bank account to which Kushner allegedly had signatory access.\n\ud83d\udcac \u201cJared promised MBZ that he\u2019d push their agenda with Trump if they participated in a fund,\u201d a source quoted in the book said bluntly. The same source described the money as a way to advance normalization with Israel and wider regional objectives.\nThe book further claims roughly another $1 billion was routed to Israel via Azerbaijan for Kushner, while a third account was connected to secret defense arrangements involving Israel and the UAE. The author describes the three accounts together as a shadow foreign-policy structure involving Kushner, Israel, the UAE and Saudi Arabia.\nThe potential legal implications are serious: a former Mueller prosecutor told the author that any quid pro quo for the money could raise federal bribery and foreign-agent issues. Kushner\u2019s lawyer denies he violated any law and denies knowledge of the alleged UAE and Israeli accounts.\nCole\u2019s book frames the scheme as part of a broader effort to reshape the Middle East around ties with Israel, confrontation with Iran and the marginalization of Palestine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T02:09:03+00:00",
+      "timestamp": "2026-10-23T00:01:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 The Moscow region is also under attack by Ukrainian drones.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T02:09:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Footage shows a Ukrainian FP-1 drone flying at low altitude over the rooftops of apartment buildings.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T02:08:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 An attack has been reported in the Russian city of Lipetsk, drones and explosions were heard in the area, causing a fire in a residential building.\nThe region has experienced repeated air raid alerts amid Ukraine\u2019s long-range drone operations against targets inside Russia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T02:08:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf2\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea The US embassy in Riyadh announced that any government employees working in Saudi Arabia require special authorization from Chief of Mission to use any airport in Saudi Arabia following recent Houthi missile and UAV attacks on airports in the Kingdom.\nThey added that US citizens should exercise maximum caution when using airports in Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T02:07:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -740,48 +720,10 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8 Pentagon expands F-35 orders, signaling potential military buildup\nThe Pentagon has struck a 10-year deal with Lockheed Martin for the production of 850 F-35 stealth fighter jets.\nWhile neither of the sides specified a value for the agreement, the F-35 versions could cost over $100 million per plane.\nAir & Space Forces Magazine reported the following production costs in September 2026:\n\ud83d\udd34 F-35A \u2013 $92 million\n\ud83d\udd34 F-35B \u2013 $121.4 million\n\ud83d\udd34 F-35C \u2013 $110.8 million\nUsing the average price, 850 aircraft would cost approximately $91.8 billion. In addition to F-35s, the agreement also includes \"initial spares, ten years of modification kits and sustainment, and international customer orders,\" according to Lockheed. The Pentagon\u2019s framework agreement still requires congressional approval.\nThe F-35 program has repeatedly faced criticism from US lawmakers over cost overruns, delays, and hardware and software flaws. During the war with Iran, one F-35 was heavily damaged in March. In July, Iran\u2019s Islamic Revolutionary Guard Corps (IRGC) stated that it had destroyed three F-35s and damaged another three during a ballistic missile attack on Al-Azraq Air Base in Jordan.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T19:46:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Houthis release new video of FPV drone copter attacks on enemy forces\nYemen\u2019s Ansar Allah fighters have published fresh footage of their tactical combat drones\u2019 operations against the Saudi-backed Aden government\u2019s ground troops.\n\ud83d\udc49 Videos show militia FPV drones targeting an enemy tank, a Turkish-made MRAP, numerous pickup trucks and individual troops across environments ranging from rocky, mountainous terrain to arid desert areas.\nSome of the footage is accompanied by video from UAVs flying overhead corroborating successful targeting, signaling an unusually high level of battlefield coordination.\nThe videos are reminiscent of footage released [by Hezbollah](https://t.me/geopolitics_prime/73546) in the summer showing similar FPV drone attacks on Israeli armor, bunkers and makeshift bases, and the types of FPV UAV videos that have become omnipresent in the [Russia-NATO](https://t.me/geopolitics_prime/71865) proxy war in Ukraine.\nAnsar Allah released the [first footage of its FPV drone](https://t.me/geopolitics_prime/76067) operations in early October, confirming that it has added tactical FPV UAVs to its [growing lineup](https://t.me/geopolitics_prime/76070) of low-cost but effective defense technology.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T18:21:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
