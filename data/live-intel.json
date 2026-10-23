@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-23T12:48:23.065710+00:00",
+  "generated_at": "2026-10-23T17:49:23.545053+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL, Sunday, October 25, 2026 through Saturday, October 31, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/23/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/23/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nPerry, GA, Saturday, October 24, 2026 through Saturday, October 24, 2026 Local\nFacility: ZTL",
@@ -136,14 +174,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nU.S MEXICO BORDER, TX, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZHU",
+      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
-      "location": "ZHU TX",
+      "location": "ZLA AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -155,14 +193,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
+      "text": "FAA SECURITY TFR\nU.S MEXICO BORDER, TX, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZHU",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
-      "location": "ZLA AZ",
+      "location": "ZHU TX",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -289,7 +327,64 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Iranian Mil Mi-8 helicopters seen flying over Tehran with jamming / surveillance pods",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran continues its ballistic missile exercises",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T13:49:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 Israeli Prime Minister, Benjamin Netanyahu: \u2018We have information indicating that Iran wants to attack us before the election\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T13:47:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah have released footage of targeting Saudi-backed troops and vehicles with FPV and grenade-dropping drones",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T13:05:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Iranian Mil Mi-17 helicopters seen flying over Tehran with S8 unguided rockets or jamming pods",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -345,70 +440,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\udde6\ud83c\uddea WATCH: Previously unseen footage of an Iranian ballistic missile hitting a U.S. base in the United Arab Emirates",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T22:40:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 WATCH: Previously unseen footage of an Iranian ballistic missile hitting a U.S. military base",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T22:40:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddef\ud83c\uddf4/\ud83c\uddfa\ud83c\uddf8 NEW: Previously unseen images of the destruction at Muwaffaq Salti Air Base, Jordan, as a result of Iran\u2019s missile attacks",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T18:24:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Turkish Foreign Minister Hakan Fidan hosted the first joint meeting of the R4 and E3 foreign ministers in Istanbul, bringing together regional and European powers to discuss crises across the Middle East and beyond. \nThe R4 group of T\u00fcrkiye, Egypt, Pakistan and Saudi Arabia met with the E3 of Britain, France and Germany, with Italy also joining at Ankara\u2019s initiative. \nAttendees included Germany\u2019s Johann Wadephul, Britain\u2019s Ed Miliband, France\u2019s Jean-No\u00ebl Barrot, Egypt\u2019s Badr Abdelatty, Pakistan\u2019s Ishaq Dar, Saudi Arabia\u2019s Faisal bin Farhan and Italy\u2019s Antonio Tajani. \nThe agenda covered the Palestinian issue, including settlement expansion, settler violence and the two-state solution, as well as security in the Strait of Hormuz, Yemen, and efforts to end the Russia-Ukraine war and prevent spillover into the Black Sea. \nFidan was expected to stress \u201cregional ownership\u201d of security and greater international pressure on Israel.",
+      "text": "Zelensky:\nThe speed limits on Starlink and Starshield are still there. The speed has not been restored. \nAnd the delivery of interceptors to protect us against Russian ballistic missiles is still delayed.\nThis is a real problem, because the Russians attack us almost every single day.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T12:36:57+00:00",
+      "timestamp": "2026-10-23T17:10:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -422,12 +460,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: Passengers were evacuated at Moscow\u2019s Sheremetyevo Airport after an air raid alert was declared amid a Ukrainian drone threat, with flights restricted at all four of the capital\u2019s major airports. \nRussia\u2019s aviation agency Rosaviatsiya halted arrivals and departures at Sheremetyevo, Domodedovo, Vnukovo and Zhukovsky from around 14:05 Moscow time for safety reasons. \nAirport staff directed passengers to shelters and safe zones, telling them to avoid elevators, windows and any drone debris. \nMoscow Mayor Sergei Sobyanin said air defenses were intercepting drones approaching the city, with at least 11 reported downed in recent hours.",
+      "text": "German Foreign Minister Wadephul:\nIran and the Houthis must stop attacking ships, airports, infrastructure, or simply their neighbors.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T12:35:36+00:00",
+      "timestamp": "2026-10-23T16:03:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,6 +555,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 The IRGC is conducting missile tests across Iran.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T14:13:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "Never-before-seen footage shows an Iranian ballistic missile evading air defenses and striking close to American personnel at a U.S. military installation in the UAE.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -535,20 +592,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 \u2014 New images from inside the U.S. Prince Sultan Air Base in Saudi Arabia show the extent of the extensive damage caused by Iranian ballistic missile and drone attacks.\n\ud83d\udd34",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddf4 Romania intends to accelerate the development of maritime surveillance, mine countermeasures, and anti-drone defense capabilities following lethal attacks on commercial ships in the Black Sea, according to Reuters.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T18:08:49+00:00",
+      "timestamp": "2026-10-23T14:55:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -611,25 +668,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1 Lebanese Forces (LF) ministers walked out of today's Lebanese Cabinet session in protest after the government postponed referring the Dahr al-Baydar explosives case to the Judicial Council.\nFor context: Lebanese security forces stopped a truck carrying explosives at the Dahr al-Baidar checkpoint on the highway linking Beirut with the Bekaa Valley.\n\u200bLoyalty to the Resistance Bloc MP Hassan Fadlallah confirmed that the seized explosives belong to the Resistance and were designated solely for confronting enemy occupation.\n\u200bLebanese Forces (Al Kowat) are led by Samir Geagea, a former militia commander who\u00a0 indirectly served Israel and was convicted of political murders during and after the civil war.\n\u200bThe Lebanese Forces are fiercely\nopposed to Hezbollah and by pushing to disarm Hezbollah and aligning with the west, the LF are effectively trying to leave Lebanon defenseless and at the mercy of the US and Israel.\n\u200b",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T17:02:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Ukrainian drone strikes damaged five major Russian data centers this month, including facilities operated by Yandex, Sberbank and VKontakte. AP reports widespread service disruptions.",
       "source": "Telegram",
@@ -663,6 +701,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Houthis show strikes against Saudi-backed forces with drones\nThe footage reveals Radium drones dropping bombs on military equipment across various of Yemen\u2019s border fronts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T17:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia seeks to expand missile plant for larger missiles - report\nThe boost may allow the kingdom to produce missiles with a larger range or heavier payload, Reuters reports.\nThe expansion plan tackles the al-Duwadimi complex around 200 km west of Riyadh, where work has been ongoing since April 2025.\nSatellite images suggest Saudi Arabia is building casting pits - special wells where fuel ingredients are poured into missile motor casings to harden.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T15:11:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5 Brent near $114 as attacks on Saudi energy sites sustain risk premium\nBrent crude traded around $113.75 a barrel on Friday, on track for a third consecutive weekly gain, after Houthi strikes on Saudi infrastructure kept a geopolitical risk premium firmly in place.\n\ud83d\udc49 The attacks have targeted key Saudi sites in recent days, including King Fahd International Airport in Dammam and the Shaybah oilfield, with the Gulf Cooperation Council reporting casualties and material damage. Houthi forces also claimed strikes on Riyadh's Defense Ministry, [Aramco's Yanbu facility and Abha airport](https://t.me/geopolitics_prime/76611). \nAnalysts say the market is pricing in the risk of further disruption to Middle Eastern energy flows, with attention also on the Strait of Hormuz and the Bab el-Mandeb.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T12:59:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -713,25 +808,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-23T06:54:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Videos emerge showing the aftermath of crippling Russian strikes on Ukrainian infrastructure feeding its war effort\n \nRussian Geran drones triggered emergency power outages across three districts in addition to striking the cable-stayed bridge in Zaporozhye.\nThe bridge has been closed to traffic in both directions following the strike.\nFootage from Dnepropetrovsk and Poltava shows that following the strike on Dnepropetrovsk, lights flickered in Krivoy Rog, Kamenskoye, Pavlograd and Zaporozhye.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T04:53:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
