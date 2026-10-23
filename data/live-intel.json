@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:16:40.757712+00:00",
+  "generated_at": "2026-10-23T23:57:27.646733+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -49,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/22/2026",
       "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nFort Myers, FL, Friday, October 23, 2026 Local\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/22/2026",
-      "location": "ZMA FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -327,6 +308,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: Moments ago, explosions were heard in Bandar Lengeh and Bandar Kong, southern Iran\nLikely related to anti-ship cruise missile launches into the Strait of Hormuz. IRIAF jets were also heard airborne.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T21:58:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran continues its ballistic missile exercises",
       "source": "Telegram",
       "source_type": "telegram",
@@ -574,44 +574,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4\ud83c\uddee\ud83c\uddf7 \u2014 The USAF has reportedly begun relocating aircraft and fighter jets from its bases in Jordan over the past few days, amid ongoing preparations for potential military strikes against Iran.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T18:57:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea\ud83c\uddee\ud83c\uddf7\ud83c\uddfe\ud83c\uddea \u2014 German Foreign Minister Johann Wadephul:\nIran and the Houthis must stop attacking ships, airports, infrastructure, or simply their neighbors.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T18:31:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1There is a prominent logistical and operational deployment on the parking aprons today at Ovda Airbase (Ovda AB) in Israel featuring:\n-\u200b4 KC-46 Pegasus aerial refueling aircraft.\n\u200b-Approximately 12 F-35C stealth fighter jets (carrier-capable variant).",
       "source": "Telegram",
@@ -676,25 +638,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-23T05:39:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe Last night Israeli troops shot and killed a man in the town of Jamla, which is located on the outskirts of Daraa, Syria. The victim had Down\u2019s syndrome and posed no threat to anyone. Attached videos show his funeral procession.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T02:57:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -810,25 +753,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-23T15:11:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb5 Brent near $114 as attacks on Saudi energy sites sustain risk premium\nBrent crude traded around $113.75 a barrel on Friday, on track for a third consecutive weekly gain, after Houthi strikes on Saudi infrastructure kept a geopolitical risk premium firmly in place.\n\ud83d\udc49 The attacks have targeted key Saudi sites in recent days, including King Fahd International Airport in Dammam and the Shaybah oilfield, with the Gulf Cooperation Council reporting casualties and material damage. Houthi forces also claimed strikes on Riyadh's Defense Ministry, [Aramco's Yanbu facility and Abha airport](https://t.me/geopolitics_prime/76611). \nAnalysts say the market is pricing in the risk of further disruption to Middle Eastern energy flows, with attention also on the Strait of Hormuz and the Bab el-Mandeb.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T12:59:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
