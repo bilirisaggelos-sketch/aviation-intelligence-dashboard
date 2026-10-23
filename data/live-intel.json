@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T01:49:26.962474+00:00",
+  "generated_at": "2026-10-23T07:18:04.702002+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,44 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/21/2026",
       "location": "ZMA FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSioux City, IA, Thursday, October 22, 2026 through Thursday, October 22, 2026 Local\nFacility: ZMP",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/21/2026",
-      "location": "ZMP IA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, October 19, 2026 through Friday, October 23, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/18/2026",
-      "location": "ZJX FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -498,6 +460,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "Never-before-seen footage shows an Iranian ballistic missile evading air defenses and striking close to American personnel at a U.S. military installation in the UAE.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T04:27:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 \u2014 New images from inside the U.S. Prince Sultan Air Base in Saudi Arabia show the extent of the extensive damage caused by Iranian ballistic missile and drone attacks.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
@@ -507,13 +488,50 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Palestinian fighters have shot 6 Israeli Soldiers in the occupied West Bank\nAt least 2 Palestinians assaulted an Israeli soldier guard tower, engaging in a fierce clash for over 20 minutes and forcing the army to call in backup.\nTwo Palestinians were shot and killed in the clash.\nIsrael has now locked down the city of Al-Khalil, believing a third fighter escaped.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T05:39:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf8\ud83c\uddfe Last night Israeli troops shot and killed a man in the town of Jamla, which is located on the outskirts of Daraa, Syria. The victim had Down\u2019s syndrome and posed no threat to anyone. Attached videos show his funeral procession.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-23T02:57:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -556,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddfe\ud83c\uddea #Yemen: Yemen\u2019s Houthi militants have used FPV drones to strike several vehicles, including tanks, belonging to Saudi-backed forces in Marib Governorate.",
+      "text": "Ukrainian drone strikes damaged five major Russian data centers this month, including facilities operated by Yandex, Sberbank and VKontakte. AP reports widespread service disruptions.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T01:31:03+00:00",
+      "timestamp": "2026-10-23T02:39:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -575,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian forces advanced more than 15 kilometers behind Russian lines through underground gas pipelines during a counteroffensive in the Kupyansk sector, killing over 100 Russian soldiers and capturing over 30.\nOperation Veles combined underground advances with coordinated drone strikes and ground attacks, cutting off Russian infiltration routes into the rear of Kupyansk.\nUnits of the Charter Brigade, the R.U.Kh. and Lava Regiments, GUR units, including the Russian Volunteer Corps and the Freedom of Russia Legion, and the Achilles Brigade participated in the operation.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Bloomberg](https://www.bloomberg.com/news/features/2026-10-22/the-burden-of-putin-s-war-is-mounting-on-russian-oil-giant-rosneft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjY1NzgzNSwiZXhwIjoxNzkzMjYyNjM1LCJhcnRpY2xlSWQiOiJUTkFMV1JSMjRVODgwMCIsImJjb25uZWN0SWQiOiI5MDk0NzcyMEQwN0I0ODJBQTBFMTcyMkRCQjE0ODRFMCJ9.qn0HvYZ5i4zM4N0MzcCznY_yq9UGPSbL3-8888UolmE): Drone strikes and sanctions are putting mounting pressure on Rosneft, Russia\u2019s largest oil producer. \nThe company\u2019s first\u2011half net income fell almost a fifth to 200 billion rubles ($2.4 billion), while its net debt\u2011to\u2011EBITDA ratio rose to 1.8 times, the highest in more than five years. \nIts Vostok Oil project is years behind schedule, with about 90% of expected 2027 output coming from older Vankor fields. The IEA cut its outlook for Russian oil processing to around 4 million barrels a day, roughly 30% below pre\u2011war levels. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T01:29:00+00:00",
+      "timestamp": "2026-10-23T02:18:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,96 +611,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "The Iran-backed Houthi group has asserted that it launched ballistic missiles targeting the Ministry of Defense headquarters in Riyadh, the capital of Saudi Arabia.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5\ud83c\uddfa\ud83c\uddf8 US spent $11 billion on defending Israeli airspace since 2023 \u2014 Iranian FM\nOverall, the US used as many as 609 missiles in three years, a table provided by Iran\u2019s Foreign Minister Abbas Araghchi shows.\n\u201cIt has fired more interceptors defending Israel than Israel has. That is not a symbiotic relationship. It is a parasitic one,\u201d he notes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T01:27:36+00:00",
+      "timestamp": "2026-10-23T06:54:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Iran\u2019s IRGC Navy claims four vessels were struck simultaneously and set ablaze while transferring oil between ships in the north-central Persian Gulf after using \u201cunauthorized routes.\u201d \nThe IRGC also reported that three other vessels struck mines west of the Strait of Hormuz last night and caught fire.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Videos emerge showing the aftermath of crippling Russian strikes on Ukrainian infrastructure feeding its war effort\n \nRussian Geran drones triggered emergency power outages across three districts in addition to striking the cable-stayed bridge in Zaporozhye.\nThe bridge has been closed to traffic in both directions following the strike.\nFootage from Dnepropetrovsk and Poltava shows that following the strike on Dnepropetrovsk, lights flickered in Krivoy Rog, Kamenskoye, Pavlograd and Zaporozhye.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T01:27:33+00:00",
+      "timestamp": "2026-10-23T04:53:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a0\ufe0f Confirmed: Metrics show a disruption to internet connectivity in Zhytomyr Oblast, #Ukraine, corresponding to the third set of power outages this week as Russia's strategy of drone attacks targeting energy infrastructure during the colder months expands westward",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T01:21:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russia used around 25 missiles of various types, including Iskander-M, 3M22 Zircon, and RM-48U, in tonight's attack on Kyiv's energy infrastructure, targeting the CHP-4 and CHP-5 combined heat and power plants, among other facilities.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T02:36:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf2\ud83c\udde6\ud83c\uddee\ud83c\uddf1 [El Espa\u00f1ol](https://www.elespanol.com/observatorio-defensa/20261021/marruecos-ultima-compra-honda-david-cupula-israeli-km-alcance-destruir-misiles-drones/1003744421115_0.html): Morocco and Israel are negotiating the possible purchase of David's Sling air defense system, as part of a broader expansion of military ties since the 2020 Abraham Accords.\nThe system, co-developed by Israel's Rafael and U.S. firm Raytheon, would require approval from Washington and would add a higher layer to Morocco's existing Israeli-origin air defenses such as Barak MX and Spyder, as talks also reportedly cover long-range LORA ballistic missiles, with Israeli arms exports to Morocco already exceeding $2 billion this decade.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T02:09:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -704,26 +665,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf8 Hidden damage, burning aircraft, abandoned families: US troops break silence on Iran war\nNever-before-published images and firsthand accounts from US service members, contractors and military families paint a far grimmer picture of Iranian strikes on American bases than Washington has publicly acknowledged, MeidasTouch Network reported.\nPhotos reportedly show bombed barracks, damaged dormitories and aircraft burning at Prince Sultan Air Base in Saudi Arabia. Sources said an E-3 Sentry AWACS was damaged in one attack that injured 10\u201312 personnel, alongside two KC-135 tankers. MeidasTouch noted that some reported losses could not be independently verified.\nAt Muwaffaq Salti Air Base in Jordan, personnel described months of incoming fire. Sources said Iranian strikes damaged F-15s, F-35s, MQ-9 Reapers and helicopters, while one July attack on barracks killed three service members.\n\ud83d\udcac \u201cWe are sitting ducks,\u201d one service member said. Another described the deployment simply: \u201cThis is not a normal deployment.\u201d\nIn the UAE, troops said they received no warning that hostilities were about to begin and some had to dig their own foxholes. In Bahrain, military families said evacuation plans existed but were not activated before the airport was struck, leaving some to escape at their own expense.\n\ud83d\udcac \u201cWe were used as pawns in the war,\u201d one military spouse said. Another American described feeling \u201ccompletely abandoned by my own government.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-22T22:32:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
