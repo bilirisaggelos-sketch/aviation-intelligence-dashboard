@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T23:57:27.646733+00:00",
+  "generated_at": "2026-10-24T04:24:10.938635+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -374,13 +374,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -631,32 +630,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Palestinian fighters have shot 6 israeli soldiers in the occupied West Bank\nAt least 2 Palestinians assaulted an israeli soldier guard tower, engaging in a fierce clash for over 20 minutes and forcing the army to call in backup.\nTwo Palestinians were shot and killed in the clash.\nisrael has now locked down the city of Al-Khalil, believing a third fighter escaped.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T05:39:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian drone strikes damaged five major Russian data centers this month, including facilities operated by Yandex, Sberbank and VKontakte. AP reports widespread service disruptions.",
+      "text": "New footage from Oryol shows Ukrainian Storm Shadow / SCALP-EG missiles hit the Proton Plant. At least 13 people are now reported dead at the Proton plant, including 11 women. Many more are reportedly trapped under the rubble, while ongoing fires are still preventing emergency crews from reaching them.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T02:39:13+00:00",
+      "timestamp": "2026-10-24T03:26:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -670,12 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 [Bloomberg](https://www.bloomberg.com/news/features/2026-10-22/the-burden-of-putin-s-war-is-mounting-on-russian-oil-giant-rosneft?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjY1NzgzNSwiZXhwIjoxNzkzMjYyNjM1LCJhcnRpY2xlSWQiOiJUTkFMV1JSMjRVODgwMCIsImJjb25uZWN0SWQiOiI5MDk0NzcyMEQwN0I0ODJBQTBFMTcyMkRCQjE0ODRFMCJ9.qn0HvYZ5i4zM4N0MzcCznY_yq9UGPSbL3-8888UolmE): Drone strikes and sanctions are putting mounting pressure on Rosneft, Russia\u2019s largest oil producer. \nThe company\u2019s first\u2011half net income fell almost a fifth to 200 billion rubles ($2.4 billion), while its net debt\u2011to\u2011EBITDA ratio rose to 1.8 times, the highest in more than five years. \nIts Vostok Oil project is years behind schedule, with about 90% of expected 2027 output coming from older Vankor fields. The IEA cut its outlook for Russian oil processing to around 4 million barrels a day, roughly 30% below pre\u2011war levels. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Another video from the Ukrainian Storm Shadow cruise missile attack in Oryol appeared.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T02:18:08+00:00",
+      "timestamp": "2026-10-24T03:25:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -683,6 +663,215 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fZelensky says Starlink and Starshield speed restrictions are still in place and that interceptor deliveries needed to protect Ukraine from Russian ballistic missiles remain delayed. \u201cThis is a real problem, because the Russians attack us almost every day,\u201d he said. Zelensky added that Ukraine wants strong, genuinely friendly relations with the US and other partners, without misunderstandings.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:25:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "As we reported earlier... Russian sources are now increasingly reporting significant personnel losses from the strike on the Proton plant in Oryol, including valuable engineers and specialized staff. One Russian report also says people remain trapped in the basement. Proton produces optoelectronics and electronic components used in Kh-101 cruise missiles, Iskander-M ballistic missiles and Pantsir-S1 air-defense systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:25:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0f Local channels report mass sightings of Ukrainian drones moving toward Moscow region through Oryol and Tula regions.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:25:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A crashed drone was found about 100 meters from a home in Chi\u0219telni\u021ba, Telene\u0219ti district in Moldova. Police say no casualties have been reported. Officers cordoned off the area, while explosives specialists are heading to the scene to examine the drone and determine the circumstances.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:24:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Additional footage of 2 Storm Shadow / SCALP-EG cruise missiles striking Oryol. We are leaning towards 4/4 instead of 3/4 hits on the Proton Plant, based on the footage.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:24:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Detailed impact footage from Oryol confirms 3-4 hits on the Proton plant. The facility produces optoelectronic and semiconductor components and is linked to Russia's defense-industrial supply chain, including components used in missile and air-defense systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:24:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Aftermath footage from Oryol shows significant destruction following the Ukrainian missile attack. The damaged site is identified as the Proton plant, a semiconductor manufacturer in the city.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:24:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A group of four cruise missiles (likely SCALP-EG/Storm Shadow) launched from the Sumy region headed toward Kursk, took a strong turn to the north and struck Oryol. At least three impacts were recorded, a fourth is yet to be determined, but possibly one was shot down.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:24:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0f\u2757\ufe0fUkrainian missiles struck Oryol this afternoon. Locals say the Proton plant, a semiconductor manufacturer, may have been targeted. Footage shows multiple impacts landing close together, but the extent of damage is not yet clear.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:24:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Lockheed Martin is promoting a Ukraine-specific F-16 variant with extended range, a new AESA radar and deeper integration of European weapons, according to company sources. The radar would improve detection of low-flying drones and cruise missiles. No concrete negotiations are underway yet, and any program would require approval from Washington before moving beyond the idea stage.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T03:23:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "CIA\u2019s Ukraine operations now \u2018much more aggressive\u2019 than under Biden\nThe CIA is still feeding Ukraine intelligence used for strikes deep inside Russia \u2014 and its operations have actually intensified.\nThe Atlantic reported that US spy satellites continue providing Kiev with early warning of Russian missile and drone launches, while a Western intelligence officer said CIA operations are now \u201cmuch more aggressive\u201d than during the Biden administration.\nThe agency also helped build Ukraine\u2019s modern intelligence apparatus after 2014 and remains deeply involved on the ground.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T02:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -695,64 +884,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-23T19:47:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israeli occupation forces carry out demolitions of Palestinian homes in Hebron\nThe demolitions are ostensibly being carried out as collective punishment for a shooting at a checkpoint that claimed the lives of two Israeli soldiers and wounded six others, in which the two perpetrators were killed as well.\nIn the wake of the attack, Israeli PM Benjamin Netanyahu threatened to destroy the West Bank city in reprisal.\nThe operation apparently commenced without any administrative or legal appeal beforehand.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T18:15:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Houthis show strikes against Saudi-backed forces with drones\nThe footage reveals Radium drones dropping bombs on military equipment across various of Yemen\u2019s border fronts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T17:26:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia seeks to expand missile plant for larger missiles - report\nThe boost may allow the kingdom to produce missiles with a larger range or heavier payload, Reuters reports.\nThe expansion plan tackles the al-Duwadimi complex around 200 km west of Riyadh, where work has been ongoing since April 2025.\nSatellite images suggest Saudi Arabia is building casting pits - special wells where fuel ingredients are poured into missile motor casings to harden.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T15:11:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
