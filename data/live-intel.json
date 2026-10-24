@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-24T19:22:10.889595+00:00",
+  "generated_at": "2026-10-24T21:48:18.890987+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nHUNTSVILLE, AL, Tuesday, October 27, 2026 through Thursday, October 29, 2026 Local\nFacility: ZME",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/24/2026",
+      "location": "ZME AL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSELFRIDGE ANGB, MI, Sunday, October 25, 2026 Local\nFacility: ZOB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/24/2026",
+      "location": "ZOB MI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nCorpus Christi, TX, Tuesday, October 27, 2026 Local\nFacility: ZHU",
@@ -461,12 +499,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Albania: Protesters fire streams of firework rockets at riot police in Albania\u2019s capital Tirana.",
+      "text": "Obama on Iran:\nRemember, they said, \"Oh, this is the best war ever. It's going great.\"\nSo, seven months later, how's that war going?\nOur allies and our bases have been attacked. Americans have been killed. Hundreds of Americans have been wounded. We have run down our stock of missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T18:14:47+00:00",
+      "timestamp": "2026-10-24T21:05:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -480,12 +518,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Russia's New Filin Missile a Whole New Problem for Ukraine: Experts\nUkrainian drone experts warn that Russia\u2019s inexpensive Filin cruise missile could pose a greater threat than jet-powered Shaheds, citing its speed, maneuverability, and heavier warhead.\n[READ MORE](https://clashreport.com/world/articles/russia-s-new-filin-missile-a-whole-new-problem-for-ukraine-experts-k3benrn0yh)",
+      "text": "Obama on Iran:\nLet's think about this Iran war. The original rationale was, we're going to go in there and get them to give up their nuclear program, their nuclear weapons.\nNow, the thing was, Iran didn't have nuclear weapons because I had put a deal in place that everybody acknowledged kept them from getting nukes.\nAnd I didn't have to fire a missile to do it. I just had to engage in diplomacy.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T16:05:20+00:00",
+      "timestamp": "2026-10-24T21:04:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -499,50 +537,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A group of armed women in Yemen\u2019s Taiz province declared their readiness to fight the Houthis alongside government-aligned forces.\n\u201cWe have no choice but victory or martyrdom. Either we live as free people, or we die as martyrs with our heads held high,\u201d one woman said. \n\u201cWe will never be subjugated, we will not surrender,\u201d she added, addressing fighters on several Taiz fronts: \n\u201cIf all people abandon you, we, your women, are by your side.\u201d",
+      "text": "Trump on Iran:\nIran had 259 jet fighters. We destroyed them all.\nIran also had 259 ships. They're all at the bottom of the sea.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T15:10:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "A massive fire broke out at the Omsky Kauchuk chemical plant in Russia's Omsk following reported Ukrainian drone strikes.\nThe facility is located more than 2,500 km from Ukraine.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T13:56:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Several senior Trump advisers believe an Israeli government without Netanyahu could be easier to work with, despite Trump's endorsement ahead of Tuesday's election.\nJD Vance has grown disillusioned with Netanyahu over the Iran war, while other officials have raised concerns about Israeli policies in Syria, Lebanon and the West Bank.\nThree major Israeli polls project just 50 seats for Netanyahu's bloc, raising the prospect of a deadlock that could keep him in power as caretaker prime minister.\nSource: Axios",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T13:35:08+00:00",
+      "timestamp": "2026-10-24T20:53:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -626,6 +626,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 The Iranians struck Kurdish separatist positions in Iraqi Kurdistan with drones tonight. In other news, water is wet, the sky is blue and the Strait of Hormuz is still closed.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T21:44:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7 Iranian drone attack targeted a Kurdish opposition party camp in the Alana Valley, Erbil.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T19:23:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -765,6 +803,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "'Were Starlink to be turned off, the Ukrainian front line would collapse immediately' - Musk\n\ud83d\udcac \u201cThis is NOT a threat, it is simply a statement of fact,\u201d SpaceX CEO Elon Musk wrote on X while explaining what prompted the latest Starlink restrictions in Ukraine.\n\ud83d\udcac \u201cUkraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\u201d Musk emphasized.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T19:36:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddfa\ud83c\uddf8 US loads up for possible strike against Iran - report\nThe USS George Washington strike group in the Arabian Sea has been loading large deliveries of standoff land-attack missiles and bunker-buster bombs designed to penetrate fortified underground targets, the Wall St. Journal reports. \nThe preparations follow reports that US and Israeli militaries have drawn up plans for a shorter but more intense campaign on Iran after the November midterms, potentially targeting Iran's energy infrastructure, nuclear sites, and missile and drone arsenals.\nMeanwhile, the State Department has begun [drawing down personnel at four embassies](https://t.me/geopolitics_prime/76702) in the region \u2014 Jordan, Lebanon, Qatar, and the UAE \u2014 citing an elevated threat environment. Non-essential staff and families were ordered out of Saudi Arabia earlier in the week.\n\ud83d\udc49 The pattern is consistent with preparation for a worst-case scenario. Embassies are thinning their footprints to reduce exposure if retaliation comes, while the military positions the munitions it would need if the attack order is given.\nIran has previously warned that any renewed US or Israeli strikes would trigger [retaliation](https://t.me/geopolitics_prime/76599) against American bases, warships, and Gulf infrastructure, and has reportedly drawn up [plans](https://t.me/geopolitics_prime/76684) to target undersea communications cables.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -848,44 +905,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-24T12:38:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc41\ud83c\uddfa\ud83c\uddf8 Former Israeli spyware boss warns of dependence on US AI\nGovernments must build their own sovereign AI systems for cybersecurity rather than rely on American technology, says Shalev Hulio, [the former head of the NSO Group](https://t.me/geopolitics_prime/58149), an Israeli commercial spyware manufacturer, the Financial Times reports.\nAI has become a vital component of digital sovereignty, and countries should not take the risk of being cut off from foreign software, Hulio stresses, adding that other nations should abandon US AI and develop their own systems.\nAlthough the ex-hacker boss underlines critical vulnerabilities inside cyber defense structures, it is hard to tell whether this is a friendly gesture or a play for profit.\n\ud83c\udf0f After leaving NSO, Hulio founded Dream, a venture project aimed at providing cybersecurity tools and expertise to governments\n\ud83c\udf0f Since its launch, Dream has raised more than $400 million and has contacts with over a dozen countries across the world\n\ud83c\udf0f Dream is said to be trained on classified government data and built to handle narrow, mission-specific tasks such as intelligence analysis or procurement oversight\nHulio's biography makes his sudden concern for digital sovereignty difficult to take at face value. NSO's flagship product, Pegasus, became synonymous with the excesses of the commercial spyware industry after researchers documented its use by governments to infiltrate the phones of journalists, human rights activists, and political [dissidents](https://t.me/geopolitics_prime/61063).\nIn 2021, the US blacklisted NSO Group, and Meta's WhatsApp sued the company for exploiting its messaging service to distribute malicious software. Now, the same man who once armed governments with some of the world's most invasive spyware is positioning himself as the solution to the very vulnerabilities he helped normalize.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T09:56:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 No real opposition: Israel\u2019s election & the Palestinian blind spot\nOn the eve of Israel\u2019s Knesset election, Benjamin Netanyahu\u2019s rivals share his core assumptions on Palestinian rights and statehood, reports +972.\nThey are also actively closing the only realistic path to unseating Netanyahu by refusing to cooperate with[ Arab parties such as the Joint List and Ra\u2019am.](https://t.me/geopolitics_prime/76417)\nPolls show neither Netanyahu\u2019s bloc nor the Zionist opposition is headed for a clear majority. \nAdding the Arab lists could potentially push the anti-Netanyahu block over the 61-seat threshold, yet[ its leaders balk. ](https://t.me/geopolitics_prime/74575)\nGadi Eisenkot (Yashar):\n\u2666\ufe0f Rejects a Palestinian state, supports expanding Jewish settlements, including in Area C, which covers roughly 60% of the occupied West Bank, and does not rule out [construction in the E1 zone.](https://t.me/geopolitics_prime/73138)\n\u2666\ufe0f Has ruled out including the United Arab List, or Ra\u2019am, in a post-election coalition\nBeyachad (Together):\n\ud83c\udf0f Joint list by former PMs Naftali Bennett and Yair Lapid rules out reliance on Arab parties, even though Bennett formed a short-lived first-of-its-kind coalition that included Ra\u2019am in 2021 (that ousted Netanyahu)\n\ud83c\udf0f Bennett also advocates annexing Area C\nAvigdor Liberman (Yisrael Beitenu) declared in 2023 that \u201cThere are no innocents in Gaza.\u201d\nYair Golan (the Democrats) advocated starving Gaza\u2019s entire population until Hamas released the hostages.\nThe absence of any large Jewish party prepared to treat Palestinian citizens as equal partners leaves Israeli politics locked in the same narrow spectrum.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T08:42:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
