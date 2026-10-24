@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-24T16:51:53.609442+00:00",
+  "generated_at": "2026-10-24T19:22:10.889595+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nCorpus Christi, TX, Tuesday, October 27, 2026 Local\nFacility: ZHU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/24/2026",
+      "location": "ZHU TX",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMemphis, TN, Monday, October 26, 2026 through Monday, October 26, 2026 Local\nFacility: ZME",
@@ -442,6 +461,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Albania: Protesters fire streams of firework rockets at riot police in Albania\u2019s capital Tirana.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T18:14:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Russia's New Filin Missile a Whole New Problem for Ukraine: Experts\nUkrainian drone experts warn that Russia\u2019s inexpensive Filin cruise missile could pose a greater threat than jet-powered Shaheds, citing its speed, maneuverability, and heavier warhead.\n[READ MORE](https://clashreport.com/world/articles/russia-s-new-filin-missile-a-whole-new-problem-for-ukraine-experts-k3benrn0yh)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -517,44 +555,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Turkish Armed Forces aim to produce 5 million kamikaze drones within five years and 10 million within a decade, Chief of General Staff Gen. Sel\u00e7uk Bayraktaro\u011flu says.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T12:15:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Germany's Chancellor Merz:\nWe are living in a time when a radical Die Linke in Berlin is openly and shamelessly inciting hatred against Jews, against the police, and against Israel's right to exist.\nAnd the SPD and the Greens are apparently on their way to helping Die Linke into Berlin's Red City Hall.\nAt the same time, a radical AfD is working every single day to destabilize Germany, abandon Ukraine, spread the Russian narrative, and isolate Germany.\nIn times like these, we need the CDU and CSU more than ever before.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T12:03:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Rubio was outraged by claims that the US no longer warns of ballistic threats](https://www.pravda.com.ua/news/2026/10/20/8058911/)\nUS Secretary of State Marco Rubio called false reports that the United States has stopped providing Ukraine with data on ballistic threats. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/10/20/8058911/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0432\u0430\u043b\u044c\u0447\u0443\u043a | pravda\u200b.com\u200b.ua \u2022 Oct 20, 2026",
       "source": "Telegram",
@@ -603,13 +603,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -627,6 +626,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddfeSweden rejects Syrian Airlines' request to operate direct flights between Damascus and Stockholm for security reasons.\nThe agency justified its decision by citing security risks associated with the ongoing conflict in Syria, based on assessments warning of aviation risks in Syrian airspace, including weak air control and the possibility of civilian aircraft being mistakenly targeted.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T19:09:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -747,6 +765,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8 US loads up for possible strike against Iran - report\nThe USS George Washington strike group in the Arabian Sea has been loading large deliveries of standoff land-attack missiles and bunker-buster bombs designed to penetrate fortified underground targets, the Wall St. Journal reports. \nThe preparations follow reports that US and Israeli militaries have drawn up plans for a shorter but more intense campaign on Iran after the November midterms, potentially targeting Iran's energy infrastructure, nuclear sites, and missile and drone arsenals.\nMeanwhile, the State Department has begun [drawing down personnel at four embassies](https://t.me/geopolitics_prime/76702) in the region \u2014 Jordan, Lebanon, Qatar, and the UAE \u2014 citing an elevated threat environment. Non-essential staff and families were ordered out of Saudi Arabia earlier in the week.\n\ud83d\udc49 The pattern is consistent with preparation for a worst-case scenario. Embassies are thinning their footprints to reduce exposure if retaliation comes, while the military positions the munitions it would need if the attack order is given.\nIran has previously warned that any renewed US or Israeli strikes would trigger [retaliation](https://t.me/geopolitics_prime/76599) against American bases, warships, and Gulf infrastructure, and has reportedly drawn up [plans](https://t.me/geopolitics_prime/76684) to target undersea communications cables.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T18:11:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Houthis launch ample attack across Saudi Arabia\nHouthi forces have carried out seven missile and drone operations deep inside Saudi territory in retaliation for a Saudi air campaign against civilian targets, the movement's spokesman Brigadier General Yahya Saree stated.\nTargets hit:\n\ud83c\udf0f\u00a0 King Khalid Airport in Riyadh\n\ud83c\udf0f Aramco facilities in Yanbu\n\ud83c\udf0f The Rabigh oil refinery\n\ud83c\udf0f Oil pumping stations and the East-West pipeline\n\ud83c\udf0f King Fahd International Airport in Dammam\n\ud83c\udf0f Najran International Airport\nThe Ansar Allah movement has vowed to keep hitting targets deep inside Saudi Arabia, framing the campaign as \"escalation for escalation\" until the Saudi aggression stops and the blockade on Yemen is lifted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T17:23:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddf9\ud83c\uddfc\ud83d\udef0 Starlink limits on Ukraine send warning to Taiwan\n\u00a0\nRecent US-imposed speed limits on Starlink, which severely disrupted Ukrainian [military capabilities](https://t.me/geopolitics_prime/76224), have raised fears within the Taiwanese government over its reliance on American defense technology.\n\ud83c\udf0f The restrictions, which cut connectivity when terminals moved faster than 160 km/h, forced certain Ukrainian drones to slow down or lose connection, disrupting numerous [combat missions](https://t.me/geopolitics_prime/76535)\n\ud83c\udf0f Interceptor drones used against Russian jet-powered Geran drones flying at 350\u2013450 km/h became practically useless under the limit\n\ud83c\udf0f The restrictions also affected frontline logistics and data relay\nEven military-grade versions could be limited for political or commercial reasons, Taiwanese experts warn. Concerns are heightened by Musk's significant business interests in mainland China, including Tesla's Shanghai operations.\nAlthough Taiwan's military does not currently use Starlink, the country has eased market entry rules for foreign satellite operators. The government has also vowed to develop its own indigenous version of Starlink, reducing its current dependence on undersea communications cables.\nHowever, time may already have been irreversibly lost. China has long been developing its own Starlink analogue in the form of the state-owned [Guowang project](https://t.me/geopolitics_prime/75976). The project envisions around 13,000 satellites in orbit by 2035, which will not only provide communications but also carry reconnaissance equipment such as radars and optics.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -830,26 +886,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-24T08:42:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3 China urges global ban on space weaponization after US deploys orbital weapons\nChina has called for stronger space governance and has opposed offensive military policies in outer space.\nForeign Minister Wang Yi described the policy document as one of eight key actions under China\u2019s Global Governance Initiative (GGI) at the inaugural forum of the same name near Beijing on October 23.\nThe paper stresses that the use of outer space to undermine other states\u2019 sovereignty, security or development should be opposed, and that armed conflict in outer space must be avoided.\nThe doctrine was released a month after US Air Force Secretary Troy Meink revealed on September 14 that the US had fielded \u201con-orbit space control weapons capable of defending the Joint Force against hostile [adversary](https://t.me/geopolitics_prime/74605) action.\u201d\nChina and Russia warned the US against turning outer space into a battlefield, calling for Earth\u2019s orbit to remain free of weapons.\nSome experts linked the US announcement to a September 4 report that China\u2019s Yaogan-50 satellite had reportedly exploded in orbit, generating at least 43 tracked debris [fragments](https://t.me/geopolitics_prime/74617). China made no official public statement on the incident at the time.\nThe US had previously accused China of providing Iran with high-resolution satellite imagery. American geopolitical analyst Brandon Weichert noted on September 20 that, although there was no evidence that Yaogan-50 had been shot down by the US, the developments warranted scrutiny.\n\ud83d\udd0a\u201cIf the incident was a US counterspace operation, it risks lowering the threshold for retaliation in the domain where America\u2019s military remains extraordinarily dependent \u2013 and vulnerable,\u201d he wrote on Substack.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T07:02:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
