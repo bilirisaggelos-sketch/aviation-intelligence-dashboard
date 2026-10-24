@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T09:03:09.122281+00:00",
+  "generated_at": "2026-10-24T13:21:45.836362+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -136,14 +136,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
+      "text": "FAA SECURITY TFR\nU.S MEXICO BORDER, TX, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZHU",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
-      "location": "ZLA AZ",
+      "location": "ZHU TX",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -155,14 +155,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nU.S MEXICO BORDER, TX, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZHU",
+      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
-      "location": "ZHU TX",
+      "location": "ZLA AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -188,6 +188,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3756\r\nIssue Time: 2026 Oct 24 0904 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3755\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 3169 pfu\nMax time: 2026 Oct 23 1540 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-24 09:04:23.307",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -268,23 +287,24 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5441\r\nIssue Time: 2026 Oct 22 1648 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5440\nValid From: 2026 Oct 21 1616 UTC\nNow Valid Until: 2026 Oct 22 2100 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-22 16:48:36.817",
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "text": "Ukraine says Starlink connection 'now stable' after network limits\nThe slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-24T12:12:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News",
+        "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -403,12 +423,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nDuring the first days of the war in the Middle East, the countries used around 2,000 missiles in the first 84 hours, missiles that they got from their partners.\nI've got from our strategic partner 24 missiles during the last 90 days.\nWe are not crying and not screaming, but this is very important. I'm just trying to say that each missile is important.",
+      "text": "NEW: Turkish Armed Forces aim to produce 5 million kamikaze drones within five years and 10 million within a decade, Chief of General Staff Gen. Sel\u00e7uk Bayraktaro\u011flu says.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T05:59:55+00:00",
+      "timestamp": "2026-10-24T12:15:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -418,6 +438,65 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Germany's Chancellor Merz:\nWe are living in a time when a radical Die Linke in Berlin is openly and shamelessly inciting hatred against Jews, against the police, and against Israel's right to exist.\nAnd the SPD and the Greens are apparently on their way to helping Die Linke into Berlin's Red City Hall.\nAt the same time, a radical AfD is working every single day to destabilize Germany, abandon Ukraine, spread the Russian narrative, and isolate Germany.\nIn times like these, we need the CDU and CSU more than ever before.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T12:03:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine Says Starlink Speed Restrictions Lifted After Two Weeks\nUkraine's Defense Ministry says Starlink and Starshield speeds have been restored after two weeks of restrictions that disrupted military drone operations and fueled tensions between Kyiv and the Trump administration.\n[READ MORE](https://clashreport.com/world/articles/ukraine-says-starlink-speed-restrictions-lifted-after-two-weeks-q8xxookvy7g)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T10:59:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israel Moves Closer to Argentina on Falklands After UK Settlement Sanctions\nIsraeli Prime Minister Benjamin Netanyahu has directed diplomats to back Argentina\u2019s call for Falklands negotiations amid worsening relations with Britain over West Bank settlement sanctions.\n[READ MORE](https://clashreport.com/world/articles/israel-moves-closer-to-argentina-on-falklands-after-uk-settlement-sanctions-bltx4cy0fni)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T09:56:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -494,6 +573,45 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Additional footage of the missile tests being conducted by Iran\u2019s IRGC across Iran.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T09:40:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Question: According to reports, is there already a ready Israeli-American joint plan to attack Iran?\nIsraeli Prime Minister Benjamin Netanyahu: I will not comment on the plan.\n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T09:15:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -650,12 +768,32 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 No real opposition: Israel\u2019s election & the Palestinian blind spot\nOn the eve of Israel\u2019s Knesset election, Benjamin Netanyahu\u2019s rivals share his core assumptions on Palestinian rights and statehood, reports +972.\nThey are also actively closing the only realistic path to unseating Netanyahu by refusing to cooperate with[ Arab parties such as the Joint List and Ra\u2019am.](https://t.me/geopolitics_prime/76417)\nPolls show neither Netanyahu\u2019s bloc nor the Zionist opposition is headed for a clear majority. \nAdding the Arab lists could potentially push the anti-Netanyahu block over the 61-seat threshold, yet[ its leaders balk. ](https://t.me/geopolitics_prime/74575)\nGadi Eisenkot (Yashar):\n\u2666\ufe0f Rejects a Palestinian state, supports expanding Jewish settlements, including in Area C, which covers roughly 60% of the occupied West Bank, and does not rule out [construction in the E1 zone.](https://t.me/geopolitics_prime/73138)\n\u2666\ufe0f Has ruled out including the United Arab List, or Ra\u2019am, in a post-election coalition\nBeyachad (Together):\n\ud83c\udf0f Joint list by former PMs Naftali Bennett and Yair Lapid rules out reliance on Arab parties, even though Bennett formed a short-lived first-of-its-kind coalition that included Ra\u2019am in 2021 (that ousted Netanyahu)\n\ud83c\udf0f Bennett also advocates annexing Area C\nAvigdor Liberman (Yisrael Beitenu) declared in 2023 that \u201cThere are no innocents in Gaza.\u201d\nYair Golan (the Democrats) advocated starving Gaza\u2019s entire population until Hamas released the hostages.\nThe absence of any large Jewish party prepared to treat Palestinian citizens as equal partners leaves Israeli politics locked in the same narrow spectrum.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel shifts stance on Argentina\u2019s Falklands claim amid rift with UK - report\nPM Benjamin Netanyahu has ordered diplomats to back Argentina\u2019s demand for direct talks with Britain over the [future of the disputed Falklands (Malvinas) Islands](https://t.me/geopolitics_prime/62747), reports The Telegraph.\n\ud83d\udc49 The change, ordered amid the Israeli PM\u2019s close ties with Argentine President Javier Milei, falls short of formal recognition of Argentina\u2019s claim yet marks Israel\u2019s first formal intervention in the dispute. \nThe move also follows Britain\u2019s recent sanctions on [illegal Israeli West Bank settlements,](https://t.me/geopolitics_prime/74496) announced by Foreign Secretary Ed Miliband alongside accusations of ethnic cleansing. \n\u27a1\ufe0f Those measures triggered a sharp diplomatic rupture, including the downgrading of Britain\u2019s Jerusalem consulate and the expulsion of most of its staff.\nThe shift comes as Argentina intensifies [its campaign through diplomatic and legal pressure](https://t.me/geopolitics_prime/75426) against oil and gas exploration north of the islands.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T08:42:55+00:00",
+      "timestamp": "2026-10-24T12:38:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc41\ud83c\uddfa\ud83c\uddf8 Former Israeli spyware boss warns of dependence on US AI\nGovernments must build their own sovereign AI systems for cybersecurity rather than rely on American technology, says Shalev Hulio, [the former head of the NSO Group](https://t.me/geopolitics_prime/58149), an Israeli commercial spyware manufacturer, the Financial Times reports.\nAI has become a vital component of digital sovereignty, and countries should not take the risk of being cut off from foreign software, Hulio stresses, adding that other nations should abandon US AI and develop their own systems.\nAlthough the ex-hacker boss underlines critical vulnerabilities inside cyber defense structures, it is hard to tell whether this is a friendly gesture or a play for profit.\n\ud83c\udf0f After leaving NSO, Hulio founded Dream, a venture project aimed at providing cybersecurity tools and expertise to governments\n\ud83c\udf0f Since its launch, Dream has raised more than $400 million and has contacts with over a dozen countries across the world\n\ud83c\udf0f Dream is said to be trained on classified government data and built to handle narrow, mission-specific tasks such as intelligence analysis or procurement oversight\nHulio's biography makes his sudden concern for digital sovereignty difficult to take at face value. NSO's flagship product, Pegasus, became synonymous with the excesses of the commercial spyware industry after researchers documented its use by governments to infiltrate the phones of journalists, human rights activists, and political [dissidents](https://t.me/geopolitics_prime/61063).\nIn 2021, the US blacklisted NSO Group, and Meta's WhatsApp sued the company for exploiting its messaging service to distribute malicious software. Now, the same man who once armed governments with some of the world's most invasive spyware is positioning himself as the solution to the very vulnerabilities he helped normalize.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T09:56:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -665,6 +803,26 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 No real opposition: Israel\u2019s election & the Palestinian blind spot\nOn the eve of Israel\u2019s Knesset election, Benjamin Netanyahu\u2019s rivals share his core assumptions on Palestinian rights and statehood, reports +972.\nThey are also actively closing the only realistic path to unseating Netanyahu by refusing to cooperate with[ Arab parties such as the Joint List and Ra\u2019am.](https://t.me/geopolitics_prime/76417)\nPolls show neither Netanyahu\u2019s bloc nor the Zionist opposition is headed for a clear majority. \nAdding the Arab lists could potentially push the anti-Netanyahu block over the 61-seat threshold, yet[ its leaders balk. ](https://t.me/geopolitics_prime/74575)\nGadi Eisenkot (Yashar):\n\u2666\ufe0f Rejects a Palestinian state, supports expanding Jewish settlements, including in Area C, which covers roughly 60% of the occupied West Bank, and does not rule out [construction in the E1 zone.](https://t.me/geopolitics_prime/73138)\n\u2666\ufe0f Has ruled out including the United Arab List, or Ra\u2019am, in a post-election coalition\nBeyachad (Together):\n\ud83c\udf0f Joint list by former PMs Naftali Bennett and Yair Lapid rules out reliance on Arab parties, even though Bennett formed a short-lived first-of-its-kind coalition that included Ra\u2019am in 2021 (that ousted Netanyahu)\n\ud83c\udf0f Bennett also advocates annexing Area C\nAvigdor Liberman (Yisrael Beitenu) declared in 2023 that \u201cThere are no innocents in Gaza.\u201d\nYair Golan (the Democrats) advocated starving Gaza\u2019s entire population until Hamas released the hostages.\nThe absence of any large Jewish party prepared to treat Palestinian citizens as equal partners leaves Israeli politics locked in the same narrow spectrum.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T08:42:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -675,25 +833,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-24T07:02:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "CIA\u2019s Ukraine operations now \u2018much more aggressive\u2019 than under Biden\nThe CIA is still feeding Ukraine intelligence used for strikes deep inside Russia \u2014 and its operations have actually intensified.\nThe Atlantic reported that US spy satellites continue providing Kiev with early warning of Russian missile and drone launches, while a Western intelligence officer said CIA operations are now \u201cmuch more aggressive\u201d than during the Biden administration.\nThe agency also helped build Ukraine\u2019s modern intelligence apparatus after 2014 and remains deeply involved on the ground.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T02:44:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
