@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T09:41:21.950457+00:00",
+  "generated_at": "2026-10-25T13:57:18.018483+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -163,25 +163,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/23/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 23, 2026 through Sunday, October 25, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/22/2026",
-      "location": "ZAB AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -403,6 +384,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran continues to carry out ballistic missile exercises for the second consecutive week",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-25T12:26:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: Moments ago, explosions were heard in Bandar Lengeh and Bandar Kong, southern Iran\nLikely related to anti-ship cruise missile launches into the Strait of Hormuz. IRIAF jets were also heard airborne.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -478,39 +478,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Iranian Mil Mi-17 helicopters seen flying over Tehran with S8 unguided rockets or jamming pods",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf3\u26a1 According to reports, Russia has offered India its most advanced air and missile defense system, the S-500, but with additional conditions attached to the proposed purchase agreement, which could complicate India\u2019s already ambitious plans to modernize its armed forces. Russia wants a minimum order of five S-500 regiments.\nIndia, which is seeking to eliminate critical gaps in its air defense system, is considering acquiring five more S-400 systems, almost a decade after signing the initial agreement with Moscow. Despite the long wait, Russia has still not completed deliveries under the original contract, and the fifth S-400 system remains undelivered.\nMeanwhile, India\u2019s Ministry of Defence is also considering the acquisition of one or two S-500 systems to strengthen its strategic defenses, in particular through advanced missile defense and anti-satellite weapons.\nHowever, the new conditions put forward by the Kremlin threaten to increase pressure on India\u2019s already overstretched defense budget.\nAt the same time, New Delhi is pursuing several major procurement programs, including:\n\u2b1b 114 Rafale fighter jets, as well as Rafale-M aircraft for Indian Navy aircraft carriers.\n\u2b1b Submarines with air\u2011independent propulsion (AIP) to strengthen its undersea warfare capabilities.\n\u2b1b Large-scale replenishment of missile and ammunition stocks, after significant losses in the May conflict with Pakistan, when Pakistani strikes destroyed substantial amounts of military supplies at Indian ammunition depots, including the depot in Beas.\nWith several costly defense procurements competing for limited financial resources, the conditions set by Moscow for the S-500 deal may force New Delhi to make difficult procurement decisions, potentially delaying plans to build a more comprehensive, multilayered air and missile defense system.\nThis situation also underscores India\u2019s continued dependence on Russian defense technologies, despite delivery delays, rising procurement costs, and competing military priorities that complicate its long-term modernization ambitions.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T12:47:40+00:00",
+      "timestamp": "2026-10-25T11:36:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea Footage of a direct missile impact in Riyadh, Saudi Arabia",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T00:55:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -526,12 +507,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -620,25 +602,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-24T19:23:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddea\ud83c\uddf8\ud83c\uddfeSweden rejects Syrian Airlines' request to operate direct flights between Damascus and Stockholm for security reasons.\nThe agency justified its decision by citing security risks associated with the ongoing conflict in Syria, based on assessments warning of aviation risks in Syrian airspace, including weak air control and the possibility of civilian aircraft being mistakenly targeted.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T19:09:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -766,6 +729,45 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran shoots down US LUCAS drone over Bandar Abbas\nIranian air defense forces shot down a US-made LUCAS attack drone over the southern port city of Bandar Abbas on Sunday morning, October 25, according to the Iranian Army.\nThe military said the drone was detected, targeted, and destroyed by air defense units operating within Iran's integrated national air defense network.\nThe LUCAS is an American-made one-way attack drone developed using technology derived from Iran's Shahed-136.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-25T10:43:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc41 Pentagon builds secret tech agency to hack, deceive and sabotage foreign rivals - report\nThe Technology Support Office (TSO) is an elite tech agency geared to expanding covert efforts that targets foreign military technology programs seen as threatening US military dominance, Politico reports. \nEstablished in April, it has not been publicly acknowledged by War Secretary Pete Hegseth or other senior Pentagon officials.\nDeputy Defense Secretary Steve Feinberg, a private-equity billionaire and former Trump-era intelligence adviser, is said to have driven its formation with help from Tom Rakusan, a longtime CIA clandestine veteran.\nTSO reportedly expands two smaller classified Pentagon programs that have conducted similar tech-sabotage work since 2023. \nKey features and aims:\n\u27a1\ufe0f close collaboration with military and intelligence officers to design tools that disrupt or subvert foreign defense technologies, particularly AI-powered systems and drones\n\u27a1\ufe0f workforce of engineers, special operators and intelligence officers building custom hacking tools and deception schemes, such as tricking adversaries into installing flawed components in weapons systems\n\u27a1\ufe0f efforts to streamline technology adoption across fragmented Pentagon intelligence programs, including a planned central catalog of approved commercial AI and tech tools for classified work\nClassified contracting alone is estimated above $1.5 billion.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-25T10:02:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf1 Israel squeezes Gaza and the West Bank as elections loom\nPalestinians in Gaza see their suffering reduced to campaign material ahead of Israel's October 27 election, with little expectation that the vote will change their reality, The Guardian reports.\nBoth Benjamin Netanyahu's far-right coalition and his main challenger, Gadi Eisenkot's Yashar party, have centered their campaigns on destroying Hamas and responding to the trauma of October 7. Meanwhile, the devastation of Gaza \u2014 home to nearly a million displaced people facing dire sanitation, water shortages, and constant strikes \u2014 has gone almost unmentioned by either camp, and neither has outlined a clear plan for the territory's future.\nThe current government is not waiting for the vote to reshape the West Bank. After a shooting near Hebron killed two Israeli soldiers, Israeli Defense Minister Israel Katz announced plans to forcibly displace Palestinian residents and carry out extensive destruction, invoking the \"offensive model\" used in northern West Bank refugee camps that already displaced more than 33,000 people.\nArab-led parties are the sole political force addressing Palestinian suffering in their campaigns, but they are expected to play a marginal role in the next government, aligning with different camps rather than shaping policy.\nMeanwhile, Gazans are now desperately short of basic necessities.\n\u2666\ufe0f Warehouses across the Strip have completely run out of flour, and the seven remaining operational bakeries warned they could shut within 48 hours without new supplies\n\u2666\ufe0f The World Food Programme has cut assistance to more than half a million people due to funding shortages, while crossings have been closed at various points during October, worsening restrictions on food, fuel, and aid\n\u2666\ufe0f Families now face long queues for bread, with many returning home empty-handed, as warnings mount over the risk of famine returning to the besieged territory\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -810,25 +812,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-25T05:55:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel brings Gaza-style demolition campaign to Hebron\nIsrael\u2019s sweeping punitive campaign in the occupied West Bank city of Hebron is gathering steam.\nVisiting the area, Benjamin Netanyahu promised to replicate the devastating operations previously carried out in the Jenin, Tulkarem, and Nur Shams refugee camps, where Israeli forces displaced populations and transformed parts of camps into permanent military outposts.\nThe Israeli PM has vowed to destroy the neighborhood the two Palestinian resistance fighters who killed two Israeli soldiers at a checkpoint on October 23 came from. The shooting at the northern entrance to Hebron claimed the lives of two Israeli soldiers and wounded six others, with the perpetrators also killed.\nFinance Minister Bezalel Smotrich has called for a West Bank campaign modeled on Israel\u2019s operations in Gaza and Lebanon.\n\ud83d\udd36 Israeli forces maintained their lockdown of Hebron on Saturday, deploying additional troops and bulldozers\n\ud83d\udd36 Demolished Palestinian homes have already displaced around 1,500 people (Wafa)\n\ud83d\udd36 Major roads have been sealed, and the Al-Jilda and Deir Bahha neighborhoods raided\n\ud83d\udd36 Israeli troops also detained 19 Palestinians in raids across the West Bank, including around Nablus, Bethlehem, and Jericho\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T05:15:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
