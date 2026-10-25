@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T04:47:11.625935+00:00",
+  "generated_at": "2026-10-25T09:41:21.950457+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -250,14 +250,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
+      "text": "FAA SECURITY TFR\nU.S MEXICO BORDER, TX, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZHU",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
-      "location": "ZLA AZ",
+      "location": "ZHU TX",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -269,14 +269,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nU.S MEXICO BORDER, TX, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZHU",
+      "text": "FAA SECURITY TFR\nU.S. MEXICO BORDER, AZ, Tuesday, October 20, 2026 through Tuesday, October 19, 2027 UTC\nFacility: ZLA",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/16/2026",
-      "location": "ZHU TX",
+      "location": "ZLA AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -302,6 +302,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3757\r\nIssue Time: 2026 Oct 25 0927 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3756\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 3259 pfu\nMax time: 2026 Oct 24 1530 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-25 09:27:50.723",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -378,44 +397,6 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5442\r\nIssue Time: 2026 Oct 22 2021 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5441\nValid From: 2026 Oct 21 1616 UTC\nNow Valid Until: 2026 Oct 23 0300 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-22 20:21:43.920",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Ukraine says Starlink connection 'now stable' after network limits",
-      "text": "Ukraine says Starlink connection 'now stable' after network limits\nThe slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-24T12:12:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -535,20 +516,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Rubio was outraged by claims that the US no longer warns of ballistic threats](https://www.pravda.com.ua/news/2026/10/20/8058911/)\nUS Secretary of State Marco Rubio called false reports that the United States has stopped providing Ukraine with data on ballistic threats. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/10/20/8058911/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0432\u0430\u043b\u044c\u0447\u0443\u043a | pravda\u200b.com\u200b.ua \u2022 Oct 20, 2026",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 The Iranian Army announces the interception of a USAF LUCAS drone over Bandar Abbas in southern Iran.\n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-20T16:09:18+00:00",
+      "timestamp": "2026-10-25T07:12:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -574,39 +555,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Additional footage of the missile tests being conducted by Iran\u2019s IRGC across Iran.\n\ud83d\udd34",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1Israeli soldiers attempting to disable an explosive FPV drone in southern Lebanon",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T09:40:47+00:00",
+      "timestamp": "2026-10-25T06:43:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Question: According to reports, is there already a ready Israeli-American joint plan to attack Iran?\nIsraeli Prime Minister Benjamin Netanyahu: I will not comment on the plan.\n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T09:15:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -684,6 +646,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Sources say Iraq suspects that strikes on 2 Chinese air defence systems supplied to Iranian proxy militias by Iran on October 17 were conducted by Israel. \nAlso according to sources cited by a-Sharq al-Awsat, a series of explosions in areas around Baghdad on October 1 targeted warehouses storing drones for the militias. \nVideo released by one of the militia's (PMF) intelligence arm allegedly shows the aftermath of one of the strikes.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-25T05:25:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -784,32 +765,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukraine\u2019s Defence Ministry reports 1,980 additional Russian personnel losses in its October 24 update, bringing the estimated total since February 24, 2022, to approximately 1,576,600.\nReported equipment losses include five tanks, three armoured fighting vehicles, 64 artillery systems, two multiple-launch rocket systems, two air defence systems, 1,855 drones, eight unmanned ground vehicles, 413 vehicles and fuel tanks, and one item of special equipment.\nThese figures are Ukrainian military estimates and have not been independently verified.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T02:27:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea Houthi battlefield gains shatter Saudi victory claims\nYemeni tribes are warning Riyadh that threats against tribal mobilizations could trigger a much wider response, Press TV reported.\nAt the same time, footage released by Yemeni forces has shown captured Saudi-backed fighters and military equipment \u2014 undercutting repeated claims that Ansar Allah is collapsing.\n\ud83d\udcac \u201cThe consequences would be severe and unpredictable,\u201d the warning said.\nPress TV has also highlighted recent battlefield footage around Bab al-Mandab that challenged Saudi-backed claims of major advances.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel squeezes Gaza and the West Bank as elections loom\nPalestinians in Gaza see their suffering reduced to campaign material ahead of Israel's October 27 election, with little expectation that the vote will change their reality, The Guardian reports.\nBoth Benjamin Netanyahu's far-right coalition and his main challenger, Gadi Eisenkot's Yashar party, have centered their campaigns on destroying Hamas and responding to the trauma of October 7. Meanwhile, the devastation of Gaza \u2014 home to nearly a million displaced people facing dire sanitation, water shortages, and constant strikes \u2014 has gone almost unmentioned by either camp, and neither has outlined a clear plan for the territory's future.\nThe current government is not waiting for the vote to reshape the West Bank. After a shooting near Hebron killed two Israeli soldiers, Israeli Defense Minister Israel Katz announced plans to forcibly displace Palestinian residents and carry out extensive destruction, invoking the \"offensive model\" used in northern West Bank refugee camps that already displaced more than 33,000 people.\nArab-led parties are the sole political force addressing Palestinian suffering in their campaigns, but they are expected to play a marginal role in the next government, aligning with different camps rather than shaping policy.\nMeanwhile, Gazans are now desperately short of basic necessities.\n\u2666\ufe0f Warehouses across the Strip have completely run out of flour, and the seven remaining operational bakeries warned they could shut within 48 hours without new supplies\n\u2666\ufe0f The World Food Programme has cut assistance to more than half a million people due to funding shortages, while crossings have been closed at various points during October, worsening restrictions on food, fuel, and aid\n\u2666\ufe0f Families now face long queues for bread, with many returning home empty-handed, as warnings mount over the risk of famine returning to the besieged territory\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T02:51:24+00:00",
+      "timestamp": "2026-10-25T09:21:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -823,12 +785,50 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "'I've got to make it permanent' - Trump wants to 'finish off' Iran\n\ud83d\udcac \u201cThey have no jet fighters left. They're all gone\u2026 They've knocked out every jet fighter in Iran. They've knocked out every ship, 259 ships all at the bottom of the sea,\u201d President Donald Trump claimed.\nAt the same time, he threatened further aggression against Iran.\n\ud83d\udcac \u201cThere's a possibility I will.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udde8\ud83c\uddf3 China puts radar arrays in the wings inside aircraft to build a drone early-warning network\nChinese engineers from Chengdu Aircraft Design and Research Institute have put forward a concept that would place large antenna arrays directly into aircraft wings.\nFighter jets usually carry their main radar behind a nose cone, while traditional airborne early-warning aircraft mount large radar arrays in prominent structures above the fuselage. Wings offer a large surface area but are relatively thin, leaving little internal room for radar equipment.\nThe researchers argue that the future of distributed air combat will require many smaller, cheaper unmanned aircraft working together rather than a single large platform. That creates a technical challenge: achieving large-scale detection with relatively small individual platforms.\nHow the wing-mounted radar would work\n\ud83d\udd36 The radar antenna is built directly into the wing itself, facing downward, with a cover that follows the wing's shape \u2014 this gives the radar a much larger surface to work with than a nose-mounted system, without needing a big external dome\n\ud83d\udd36 To point the radar in a different direction, the aircraft simply changes its flight attitude, which tilts the wing-mounted antenna to a different position\n\ud83d\udd36 The study outlines the system could operate in different ways, including scanning in all directions, scanning in several directions at once, and several aircraft working together \u2014 either spreading out to cover a wide area, focusing on a specific target, or joining forces to resist enemy jamming\n\ud83d\udd36 Having multiple aircraft detect targets together is described as the key to the whole \"small platforms, big capabilities\" idea\n\u00a0\nA distributed network of wing-mounted radars on cheaper unmanned platforms would be harder to disable with a single strike and could extend coverage across the vast distances of the Indo-Pacific without relying on a handful of high-value targets.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T21:48:21+00:00",
+      "timestamp": "2026-10-25T06:36:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddea\ud83c\uddfa Europe\u2019s cost-of-living anger spills into streets as protests turn violent across several countries\nHundreds of thousands of people rallied across France for a second straight weekend amid anger over living costs and deteriorating public services. Similar grievances also fueled protests that swept Italy, Portugal and Albania.\nDespite curfews and restrictions imposed in more than 100 French cities, clashes erupted, though the destruction was less extensive than last weekend.\n\ud83d\udd34 authorities deployed 70,000 police backed by armored vehicles, water cannons and drones\n\ud83d\udd34 government counted 410,000 demonstrators, compared with 800,000 estimated by the CGT union\n\ud83d\udd34 around 1,000 people detained nationwide by Saturday evening, two were seriously injured\n\ud83d\udd34 police deployed water cannon in Paris \n\ud83d\udd34 clashes broke out in Lyon, Lille, Nice, Rennes and Dijon, with police deploying tear gas; some stores were damaged or looted\nIn Italy, demonstrations turned violent in Turin, Rome and Bologna, while protests in Milan remained largely peaceful. \nIn Portugal, police dismantled a protest camp in Lisbon after thousands marched over soaring rents, housing unaffordability, and proposed changes that would ease evictions and lift rent caps on new leases. \n[Albania\u2019s student-led protests ](https://t.me/geopolitics_prime/76384)over government corruption, unemployment and poor education standards escalated in Tirana. \nPolice used tear gas, water cannons and rubber bullets as demonstrators hurled rocks and set fire to the agriculture ministry entrance, demanding PM Edi Rama\u2019s resignation.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-25T05:55:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel brings Gaza-style demolition campaign to Hebron\nIsrael\u2019s sweeping punitive campaign in the occupied West Bank city of Hebron is gathering steam.\nVisiting the area, Benjamin Netanyahu promised to replicate the devastating operations previously carried out in the Jenin, Tulkarem, and Nur Shams refugee camps, where Israeli forces displaced populations and transformed parts of camps into permanent military outposts.\nThe Israeli PM has vowed to destroy the neighborhood the two Palestinian resistance fighters who killed two Israeli soldiers at a checkpoint on October 23 came from. The shooting at the northern entrance to Hebron claimed the lives of two Israeli soldiers and wounded six others, with the perpetrators also killed.\nFinance Minister Bezalel Smotrich has called for a West Bank campaign modeled on Israel\u2019s operations in Gaza and Lebanon.\n\ud83d\udd36 Israeli forces maintained their lockdown of Hebron on Saturday, deploying additional troops and bulldozers\n\ud83d\udd36 Demolished Palestinian homes have already displaced around 1,500 people (Wafa)\n\ud83d\udd36 Major roads have been sealed, and the Al-Jilda and Deir Bahha neighborhoods raided\n\ud83d\udd36 Israeli troops also detained 19 Palestinians in raids across the West Bank, including around Nablus, Bethlehem, and Jericho\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-25T05:15:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
