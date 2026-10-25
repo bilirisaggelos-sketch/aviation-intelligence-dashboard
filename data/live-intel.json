@@ -1,6 +1,82 @@
 {
-  "generated_at": "2026-10-24T21:48:18.890987+00:00",
+  "generated_at": "2026-10-25T00:09:40.337399+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nWEST HOLLYWOOD, CA, Saturday, October 31, 2026 through Sunday, November 1, 2026 Local\nFacility: ZLA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/25/2026",
+      "location": "ZLA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nATLANTA, GA, Saturday, October 31, 2026 through Saturday, October 31, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/24/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nATLANTA, GA, Friday, October 30, 2026 through Saturday, October 31, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/24/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLexington, KY, Friday, October 30, 2026 through Saturday, October 31, 2026 Local\nFacility: ZID",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/24/2026",
+      "location": "ZID KY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nHUNTSVILLE, AL, Tuesday, October 27, 2026 through Thursday, October 29, 2026 Local\nFacility: ZME",
@@ -125,25 +201,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/22/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, October 23, 2026 through Saturday, October 24, 2026 Local\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/21/2026",
-      "location": "ZMA FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -374,13 +431,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "Geopolitics Prime"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -498,63 +554,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Obama on Iran:\nRemember, they said, \"Oh, this is the best war ever. It's going great.\"\nSo, seven months later, how's that war going?\nOur allies and our bases have been attacked. Americans have been killed. Hundreds of Americans have been wounded. We have run down our stock of missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T21:05:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Obama on Iran:\nLet's think about this Iran war. The original rationale was, we're going to go in there and get them to give up their nuclear program, their nuclear weapons.\nNow, the thing was, Iran didn't have nuclear weapons because I had put a deal in place that everybody acknowledged kept them from getting nukes.\nAnd I didn't have to fire a missile to do it. I just had to engage in diplomacy.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T21:04:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump on Iran:\nIran had 259 jet fighters. We destroyed them all.\nIran also had 259 ships. They're all at the bottom of the sea.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T20:53:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[Rubio was outraged by claims that the US no longer warns of ballistic threats](https://www.pravda.com.ua/news/2026/10/20/8058911/)\nUS Secretary of State Marco Rubio called false reports that the United States has stopped providing Ukraine with data on ballistic threats. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/10/20/8058911/)\n\u041e\u043b\u044c\u0433\u0430 \u041a\u043e\u0432\u0430\u043b\u044c\u0447\u0443\u043a | pravda\u200b.com\u200b.ua \u2022 Oct 20, 2026",
       "source": "Telegram",
@@ -571,6 +570,26 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6 The Iranians struck Kurdish separatist positions in Iraqi Kurdistan with drones tonight. In other news, water is wet, the sky is blue and the Strait of Hormuz is still closed.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T23:04:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -612,20 +631,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iran\u2019s IRGC conducts missile tests in the Iranian city of Yazd.\n\ud83d\udd34",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f News Roundup: There are so many things going on simultaneously right now that it is genuinely overwhelming. I felt the need to zoom out for a second and take inventory:\n1. The Ansarallah offensive against the Saudi mercenaries in Yemen continues. They are striking Saudi oil infrastructure and airports with drones/missiles. Ansarallah are currently winning the armed struggle on the ground and are poised to capture the city of Taiz.\n2. IDF West Bank incursions in response to the resistance operation that killed two Israeli soldiers. They are engaging in destruction operations against civilians in Southern Lebanon. They are also killing people in Gaza every day.\n3. Riots and protests taking place across Europe: Belgium, France, Denmark, Spain, Italy, Albania, Serbia, Greece, Portugal, etc. The main grievance is the rising cost of living because of increased petrol prices. Similar unrest is taking place in South America.\n4. Upcoming US/Israeli escalations against Iran, which is going to make crude oil even more expensive with the usual downstream effects.\n5. The Israelis appear to be establishing foothold in Syria through the Druze, which they are using as proxies. Keep an eye on that.\n6. The US midterm elections on November 3rd. Republicans could lose control of Congress to the Democrats, whose constituents are now strongly anti-war.\n7. The Israeli elections are on October 27th. Netanyahu could lose power to Eisenkot. It is unclear what, if anything, will change if Eisenkot takes over.\n8. Continuous warfare at various levels of intensity in Sudan, Ukraine, Congo, Sahel Region, Afghanistan/Pakistan, Columbia, Myanmar.\n9. China is doing nothing and it\u2019s going great for them.\n10. (Insert thing I forgot to mention)\nThe world is a complex system, but all of these conflicts are interconnected. I could point to any item on this list and see how it directly (or indirectly) connects to the others. It\u2019s fascinating.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T06:38:50+00:00",
+      "timestamp": "2026-10-24T22:55:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -641,12 +660,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -676,25 +696,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-24T19:09:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 BREAKING:About 40 minutes ago, US military fighter jets conducted an air patrol in the city of Mashhad , located in northeastern Iran.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T13:24:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -803,6 +804,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "'I've got to make it permanent' - Trump wants to 'finish off' Iran\n\ud83d\udcac \u201cThey have no jet fighters left. They're all gone\u2026 They've knocked out every jet fighter in Iran. They've knocked out every ship, 259 ships all at the bottom of the sea,\u201d President Donald Trump claimed.\nAt the same time, he threatened further aggression against Iran.\n\ud83d\udcac \u201cThere's a possibility I will.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-24T21:48:21+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "'Were Starlink to be turned off, the Ukrainian front line would collapse immediately' - Musk\n\ud83d\udcac \u201cThis is NOT a threat, it is simply a statement of fact,\u201d SpaceX CEO Elon Musk wrote on X while explaining what prompted the latest Starlink restrictions in Ukraine.\n\ud83d\udcac \u201cUkraine military violated Starlink terms of service and used it for offensive drone strikes to kill people. That loophole was closed last week,\u201d Musk emphasized.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -847,64 +867,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-24T17:23:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf9\ud83c\uddfc\ud83d\udef0 Starlink limits on Ukraine send warning to Taiwan\n\u00a0\nRecent US-imposed speed limits on Starlink, which severely disrupted Ukrainian [military capabilities](https://t.me/geopolitics_prime/76224), have raised fears within the Taiwanese government over its reliance on American defense technology.\n\ud83c\udf0f The restrictions, which cut connectivity when terminals moved faster than 160 km/h, forced certain Ukrainian drones to slow down or lose connection, disrupting numerous [combat missions](https://t.me/geopolitics_prime/76535)\n\ud83c\udf0f Interceptor drones used against Russian jet-powered Geran drones flying at 350\u2013450 km/h became practically useless under the limit\n\ud83c\udf0f The restrictions also affected frontline logistics and data relay\nEven military-grade versions could be limited for political or commercial reasons, Taiwanese experts warn. Concerns are heightened by Musk's significant business interests in mainland China, including Tesla's Shanghai operations.\nAlthough Taiwan's military does not currently use Starlink, the country has eased market entry rules for foreign satellite operators. The government has also vowed to develop its own indigenous version of Starlink, reducing its current dependence on undersea communications cables.\nHowever, time may already have been irreversibly lost. China has long been developing its own Starlink analogue in the form of the state-owned [Guowang project](https://t.me/geopolitics_prime/75976). The project envisions around 13,000 satellites in orbit by 2035, which will not only provide communications but also carry reconnaissance equipment such as radars and optics.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T14:50:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc79 Netanyahu eyes crypto backdoor for Israel\nPM Benjamin Netanyahu has acknowledged the possibility of Israel at some point facing banking sanctions in an interview for Channel 10 ahead of the Knesset elections.\n\ud83d\udc49 He said Israel needed to be capable of circumventing such restrictions and that he was already working on a plan.\nAsked about cryptocurrency and blockchain - decentralized technology that can enable payments outside traditional banking systems - Netanyahu endorsed both as potential options, adding that he had tasked advisers with preparing proposals.\n\u27a1\ufe0fBritain and 11 other Western countries recently announced[ measures targeting goods from Israeli settlements](https://t.me/geopolitics_prime/74496) in the occupied West Bank, citing settler violence against Palestinians and settlement expansion.\nAlthough the measures specifically target settlements, economists and industry figures have warned that their effects could spill over into Israel\u2019s wider economy.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T14:09:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel shifts stance on Argentina\u2019s Falklands claim amid rift with UK - report\nPM Benjamin Netanyahu has ordered diplomats to back Argentina\u2019s demand for direct talks with Britain over the [future of the disputed Falklands (Malvinas) Islands](https://t.me/geopolitics_prime/62747), reports The Telegraph.\n\ud83d\udc49 The change, ordered amid the Israeli PM\u2019s close ties with Argentine President Javier Milei, falls short of formal recognition of Argentina\u2019s claim yet marks Israel\u2019s first formal intervention in the dispute. \nThe move also follows Britain\u2019s recent sanctions on [illegal Israeli West Bank settlements,](https://t.me/geopolitics_prime/74496) announced by Foreign Secretary Ed Miliband alongside accusations of ethnic cleansing. \n\u27a1\ufe0f Those measures triggered a sharp diplomatic rupture, including the downgrading of Britain\u2019s Jerusalem consulate and the expulsion of most of its staff.\nThe shift comes as Argentina intensifies [its campaign through diplomatic and legal pressure](https://t.me/geopolitics_prime/75426) against oil and gas exploration north of the islands.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-24T12:38:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
