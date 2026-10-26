@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T00:40:27.157719+00:00",
+  "generated_at": "2026-10-26T05:24:15.624221+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -193,6 +193,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3758\r\nIssue Time: 2026 Oct 26 0517 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3757\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 2864 pfu\nMax time: 2026 Oct 25 1820 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-26 05:17:56.783",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3757\r\nIssue Time: 2026 Oct 25 0927 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3756\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 3259 pfu\nMax time: 2026 Oct 24 1530 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -257,25 +276,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-23 19:27:05.807",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3755\r\nIssue Time: 2026 Oct 23 1147 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Oct 23 1140 UTC\nStation: GOES-19\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-23 11:47:50.950",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -402,6 +402,25 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Iranians fear a possible return to all-out war as U.S. and Israeli elections approach](https://www.pbs.org/newshour/world/iranians-fear-a-possible-return-to-all-out-war-as-u-s-and-israeli-elections-approach)\nIsraeli Prime Minister Benjamin Netanyahu, who faces a close vote Tuesday, says Iran's leadership must be eliminated. U.S. President Donald Trump vows to \u201cfinish the job\u201d in Iran eight months after the war began, as a third aircraft carrier and thousands of troops make their way to the region. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/world/iranians-fear-a-possible-return-to-all-out-war-as-u-s-and-israeli-elections-approach)\npbs\u200b.org \u2022 Oct 25, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-26T01:10:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Unconfirmed reports indicate that a Saudi military transport aircraft, a C-130 Hercules, has landed at Mehrabad Airport in Tehran, the Iranian capital.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
@@ -431,13 +450,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -461,7 +479,7 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\udde7\ud83c\uddf7 Just to erase all doubt: With 99.97% of the vote counted Lula wins. His silly hat and debate gaffes were not dealbreakers for the majority of voters.\nA gentle reminder to any followers who were cheering for Flavio Bolsonaro. Benjamin Netanyahu endorsed that man. Flavio pledged \u201cclose Israel-Brazil relations\u201d if he won. With Flavio losing, Brazil just dodged a bullet.",
+      "text": "\u26a1\ufe0f\ud83c\udde7\ud83c\uddf7 Just to erase all doubt: With 99.97% of the vote counted, Lula wins. His silly hat and debate gaffes were not dealbreakers for the majority of voters.\nA gentle reminder to any followers who were cheering for Flavio Bolsonaro. Benjamin Netanyahu endorsed that man. Flavio pledged \u201cclose Israel-Brazil relations\u201d if he won. With Flavio losing, Brazil just dodged a bullet.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -480,12 +498,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Sources say Iraq suspects that strikes on 2 Chinese air defence systems supplied to Iranian proxy militias by Iran on October 17 were conducted by Israel. \nAlso according to sources cited by a-Sharq al-Awsat, a series of explosions in areas around Baghdad on October 1 targeted warehouses storing drones for the militias. \nVideo released by one of the militia's (PMF) intelligence arm allegedly shows the aftermath of one of the strikes.",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (Houthis) announced that they had targeted Presidential Leadership Council (PLC) troop concentrations and weapons depots in the Salah al-Din area of Aden Governorate and the Al-Wahat area of Lahij Governorate using several ballistic missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T05:25:51+00:00",
+      "timestamp": "2026-10-26T03:23:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -499,12 +517,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfb\ud83c\udded\ud83c\uddf9 Salvadoran President Nayib Bukele responded on X after remains were delivered in Haiti, saying they are not those of his missing aviation technicians:\n\"They are not our men.\nAn NGO delivered human remains at the airport, claiming they belonged to our four aviation technicians.\nHowever, the remains correspond to a child, a man of considerably greater height than our aviation technicians, and a person who was wearing part of a uniform from an army that is not ours.\nAmong the remains, identification cards and military uniforms from other countries were also found.\"",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 A missile launcher was struck in Sirik, Hormozgan Province, Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T03:24:17+00:00",
+      "timestamp": "2026-10-26T03:21:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -518,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf2\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf7 A USAF Lockheed C-5M Super Galaxy cargo plane, which landed at Diego Garcia airbase just yesterday, recently took off from Diego Garcia once more and may have been transporting military equipment for a renewed US airstrike campaign on Iran.\nThe delivery comes amid heightened tensions in the Middle East and constant IRGC missile drills.\n[\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 An Israeli drone strike targets 3 security personnel in the campus of the Islamic University west of Gaza City.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T02:37:11+00:00",
+      "timestamp": "2026-10-26T03:17:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -537,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\u2600\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7 The Revolutionary Komala Party of Iranian Kurdistan has said one of its headquarters in the Alana Valley in Erbil province was targeted at 10pm by a Shahed-type explosive drone. \nThe group said the attack caused no casualties and only material damage.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf2 A US Lucas suicide drone was shot down over Bandar Abbas, Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T02:36:12+00:00",
+      "timestamp": "2026-10-26T03:15:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -556,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\u2600\ufe0f Footage of drones reportedly entering into the Kurdistan Region of Iraq from Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea \u2014 The Saudi-led Coalition (Joint Forces) announced the interception of a ballistic missile over Riyadh and the destruction of two ballistic missile launchers in Sanaa, one of which was used to target the Saudi capital.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T02:32:30+00:00",
+      "timestamp": "2026-10-26T03:14:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -575,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddf1\ud83c\udde7 [U.S. Embassy Beirut](https://travel.state.gov/en/international-travel/travel-advisories/lebanon.html): The United States has renewed its Level 4 \u201cDo Not Travel\u201d advisory for Lebanon, warning that missile and drone strikes may occur throughout the country\u2014including Beirut\u2014and identifying Dahiyeh and southern Beirut as particularly dangerous.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Riyadh\u2019s King Khalid International Airport reopened Terminals 1 and 2 today, roughly two weeks after a Houthi missile strike killed 13 people and injured more than 300 there, the National reports.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T02:30:07+00:00",
+      "timestamp": "2026-10-26T03:12:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -619,64 +637,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-25T23:01:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 'Kick out the Arabs\u2026 or we'll kill them' - young voter outside Ben-Gvir rally\nA young Israeli woman outside a rally for Itamar Ben-Gvir gave a remarkably blunt description of what she wants for Gaza:\n\ud83d\udcac \u201cWe should take it because God commanded us to take it.\u201d\nAsked where Palestinians should go, she replied:\n\ud83d\udcac \u201cHonestly to any other Arab country. I don't really care except Jordan and Lebanon and Syria - those are ours. Or we'll kill them.\u201d\nMax Blumenthal shared the exchange, calling her a \u201ctypical Israeli young voter\u201d and pointing to Ben-Gvir\u2019s growing appeal among young voters.\nThat trend is real: Reuters reported that Ben-Gvir\u2019s Jewish Power party is gaining support among younger and first-time voters ahead of Tuesday\u2019s election.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T21:28:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea Houthis strike Riyadh airport again just hours after reopening\nYemen's Ansar Allah movement launched another ballistic missile attack on King Khalid International Airport in Riyadh on Sunday, shortly after the facility resumed operations following an earlier strike.\nThe Houthis said their forces carried out three military operations involving dozens of ballistic missiles.\nThey also claimed to have targeted aircraft hangars, ammunition depots, drone control centers and other military facilities at King Khalid Air Base in Khamis Mushait, southwestern Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T18:30:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7Strait of Hormuz will never return to its old rules \u2014 Iran's foreign minister\nThe US-Israeli war has permanently changed how the Strait of Hormuz will operate, Iranian Foreign Minister Abbas Araghchi said on Sunday.\n\ud83d\udcac\u201cThe shipping routes through the Strait of Hormuz will no longer be the same as before, nor will the Strait be managed as it was in the past,\u201d he declared.\nAraghchi said the war had fundamentally reshaped regional security and exposed the failure of US military bases to protect their host countries.\nHe also insisted that future security arrangements must be led by regional powers themselves, without foreign military interference, and that any lasting peace agreement must end hostilities across all fronts.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T17:35:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
