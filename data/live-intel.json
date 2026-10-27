@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-26T21:54:59.853844+00:00",
+  "generated_at": "2026-10-27T01:21:18.987750+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nColumbus, OH, Wednesday, October 28, 2026 through Wednesday, October 28, 2026 Local\nFacility: ZID",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/27/2026",
+      "location": "ZID OH",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nBeale AFB, CA, Sunday, November 1, 2026 through Sunday, March 14, 2027 Local\nFacility: ZOA",
@@ -479,31 +498,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: American Tomahawk cruise missile hitting the Sahran mountains in Iran during the US\u2013Israel war with Iran in early 2026.",
+      "text": "Trump on Iran:\nIranians now have a missile that essentially reached Europe.\nThey weren\u2019t supposed to. We said, \u201cWhere the hell did they get that?\u201d",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T20:48:08+00:00",
+      "timestamp": "2026-10-26T23:47:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Germany Turns to Cheap Ukrainian Cruise Missiles to Deter Russia\nBerlin is preparing an initial Bars missile purchase for military trials, with a potential order for several hundred to follow as Germany expands its long-range arsenal.\n[READ MORE](https://clashreport.com/defense/articles/germany-turns-to-cheap-ukrainian-cruise-missiles-to-deter-russia-zuk0ibsbys/)",
+      "text": "Former FBI Director James Comey has been charged with leaking national defense information, marking the Trump administration's third criminal case against him. \nThe charges stem from an alleged disclosure of classified information to the New York Times in 2016. \nComey denies wrongdoing, calling the prosecution an \u201cappalling abuse\u201d of the Justice Department.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T20:32:34+00:00",
+      "timestamp": "2026-10-26T23:22:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -787,6 +807,26 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3 Trump stunned by Iranian missile reach after claiming the military was destroyed\nPresident Trump is expressing shock that Iran possesses a missile capable of reaching Europe \u2014 directly contradicting months of his administration\u2019s claims that US and Israeli airstrikes had obliterated Iran's arsenal.\n\"They now have a missile that essentially reached Europe. They weren\u2019t supposed to. We said, 'Where the hell did they get that?'\"\nWestern intelligence assessed [Iran kept roughly 75% of its pre-war ballistic missile arsenal](https://t.me/geopolitics_prime/75989) despite eight months of bombing.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T01:08:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd0a Vance blames 'tinpot dictators' for high gas prices\n\"They skyrocket every time some tinpot dictator decides to throw a tantrum.\"\nTrump's tantrum in February led to one of the biggest hikes in fuel prices, with diesel reaching an all-time high.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -812,25 +852,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-26T19:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Netanyahu\u2019s top general resists attempts to restart war with Iran \u2013 report\nIsrael Defense Forces Chief of Staff Eyal Zamir has ostensibly refused to carry out an unspecified military action that could \"trigger a rapid escalation into a confrontation with Iran,\" Israeli Channel 12 reported on October 25.\nZamir sought further deliberations and a written authorization for the op, with Israeli generals suspecting that their country\u2019s leadership may be attempting to \u201cutilize the Iranian issue for political benefit.\u201d\nNetanyahu himself vehemently denied the report and insisted that Zamir himself said that Iran allegedly sought to interfere in the Israeli election.\nEarlier last week, Israeli Channel 13 reported that Zamir said that he does think it is necessary to attack Iran before the elections in Israel.\n\ud83d\udd0a \"We do not see any indications of a need to strike Iran before the elections. If we determine that a strike on Iran is necessary, we will strike,\" Zamir remarked.\nThis development takes place amid speculation that Netanyahu may be seeking to resume the war with Iran, either to boost his chances of reelection or to delay the election.\nSome online sleuths even claim that recent flights from Israel to Cyprus may indicate an ongoing evacuation of high-ranking Israeli officials ahead of a new round of Israel-Iran fighting.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T15:15:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
