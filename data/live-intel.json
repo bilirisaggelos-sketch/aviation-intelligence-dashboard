@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-10-27T18:23:16.769337+00:00",
+  "generated_at": "2026-10-27T22:32:35.624441+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nAtlanta, GA, Friday, October 30, 2026 through Friday, October 30, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/27/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nAtlanta, GA, Friday, October 30, 2026 through Saturday, October 31, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/27/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNew York, NY, Sunday, November 1, 2026 Local\nFacility: ZNY",
@@ -117,25 +155,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nATLANTA, GA, Friday, October 30, 2026 through Friday, October 30, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/26/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nClear, AK, Sunday, November 1, 2026 through Sunday, March 14, 2027 Local\nFacility: ZAN",
       "source": "FAA",
       "source_type": "official",
@@ -201,25 +220,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/25/2026",
       "location": "ZLA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nATLANTA, GA, Saturday, October 31, 2026 through Saturday, October 31, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/24/2026",
-      "location": "ZTL GA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -420,44 +420,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "text": "Ex-FBI chief James Comey faces federal charges for third time\nComey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-27T11:44:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "text": "What does Israel's election mean for Gaza and the wider world?\nThe BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-27T10:17:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 BREAKING: Prime Minister Benjamin Netanyahu wants to strike Iran before the Israeli election on Tuesday, but IDF Chief of Staff Eyal Zamir objected to the plan, demanding official signed documents from the Prime Minister\u2019s office detailing the necessity of a new attack \u2013 Channel 12",
@@ -517,12 +479,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: A drone chases a running person through a dense forest with no GPS, no internet, and no human steering it. \nThe drone flies about 2 meters off the ground at jogging speed, builds a 3D map of the trees as it goes, and guesses where the person is headed when trees block its view. \nEverything runs on board the drone itself. \nPurdue\u2019s IDEAS Lab built the hardware, but the software leans on open-source tools, mostly from the University of Hong Kong, so it isn\u2019t entirely made from scratch. \nThe same lab also has a separate $1.5 million Army research deal for robots that work without GPS.",
+      "text": "Syrian President Ahmad al-Shaara:\nI affirm that throughout my life, I have never attacked a civilian or an unarmed person.\nI have principles when it comes to military confrontations, and I take pride in them.\nI have been careful to pass these principles on to many of those who worked with me. Because there is honor in fighting.\nThere is a very big difference between a fighter and a killer.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T18:07:49+00:00",
+      "timestamp": "2026-10-27T22:29:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -536,22 +498,40 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Israel's Gadi Eisenkot:\nIn recent hours, Netanyahu has returned to his familiar tricks, to lies and fear-mongering, in order to mobilize the masses. \nThe same lies from previous election campaigns. This puts the change at risk.",
+      "text": "Ben-Gvir's Aide Calls Israeli Voters 'Stupid' After Right-Wing Bloc Falls Short\nOsher Gabay, personal aide to far-right Israeli minister Itamar Ben-Gvir, called Israelis \"stupid\" after exit polls indicated Benjamin Netanyahu's right-wing bloc had failed to secure a parliamentary majority.\n[READ MORE](https://clashreport.com/world/articles/ben-gvir-s-aide-calls-israeli-voters-stupid-after-right-wing-bloc-falls-short-n961jfasstr)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T16:22:11+00:00",
+      "timestamp": "2026-10-27T21:46:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "LATEST: Israel\u2019s three main TV networks have updated their exit polls and now all show the same result.\nNetanyahu\u2019s bloc at 50 seats, the Jewish opposition at 52 and Arab-led parties at 18, leaving neither camp with the 61 seats needed for a majority.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T21:23:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -651,147 +631,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83d\uddf3 \u2014 Israeli Yashar Party leader Gadi Eisenkot:\nIn recent hours, Netanyahu has returned to his familiar tricks, to lies and fear-mongering, in order to mobilize the masses. \nThe same lies from previous election campaigns. This puts the change at risk.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T16:36:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83d\uddf3 \u2014 Israeli Prime Minister Benjamin Netanyahu\u2019s Likud party says it has requested an extension of voting hours beyond 10:00 PM.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T15:43:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Ballistic missiles launched for testing from several provinces across Iran as part of exercises conducted by the Islamic Revolutionary Guard Corps (IRGC).\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T14:20:07+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83d\uddf3 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nThere are no celebrations now! No celebrations, no cakes, no sandwiches, no nothing! No beach, no barbecues, no nothing!\nGet people out to vote!\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T13:34:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nMuslim Brotherhood supporters are raiding the polling stations and stealing the elections.\nRecover it!!\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T13:23:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah Movement spokesperson announces the targeting of two military transport aircraft with two ballistic missiles, one at Najran Airport and the other at King Khalid Air Base in Khamis Mushait, saying both operations achieved their objectives.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T13:17:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 Benjamin Netanyahu posted on X: \nThis is an emergency call!\nThe future of our Jewish state hangs in the balance. Go out and vote right now!\nHigher-than-usual voter turnout in the Arab sector compared to the low turnout of right-wing voters.\nWe must wake up - we must not stay home.\nWe're going out and voting right and bringing as many people as possible!\nI cannot determine whether he\u2019s just doing his usual thing (scaring the shit out of people with lies so they do what he wants) or if right wing turnout is genuinely low today.\nCountrywide, there has been 44.9% voter turnout so far as of 2:00 PM Israeli time. For comparison, in the previous election, the turnout was 38.9%.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 According to Isabel Kershner, a reporter in the NY Times, she said [the following](https://www.nytimes.com/live/2026/10/27/world/israel-elections/8ac5e681-1b82-58b8-9867-1a8d37f51b38):\nThe exit polls suggest a record showing by Israel\u2019s predominantly Arab parties, which are every bit as eager to send Prime Minister Benjamin Netanyahu into retirement as are the Jewish opposition parties. \nBut opposition leaders have set conditions for entering a new government that they say the Arab parties have not met \u2014 including declaring Hamas a terrorist organization. \nThat means that Gadi Eisenkot\u2019s bloc is rejecting partners who could provide a clear route to a governing majority to replace Mr. Netanyahu.\nWe will have to see what will the Arab parties do for this matter.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T13:25:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 Israeli Elections - 4/4\nHere's the lingering question that a lot of people are asking. If the anti-Netanyahu bloc led by Gadi Eisenkot reaches 61 seats, what fundamentally changes, if anything?\nMore than nothing, but not a whole lot!\nOn Gaza: Nothing is going to fundamentally change. Both blocs will maintain the IDF presence in Gaza. Neither bloc is interested in ending the genocide. Eisenkot\u2019s main beef with Netanyahu was quibbling over rescuing hostages and propping up Hamas to undermine the Palestinian Authority.\nA Palestinian State: No matter who wins, Palestinians lose. Statehood is not on the table for either bloc. The main difference with an Eisenkot government would be the same ugly apartheid conditions with better PR discipline.\nIran, Lebanon, Syria: No difference whatsoever. Eisenkot is salty about competently conducting the wars. He is still in favor of them. He just wants higher-quality violence.\nThe West Bank: This is the one big split between the two major blocs. Netanyahu is in the process of total annexation of the West Bank. He gave the psychopath Itamar Ben Gvir control of the police and he has allowed Smotrich\u2019s settler gangs to run wild. Eisenkot has publicly stated he will bring the area back under military command, bring back administrative detention for violent settlers, demolish their illegal outposts, etc. Basically he is promising to initiate a crackdown on the settler gangs, in theory.\nNetanyahu himself: He is currently on trial for bribery, probably guilty. This would be another important change. Netanyahu has used the powers of the state to shield himself from prosecution. So maybe he\u2019ll go to prison this time? Who knows.\nOctober 7th: Eisenkot is promising to create a state commission with subpoena power to investigate the entire event and everything that preceded it. This commission has been consistently blocked by Netanyahu. Needless to say, he\u2019s hiding something. So, maybe we find out he let it happen on purpose. Or maybe nothing happens.\nThe draft: Eisenkot would draft the Haredim and there would be a temper tantrum of monumental proportions. This is mostly just for the slapstick comedy we'll get from watching the Israelis fight amongst themselves.\nIn short: Apartheid with better optics or genocidal pogroms with zero fucks given. These are the choices.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T09:05:29+00:00",
+      "timestamp": "2026-10-27T20:37:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -895,6 +741,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f\ud83c\uddee\ud83c\uddf7 Iran's Supreme Leader calls for an end to war and stronger regional security\nAyatollah Mojtaba Khamenei has called for securing Tehran's terms to end the war with the US and Israel, warning against allowing the country to remain trapped in a state of \u201cneither war nor peace.\u201d\nMeeting with Supreme National Security Council Secretary Mohsen Rezaei, Khamenei insisted that any settlement must protect Iran's interests and those of the Resistance Front.\nThe talks also addressed Iran's control over the Strait of Hormuz, regional security, and closer cooperation with neighboring countries.\nKhamenei credited Iran's resistance with putting its adversaries under pressure and called for stronger national unity, while Rezaei outlined plans for regional security arrangements built around the region's own countries.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T19:04:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
