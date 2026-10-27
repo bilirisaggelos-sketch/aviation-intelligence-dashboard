@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T06:44:14.083856+00:00",
+  "generated_at": "2026-10-27T12:45:11.103548+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -269,6 +269,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3759\r\nIssue Time: 2026 Oct 27 1138 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3758\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 3304 pfu\nMax time: 2026 Oct 26 1105 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-27 11:38:11.233",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3758\r\nIssue Time: 2026 Oct 26 0517 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3757\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 2864 pfu\nMax time: 2026 Oct 25 1820 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -344,21 +363,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5443\r\nIssue Time: 2026 Oct 23 1927 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 23 1926 UTC\nValid To: 2026 Oct 24 0900 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-23 19:27:05.807",
+      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+      "text": "Turnout so far highest in decades as Israelis vote in pivotal election\nThe elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-27T11:11:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -370,17 +389,16 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-27T02:01:27+00:00",
+      "timestamp": "2026-10-27T11:44:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "Clash Report"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Trump administration illegally fired James Comey's daughter, judge rules",
@@ -390,7 +408,26 @@
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-26T19:27:21+00:00",
+      "timestamp": "2026-10-27T12:28:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "text": "What does Israel's election mean for Gaza and the wider world?\nThe BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-27T10:17:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -499,42 +536,21 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Trump on Iran:\nIranians now have a missile that essentially reached Europe.\nThey weren\u2019t supposed to. We said, \u201cWhere the hell did they get that?\u201d",
+      "text": "Netanyahu Claims Opponents Are Trying to Steal Israel's Election\nBenjamin Netanyahu has accused opponents of trying to steal Israel's election, citing a police investigation into alleged vote buying linked to Ra'am as Likud reportedly prepares to challenge results in Arab-majority polling stations if it loses.\n[READ MORE](https://clashreport.com/world/articles/netanyahu-claims-opponents-are-trying-to-steal-israel-s-election-l99e05xxuke)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T23:47:12+00:00",
+      "timestamp": "2026-10-27T11:41:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Former FBI Director James Comey has been charged with leaking national defense information, marking the Trump administration's third criminal case against him. \nThe charges stem from an alleged disclosure of classified information to the New York Times in 2016. \nComey denies wrongdoing, calling the prosecution an \u201cappalling abuse\u201d of the Justice Department.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T23:22:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
         "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -635,12 +651,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf7 According to Reuters, Hezbollah has received tens of millions of dollars from Iran in recent months, in addition to a sum of about $200 million allocated by Tehran for the needs of refugee families in southern Lebanon.\nIn recent months, Hezbollah has been preparing for the possibility of a renewed war, trying to rebuild its weapons arsenal and command system.\nThe organization is currently focused on acquiring explosives and producing drones.",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Coalition spokesperson says air defenses intercepted and destroyed two ballistic missiles launched by Ansar Allah toward the Saudi capital, Riyadh.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T21:51:56+00:00",
+      "timestamp": "2026-10-27T12:04:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -654,12 +670,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddeaAnsarllah operation updates for now:\nTargeting Riyadh International Airport with missiles barrage\nTargeting PLC and Saudi military positions at Aden and Lahj\nShooting down Wing Loong ll drone belonging to Saudi over Taiz Governorate \nTargeting Saudi military positions at Asir Najran and by using Samad drones \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 \u2014 A source in Baghdad Police: Two drones carrying no explosives were intercepted near the Green Zone in the Iraqi capital, Baghdad.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T11:25:45+00:00",
+      "timestamp": "2026-10-27T12:01:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -673,12 +689,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drone strikes hit Russia\u2019s Voronezh, killing two and injuring 17, including a child, on October 26.\nA drone struck the Chizhov Gallery business centre, while fires were reported at industrial facilities. The Voronezhsintezkauchuk synthetic rubber plant was also reported as a possible target, though damage there remains unclear.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 \u2014 Head of Iraq\u2019s Security Media Cell: The sound heard in Baghdad was caused by the interception of an unidentified drone near the Green Zone. The drone was intercepted.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T07:33:24+00:00",
+      "timestamp": "2026-10-27T11:38:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -686,6 +702,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iran\u2019s IRGC conducts missile tests in the Iranian city of Kerman.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T10:20:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "Israeli Elections - 4/4\nHere's the lingering question that a lot of people are asking. If the anti-Netanyahu bloc led by Gadi Eisenkot reaches 61 seats, what fundamentally changes, if anything?\nMore than nothing, but not a whole lot!\nOn Gaza: Nothing is going to fundamentally change. Both blocs will maintain the IDF presence in Gaza. Neither bloc is interested in ending the genocide. Eisenkot\u2019s main beef with Netanyahu was quibbling over rescuing hostages and propping up Hamas to undermine the Palestinian Authority.\nA Palestinian State: No matter who wins, Palestinians lose. Statehood is not on the table for either bloc. The main difference with an Eisenkot government would be the same ugly apartheid conditions with better PR discipline.\nIran, Lebanon, Syria: No difference whatsoever. Eisenkot is salty about competently conducting the wars. He is still in favor of them. He just wants higher-quality violence.\nThe West Bank: This is the one big split between the two major blocs. Netanyahu is in the process of total annexation of the West Bank. He gave the psychopath Itamar Ben Gvir control of the police and he has allowed Smotrich\u2019s settler gangs to run wild. Eisenkot has publicly stated he will bring the area back under military command, bring back administrative detention for violent settlers, demolish their illegal outposts, etc. Basically he is promising to initiate a crackdown on the settler gangs, in theory.\nNetanyahu himself: He is currently on trial for bribery, probably guilty. This would be another important change. Netanyahu has used the powers of the state to shield himself from prosecution. So maybe he\u2019ll go to prison this time? Who knows.\nOctober 7th: Eisenkot is promising to create a state commission with subpoena power to investigate the entire event and everything that preceded it. This commission has been consistently blocked by Netanyahu. Needless to say, he\u2019s hiding something. So, maybe we find out he let it happen on purpose. Or maybe nothing happens.\nThe draft: Eisenkot would draft the Haredim and there would be a temper tantrum of monumental proportions. This is mostly just for the slapstick comedy we'll get from watching the Israelis fight amongst themselves.\nIn short: Apartheid with better optics or genocidal pogroms with zero fucks given. These are the choices.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T09:05:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -788,6 +842,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5 Lockheed Martin bags $694M contract to build hypersonic missile - report\nDespite a record of failed flight tests that nearly killed the program in 2023, the US Air Force has awarded Lockheed Martin a $694 million contract to move the AGM-183A Air-Launched Rapid Response Weapon (ARRW) beyond prototyping and into production, Stars and Stripes reports.\nWith a range of 1,000 miles and speeds exceeding Mach 5, the boost-glide missile destroys its target on impact using kinetic energy. Testing has mainly involved the B-52H, with the B-1B also slated for future use. The deal was signed on September 29 under the Pentagon\u2019s Enterprise-Wide Agile Acquisition Contract model \u2014 a fast-track mechanism that bypasses the usual oversight.\nEven with the new contract in hand, the Pentagon has not disclosed how many missiles it will buy or when they will enter service \u2014 leaving Washington\u2019s long-running hypersonic ambitions facing another test: turning years of development and spending into a deployable weapon.\nIn October, the US Army confirmed that the country is running more than three years behind schedule in fielding its first hypersonic weapons system, Dark Eagle. Lockheed has burned through billions of dollars on programs that repeatedly miss their deadlines \u2014 while the Pentagon keeps writing the checks.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T12:13:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udd0d Netanyahu tried to ignite a war to save his election \u2014 report\nPrime Minister Benjamin Netanyahu spent weeks pushing for a strike on Iran just days before Tuesday's election, the New York Times reported. But [his army chief found no urgent military need and refused](https://t.me/geopolitics_prime/76849) \u2014 stripping the prime minister of his \"security crisis\" cover for the timing.\nThe desperate sequence:\n\ud83d\udd34 When the general blocked a full strike, Netanyahu pushed for a smaller \"action\" \u2014 one the general feared would deliberately bait Iran into attacking Israel.\n\ud83d\udd34 Iranian sources say Israeli jets actually crossed into Iranian airspace over the weekend. Iran deliberately chose not to shoot, recognizing the flights as a trap designed to drag them into a war before Trump had committed to joining.\n\ud83d\udd34 A former Israeli defense minister has now asked the attorney general to investigate the whole affair as treason.\nIf he loses the vote, his last resort is the one sources are warning about: launching a post-election strike to trigger an emergency, effectively holding the political system hostage to block his rivals and force a unity government that keeps him in charge.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -832,45 +905,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-27T01:08:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0a Vance blames 'tinpot dictators' for high gas prices\n\"They skyrocket every time some tinpot dictator decides to throw a tantrum.\"\nTrump's tantrum in February led to one of the biggest hikes in fuel prices, with diesel reaching an all-time high.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T21:15:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran's new battle tactics threaten to shut down Hormuz traffic\nForces from the Islamic Revolutionary Guard Corps are now targeting ships' engine rooms instead of other parts of the hull. The sustained damage typically brings a vessel to a halt and requires lengthy repairs, and in some cases has caused the ship[ to sink entirely](https://t.me/geopolitics_prime/76493). Iran has repeatedly warned that unauthorized passage through the Strait of Hormuz exposes ships to Iranian attacks.\nTo carry out these strikes, Iran has reportedly begun relying more heavily on anti-ship missiles and drones equipped with infrared guidance, according to a recent Bloomberg article. IR guidance allows the weapon to home in on the hot engine room on its own, without depending on radio signals that are easy to jam.\nThe shift matters because high gasoline prices remain a political vulnerability for Donald Trump, despite efforts to ramp up oil exports. The new attacks deter shipowners from attempting the crossing and undercut US claims that trade through the strait is returning to normal.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T19:32:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
