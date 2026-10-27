@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-10-27T12:45:11.103548+00:00",
+  "generated_at": "2026-10-27T18:23:16.769337+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Sunday, November 1, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/27/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNew York, NY, Saturday, October 31, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/27/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nCEIBA, PR, Saturday, October 31, 2026 through Saturday, March 13, 2027 Local\nFacility: ZSU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/27/2026",
+      "location": "ZSU PR",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nColumbus, OH, Wednesday, October 28, 2026 through Wednesday, October 28, 2026 Local\nFacility: ZID",
@@ -363,25 +420,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
-      "text": "Turnout so far highest in decades as Israelis vote in pivotal election\nThe elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-27T11:11:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Ex-FBI chief James Comey faces federal charges for third time",
       "text": "Ex-FBI chief James Comey faces federal charges for third time\nComey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
       "source": "BBC",
@@ -390,25 +428,6 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-10-27T11:44:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-      "text": "Trump administration illegally fired James Comey's daughter, judge rules\nMaurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-27T12:28:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -497,51 +516,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran continues its ballistic missile exercises",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T13:49:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 Israeli Prime Minister, Benjamin Netanyahu: \u2018We have information indicating that Iran wants to attack us before the election\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T13:47:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Netanyahu Claims Opponents Are Trying to Steal Israel's Election\nBenjamin Netanyahu has accused opponents of trying to steal Israel's election, citing a police investigation into alleged vote buying linked to Ra'am as Likud reportedly prepares to challenge results in Arab-majority polling stations if it loses.\n[READ MORE](https://clashreport.com/world/articles/netanyahu-claims-opponents-are-trying-to-steal-israel-s-election-l99e05xxuke)",
+      "text": "WATCH: A drone chases a running person through a dense forest with no GPS, no internet, and no human steering it. \nThe drone flies about 2 meters off the ground at jogging speed, builds a 3D map of the trees as it goes, and guesses where the person is headed when trees block its view. \nEverything runs on board the drone itself. \nPurdue\u2019s IDEAS Lab built the hardware, but the software leans on open-source tools, mostly from the University of Hong Kong, so it isn\u2019t entirely made from scratch. \nThe same lab also has a separate $1.5 million Army research deal for robots that work without GPS.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T11:41:16+00:00",
+      "timestamp": "2026-10-27T18:07:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -551,6 +532,26 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Israel's Gadi Eisenkot:\nIn recent hours, Netanyahu has returned to his familiar tricks, to lies and fear-mongering, in order to mobilize the masses. \nThe same lies from previous election campaigns. This puts the change at risk.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T16:22:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -651,12 +652,32 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Coalition spokesperson says air defenses intercepted and destroyed two ballistic missiles launched by Ansar Allah toward the Saudi capital, Riyadh.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83d\uddf3 \u2014 Israeli Yashar Party leader Gadi Eisenkot:\nIn recent hours, Netanyahu has returned to his familiar tricks, to lies and fear-mongering, in order to mobilize the masses. \nThe same lies from previous election campaigns. This puts the change at risk.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T12:04:45+00:00",
+      "timestamp": "2026-10-27T16:36:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83d\uddf3 \u2014 Israeli Prime Minister Benjamin Netanyahu\u2019s Likud party says it has requested an extension of voting hours beyond 10:00 PM.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T15:43:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -670,12 +691,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 \u2014 A source in Baghdad Police: Two drones carrying no explosives were intercepted near the Green Zone in the Iraqi capital, Baghdad.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Ballistic missiles launched for testing from several provinces across Iran as part of exercises conducted by the Islamic Revolutionary Guard Corps (IRGC).\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T12:01:19+00:00",
+      "timestamp": "2026-10-27T14:20:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -689,12 +710,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6 \u2014 Head of Iraq\u2019s Security Media Cell: The sound heard in Baghdad was caused by the interception of an unidentified drone near the Green Zone. The drone was intercepted.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83d\uddf3 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nThere are no celebrations now! No celebrations, no cakes, no sandwiches, no nothing! No beach, no barbecues, no nothing!\nGet people out to vote!\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T11:38:38+00:00",
+      "timestamp": "2026-10-27T13:34:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -708,12 +729,31 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iran\u2019s IRGC conducts missile tests in the Iranian city of Kerman.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nMuslim Brotherhood supporters are raiding the polling stations and stealing the elections.\nRecover it!!\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T10:20:47+00:00",
+      "timestamp": "2026-10-27T13:23:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah Movement spokesperson announces the targeting of two military transport aircraft with two ballistic missiles, one at Najran Airport and the other at King Khalid Air Base in Khamis Mushait, saying both operations achieved their objectives.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T13:17:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -727,7 +767,26 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "Israeli Elections - 4/4\nHere's the lingering question that a lot of people are asking. If the anti-Netanyahu bloc led by Gadi Eisenkot reaches 61 seats, what fundamentally changes, if anything?\nMore than nothing, but not a whole lot!\nOn Gaza: Nothing is going to fundamentally change. Both blocs will maintain the IDF presence in Gaza. Neither bloc is interested in ending the genocide. Eisenkot\u2019s main beef with Netanyahu was quibbling over rescuing hostages and propping up Hamas to undermine the Palestinian Authority.\nA Palestinian State: No matter who wins, Palestinians lose. Statehood is not on the table for either bloc. The main difference with an Eisenkot government would be the same ugly apartheid conditions with better PR discipline.\nIran, Lebanon, Syria: No difference whatsoever. Eisenkot is salty about competently conducting the wars. He is still in favor of them. He just wants higher-quality violence.\nThe West Bank: This is the one big split between the two major blocs. Netanyahu is in the process of total annexation of the West Bank. He gave the psychopath Itamar Ben Gvir control of the police and he has allowed Smotrich\u2019s settler gangs to run wild. Eisenkot has publicly stated he will bring the area back under military command, bring back administrative detention for violent settlers, demolish their illegal outposts, etc. Basically he is promising to initiate a crackdown on the settler gangs, in theory.\nNetanyahu himself: He is currently on trial for bribery, probably guilty. This would be another important change. Netanyahu has used the powers of the state to shield himself from prosecution. So maybe he\u2019ll go to prison this time? Who knows.\nOctober 7th: Eisenkot is promising to create a state commission with subpoena power to investigate the entire event and everything that preceded it. This commission has been consistently blocked by Netanyahu. Needless to say, he\u2019s hiding something. So, maybe we find out he let it happen on purpose. Or maybe nothing happens.\nThe draft: Eisenkot would draft the Haredim and there would be a temper tantrum of monumental proportions. This is mostly just for the slapstick comedy we'll get from watching the Israelis fight amongst themselves.\nIn short: Apartheid with better optics or genocidal pogroms with zero fucks given. These are the choices.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 Benjamin Netanyahu posted on X: \nThis is an emergency call!\nThe future of our Jewish state hangs in the balance. Go out and vote right now!\nHigher-than-usual voter turnout in the Arab sector compared to the low turnout of right-wing voters.\nWe must wake up - we must not stay home.\nWe're going out and voting right and bringing as many people as possible!\nI cannot determine whether he\u2019s just doing his usual thing (scaring the shit out of people with lies so they do what he wants) or if right wing turnout is genuinely low today.\nCountrywide, there has been 44.9% voter turnout so far as of 2:00 PM Israeli time. For comparison, in the previous election, the turnout was 38.9%.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T13:25:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 Israeli Elections - 4/4\nHere's the lingering question that a lot of people are asking. If the anti-Netanyahu bloc led by Gadi Eisenkot reaches 61 seats, what fundamentally changes, if anything?\nMore than nothing, but not a whole lot!\nOn Gaza: Nothing is going to fundamentally change. Both blocs will maintain the IDF presence in Gaza. Neither bloc is interested in ending the genocide. Eisenkot\u2019s main beef with Netanyahu was quibbling over rescuing hostages and propping up Hamas to undermine the Palestinian Authority.\nA Palestinian State: No matter who wins, Palestinians lose. Statehood is not on the table for either bloc. The main difference with an Eisenkot government would be the same ugly apartheid conditions with better PR discipline.\nIran, Lebanon, Syria: No difference whatsoever. Eisenkot is salty about competently conducting the wars. He is still in favor of them. He just wants higher-quality violence.\nThe West Bank: This is the one big split between the two major blocs. Netanyahu is in the process of total annexation of the West Bank. He gave the psychopath Itamar Ben Gvir control of the police and he has allowed Smotrich\u2019s settler gangs to run wild. Eisenkot has publicly stated he will bring the area back under military command, bring back administrative detention for violent settlers, demolish their illegal outposts, etc. Basically he is promising to initiate a crackdown on the settler gangs, in theory.\nNetanyahu himself: He is currently on trial for bribery, probably guilty. This would be another important change. Netanyahu has used the powers of the state to shield himself from prosecution. So maybe he\u2019ll go to prison this time? Who knows.\nOctober 7th: Eisenkot is promising to create a state commission with subpoena power to investigate the entire event and everything that preceded it. This commission has been consistently blocked by Netanyahu. Needless to say, he\u2019s hiding something. So, maybe we find out he let it happen on purpose. Or maybe nothing happens.\nThe draft: Eisenkot would draft the Haredim and there would be a temper tantrum of monumental proportions. This is mostly just for the slapstick comedy we'll get from watching the Israelis fight amongst themselves.\nIn short: Apartheid with better optics or genocidal pogroms with zero fucks given. These are the choices.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -842,69 +901,69 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u2753Tucker Carlson questions who really controls Trump over Iran war\nDonald Trump's continued support for Israeli Prime Minister Benjamin Netanyahu raises questions about who is influencing US policy toward Iran, Tucker Carlson said in an interview with George Galloway on MOATS.\nCarlson pointed to the July 2024 assassination attempt against Trump in Butler, Pennsylvania, citing former US counterterrorism chief Joe Kent's calls for closer scrutiny of the incident.\n\ud83d\udde3 \"I have no proof, but I'm saying that one of our top intelligence chiefs [...] has said publicly more than once, if you want to understand why we went to war in Iran, you should take a close look at who shot Trump in Butler, Pennsylvania, and why,\" Carlson said.\nCarlson suggested that unanswered questions surrounding the shooting could shed light on Trump's decisions regarding Iran.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T17:42:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddec\ud83c\udde7 King Charles heads to the Caribbean as colonial wounds remain open\n\u00a0\nKing Charles III and Queen Camilla begin a nine-day Caribbean tour on October 27, visiting the Bahamas and Guyana before the Commonwealth summit in Antigua and Barbuda, as former British colonies intensify demands for Britain to confront slavery\u2019s legacy.\n\u00a0\nWith Buckingham Palace earlier ruling out a formal apology, Caribbean leaders are currently pressing Britain on several fronts:\n\u00a0\n\ud83d\udfe5 Reparations: CARICOM, a regional bloc representing Caribbean countries, wants reparations on the Commonwealth summit agenda, from financial compensation to the return of cultural artifacts\n\ud83d\udfe5 Political independence: The Bahamas remains a constitutional monarchy despite gaining independence in 1973, while Jamaica pursues reparations and moves towards becoming a republic\n\ud83d\udfe5 Indigenous rights: In Guyana, community leaders raise concerns over land disputes and their lack of representation in decisions affecting their communities\n\u00a0\nFor some, the visit raises a deeper question: why does the British monarch still hold such a prominent place in the region? \u201cWhy do we still have a king? What does this person really represent to us?\u201d asked Niambi Hall Campbell-Dean, chair of the Bahamas National Reparations Committee.\n\u00a0\nCARICOM Secretary-General Carla Barnett, meanwhile, described reparations as something that is \u201cfundamentally about justice\u201d and building \u201ca just and equitable future\u201d for descendants of those who endured colonial enslavement.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T17:01:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel's elections unlikely to change course on Gaza and Iran\nIsrael's opposition says it will offer an alternative to Benjamin Netanyahu, but big changes in policy toward Gaza and Iran seem unlikely no matter who wins the elections, according to the Wall Street Journal.\nGadi Eisenkot, a former military chief who is now a top Netanyahu rival, helped create the Dahiya Doctrine, which calls for using overwhelming force against militant strongholds. He also sat in Netanyahu's war cabinet and has raised doubts about whether regime change in Iran is possible, instead of rejecting military action outright.\nAnother opposition leader, Naftali Bennett, has rejected concessions to Palestinians. Meanwhile, polls show growing right-wing sentiment among Jewish Israelis and continued support for an Israeli military presence in Gaza and Lebanon.\nAnalysts say opposition candidates must appeal to Netanyahu\u2019s right-wing voters to win, leaving little room for a major shift in security policy.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T15:38:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udcb5 Lockheed Martin bags $694M contract to build hypersonic missile - report\nDespite a record of failed flight tests that nearly killed the program in 2023, the US Air Force has awarded Lockheed Martin a $694 million contract to move the AGM-183A Air-Launched Rapid Response Weapon (ARRW) beyond prototyping and into production, Stars and Stripes reports.\nWith a range of 1,000 miles and speeds exceeding Mach 5, the boost-glide missile destroys its target on impact using kinetic energy. Testing has mainly involved the B-52H, with the B-1B also slated for future use. The deal was signed on September 29 under the Pentagon\u2019s Enterprise-Wide Agile Acquisition Contract model \u2014 a fast-track mechanism that bypasses the usual oversight.\nEven with the new contract in hand, the Pentagon has not disclosed how many missiles it will buy or when they will enter service \u2014 leaving Washington\u2019s long-running hypersonic ambitions facing another test: turning years of development and spending into a deployable weapon.\nIn October, the US Army confirmed that the country is running more than three years behind schedule in fielding its first hypersonic weapons system, Dark Eagle. Lockheed has burned through billions of dollars on programs that repeatedly miss their deadlines \u2014 while the Pentagon keeps writing the checks.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-27T12:13:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Netanyahu tried to ignite a war to save his election \u2014 report\nPrime Minister Benjamin Netanyahu spent weeks pushing for a strike on Iran just days before Tuesday's election, the New York Times reported. But [his army chief found no urgent military need and refused](https://t.me/geopolitics_prime/76849) \u2014 stripping the prime minister of his \"security crisis\" cover for the timing.\nThe desperate sequence:\n\ud83d\udd34 When the general blocked a full strike, Netanyahu pushed for a smaller \"action\" \u2014 one the general feared would deliberately bait Iran into attacking Israel.\n\ud83d\udd34 Iranian sources say Israeli jets actually crossed into Iranian airspace over the weekend. Iran deliberately chose not to shoot, recognizing the flights as a trap designed to drag them into a war before Trump had committed to joining.\n\ud83d\udd34 A former Israeli defense minister has now asked the attorney general to investigate the whole affair as treason.\nIf he loses the vote, his last resort is the one sources are warning about: launching a post-election strike to trigger an emergency, effectively holding the political system hostage to block his rivals and force a unity government that keeps him in charge.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T04:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udcb0 Iran Gives Old Batteries Graphene Upgrade to Cut Imports\nIranian manufacturer Platin Iran has started selling graphene-enhanced lead-acid batteries, claiming over 60% more capacity and potentially 50% lower lifetime operating costs. For a technology dating back to the 19th century, that's a fairly ambitious second act.\nInstead of reinventing the battery, Iranian researchers added a three-dimensional form of graphene to its electrodes. That helps electricity flow and aims to slow the corrosion and chemical buildup that wear ordinary batteries out.\nThat matters for the unglamorous machinery keeping modern life running, from cell towers to data centers and power plants. When the electricity goes out, backup batteries keep communications and essential controls working. Nobody wants to discover the weak link during a blackout.\nPlatin Iran says the new design cuts hydrogen gas release by at least 10% and reduces corrosion. In June, the company reported roughly double the charge-discharge cycle life of ordinary batteries, although buyers would pay about 30% more upfront. The idea is to recover that premium through fewer replacements.\nOctober's figures put the capacity gain above 60% and the increase in service life at no less than 10%. Those are different measures, and a longer life in laboratory cycling doesn't guarantee the same result in everyday standby use. The 50% savings estimate still needs proof at scale.\nThe project began in 2021 with researchers from Amirkabir University of Technology and the Institute for Color Science and Technology. It has since reached industrial production, with two units sold, including one to the Tabriz Gas Transmission Company. It's an early commercial foothold, rather than a mass rollout.\nIran also has an import bill to tackle, with Platin Iran estimating that comparable batteries worth roughly $4M enter the country each year. Replacing even part of that demand with domestic production would give operators another source of equipment and reduce dependence on overseas suppliers.\nThere may be flashier ways to advertise a technological breakthrough, but improving a battery already used across industry has its advantages. If the promised durability survives real-world testing, Iran could turn a familiar piece of backup equipment into a modest but useful win for its industrial independence.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T03:59:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3 Trump stunned by Iranian missile reach after claiming the military was destroyed\nPresident Trump is expressing shock that Iran possesses a missile capable of reaching Europe \u2014 directly contradicting months of his administration\u2019s claims that US and Israeli airstrikes had obliterated Iran's arsenal.\n\"They now have a missile that essentially reached Europe. They weren\u2019t supposed to. We said, 'Where the hell did they get that?'\"\nWestern intelligence assessed [Iran kept roughly 75% of its pre-war ballistic missile arsenal](https://t.me/geopolitics_prime/75989) despite eight months of bombing.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T01:08:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
