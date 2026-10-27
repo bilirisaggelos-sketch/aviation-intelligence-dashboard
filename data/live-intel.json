@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T01:21:18.987750+00:00",
+  "generated_at": "2026-10-27T06:44:14.083856+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -212,25 +212,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMemphis, TN, Monday, October 26, 2026 through Monday, October 26, 2026 Local\nFacility: ZME",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/24/2026",
-      "location": "ZME TN",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Sunday, October 25, 2026 through Saturday, October 31, 2026 Local\nFacility: ZJX",
       "source": "FAA",
       "source_type": "official",
@@ -382,6 +363,26 @@
       "verified_source_count": 1
     },
     {
+      "title": "Ex-FBI chief James Comey faces federal charges for third time",
+      "text": "Ex-FBI chief James Comey faces federal charges for third time\nComey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-27T02:01:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "BBC World News",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
       "title": "Trump administration illegally fired James Comey's daughter, judge rules",
       "text": "Trump administration illegally fired James Comey's daughter, judge rules\nMaurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director.",
       "source": "BBC",
@@ -527,12 +528,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "BBC World News",
         "Clash Report"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -546,12 +548,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -679,23 +682,22 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (Houthis) announced that they had targeted Presidential Leadership Council (PLC) troop concentrations and weapons depots in the Salah al-Din area of Aden Governorate and the Al-Wahat area of Lahij Governorate using several ballistic missiles.",
+      "text": "Russian soldier struggles with a hand grenade but eventually pulls the pin and put it beneath his head committing suicide while a Ukrainian drone is recording it, the operators can be seen laughing and finding it rather amusing.\nWe have wrote about this extensively, why these soldiers are conditioned or indoctrinated to act this way, either wounded or hopeless, they will not let the pension of the contract be revoked\u2014a hundred thousand dollars of contracted money will be deposited to them or their families in they survive a year or die trying\u2014so the fear of that loss will incentives these behaviors, not to mention lack of education and effective Russian propaganda that has convinced these soldiers that Ukrainian captivity is worse than death, and if it is not, once they return to Russia after being a POW, the Russian army will not view them as combat veterans and most likely subjugate them further.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T03:23:38+00:00",
+      "timestamp": "2026-10-27T06:10:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -709,72 +711,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 A missile launcher was struck in Sirik, Hormozgan Province, Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Footage of the Russian ballistic missile attack targeting Kyiv, Ukraine.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T03:21:08+00:00",
+      "timestamp": "2026-10-27T03:14:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
+        "CASELS",
+        "Our Wars Today"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 An Israeli drone strike targets 3 security personnel in the campus of the Islamic University west of Gaza City.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfe AFP: Three people, including a commander from Syria\u2019s dissolved Al-Qaeda affiliate, were killed in a drone strike on a highway northeast of Damascus on Monday.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T03:17:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf2 A US Lucas suicide drone was shot down over Bandar Abbas, Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T03:15:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\ud83c\uddf8\ud83c\udde6\u274c\ud83c\uddfe\ud83c\uddea \u2014 The Saudi-led Coalition (Joint Forces) announced the interception of a ballistic missile over Riyadh and the destruction of two ballistic missile launchers in Sanaa, one of which was used to target the Saudi capital.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T03:14:39+00:00",
+      "timestamp": "2026-10-27T03:13:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -788,12 +750,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Riyadh\u2019s King Khalid International Airport reopened Terminals 1 and 2 today, roughly two weeks after a Houthi missile strike killed 13 people and injured more than 300 there, the National reports.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 The IDF intercepted a drone attempting to smuggle drugs into the Gaza Strip earlier this morning.\nAccording to the military, the drone was carrying Captagon pills and hashish.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T03:12:21+00:00",
+      "timestamp": "2026-10-27T03:11:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -801,6 +763,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7\ud83c\uddf8\ud83c\uddfe The Lebanese Army destroyed around 180 dunams of cannabis crops in Jbab al-Homr, Hermel, and seized an estimated 60 tonnes of cannabis.\nIn Brital, troops arrested a wanted man accused of forming an armed kidnapping and robbery gang and trafficking drugs, seizing a rocket projectile and narcotics. Three Lebanese suspects were also arrested over smuggling in Bani Sakhr, Akkar, where weapons, ammunition and military equipment were confiscated.\nAnother 22 Syrians were detained across the Baalbek\u2013Hermel region over illegal entry and lacking valid documentation. The seized items were handed over, and investigations are underway under judicial supervision.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T03:11:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Netanyahu tried to ignite a war to save his election \u2014 report\nPrime Minister Benjamin Netanyahu spent weeks pushing for a strike on Iran just days before Tuesday's election, the New York Times reported. But [his army chief found no urgent military need and refused](https://t.me/geopolitics_prime/76849) \u2014 stripping the prime minister of his \"security crisis\" cover for the timing.\nThe desperate sequence:\n\ud83d\udd34 When the general blocked a full strike, Netanyahu pushed for a smaller \"action\" \u2014 one the general feared would deliberately bait Iran into attacking Israel.\n\ud83d\udd34 Iranian sources say Israeli jets actually crossed into Iranian airspace over the weekend. Iran deliberately chose not to shoot, recognizing the flights as a trap designed to drag them into a war before Trump had committed to joining.\n\ud83d\udd34 A former Israeli defense minister has now asked the attorney general to investigate the whole affair as treason.\nIf he loses the vote, his last resort is the one sources are warning about: launching a post-election strike to trigger an emergency, effectively holding the political system hostage to block his rivals and force a unity government that keeps him in charge.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T04:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udcb0 Iran Gives Old Batteries Graphene Upgrade to Cut Imports\nIranian manufacturer Platin Iran has started selling graphene-enhanced lead-acid batteries, claiming over 60% more capacity and potentially 50% lower lifetime operating costs. For a technology dating back to the 19th century, that's a fairly ambitious second act.\nInstead of reinventing the battery, Iranian researchers added a three-dimensional form of graphene to its electrodes. That helps electricity flow and aims to slow the corrosion and chemical buildup that wear ordinary batteries out.\nThat matters for the unglamorous machinery keeping modern life running, from cell towers to data centers and power plants. When the electricity goes out, backup batteries keep communications and essential controls working. Nobody wants to discover the weak link during a blackout.\nPlatin Iran says the new design cuts hydrogen gas release by at least 10% and reduces corrosion. In June, the company reported roughly double the charge-discharge cycle life of ordinary batteries, although buyers would pay about 30% more upfront. The idea is to recover that premium through fewer replacements.\nOctober's figures put the capacity gain above 60% and the increase in service life at no less than 10%. Those are different measures, and a longer life in laboratory cycling doesn't guarantee the same result in everyday standby use. The 50% savings estimate still needs proof at scale.\nThe project began in 2021 with researchers from Amirkabir University of Technology and the Institute for Color Science and Technology. It has since reached industrial production, with two units sold, including one to the Tabriz Gas Transmission Company. It's an early commercial foothold, rather than a mass rollout.\nIran also has an import bill to tackle, with Platin Iran estimating that comparable batteries worth roughly $4M enter the country each year. Replacing even part of that demand with domestic production would give operators another source of equipment and reduce dependence on overseas suppliers.\nThere may be flashier ways to advertise a technological breakthrough, but improving a battery already used across industry has its advantages. If the promised durability survives real-world testing, Iran could turn a familiar piece of backup equipment into a modest but useful win for its industrial independence.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-27T03:59:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
