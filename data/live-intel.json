@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-28T15:10:29.420239+00:00",
+  "generated_at": "2026-10-28T20:19:36.901400+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nAtlanta, GA, Friday, October 30, 2026 through Saturday, October 31, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/28/2026",
+      "location": "ZTL GA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nAtlanta, GA, Friday, October 30, 2026 through Friday, October 30, 2026 Local\nFacility: ZTL",
@@ -249,6 +268,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1133\r\nIssue Time: 2026 Oct 28 1638 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 29: None (Below G1) Oct 30: None (Below G1) Oct 31: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: G1 (Minor) geomagnetic storms are likely on 31 Oct primarily due to recurrent, positive polarity coronal hole high speed stream effects.\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-28 16:38:01.100",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3760\r\nIssue Time: 2026 Oct 28 0923 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3759\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 1789 pfu\nMax time: 2026 Oct 27 1715 UTC",
       "source": "NOAA Space Weather",
@@ -325,40 +363,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3756\r\nIssue Time: 2026 Oct 24 0904 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3755\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 3169 pfu\nMax time: 2026 Oct 23 1540 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "Ethiopia has received its first batch of Su-35 fighter jets.\nFrom the batch that was ordered years ago by Egypt & cancelled afterwards.\nAnd yes, Iran was interested in acquiring these. In fact it was widely believed they were intended to be delivered to Iran, but Russia seems to have other priorities, as usual.",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-24 09:04:23.307",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "What does Israel's election mean for Gaza and the wider world?",
-      "text": "What does Israel's election mean for Gaza and the wider world?\nThe BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-27T10:17:36+00:00",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T16:20:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -402,20 +421,39 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: Moments ago, explosions were heard in Bandar Lengeh and Bandar Kong, southern Iran\nLikely related to anti-ship cruise missile launches into the Strait of Hormuz. IRIAF jets were also heard airborne.",
+      "publisher": "Clash Report",
+      "text": "Pakistan Allows Taiwanese Airlines Back Into Its Airspace After Sudden Ban \nPakistan restored overflight rights to China Airlines and EVA Air hours after its defense minister linked their exclusion to the One China policy.\nThe carriers can now cross Pakistani airspace until March 27, 2027, with no official explanation for the reversal.\n[READ MORE](https://clashreport.com/world/articles/pakistan-allows-taiwanese-airlines-back-into-its-airspace-after-sudden-ban-luiibjysgzg)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-23T21:58:43+00:00",
+      "timestamp": "2026-10-28T19:40:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "How Long Can Ukraine Keep Fighting Without US Support?\nEuropean and domestic arms production give Ukraine staying power, but a US cutoff would expose gaps in missile defense, intelligence, and communications that money alone cannot quickly close.\n[READ MORE](https://clashreport.com/focus/articles/how-long-can-ukraine-keep-fighting-without-us-support-hm8r0lubs7g)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T18:10:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -497,25 +535,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f -\ufe0f Russian ministry recommends underground data centers following Ukrainian drone strikes. Existing data centers shou...](https://t.me/KyivIndependent_official/56428)\n\u26a1\ufe0f\ufe0f Russian ministry recommends\n[https://kyivindependent.com/russian-ministry-recommends-underground-data-centers-following-ukrainian-drone-strikes/]\nunderground data centers following Ukrainian drone strikes.\nExisting data centers should be protected by reducing their visibility from the\nair, and through layered defense systems, including reinforced structures,\nelectronic warfare measures, and drone defense systems. \u2013 Join Telegrams:\nt.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013\nSupport OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/56428)\n | t\u200b.me \u2022 Oct 26, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T12:26:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Additional footage of missile tests conducted by Iran\u2019s IRGC\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
@@ -523,25 +542,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-28T13:23:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iran\u2019s IRGC conducts missile tests in Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T13:17:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,6 +650,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Israeli warplanes bombard southern Lebanon \u2014 strikes hit Wadi al-Hajir, Kfar Tibnit, Baraachit\nIsraeli fighter jets have launched a new wave of airstrikes across southern Lebanon, continuing their violations of Lebanese sovereignty despite the ceasefire agreement.\nThermal flares were reported in the skies over southern Lebanon as the jets operated overhead.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T19:53:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde6\ud83c\uddeb\ud83c\uddf5\ud83c\uddf0Afghan forces strike Pakistani military bases amid renewed border clashes\nAfghan forces have launched attacks on Pakistani military bases and border checkpoints from Paktika province, Afghanistan's Defense Ministry said Wednesday, as cited by Ariana News.\nKabul described the strikes as retaliation for alleged Pakistani drone attacks near Angoor Adda, claiming several Pakistani soldiers were killed or wounded and military facilities damaged.\nPakistan, meanwhile, accused Afghan forces of firing on civilian areas in South Waziristan, reportedly killing one person and injuring five others.\nNeither side's claims about casualties and damage have been independently verified.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T16:16:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 US enforces a blockade of Iranian ports, citing 'severe' threat\nThe US has announced military operations to enforce a blockade across the Persian Gulf, the Strait of Hormuz, the Gulf of Oman, and the Arabian Sea, targeting Iran. It applies to all vessels, regardless of their flag or ownership.\nThe regional threat level has been raised to \u201csevere.\u201d\n\ud83d\udde3 \u201cNeutral vessels carrying neutral cargo or sailing in ballast between neutral ports in the Gulf of Oman and the Strait of Hormuz may be subject to questioning, visits, and searches to confirm their intentions regarding the blockade,\u201d the Joint Maritime Information Center (JMIC) said in its announcement.\nThe JMIC urges ships to keep monitoring VHF Channel 16 and follow all instructions from US forces.\nThe US first imposed its naval blockade targeting Iranian ports and shipping on April 13. It was temporarily lifted on June 18 but reinstated on July 14.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -675,63 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-28T14:13:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee2 Gulf states push for Hormuz reopening and wider Iran-US deal\nA multipronged peace deal is taking shape at the heart of Gulf states' plans to avert what they see as a disastrous renewal of war between Iran and the US, The Guardian reports.\nThe terms under discussion: the Strait of Hormuz would reopen within four days of sanctions being lifted \u2014 Iran has reportedly cut its original proposal from seven days to four \u2014 while the Houthis would withdraw substantial forces inside Yemen.\nIran is also reportedly acknowledging a mediating role in Yemen, with security council secretary Mohsen Rezaei meeting the Houthi ambassador on Tuesday.\nThe sticking point is Washington's demand, backed by European powers, that Iran readmit UN weapons inspectors to its nuclear sites. Tehran has refused, saying it will only hold talks in principle on its nuclear program. Instead, Iran kept the nuclear file off the agenda at the Tehran meeting with Saudi Arabia, Turkey, and Pakistan, focusing on a long-term regional security vision that would include the Gulf states and see the US military presence reduced or ended.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T10:08:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Regional war threatens to derail Saudi Arabia\u2019s economic makeover\nIranian strikes and a renewed Houthi offensive are hitting Saudi Arabia on multiple fronts, putting its economic ambitions at risk, the Cradle reports.\nThe damage is becoming increasingly difficult to contain:\n\ud83d\udd34 Attacks on the Manifa and Khurais oilfields reportedly cut production by around 600,000 barrels per day, while strikes on the East\u2013West Pipeline disrupted a critical route for exporting crude through the Red Sea\n\ud83d\udd34 Saudi Arabia\u2019s aviation sector also took a hit after around 45% of scheduled flights were canceled between October 8 and 25, with cancellations at Riyadh\u2019s King Khalid International Airport reaching approximately 86%\n\ud83d\udd34 The economic strain is mounting as the Saudi stock market fell 2.7% on October 25, its steepest single-session drop in 18 months, while the projected 2026 budget deficit rose to around 245 billion riyals\n\ud83d\udd34 Prolonged regional instability threatens investor confidence and could delay major projects central to Crown Prince Mohammed bin Salman\u2019s Vision 2030 plan to diversify Saudi Arabia\u2019s economy\nRiyadh now faces a difficult choice between escalating its confrontation with the Houthis and pursuing a political settlement with Sanaa. Neither continuing the conflict nor the concessions required for peace comes without a cost.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T09:27:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 US burns through $47B in Iran war - report\nThe final bill could climb even higher with the US military now staring down the cost of replacing lost weapons and equipment, Reuters reports, citing Department of War data.\nThe breakdown shows exactly where much of the money is heading:\n\ud83d\udd34 More than $29 billion is projected to replace munitions used during the conflict\n\ud83d\udd34 Over $6 billion will be needed to replace military equipment and losses, including aircraft and drones\n\ud83d\udd34 The total has surged from $25 billion in late April to $37.5 billion in July before surpassing $47 billion in the latest Pentagon estimate\nThe bombs may have stopped falling, but the bill keeps climbing.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T08:46:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
