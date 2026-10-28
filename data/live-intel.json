@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T08:11:31.094893+00:00",
+  "generated_at": "2026-10-28T15:10:29.420239+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -250,6 +250,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3760\r\nIssue Time: 2026 Oct 28 0923 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3759\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 1789 pfu\nMax time: 2026 Oct 27 1715 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-28 09:23:11.410",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3759\r\nIssue Time: 2026 Oct 27 1138 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3758\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 3304 pfu\nMax time: 2026 Oct 26 1105 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -325,21 +344,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2694\r\nIssue Time: 2026 Oct 23 1955 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 23 1953 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-23 19:55:04.007",
+      "title": "What does Israel's election mean for Gaza and the wider world?",
+      "text": "What does Israel's election mean for Gaza and the wider world?\nThe BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-27T10:17:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -397,82 +416,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. Warns Gulf States to Brace for Intense Iran Campaign After Midterms\nWashington has warned Gulf Arab states of a possible short, intense military campaign against Iran after the November 3 midterms. \nTrump is leaning toward major strikes as U.S. forces reinforce regional missile defenses, but no final decision has been made.\n[READ MORE](https://clashreport.com/world/articles/u-s-warns-gulf-states-to-brace-for-intense-iran-campaign-after-midterms-hlkf4xu702)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T07:15:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump claimed credit for Benjamin Netanyahu's stronger-than-expected showing in Israel's election, reposting on Truth Social a quote that says his endorsement turned the race. \n\"When President Trump endorsed Bibi Netanyahu, the whole tide turned,\" turning what would have been \"a decisive defeat for a Great Prime Minister\" into \"a big come-from-behind stalemate, or even a WIN for Netanyahu.\" \nIt adds that this all happened \"AFTER the Endorsement by President Trump.\"",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T06:22:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "WATCH: A young Israeli woman called for the forced displacement of all Palestinians from Gaza, saying those who remain should be killed.\nShe also rejected Lebanon, Jordan and Syria as destinations, claiming they belong to Israel.\n\"They can leave Gaza, or we will kill them.\"\nSource: The Guardian",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T02:03:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: The U.S. has warned several Gulf countries to prepare for a possible short, intense military campaign against Iran after the November midterm elections.\nU.S. forces are reinforcing missile defenses, restocking ammunition and preparing bombers and fighter jets for potential strikes. \nTrump is reportedly leaning toward a major attack targeting Iranian infrastructure and nuclear sites but has not made a final decision.\nIsrael is also preparing for renewed strikes.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T01:07:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -573,6 +516,44 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Additional footage of missile tests conducted by Iran\u2019s IRGC\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T13:23:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iran\u2019s IRGC conducts missile tests in Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T13:17:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Alright that\u2019s enough Israeli election slop for one day. Back to the fun stuff.\nAnsarallah has released a new drone strike mixtape. The footage shows them blowing up Saudi-backed mercenaries on various fronts in Yemen.",
       "source": "Telegram",
@@ -580,25 +561,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-28T03:22:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 According to Isabel Kershner, a reporter in the NY Times, she said [the following](https://www.nytimes.com/live/2026/10/27/world/israel-elections/8ac5e681-1b82-58b8-9867-1a8d37f51b38):\nThe exit polls suggest a record showing by Israel\u2019s predominantly Arab parties, which are every bit as eager to send Prime Minister Benjamin Netanyahu into retirement as are the Jewish opposition parties. \nBut opposition leaders have set conditions for entering a new government that they say the Arab parties have not met \u2014 including declaring Hamas a terrorist organization. \nThat means that Gadi Eisenkot\u2019s bloc is rejecting partners who could provide a clear route to a governing majority to replace Mr. Netanyahu.\nWe will have to see what will the Arab parties do for this matter.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T20:37:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0a Netanyahu calls for Zionist unity to eliminate Iran \u2014 as election deadlock leaves him scrambling\nWith the votes counting and no clear path to a majority, Benjamin Netanyahu is rejecting any reliance on Arab parties and demanding the right-wing bloc unite to form a government \u2014 and to go to war with Iran.\n\"The Zionist majority must come to its senses and unite... Israel has a once-in-a-lifetime historic opportunity, together with President Trump, to eliminate the existential Iranian threat,\" he declared.\nExit polls show Netanyahu\u2019s bloc at 50-52 seats \u2014 far short of the 61 needed. Nevertheless, Likud will remain the largest party in the Knesset, which gives Netanyahu significant leverage in forming a government.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 US enforces a blockade of Iranian ports, citing 'severe' threat\nThe US has announced military operations to enforce a blockade across the Persian Gulf, the Strait of Hormuz, the Gulf of Oman, and the Arabian Sea, targeting Iran. It applies to all vessels, regardless of their flag or ownership.\nThe regional threat level has been raised to \u201csevere.\u201d\n\ud83d\udde3 \u201cNeutral vessels carrying neutral cargo or sailing in ballast between neutral ports in the Gulf of Oman and the Strait of Hormuz may be subject to questioning, visits, and searches to confirm their intentions regarding the blockade,\u201d the Joint Maritime Information Center (JMIC) said in its announcement.\nThe JMIC urges ships to keep monitoring VHF Channel 16 and follow all instructions from US forces.\nThe US first imposed its naval blockade targeting Iranian ports and shipping on April 13. It was temporarily lifted on June 18 but reinstated on July 14.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T01:54:59+00:00",
+      "timestamp": "2026-10-28T14:54:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,12 +669,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0a Eisenkot to Netanyahu: 'Do not dare use Israel's security for your political needs!'\nWith Israel facing a deadlocked election, opposition leader and former IDF Chief of Staff Gadi Eisenkot issued a stark public warning to Benjamin Netanyahu, accusing him of trying to drag the country into war to save his political career.\nEisenkot also addressed the defense establishment, warning them against following Netanyahu's hawkish policy of maintaining power through killing and bombing.\n\"Netanyahu is a transitional prime minister, without a mandate and without trust. Remember that you serve the state and the interests of the citizens of Israel alone. Stand strong and steadfast against any attempt to challenge you. You have my clear backing.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Israel poses a persistent risk to global energy markets \u2013 Iranian foreign minister\nAbbas Araghchi has warned that possible Israeli-instigated military misadventures in the Persian Gulf region remain a threat for both gas suppliers and consumers.\nThe US and Israel have recently raised the [prospect of renewed attacks](https://t.me/geopolitics_prime/76921) on Iran, with Israeli Prime Minister Benjamin Netanyahu claiming that Israel has an opportunity [to eliminate the \u201cexistential threat\u201d](https://t.me/geopolitics_prime/76907) posed by Iran in cooperation with the US, according to The Times of Israel.\nMeanwhile, the outcome of the Israeli general election remains unclear. Although Netanyahu's bloc appears to be leading over that of his rival, Gadi Eisenkot, neither side has yet secured the 61 seats needed for[ a parliamentary majority](https://t.me/geopolitics_prime/76892).\nAraghchi's remarks come in the wake of the 8th Summit of Heads of State and Government of the Gas Exporting Countries Forum (GECF) in Moscow and talks held this week in Tehran with senior officials from Iran, Pakistan, Saudi Arabia, and Turkey.\nPreviously, Iranian President Masoud Pezeshkian announced shared understandings with Russian President Vladimir Putin and Emir of Qatar Tamim bin Hamad Al Thani on cooperation in agriculture, oil and gas, road construction, security, and bilateral relations, according to the Tasnim News Agency.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T00:06:09+00:00",
+      "timestamp": "2026-10-28T14:13:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -726,12 +688,50 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f\ud83c\uddee\ud83c\uddf7 Iran's Supreme Leader calls for an end to war and stronger regional security\nAyatollah Mojtaba Khamenei has called for securing Tehran's terms to end the war with the US and Israel, warning against allowing the country to remain trapped in a state of \u201cneither war nor peace.\u201d\nMeeting with Supreme National Security Council Secretary Mohsen Rezaei, Khamenei insisted that any settlement must protect Iran's interests and those of the Resistance Front.\nThe talks also addressed Iran's control over the Strait of Hormuz, regional security, and closer cooperation with neighboring countries.\nKhamenei credited Iran's resistance with putting its adversaries under pressure and called for stronger national unity, while Rezaei outlined plans for regional security arrangements built around the region's own countries.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udee2 Gulf states push for Hormuz reopening and wider Iran-US deal\nA multipronged peace deal is taking shape at the heart of Gulf states' plans to avert what they see as a disastrous renewal of war between Iran and the US, The Guardian reports.\nThe terms under discussion: the Strait of Hormuz would reopen within four days of sanctions being lifted \u2014 Iran has reportedly cut its original proposal from seven days to four \u2014 while the Houthis would withdraw substantial forces inside Yemen.\nIran is also reportedly acknowledging a mediating role in Yemen, with security council secretary Mohsen Rezaei meeting the Houthi ambassador on Tuesday.\nThe sticking point is Washington's demand, backed by European powers, that Iran readmit UN weapons inspectors to its nuclear sites. Tehran has refused, saying it will only hold talks in principle on its nuclear program. Instead, Iran kept the nuclear file off the agenda at the Tehran meeting with Saudi Arabia, Turkey, and Pakistan, focusing on a long-term regional security vision that would include the Gulf states and see the US military presence reduced or ended.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-27T19:04:01+00:00",
+      "timestamp": "2026-10-28T10:08:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Regional war threatens to derail Saudi Arabia\u2019s economic makeover\nIranian strikes and a renewed Houthi offensive are hitting Saudi Arabia on multiple fronts, putting its economic ambitions at risk, the Cradle reports.\nThe damage is becoming increasingly difficult to contain:\n\ud83d\udd34 Attacks on the Manifa and Khurais oilfields reportedly cut production by around 600,000 barrels per day, while strikes on the East\u2013West Pipeline disrupted a critical route for exporting crude through the Red Sea\n\ud83d\udd34 Saudi Arabia\u2019s aviation sector also took a hit after around 45% of scheduled flights were canceled between October 8 and 25, with cancellations at Riyadh\u2019s King Khalid International Airport reaching approximately 86%\n\ud83d\udd34 The economic strain is mounting as the Saudi stock market fell 2.7% on October 25, its steepest single-session drop in 18 months, while the projected 2026 budget deficit rose to around 245 billion riyals\n\ud83d\udd34 Prolonged regional instability threatens investor confidence and could delay major projects central to Crown Prince Mohammed bin Salman\u2019s Vision 2030 plan to diversify Saudi Arabia\u2019s economy\nRiyadh now faces a difficult choice between escalating its confrontation with the Houthis and pursuing a political settlement with Sanaa. Neither continuing the conflict nor the concessions required for peace comes without a cost.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T09:27:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 US burns through $47B in Iran war - report\nThe final bill could climb even higher with the US military now staring down the cost of replacing lost weapons and equipment, Reuters reports, citing Department of War data.\nThe breakdown shows exactly where much of the money is heading:\n\ud83d\udd34 More than $29 billion is projected to replace munitions used during the conflict\n\ud83d\udd34 Over $6 billion will be needed to replace military equipment and losses, including aircraft and drones\n\ud83d\udd34 The total has surged from $25 billion in late April to $37.5 billion in July before surpassing $47 billion in the latest Pentagon estimate\nThe bombs may have stopped falling, but the bill keeps climbing.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T08:46:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
