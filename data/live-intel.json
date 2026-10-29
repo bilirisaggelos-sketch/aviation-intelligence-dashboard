@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-28T20:19:36.901400+00:00",
+  "generated_at": "2026-10-29T00:16:40.807158+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, October 30, 2026 through Sunday, November 1, 2026 Local\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/28/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nAtlanta, GA, Friday, October 30, 2026 through Saturday, October 31, 2026 Local\nFacility: ZTL",
@@ -23,25 +42,6 @@
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nAtlanta, GA, Friday, October 30, 2026 through Friday, October 30, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/27/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nAtlanta, GA, Friday, October 30, 2026 through Saturday, October 31, 2026 Local\nFacility: ZTL",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -422,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Pakistan Allows Taiwanese Airlines Back Into Its Airspace After Sudden Ban \nPakistan restored overflight rights to China Airlines and EVA Air hours after its defense minister linked their exclusion to the One China policy.\nThe carriers can now cross Pakistani airspace until March 27, 2027, with no official explanation for the reversal.\n[READ MORE](https://clashreport.com/world/articles/pakistan-allows-taiwanese-airlines-back-into-its-airspace-after-sudden-ban-luiibjysgzg)",
+      "text": "The Pentagon\u2019s watchdog has refused a bipartisan request to investigate Starlink and Starshield internet slowdowns in Ukraine, which Ukrainian officials say hindered efforts to intercept Russian drones. \nElon Musk acknowledged that SpaceX restricted Starlink access, accusing Ukraine of violating its terms of service, a claim Kyiv denies. \nTrump denied ordering the restrictions, while Vice President JD Vance suggested White House coordination with Musk.\nSource: AP",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T19:40:01+00:00",
+      "timestamp": "2026-10-29T00:01:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,12 +441,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "How Long Can Ukraine Keep Fighting Without US Support?\nEuropean and domestic arms production give Ukraine staying power, but a US cutoff would expose gaps in missile defense, intelligence, and communications that money alone cannot quickly close.\n[READ MORE](https://clashreport.com/focus/articles/how-long-can-ukraine-keep-fighting-without-us-support-hm8r0lubs7g)",
+      "text": "Trump on Iran:\nThe drones that they make, they're having a hard time because they can't get electricity anymore.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T18:10:32+00:00",
+      "timestamp": "2026-10-28T23:59:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -456,6 +456,65 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Trump on Iran:\nTheir missiles are still there, but much less.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T23:58:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "China Tests Trimaran Submarine With 16 or More Missile Tubes\nChina is reportedly testing an uncrewed trimaran submarine in the Bohai Sea that must surface to fire an estimated 16 to 18 missiles, according to Naval News.\n[READ MORE](https://clashreport.com/world/articles/china-reportedly-tests-trimaran-submarine-with-16-or-more-missile-tubes-zdxhkauij7/)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T22:04:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "\ud83c\uddee\ud83c\uddf1 \u26a0\ufe0f #Netanyahu Claims #Arab Parties Stole #Israel's Election, Demands Investigation After Arab Voter Gains, No Majority Deadlocked Results: \nWashington Examiner: Israeli Prime Minister Benjamin Netanyahu on Wednesday said rival Arab parties cheated in his country\u2019s elections after exit polls indicated his coalition failed to capture a majority in the #Knesset, pushing the Middle Eastern democracy into a political deadlock.\nNetanyahu\u2019s Likud party and its allies outperformed expectations on Tuesday. But with results still trickling in on Wednesday evening, the prime minister failed to keep his majority in the Israeli parliament. There is still no clear winner. The opposition bloc, led by Gadi #Eisenkot\u2019s Yashar party, remains Likud\u2019s top rival. But two Arab parties, the Joint List and Ra\u2019am, outperformed as they gained seats, drawing historic support as they are to win their largest-ever share of the vote.\nBefore the election, Netanyahu\u2019s coalition held around 68 of the 120 Knesset seats, and the main opposition to him held around 49 seats.\nWith roughly 89% of the vote counted Wednesday evening, Netanyahu\u2019s bloc held 53 seats. The main opposition, led by Eisenkot\u2019s Yashar bloc, held 48 seats.\nNo bloc reached the winning number of 61 lawmakers, the size of a Knesset coalition necessary to form a government. But Arab parties made the biggest gains, with 19 seats, up from the 10 held by the United Arab List and the Joint List before the elections.\nNetanyahu said the Arab parties had stolen the election, claiming they are guilty of criminal offenses of bribery, threats, violence, forgeries, and the use of prohibited software to mobilize voters.\n\u201cThis is a serious blow to Israeli democracy and the voting rights of Israeli citizens,\u201d he said in a post to X. \u201cThe law enforcement agencies must act with an iron fist and in an immediate manner.\u201d\nNetanyahu demanded election authorities in Israel immediately investigate his allegations, promising that his Likud party would produce hundreds of testimonies and pieces of evidence regarding election theft in many Arab polling stations, including thousands of envelopes with cash and Ra\u2019am slips, threats and violence against polling station members, multiple voting behind the curtain, voting with double identities, discrepancies between the number of envelopes and the number of voters, and the use of prohibited mobilization software.\"\nMore Coverage: T.me/ourwarstoday \n---\n24/7 LIVE News RSS feed: t.me/ournewsfeedtoday\n---\nFootage: t.me/ourwars\n---\nSupport OWT: https://ko-fi.com/ourwarstoday",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T21:35:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Our Wars Today"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -536,12 +595,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Additional footage of missile tests conducted by Iran\u2019s IRGC\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
+      "text": "\u26a1\ud83c\uddef\ud83c\uddf4\ud83c\uddf8\ud83c\uddfe The Royal Jordanian Air Force (RJAF) carried out the operation \u201cJordanian Deterrence \u2013 Khmud,\u201d targeting the bases of terrorist organizations in southern Syria, in coordination with the Syrian government.\nThe operation was conducted in response to the deaths caused by the attack on a church in Khmud last Friday. The terrorists who carried out the attack in Khmud are linked to the terrorist organizations that were targeted in the operation.\nRJAF fighter jets destroyed a number of facilities used by the terrorists, killing and wounding several of them, and destroying their weapons.\nThe Jordanian Armed Forces emphasized that the army will firmly confront those who seek to undermine the security of Jordanians, and reiterated that they will continue working to eradicate terrorism, protecting Jordan and ensuring the safety of its citizens.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T13:23:31+00:00",
+      "timestamp": "2026-10-28T22:01:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -554,20 +613,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Alright that\u2019s enough Israeli election slop for one day. Back to the fun stuff.\nAnsarallah has released a new drone strike mixtape. The footage shows them blowing up Saudi-backed mercenaries on various fronts in Yemen.",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1 Israeli Channel 12:\nThe likelihood that Benjamin Netanyahu will remain Israel\u2019s prime minister is very high.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T03:22:12+00:00",
+      "timestamp": "2026-10-28T21:54:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -650,6 +709,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\u2721\ufe0f Likud claims election 'stolen' by Arab parties after historic turnout\nPrime Minister Benjamin Netanyahu\u2019s Likud party is demanding a police and Shin Bet investigation, alleging that yesterday's election was \"stolen\" by Arab parties through a massive conspiracy of \"bribery, threats, violence, forgeries, and the use of illegal software,\" the Times of Israel reported.\n\ud83d\udd34 Likud says it is handing over \"hundreds of testimonies\" and \"thousands of envelopes with cash\" to investigators\n\ud83d\udd34 They demand a \"thorough investigation\" into alleged double voting and intimidation\n\ud83d\udd34 The Central Elections Committee has already publicly dismissed claims of widespread fraud\n\ud83d\udcca Arab-led parties are projected to win a historic high of 19 seats, completely deadlocking the Knesset and denying both Netanyahu\u2019s bloc and the Jewish-led opposition a clear majority. Reports indicate Likud operatives were already preparing to challenge results in Arab towns before the ballots were even counted.\nThe record Arab turnout didn't happen in a vacuum. It was driven by the very Zionist narratives and far-right influence of Netanyahu's own government. Arab citizens mobilized in direct response to ministers like Ben-Gvir and Smotrich, their annexation plans, rampant settler violence, and calls for mass displacement.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T21:34:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, they've been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow them to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-28T20:43:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udea8 Israeli warplanes bombard southern Lebanon \u2014 strikes hit Wadi al-Hajir, Kfar Tibnit, Baraachit\nIsraeli fighter jets have launched a new wave of airstrikes across southern Lebanon, continuing their violations of Lebanese sovereignty despite the ceasefire agreement.\nThermal flares were reported in the skies over southern Lebanon as the jets operated overhead.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -675,44 +772,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-28T16:16:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 US enforces a blockade of Iranian ports, citing 'severe' threat\nThe US has announced military operations to enforce a blockade across the Persian Gulf, the Strait of Hormuz, the Gulf of Oman, and the Arabian Sea, targeting Iran. It applies to all vessels, regardless of their flag or ownership.\nThe regional threat level has been raised to \u201csevere.\u201d\n\ud83d\udde3 \u201cNeutral vessels carrying neutral cargo or sailing in ballast between neutral ports in the Gulf of Oman and the Strait of Hormuz may be subject to questioning, visits, and searches to confirm their intentions regarding the blockade,\u201d the Joint Maritime Information Center (JMIC) said in its announcement.\nThe JMIC urges ships to keep monitoring VHF Channel 16 and follow all instructions from US forces.\nThe US first imposed its naval blockade targeting Iranian ports and shipping on April 13. It was temporarily lifted on June 18 but reinstated on July 14.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T14:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1 Israel poses a persistent risk to global energy markets \u2013 Iranian foreign minister\nAbbas Araghchi has warned that possible Israeli-instigated military misadventures in the Persian Gulf region remain a threat for both gas suppliers and consumers.\nThe US and Israel have recently raised the [prospect of renewed attacks](https://t.me/geopolitics_prime/76921) on Iran, with Israeli Prime Minister Benjamin Netanyahu claiming that Israel has an opportunity [to eliminate the \u201cexistential threat\u201d](https://t.me/geopolitics_prime/76907) posed by Iran in cooperation with the US, according to The Times of Israel.\nMeanwhile, the outcome of the Israeli general election remains unclear. Although Netanyahu's bloc appears to be leading over that of his rival, Gadi Eisenkot, neither side has yet secured the 61 seats needed for[ a parliamentary majority](https://t.me/geopolitics_prime/76892).\nAraghchi's remarks come in the wake of the 8th Summit of Heads of State and Government of the Gas Exporting Countries Forum (GECF) in Moscow and talks held this week in Tehran with senior officials from Iran, Pakistan, Saudi Arabia, and Turkey.\nPreviously, Iranian President Masoud Pezeshkian announced shared understandings with Russian President Vladimir Putin and Emir of Qatar Tamim bin Hamad Al Thani on cooperation in agriculture, oil and gas, road construction, security, and bilateral relations, according to the Tasnim News Agency.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T14:13:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
