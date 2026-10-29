@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-29T00:16:40.807158+00:00",
+  "generated_at": "2026-10-29T06:19:32.075429+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nCHARLOTTE, NC, Thursday, October 29, 2026 Local\nFacility: ZTL",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/29/2026",
+      "location": "ZTL NC",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, October 30, 2026 through Sunday, November 1, 2026 Local\nFacility: ZMA",
@@ -106,25 +125,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/27/2026",
       "location": "ZSU PR",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nColumbus, OH, Wednesday, October 28, 2026 through Wednesday, October 28, 2026 Local\nFacility: ZID",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/27/2026",
-      "location": "ZID OH",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -422,12 +422,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The Pentagon\u2019s watchdog has refused a bipartisan request to investigate Starlink and Starshield internet slowdowns in Ukraine, which Ukrainian officials say hindered efforts to intercept Russian drones. \nElon Musk acknowledged that SpaceX restricted Starlink access, accusing Ukraine of violating its terms of service, a claim Kyiv denies. \nTrump denied ordering the restrictions, while Vice President JD Vance suggested White House coordination with Musk.\nSource: AP",
+      "text": "IRGC says it has intercepted and shot down a 14th MQ-1 drone east of the Strait of Hormuz, off the coast of Sirik.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T00:01:34+00:00",
+      "timestamp": "2026-10-29T05:57:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -437,6 +437,65 @@
         "Clash Report"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Obama on Iran:\nHow is this war going? Our allies and bases have been attacked. Americans have been killed. Hundreds of Americans have been wounded. \nWe have run down our stock of missiles, making us more vulnerable, and Iran now has veto power over the Strait of Hormuz, where much of the world's oil goes through to get to consumers.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T00:58:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Obama on Iran:\nIran didn't have nuclear weapons. We had curbed their nuclear program.\nI had put in place a deal. I didn't have to fire any missiles. I engaged in diplomacy.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T00:56:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "The Pentagon\u2019s watchdog has refused a bipartisan request to investigate Starlink and Starshield internet slowdowns in Ukraine, which Ukrainian officials say hindered efforts to intercept Russian drones. \nElon Musk acknowledged that SpaceX restricted Starlink access, accusing Ukraine of violating its terms of service, a claim Kyiv denies. \nTrump denied ordering the restrictions, while Vice President JD Vance suggested White House coordination with Musk.\nSource: AP",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T00:01:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -476,25 +535,6 @@
         "Our Wars Today"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "China Tests Trimaran Submarine With 16 or More Missile Tubes\nChina is reportedly testing an uncrewed trimaran submarine in the Bohai Sea that must surface to fire an estimated 16 to 18 missiles, according to Naval News.\n[READ MORE](https://clashreport.com/world/articles/china-reportedly-tests-trimaran-submarine-with-16-or-more-missile-tubes-zdxhkauij7/)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T22:04:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -632,13 +672,33 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfb\ud83c\udde8\ud83c\uddf4\ud83c\udded\ud83c\uddf9 The Colombian Air Force is supporting the Salvadoran deployment in Haiti against gangs in Port-au-Prince.\nA Colombian Air Force C-130H aircraft, call sign FAC1005, conducted the first Colombian logistical support flight for the Salvadoran deployment in Haiti, flying from San Salvador Airport to Port-au-Prince.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Yep, Barack Obama is back on the campaign circuit. It\u2019s weird to see him back in the spotlight again. He always was good at working a crowd. He still is. You can see from the reactions why millions of people still love this man. I think this is a good moment to remember what he actually did with eight years in office (2009-2016).\nWe can give credit where it\u2019s due. The Affordable Care Act got millions of people health insurance. The Iran nuclear deal (JCPOA) was a real feat of diplomacy that worked out until his successor, Donald Trump, tore it up. Look where we are today because of that.\nThat\u2019s the good, what about the bad?\nBarack Obama continued the Global War on Terror, quietly. He used JSOC and US Special Forces to run F3EAD (Find, Fix, Finish, Exploit, Analyze, Disseminate) operations in Yemen, Somalia, Pakistan, Libya, Iraq, Syria and Afghanistan. He personally signed off on the kill lists. His own administration said they conducted 473 air strikes outside declared warzones in 2015. Independent researchers like Jeremy Scahill counted civilian deaths at somewhere between 200 and 1,000 people, far above the White House numbers. The Syrian Civil War was also initiated by CIA-backed proxies.\nObama sent a surge of 30,000 troops to Afghanistan. American soldiers were still deployed on the day he left. He bombed Libya into a failed state. \u201cWe came, we saw, he died!\u201d cackled Hillary Clinton, his Secretary of State at the time. Obama also supported the Saudi war on Yemen, \u201cOperation Decisive Storm\u201d, in 2015. \nObama signed the largest military aid package to Israel in US history. $38 billion in weapons would be sent to the Zionists over ten years. This aid package was approved two years after Gaza was blown to pieces during Operation Protective Edge in 2014.\nAt home, Obama maintained the surveillance apparatus constructed under George W. Bush. He renewed the USA PATRIOT Act. He defended the NSA mass surveillance programs such as PRISM, XKeyscore and the bulk phone metadata program after Edward Snowden exposed them in 2013. He signed the 2012 NDAA (National Defense Authorization Act) with its indefinite detention provisions intact. Guant\u00e1namo Bay prison remained open. He prosecuted more whistleblowers under the Espionage Act than every president before him combined.\nThe Obama Administration greatly empowered ICE, deporting a record three million people across his two terms in office. Immigrant rights groups called him \u201cThe Deporter In Chief\u201d. He definitely earned the title.\nThe banks that caused the 2008 financial crisis received massive bailouts from taxpayer money. American homeowners, on the other hand, were foreclosed on. This is one of the primary reasons we have a cost-of-living crisis today. He effectively made the banks untouchable.\nJust remember this. The term \u201cthought-terminating clich\u00e9\u201d exists for people like Obama. He erases your critical thinking through the power of sheer charisma. He made idiots clap for him. He made smart people stop asking questions. He made funny jokes at the White House Correspondents\u2019 Dinner. The Obama brand was always in great shape. The actual country, and the world, quietly circled the drain. \nStyle over substance.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T04:04:27+00:00",
+      "timestamp": "2026-10-29T02:18:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4 ELN members attacked Colombian Navy Marine Corps troops with four grenades launched from drones near the San Juan River, in the Munguid\u00f3 sector of the Litoral del San Juan municipality, Choc\u00f3.\nThe military confirmed that the explosions caused no injuries or casualties among military personnel or the civilian population.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T03:37:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -652,12 +712,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The USAF has awarded Lockheed Martin $694M to produce the AGM-183A ARRW hypersonic missile, reviving a program nearly canceled in 2023. Carried by B-52 bombers, the Mach 5+ boost-glide weapon is designed for long range time sensitive HVT strikes.",
+      "text": "\u26a1\ufe0f\ud83c\uddeb\ud83c\uddf7\ud83c\udde7\ud83c\uddea\ud83c\uddfe\ud83c\uddea [VRT NWS](https://www.vrt.be/vrtnws/nl/2026/10/26/ballistische-raket-neergeschoten-in-buurt-van-belgische-mijnenjager/): A French Navy frigate shot down a ballistic missile near Belgian minehunter BNS Primula in the Bab el-Mandeb Strait in mid-October, Belgium\u2019s Defence Ministry confirmed on 26 October. \nThe missile was suspected to have been launched by the Houthis.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T03:45:09+00:00",
+      "timestamp": "2026-10-29T03:31:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -671,12 +731,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\u26a1\ufe0f \u2014 Footage shows a Ukrainian Air Force (UAF) MiG-29MU1 multirole fighter striking two Russian UAV control posts with French AASM Hammer precision-guided munitions (PGMs).",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddea\ud83c\uddf9\u26a1\ufe0f \u2014 Rosoboronexport has delivered the first batch of 12 Russian-made Su-35 multirole fighters to the Ethiopian Air Force.\nAt Zhukovsky Airport, an Ethiopian delegation was shown one of the aircraft from the initial batch, which is scheduled to be delivered to Ethiopia soon.\nEthiopian Prime Minister Abiy Ahmed described the deliveries as a significant step toward strengthening national security and deterring potential aggression. He praised Russian President Vladimir Putin for facilitating the delivery of the Su-35s a year ahead of schedule.\nAbiy also announced that Ethiopia plans to acquire four Russian-made S-400 air defense systems as part of its efforts to bolster its military capabilities.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T03:43:23+00:00",
+      "timestamp": "2026-10-29T03:22:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -689,20 +749,59 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Update: Two drones were intercepted and shot down in the vicinity of the United States Embassy within the Green Zone, Baghdad. No casualties were reported.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf0\ud83c\uddf5 North Korean missiles back in the game?\nSouth Korea's Joint Chiefs of Staff say the DPRK allegedly fired roughly 10 ballistic missiles toward the Sea of Japan, according to Yonhap.\nPyongyang has not yet commented on the reported launches.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T03:38:57+00:00",
+      "timestamp": "2026-10-29T06:05:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udef0 Pentagon watchdog refuses to investigate Starlink slowdowns \u2014 report\nThe Pentagon\u2019s inspector general is refusing a bipartisan request to investigate the throttling of Starlink and Starshield satellite internet for Ukraine, the Washington Post reported.\n\ud83c\udf0f A bipartisan group of 9 lawmakers (4 Republicans, 5 Democrats) demanded the probe after Ukraine reported their connection speeds were being throttled\n\ud83c\udf0f The slowdowns severely impeded Ukraine's ability to intercept fast-moving Russian attack drones\n\ud83c\udf0f Instead of investigating, the Inspector General told Congress to ask the Air Force\nThis comes just weeks after The Wall Street Journal reported that Elon Musk personally ordered the slowdown and discussed the decision by phone with President Trump.\nAt the time, Musk publicly blamed the US military, and Trump claimed he had no idea who was responsible. Now, the Pentagon's independent watchdog is refusing to find out.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T02:39:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Yemeni missiles strike deep inside Saudi Arabia \u2014 Dammam airport halts flights\nA massive wave of Yemeni missile strikes is targeting the Eastern Province of Saudi Arabia, hitting critical infrastructure deep inside the kingdom.\nRas Tanura refinery \u2014 one of the world's largest oil processing and export facilities \u2014 is reportedly rocked by explosions.\nFlights were suspended at King Fahd International Airport in Dammam, and continuous heavy shelling is reported across multiple locations, with more explosions heard in Najran.\nThe Houthis are striking the absolute core of the Saudi economy and energy infrastructure in a sustained barrage.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T01:00:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -753,25 +852,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-28T19:53:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddeb\ud83c\uddf5\ud83c\uddf0Afghan forces strike Pakistani military bases amid renewed border clashes\nAfghan forces have launched attacks on Pakistani military bases and border checkpoints from Paktika province, Afghanistan's Defense Ministry said Wednesday, as cited by Ariana News.\nKabul described the strikes as retaliation for alleged Pakistani drone attacks near Angoor Adda, claiming several Pakistani soldiers were killed or wounded and military facilities damaged.\nPakistan, meanwhile, accused Afghan forces of firing on civilian areas in South Waziristan, reportedly killing one person and injuring five others.\nNeither side's claims about casualties and damage have been independently verified.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-28T16:16:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
