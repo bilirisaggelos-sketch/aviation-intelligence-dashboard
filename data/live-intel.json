@@ -1,16 +1,54 @@
 {
-  "generated_at": "2026-10-29T19:15:46.681019+00:00",
+  "generated_at": "2026-10-29T23:30:48.859060+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nCHARLOTTE, NC, Thursday, October 29, 2026 Local\nFacility: ZTL",
+      "text": "FAA SECURITY TFR\nNEW YORK, NY, Sunday, November 1, 2026 through Sunday, November 1, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/29/2026",
-      "location": "ZTL NC",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nYUBA CITY, CA, Sunday, November 1, 2026 through Sunday, November 1, 2026 Local\nFacility: ZOA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/29/2026",
+      "location": "ZOA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMILWAUKEE, WI, Friday, October 30, 2026 Local\nFacility: ZAU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/29/2026",
+      "location": "ZAU WI",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -220,25 +258,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/25/2026",
       "location": "ZLA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nHUNTSVILLE, AL, Tuesday, October 27, 2026 through Thursday, October 29, 2026 Local\nFacility: ZME",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/24/2026",
-      "location": "ZME AL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -481,12 +500,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nIt\u2019s amazing: we have Saudi Arabia, Pakistan and T\u00fcrkiye traveling to Iran to try to lower the temperatures at the same time as we\u2019re aligned with them. \nWe\u2019re all getting used to a different kind of foreign policy.",
+      "text": "Iran's Tasnim News Agency reports that the IRGC Aerospace Force intercepted and forced a hostile fighter jet to leave the Qeshm area.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T19:08:53+00:00",
+      "timestamp": "2026-10-29T20:53:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nIf you wake up in Istanbul, you pick up the papers and you read every morning, the Greater Israel fabric goes from Vienna to the Maldives.\nIf you wake up in Tel Aviv, you wake up every morning, you see that Ottoman Empire 2.0 with the same.\nA lot of this is politics rather than substance.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T19:21:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -633,6 +672,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6\ud83c\uddf5\ud83c\uddf0\ud83c\uddf9\ud83c\uddf7\ud83c\uddee\ud83c\uddf7 \u2014 U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nIt\u2019s amazing: we have Saudi Arabia, Pakistan and T\u00fcrkiye traveling to Iran to try to lower the temperatures at the same time as we\u2019re aligned with them. \nWe\u2019re all getting used to a different kind of foreign policy.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T20:02:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Former US President Barack Obama on Iran:\nHow is this war going? Our allies and bases have been attacked. Americans have been killed. Hundreds of Americans have been wounded. \nWe have run down our stock of missiles, making us more vulnerable, and Iran now has veto power over the Strait of Hormuz, where much of the world\u2019s oil goes through to get to consumers.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
       "source": "Telegram",
       "source_type": "telegram",
@@ -652,146 +710,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Former US President Barack Obama on Iran:\nIran didn\u2019t have nuclear weapons. We had curbed their nuclear program.\nI had put in place a deal. I didn\u2019t have to fire any missiles. I engaged in diplomacy.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T15:06:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa\ud83c\udde8\ud83c\uddf3 U.S. intelligence services warn that China and Russia are developing weapons capable of destroying American satellites, creating a threat to the GPS system and critically important military communication channels.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T14:56:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Representative of Iran\u2019s armed forces:\n\u201cFirst, the enemy set its goal as the destruction of Iran\u2019s nuclear capabilities and missile program, then it sought to destroy the Resistance Front and overthrow the authorities of the Islamic Republic, and finally it openly declared its intention to partition Iran and annihilate Iranian civilization.\nThe Strait of Hormuz is currently under the strategic control of Iran\u2019s armed forces, and it will not be opened under any circumstances until the conditions put forward by Iran are fully met.\u201d\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T14:55:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 U.S. President Donald Trump on Iran:\nThe drones that they make, they\u2019re having a hard time because they can\u2019t get electricity anymore.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T14:55:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 U.S. President Donald Trump on Iran:\nTheir missiles are still there, but much less.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T14:53:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\udde8\ud83c\uddf3\ud83c\uddf9\ud83c\uddf7 Iran has launched its first freight train dedicated to exports from the city of Qom to China.\nAt the same time, 460 tons of sodium chlorate were sent by rail from Semnan province to Turkey, as Tehran seeks to expand its export routes.\nAmid growing restrictions on maritime transport, the volume of rail freight from China to Iran has increased tenfold, and the frequency of Chinese trains arriving in Iran has risen from once every three to four days to once a day\n- Fars News reports.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T14:47:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran\u2019s IRGC Navy says it has seized a U.S. MQM-170 reconnaissance drone west of the Strait of Hormuz.\nRainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T10:37:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7\ud83c\uddf7\ud83c\uddfaThere is sense of relief among the Shiite duo (Amal and Hezbollah) among International discussions regarding Lebanon are taking place between Tehran and Moscow amidst fears of potential US sanctions targeting judges and politicians. \nMeanwhile, political sources confirm that Hezbollah possesses money, missiles, and drones; if one truck is confiscated, many others move daily through various entrances and roads.",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 U.S. strikes occured against Bandar-e-Jask, coastal southern Iran 27 minutes ago. 4 missiles struck the Islamic Republic of Iran Navy's Jask Naval Base.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T18:58:59+00:00",
+      "timestamp": "2026-10-29T21:55:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -805,12 +730,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1Israeli President Isaac Herzog proposed that Benjamin Netanyahu remain in office as prime minister for two more years, after which he would hand over the position to a representative of the opposition and retire from political life, in exchange for being granted a pardon for all the corruption cases against him.",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Saudi Civil Defense: Debris fell following the interception of two ballistic missiles in Riyadh, resulting in the injury of a citizen and damage to a house and a vehicle.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T15:50:07+00:00",
+      "timestamp": "2026-10-29T20:47:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -824,40 +749,22 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1A Liberian-flagged ship chartered by Israel's ZIM sinks after drone attack in Black Sea while carrying 421 containers to Romania.",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi (Ansarallah) military spokesman Yahya Saree has announced six operations targeting Saudi airports, energy infrastructure and military positions.\nSaree claimed the operations targeted the Ras Tanura refinery with a ballistic missile, the Aramco facility in Abqaiq with a missile, King Khalid International Airport in Riyadh with a salvo of missiles, King Fahd International Airport in Dammam with a drone, the Rabigh oil refinery with a ballistic missile, and a Saudi troop concentration in Najran.\nHe claimed the strikes achieved their objectives, disrupted air traffic at King Fahd International Airport, and caused casualties among Saudi soldiers in Najran.\nSaree said Houthi (Ansarallah) forces would continue operations deep inside Saudi Arabia until Saudi military operations against Yemen cease.\nVideo translated by Inter Bellum News.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T13:25:16+00:00",
+      "timestamp": "2026-10-29T19:57:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 Yep, Barack Obama is back on the campaign circuit. It\u2019s weird to see him back in the spotlight again. He always was good at working a crowd. He still is. You can see from the reactions why millions of people still love this man. I think this is a good moment to remember what he actually did with eight years in office (2009-2016).\nWe can give credit where it\u2019s due. The Affordable Care Act got millions of people health insurance. The Iran nuclear deal (JCPOA) was a real feat of diplomacy that worked out until his successor, Donald Trump, tore it up. Look where we are today because of that.\nThat\u2019s the good, what about the bad?\nBarack Obama continued the Global War on Terror, quietly. He used JSOC and US Special Forces to run F3EAD (Find, Fix, Finish, Exploit, Analyze, Disseminate) operations in Yemen, Somalia, Pakistan, Libya, Iraq, Syria and Afghanistan. He personally signed off on the kill lists. His own administration said they conducted 473 air strikes outside declared warzones in 2015. Independent researchers like Jeremy Scahill counted civilian deaths at somewhere between 200 and 1,000 people, far above the White House numbers. The Syrian Civil War was also initiated by CIA-backed proxies.\nObama sent a surge of 30,000 troops to Afghanistan. American soldiers were still deployed on the day he left. He bombed Libya into a failed state. \u201cWe came, we saw, he died!\u201d cackled Hillary Clinton, his Secretary of State at the time. Obama also supported the Saudi war on Yemen, \u201cOperation Decisive Storm\u201d, in 2015. \nObama signed the largest military aid package to Israel in US history. $38 billion in weapons would be sent to the Zionists over ten years. This aid package was approved two years after Gaza was blown to pieces during Operation Protective Edge in 2014.\nAt home, Obama maintained the surveillance apparatus constructed under George W. Bush. He renewed the USA PATRIOT Act. He defended the NSA mass surveillance programs such as PRISM, XKeyscore and the bulk phone metadata program after Edward Snowden exposed them in 2013. He signed the 2012 NDAA (National Defense Authorization Act) with its indefinite detention provisions intact. Guant\u00e1namo Bay prison remained open. He prosecuted more whistleblowers under the Espionage Act than every president before him combined.\nThe Obama Administration greatly empowered ICE, deporting a record three million people across his two terms in office. Immigrant rights groups called him \u201cThe Deporter In Chief\u201d. He definitely earned the title.\nThe banks that caused the 2008 financial crisis received massive bailouts from taxpayer money. American homeowners, on the other hand, were foreclosed on. This is one of the primary reasons we have a cost-of-living crisis today. He effectively made the banks untouchable.\nJust remember this. The term \u201cthought-terminating clich\u00e9\u201d exists for people like Obama. He erases your critical thinking through the power of sheer charisma. He made idiots clap for him. He made smart people stop asking questions. He made funny jokes at the White House Correspondents\u2019 Dinner. The Obama brand was always in great shape. The actual country, and the world, quietly circled the drain. \nStyle over substance.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T02:18:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -913,6 +820,65 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Houthis claim 6 massive strikes deep inside Saudi Arabia \u2014 hitting oil refineries and major airports\nAnsarallah military spokesman Yahya Saree has announced a wave of six coordinated operations targeting critical Saudi infrastructure and military positions.\nThe targets claimed by Saree:\n\ud83d\udd34 Ras Tanura and Rabigh oil refineries targeted with ballistic missiles, alongside the Aramco facility in Abqaiq\n\ud83d\udd34 King Khalid International Airport in Riyadh hit with a salvo of missiles\n\ud83d\udd34 King Fahd International Airport in Dammam targeted by a drone, reportedly disrupting air traffic\n\ud83d\udd34 A Saudi troop concentration in Najran struck, with claims of casualties among soldiers\nSaree stated that all strikes successfully achieved their objectives.\n\ud83d\udc49 The Houthis are demonstrating their ability to overwhelm Riyadh's air defenses as multiple locations are targeted simultaneously.\nSaree's message is clear: operations deep inside the kingdom will continue until Saudi military operations against Yemen completely cease.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T23:27:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Explosions, smoke visible near Jask, southern Iran \u2014 reports\nReports are emerging of a potential strike on the coastal area of Jask in southern Iran, with claims that missiles hit an Iranian Navy base.\nJask sits on the Gulf of Oman and is the terminus of Iran's Goureh-Jask pipeline \u2014 the critical infrastructure built specifically to bypass the Strait of Hormuz. The cause, intended target, and extent of damage remain unconfirmed.\nThis comes just an hour after the IRGC announced it intercepted and drove away a \"hostile fighter jet\" over the nearby Qeshm area.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T22:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udde3 US ambassador compares US to the Ottomans and the British \u2014 insists 'we're not leaving' while the troops pack up\nSpeaking at the Doha Forum, US Ambassador to T\u00fcrkiye Tom Barrack delivered a remarkably candid history lesson on US empire, framing Trump's current retreat as a strategic choice rather than a forced withdrawal.\n\"We\u2019re here. We\u2019re not leaving. We\u2019re just saying we\u2019re not going to own it anymore. We need participation from the region, and the president is doing it,\" he declared.\nLet's look at what \"not leaving\" actually looks like on the ground:\n\ud83d\udd34 All US combat troops and logistical support have officially left Iraq, closing the last base in Erbil\n\ud83d\udd34 The US told Saudi Arabia it would not get directly involved in its defense against the Houthis\n\ud83d\udd34 The US just abandoned the Peshmerga in Iraqi Kurdistan, cutting their funding the same night Iran launched missiles at Erbil\n\ud83d\udd34 The US is currently buying diesel from Russia to mitigate its own energy crisis\nBarrack is openly comparing the United States to the crumbling Ottoman and British empires. When he says \"we're just not going to own it anymore,\" he means the US can no longer afford to subsidize the Middle East's security.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-29T20:54:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
