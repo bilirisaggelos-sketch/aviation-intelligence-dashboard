@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-30T16:37:45.577216+00:00",
+  "generated_at": "2026-10-30T21:06:20.492493+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 30, 2026 through Sunday, November 1, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/30/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, October 30, 2026 through Friday, October 30, 2026 Local\nFacility: ZMA",
@@ -49,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/29/2026",
       "location": "ZOA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMILWAUKEE, WI, Friday, October 30, 2026 Local\nFacility: ZAU",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/29/2026",
-      "location": "ZAU WI",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -412,13 +412,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator",
-        "Our Wars Today"
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -460,32 +459,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran continues to carry out ballistic missile exercises for the second consecutive week",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-25T12:26:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A Rafale Marine fighter jet successfully landed on India\u2019s aircraft carrier INS Vikrant on its first attempt.\nThe trial marks an initial step toward integrating the French-built aircraft into India\u2019s carrier aviation fleet.\n[READ MORE](https://clashreport.com/defense/articles/india-lands-rafale-marine-fighter-on-ins-vikrant-for-first-time-moy5py6jb9d)",
+      "text": "Surface-to-air missile systems have been deployed at Mar-a-Lago and Donald J. Trump International Airport in Palm Beach, Florida. \nNORAD and U.S. Northern Command said the deployment came at the Secret Service\u2019s request. \n[READ MORE](https://clashreport.com/defense/articles/us-military-deploys-surface-to-air-missiles-at-mar-a-lago-and-trump-airport-rmi46kgaxmp)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T14:52:14+00:00",
+      "timestamp": "2026-10-30T20:31:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -499,12 +479,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Gr\u00e9goire Roos | Trans-Atlantic Relations Expert | Chatam House:\n\u00a0\nObama drew a red line in Syria: if Assad used gas, the US would intervene. France & Britain said they would join. Gas was used.\n\u00a0\nThe French were ready but Obama said he might not. Cameron turned to Parliament and got a no. France was left alone.\n\u00a0\u00a0\nThen came Afghanistan. The sudden withdrawal, the tragic images of people clinging to aircraft at Kabul airport.\n[FULL INTERVIEW](https://youtu.be/LiFBqj2z0HM)",
+      "text": "\ud83d\udcf8 Never-before-released footage of Hamas\u2019s Qassam Brigades commanders, including military chief Mohammed Deif, meeting to plan the Oct. 7, 2023 attack on Israel.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T14:27:51+00:00",
+      "timestamp": "2026-10-30T19:43:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -584,13 +564,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator",
         "Our Wars Today"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -652,6 +631,64 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 \u2014 The U.S. has approved the sale of 500 Patriot PAC-3 missiles to Ukraine for $2.1 billion. \nThe purchase will be funded by Canada, Germany, Norway and EU-backed Ukrainian funds, with Lockheed Martin as the main contractor.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T20:30:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Ansarllah missiles targeted Al Masshiq Palace at Aden\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T20:24:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran\u2019s IRGC announces that it has shot down a USAF MQM-170 reconnaissance drone over Qeshm Island in southern Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T18:54:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1Israeli Media: \nInterceptor missiles were launched in Northern Israel following suspicions of an aerial attack.\n\ud83d\udca7\n Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \nm\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -684,82 +721,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6\ud83c\uddf5\ud83c\uddf0\ud83c\uddf9\ud83c\uddf7\ud83c\uddee\ud83c\uddf7 \u2014 U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nIt\u2019s amazing: we have Saudi Arabia, Pakistan and T\u00fcrkiye traveling to Iran to try to lower the temperatures at the same time as we\u2019re aligned with them. \nWe\u2019re all getting used to a different kind of foreign policy.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T20:02:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 National Advanced Surface-to-Air Missile System (NASAM) system, along with Avenger short-range air defense humvees spotted on the grounds & around Mar-a-Lago",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T16:17:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 FlightRadar-24, Google Maps, Apple Maps, and a slew of other GPS & tracking apps have begun to obfuscate (blur) U.S bases both stateside (within the US\u2019s borders) and foreign bases.\nIt has been reported that this will not likely reflect for all users until they push for the following updates to each app.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T13:57:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Ansarallah missile launches towards Saudi Arabia. Impacts imminent. Stand by!",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T00:50:59+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -937,12 +898,32 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel\u2019s years-long campaign against Qatar overshadows claims of Gulf state election interference\nThe Netanyahu government accuses Qatar of [interfering in Israeli elections](https://t.me/geopolitics_prime/77008), but a recent study has uncovered a broader Israel-linked influence campaign smearing Qatar that has been operating since 2023.\nThe psyop targets Western audiences and is timed to coincide with their respective elections. It is now turning its attention to France, months ahead of the 2027 presidential vote, Le Monde reports.\n\u262a\ufe0f Anti-Muslim psyop\nIn July 2024, journalists Marc Owen Jones and Sohan Dsouza exposed a large-scale anti-Muslim, anti-immigrant, and anti-Qatar campaign targeting more than 20 countries. The operation maintains a presence across multiple online platforms, including Facebook, X, Wikimedia projects, YouTube, Telegram, and TikTok.\nAlthough the campaign emerged at the outset of Israel\u2019s war on Gaza, it gained momentum in the following years, increasingly portraying Qatar as seeking to \u201cIslamize\u201d Europe before expanding its reach to the US. A separate strand of the same operation has targeted Lebanon since 2023, promoting anti-Iranian and anti-Hezbollah narratives on social media.\n\u2721\ufe0f Israeli origins\nFor a long time, the campaign's origins remained elusive. However, a forensic analysis of videos produced by the Telegram channel \"Made in Qatar\" traced their production environment to Israel and parts of Europe. Other campaign metadata also pointed to an Israeli production infrastructure.\nThe Israeli intelligence service Shin Bet\u2019s immediate response to[ Israel\u2019s inconclusive election results](https://t.me/geopolitics_prime/76964), including accusations of interference by Qatar, appears to follow a pattern that has been unfolding over the past three years.\nQatar has denied [allegations of election meddling](https://t.me/geopolitics_prime/76978), while Dean Livine, acting director of Israel\u2019s Central Elections Committee, has also rejected claims of foreign interference.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2694\ufe0f Iran captures US MQM-170 'Outlaw' drone using electronic warfare over Qeshm\nThe IRGC has confirmed that its Aerospace Force brought down an American MQM-170 \"Outlaw\" reconnaissance drone over Qeshm Island a few hours ago using advanced electronic warfare systems.\nThis marks the second time Iran has successfully captured this drone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T12:55:45+00:00",
+      "timestamp": "2026-10-30T19:38:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Houthis clash with Saudi-backed forces in northern Yemen\nAnsar Allah has released footage that appears to show strikes against groups of pro-Saudi fighters led by Saudi officer Fares al-Shammari in Al Jawf province, according to Tasnim News Agency.\nThe province is located in northern Yemen, bordering the governorates of Marib, Saada, Sanaa, and 'Amran, as well as Saudi Arabia to the north. It has been largely under Ansar Allah's control since the group captured it in March 2020.\nEarlier in the day, Saudi news outlet Ajel reported that Saudi-backed forces had launched an offensive against Houthi positions in eastern Al Jawf, with air support from fighter jets and drones. The latest offensive is said to be part of Operation \"Dawn of Yemen.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T18:48:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -956,12 +937,50 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf0\ud83c\uddf5 North Korea unveils new rocket system in live-fire test\nNorth Korean leader Kim Jong-un personally observed the first-ever live-fire test of the country\u2019s new 600mm \u201cSniper\u201d multiple rocket launcher system, KCNA reported.\nThe test took place as part of North Korea\u2019s 2026 Unmanned Aeronautical Technology Development Exhibition, which also featured: \n\ud83d\udd34 Tactical cruise missile launches\n\ud83d\udd34 Kamikaze drone strikes\n\ud83d\udd34 Showcases of strategic, operational-tactical and strike UAVs\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udcf9 Footage shows aftermath of Russian drone strikes in Dnepropetrovsk railway station\nAt least two Geran drones struck locomotives near the station.\nEmergency power outages have been introduced in the city.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T08:25:28+00:00",
+      "timestamp": "2026-10-30T18:06:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddec\ud83c\udde7UK think tank flags risks of US reliance but pushes Gulf states to increase military spending\nGulf states\u2019 overreliance on costly US-made defense systems not only failed to protect them but also left them exposed to drone and missile attacks during the Iran war, the London-headquartered International Institute for Strategic Studies (IISS) warns.\nAccording to the think tank's estimates, the damage to Gulf energy infrastructure amounts to around $58 billion. In the weeks preceding the 8 April ceasefire, Iran launched 4,670 one-way attack drones and over 1,400 ballistic missiles at 12 countries in the region, most of them Gulf states.\nStill, the IISS further argues that Gulf states' performance in recent wars and the lack of credible alternatives \"make the US an indispensable partner for the defense of the Gulf, fears over US global and regional political tensions notwithstanding.\"\nThe think tank makes the case for increased defense spending by Gulf states to counter Iran while lauding Ukraine\u2019s \"military expertise\" and its growing cooperation with countries in the region:\n\ud83c\udf0f Countering swarms of cheap drones is now a key air defense priority for Gulf states\n\ud83c\udf0f Long-range strike capabilities require investment in intelligence, surveillance, and reconnaissance systems\n\ud83c\udf0f Gulf navies remain ill-equipped to counter mines, missiles, and drones after years of reliance on foreign forces\nThe IISS\u2019s position is hardly surprising, given that its funders include some of the world\u2019s largest aerospace and defense contractors, such as Airbus, Lockheed Martin, BAE Systems, Raytheon, and Boeing, among others.\nMeanwhile, Iran is proposing a radically different approach: a regional collective security pact that could end decades of confrontation in the Gulf, reduce the need for multi-trillion-dollar military spending, and allow regional states to redirect resources towards economic development and diversification. Predictably, such a proposal runs counter to the interests of Western defense contractors.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T17:25:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel\u2019s years-long campaign against Qatar overshadows claims of Gulf state election interference\nThe Netanyahu government accuses Qatar of [interfering in Israeli elections](https://t.me/geopolitics_prime/77008), but a recent study has uncovered a broader Israel-linked influence campaign smearing Qatar that has been operating since 2023.\nThe psyop targets Western audiences and is timed to coincide with their respective elections. It is now turning its attention to France, months ahead of the 2027 presidential vote, Le Monde reports.\n\u262a\ufe0f Anti-Muslim psyop\nIn July 2024, journalists Marc Owen Jones and Sohan Dsouza exposed a large-scale anti-Muslim, anti-immigrant, and anti-Qatar campaign targeting more than 20 countries. The operation maintains a presence across multiple online platforms, including Facebook, X, Wikimedia projects, YouTube, Telegram, and TikTok.\nAlthough the campaign emerged at the outset of Israel\u2019s war on Gaza, it gained momentum in the following years, increasingly portraying Qatar as seeking to \u201cIslamize\u201d Europe before expanding its reach to the US. A separate strand of the same operation has targeted Lebanon since 2023, promoting anti-Iranian and anti-Hezbollah narratives on social media.\n\u2721\ufe0f Israeli origins\nFor a long time, the campaign's origins remained elusive. However, a forensic analysis of videos produced by the Telegram channel \"Made in Qatar\" traced their production environment to Israel and parts of Europe. Other campaign metadata also pointed to an Israeli production infrastructure.\nThe Israeli intelligence service Shin Bet\u2019s immediate response to[ Israel\u2019s inconclusive election results](https://t.me/geopolitics_prime/76964), including accusations of interference by Qatar, appears to follow a pattern that has been unfolding over the past three years.\nQatar has denied [allegations of election meddling](https://t.me/geopolitics_prime/76978), while Dean Livine, acting director of Israel\u2019s Central Elections Committee, has also rejected claims of foreign interference.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T12:55:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
