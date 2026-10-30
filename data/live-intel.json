@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T02:59:33.895352+00:00",
+  "generated_at": "2026-10-30T09:53:33.369002+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -382,25 +382,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-      "text": "Russian drone attack on Ukrainian train station kills at least 14, officials say\nAt least 14 others were wounded in the attack in the central city of Dnipro, including an 11-year-old boy.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-29T14:17:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The IRGC Aerospace Force brought down an American MQM-170 \u2018Outlaw\u2019 drone with electronic warfare and captured it",
@@ -412,13 +393,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -432,12 +412,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Middle East Spectator"
+        "Middle East Spectator",
+        "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -499,32 +480,69 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Sudan Accuses Ethiopia of Launching 162 Drone Strikes That Killed Over 500\nSudan has accused Ethiopia of launching 162 drone attacks from its territory that killed more than 400 civilians and 102 soldiers.\nOfficials alleged that drones operated from Ethiopian bases and accused the UAE of involvement.\n[READ MORE](https://clashreport.com/world/articles/sudan-accuses-ethiopia-of-launching-162-drone-strikes-that-killed-over-500-vr1rsr3kqrb/)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T08:45:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian Drones Strike Major Russian Oil Refinery After Two-Week Pause \nUkrainian drones struck Russia\u2019s Novokuybyshevsk oil refinery in Samara Oblast overnight, triggering explosions and a large fire.\n[READ MORE](https://clashreport.com/world/articles/ukrainian-drones-reportedly-strike-major-russian-oil-refinery-after-two-week-pause-lulmdnkgig)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T08:28:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones hit Russia\u2019s Novokuybyshevsk oil refinery in Samara Oblast early on October 30, triggering explosions and a large fire.\nThe facility is one of the major oil refineries in Russia's Volga region, with an annual processing capacity of 8.8 million tonnes of crude oil.\nThe extent of the destruction remains unclear.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T05:53:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Iran's Tasnim News Agency reports that the IRGC Aerospace Force intercepted and forced a hostile fighter jet to leave the Qeshm area.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-29T20:53:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nIf you wake up in Istanbul, you pick up the papers and you read every morning, the Greater Israel fabric goes from Vienna to the Maldives.\nIf you wake up in Tel Aviv, you wake up every morning, you see that Ottoman Empire 2.0 with the same.\nA lot of this is politics rather than substance.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T19:21:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -604,12 +622,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Middle East Spectator",
         "Our Wars Today"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -665,6 +684,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1Israeli Media: \nInterceptor missiles were launched in Northern Israel following suspicions of an aerial attack.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T08:50:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah didn't executed any operations towards Saudi Arabia today denying the Saudi claims of a drone targeting Makkah \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T08:43:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -741,6 +798,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The US and Japan have agreed to establish a new missile production facility in Japan under an initiative called Operation Supercharge. The facility will manufacture advanced medium-range air-to-air missiles used by F-35 fighters, expanding allied weapons production capacity in the Indo-Pacific.\nThe agreement was announced during defense talks in the Philippines, where Washington and its regional allies are strengthening military cooperation in response to growing tensions with China.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T05:21:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "NETWORK GEOLOCATION-\nRocket Man\ud83d\ude80\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 (\nPOV 53\u00b006'11.43\"N 49\u00b057'32.10\"E\n https://x.com/Grimm_Intel/status/2116021951806513335/photo/1",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T04:20:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Hours after the WSJ report saying Ukraine has paused strikes on Russian refineries, there has been a drone strike at the Novokuybyshevsk oil refinery near Samara. \nPhoto credit- https://t.me/exilenova_plus/33697",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T04:18:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -860,58 +974,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 The IRGC has released footage showing the interception of U.S. MQ-1C Gray Eagle and MQ-9A Reaper unmanned combat aerial vehicles (UCAVs) over the Strait of Hormuz.\nAn MQ-1C Gray Eagle was intercepted and destroyed in the early hours of Thursday, October 29, off the coast of Sirik, east of the Strait of Hormuz.\nAccording to the IRGC\u2019s public relations office, the destruction of the MQ-1C brings the reported number of U.S. MQ-1 and MQ-9 drones destroyed by the IRGC\u2019s air defenses to 68, comprising 54 MQ-9s and 14 MQ-1s.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf0\ud83c\uddf5 North Korea unveils new rocket system in live-fire test\nNorth Korean leader Kim Jong-un personally observed the first-ever live-fire test of the country\u2019s new 600mm \u201cSniper\u201d multiple rocket launcher system, KCNA reported.\nThe test took place as part of North Korea\u2019s 2026 Unmanned Aeronautical Technology Development Exhibition, which also featured: \n\ud83d\udd34 Tactical cruise missile launches\n\ud83d\udd34 Kamikaze drone strikes\n\ud83d\udd34 Showcases of strategic, operational-tactical and strike UAVs\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T01:48:48+00:00",
+      "timestamp": "2026-10-30T08:25:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 The Islamic Revolutionary Guard Corps (IRGC) Navy has captured a U.S.-made MQM-170C Outlaw G2 unmanned aerial vehicle (UAV) west of the Strait of Hormuz using electronic warfare, bringing it down intact.\nManufactured by American company Griffon Aerospace, the MQM-170 Outlaw was originally designed to simulate aerial threats, test air defense systems, and train air defense personnel.\nThe MQM-170C Outlaw G2, the successor to the MQM-170 Outlaw G1, can carry cameras, sensors, and other equipment. In addition to serving as an aerial target, it can be used to test and evaluate air defense systems.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Ukrainian air defenses come up empty against Russian missiles\nUkraine failed to take down a single ballistic missile overnight, according to Ukrainian forces reports.\nMeanwhile, Kharkov residents are posting footage of fresh strikes on social media.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T01:45:56+00:00",
+      "timestamp": "2026-10-30T06:06:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\ud83d\udd34#Breaking: \n\ud83c\uddf0\ud83c\uddf5 North Korea Launches Missile Salvo \ud83d\udea8\nSouth Korea\u2019s military reports North Korea launched approximately 10\u201312 short-range ballistic missiles from the Wonsan area toward waters off its eastern coast.\nStay informed. Follow",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Ukraine under fire again as Russia strikes overnight\nRussian missiles slammed into Kiev last night, with footage from local social media capturing the impacts, while city officials report military warehouses hit.\nIn Dnepropetrovsk, energy facilities came under attack overnight: video shows the city plunged into darkness as strikes landed.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T01:45:09+00:00",
+      "timestamp": "2026-10-30T04:12:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -933,103 +1047,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Houthis claim 6 massive strikes deep inside Saudi Arabia \u2014 hitting oil refineries and major airports\nAnsarallah military spokesman Yahya Saree has announced a wave of six coordinated operations targeting critical Saudi infrastructure and military positions.\nThe targets claimed by Saree:\n\ud83d\udd34 Ras Tanura and Rabigh oil refineries targeted with ballistic missiles, alongside the Aramco facility in Abqaiq\n\ud83d\udd34 King Khalid International Airport in Riyadh hit with a salvo of missiles\n\ud83d\udd34 King Fahd International Airport in Dammam targeted by a drone, reportedly disrupting air traffic\n\ud83d\udd34 A Saudi troop concentration in Najran struck, with claims of casualties among soldiers\nSaree stated that all strikes successfully achieved their objectives.\n\ud83d\udc49 The Houthis are demonstrating their ability to overwhelm Riyadh's air defenses as multiple locations are targeted simultaneously.\nSaree's message is clear: operations deep inside the kingdom will continue until Saudi military operations against Yemen completely cease.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T23:27:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Explosions, smoke visible near Jask, southern Iran \u2014 reports\nReports are emerging of a potential strike on the coastal area of Jask in southern Iran, with claims that missiles hit an Iranian Navy base.\nJask sits on the Gulf of Oman and is the terminus of Iran's Goureh-Jask pipeline \u2014 the critical infrastructure built specifically to bypass the Strait of Hormuz. The cause, intended target, and extent of damage remain unconfirmed.\nThis comes just an hour after the IRGC announced it intercepted and drove away a \"hostile fighter jet\" over the nearby Qeshm area.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T22:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Clash Report",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3 US ambassador compares US to the Ottomans and the British \u2014 insists 'we're not leaving' while the troops pack up\nSpeaking at the Doha Forum, US Ambassador to T\u00fcrkiye Tom Barrack delivered a remarkably candid history lesson on US empire, framing Trump's current retreat as a strategic choice rather than a forced withdrawal.\n\"We\u2019re here. We\u2019re not leaving. We\u2019re just saying we\u2019re not going to own it anymore. We need participation from the region, and the president is doing it,\" he declared.\nLet's look at what \"not leaving\" actually looks like on the ground:\n\ud83d\udd34 All US combat troops and logistical support have officially left Iraq, closing the last base in Erbil\n\ud83d\udd34 The US told Saudi Arabia it would not get directly involved in its defense against the Houthis\n\ud83d\udd34 The US just abandoned the Peshmerga in Iraqi Kurdistan, cutting their funding the same night Iran launched missiles at Erbil\n\ud83d\udd34 The US is currently buying diesel from Russia to mitigate its own energy crisis\nBarrack is openly comparing the United States to the crumbling Ottoman and British empires. When he says \"we're just not going to own it anymore,\" he means the US can no longer afford to subsidize the Middle East's security.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T20:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf6\ud83c\udde6 Qatar denies Israeli election meddling, accuses politicians of spreading disinformation\n \n\ud83d\udd0a\u201cWe categorically deny allegations that Qatar has interfered in Israeli elections or funded any activities intended to influence their outcome,\u201d Foreign Ministry spokesperson Majed al-Ansari said Thursday.\nAl-Ansari noted that Qatar has been accused of financing everyone from Prime Minister Benjamin Netanyahu to the Israeli left and Arab voters.\nHe urged Israeli politicians to stop using Qatar as a scapegoat and stressed that any incoming government must recognize Palestinian rights, including an independent Palestinian state along the 1967 borders, with East Jerusalem as its capital.\nNetanyahu's bloc fell short of a parliamentary majority amid allegations of foreign interference and vote-buying involving Arab parties. According to a report, Israeli security agencies investigated suspected funding linked to Iran, Turkey and Qatar, intended to boost Arab voter turnout.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T14:32:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee9 IRGC captures US spy drone over Strait of Hormuz\nAn intact US MQM-170 spy and decoy drone was tasked with mapping Iran\u2019s air defense systems along the Persian Gulf coast and the Strait of Hormuz, Press TV reports.\n\ud83d\udd0aData retrieved from the UAV indicated that it had taken off from the coast of one of the southern Persian Gulf states, the IRGC Navy said.\nEarlier on Thursday, the IRGC Aerospace Force reported intercepting and destroying a US MQ-1 drone over the Strait of Hormuz using a new air defense system integrated into Iran\u2019s national air defense network.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T13:43:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
     },
     {
       "title": "Telegram",
