@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-29T23:30:48.859060+00:00",
+  "generated_at": "2026-10-30T02:59:33.895352+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, October 30, 2026 through Friday, October 30, 2026 Local\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/29/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNEW YORK, NY, Sunday, November 1, 2026 through Sunday, November 1, 2026 Local\nFacility: ZNY",
@@ -49,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/29/2026",
       "location": "ZAU WI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, October 30, 2026 through Sunday, November 1, 2026 Local\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/28/2026",
-      "location": "ZMA FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -432,13 +432,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -533,6 +532,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Israel deadlocked / Trump, Iran and the midterms](https://www.npr.org/2026/10/29/nx-s1-6019430/israel-deadlocked-trump-iran-and-the-midterms)\nA majority of Israeli voters went against sitting Prime Minister Benjamin Netanyahu's bloc, but he may not have to cede his office. It's not clear the opposition will be able to form a governing coaltion.Guest host Scott Detrow talks with NPR International Correspondent Daniel Estrin and NPR National Security Correspondent Greg Myre about how the election could affect Netanyahu's calculus on the war in Iran. U.S. President Donald Trump said that he and Netanyahu \"have to\u00a0finish the job that we started!\" And Netanyahu campaigned on a renewed bombing campaign.Email the show at\u00a0sourcesandmethods public media with NPR+ and enjoy perks for over 25 podcasts like this one. This ... \n[Read More in Full Article](https://www.npr.org/2026/10/29/nx-s1-6019430/israel-deadlocked-trump-iran-and-the-midterms)\nNPR | npr\u200b.org \u2022 Oct 29, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T00:08:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -652,25 +670,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Ukraine war latest: Ukrainian forces carry out 2 aerial evacuations of wounded soldiers, video shows ](https://t.me/KyivIndependent_official/56448)\nUkraine war latest: Ukrainian forces carry out 2 aerial evacuations of wounded\nsoldiers, video shows\n[https://kyivindependent.com/ukraine-war-latest-ukrainian-forces-carry-out-2-aerial-evacuations-of-wounded-soldiers-video-shows/]\n\u2022 Ukrainian forces carry out 2 aerial evacuations of wounded soldiers, video\nshows\n\u2022 Death toll from Russian attack on park in Kharkiv Oblast on Oct. 19 rises to 6\nafter child dies in hospital\n\u2022 Ukraine strikes Russian plant producing missile, bomb batteries in Yelets,\nGeneral Staff says\n\u2022 Exclusive: Russia significantly expands glide-bomb production, research shows\n\u2022 Russian ministry recommends underground data centers following Ukrainian drone\nstrikes\nPhoto: Ukraine's 475th Se... \n[Read More in Full Article](https://t.me/KyivIndependent_official/56448)\n | t\u200b.me \u2022 Oct 26, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-26T21:44:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6\ud83c\uddf5\ud83c\uddf0\ud83c\uddf9\ud83c\uddf7\ud83c\uddee\ud83c\uddf7 \u2014 U.S. Ambassador to T\u00fcrkiye Tom Barrack:\nIt\u2019s amazing: we have Saudi Arabia, Pakistan and T\u00fcrkiye traveling to Iran to try to lower the temperatures at the same time as we\u2019re aligned with them. \nWe\u2019re all getting used to a different kind of foreign policy.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
@@ -700,13 +699,31 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Ansarallah missile launches towards Saudi Arabia. Impacts imminent. Stand by!",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T00:50:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -729,52 +746,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Saudi Civil Defense: Debris fell following the interception of two ballistic missiles in Riyadh, resulting in the injury of a citizen and damage to a house and a vehicle.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T20:47:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi (Ansarallah) military spokesman Yahya Saree has announced six operations targeting Saudi airports, energy infrastructure and military positions.\nSaree claimed the operations targeted the Ras Tanura refinery with a ballistic missile, the Aramco facility in Abqaiq with a missile, King Khalid International Airport in Riyadh with a salvo of missiles, King Fahd International Airport in Dammam with a drone, the Rabigh oil refinery with a ballistic missile, and a Saudi troop concentration in Najran.\nHe claimed the strikes achieved their objectives, disrupted air traffic at King Fahd International Airport, and caused casualties among Saudi soldiers in Najran.\nSaree said Houthi (Ansarallah) forces would continue operations deep inside Saudi Arabia until Saudi military operations against Yemen cease.\nVideo translated by Inter Bellum News.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T19:57:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4 ELN members attacked Colombian Navy Marine Corps troops with four grenades launched from drones near the San Juan River, in the Munguid\u00f3 sector of the Litoral del San Juan municipality, Choc\u00f3.\nThe military confirmed that the explosions caused no injuries or casualties among military personnel or the civilian population.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Lockheed Martin has published an image of its PrSM (Precision Strike Missile) Increment 4, a long-range missile under development with a planned range of more than 1,000 km.\nThe missile will be equipped with an L3Harris-developed ramjet engine and a guidance system designed to engage moving ground and maritime targets. It will be launched from M142 HIMARS or M270A2 MLRS launchers.\nOn September 25, 2026, the U.S. Army awarded contracts to five companies \u2014 Anduril, Castelion, Lockheed Martin, Mach Industries, and RTX \u2014 to develop and test competing PrSM Increment 4 prototypes during fiscal years 2027\u20132028.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T03:37:35+00:00",
+      "timestamp": "2026-10-30T02:26:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -788,12 +766,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddeb\ud83c\uddf7\ud83c\udde7\ud83c\uddea\ud83c\uddfe\ud83c\uddea [VRT NWS](https://www.vrt.be/vrtnws/nl/2026/10/26/ballistische-raket-neergeschoten-in-buurt-van-belgische-mijnenjager/): A French Navy frigate shot down a ballistic missile near Belgian minehunter BNS Primula in the Bab el-Mandeb Strait in mid-October, Belgium\u2019s Defence Ministry confirmed on 26 October. \nThe missile was suspected to have been launched by the Houthis.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddf4\ud83c\uddf8\ud83c\uddfb Footage shows at least three light helicopters at the El Rodeo Fortress, a military facility in Jiman\u00ed, Independencia province, near the Haitian border, with one flying at low altitude while the others remain on the ground.\nNational Airlines Boeing 747-400 from El Salvador reportedly carried five MD500 and MD530 military helicopters from the Salvadoran Air Force, landing at Las Am\u00e9ricas International Airport in Santo Domingo on the early morning of October 28.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T03:31:59+00:00",
+      "timestamp": "2026-10-30T02:24:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -807,12 +785,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddea\ud83c\uddf9\u26a1\ufe0f \u2014 Rosoboronexport has delivered the first batch of 12 Russian-made Su-35 multirole fighters to the Ethiopian Air Force.\nAt Zhukovsky Airport, an Ethiopian delegation was shown one of the aircraft from the initial batch, which is scheduled to be delivered to Ethiopia soon.\nEthiopian Prime Minister Abiy Ahmed described the deliveries as a significant step toward strengthening national security and deterring potential aggression. He praised Russian President Vladimir Putin for facilitating the delivery of the Su-35s a year ahead of schedule.\nAbiy also announced that Ethiopia plans to acquire four Russian-made S-400 air defense systems as part of its efforts to bolster its military capabilities.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\udde7\ud83c\uddec\ud83c\uddf7\ud83c\uddfa [i24NEWS](https://www.i24news.tv/en/news/international/europe/artc-naval-drones-sink-israeli-operated-cargo-ship-off-bulgaria-s-black-sea-coast): The Greek-owned, Israeli-operated cargo ship Contship Jet sank in the Black Sea after being struck by three naval drones off Bulgaria\u2019s coast.\nThe Liberian-flagged vessel was transporting 421 containers from Haifa to Constan\u021ba, Romania. All 18 crew members were rescued unharmed and taken to Varna.\nThe attacker has not been identified. Suspicion has fallen on Russia amid a wave of attacks on commercial shipping in the Black Sea, although Bulgarian authorities have not formally assigned responsibility. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T03:22:39+00:00",
+      "timestamp": "2026-10-30T02:17:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -820,6 +798,139 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 [Reuters](https://www.reuters.com/world/iran/irans-hidden-web-military-agencies-is-slipping-hardware-past-us-blockade-2026-10-29/): Iran has created a secret network of more than 5,000 military agencies, identified by names starting with MOD for Ministry of Defense, to import at least $2 billion in hardware, explosives, and heavy-duty trucks since January 2025, evading both the U.S. naval blockade and Western sanctions, according to a Reuters investigation based on thousands of Iranian bank records, corporate filings, and import data.\nA single agency, MOD 346428, imported $2.3 billion of military hardware between January 2025 and June 2026, including rocket propellant ingredients, detonators, and hundreds of Iveco trucks that can serve as missile launchers, with goods recorded as coming from China, Russia, and Germany, while 97% of the shipments reviewed were settled without currency transfer through frontmen abroad.\nMonthly imports dropped 47% in March after the war began but rebounded by May, with deliveries reaching Iran by land, sea, and air, as Reuters found no evidence that any of the numbered agencies have been designated by Western governments, and a Treasury spokeswoman said the U.S. has cut off the economic lifelines of Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T02:10:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A CENTCOM official tells Faytuks Network that the US Air Force struck a missile launcher on Qeshm Island ealier tonight after Iran launched missiles from the area.\n\"This is an area we've been watching over the last week, and we were prepared to act in a defensive manner.\"",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T02:08:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The U.S. has launched a military airlift to Israel and the Middle East amid preparations for renewed operations against Iran, Kan News reports.\nAt least 10 U.S. military transport aircraft landed at Israeli airbases in the past 24 hours, potentially carrying air defense supplies. Additional flights landed in Jordan, Saudi Arabia and Qatar.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T01:55:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 The IRGC has released footage showing the interception of U.S. MQ-1C Gray Eagle and MQ-9A Reaper unmanned combat aerial vehicles (UCAVs) over the Strait of Hormuz.\nAn MQ-1C Gray Eagle was intercepted and destroyed in the early hours of Thursday, October 29, off the coast of Sirik, east of the Strait of Hormuz.\nAccording to the IRGC\u2019s public relations office, the destruction of the MQ-1C brings the reported number of U.S. MQ-1 and MQ-9 drones destroyed by the IRGC\u2019s air defenses to 68, comprising 54 MQ-9s and 14 MQ-1s.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T01:48:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 The Islamic Revolutionary Guard Corps (IRGC) Navy has captured a U.S.-made MQM-170C Outlaw G2 unmanned aerial vehicle (UAV) west of the Strait of Hormuz using electronic warfare, bringing it down intact.\nManufactured by American company Griffon Aerospace, the MQM-170 Outlaw was originally designed to simulate aerial threats, test air defense systems, and train air defense personnel.\nThe MQM-170C Outlaw G2, the successor to the MQM-170 Outlaw G1, can carry cameras, sensors, and other equipment. In addition to serving as an aerial target, it can be used to test and evaluate air defense systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T01:45:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83d\udd34#Breaking: \n\ud83c\uddf0\ud83c\uddf5 North Korea Launches Missile Salvo \ud83d\udea8\nSouth Korea\u2019s military reports North Korea launched approximately 10\u201312 short-range ballistic missiles from the Wonsan area toward waters off its eastern coast.\nStay informed. Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T01:45:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0a Vance promises Iran won't be a 'forever war'\nVice President JD Vance is trying to reassure the American public that the conflict with Iran won't drag on indefinitely.\n\"I promise you that Donald Trump is not going to let Iran become a forever war. There is a difference between criticizing foreign military misadventures and saying that you can never use the military.\"\nBut 8 months in, the reality is already a quagmire:\n\ud83d\udd34 The US claimed total victory on day one. Today, the Pentagon is still drafting new strike plans while failing to win militarily\n\ud83d\udd34 Iran kept roughly 75% of its ballistic missile arsenal, controls the Strait of Hormuz, and is dictating the terms for any negotiations\n\ud83d\udd34 The US is bleeding leverage: Patriot stockpiles are down from ~3,100 to ~800, and the war costs $246 million a day\nVance says there\u2019s a difference between criticizing misadventures and saying you can never use the military. He's right. The difference here is that the US used the military, lost its leverage, drained its stockpiles, and now has no way to actually end the conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T02:46:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -835,13 +946,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -920,25 +1030,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc80 Musk\u2019s stance on Ukraine shifts \u2018from generous support to outright hostility\u2019 \u2013 report\nSpaceX founder Elon Musk, once a key Starlink supplier to Ukraine, then turned against Kiev and shifted to restrictions on the network used by Ukrainian forces, The Atlantic reports, citing numerous sources.\nSome details of the U-turn:\n\ud83d\udd34 At the start of the Ukraine conflict, Musk supplied thousands of Starlink terminals to Ukrainian hospitals, power plants, government offices, and humanitarian organizations, but the network was later adopted by the Ukrainian military for communications and drone control\n\ud83d\udd34 Online images of Ukrainian drone attacks on Russian troops caused alarm at SpaceX headquarters in Texas as \u201cmore and more people became uncomfortable\u201d about the situation\n\ud83d\udd34 Musk\u2019s concerns deepened when Ukrainian officials asked him to activate Starlink in the Black Sea for an attack on Russian warships near Crimea\n\ud83d\udd34 \u201cStarlink was not meant to be involved in wars. It was so people can watch Netflix and chill and get online for school and do good peaceful things, not drone strikes,\u201d the billionaire told his biographer, Walter Isaacson, at the time\n\ud83d\udd34 Musk recently warned that using Starlink for offensive drone strikes to kill people \u201chas never been allowed, nor should it be, and that this loophole was closed earlier in October\nWith the recent Starlink disruptions in Ukraine, Musk showed that he can cut off the service \u201cany time he wants.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T11:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
