@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-30T09:53:33.369002+00:00",
+  "generated_at": "2026-10-30T16:37:45.577216+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -287,6 +287,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3762\r\nIssue Time: 2026 Oct 30 1459 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3761\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 1228 pfu\nMax time: 2026 Oct 29 1630 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-30 14:59:54.440",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1134\r\nIssue Time: 2026 Oct 29 1910 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 30: None (Below G1) Oct 31: G1 (Minor) Nov 01: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -352,25 +371,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-28 09:23:11.410",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3759\r\nIssue Time: 2026 Oct 27 1138 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3758\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 3304 pfu\nMax time: 2026 Oct 26 1105 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-27 11:38:11.233",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -480,12 +480,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Sudan Accuses Ethiopia of Launching 162 Drone Strikes That Killed Over 500\nSudan has accused Ethiopia of launching 162 drone attacks from its territory that killed more than 400 civilians and 102 soldiers.\nOfficials alleged that drones operated from Ethiopian bases and accused the UAE of involvement.\n[READ MORE](https://clashreport.com/world/articles/sudan-accuses-ethiopia-of-launching-162-drone-strikes-that-killed-over-500-vr1rsr3kqrb/)",
+      "text": "A Rafale Marine fighter jet successfully landed on India\u2019s aircraft carrier INS Vikrant on its first attempt.\nThe trial marks an initial step toward integrating the French-built aircraft into India\u2019s carrier aviation fleet.\n[READ MORE](https://clashreport.com/defense/articles/india-lands-rafale-marine-fighter-on-ins-vikrant-for-first-time-moy5py6jb9d)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T08:45:05+00:00",
+      "timestamp": "2026-10-30T14:52:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -499,50 +499,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Ukrainian Drones Strike Major Russian Oil Refinery After Two-Week Pause \nUkrainian drones struck Russia\u2019s Novokuybyshevsk oil refinery in Samara Oblast overnight, triggering explosions and a large fire.\n[READ MORE](https://clashreport.com/world/articles/ukrainian-drones-reportedly-strike-major-russian-oil-refinery-after-two-week-pause-lulmdnkgig)",
+      "text": "Gr\u00e9goire Roos | Trans-Atlantic Relations Expert | Chatam House:\n\u00a0\nObama drew a red line in Syria: if Assad used gas, the US would intervene. France & Britain said they would join. Gas was used.\n\u00a0\nThe French were ready but Obama said he might not. Cameron turned to Parliament and got a no. France was left alone.\n\u00a0\u00a0\nThen came Afghanistan. The sudden withdrawal, the tragic images of people clinging to aircraft at Kabul airport.\n[FULL INTERVIEW](https://youtu.be/LiFBqj2z0HM)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T08:28:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones hit Russia\u2019s Novokuybyshevsk oil refinery in Samara Oblast early on October 30, triggering explosions and a large fire.\nThe facility is one of the major oil refineries in Russia's Volga region, with an annual processing capacity of 8.8 million tonnes of crude oil.\nThe extent of the destruction remains unclear.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T05:53:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran's Tasnim News Agency reports that the IRGC Aerospace Force intercepted and forced a hostile fighter jet to leave the Qeshm area.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T20:53:31+00:00",
+      "timestamp": "2026-10-30T14:27:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -690,7 +652,7 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1Israeli Media: \nInterceptor missiles were launched in Northern Israel following suspicions of an aerial attack.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1Israeli Media: \nInterceptor missiles were launched in Northern Israel following suspicions of an aerial attack.\n\ud83d\udca7\n Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \nm\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
@@ -746,32 +708,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Former US President Barack Obama on Iran:\nHow is this war going? Our allies and bases have been attacked. Americans have been killed. Hundreds of Americans have been wounded. \nWe have run down our stock of missiles, making us more vulnerable, and Iran now has veto power over the Strait of Hormuz, where much of the world\u2019s oil goes through to get to consumers.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\ud83d\udd34",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T15:15:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Ansarallah missile launches towards Saudi Arabia. Impacts imminent. Stand by!",
+      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 National Advanced Surface-to-Air Missile System (NASAM) system, along with Avenger short-range air defense humvees spotted on the grounds & around Mar-a-Lago",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T00:50:59+00:00",
+      "timestamp": "2026-10-30T16:17:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -785,12 +728,31 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 U.S. strikes occured against Bandar-e-Jask, coastal southern Iran 27 minutes ago. 4 missiles struck the Islamic Republic of Iran Navy's Jask Naval Base.",
+      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 FlightRadar-24, Google Maps, Apple Maps, and a slew of other GPS & tracking apps have begun to obfuscate (blur) U.S bases both stateside (within the US\u2019s borders) and foreign bases.\nIt has been reported that this will not likely reflect for all users until they push for the following updates to each app.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-29T21:55:58+00:00",
+      "timestamp": "2026-10-30T13:57:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Ansarallah missile launches towards Saudi Arabia. Impacts imminent. Stand by!",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T00:50:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -975,69 +937,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel\u2019s years-long campaign against Qatar overshadows claims of Gulf state election interference\nThe Netanyahu government accuses Qatar of [interfering in Israeli elections](https://t.me/geopolitics_prime/77008), but a recent study has uncovered a broader Israel-linked influence campaign smearing Qatar that has been operating since 2023.\nThe psyop targets Western audiences and is timed to coincide with their respective elections. It is now turning its attention to France, months ahead of the 2027 presidential vote, Le Monde reports.\n\u262a\ufe0f Anti-Muslim psyop\nIn July 2024, journalists Marc Owen Jones and Sohan Dsouza exposed a large-scale anti-Muslim, anti-immigrant, and anti-Qatar campaign targeting more than 20 countries. The operation maintains a presence across multiple online platforms, including Facebook, X, Wikimedia projects, YouTube, Telegram, and TikTok.\nAlthough the campaign emerged at the outset of Israel\u2019s war on Gaza, it gained momentum in the following years, increasingly portraying Qatar as seeking to \u201cIslamize\u201d Europe before expanding its reach to the US. A separate strand of the same operation has targeted Lebanon since 2023, promoting anti-Iranian and anti-Hezbollah narratives on social media.\n\u2721\ufe0f Israeli origins\nFor a long time, the campaign's origins remained elusive. However, a forensic analysis of videos produced by the Telegram channel \"Made in Qatar\" traced their production environment to Israel and parts of Europe. Other campaign metadata also pointed to an Israeli production infrastructure.\nThe Israeli intelligence service Shin Bet\u2019s immediate response to[ Israel\u2019s inconclusive election results](https://t.me/geopolitics_prime/76964), including accusations of interference by Qatar, appears to follow a pattern that has been unfolding over the past three years.\nQatar has denied [allegations of election meddling](https://t.me/geopolitics_prime/76978), while Dean Livine, acting director of Israel\u2019s Central Elections Committee, has also rejected claims of foreign interference.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T12:55:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddf0\ud83c\uddf5 North Korea unveils new rocket system in live-fire test\nNorth Korean leader Kim Jong-un personally observed the first-ever live-fire test of the country\u2019s new 600mm \u201cSniper\u201d multiple rocket launcher system, KCNA reported.\nThe test took place as part of North Korea\u2019s 2026 Unmanned Aeronautical Technology Development Exhibition, which also featured: \n\ud83d\udd34 Tactical cruise missile launches\n\ud83d\udd34 Kamikaze drone strikes\n\ud83d\udd34 Showcases of strategic, operational-tactical and strike UAVs\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-30T08:25:28+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Ukrainian air defenses come up empty against Russian missiles\nUkraine failed to take down a single ballistic missile overnight, according to Ukrainian forces reports.\nMeanwhile, Kharkov residents are posting footage of fresh strikes on social media.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T06:06:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Ukraine under fire again as Russia strikes overnight\nRussian missiles slammed into Kiev last night, with footage from local social media capturing the impacts, while city officials report military warehouses hit.\nIn Dnepropetrovsk, energy facilities came under attack overnight: video shows the city plunged into darkness as strikes landed.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T04:12:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0a Vance promises Iran won't be a 'forever war'\nVice President JD Vance is trying to reassure the American public that the conflict with Iran won't drag on indefinitely.\n\"I promise you that Donald Trump is not going to let Iran become a forever war. There is a difference between criticizing foreign military misadventures and saying that you can never use the military.\"\nBut 8 months in, the reality is already a quagmire:\n\ud83d\udd34 The US claimed total victory on day one. Today, the Pentagon is still drafting new strike plans while failing to win militarily\n\ud83d\udd34 Iran kept roughly 75% of its ballistic missile arsenal, controls the Strait of Hormuz, and is dictating the terms for any negotiations\n\ud83d\udd34 The US is bleeding leverage: Patriot stockpiles are down from ~3,100 to ~800, and the war costs $246 million a day\nVance says there\u2019s a difference between criticizing misadventures and saying you can never use the military. He's right. The difference here is that the US used the military, lost its leverage, drained its stockpiles, and now has no way to actually end the conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T02:46:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
