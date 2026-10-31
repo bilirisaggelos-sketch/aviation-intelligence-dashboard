@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-30T21:06:20.492493+00:00",
+  "generated_at": "2026-10-31T00:49:35.409372+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nGRAND FORKS AFB, ND, Sunday, November 1, 2026 through Sunday, March 14, 2027 Local\nFacility: ZMP",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/30/2026",
+      "location": "ZMP ND",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 30, 2026 through Sunday, November 1, 2026 Local\nFacility: ZAB",
@@ -287,6 +306,63 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2272\r\nIssue Time: 2026 Oct 30 2311 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 30 2310 UTC\nValid To: 2026 Oct 31 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-30 23:11:02.193",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2695\r\nIssue Time: 2026 Oct 30 2240 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 30 2235 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-30 22:40:49.120",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5444\r\nIssue Time: 2026 Oct 30 2224 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 30 2223 UTC\nValid To: 2026 Oct 31 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-30 22:24:12.210",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3762\r\nIssue Time: 2026 Oct 30 1459 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3761\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 1228 pfu\nMax time: 2026 Oct 29 1630 UTC",
       "source": "NOAA Space Weather",
@@ -325,59 +401,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3761\r\nIssue Time: 2026 Oct 29 1614 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3760\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 2493 pfu\nMax time: 2026 Oct 28 1805 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-29 16:14:35.270",
+      "title": "US approves sale of 500 Patriot missiles to Ukraine",
+      "text": "US approves sale of 500 Patriot missiles to Ukraine\nThe American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-10-31T00:40:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WATA20\r",
-      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1133\r\nIssue Time: 2026 Oct 28 1638 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nOct 29: None (Below G1) Oct 30: None (Below G1) Oct 31: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: G1 (Minor) geomagnetic storms are likely on 31 Oct primarily due to recurrent, positive polarity coronal hole high speed stream effects.\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-28 16:38:01.100",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3760\r\nIssue Time: 2026 Oct 28 0923 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3759\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 1789 pfu\nMax time: 2026 Oct 27 1715 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-28 09:23:11.410",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -469,31 +507,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "\ud83d\udcf8 Never-before-released footage of Hamas\u2019s Qassam Brigades commanders, including military chief Mohammed Deif, meeting to plan the Oct. 7, 2023 attack on Israel.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T19:43:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -898,6 +918,45 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude9a Iran Keeps Military Supplies Coming Despite US Sanctions\nIran has imported at least $2B in equipment, explosives and heavy trucks since January 2025 through more than 5,000 defense-linked agencies, according to Reuters investigation. Supplies kept arriving during the war, complicating US efforts to starve Iranian missile and drone factories of materials.\nThe buyers operate under numbered names beginning with MOD, short for Ministry of Defense. Most date to 2013, meaning Iran had years to build these channels before the fighting began. Despite decades of sanctions against Iran\u2019s military, Reuters found no evidence that the numbered agencies it examined were themselves on Western sanctions lists.\nOil sales help pay the bills, with intermediaries and foreign shell companies using revenue held abroad to buy goods and send them home. For 97% of the shipments, the records showed settlement without a currency transfer. Keeping the money overseas reduces the need for cross-border payments that can trigger sanctions checks.\nOne buyer, MOD 346428, brought in rocket propellants, explosives, weapons components and heavy trucks between January 2025 and June 2026. These are the less photogenic essentials behind a missile launch: fuel, parts and vehicles that could carry launch equipment.\nDeliveries came by land, sea and air, with much of the cargo listed as originating in China, Russia and Germany. A naval blockade cannot close every road or air route, and a product\u2019s country of origin does not prove its manufacturer knowingly supplied Iran\u2019s military.\nReuters examined bank records, corporate filings and import data, cross-checking part of some 19,000 import records. Many goods also have civilian uses, so a shipment of components cannot be counted as a batch of finished missiles. The records do not establish whether Iran is replacing weapons as fast as it fires them.\nThe US Treasury told Reuters it was \u201c10 steps ahead,\u201d a confident assessment for an enforcement effort still watching supplies get through. The findings show how Iran has kept buying despite restrictions, even if they do not show that sanctions leave it unscathed.\nIran\u2019s continued access to military supplies exposes the gap between US pressure and US control. Sanctions and a naval blockade have failed to seal off its procurement network, leaving Iran able to bring in materials for weapons production even during the war.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-31T00:46:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Mar-a-Lago turned into a military fortress \u2014 Stinger missiles deployed to protect Trump's club\nThe federal government is deploying Avenger air defense systems to protect President Trump\u2019s private Florida resort and the nearby Palm Beach airport.\n\ud83d\udc49 The Avenger systems fire short-range Stinger missiles \u2014 military hardware typically used to defend forward-deployed troops and bases from aerial threats.\nWhen the President of the United States turns his private civilian resort into a heavily armed military zone, you have to wonder what exactly he is so afraid of.\nHe promised the country the war with Iran was \"winding down\" and \"a very inexpensive price to pay.\" He didn't mention that the price tag would eventually include putting surface-to-air missiles in his own backyard.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-30T23:49:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2694\ufe0f Iran captures US MQM-170 'Outlaw' drone using electronic warfare over Qeshm\nThe IRGC has confirmed that its Aerospace Force brought down an American MQM-170 \"Outlaw\" reconnaissance drone over Qeshm Island a few hours ago using advanced electronic warfare systems.\nThis marks the second time Iran has successfully captured this drone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -962,25 +1021,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-30T17:25:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel\u2019s years-long campaign against Qatar overshadows claims of Gulf state election interference\nThe Netanyahu government accuses Qatar of [interfering in Israeli elections](https://t.me/geopolitics_prime/77008), but a recent study has uncovered a broader Israel-linked influence campaign smearing Qatar that has been operating since 2023.\nThe psyop targets Western audiences and is timed to coincide with their respective elections. It is now turning its attention to France, months ahead of the 2027 presidential vote, Le Monde reports.\n\u262a\ufe0f Anti-Muslim psyop\nIn July 2024, journalists Marc Owen Jones and Sohan Dsouza exposed a large-scale anti-Muslim, anti-immigrant, and anti-Qatar campaign targeting more than 20 countries. The operation maintains a presence across multiple online platforms, including Facebook, X, Wikimedia projects, YouTube, Telegram, and TikTok.\nAlthough the campaign emerged at the outset of Israel\u2019s war on Gaza, it gained momentum in the following years, increasingly portraying Qatar as seeking to \u201cIslamize\u201d Europe before expanding its reach to the US. A separate strand of the same operation has targeted Lebanon since 2023, promoting anti-Iranian and anti-Hezbollah narratives on social media.\n\u2721\ufe0f Israeli origins\nFor a long time, the campaign's origins remained elusive. However, a forensic analysis of videos produced by the Telegram channel \"Made in Qatar\" traced their production environment to Israel and parts of Europe. Other campaign metadata also pointed to an Israeli production infrastructure.\nThe Israeli intelligence service Shin Bet\u2019s immediate response to[ Israel\u2019s inconclusive election results](https://t.me/geopolitics_prime/76964), including accusations of interference by Qatar, appears to follow a pattern that has been unfolding over the past three years.\nQatar has denied [allegations of election meddling](https://t.me/geopolitics_prime/76978), while Dean Livine, acting director of Israel\u2019s Central Elections Committee, has also rejected claims of foreign interference.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T12:55:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
