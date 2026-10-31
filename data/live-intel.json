@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T17:56:35.529117+00:00",
+  "generated_at": "2026-10-31T21:23:32.421600+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -136,45 +136,7 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nAtlanta, GA, Friday, October 30, 2026 through Saturday, October 31, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/28/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNew York, NY, Sunday, November 1, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/27/2026",
-      "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNew York, NY, Saturday, October 31, 2026 Local\nFacility: ZNY",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
@@ -306,14 +268,52 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5445\r\nIssue Time: 2026 Oct 31 1220 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 31 1235 UTC\nValid To: 2026 Nov 01 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "title": "Space Weather Message Code: ALTK06\r",
+      "text": "Space Weather Message Code: ALTK06\r\nSerial Number: 729\r\nIssue Time: 2026 Oct 31 1914 UTC\r\n\r\nALERT: Geomagnetic K-index of 6 \nThreshold Reached: 2026 Oct 31 1914 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-31 12:20:48.940",
+      "timestamp": "2026-10-31 19:14:22.467",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK06\r",
+      "text": "Space Weather Message Code: WARK06\r\nSerial Number: 673\r\nIssue Time: 2026 Oct 31 1908 UTC\r\n\r\nWARNING: Geomagnetic K-index of 6 expected \nValid From: 2026 Oct 31 1908 UTC\nValid To: 2026 Oct 31 2359 UTC\nWarning Conditions: Onset\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-31 19:08:30.750",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2059\r\nIssue Time: 2026 Oct 31 1907 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 31 1907 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-10-31 19:07:47.143",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -326,13 +326,13 @@
     },
     {
       "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2272\r\nIssue Time: 2026 Oct 30 2311 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 30 2310 UTC\nValid To: 2026 Oct 31 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2273\r\nIssue Time: 2026 Oct 31 1904 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 31 1901 UTC\nValid To: 2026 Oct 31 2359 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-30 23:11:02.193",
+      "timestamp": "2026-10-31 19:04:48.307",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -345,13 +345,13 @@
     },
     {
       "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2695\r\nIssue Time: 2026 Oct 30 2240 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 30 2235 UTC\nSynoptic Period: 2100-2400\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2696\r\nIssue Time: 2026 Oct 31 1847 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 31 1845 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-30 22:40:49.120",
+      "timestamp": "2026-10-31 18:47:57.080",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -359,63 +359,6 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5444\r\nIssue Time: 2026 Oct 30 2224 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Oct 30 2223 UTC\nValid To: 2026 Oct 31 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-30 22:24:12.210",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3762\r\nIssue Time: 2026 Oct 30 1459 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3761\nBegin Time: 2026 Oct 23 1140 UTC\nYesterday Maximum 2MeV Flux: 1228 pfu\nMax time: 2026 Oct 29 1630 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-30 14:59:54.440",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "US approves sale of 500 Patriot missiles to Ukraine",
-      "text": "US approves sale of 500 Patriot missiles to Ukraine\nThe American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-10-31T12:21:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -621,13 +564,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -868,45 +810,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-31T13:50:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran's supreme leader orders swift response to any enemy threat \u2018without geographic limitations\u2019\nIf enemies resume military or terrorist attacks, Iran\u2019s Armed Forces and nation will decide when and under what conditions those attacks end, Ayatollah Mojtaba Khamenei announced at a meeting with top Armed Forces commanders, according to Iranian media reports.\nThe Islamic Republic\u2019s Supreme Leader ordered to meet any potential enemy threat with an immediate, forceful response unconstrained by geographical limits.\nHe also called for:\n\ud83c\udf0f strengthening military intelligence architecture\n\ud83c\udf0f deepening indigenous defense capabilities in doctrine and tactics\n\ud83c\udf0f comprehensively updating the military target database so all physical and non-physical assets of the \u2018US-Zionist enemy\u2019 fall within reach of Iranian forces\n\ud83c\udf0f reinforcing spiritual foundations and the spirit of jihad\nKhamenei described nationwide support for the military as a key pillar of deterrence against foreign powers and their domestic allies. \nHe praised the resilience of the Resistance Front in various countries and called the \u201cunity of operational domains\u201d a decisive factor in shaping a new political and security order in West Asia.\nArmy commanders also reported high readiness along the Persian Gulf coast, Strait of Hormuz, Sea of Oman, and northwestern and southeastern borders, plus a multi-fold rise in production of key munitions and weapons.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T11:09:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3 Is China fielding a heavier-punching Yitian-L defense system on its Humvee equivalent?\nChina\u2019s Yitian-L short-range air defense system appears to have undergone an evolutionary upgrade, judging by images circulating online and cited in The Defence Blog. The Dongfeng Mengshi 4\u00d74 is now speculated to carry two six-round missile packs, tripling ready-to-fire capacity from four to 12 missiles.\nThe reworked launcher replaces the earlier four separate canisters with two compact six-tube boxes. Whether the missiles remain standard TY-90s or a smaller derivative remains unclear.\nKey facts on the baseline system:\n\ud83d\udd34 lightweight version of the Yitian family, designed to protect troops and sites against low-flying helicopters, drones, and cruise missiles\n\ud83d\udd34 standard load packs four TY-90 infrared-guided missiles plus a folding 3D X-band radar (detection up to 18 km, per NORINCO)\n\ud83d\udd34 500 m\u20136 km estimated engagement range, up to 4 km altitude; fire-and-forget heat-seeking guidance that avoids continuous radar emission\n\ud83d\udd34 two operators control system from inside the vehicle via a digital console\nThe US has a similar solution in its Avenger system, which mounts short-range Stinger missiles on a light tactical vehicle to provide mobile air defense against low-altitude threats. [It is currently being deployed to protect Trump's Mar-a-Lago resort](https://t.me/geopolitics_prime/77045) and the nearby Palm Beach airport.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T08:56:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
