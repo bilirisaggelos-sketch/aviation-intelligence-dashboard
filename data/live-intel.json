@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-10-31T00:49:35.409372+00:00",
+  "generated_at": "2026-10-31T06:51:24.936903+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDUBUQUE, IA, Sunday, November 1, 2026 through Sunday, November 1, 2026 Local\nFacility: ZAU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "10/31/2026",
+      "location": "ZAU IA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nGRAND FORKS AFB, ND, Sunday, November 1, 2026 through Sunday, March 14, 2027 Local\nFacility: ZMP",
@@ -30,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/30/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, October 30, 2026 through Friday, October 30, 2026 Local\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/29/2026",
-      "location": "ZMA FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -105,25 +105,6 @@
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "10/28/2026",
-      "location": "ZTL GA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nAtlanta, GA, Friday, October 30, 2026 through Friday, October 30, 2026 Local\nFacility: ZTL",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/27/2026",
       "location": "ZTL GA",
       "lat": null,
       "lon": null,
@@ -287,25 +268,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Sunday, October 25, 2026 through Saturday, October 31, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/23/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Space Weather Message Code: WARK05\r",
       "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2272\r\nIssue Time: 2026 Oct 30 2311 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 30 2310 UTC\nValid To: 2026 Oct 31 0600 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -412,12 +374,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "BBC World News"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -660,12 +623,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "BBC World News"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -698,13 +662,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -747,12 +710,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The US and Japan have agreed to establish a new missile production facility in Japan under an initiative called Operation Supercharge. The facility will manufacture advanced medium-range air-to-air missiles used by F-35 fighters, expanding allied weapons production capacity in the Indo-Pacific.\nThe agreement was announced during defense talks in the Philippines, where Washington and its regional allies are strengthening military cooperation in response to growing tensions with China.",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Al Jazeera has released rare footage from inside Hamas's underground tunnel network, showing senior commanders of the group's military wing, the Al-Qassam Brigades, holding meetings of its General Military Council.\nThe footage documents discussions involving Hamas's senior military leadership, including preparations for the October 7 attack and other military operations.\nThe commanders are seen sitting on carpets in two rows, while Mohammed Deif, then head of Hamas's military wing, sits on a bed at the head of the meeting.\nAmong those identified in the footage are Mohammed Deif, Marwan Issa, Mohammed Sinwar, Raed Saad, Rafah Salameh, Ahmed Ghandour, Ayman Nofal, Mohammed Shabana, Izz al-Din al-Haddad and other senior Hamas commanders.\nAll the commanders identified in the footage were subsequently killed by Israel during the war.\nThe image itself dates to before May 2021, as it includes Bassem Issa, the former commander of Hamas's northern Gaza brigade, who was killed during Operation Guardian of the Walls that year.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T05:21:30+00:00",
+      "timestamp": "2026-10-31T05:27:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -766,12 +729,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "NETWORK GEOLOCATION-\nRocket Man\ud83d\ude80\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 (\nPOV 53\u00b006'11.43\"N 49\u00b057'32.10\"E\n https://x.com/Grimm_Intel/status/2116021951806513335/photo/1",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddef\ud83c\uddf4\ud83c\uddf8\ud83c\udde6\ud83c\uddf6\ud83c\udde6 The US has conducted a major military airlift to the Middle East, with at least 10 American military transport aircraft arriving at Israeli airbases over the past 24 hours. \nUS cargo flights have landed in Jordan, Saudi Arabia and Qatar, as Washington reinforces its regional military presence amid preparations for possible renewed conflict with Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T04:20:52+00:00",
+      "timestamp": "2026-10-31T05:23:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -785,12 +748,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Hours after the WSJ report saying Ukraine has paused strikes on Russian refineries, there has been a drone strike at the Novokuybyshevsk oil refinery near Samara. \nPhoto credit- https://t.me/exilenova_plus/33697",
+      "text": "U.S. Central Command (CENTCOM):\n\"\ud83d\udeab CLAIM: Today, Iran's Islamic Revolutionary Guard Corps (IRGC) claimed it destroyed a U.S. military sea drone in the Strait of Hormuz. This claim is FALSE, just like many other IRGC lies this week.\n\u2705 FACT: All U.S. military unmanned surface vessels in the Middle East are accounted for, including a squadron of advanced sea drones on patrol in the Strait of Hormuz supporting CENTCOM's defensive layer.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T04:18:28+00:00",
+      "timestamp": "2026-10-31T05:01:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -804,12 +767,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Lockheed Martin has published an image of its PrSM (Precision Strike Missile) Increment 4, a long-range missile under development with a planned range of more than 1,000 km.\nThe missile will be equipped with an L3Harris-developed ramjet engine and a guidance system designed to engage moving ground and maritime targets. It will be launched from M142 HIMARS or M270A2 MLRS launchers.\nOn September 25, 2026, the U.S. Army awarded contracts to five companies \u2014 Anduril, Castelion, Lockheed Martin, Mach Industries, and RTX \u2014 to develop and test competing PrSM Increment 4 prototypes during fiscal years 2027\u20132028.",
+      "text": "#Colombia \ud83c\udde8\ud83c\uddf4: National Liberation Army (#ELN) carried out drone strikes against Colombian Navy boats in Litoral del San Juan, Choc\u00f3 Department.\nELN fighters used a COTS Drone (possibly DJI Mavic / Matrice UAV) armed with Improvised Air-Dropped Grenades.\nhttps://x.com/war_noir/status/2116310847983132732",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T02:26:54+00:00",
+      "timestamp": "2026-10-31T04:59:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -823,12 +786,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddf4\ud83c\uddf8\ud83c\uddfb Footage shows at least three light helicopters at the El Rodeo Fortress, a military facility in Jiman\u00ed, Independencia province, near the Haitian border, with one flying at low altitude while the others remain on the ground.\nNational Airlines Boeing 747-400 from El Salvador reportedly carried five MD500 and MD530 military helicopters from the Salvadoran Air Force, landing at Las Am\u00e9ricas International Airport in Santo Domingo on the early morning of October 28.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f \u2014 The U.S. State Department has approved a $2.1 billion sale of 500 PAC-3 Missile Segment Enhancement (MSE) interceptors for Ukraine's Patriot air defense systems.\nThe purchase will be funded by Canada, Germany, Norway, and Ukrainian funds backed by the European Union. Lockheed Martin will be the main contractor.\nHowever, the missiles have yet to be manufactured. With the U.S.-Iran war ongoing, Lockheed Martin's production capacity is likely to be focused first on meeting U.S. military requirements rather than supplying Ukraine.\nNo delivery timeline has been announced.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T02:24:35+00:00",
+      "timestamp": "2026-10-31T04:58:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -841,77 +804,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\udde7\ud83c\uddec\ud83c\uddf7\ud83c\uddfa [i24NEWS](https://www.i24news.tv/en/news/international/europe/artc-naval-drones-sink-israeli-operated-cargo-ship-off-bulgaria-s-black-sea-coast): The Greek-owned, Israeli-operated cargo ship Contship Jet sank in the Black Sea after being struck by three naval drones off Bulgaria\u2019s coast.\nThe Liberian-flagged vessel was transporting 421 containers from Haifa to Constan\u021ba, Romania. All 18 crew members were rescued unharmed and taken to Varna.\nThe attacker has not been identified. Suspicion has fallen on Russia amid a wave of attacks on commercial shipping in the Black Sea, although Bulgarian authorities have not formally assigned responsibility. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel\u2019s election deadlock: Three ways Netanyahu could still hold on to power\n\u00a0\nIsrael\u2019s election has left Benjamin Netanyahu without[ a parliamentary majority](https://t.me/geopolitics_prime/76989), but another confrontation with Iran could throw him a political lifeline, reports The Cradle.\n[The 27 October Knesset vote](https://t.me/geopolitics_prime/77008) left neither side able to secure the 61 seats needed to govern.\n\u00a0\nPalestinian lawmakers with 19 seats - their strongest representation in Knesset history - could determine who forms the next government, yet most Zionist opposition parties refuse to rely on their support.\n\u00a0\nPossible routes out of the deadlock include:\n\u00a0\nEmergency unity government\n\ud83c\udf0f renewed war with Iran could push Eisenkot into an alliance with Netanyahu under the banner of national security\n\ud83c\udf0f arrangement could preserve Netanyahu as PM, potentially with a rotation agreement, bring opposition figures into government, sideline both Palestinian and ultra-Orthodox parties\n\u00a0\nOpposition minority government:\n\u2666\ufe0f Eisenkot could attempt to replace Netanyahu with the backing of Palestinian lawmakers\n\u2666\ufe0f his allies refuse to cooperate with Arab parties; Palestinian political forces remain divided over supporting a Zionist government\n\u00a0\nAnother election:\n\ud83d\udd34 if coalition negotiations collapse, Netanyahu could remain caretaker prime minister until another vote is held\n\u00a0\nNetanyahu has another reason to avoid losing power: his ongoing corruption trial and demands for a probe into the security failures preceding Operation Al-Aqsa Flood.\nFurthermore, Israel reportedly fears that even though the US may strike Iran again, [it will not fight for Netanyahu\u2019s maximalist goals](https://t.me/geopolitics_prime/77059) of regime change and total destruction of Iran\u2019s nuclear program.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T02:17:21+00:00",
+      "timestamp": "2026-10-31T06:48:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 [Reuters](https://www.reuters.com/world/iran/irans-hidden-web-military-agencies-is-slipping-hardware-past-us-blockade-2026-10-29/): Iran has created a secret network of more than 5,000 military agencies, identified by names starting with MOD for Ministry of Defense, to import at least $2 billion in hardware, explosives, and heavy-duty trucks since January 2025, evading both the U.S. naval blockade and Western sanctions, according to a Reuters investigation based on thousands of Iranian bank records, corporate filings, and import data.\nA single agency, MOD 346428, imported $2.3 billion of military hardware between January 2025 and June 2026, including rocket propellant ingredients, detonators, and hundreds of Iveco trucks that can serve as missile launchers, with goods recorded as coming from China, Russia, and Germany, while 97% of the shipments reviewed were settled without currency transfer through frontmen abroad.\nMonthly imports dropped 47% in March after the war began but rebounded by May, with deliveries reaching Iran by land, sea, and air, as Reuters found no evidence that any of the numbered agencies have been designated by Western governments, and a Treasury spokeswoman said the U.S. has cut off the economic lifelines of Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel fears a short US campaign will leave it alone with a stronger Iran\nThe US may be willing to launch another round of strikes on Iran, but not to fight until Israel gets its coveted objective of regime change and the destruction of Iran's nuclear program, Haaretz reports.\n\ud83d\udc49 The central concern is reportedly a mismatch between US and Israeli war objectives: Benjamin Netanyahu seeks regime change, while Donald Trump seeks a deal that restricts Iran\u2019s nuclear activities and guarantees shipping through the Strait of Hormuz.\nIsraeli military officials warn that a short US-led campaign could leave Israel with an even more dangerous Iran.\nAccording to the report:\n\ud83d\udd36 IDF doubts several days of airstrikes could bring down the Iranian government or permanently cripple its nuclear and missile capabilities\n\ud83d\udd36 Iran increasingly sees the acquisition of nuclear weapons as essential to its survival and deterrence, and has improved protection around sensitive facilities\n\ud83d\udd36 military strikes might delay its nuclear program, but stopping it would likely require a diplomatic deal backed by international inspections\n\ud83d\udd36 despite economic damage and mounting pressure, Israeli assessments suggest the Iranian government could survive for at least another two years, outlasting Trump's presidency\n\ud83d\udd36 Israel fears Iran could widen the conflict by targeting undersea communications cables, Gulf technology infrastructure or even opening a ground front in the region\nThe prospect of renewed fighting looms amid stalled negotiations and a [US military buildup](https://t.me/geopolitics_prime/76929) in the Middle East, including a third aircraft carrier heading to the region.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T02:10:23+00:00",
+      "timestamp": "2026-10-31T05:22:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "A CENTCOM official tells Faytuks Network that the US Air Force struck a missile launcher on Qeshm Island ealier tonight after Iran launched missiles from the area.\n\"This is an area we've been watching over the last week, and we were prepared to act in a defensive manner.\"",
+      "publisher": "Geopolitics Prime",
+      "text": "\u26a0\ufe0f WARNING: GRAPHIC CONTENT\n\ud83d\udc80 Saudi strikes kill mother and 4 children as Yemen bombardment intensifies\nAnsarallah's Al-Masirah TV reports that Saudi jets returned to prevent paramedics from reaching the wounded, forcing rescuers to recover the bodies hours later.\nYemen's Health Ministry says Saudi strikes and shelling killed 14 people and wounded 15 across the country in just 24 hours.\nThe wave of violence included a girl killed and her mother and sister wounded in Taiz's Hayfan district, a strike on a telecom network in Maqbanah, and shelling in Saada province that killed one and wounded five\u2014including three African migrants.\nAnsarallah spokesman Yahya Saree says the coalition launched 93 airstrikes and missile attacks in the past day, bringing the total to 3,689 since the latest escalation began in July.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T02:08:38+00:00",
+      "timestamp": "2026-10-31T02:32:37+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "The U.S. has launched a military airlift to Israel and the Middle East amid preparations for renewed operations against Iran, Kan News reports.\nAt least 10 U.S. military transport aircraft landed at Israeli airbases in the past 24 hours, potentially carrying air defense supplies. Additional flights landed in Jordan, Saudi Arabia and Qatar.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T01:55:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -953,83 +897,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Iran captures US MQM-170 'Outlaw' drone using electronic warfare over Qeshm\nThe IRGC has confirmed that its Aerospace Force brought down an American MQM-170 \"Outlaw\" reconnaissance drone over Qeshm Island a few hours ago using advanced electronic warfare systems.\nThis marks the second time Iran has successfully captured this drone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T19:38:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Houthis clash with Saudi-backed forces in northern Yemen\nAnsar Allah has released footage that appears to show strikes against groups of pro-Saudi fighters led by Saudi officer Fares al-Shammari in Al Jawf province, according to Tasnim News Agency.\nThe province is located in northern Yemen, bordering the governorates of Marib, Saada, Sanaa, and 'Amran, as well as Saudi Arabia to the north. It has been largely under Ansar Allah's control since the group captured it in March 2020.\nEarlier in the day, Saudi news outlet Ajel reported that Saudi-backed forces had launched an offensive against Houthi positions in eastern Al Jawf, with air support from fighter jets and drones. The latest offensive is said to be part of Operation \"Dawn of Yemen.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T18:48:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Footage shows aftermath of Russian drone strikes in Dnepropetrovsk railway station\nAt least two Geran drones struck locomotives near the station.\nEmergency power outages have been introduced in the city.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T18:06:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddec\ud83c\udde7UK think tank flags risks of US reliance but pushes Gulf states to increase military spending\nGulf states\u2019 overreliance on costly US-made defense systems not only failed to protect them but also left them exposed to drone and missile attacks during the Iran war, the London-headquartered International Institute for Strategic Studies (IISS) warns.\nAccording to the think tank's estimates, the damage to Gulf energy infrastructure amounts to around $58 billion. In the weeks preceding the 8 April ceasefire, Iran launched 4,670 one-way attack drones and over 1,400 ballistic missiles at 12 countries in the region, most of them Gulf states.\nStill, the IISS further argues that Gulf states' performance in recent wars and the lack of credible alternatives \"make the US an indispensable partner for the defense of the Gulf, fears over US global and regional political tensions notwithstanding.\"\nThe think tank makes the case for increased defense spending by Gulf states to counter Iran while lauding Ukraine\u2019s \"military expertise\" and its growing cooperation with countries in the region:\n\ud83c\udf0f Countering swarms of cheap drones is now a key air defense priority for Gulf states\n\ud83c\udf0f Long-range strike capabilities require investment in intelligence, surveillance, and reconnaissance systems\n\ud83c\udf0f Gulf navies remain ill-equipped to counter mines, missiles, and drones after years of reliance on foreign forces\nThe IISS\u2019s position is hardly surprising, given that its funders include some of the world\u2019s largest aerospace and defense contractors, such as Airbus, Lockheed Martin, BAE Systems, Raytheon, and Boeing, among others.\nMeanwhile, Iran is proposing a radically different approach: a regional collective security pact that could end decades of confrontation in the Gulf, reduce the need for multi-trillion-dollar military spending, and allow regional states to redirect resources towards economic development and diversification. Predictably, such a proposal runs counter to the interests of Western defense contractors.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T17:25:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
