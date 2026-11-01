@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T06:41:07.135237+00:00",
+  "generated_at": "2026-11-01T13:49:32.302850+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "10/30/2026",
       "location": "ZMP ND",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, October 30, 2026 through Sunday, November 1, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/30/2026",
-      "location": "ZAB AZ",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -230,21 +211,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nWEST HOLLYWOOD, CA, Saturday, October 31, 2026 through Sunday, November 1, 2026 Local\nFacility: ZLA",
-      "source": "FAA",
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3763\r\nIssue Time: 2026 Nov 01 1302 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Nov 01 1302 UTC\nStation: GOES-19\nComment:",
+      "source": "NOAA Space Weather",
       "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/25/2026",
-      "location": "ZLA CA",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-01 13:02:29.493",
+      "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
       "verification_confidence": 100,
       "verified_sources": [
-        "Federal Aviation Administration"
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -325,25 +306,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2059\r\nIssue Time: 2026 Oct 31 1907 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Oct 31 1907 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-31 19:07:47.143",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The IRGC Aerospace Force brought down an American MQM-170 \u2018Outlaw\u2019 drone with electronic warfare and captured it",
@@ -397,6 +359,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "WATCH: Chinese state broadcaster CCTV has released footage that appears to show a ballistic missile hitting a full-scale mock-up of a U.S. aircraft carrier at a desert test range in Xinjiang.\nThe missile was a DF-26B, the anti-ship variant of the PLA Rocket Force\u2019s Dongfeng-26.\nThe road-mobile DF-26 can carry nuclear or conventional warheads, has a reported range of 3,000\u20135,000+ km, and is often called the \u201ccarrier killer.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-01T12:54:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "UAE President MbZ\u2019s Advisor Anwar Gargash:\nRelations with Iran are essential because Iran is a neighbor. Iran shares the same geostrategic space.\nWe don't really want to see an Iran that goes into a protracted crisis.\nBut on the other hand, confidence has been shaken.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-01T12:50:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "UAE President MbZ\u2019s Advisor Anwar Gargash on Iran:\nWe in the United Arab Emirates don't believe that a military solution is viable.\nBut at the same time, we also have to say that this is not a given if political overtures are unable to bridge the divide.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-01T12:44:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -536,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf7 Arab sources report disruptions to GPS systems in the Persian Gulf and other areas located near Iran.\n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 A missile was launched from the city of Qom moments ago as part of ongoing IRGC missile exercises.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T22:25:46+00:00",
+      "timestamp": "2026-11-01T13:42:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 NEW: Iran's Supreme Leader Ayatollah Seyyed Ali Khamenei told senior armed forces commanders that all threats must be met with an immediate and effective response, with no geographical limitations.\nKhamenei stated that if enemies resume military or terrorist attacks, Iran will dictate the timing and conditions of ending them. The meeting also resulted in an order to update the military's target bank against U.S. and Israeli assets.\nHe further praised the Resistance Front's unity as a key factor in shaping West Asia's new political and security order. Commanders reported high readiness in the Strait of Hormuz and along borders, along with a significant increase in ammunition production.\n\u2b50\ufe0f Follow",
+      "text": "\u26a1\ud83c\uddef\ud83c\uddf4 On Saturday, Jordan\u2019s Public Security Directorate reported that nine automatic firearms and GPS devices were found in a suspicious bag in the southern province of Al-Karak.\nA spokesperson for the Public Security Directorate said that the police received a report about a suspicious object in the Mukhei area (Al-Karak province). Police officers immediately arrived at the scene, cordoned off the area, and then specialists began examining the bag.\nDuring the inspection, nine automatic weapons and GPS trackers were found inside. According to available information, these items were illegally brought into Jordan with the help of hot air balloons.\n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T11:25:06+00:00",
+      "timestamp": "2026-11-01T12:00:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,12 +593,50 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 According to Iran\u2019s Fars News Agency, two fishermen were injured and two others are missing after a \u201chostile\u201d drone attacked two fishing boats south of Qeshm Island.\nRainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 A representative of the Iranian army confirmed that the purchase of Su-35S fighters has been completed, and pilot training was finished before the start of the war, but the aircraft did not arrive in time. Iran expects to receive these planes after the end of the war and intends to strengthen its air force with more modern aircraft and equipment.\nInterviewer: We expected to see our Su-35 fighters in this war. And perhaps one of the main criticisms is that if these Su-35s had arrived earlier, many of the events that took place in Iranian airspace might not have happened.\nBecause when our pilots could carry out operations like those performed with the F-5 and Su-24, undoubtedly, if they had Su-35s at their disposal, the situation would have been completely different, wouldn\u2019t it?\nArmy representative: Yes, listen, the issue of the Su-35 has been discussed for several years. We had already taken the necessary steps and completed the preliminary work, including the procurement process, contract signing, and other related matters, which were handled through the relevant bodies both outside and inside the army.\nThe necessary measures for pilot preparation and training were also completed, and in this regard no problems remained.\nIn fact, these aircraft were supposed to arrive before the start of the war. And, God willing, we will definitely receive them after this war and modernize our fleet.\nInterviewer: To the extent you are allowed to disclose information, could you tell us about the army\u2019s plans for developing its air forces?\nArmy representative: As I already mentioned, one of our plans is to add more modern aircraft, such as the Su-35, to our fleet. As I said, the procurement process and related issues were fully agreed upon even before this war.\nWe have also made progress inside the country. Of course, the purchase and acquisition of equipment from abroad will give us greater access to advanced technologies, which we can also use as a basis for our own development.\nGod willing, after the war the army\u2019s air forces will become stronger, equipped with more modern aircraft and more advanced weapons.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T09:44:44+00:00",
+      "timestamp": "2026-11-01T11:58:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea \u2014 A new tally reveals that at least 323 people were killed and 706 wounded in military and security incidents across Yemen between October 1 and 30.\nAn additional 53 casualties were recorded without a specific breakdown.\nThe figures include 119 killed and 218 wounded among southern forces and their allies.\nHouthi fighters and their allies suffered 65 deaths and 50 injuries.\nAdditionally, 19 Saudi military personnel and civilians were killed, with 356 wounded\n\ufeff\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-01T11:39:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddef\ud83c\uddf4\ud83c\uddf8\ud83c\uddfe \u2014 Military fighter jet exercises conducted by the Royal Jordanian Air Force (RJAF) along the Jordanian-Syrian border.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-01T10:45:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,12 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1Footage of Israeli fighterjets a short while ago in the skies over the south.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 \u2014 Israel\u2019s Shin Bet has allegedly threatened targets in Gaza with a choice between being killed alone or having their entire families bombed, according to a report by the London-based Arabic-language outlet Asharq Al-Awsat, THE JERUSALEM POST. \n\u27a1\ufe0f The outlet said it interviewed several Palestinians it described as faction activists, along with their families, who reported similar experiences. The most recent alleged case involved Muhammad Al-Bayouk, who was reportedly called by a Shin Bet officer on Wednesday and told that either the shelter where his family was staying would be bombed or he would be targeted alone. He allegedly went to the roof of the shelter in Khan Younis and was killed by a small projectile launched from an Israeli drone.\n\u27a1\ufe0f A source told the outlet that the alleged targets were activists connected to military operations, while senior field commanders were targeted in larger strikes involving missiles and suicide drones, reportedly even when civilians were at risk.\n\u27a1\ufe0f The IDF and Shin Bet were not approached for comment, and the specific incidents described in the report could not be independently confirmed. The Jerusalem Post said it understood that similar operations had been conducted in the past.\n\u27a1\ufe0f Separately, the IDF announced that strikes on October 25 killed three Palestinian Islamic Jihad and Hamas operatives across Gaza. It also said four Islamic Jihad operatives had recently been killed in targeted strikes in Khan Younis.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T09:26:55+00:00",
+      "timestamp": "2026-11-01T09:23:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -606,6 +663,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 While celebrating Halloween, the White House had the great idea of flying the Presidential plane over the capital for show. \nThe appearance of the aircraft in the sky caused confusion for air traffic, as its low-altitude flight led to a temporary suspension of flights at a major airport and delays for more than 200 flights.\nThe reactions, as you would expect, were negative, especially due to the short notice provided.\nBut hey, as long as the goys are happy.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-01T08:06:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia launched 433 drones at Ukraine overnight, including 64 jet-powered Shaheds, the Air Force says. Ukrainian defenses shot down or suppressed 371 drones, including 47 jet-powered ones. More than 40 were still airborne at 07:30, with impacts recorded at 16 locations.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-01T07:59:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -687,51 +782,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 For the eighth time today the IDF is using suicide drones to take out antennas over buildings that provide internet services in the town of Mayfadoun, southern Lebanon.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T06:25:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran warns any enemy ground incursion would face a \u2018killing field\u2019\nIran\u2019s military is prepared for every possible enemy attack scenario, from a sudden strike to a prolonged war of attrition, Brigadier General Yadollah Javani, the IRGC\u2019s deputy for political affairs, told Fars News Agency. \nHe underscored that:\n \u2666\ufe0f Iran operates on the assumption that the US or Israel could launch another attack at any moment, and its armed forces will not be caught off guard\n\u2666\ufe0f Iran\u2019s offensive capabilities have grown, it can confront its adversaries not only through defensive operations but also with pre-emptive strikes and long-range offensive attacks; US warships could face potentially devastating blows\n\u2666\ufe0f air defense, combat drones and advanced military systems have made significant progress\nAny ground invasion by enemy forces would become a \u201ckilling ground\u201d for them, Javani stressed, citing US failures in Afghanistan and Iraq.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude80 Iran flexes missile and drone force as US-Israeli strike talk grows\nIranian state media has released new images of its missile and drone preparations, as talk intensifies about a possible new US-Israeli attack\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T06:17:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8 US faces uphill battle in the drone production race\nThe US is starting \u201cbasically from zero\u201d in mass-producing cheap military drones, Bloomberg cites a senior Pentagon official as admitting, exposing the scale of its struggle to catch up with Russia and China. \nWhile its rivals can manufacture millions of expendable UAVs, the US is still trying to build the factories, supply chains and procurement systems needed to produce them at scale. The Pentagon has poured roughly $1.1 billion into its Drone Dominance program, a four-stage contest designed to push manufacturers through increasingly demanding tests and larger orders to prove they can mass-produce drones.\nAmerican manufacturers face three major obstacles:\n\ud83c\udf0f China dominates production of key components, including batteries, brushless motors, propellers and cameras; US manufacturers must find alternative suppliers to comply with restrictions on Chinese parts, often paying significantly more for components\n\ud83c\udf0f drone technology and countermeasures evolve within weeks - manufacturers must continuously update software and hardware while simultaneously scaling production\n\ud83c\udf0f the US military's procurement system is built around expensive, complex weapons developed over years, not disposable drones that must be produced cheaply and replaced in huge numbers\nA previous Biden-era initiative, Replicator, promised a swarm of attack drones, yet fell far short of its target, delivering only several hundred drones against a goal of thousands. Meanwhile, China could rapidly scale production to 500,000 drones a month, according to Bloomberg Intelligence.\nThe Pentagon's proposed budget allocates $55 billion to autonomous warfare, including $17 billion for drones and other uncrewed systems. But the funding push could face political headwinds after the midterms if Democrats take control of Congress.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T04:50:15+00:00",
+      "timestamp": "2026-11-01T10:04:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
