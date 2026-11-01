@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:23:32.421600+00:00",
+  "generated_at": "2026-11-01T00:20:42.725676+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -268,6 +268,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2274\r\nIssue Time: 2026 Nov 01 0008 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Nov 01 0007 UTC\nValid To: 2026 Nov 01 0900 UTC\nWarning Conditions: Persistence\nNoaa Scale: G1 - Minor\nComment: Re-issued due to technical issues with end date of previous warning.\n\r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-01 00:08:14.280",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK06\r",
       "text": "Space Weather Message Code: ALTK06\r\nSerial Number: 729\r\nIssue Time: 2026 Oct 31 1914 UTC\r\n\r\nALERT: Geomagnetic K-index of 6 \nThreshold Reached: 2026 Oct 31 1914 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
       "source": "NOAA Space Weather",
@@ -333,25 +352,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-31 19:04:48.307",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2696\r\nIssue Time: 2026 Oct 31 1847 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Oct 31 1845 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-31 18:47:57.080",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,6 +555,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf7 Arab sources report disruptions to GPS systems in the Persian Gulf and other areas located near Iran.\n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-10-31T22:25:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 NEW: Iran's Supreme Leader Ayatollah Seyyed Ali Khamenei told senior armed forces commanders that all threats must be met with an immediate and effective response, with no geographical limitations.\nKhamenei stated that if enemies resume military or terrorist attacks, Iran will dictate the timing and conditions of ending them. The meeting also resulted in an order to update the military's target bank against U.S. and Israeli assets.\nHe further praised the Resistance Front's unity as a key factor in shaping West Asia's new political and security order. Commanders reported high readiness in the Strait of Hormuz and along borders, along with a significant increase in ammunition production.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -590,44 +609,6 @@
         "CASELS"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 \u2014 The U.S. has approved the sale of 500 Patriot PAC-3 missiles to Ukraine for $2.1 billion. \nThe purchase will be funded by Canada, Germany, Norway and EU-backed Ukrainian funds, with Lockheed Martin as the main contractor.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T20:30:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Ansarllah missiles targeted Al Masshiq Palace at Aden\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T20:24:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -791,25 +772,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-10-31T14:31:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude97\ud83c\uddee\ud83c\uddf7 Iran ready for payback against would-be aggressors\n\ud83d\udd0a\u201cThe comprehensive and operational plan of Iran\u2019s Armed Forces has been completed, and the decision to deliver a decisive, comprehensive and very extensive response to any military aggression is absolutely certain,\u201d a senior Iranian security and political official said as quoted by Tasnim.\nThe official warned that Iran\u2019s enemies and their \u201cregional supporters\u201d should beware as the scale of Iran\u2019s retaliation \u201cwill certainly be shocking.\u201d\nThe joint US-Israeli attack on Iran, which started on February 28, prompted a large-scale Iranian retaliation against US military infrastructure and US-lined assets all across the Persian Gulf region.\nWaves of Iranian drone and missile strikes resulted in serious material losses for the US military, with the key US naval base in Bahrain being rendered virtually inoperable.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T13:50:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
