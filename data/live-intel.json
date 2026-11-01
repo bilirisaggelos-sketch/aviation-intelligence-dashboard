@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-01T00:20:42.725676+00:00",
+  "generated_at": "2026-11-01T06:41:07.135237+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSalina, DC, Sunday, November 1, 2026 through Sunday, November 1, 2026 Local\nFacility: ZKC",
+      "text": "FAA SECURITY TFR\nSalina, KS, Sunday, November 1, 2026 through Sunday, November 1, 2026 Local\nFacility: ZKC",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
-      "timestamp": "10/31/2026",
-      "location": "ZKC DC",
+      "timestamp": "11/01/2026",
+      "location": "ZKC KS",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -231,25 +231,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLexington, KY, Friday, October 30, 2026 through Saturday, October 31, 2026 Local\nFacility: ZID",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "10/26/2026",
-      "location": "ZID KY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nWEST HOLLYWOOD, CA, Saturday, October 31, 2026 through Sunday, November 1, 2026 Local\nFacility: ZLA",
       "source": "FAA",
       "source_type": "official",
@@ -264,6 +245,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2060\r\nIssue Time: 2026 Nov 01 0117 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Nov 01 0117 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-01 01:17:17.120",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -333,25 +333,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-10-31 19:07:47.143",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2273\r\nIssue Time: 2026 Oct 31 1904 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Oct 31 1901 UTC\nValid To: 2026 Oct 31 2359 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-31 19:04:48.307",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -602,13 +583,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -631,52 +611,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddf6\ud83c\udde6The Qatari delegation returns from Tehran. Meanwhile, the area surrounding the Strait of Hormuz is witnessing significant activity, with numerous US Air Force refueling aircraft, surveillance planes, fighter jets, and helicopters conducting operations under the hope of securing navigation in the Strait of Hormuz\u2014a failed mission...",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T08:41:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Al Jazeera has released rare footage from inside Hamas's underground tunnel network, showing senior commanders of the group's military wing, the Al-Qassam Brigades, holding meetings of its General Military Council.\nThe footage documents discussions involving Hamas's senior military leadership, including preparations for the October 7 attack and other military operations.\nThe commanders are seen sitting on carpets in two rows, while Mohammed Deif, then head of Hamas's military wing, sits on a bed at the head of the meeting.\nAmong those identified in the footage are Mohammed Deif, Marwan Issa, Mohammed Sinwar, Raed Saad, Rafah Salameh, Ahmed Ghandour, Ayman Nofal, Mohammed Shabana, Izz al-Din al-Haddad and other senior Hamas commanders.\nAll the commanders identified in the footage were subsequently killed by Israel during the war.\nThe image itself dates to before May 2021, as it includes Bassem Issa, the former commander of Hamas's northern Gaza brigade, who was killed during Operation Guardian of the Walls that year.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ufe0f\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkranian drones targeted an oil storage facility in Kstovo, in Russia's Nizhny Novgorod region, early this Sunday morning. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T05:27:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddef\ud83c\uddf4\ud83c\uddf8\ud83c\udde6\ud83c\uddf6\ud83c\udde6 The US has conducted a major military airlift to the Middle East, with at least 10 American military transport aircraft arriving at Israeli airbases over the past 24 hours. \nUS cargo flights have landed in Jordan, Saudi Arabia and Qatar, as Washington reinforces its regional military presence amid preparations for possible renewed conflict with Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T05:23:43+00:00",
+      "timestamp": "2026-11-01T06:30:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -690,12 +631,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "U.S. Central Command (CENTCOM):\n\"\ud83d\udeab CLAIM: Today, Iran's Islamic Revolutionary Guard Corps (IRGC) claimed it destroyed a U.S. military sea drone in the Strait of Hormuz. This claim is FALSE, just like many other IRGC lies this week.\n\u2705 FACT: All U.S. military unmanned surface vessels in the Middle East are accounted for, including a squadron of advanced sea drones on patrol in the Strait of Hormuz supporting CENTCOM's defensive layer.\"",
+      "text": "\u26a1\ufe0f\ufe0f\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkranian drones targeted an oil storage facility in Kstovo, in Russia's Nizhny Novgorod region, early this Sunday morning. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T05:01:52+00:00",
+      "timestamp": "2026-11-01T06:30:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -709,12 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "#Colombia \ud83c\udde8\ud83c\uddf4: National Liberation Army (#ELN) carried out drone strikes against Colombian Navy boats in Litoral del San Juan, Choc\u00f3 Department.\nELN fighters used a COTS Drone (possibly DJI Mavic / Matrice UAV) armed with Improvised Air-Dropped Grenades.\nhttps://x.com/war_noir/status/2116310847983132732",
+      "text": "\u26a1\ufe0f\ud83c\uddfb\ud83c\uddea\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4 GRAPHIC: The Venezuelan Armed Forces reportedly carried out a drone strike against a suspected drug storage facility operated by the National Liberation Army (ELN) between Buena Vista del Meta and Guafilla, in Apure State, near the Colombian border. With at least 20 people dead, including a woman and a pilot.\nThe initial strikes destroyed aircraft allegedly belonging to the guerrilla group that had been concealed in vegetation. Some of those killed reportedly carried Venezuelan identity cards, national ID documents and driver's licenses. Nine bodies were transferred to a morgue in San Fernando de Apure.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T04:59:06+00:00",
+      "timestamp": "2026-11-01T06:30:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -728,12 +669,31 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f \u2014 The U.S. State Department has approved a $2.1 billion sale of 500 PAC-3 Missile Segment Enhancement (MSE) interceptors for Ukraine's Patriot air defense systems.\nThe purchase will be funded by Canada, Germany, Norway, and Ukrainian funds backed by the European Union. Lockheed Martin will be the main contractor.\nHowever, the missiles have yet to be manufactured. With the U.S.-Iran war ongoing, Lockheed Martin's production capacity is likely to be focused first on meeting U.S. military requirements rather than supplying Ukraine.\nNo delivery timeline has been announced.",
+      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf5 [KCNA](http://kcna.kp/en/article/detail/4934d6d26c57abc3d1aba40b7ace6c8f): North Korea\u2019s Missile Administration conducted a test on 31 October to assess the combat adaptation and power of a cluster-bomb warhead to be fitted to tactical ballistic missiles.\nThe Ballistic Missile System Institute and the Warhead Institute said they confirmed the Standard Type 2 cluster-bomb warhead can \u201cturn into ashes\u201d a target area of 12 to 13 hectares at its highest density.\nThe head of the Missile Administration said cluster-bomb warheads are classified into four categories, and that units will be able to select and use all types within this year. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T04:58:49+00:00",
+      "timestamp": "2026-11-01T06:29:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 For the eighth time today the IDF is using suicide drones to take out antennas over buildings that provide internet services in the town of Mayfadoun, southern Lebanon.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-01T06:25:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -747,12 +707,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2709\ufe0f\ud83c\uddf8\ud83c\udde6 Syria eyes Mecca defense pact as Saudi Arabia seeks military muscle for Yemen war\nSyria is weighing joining the [Mecca pact](https://t.me/geopolitics_prime/76850), established in August by Saudi Arabia, Turkey and Pakistan, Syrian Foreign Minister Asaad al-Shaibani has confirmed.\nDiscussions are underway \u201cto evaluate Syria's entry into the Mecca alliance,\" he said during a session on regional security at the Manama Dialogue 2026, according to the SANA.\nSyria is an \"integral\" part of regional security, he noted, reaffirming support for the Yemeni Saudi-backed government.\nThe Mecca alliance commits members to defend one another against external aggression.\nSyria\u2019s entry would potentially open the door to a direct role in Saudi Arabia\u2019s [military campaign against](https://t.me/geopolitics_prime/77036) Yemen\u2019s Ansar Allah movement.\nThe discussions come amid reports of a deeper military partnership:\n\u2666\ufe0f Saudi Arabia has reportedly asked Syria to provide up to 20,000 troops for deployment to Yemen \n\u2666\ufe0f proposed Syrian contingent could include the 90th and 84th Divisions, with the latter reportedly incorporating foreign fighters who previously fought alongside al-Qaeda affiliate al-Nusra - rebranded as Hayat [Tahrir al-Sham](https://t.me/geopolitics_prime/75682) \n\u2666\ufe0f Pakistan already maintains a military presence in Saudi Arabia, while Turkey is reportedly weighing a deployment limited to defensive duties\nThe Trump administration and US Central Command (CENTCOM) have reportedly been consulted and do not oppose the proposal in principle.\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran warns any enemy ground incursion would face a \u2018killing field\u2019\nIran\u2019s military is prepared for every possible enemy attack scenario, from a sudden strike to a prolonged war of attrition, Brigadier General Yadollah Javani, the IRGC\u2019s deputy for political affairs, told Fars News Agency. \nHe underscored that:\n \u2666\ufe0f Iran operates on the assumption that the US or Israel could launch another attack at any moment, and its armed forces will not be caught off guard\n\u2666\ufe0f Iran\u2019s offensive capabilities have grown, it can confront its adversaries not only through defensive operations but also with pre-emptive strikes and long-range offensive attacks; US warships could face potentially devastating blows\n\u2666\ufe0f air defense, combat drones and advanced military systems have made significant progress\nAny ground invasion by enemy forces would become a \u201ckilling ground\u201d for them, Javani stressed, citing US failures in Afghanistan and Iraq.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T16:43:01+00:00",
+      "timestamp": "2026-11-01T06:17:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -766,12 +726,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\ude80\ud83c\uddf1\ud83c\udde7 Israel unleashes fresh wave of attacks on Lebanese settlement\nTwo Israeli drones detonated over the roofs of residential buildings in Mayfadoun, with footage of what appears to be one of these attacks emerging on social media.\nLocal media reports suggest that Israeli drone strikes in the area have been primarily focused on buildings with Internet antennas.\nEarlier this month, Israeli forces carried out a \u2018double-tap\u2019 drone strike in Mayfadoun, first hitting a car and then targeting the people who gathered at the site of[ the attack.](https://t.me/geopolitics_prime/76305)\n\ud83d\udc4d [Boost us](https://t.me/boost/geopolitics_prime) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8 US faces uphill battle in the drone production race\nThe US is starting \u201cbasically from zero\u201d in mass-producing cheap military drones, Bloomberg cites a senior Pentagon official as admitting, exposing the scale of its struggle to catch up with Russia and China. \nWhile its rivals can manufacture millions of expendable UAVs, the US is still trying to build the factories, supply chains and procurement systems needed to produce them at scale. The Pentagon has poured roughly $1.1 billion into its Drone Dominance program, a four-stage contest designed to push manufacturers through increasingly demanding tests and larger orders to prove they can mass-produce drones.\nAmerican manufacturers face three major obstacles:\n\ud83c\udf0f China dominates production of key components, including batteries, brushless motors, propellers and cameras; US manufacturers must find alternative suppliers to comply with restrictions on Chinese parts, often paying significantly more for components\n\ud83c\udf0f drone technology and countermeasures evolve within weeks - manufacturers must continuously update software and hardware while simultaneously scaling production\n\ud83c\udf0f the US military's procurement system is built around expensive, complex weapons developed over years, not disposable drones that must be produced cheaply and replaced in huge numbers\nA previous Biden-era initiative, Replicator, promised a swarm of attack drones, yet fell far short of its target, delivering only several hundred drones against a goal of thousands. Meanwhile, China could rapidly scale production to 500,000 drones a month, according to Bloomberg Intelligence.\nThe Pentagon's proposed budget allocates $55 billion to autonomous warfare, including $17 billion for drones and other uncrewed systems. But the funding push could face political headwinds after the midterms if Democrats take control of Congress.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-31T14:31:01+00:00",
+      "timestamp": "2026-11-01T04:50:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
