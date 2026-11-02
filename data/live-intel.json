@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T01:51:47.694934+00:00",
+  "generated_at": "2026-11-02T09:13:31.747842+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -11,25 +11,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/01/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSalina, KS, Sunday, November 1, 2026 through Sunday, November 1, 2026 Local\nFacility: ZKC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/01/2026",
-      "location": "ZKC KS",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -230,6 +211,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
+      "text": "Ryanair may freeze workers' pay and raise fares on higher fuel prices\nThe airline says fuel prices may rise by \u20ac2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-02T08:33:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The IRGC Aerospace Force brought down an American MQM-170 \u2018Outlaw\u2019 drone with electronic warfare and captured it",
@@ -288,6 +288,44 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s FM Spox. Esmaeil Baghaei:\nThe Israeli regime is the root cause of insecurity in West Asia and has intensified its crimes in Gaza and Lebanon following recent developments.\nAs winter approaches, blocking even the most basic necessities has pushed displaced people into a catastrophic situation.\nThe international community and European countries have become numb to this crisis.\nReducing human lives to statistics and normalizing crimes is an extremely dangerous phenomenon that threatens the conscience of humanity.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-02T07:33:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[The Russians used the \"mode of silence\" in the Oleshki district to strengthen their positions](https://www.pravda.com.ua/news/2026/11/02/8060791/)\nDuring the humanitarian pause in Oleshki, Russian troops conducted a rotation, strengthened defenses and strengthened anti-drone measures, the General Staff of the Armed Forces of Ukraine announced. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/11/02/8060791/)\n\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f \u0428\u0430\u0431\u0440\u0430\u043d\u0441\u044c\u043a\u0430 | pravda\u200b.com\u200b.ua \u2022 Nov 2, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-02T05:22:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[What Israel's election deadlock means for Netanyahu and the region](https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/what-israels-election-deadlock-means-for-netanyahu-and-the-region)\nAfter one of Israel's most consequential elections, the path forward for the country and Prime Minister Benjamin Netanyahu is uncertain. On a special edition of Compass Points, Nick Schifrin speaks with Netanyahu biographer and one of the sharpest analysts in Israel, Anshel Pfeffer of The Economist. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pbs.org/newshour/podcasts/compass-points-with-pbs-news/what-israels-election-deadlock-means-for-netanyahu-and-the-region)\nNick Schifrin Nick Schifrin | pbs\u200b.org \u2022 Oct 30, 2026",
       "source": "Telegram",
@@ -307,51 +345,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "['Life simply returned' \u2013 Oleshky - ceasefire gives Kherson short respite amid years of Russian terror A temporary ceasef...](https://t.me/KyivIndependent_official/56592)\n'Life simply returned' \u2013 Oleshky ceasefire\n[https://kyivindependent.com/life-simply-returned-oleshky-ceasefire-gives-kherson-short-respite-amid-years-of-russian-terror/]\ngives Kherson short respite amid years of Russian terror\nA temporary ceasefire agreed upon as part of a U.S.-mediated humanitarian\nmission to Russian-occupied Oleshky has brought a rare sense of calm to the city\nof Kherson.\nFor the first time in months, residents were able to walk the streets without\nthe constant threat of Russian artillery, glide bombs, and drones.\nDespite the gloomy autumn weather, locals returned to the streets in numbers not\nseen since the city's liberation from Russian occupation in November 202... \n[Read More in Full Article](https://t.me/KyivIndependent_official/56592)\n | t\u200b.me \u2022 Nov 1, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T16:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Israel deadlocked / Trump, Iran and the midterms](https://www.npr.org/2026/10/29/nx-s1-6019430/israel-deadlocked-trump-iran-and-the-midterms)\nA majority of Israeli voters went against sitting Prime Minister Benjamin Netanyahu's bloc, but he may not have to cede his office. It's not clear the opposition will be able to form a governing coaltion.Guest host Scott Detrow talks with NPR International Correspondent Daniel Estrin and NPR National Security Correspondent Greg Myre about how the election could affect Netanyahu's calculus on the war in Iran. U.S. President Donald Trump said that he and Netanyahu \"have to\u00a0finish the job that we started!\" And Netanyahu campaigned on a renewed bombing campaign.Email the show at\u00a0sourcesandmethods public media with NPR+ and enjoy perks for over 25 podcasts like this one. This ... \n[Read More in Full Article](https://www.npr.org/2026/10/29/nx-s1-6019430/israel-deadlocked-trump-iran-and-the-midterms)\nNPR | npr\u200b.org \u2022 Oct 29, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-10-30T00:08:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 \u2014 Iran\u2019s Foreign Minister Abbas Araghchi:\nSometimes a missile or projectile may deviate from its course or go out of control.\nBut we have never had, and still do not have, any intention of targeting our friends in the region.\nAs for American bases, there can be no compromise. We will certainly target them, as well as American targets.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ud83c\udde8\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8Chinese television shows footage of a ballistic missile hitting a full-size model of a US aircraft carrier in the middle of the desert.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T22:35:57+00:00",
+      "timestamp": "2026-11-02T07:36:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,21 +365,42 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\udde6 \u2014 Iran\u2019s Foreign Minister Abbas Araghchi:\nIf a missile occasionally deviates from its course or goes out of control, that is something that naturally happens in any war.\nThis is not our fault. It is the fault of having those bases on their territory.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ud83c\uddf8\ud83c\udde6 A Land Cruiser equipped with means for detecting and tracking UAVs has been produced in Saudi Arabia.\nThe equipment supports an electronic warfare system and air defense against low\u2011flying targets.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T22:31:02+00:00",
+      "timestamp": "2026-11-02T07:33:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah conducted Ballistic missile attacks towards Saudi Arabia\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-02T07:29:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -422,12 +443,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russia launched 433 drones at Ukraine overnight, including 64 jet-powered Shaheds, the Air Force says. Ukrainian defenses shot down or suppressed 371 drones, including 47 jet-powered ones. More than 40 were still airborne at 07:30, with impacts recorded at 16 locations.",
+      "text": "Some key statistics regarding the war in Ukraine \ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa in October 2026:\n\u25ab\ufe0f58% of the assaults directions are \"undefined\", those are Ukrainian attacks (which are now more numerous)\n\u25ab\ufe0f52% of all Russian assaults happened in the Pokrovsk-Kostiantynivka directions\n\u25ab\ufe0fRussia conquered 51 km2 this month (highest since April 2026).\n\u25ab\ufe0fUkraine reportedly hit 54,200 Russian soldiers. This is not totally impossible, since the USF reported 16k hits on soldiers and SBU Alpha unit 2k KIA per week (reaching 3k this week!)\n\u25ab\ufe0fRussia launched 5,736 drones (probably closer to 7,000), of which 907 were not intercepted (probably closer to 1,200)\n\u25ab\ufe0fRussia launched 115 missiles, of which 66 were reportedly intercepted (probably more launches)\n\u25ab\ufe0fRussia launched 8,249 KAB bombs, less than the previous month\n\u25ab\ufe0fRussia claimed they downed 19,000 Ukrainian drones (probably a lot less)\n\u25ab\ufe0fRussia is launching ~9,200 FPV drones a day and 2,600 (around 8k shells a day) artillery barrages a day on average.\n\u25ab\ufe0fAll sources reported a massive use of manpower on Russian side this month and heavy losses, higher than usual (SBS, GSUA, individual units, experts and some contacts all confirmed that)\n\u25ab\ufe0fRussia's autumn offensive managed to enter Dobropilla and continues to put pressure east of Orikhiv, east of Sloviansk and in north-eastern Kharkiv oblast.\nAll the data quoted here was collected and gathered by t.me/m0nstas",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T07:59:39+00:00",
+      "timestamp": "2026-11-02T07:35:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,12 +462,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkranian drones targeted an oil storage facility in Kstovo, in Russia's Nizhny Novgorod region, early this Sunday morning. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Four more Hamas operatives, including a terrorist who took part in the October 7 onslaught, were killed in recent strikes in the Gaza Strip, the military announces.\nThe IDF says that separate strikes on Saturday in northern Gaza killed Nabil Hamad, the head of a department in Hamas's \"recruitment apparatus,\" and Mohannad Nader Mahmoud Dahdouh, a sniper commander.\nTwo other strikes in northern Gaza on October 22 killed Wael Naif Fahmi Muslim, a member of Hamas's elite Nukhba Force who invaded Israel on October 7, 2023, and Arafat Kamal Muhammad Ar'air, a rocket squad commander, the IDF says.\nThe IDF says all of the operatives had recently been advancing attacks on troops and Israeli civilians and acted to restore Hamas's capabilities, \"in systematic violation of the ceasefire.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T06:30:42+00:00",
+      "timestamp": "2026-11-02T07:34:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,12 +481,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkranian drones targeted an oil storage facility in Kstovo, in Russia's Nizhny Novgorod region, early this Sunday morning. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian drones still harassing military vehicles and trucks on roads that head toward Ukraine.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T06:30:38+00:00",
+      "timestamp": "2026-11-02T06:02:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -479,12 +500,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfb\ud83c\uddea\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4 GRAPHIC: The Venezuelan Armed Forces reportedly carried out a drone strike against a suspected drug storage facility operated by the National Liberation Army (ELN) between Buena Vista del Meta and Guafilla, in Apure State, near the Colombian border. With at least 20 people dead, including a woman and a pilot.\nThe initial strikes destroyed aircraft allegedly belonging to the guerrilla group that had been concealed in vegetation. Some of those killed reportedly carried Venezuelan identity cards, national ID documents and driver's licenses. Nine bodies were transferred to a morgue in San Fernando de Apure.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7\ud83c\uddf1\ud83c\udde7 IDF on operations in Khiam, southern Lebanon:\n\u201cForces from the 769th Brigade, under the 91st Division, found weapons inside a civilian home, alongside a children\u2019s room displaying Hezbollah symbols.\nTroops also located and destroyed an explosive-drone warehouse and found rockets, Kalashnikov-type rifles, helmets, vests and ammunition.\nWe will continue acting to remove threats to Israeli civilians and our forces while remaining committed to the ceasefire agreement.\u201d\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T06:30:03+00:00",
+      "timestamp": "2026-11-02T03:27:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -498,19 +519,96 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf0\ud83c\uddf5 [KCNA](http://kcna.kp/en/article/detail/4934d6d26c57abc3d1aba40b7ace6c8f): North Korea\u2019s Missile Administration conducted a test on 31 October to assess the combat adaptation and power of a cluster-bomb warhead to be fitted to tactical ballistic missiles.\nThe Ballistic Missile System Institute and the Warhead Institute said they confirmed the Standard Type 2 cluster-bomb warhead can \u201cturn into ashes\u201d a target area of 12 to 13 hectares at its highest density.\nThe head of the Missile Administration said cluster-bomb warheads are classified into four categories, and that units will be able to select and use all types within this year. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 A large number of U.S. Air Force aerial refueling tankers are seen lined up at Ramon Airport, Israel.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T06:29:01+00:00",
+      "timestamp": "2026-11-02T03:26:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddfa US embraces Mossad-Style public hunt for Cuban assets\nAs Donald Trump recently mapped out a \u2018stopover\u2019 [to conquer Cuba ](https://t.me/geopolitics_prime/76687)after Iran, the CIA is increasingly resorting to public appeals to recruit informants inside the country.\nSecretary of State Marco Rubio has been openly pushing Cubans to \u201ccreate the change you desire through a discrete partnership with the CIA.\u201d\n[His appeal](https://t.me/geopolitics_prime/76691) on X was amplified by US officials and lawmakers.\nThe public recruitment push reflects how much harder it has become for the CIA to penetrate heavily surveilled adversaries.\n\ud83d\udc49 The approach also mirrors Israel\u2019s playbook, where Benjamin Netanyahu has turned Mossad operations \u2013 like the cyberattacks against Iran and the 2024 pager operation in Lebanon - into [public showcases ](https://t.me/geopolitics_prime/75082)of Israel\u2019s ability to strike virtually anywhere.\nTrump's administration appears to be adopting a similar philosophy of unapologetic pursuit of American power:\n\ud83d\udcf9 Trump openly entertained absorbing[ Greenland ](https://t.me/geopolitics_prime/76746)and [Canada](https://t.me/geopolitics_prime/76483)\n\ud83d\udcf9 Venezuela and Iran's natural wealth are publicly framed as potential [US spoils for ](https://t.me/geopolitics_prime/75474)\n\ud83d\udcf9 new Donroe Doctrine openly treats Latin America as [America\u2019s backyard](https://t.me/geopolitics_prime/62411)\n\ud83d\udcf9 [Blackwater ](https://t.me/geopolitics_prime/76369)founder Erik Prince has urged the CIA to learn from Mossad's operations, saying \u201cwe should be getting those kinds of results\u201d\nHowever, the US\u2019 long history of [failed attempts](https://t.me/geopolitics_prime/64402) to overthrow [Cuba's government ](https://t.me/geopolitics_prime/76688)offers little reason to assume any new effort will be different.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-02T07:51:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Tucker Carlson: The US may be days away from a nuclear strike on Iran \u2014 pushed by Netanyahu\nTucker Carlson has warned that under pressure from Israeli Prime Minister Benjamin Netanyahu, the Trump administration may be within days of launching a nuclear strike on Iran \u2014 targeting Pickax Mountain in central Iran, where Israeli intelligence claims Tehran has restarted its enrichment program.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-02T05:47:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde8\ud83c\uddf3 Chinese study finds premature damage in GE engines on Boeing 787s\nSome high-pressure turbine blades in GE Aerospace's GEnx-1B engines developed cracks and shed pieces of material after relatively few flight cycles, according to a study cited by the South China Morning Post.\n\ud83d\udd36 The damage can reportedly emerge within around 1,000 take-offs and landings, with cracks potentially spreading until fragments break away.\nXia Xiaofeng of Xiamen Airlines documented five engine removals in one 787 fleet caused by Phase 2/2+ blade defects \u2014 with GE attributing the cause to thermal fatigue. Some 417 GEnx engines worldwide, 15% of the global fleet, were still operating with the affected blades as of August 2025.\nThe findings add to scrutiny of Boeing 787 maintenance and US aerospace manufacturing quality following the 737 Max crashes, the Alaska Airlines door plug blowout, and the Air India 787 crash.\nThe study identifies thermal fatigue as the cause of the blade damage, while stressing the need for continued inspections and monitoring.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-02T04:58:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf7North Korea claims US-South Korea drills are nuclear war rehearsals\nThe Iron Mace exercise showed that the US remained unchanged in its \u201cwild ambition to stifle North Korea with nukes\u201d and \u2060that such threats were \u201cescalating with each passing day,\u201d Kim Jong Sik, deputy department director of North Korea\u2019s Workers\u2019 Party, stated on Monday.\n\ud83d\udc49 He stressed that these activities demonstrate the need for North Korea to accelerate its nuclear and missile development and production.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-02T03:44:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -523,82 +621,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-01T23:12:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f Trump-Netanyahu phone call discusses timeframe for return to combat \u2014 report\nIsraeli Prime Minister Benjamin Netanyahu is pressing Trump to carry out attacks against Iran immediately after the midterm elections, one Israeli and one US source told Axios.\nAccording to the sources, Trump is currently willing to adhere to the negotiation process mediated by Qatar \u2014 a strategy Netanyahu is concerned about \u2014 while indicating readiness to strike Iran during Saturday\u2019s Halloween event at Mar-a-Lago.\n\ud83d\udc49 This comes as Qatari mediators have met with Iranian officials on Sunday for the third consecutive day in efforts to pave the way for regional peace, with Iranian Foreign Minister Abbas Araghchi expressing optimism about the situation.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T20:06:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude9a Iran Keeps Military Supplies Coming Despite US Sanctions\nIran has imported at least $2B in equipment, explosives and heavy trucks since January 2025 through more than 5,000 defense-linked agencies, according to Reuters investigation. Supplies kept arriving during the war, complicating US efforts to starve Iranian missile and drone factories of materials.\nThe buyers operate under numbered names beginning with MOD, short for Ministry of Defense. Most date to 2013, meaning Iran had years to build these channels before the fighting began. Despite decades of sanctions against Iran\u2019s military, Reuters found no evidence that the numbered agencies it examined were themselves on Western sanctions lists.\nOil sales help pay the bills, with intermediaries and foreign shell companies using revenue held abroad to buy goods and send them home. For 97% of the shipments, the records showed settlement without a currency transfer. Keeping the money overseas reduces the need for cross-border payments that can trigger sanctions checks.\nOne buyer, MOD 346428, brought in rocket propellants, explosives, weapons components and heavy trucks between January 2025 and June 2026. These are the less photogenic essentials behind a missile launch: fuel, parts and vehicles that could carry launch equipment.\nDeliveries came by land, sea and air, with much of the cargo listed as originating in China, Russia and Germany. A naval blockade cannot close every road or air route, and a product\u2019s country of origin does not prove its manufacturer knowingly supplied Iran\u2019s military.\nReuters examined bank records, corporate filings and import data, cross-checking part of some 19,000 import records. Many goods also have civilian uses, so a shipment of components cannot be counted as a batch of finished missiles. The records do not establish whether Iran is replacing weapons as fast as it fires them.\nThe US Treasury told Reuters it was \u201c10 steps ahead,\u201d a confident assessment for an enforcement effort still watching supplies get through. The findings show how Iran has kept buying despite restrictions, even if they do not show that sanctions leave it unscathed.\nIran\u2019s continued access to military supplies exposes the gap between US pressure and US control. Sanctions and a naval blockade have failed to seal off its procurement network, leaving Iran able to bring in materials for weapons production even during the war.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T18:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8 Israelis offer a choice of death to Palestinians in Gaza \u2013 report\nIsraeli forces have adopted a practice of killing Palestinians that involves calling the victims beforehand and offering them a choice of getting bombed together with their relatives or moving to a spot where they could be killed alone, according to media reports.\nIn one such instance earlier this week, a young Palestinian man, Mohammed al-Bayouk ended up going to the roof of the shelter where he was living with his family to be killed by a missile in order to ensure that his relatives don\u2019t get killed as well.\nOne of al-Bayouk\u2019s aunts was injured during the attack as she attempted to stop him from going to the site of his eventual killing.\nAt least five such killings were ostensibly perpetrated by the Israelis in Gaza over the past three months.\nA similar incident was reported back in February in Lebanon, where a 62-year-old man named Ahmad Tarmous was killed by an Israeli drone strike minutes after receiving a similar threat from the Israelis.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T16:27:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8 US aerial refueling aircraft seen massing at Israeli airbase amid talk of new Iran strike\nFootage circulating online appear to show a large number of US planes stationed at Ramon International Airport in southern Israel.\nEarlier, [more than 80 US refueling aircraft](https://t.me/geopolitics_prime/77052) have already been deployed to Israel, signaling possible attack on Iran. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T15:45:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
