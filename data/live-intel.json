@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T09:13:31.747842+00:00",
+  "generated_at": "2026-11-02T19:35:33.187195+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -116,6 +116,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3764\r\nIssue Time: 2026 Nov 02 1203 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3763\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 5350 pfu\nMax time: 2026 Nov 01 1550 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-02 12:03:53.987",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5446\r\nIssue Time: 2026 Nov 01 1457 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5445\nValid From: 2026 Oct 31 1235 UTC\nNow Valid Until: 2026 Nov 01 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -192,33 +211,33 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK06\r",
-      "text": "Space Weather Message Code: ALTK06\r\nSerial Number: 729\r\nIssue Time: 2026 Oct 31 1914 UTC\r\n\r\nALERT: Geomagnetic K-index of 6 \nThreshold Reached: 2026 Oct 31 1914 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G2 - Moderate\nComment: \r\n\r\nNOAA Scale: G2 - Moderate\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 55 degrees Geomagnetic Latitude.\r\nInduced Currents - Power grid fluctuations can occur. High-latitude power systems may experience voltage alarms.\r\nSpacecraft - Satellite orientation irregularities may occur; increased drag on low Earth-orbit satellites is possible.\r\nRadio - HF (high frequency) radio propagation can fade at higher latitudes.\r\nAurora - Aurora may be seen as low as New York to Wisconsin to Washington state.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-10-31 19:14:22.467",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Ryanair may freeze workers' pay and raise fares on higher fuel prices",
-      "text": "Ryanair may freeze workers' pay and raise fares on higher fuel prices\nThe airline says fuel prices may rise by \u20ac2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "title": "Wizz Air flight from Luton in emergency landing after bomb threat",
+      "text": "Wizz Air flight from Luton in emergency landing after bomb threat\nA Hungarian fighter jet escorted the aircraft to Budapest after the threat was received mid-air.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-02T08:33:57+00:00",
+      "timestamp": "2026-11-02T14:35:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Ryanair says it may freeze workers' pay and raise airfares",
+      "text": "Ryanair says it may freeze workers' pay and raise airfares\nThe airline says fuel prices may rise by \u20ac2bn in 2028 unless there is an end to the US-Israel war with Iran.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-02T12:22:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -288,25 +307,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Iran\u2019s FM Spox. Esmaeil Baghaei:\nThe Israeli regime is the root cause of insecurity in West Asia and has intensified its crimes in Gaza and Lebanon following recent developments.\nAs winter approaches, blocking even the most basic necessities has pushed displaced people into a catastrophic situation.\nThe international community and European countries have become numb to this crisis.\nReducing human lives to statistics and normalizing crimes is an extremely dangerous phenomenon that threatens the conscience of humanity.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T07:33:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[The Russians used the \"mode of silence\" in the Oleshki district to strengthen their positions](https://www.pravda.com.ua/news/2026/11/02/8060791/)\nDuring the humanitarian pause in Oleshki, Russian troops conducted a rotation, strengthened defenses and strengthened anti-drone measures, the General Staff of the Armed Forces of Ukraine announced. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/11/02/8060791/)\n\u0412\u0456\u043a\u0442\u043e\u0440\u0456\u044f \u0428\u0430\u0431\u0440\u0430\u043d\u0441\u044c\u043a\u0430 | pravda\u200b.com\u200b.ua \u2022 Nov 2, 2026",
       "source": "Telegram",
@@ -346,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\udde8\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8Chinese television shows footage of a ballistic missile hitting a full-size model of a US aircraft carrier in the middle of the desert.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nThe public in Israel does not want a government that depends on Ra'am and the Joint List\u2014parties that support terrorism and reject the existence of the Jewish state.\nFrom the very first day, our hand has been extended to form a broad national government.\nA clear majority in the Jewish public chose the Likud as the largest party and me, as prime minister, to lead the next government.\nWe aspire to form a broad government with our partners and with any party that wishes to do so and does not support terrorism. I am open to holding discussions on the matter.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T07:36:17+00:00",
+      "timestamp": "2026-11-02T18:40:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,78 +365,38 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf8\ud83c\udde6 A Land Cruiser equipped with means for detecting and tracking UAVs has been produced in Saudi Arabia.\nThe equipment supports an electronic warfare system and air defense against low\u2011flying targets.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces: \nHigh-quality footage of Saudi enemy troop concentrations and vehicles being targeted by Shawaz drones east of Al-Jawf - November 2, 2026 \n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T07:33:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah conducted Ballistic missile attacks towards Saudi Arabia\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T07:29:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\uddfeAccording to the Syrian News Agency, remnants of an unidentified missile fell in the Homs countryside (middle of syria), with no injuries reported.\nJust a normal day",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T19:36:56+00:00",
+      "timestamp": "2026-11-02T17:13:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\udde8\ud83c\uddf3\ud83c\uddfa\ud83c\uddf8Chinese television shows footage of a ballistic missile hitting a full-size model of a US aircraft carrier in the middle of the desert.",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Spokesperson of the Yemeni Armed Forces, Brigadier General Yahya Saree:\nThe Yemeni Armed Forces successfully targeted Dammam Airport in two separate drone operations over the past 48 hours, disrupting air traffic and achieving the mission's objectives.\nAdditionally, a drone scored a direct hit on an early warning radar in Jizan.\nA military transport plane at Jizan Airport was also targeted and successfully struck.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T15:21:59+00:00",
+      "timestamp": "2026-11-02T17:12:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -528,23 +488,22 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddfa US embraces Mossad-Style public hunt for Cuban assets\nAs Donald Trump recently mapped out a \u2018stopover\u2019 [to conquer Cuba ](https://t.me/geopolitics_prime/76687)after Iran, the CIA is increasingly resorting to public appeals to recruit informants inside the country.\nSecretary of State Marco Rubio has been openly pushing Cubans to \u201ccreate the change you desire through a discrete partnership with the CIA.\u201d\n[His appeal](https://t.me/geopolitics_prime/76691) on X was amplified by US officials and lawmakers.\nThe public recruitment push reflects how much harder it has become for the CIA to penetrate heavily surveilled adversaries.\n\ud83d\udc49 The approach also mirrors Israel\u2019s playbook, where Benjamin Netanyahu has turned Mossad operations \u2013 like the cyberattacks against Iran and the 2024 pager operation in Lebanon - into [public showcases ](https://t.me/geopolitics_prime/75082)of Israel\u2019s ability to strike virtually anywhere.\nTrump's administration appears to be adopting a similar philosophy of unapologetic pursuit of American power:\n\ud83d\udcf9 Trump openly entertained absorbing[ Greenland ](https://t.me/geopolitics_prime/76746)and [Canada](https://t.me/geopolitics_prime/76483)\n\ud83d\udcf9 Venezuela and Iran's natural wealth are publicly framed as potential [US spoils for ](https://t.me/geopolitics_prime/75474)\n\ud83d\udcf9 new Donroe Doctrine openly treats Latin America as [America\u2019s backyard](https://t.me/geopolitics_prime/62411)\n\ud83d\udcf9 [Blackwater ](https://t.me/geopolitics_prime/76369)founder Erik Prince has urged the CIA to learn from Mossad's operations, saying \u201cwe should be getting those kinds of results\u201d\nHowever, the US\u2019 long history of [failed attempts](https://t.me/geopolitics_prime/64402) to overthrow [Cuba's government ](https://t.me/geopolitics_prime/76688)offers little reason to assume any new effort will be different.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\udde8\ud83c\uddf3 China's ship-killing missile back in spotlight as warning to US Navy\nFootage showing China's DF-26B anti-ship ballistic missile striking an American aircraft carrier mock-up has resurfaced online, drawing renewed attention to Beijing's maritime strike capabilities.\nThe footage is not new. The CCTV-marked sequence was previously broadcast in December 2024, making its latest circulation a reminder of China's demonstrated capabilities rather than evidence of a fresh missile test.\nThe DF-26, nicknamed the \u201cGuam Killer\u201d for its ability to reach the US military hub, has a reported range of up to 4,000 kilometers. Its mobile, solid-fuel launch platform complicates enemy efforts to locate and destroy it.\nThe footage has resurfaced amid heightened US military preparations in the Pacific, including new Army guidance released in October concerning operations along the first island chain.\nWhile the footage shows a strike against a stationary mock-up, it does not establish the missile's ability to hit a moving aircraft carrier at sea.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T07:51:02+00:00",
+      "timestamp": "2026-11-02T19:28:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -558,12 +517,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Tucker Carlson: The US may be days away from a nuclear strike on Iran \u2014 pushed by Netanyahu\nTucker Carlson has warned that under pressure from Israeli Prime Minister Benjamin Netanyahu, the Trump administration may be within days of launching a nuclear strike on Iran \u2014 targeting Pickax Mountain in central Iran, where Israeli intelligence claims Tehran has restarted its enrichment program.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8 US gets last call to defuse Hormuz crisis before midterms\nIran is essentially offering to reopen the Strait of Hormuz if the US meets its conditions, explains Professor Mohammad Marandi, a former adviser to Iran\u2019s nuclear negotiations team.\nAccording to him, Iran is taking a carrot-and-stick approach \u2014 stepping up attacks on vessels that violate its traffic rules for the strait, while at the same time offering Washington an exit ramp: that is, iron out the issue right before the 2026 US midterms.\nMeanwhile, Iran has issued threats to widen its retaliation against US-linked assets in the region if the administration in Washington were to resume its aggression.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T05:47:26+00:00",
+      "timestamp": "2026-11-02T18:06:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -577,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3 Chinese study finds premature damage in GE engines on Boeing 787s\nSome high-pressure turbine blades in GE Aerospace's GEnx-1B engines developed cracks and shed pieces of material after relatively few flight cycles, according to a study cited by the South China Morning Post.\n\ud83d\udd36 The damage can reportedly emerge within around 1,000 take-offs and landings, with cracks potentially spreading until fragments break away.\nXia Xiaofeng of Xiamen Airlines documented five engine removals in one 787 fleet caused by Phase 2/2+ blade defects \u2014 with GE attributing the cause to thermal fatigue. Some 417 GEnx engines worldwide, 15% of the global fleet, were still operating with the affected blades as of August 2025.\nThe findings add to scrutiny of Boeing 787 maintenance and US aerospace manufacturing quality following the 737 Max crashes, the Alaska Airlines door plug blowout, and the Air India 787 crash.\nThe study identifies thermal fatigue as the cause of the blade damage, while stressing the need for continued inspections and monitoring.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran key to maintaining Mideast balance & keeping Israeli power in check\nOSINT accounts on X argue that the collapse of the Iranian state or a regime change in Tehran could trigger a chain reaction, creating an opportunity for Israel, backed by the US and its regional allies, to establish regional dominance in the Middle East.\nMecca Pact vs Hexagon Alliance\nTurkey, Saudi Arabia and Pakistan, who struck the defense Mecca Pact this year, could be challenged by what is called the Hexagon Alliance, or the Abraham Accords axis, experts say.\nExperts are grouping India, Pakistan\u2019s longstanding rival, Greece, Turkey\u2019s historic geopolitical adversary, as well as Egypt, Azerbaijan and the UAE, within Israel\u2019s sphere of influence.\n\ud83d\udccdTurkey\u2019s dilemma\nIf Iran were to fall and come under the influence of Israel and the US, Turkey would find itself geopolitically encircled by Greece and Iran, leaving it with considerably less room for manoeuvre.\nIn March, former Israeli Prime Minister Naftali Bennett described Turkey as potentially becoming \u201cthe next Iran.\u201d\nApparently, therefore, while Turkey may favor a weakened Iran, it has[ little interest](https://t.me/geopolitics_prime/73592) in Iran\u2019s collapse. Moreover, [Erdogan helped prevent ](https://t.me/geopolitics_prime/72500)Iranian Kurdish armed groups from opening a new front inside Iran, undermining a US-Israeli plot, Al-Monitor reported in July.\n\ud83d\udccdAzerbaijan: growing closer to Israel\nAzerbaijani President Ilham Aliyev skipped a summit of Turkic states hosted by Turkish President Recep Tayyip Erdogan. Media reports suggest that Aliyev is deliberately distancing himself from Ankara\u2019s influence. Haaretz, meanwhile, points to growing ties between [Azerbaijan and Israel](https://t.me/geopolitics_prime/76494).\n\ud83d\udccdEgypt walks a tightrope\nDespite its energy dependence on both Israel and Saudi Arabia, Egypt is still ideologically more closely aligned with [the Mecca Pact](https://t.me/geopolitics_prime/71397). On October 26, the Egyptian parliament authorized the nation\u2019s president to provide military support to[ Saudi Arabia](https://t.me/geopolitics_prime/76980).\n\ud83d\udccdIndia\nOfficially, India pursues a policy of strategic autonomy, maintaining ties with all sides. Iran is an important partner, particularly as a key hub in the North-South Transport Corridor, with the two countries jointly developing [the port of Chabahar](https://t.me/geopolitics_prime/75919).\n\ud83d\udccdIran\nIran and its Axis of Resistance may be seriously underestimated. Alongside its Houthi allies, Tehran retains the ability to exert pressure on shipping through the Strait of Hormuz and Bab el-Mandeb. Some analysts even suggest that Iran could extend its reach as far as the Strait of Gibraltar through[ local proxy movements](https://t.me/geopolitics_prime/73918).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T04:58:51+00:00",
+      "timestamp": "2026-11-02T16:03:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -596,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0\ud83c\uddf7North Korea claims US-South Korea drills are nuclear war rehearsals\nThe Iron Mace exercise showed that the US remained unchanged in its \u201cwild ambition to stifle North Korea with nukes\u201d and \u2060that such threats were \u201cescalating with each passing day,\u201d Kim Jong Sik, deputy department director of North Korea\u2019s Workers\u2019 Party, stated on Monday.\n\ud83d\udc49 He stressed that these activities demonstrate the need for North Korea to accelerate its nuclear and missile development and production.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udcb5 Europe lands $112M bet on hypersonic deep-strike gamble\nAmid talk of a phantom[ \u2018Russia threat\u2019, ](https://t.me/geopolitics_prime/75118)a British-German startup developing hypersonic missiles has raised $112M to accelerate Europe\u2019s push for long-range strike systems without relying on US weapons, reports the FT.\nCo-led by Lightspeed and General Catalyst, the funding round is believed to value Hypersonica at roughly $783 million, with Plural and 201 Ventures reportedly participating. The money will speed development of ground-launched missiles with ranges beyond 2,000 km\u2014able to hit targets deep inside Russia\u2014and feed into the UK-German flagship program under [the 2024 Trinity House agreement](https://t.me/geopolitics_prime/52922).\u00a0\nEuropean missile maker MBDA is also involved in the project, and France has sought to join, with conceptual work due to move into development in 2027.\nTwo weapon types are planned:\n\ud83d\udd34 an advanced cruise missile\u00a0\n\ud83d\udd34 a hypersonic glide vehicle that travels at extreme speed along unpredictable paths, complicating interception\nThe rush comes amid mounting pressure from European hawks to widen military spending and build an independent deep-strike arsenal after the US cancelled plans to station Tomahawk-equipped units in Germany earlier this year.\nEurope\u2019s military ambitions are increasingly centered on[ offensive reach](https://t.me/geopolitics_prime/76914) - dismissing Russia\u2019s repeated assurances that it has[ no intention](https://t.me/geopolitics_prime/72009) of attacking anyone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T03:44:57+00:00",
+      "timestamp": "2026-11-02T13:18:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -615,12 +574,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee9US military drone manufacturing starting from \u2018basically zero\u2019 \u2014 report\n\ud83d\udde3\u201cWe\u2019re starting from basically zero,\u201d said Travis Metz, acting director of the Pentagon\u2019s Defense Innovation Unit. \u201cNone of them [manufacturing companies] have any scale in the US.\u201d\nThe US Department of Defense is currently buying drones by the thousands, while competitors such as Russia and China are able to churn out millions of UAVs. The US is struggling to catch up, navigate supply chain challenges, and adapt to changing battlefield demands, Bloomberg reports.\n\ud83d\udc49 The Pentagon has committed about $1.1 billion to its Drone Dominance program, a four-stage competition that uses increasingly tougher tests and larger orders to determine which companies can manufacture drones at scale. Scrambling to close the gap, Defense Secretary Pete Hegseth launched the Drone Dominance program in July last year in the latest effort to rapidly expand the American drone manufacturing base. However, the initiative has yet to yield results.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udee2 War on Iran has drained nearly 1 billion barrels from global oil stocks\nThe world's oil safety cushion is running out, Sultan Al Jaber, CEO of Abu Dhabi's state-owned oil company ADNOC, warned at the UAE's ADIPEC conference.\nNearly 1 billion oil barrels have been drained from global inventories amid fallout from the US-Israeli war on Iran and disrupted shipping through the Strait of Hormuz, he said.\nThe Emirati oil chief noted that:\n\ud83d\udd36 Middle distillate reserves have faced unprecedented depletion\n\ud83d\udd36 Diesel stockpiles in some regions have fallen to 35-year lows for this time of year\n\ud83d\udd36 Others face an LNG supply shortfall of 600 billion cubic feet\n\ud83d\udd36 The cost of shipping and logistics has surged to 30% of the cost of a barrel \u2014 from 5% before the war\n\ud83d\udd36 Expanded strategic storage, larger stockpiles of products, and flexible refining capacity closer to consumer markets are required\n\ud83d\udd36 Infrastructure must be built \"before it is needed and enabled by advanced logistics\"\nThe International Energy Agency agreed to release over 20 million barrels of diesel in October, along with any oil left from its record March emergency stockpile release, in a bid to boost supply and curb soaring prices.\nBut the cushion is shrinking: Saudi Aramco CEO Amin Nasser warned in October that less than 6 billion barrels of commercial oil inventories remained, most of them effectively unavailable.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-01T23:12:19+00:00",
+      "timestamp": "2026-11-02T11:15:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Gulf countries warn renewed US-Israeli attacks on Iran could devastate region\nGulf Arab states fear another US-Israeli attack on Iran could unleash an even more destructive regional war, as Tehran has strengthened its military readiness despite months of airstrikes, Bloomberg reports.\n\ud83d\udcac \u201cWe are clearly seeking a political off-ramp,\u201d UAE presidential adviser Anwar Gargash said. Egypt's foreign minister warned that renewed fighting would be \u201cmore dangerous, more destructive.\u201d\nIran has ordered its forces to prepare immediate retaliation without geographic limitations. Western officials say Tehran retains substantial missile and drone production capacity.\nIran has launched over 4,000 drones and 2,000 ballistic missiles since February 28. Meanwhile, Gulf states face shortages of air-defense interceptors and mounting economic losses.\n\ud83d\udcac \u201cIran is much better prepared for another round of fighting,\u201d IISS expert Emile Hokayem warned.\nSaudi Arabia, Turkey, Pakistan and Qatar are intensifying diplomatic efforts to prevent another war as Tehran demands sanctions relief and an end to the US naval blockade.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-02T10:35:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
