@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-04T17:54:02.955908+00:00",
+  "generated_at": "2026-11-04T23:29:28.391268+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nCape Canaveral, FL, Friday, November 6, 2026 through Friday, November 6, 2026 Local\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/04/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, November 6, 2026 through Sunday, November 8, 2026 Local\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/04/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nHOMESTEAD, FL, Sunday, November 8, 2026 through Sunday, November 8, 2026 Local\nFacility: ZMA",
@@ -30,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/03/2026",
       "location": "ZMA FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSan Francisco, CA, Wednesday, November 4, 2026 Local\nFacility: ZOA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/03/2026",
-      "location": "ZOA CA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -230,6 +249,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1135\r\nIssue Time: 2026 Nov 04 1904 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 05: None (Below G1) Nov 06: G1 (Minor) Nov 07: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-04 19:04:07.743",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3766\r\nIssue Time: 2026 Nov 04 1447 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3765\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 4077 pfu\nMax time: 2026 Nov 03 1620 UTC",
       "source": "NOAA Space Weather",
@@ -306,25 +344,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5446\r\nIssue Time: 2026 Nov 01 1457 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5445\nValid From: 2026 Oct 31 1235 UTC\nNow Valid Until: 2026 Nov 01 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-01 14:57:52.780",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah (the Houthis) have shared footage of a downed Saudi Wing Loong ll drone that was destroyed over Taizz Governorate",
@@ -336,14 +355,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -360,8 +378,8 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Geopolitics Prime",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 3
@@ -387,250 +405,77 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump on his ballroom:\nIt\u2019s drone-proof, missile-proof. The side walls are bulletproof. \nThe glass is bulletproof and drone-proof: no drone can pierce it, and no bullet can pierce it, no matter what. \nWhen you see the glass, you\u2019ll see it coming.",
+      "publisher": "Alsaa Plus EN",
+      "text": "Iranians are celebrating the Republican Party's electoral defeat by burning a poster showing Steve Witkoff, Donald Trump, Benjamin Netanyahu, and JD Vance at Enqelab Square (Islamic Revolution Square) in Tehran.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:53:02+00:00",
+      "timestamp": "2026-11-04T22:03:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "James Talarico:\nI'm looking forward to working with Republicans, including Republicans who said some mean things about me in this race.\nBecause that's my job. My job is to serve. My job is to make this state as good as it's promised, and that means I'll work with anybody and everybody to make that a reality.\nI'm going to leave what happened in the campaign in the campaign. I'm now ready to get to work for the people of my state.",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 President Trump on his ballroom:\nIt\u2019s drone-proof, missile-proof. The side walls are bulletproof. \nThe glass is bulletproof and drone-proof: no drone can pierce it, and no bullet can pierce it, no matter what. \nWhen you see the glass, you\u2019ll see it coming.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:45:04+00:00",
+      "timestamp": "2026-11-04T20:08:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "James Talarico:\nI want to work with President Trump to try to provide some relief to working Texans in the middle of this affordability crisis.\nI think we could suspend the federal gas tax and the federal diesel tax. That would provide some immediate relief at the pump for working families.",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Senior Iranian MP Ebrahim Azizi:\nDems or GOP, it\u2019s all the same to us. \nBut through a relentless chain of miscalculations\u2014especially his hollow delusions on Iran\u2014Trump has cemented his legacy as the most failed president in U.S. history. \nUntil Washington meets Iran\u2019s baseline conditions, our strategic doctrine remains unyielding.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:42:28+00:00",
+      "timestamp": "2026-11-04T19:40:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "BIG: The Islamist Ra\u2019am party will recommend Gadi Eisenkot to form Israel\u2019s next government.\nThe move boosts the Yashar! leader\u2019s bid to unseat Prime Minister Benjamin Netanyahu.\n[READ MORE](https://clashreport.com/world/articles/ra-am-party-to-recommend-eisenkot-for-mandate-to-form-israeli-government-9z19f56mxs7)",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6-\nUkraine\u2019s capital is under high alerts for the next 3 days due to high level of ballistic missile threat.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:40:37+00:00",
+      "timestamp": "2026-11-04T18:26:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Yemen\u2019s Houthis released footage of what they say is the wreckage of a Saudi Wing Loong II armed reconnaissance drone they shot down over Taiz province today.\nThe Wing Loong II is a Chinese-made medium-altitude drone that can carry out both surveillance and strikes.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:38:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "CNN asks James Talarico whether he will stand up to Abdul El-Sayed.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:38:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "James Talarico on impeachment:\nAs a senator, I wouldn\u2019t be charging anyone with impeachment, but I would be sitting in an impeachment trial, which I\u2019ve done before as a state representative. I reviewed every shred of evidence and did my duty, and that\u2019s exactly what I would do in the U.S. Senate.\nThey didn\u2019t send us to Washington for political retribution. They sent us to lower costs, root out corruption and get this economy back on track.\nI really do believe the people of this country are giving Democrats one last chance to deliver for them.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:32:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "James Talarico on Elon Musk:\nLast night we showed that all the money in the world is no match for the people of Texas. We sent a clear message to every billionaire and trillionaire mega-donor: in this state, in this country, power belongs to the people.\nThis was a win the size of Texas. We went up against the most money of any Senate candidate in the country, in the biggest red state in America, and we won by double digits.\nThe first thing we\u2019ve got to do is get big money out of our politics, so no billionaire, no trillionaire can buy our elections in this country.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:32:39+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "James Talarico, asked if he will work with Trump on immigration:\nAbsolutely.\nWe have masked men in unmarked vehicles kidnapping people off our streets here in Texas.\nWe have federal agents murdering our neighbours in cold blood, like Lorenzo Salgado in Houston.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:32:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "James Talarico:\nWe have to unrig this economic system that only works for the top 1%.\nWe got to pass universal healthcare so no one in this country goes bankrupt just because they get sick.\nWe have to invest in our educators, in our students, in our public schools so that every underdog in this country has a fighting chance.\n[READ MORE](https://clashreport.com/world/articles/democrat-james-talarico-defeats-ken-paxton-in-texas-senate-race-ddhq-projects-9t44bpzu99f)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T16:50:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "James Talarico:\nThere is something broken in America. Our economic system is broken, our political system is broken. Even our relationships with each other feel broken.\nAnd I think that our campaign in Texas is pioneering a new kind of politics that can bridge those divides, can repair the ties that bind us together.\n[READ MORE](https://clashreport.com/world/articles/democrat-james-talarico-defeats-ken-paxton-in-texas-senate-race-ddhq-projects-9t44bpzu99f)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T16:49:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a0\ufe0f -~40 UAVs in the airspace of Ukraine. Stay in shelter!](https://t.me/povitryanatrivogaaa/237196)\n\u26a0\ufe0f~40 UAVs in the airspace of Ukraine. Stay in shelter! \u2013 Join Telegrams:\nt.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013\nSupport OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/povitryanatrivogaaa/237196)\n | t\u200b.me \u2022 Nov 2, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T20:36:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[\u26a1\ufe0f - Russia adapts decoy drone for one-way attacks at ranges of up to 1,200 kilometers , HUR says . According to a techn...](https://t.me/KyivIndependent_official/56618)\n\u26a1\ufe0fRussia adapts decoy drone for one-way attacks at ranges of up to 1,200\nkilometers\n[https://kyivindependent.com/russia-adapts-decoy-drone-for-one-way-attacks-at-ranges-of-up-to-1-200-kilometers-hur-says/],\nHUR says.\nAccording to a technical breakdown published by HUR, the new version, called the\nGerbera-2, has a range of 1,200 kilometers and carries a 25-kilogram warhead. \u2013\nJoin Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage:\nt.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://t.me/KyivIndependent_official/56618)\n | t\u200b.me \u2022 Nov 2, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-02T20:36:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -646,12 +491,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -731,63 +578,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Israel\u2019s Minister for Social Equality and Women\u2019s Advancement, May Golan, speaking to Western media:\n\u201cNo one wants to see children died, or hurt. No one wants that. We don\u2019t want to kill innocent civilians in Gaza, period.\u201d\nSame woman speaking in Hebrew:\n\u201cI am personally proud of the ruins of Gaza, and that every baby, even 80 years from now, will tell their grandchildren what the Jews did.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T13:27:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 IRGC conducting new ballistic test launches near Shiraz, southern Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T12:49:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran\u2019s IRGC releases footage showing the downing of a USAF MQ-9 drone over the Strait of Hormuz early this morning.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T11:08:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi (Ansarallah) forces have released footage showing wreckage from a Saudi-operated Wing Loong II armed reconnaissance drone they say was shot down over Taiz Governorate on November 4.\nVideo translated by Inter Bellum News.",
       "source": "Telegram",
@@ -798,54 +588,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The IRGC has shot down an American MQ-1 \u2018Grey Eagle\u2019 drone in the Strait of Hormuz",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T14:41:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1A drone strike targeted a motorcycle in Qabrikha, southern Lebanon, resulting in the death of one man and injuries to another.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T13:30:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -1002,6 +751,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8Trump says Iran war will end whenever he wants, brushes off impeachment fears\nUS President Donald Trump acknowledged that the war with Iran may have contributed to Republicans' midterm defeat by temporarily driving up gasoline prices, but insisted he would make the same decision again.\n\ud83d\udd0a\"If I had it to do again, I'd have to do it again,\" Trump said, arguing that Iran must never acquire nuclear weapons.\nAsked when the war would end, he replied: \"Whenever I wanted to.\"\nTrump also dismissed concerns about possible impeachment by the new Democratic-controlled Congress.\n\ud83d\udd0a\"Not even a little bit,\" he said, arguing that an impeachment attempt would \"destroy the Democrat Party.\"\nTrump added that he was open to working with Democrats, provided they did not seek to obstruct his agenda.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T18:25:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7 Iran says IRGC downs US MQ-1 drone over Qeshm Island near Strait of Hormuz\n\"An American MQ-1 reconnaissance and combat drone was intercepted and shot down over Qeshm Island by a new advanced air defense system,\" Iran's Islamic Revolutionary Guard Corps (IRGC) said as cited by Tasnim News Agency.\nThe IRGC said US forces had intensified reconnaissance operations to locate Iranian air defenses while conducting activities in the Strait of Hormuz aimed at influencing regional conditions and lowering global oil prices.\nIranian forces said their electronic warfare and air defense units had successfully countered these operations, while the IRGC Navy maintained control over the strategic waterway.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -1014,8 +782,8 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
+        "Alsaa Plus EN",
         "Geopolitics Prime",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 3
@@ -1029,65 +797,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-04T14:06:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\u2694\ufe0f Iran downs another MQ-9 drone over the Strait of Hormuz, Mehr reports\nThe IRGC press service says it was the 56th drone of this type to be shot down.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T11:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf6\ud83c\udde6Qatar set to become world's largest buyer of US LNG amid Iran war disruptions\nQatar, one of the world's leading natural gas exporters, is set to become the largest buyer of US liquefied natural gas (LNG), securing supplies outside the Persian Gulf as the war involving Iran disrupts its own exports, the Financial Times reports.\nBy 2033, QatarE nergy is expected to control 23.7M tons of US LNG annually. Two agreements signed in October added 7M tons a year to its portfolio, alongside production from the company's 70% stake in the Golden Pass LNG project in Texas.\nThe shift follows disruptions to shipping through the Strait of Hormuz during the US-Israeli war with Iran, which have reportedly reduced Qatar's LNG exports to less than a third of normal levels.\nThe US gas will be resold to international customers rather than consumed in Qatar. Deliveries under the new contracts begin in 2030 and 2031, providing a longer-term alternative to supplies vulnerable to disruptions in the Persian Gulf.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T10:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u2708\ufe0f Rare US spy plane reportedly crosses Atlantic amid Iran strike speculation\nA US Air Force Boeing RC-135U reconnaissance aircraft (64-14849) has reportedly departed Offutt Air Force Base and crossed the Atlantic, according to OSINT accounts. Its destination remains unknown.\nOne of only two aircraft of its kind in the US fleet, the RC-135U specializes in detecting and analyzing radar emissions, including those from air defense systems, to help develop electronic countermeasures.\nThe reported flight comes amid reports of possible renewed US strikes on Iran following the November 3 midterm elections. ABC News previously reported preparations for possible post-election attacks, while AP reported warnings to regional allies about potential escalation and Iranian retaliation.\nTrump, however, assured the Financial Times on November 4 that no immediate strikes on Iran were planned.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T09:59:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
