@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T02:39:00.438224+00:00",
+  "generated_at": "2026-11-04T09:54:38.530373+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,6 +230,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5447\r\nIssue Time: 2026 Nov 04 0819 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Nov 04 0819 UTC\nValid To: 2026 Nov 04 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-04 08:19:40.677",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3765\r\nIssue Time: 2026 Nov 03 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3764\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 4481 pfu\nMax time: 2026 Nov 02 1540 UTC",
       "source": "NOAA Space Weather",
@@ -306,21 +325,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2060\r\nIssue Time: 2026 Nov 01 0117 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Nov 01 0117 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-01 01:17:17.120",
+      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
+      "text": "James Talarico becomes first Democrat to win Texas Senate seat since 1988\n\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-04T05:39:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -359,6 +378,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Q: But you know how determined Benjamin Netanyahu is to continue military action against Iran.\nGerman FM Wadephul: He has not made any statements in which he definitively said that he wants an attack. He has not said that.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T07:41:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -412,12 +450,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -441,12 +480,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaNo more missiles remain in Ukrainian airspace. Something of note is that significant chunk of the missiles were intercepted, especially as they approached or were over the Cherkasy region.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian drone hit an Ozon warehouse in Adyigeysk in Russia. Its was hit last night but it is still burning.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T05:04:45+00:00",
+      "timestamp": "2026-11-04T07:17:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -460,12 +499,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaStrikes on the Dnipropetrovsk region continue with strikes on the Kryvyhi Rih thermo power plant. \nAround seven missiles targeted the Ladizhyn TEC so far.",
+      "text": "Russia launched 310 drones against Ukraine overnight, including 81 jet-powered Shaheds, Ukraine\u2019s Air Force says. By 08:00, air defenses downed or suppressed 272, including 64 jet-powered drones. Strikes were recorded at 19 locations, with debris falling at 15 others.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T04:50:44+00:00",
+      "timestamp": "2026-11-04T07:09:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -479,12 +518,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaContinuous explosions in Dnipro (both media) and more missiles enroute to Kryvhi Rih.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukrainian drone from SBU flies into a hanger in \"Gvardiyskoe\" military airfield in occupied Crimea.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T04:50:18+00:00",
+      "timestamp": "2026-11-04T06:56:04+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -498,12 +537,72 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Explosions from missiles targeting the Dnipro TEC. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfb\ud83c\uddea\ud83c\udde8\ud83c\uddf4[NYT](https://www.nytimes.com/2026/11/03/world/americas/us-venezuela-strike-eln-drug-trafficking.html?): The U.S. provided drones and intelligence to the Venezuelan Armed Forces for their strike against ELN positions. \nThe operation indicates deepening of U.S-Venezuelan cooperation as U.S. Secretary of State Rubio emphasized previously that the ELN wouldn\u2019t have the ability to operate freely in Venezuela.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T04:50:07+00:00",
+      "timestamp": "2026-11-04T05:38:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde9\ud83c\uddf8\ud83c\udde9 Three children were killed by a RSF drone strike on Khartoum, Sudan.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T05:35:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4\ud83c\udde8\ud83c\uddf4 Three U.S.-supplied MQ-9A Reaper drones have arrived in Colombia to strengthen the country's military intelligence, surveillance and reconnaissance capabilities against armed groups and criminal organizations, including the Clan del Golfo, FARC dissident factions and the ELN.\nThe aircraft arrived unarmed and were assembled at the Tolemaida Military Base, where Colombian personnel will receive training to operate them. Their deployment is part of the multinational exercise Southern Vanguard 2026. The agreement also includes two Black Hawk helicopters.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T05:34:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Yemen\u2019s Interior Ministry claims 21 foreign specialists are assisting the Houthis across six provinces, including 14 IRGC and 7 Hezbollah personnel. They bring alleged expertise in missiles, drones, electronic warfare, maritime targeting and weapons smuggling.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T03:53:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,107 +616,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Reports of interceptions as the missiles continue to fly into Ukraine via Kharkiv and Poltava following the same path as the first group and angle northward, passing through the Kirovohrad region. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "IRAN: Italy has issued an updated security notice strongly advising against all travel to Iran due to ongoing US-Iran tensions. Italian citizens currently in the country are urged to exercise extreme caution, avoid photography or videos to prevent arrest, and register with embassy services, with international flights currently limited strictly to Iranian carriers.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T04:49:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Continued ballistic missile strikes on Kharkiv. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T04:48:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Two Russian ballistic missiles have struck Kharkiv, likely being launched from Kursk after a missile alert was issued for the region. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T04:48:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaExplosions reported in Ladyzhyn, Ukraine's Vinnytsia region. The missiles likely struck the thermal power plant in the city. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T04:48:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaAround two Russian Zircon missiles launched from Kursk exited the Cherkasy region moments ago and have entered the Vinnystia region as the large scale combined Russian drone and missile attack begins.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T04:48:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\udde7\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\uddf8 The group People Against Genocide broke into Ultra Intelligence & Communications\u2019 Tring facility in Hertfordshire, evading security and smashed military equipment including satellites.\nThe UK\u2011based firm supplies Israel\u2019s Elbit Systems, which provides about 85\u202f% of the Israeli drone fleet and works directly with the Israeli military, and the raid was timed to mark the 109th anniversary of the 1917 Balfour Declaration and the one\u2011year anniversary of a 73\u2011day Palestine Action hunger strike.\nPolice arrested the three intruders after the damage and the group warned the action was aimed at halting what it calls genocide in Gaza.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T04:46:46+00:00",
+      "timestamp": "2026-11-04T03:48:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -637,63 +641,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-03T22:50:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf5\ud83c\uddf0\ud83d\ude80 Missile match: Pakistan takes aim at BrahMos-II with hypersonic plans\nStrategic scientist Dr Marya Sultan says Pakistan is developing hypersonic cruise missiles, pointing to India\u2019s planned BrahMos-II as the catalyst. She didn\u2019t specify whether the program is indigenous or a joint venture \u2014 but she hailed it as proof of Pakistan\u2019s nuclear and metallurgical prowess.\nPakistan doesn\u2019t yet have a single confirmed operational glide vehicle or scramjet-powered missile \u2014 the air-breathing engines that burn fuel in supersonic airflow to hit Mach 5+. Yet on 13 October 2026, its army tested the Fatah-2 Extended Range and touted it as a hypersonic ballistic missile. Analysts point out that genuine hypersonic status requires sustained atmospheric flight. Pakistan has reportedly made headway on subsonic cruise-missile engines, but scramjet know-how and test facilities remain out of reach. Closing that gap will take deep pockets and years \u2014 so a joint venture seems to be the likeliest path.\nThe BrahMos factor: BrahMos is an operational supersonic missile flying at Mach 2.8\u20133, while BrahMos-II aims for Mach 7\u20138. Pakistan\u2019s systems can\u2019t match BrahMos\u2019s sustained speed \u2014 instead, they emphasise terminal speed, manoeuvrability and range under the Army Rocket Force Command, which Pakistani commentators present as a direct response to such threats.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T19:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf5\ud83c\uddf0\ud83d\ude81 Goodbye US Cobras, Hello Chinese\u00a0 Z-10MEs: Pakistan readjusts its attack helicopter fleet\nIslamabad has started receiving deliveries of Chinese Z-10ME attack helicopters, marking the end of an era for its US-supplied AH-1 Cobras. Just how many have arrived remains unknown and the figure of 30 making the rounds on Chinese social media has yet to be confirmed by Islamabad, Beijing or the manufacturer.\nCharacteristics (open sources)\n\ud83c\udf0f Twin-engine 6-tonne gunship; export version of China\u2019s Z-10, built by Changhe Aircraft Industries Corporation.\n\ud83c\udf0f According to Chinese defence publications (cited by Milit\u00e4r Aktuell, the Austrian military news site), it carries up to 16 anti-tank missiles, TY-90 air-to-air missiles, and CM-502KG air-to-surface missiles with a range of about 25 km, allowing strikes outside short-range air defences\n\ud83c\udf0f Armour, jamming systems, and a radar for poor visibility boost survivability; uprated WZ-9C engines suit hot, high terrain. Speed reaches 300 km/h; combat radius is 800\u20131,120 km\n\ud83c\udf0f Chinese experts, including chief designer Wu Ximing, rank it among the best medium-sized attack helicopters\nPakistan\u2019s strategy: The Z-10ME marks a shift for Pakistan Army Aviation\u2014from close support toward stand-off strikes. It fills the gap left when US and Turkish deals were blocked by export restrictions, while sourcing from China reduces exposure to future Western sanctions.\u00a0\nChina now supplies about 80% of Pakistan\u2019s arms imports, according to the Stockholm International Peace Research Institute (SIPRI), based on data for 2021\u20132025.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T16:35:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd14Laser anti-drone weaponry set up to defend Mar-a-Lago\nAt least one AeroVironment LOCUST laser counter-drone system mounted on a 4\u00d74 Joint Light Tactical Vehicle was caught on camera near Trump\u2019s estate on October 31, TWZ reports.\nVersions of this weapon have been used by the US military and even deployed along the US-Mexico border.\nOther air defense systems deployed by the US military near Mar-a-Lago include Humvee-mounted AN/TWQ-1 Avenger short-range air defense systems, a Ku-band radar, electronic jammers, and 360-degree infrared search-and-track systems.\nThe deployment was reportedly carried out at the request of the US Secret Service amid concerns about possible Iranian retaliation if the United States resumes its war with Iran after the midterm elections.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T16:08:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
