@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T09:54:38.530373+00:00",
+  "generated_at": "2026-11-04T17:54:02.955908+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,6 +230,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3766\r\nIssue Time: 2026 Nov 04 1447 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3765\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 4077 pfu\nMax time: 2026 Nov 03 1620 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-04 14:47:27.263",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5447\r\nIssue Time: 2026 Nov 04 0819 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Nov 04 0819 UTC\nValid To: 2026 Nov 04 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -306,42 +325,46 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3763\r\nIssue Time: 2026 Nov 01 1302 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Nov 01 1302 UTC\nStation: GOES-19\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Ansarallah (the Houthis) have shared footage of a downed Saudi Wing Loong ll drone that was destroyed over Taizz Governorate",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-01 13:02:29.493",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T17:45:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
-      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "text": "James Talarico becomes first Democrat to win Texas Senate seat since 1988\n\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-04T05:39:36+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The IRGC has shot down an American MQ-1 \u2018Grey Eagle\u2019 drone in the Strait of Hormuz",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T14:34:19+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "BBC World News"
+        "Geopolitics Prime",
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -364,32 +387,205 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 UPDATE: CNN reports that a U.S. fighter jet was targeted by an Iranian surface-to-air missile, after which the jet targeted the launch platform on Qeshm\nU.S. officials say the strikes were \u2018limited and defensive\u2019 in nature.",
+      "publisher": "Clash Report",
+      "text": "Trump on his ballroom:\nIt\u2019s drone-proof, missile-proof. The side walls are bulletproof. \nThe glass is bulletproof and drone-proof: no drone can pierce it, and no bullet can pierce it, no matter what. \nWhen you see the glass, you\u2019ll see it coming.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T02:18:26+00:00",
+      "timestamp": "2026-11-04T17:53:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Q: But you know how determined Benjamin Netanyahu is to continue military action against Iran.\nGerman FM Wadephul: He has not made any statements in which he definitively said that he wants an attack. He has not said that.",
+      "text": "James Talarico:\nI'm looking forward to working with Republicans, including Republicans who said some mean things about me in this race.\nBecause that's my job. My job is to serve. My job is to make this state as good as it's promised, and that means I'll work with anybody and everybody to make that a reality.\nI'm going to leave what happened in the campaign in the campaign. I'm now ready to get to work for the people of my state.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T07:41:53+00:00",
+      "timestamp": "2026-11-04T17:45:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "James Talarico:\nI want to work with President Trump to try to provide some relief to working Texans in the middle of this affordability crisis.\nI think we could suspend the federal gas tax and the federal diesel tax. That would provide some immediate relief at the pump for working families.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T17:42:28+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "BIG: The Islamist Ra\u2019am party will recommend Gadi Eisenkot to form Israel\u2019s next government.\nThe move boosts the Yashar! leader\u2019s bid to unseat Prime Minister Benjamin Netanyahu.\n[READ MORE](https://clashreport.com/world/articles/ra-am-party-to-recommend-eisenkot-for-mandate-to-form-israeli-government-9z19f56mxs7)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T17:40:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Yemen\u2019s Houthis released footage of what they say is the wreckage of a Saudi Wing Loong II armed reconnaissance drone they shot down over Taiz province today.\nThe Wing Loong II is a Chinese-made medium-altitude drone that can carry out both surveillance and strikes.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T17:38:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "CNN asks James Talarico whether he will stand up to Abdul El-Sayed.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T17:38:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "James Talarico on impeachment:\nAs a senator, I wouldn\u2019t be charging anyone with impeachment, but I would be sitting in an impeachment trial, which I\u2019ve done before as a state representative. I reviewed every shred of evidence and did my duty, and that\u2019s exactly what I would do in the U.S. Senate.\nThey didn\u2019t send us to Washington for political retribution. They sent us to lower costs, root out corruption and get this economy back on track.\nI really do believe the people of this country are giving Democrats one last chance to deliver for them.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T17:32:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "James Talarico on Elon Musk:\nLast night we showed that all the money in the world is no match for the people of Texas. We sent a clear message to every billionaire and trillionaire mega-donor: in this state, in this country, power belongs to the people.\nThis was a win the size of Texas. We went up against the most money of any Senate candidate in the country, in the biggest red state in America, and we won by double digits.\nThe first thing we\u2019ve got to do is get big money out of our politics, so no billionaire, no trillionaire can buy our elections in this country.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T17:32:39+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "James Talarico, asked if he will work with Trump on immigration:\nAbsolutely.\nWe have masked men in unmarked vehicles kidnapping people off our streets here in Texas.\nWe have federal agents murdering our neighbours in cold blood, like Lorenzo Salgado in Houston.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T17:32:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "James Talarico:\nWe have to unrig this economic system that only works for the top 1%.\nWe got to pass universal healthcare so no one in this country goes bankrupt just because they get sick.\nWe have to invest in our educators, in our students, in our public schools so that every underdog in this country has a fighting chance.\n[READ MORE](https://clashreport.com/world/articles/democrat-james-talarico-defeats-ken-paxton-in-texas-senate-race-ddhq-projects-9t44bpzu99f)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T16:50:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "James Talarico:\nThere is something broken in America. Our economic system is broken, our political system is broken. Even our relationships with each other feel broken.\nAnd I think that our campaign in Texas is pioneering a new kind of politics that can bridge those divides, can repair the ties that bind us together.\n[READ MORE](https://clashreport.com/world/articles/democrat-james-talarico-defeats-ken-paxton-in-texas-senate-race-ddhq-projects-9t44bpzu99f)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T16:49:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,32 +637,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 Ansarllah missiles targeting Saudi capital Riyadh\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Public Relations of the Islamic Revolutionary Guard Corps (IRGC):\nA few minutes ago, the fifteenth American MQ1 drone was intercepted and shot down in the sky above Qeshm Island by the IRGC's advanced air defense system, operating under the control of the country's integrated air defense network.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T23:55:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\udde6\ud83c\uddff It is reported that Iranian military equipment and missile launchers have been spotted in the areas of Iran bordering Azerbaijan.\nRecently, a worsening of the situation has already been recorded at the border. In particular, Azerbaijan has circulated information about an attempt to illegally cross the state border by a group of people coming from Iran. According to the Azerbaijani side, the border guards issued a warning, after which an armed incident occurred and shots were fired.\nIn addition, today Azerbaijan declared 14 Iranian citizens persona non grata and banned them from entering the country. The list includes current and former members of the Iranian parliament, two ayatollahs, the editor\u2011in\u2011chief of the newspaper Keyhan, Hossein Shariatmadari, representatives of religious organizations, political experts, and a TV host.\nIt is reported that the decision was made against the background of increasingly frequent \u201coffensive statements, accusations and calls directed against Azerbaijan, its leadership and its state system.\u201d\nThe Azerbaijani authorities accuse the Iranians included on the list of \u201cpromoting religious radicalism, inciting hostility, speaking out against the sovereignty of Azerbaijan and calling for a violent change of power.\u201d The following people have been placed on Azerbaijan\u2019s \u201cblacklist\u201d:\n\u2b1b Ehsan Movahhedian \u2013 political analyst, expert and lecturer at Allameh Tabataba\u2019i University in Tehran.\n\u2b1b Ahmed Farshbafian \u2013 former head of the Center for Caucasus and Anatolia Studies at Tabriz University.\n\u2b1b Kamran Gazanfari \u2013 member of the Islamic Consultative Assembly (Majlis) of Iran.\n\u2b1b Alireza Beigi \u2013 former member of the Islamic Consultative Assembly of Iran, political commentator.\n\u2b1b Abulfazl Zohrevand \u2013 member of the Islamic Consultative Assembly of Iran.\n\u2b1b Abbas Moghtadaei Khorasani \u2013 member of the Islamic Consultative Assembly of Iran.\n\u2b1b Alireza Salimi \u2013 member of the Islamic Consultative Assembly of Iran.\n\u2b1b Hossein Shariatmadari \u2013 editor\u2011in\u2011chief of the Iranian newspaper Keyhan.\n\u2b1b Ayatollah Mohsen Araki \u2013 member of the Assembly of Experts, which elects Iran\u2019s Supreme Leader, and also a member of the Expediency Discernment Council.\n\u2b1b Ayatollah Mohammad Javad Fazel Lankarani \u2013 member of the Society of Seminary Teachers and Writers of Qom, head of the \u201cAimme-ye Athar\u201d Islamic Law Center in the city of Qom.\n\u2b1b Abdolhossein Khosrowpanah \u2013 secretary of Iran\u2019s Supreme Council of the Cultural Revolution.\n\u2b1b Hojjat al\u2011Islam Gholamreza Kavashi \u2013 head of the public relations department of the office of Tabriz\u2019s Friday Imam, and also head of the public relations department of the representative of Iran\u2019s Supreme Leader in East Azerbaijan Province.\n\u2b1b Dariush Safarnejad \u2013 professor and political expert.\n\u2b1b Ahmadreza Mousavi \u2013 actor and TV host.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T17:51:15+00:00",
+      "timestamp": "2026-11-04T14:10:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -474,6 +650,200 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Spokesperson for the Yemeni Armed Forces, Brigadier General Yahya Saree:\nThanks to God, our armed forces have successfully carried out an operation targeting King Khalid International Airport in the Saudi Arabian capital, Riyadh, with a ballistic missile. The strike was direct and caused significant damage to the airport.\nThe armed forces reiterate that King Khalid International Airport is not safe, and they renew their call to all international airlines, employees, and travelers to refrain from flying through Saudi airspace, as it is unsafe, with the exception of the airspace over the holy cities of Mecca and Medina.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T14:08:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Spokesperson of the Yemeni Armed Forces, Brigadier General Yahya Saree:\nThanks to God, our armed forces have successfully carried out three military operations this morning. The first operation targeted a radar in the Al-Qahma peninsula, north of Jizan, using a drone. The strike was a direct hit, thanks to God.\nThe second operation targeted the Aakifa camp in Najran with a ballistic missile, and it successfully achieved its objective.\nThe third operation targeted a border guard command and control building in Jizan with a ballistic missile, resulting in casualties among Saudi enemy soldiers and officers.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T14:07:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Spokesman for the Yemeni Armed Forces, Brigadier General Yahya Sare'e:\nWith God's grace, our armed forces carried out an operation targeting enemy Saudi deployments led by Saudi officer \u0641\u0627\u0631\u0633 \u0627\u0644\u0634\u0645\u0631\u064a, using six ballistic missiles in the eastern part of Al-Jawf province. The strikes were direct, resulting in dozens of casualties and injuries, as well as the destruction of several vehicles.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T14:07:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Spokesman for the Yemeni Armed Forces, Brigadier General Yahya Sareea:\nThanks to God, our armed forces have managed to shoot down a \"Wing Loong II\" armed reconnaissance aircraft, which is the tenth since the escalation began. It belongs to the Saudi enemy and was carrying out hostile activities this morning in the airspace over Taiz province. It was shot down using appropriate weaponry.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T14:06:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf1\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf8 Israel\u2019s Minister for Social Equality and Women\u2019s Advancement, May Golan, speaking to Western media:\n\u201cNo one wants to see children died, or hurt. No one wants that. We don\u2019t want to kill innocent civilians in Gaza, period.\u201d\nSame woman speaking in Hebrew:\n\u201cI am personally proud of the ruins of Gaza, and that every baby, even 80 years from now, will tell their grandchildren what the Jews did.\u201d",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T13:27:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 IRGC conducting new ballistic test launches near Shiraz, southern Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T12:49:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran\u2019s IRGC releases footage showing the downing of a USAF MQ-9 drone over the Strait of Hormuz early this morning.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T11:08:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi (Ansarallah) forces have released footage showing wreckage from a Saudi-operated Wing Loong II armed reconnaissance drone they say was shot down over Taiz Governorate on November 4.\nVideo translated by Inter Bellum News.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T17:35:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The IRGC has shot down an American MQ-1 \u2018Grey Eagle\u2019 drone in the Strait of Hormuz",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T14:41:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1A drone strike targeted a motorcycle in Qabrikha, southern Lebanon, resulting in the death of one man and injuries to another.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T13:30:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -546,13 +916,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -566,13 +935,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -586,13 +954,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -635,12 +1002,92 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1Israel was not informed of Trump\u2019s decision to cut aid \u2014 Israeli opposition leader\n\ud83d\udcac \u201cThe fact that the security establishment, along with Israeli citizens, is learning about a change in the framework of the strategic relationship through the media highlights just how much Benjamin Netanyahu\u2019s conduct poses a genuine danger. We can no longer rely on him and must replace him,\u201d Gadi Eisenkot, leader of Israel\u2019s main opposition bloc, wrote on X.\nHe added that Israeli Prime Minister Benjamin Netanyahu \u201cis unable to look Israeli citizens in the eye and tell the truth.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran says IRGC downs US MQ-1 drone over Qeshm Island near Strait of Hormuz\n\"An American MQ-1 reconnaissance and combat drone was intercepted and shot down over Qeshm Island by a new advanced air defense system,\" Iran's Islamic Revolutionary Guard Corps (IRGC) said as cited by Tasnim News Agency.\nThe IRGC said US forces had intensified reconnaissance operations to locate Iranian air defenses while conducting activities in the Strait of Hormuz aimed at influencing regional conditions and lowering global oil prices.\nIranian forces said their electronic warfare and air defense units had successfully countered these operations, while the IRGC Navy maintained control over the strategic waterway.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T22:50:10+00:00",
+      "timestamp": "2026-11-04T14:46:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran's Resistance Front pledges united response to any new US-Israeli attack\nCommanders across the regional Resistance Front have pledged \"all-out loyalty\" to Iran's Supreme Leader Ayatollah Seyyed Mojtaba Khamenei following his order to respond swiftly to threats without \"geographical limitations,\" IRGC Quds Force commander Esmail Qa'ani said Wednesday.\nQa'ani said written messages from resistance officials showed that the order had been received and put into operation across the region, demonstrating unity among allied forces.\nKhamenei earlier warned that any renewed US or Israeli aggression would trigger a \"much more extensive\" response, praising resistance forces in Palestine, Lebanon, Iraq and Yemen.\nIranian military officials have also warned that a new conflict would not necessarily remain confined to West Asia, while the armed forces are updating their list of potential targets under the new directives.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T14:06:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\u2694\ufe0f Iran downs another MQ-9 drone over the Strait of Hormuz, Mehr reports\nThe IRGC press service says it was the 56th drone of this type to be shot down.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T11:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf6\ud83c\udde6Qatar set to become world's largest buyer of US LNG amid Iran war disruptions\nQatar, one of the world's leading natural gas exporters, is set to become the largest buyer of US liquefied natural gas (LNG), securing supplies outside the Persian Gulf as the war involving Iran disrupts its own exports, the Financial Times reports.\nBy 2033, QatarE nergy is expected to control 23.7M tons of US LNG annually. Two agreements signed in October added 7M tons a year to its portfolio, alongside production from the company's 70% stake in the Golden Pass LNG project in Texas.\nThe shift follows disruptions to shipping through the Strait of Hormuz during the US-Israeli war with Iran, which have reportedly reduced Qatar's LNG exports to less than a third of normal levels.\nThe US gas will be resold to international customers rather than consumed in Qatar. Deliveries under the new contracts begin in 2030 and 2031, providing a longer-term alternative to supplies vulnerable to disruptions in the Persian Gulf.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T10:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u2708\ufe0f Rare US spy plane reportedly crosses Atlantic amid Iran strike speculation\nA US Air Force Boeing RC-135U reconnaissance aircraft (64-14849) has reportedly departed Offutt Air Force Base and crossed the Atlantic, according to OSINT accounts. Its destination remains unknown.\nOne of only two aircraft of its kind in the US fleet, the RC-135U specializes in detecting and analyzing radar emissions, including those from air defense systems, to help develop electronic countermeasures.\nThe reported flight comes amid reports of possible renewed US strikes on Iran following the November 3 midterm elections. ABC News previously reported preparations for possible post-election attacks, while AP reported warnings to regional allies about potential escalation and Iranian retaliation.\nTrump, however, assured the Financial Times on November 4 that no immediate strikes on Iran were planned.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-04T09:59:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
