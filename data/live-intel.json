@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-05T11:36:39.558513+00:00",
+  "generated_at": "2026-11-05T19:01:57.399618+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nBATON ROUGE, LA, Saturday, November 7, 2026 through Saturday, November 7, 2026 Local\nFacility: ZHU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/05/2026",
+      "location": "ZHU LA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nHOMESTEAD, FL, Saturday, November 7, 2026 through Saturday, November 7, 2026 Local\nFacility: ZMA",
@@ -192,6 +211,63 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1533\r\nIssue Time: 2026 Nov 05 1857 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Nov 05 1828 UTC\nEstimate Velocity: 609 km/s\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-05 18:57:32.737",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1136\r\nIssue Time: 2026 Nov 05 1745 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 06: G1 (Minor) Nov 07: G1 (Minor) Nov 08: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-05 17:45:33.607",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3767\r\nIssue Time: 2026 Nov 05 1254 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3766\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 1477 pfu\nMax time: 2026 Nov 04 1425 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-05 12:54:05.130",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1135\r\nIssue Time: 2026 Nov 04 1904 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 05: None (Below G1) Nov 06: G1 (Minor) Nov 07: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -230,59 +306,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5447\r\nIssue Time: 2026 Nov 04 0819 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Nov 04 0819 UTC\nValid To: 2026 Nov 04 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-04 08:19:40.677",
+      "title": "Hoax bomb threats target European airlines and airports for second time in a week",
+      "text": "Hoax bomb threats target European airlines and airports for second time in a week\nAt least 21 flights across Europe are affected in what the UK government calls a \"malicious hoax threat\".",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-05T17:39:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3765\r\nIssue Time: 2026 Nov 03 0502 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3764\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 4481 pfu\nMax time: 2026 Nov 02 1540 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-03 05:02:29.447",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3764\r\nIssue Time: 2026 Nov 02 1203 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3763\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 5350 pfu\nMax time: 2026 Nov 01 1550 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-02 12:03:53.987",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -298,13 +336,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -347,12 +384,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran remains an \"emerging\" space power despite U.S. strikes on its space facilities, according to a Pentagon intelligence report.\nThe Defense Intelligence Agency said Iran has used GPS jamming and other electronic warfare capabilities to disrupt U.S. space operations during Operation Epic Fury.\nIran also reportedly acquired Chinese satellite imagery to improve military targeting, while Russia has helped launch Iranian satellites.\nIran operates around a dozen satellites, but analysts question U.S. claims of space superiority, citing Tehran's continued jamming capabilities.\nSource: Axios",
+      "text": "The Trump administration held secret talks with Iran to arrange the deportation of Iranians even as the two countries remained at war. \nU.S. officials coordinated with Iranian authorities on travel documents and possible deportation routes, including through a third country. \nAt an October 15 hearing, Judge Ana Reyes warned that deportees could face \u201ca serious threat of certain death,\u201d but a Justice Department lawyer insisted the government was enforcing lawful deportation orders. \nMore than 100 Iranians had already been returned on three flights between September 2025 and January 2026.\nSource: AP",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T11:35:07+00:00",
+      "timestamp": "2026-11-05T18:53:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -366,107 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Russia agreed to supply Iran with 90 helicopter-mounted launchers for LMUR guided missiles widely used by its forces in Ukraine, the Financial Times reported. \nIt is unclear whether they were delivered.\n[READ MORE](https://clashreport.com/defense/articles/russia-agrees-to-supply-iran-with-90-launchers-for-missiles-used-in-ukraine-v91d1g04jy)",
+      "text": "A confidential UN report reveals that a UAE-linked security company recruited Colombian mercenaries to fight alongside Sudan\u2019s Rapid Support Forces (RSF), which has been accused of genocide. \n \nThe fighters were reportedly trained in Abu Dhabi and deployed to Sudan through Libya and Somalia, providing drone, artillery and training support. \nThe findings have intensified scrutiny of UAE diplomat Lana Nusseibeh\u2019s bid to become UN secretary-general, given her role in denying Emirati involvement in Sudan. \nSource: NYT",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T10:56:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones struck Russia\u2019s Ryazan oil refinery, one of the country\u2019s largest, and a major Wildberries logistics hub overnight on Nov. 5, sparking fires at both sites. \nThe attacks damaged power lines, caused outages and injured one person.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T07:54:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump's own internal polling showed that ending the Iran war and addressing inflation were the top priorities for Republican voters who were planning to sit out the midterm elections.\nA survey conducted by Trump's chief pollster, Tony Fabrizio, two weeks before Election Day found that Republicans who did not intend to vote identified ending the war and tackling inflation as the two leading reasons that could persuade them to support the party again.\nThe same survey found that the MAGA Republican brand was more unpopular among voters than democratic socialists.\nSource: NYT\n[READ MORE](https://clashreport.com/world/articles/trump-advisers-joked-about-seeking-asylum-in-israel-before-midterm-defeat-wk7dcc32ny)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T07:49:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump's senior advisers joked about fleeing to Israel and seeking asylum following an anticipated Republican defeat in the midterm elections.\nDuring a private strategy call six days before the election, Trump adviser James Blair sarcastically said:\n\u201cAt least Bibi won. He\u2019ll protect us.\u201d\nTrump's chief pollster, Tony Fabrizio, responded:\n\u201cMaybe we could get asylum in Israel.\u201d\nSource: NYT\n[READ MORE](https://clashreport.com/world/articles/trump-advisers-joked-about-seeking-asylum-in-israel-before-midterm-defeat-wk7dcc32ny)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T07:47:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "An internal presentation circulated by Trump adviser James Blair warned that the Iran war was severely damaging Republicans' midterm election prospects.\nThe presentation showed Democrats' polling advantage widening during active hostilities, narrowing during ceasefire negotiations and rising again after the ceasefire collapsed.\nBy late July, Democrats held a 10-point advantage on the congressional ballot.\nThe presentation warned that Republicans could lose the Senate unless an extended ceasefire was secured, the Strait of Hormuz reopened and gas prices fell.\nSource: NYT\n[READ MORE](https://clashreport.com/world/articles/trump-advisers-joked-about-seeking-asylum-in-israel-before-midterm-defeat-wk7dcc32ny)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T07:45:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Trump reportedly privately questioned whether the war with Iran had cost Republicans the midterm elections.\nBefore polls closed, Trump asked someone he spoke with:\n\u201cIf we never went into Iran, what do you think would happen in the midterms?\u201d\nThe question came after his advisers warned that the prolonged war, closure of the Strait of Hormuz and soaring gas prices were hurting Republican electoral prospects.\nSource: NYT\n[READ MORE](https://clashreport.com/world/articles/trump-advisers-joked-about-seeking-asylum-in-israel-before-midterm-defeat-wk7dcc32ny)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T07:44:29+00:00",
+      "timestamp": "2026-11-05T18:21:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -499,12 +441,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 \u2014 Israel is facing a $10 billion bill for U.S. weapons orders extending beyond 2028, complicating President Trump's push to end military aid, according to the WSJ.\nWith Washington already committing nearly $7 billion for the next two years, the funding source for the remaining costs remains unclear. Prime Minister Benjamin Netanyahu has proposed phasing out direct aid over the next decade, while lawmakers are weighing a shift toward joint defense production. An abrupt halt to the support is considered unlikely due to these existing commitments.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces spokesperson Yahya Saree says Saudi-led airstrikes targeted civilian sites across ten governorates in the past 24 hours, killing and wounding dozens of civilians, mostly women and children. The strikes brought the total number of coalition raids since the escalation began to 4,197.\nIn response, Yemeni forces launched a drone attack on King Fahd International Airport in Dammam, successfully disrupting air traffic at the facility.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T07:52:57+00:00",
+      "timestamp": "2026-11-05T17:00:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -518,98 +460,41 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "Iranians are celebrating the Republican Party's electoral defeat by burning a poster showing Steve Witkoff, Donald Trump, Benjamin Netanyahu, and JD Vance at Enqelab Square (Islamic Revolution Square) in Tehran.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3\ud83c\uddf7\ud83c\uddfa \u2014 A Pentagon intelligence report finds that Iran remains an \"emerging\" space power despite recent U.S. strikes on its space facilities, according to Axios.\nThe Defense Intelligence Agency (DIA) says Tehran used GPS jamming and electronic warfare to disrupt U.S. space operations during Operation Epic Fury. The report also notes that Iran acquired Chinese satellite imagery to enhance military targeting, while Russia has assisted in launching Iranian satellites.\nDespite operating roughly a dozen satellites, analysts are questioning U.S. claims of space superiority, pointing to Iran's continued jamming capabilities.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T22:03:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 President Trump on his ballroom:\nIt\u2019s drone-proof, missile-proof. The side walls are bulletproof. \nThe glass is bulletproof and drone-proof: no drone can pierce it, and no bullet can pierce it, no matter what. \nWhen you see the glass, you\u2019ll see it coming.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T20:08:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Senior Iranian MP Ebrahim Azizi:\nDems or GOP, it\u2019s all the same to us. \nBut through a relentless chain of miscalculations\u2014especially his hollow delusions on Iran\u2014Trump has cemented his legacy as the most failed president in U.S. history. \nUntil Washington meets Iran\u2019s baseline conditions, our strategic doctrine remains unyielding.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T19:40:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6-\nUkraine\u2019s capital is under high alerts for the next 3 days due to high level of ballistic missile threat.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T18:26:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea/\ud83c\uddf8\ud83c\udde6 WATCH: Houthi (Ansarallah) forces have released footage showing wreckage from a Saudi-operated Wing Loong II armed reconnaissance drone they say was shot down over Taiz Governorate on November 4.\nVideo translated by Inter Bellum News.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-04T17:35:44+00:00",
+      "timestamp": "2026-11-05T13:15:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1European flights (with a stopover in Italy) affected this morning by bomb threats:\n\ud83d\udccd Aer Lingus, Dublin\u2013Rome: diverted to the \u00c9vreux-Fauville military base in Normandy, escorted by a French Rafale fighter jet\n\ud83d\udccd Wizz Air, Milan Malpensa\u2013Warsaw: emergency landing in Vienna\n\ud83d\udccd Finnair, Helsinki\u2013Rome: escorted by Italian Air Force jets to Fiumicino\n\ud83d\udccd Ryanair, Porto\u2013Milan Malpensa: landed without issue\n\ud83d\udccd Aegean Airlines, Thessaloniki\u2013Milan Malpensa: landed without issue\n\ud83d\udccd Wizz Air, Milan Malpensa\u2013Bucharest: landed as scheduled",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-05T12:08:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -623,13 +508,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Geopolitics Prime"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -710,12 +594,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc41 Ukrainian military transport aircraft spotted over Saudi Arabia\nA Ukrainian Air Force Il-76MD heavy transport aircraft has reportedly been operating in Saudi Arabia since October 31, with flight-tracking data indicating a flight from King Abdulaziz Air Base in Dhahran toward Prince Sultan Air Base.\nAccording to OSINT accounts, the aircraft, identified by registration number 76661, may be supporting the deployment of Ukrainian counter-drone specialists. The specific purpose of the flight has not been independently confirmed.\nUkraine previously confirmed sending counter-drone teams to Saudi Arabia and other Gulf states. Reuters also reported in April that Ukrainian counter-drone technology had been deployed at Prince Sultan Air Base.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25Saudi offensive stalls as Houthis wipe out assault columns\nHouthi Shawaz suicide drones struck Saudi coalition troop gatherings and obliterated military vehicles east of Al-Jawf Governorate, video published by the Ansar Allah movement shows.\nAccording to reports from the battlefield, the initial momentum of the Saudi-backed coalition offensive has faded, and the Houthis have in places shifted from defense to counterattacks, continuing to strike airports and infrastructure targets inside Saudi Arabia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T10:15:26+00:00",
+      "timestamp": "2026-11-05T16:47:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -729,98 +613,60 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Houthis hold all the cards as Saudis seek exit ramp from Yemen\u00a0\nSaudi Arabia approached Yemen\u2019s Houthis pursuing a negotiated end to hostilities, with the movement proposing $51 billion in compensation and official recognition of Houthi rule as conditions for a settlement, The Wall Street Journal reports, citing people familiar with the discussions.\nThe Houthis argue that the money would compensate for years of Saudi airstrikes and blockade measures. More than a decade after Riyadh intervened in Yemen, the movement is now negotiating from a position of greater military strength. Not only have Houthi forces reportedly advanced to within 80 kilometers of Aden and consolidated their position near the Bab al-Mandeb Strait, but missile and drone strikes also continue to target Saudi oil facilities and airports.\nRiyadh\u2019s options are narrowing as airstrikes fail to stop the Houthis and a ground offensive risks heavy losses. The UAE has withdrawn, Pakistan refuses to join any strikes, and Egypt offers only defensive support.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7Pentagon fears Iran could challenge the US space advantage in Middle East\nIran's growing ability to disrupt American military satellites and use space intelligence to strike US targets more accurately is raising concerns in Washington, according to a new Pentagon intelligence report cited by Axios.\nEven after US strikes on Iranian space facilities, Tehran still has electronic warfare systems that can interfere with GPS signals. The Defense Intelligence Agency confirmed that Iran took offensive action against American space capabilities during Operation Epic Fury.\nThe findings have raised questions about US Central Command's earlier claim of \u201cspace superiority\u201d over Iran. As aerospace expert Todd Harrison told Axios, \u201cIf Iran can degrade U.S. space capabilities, we don't have superiority.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T08:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, they've been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow them to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T08:13:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran seizes two US LUCAS drones intact in Strait of Hormuz \nIran's Revolutionary Guard says its electronic warfare units took control of two LUCAS-type drones, redirected them, and landed them intact \u2014 capturing them as spoils.\nThe IRGC also stated: \n\ud83d\udd34 A large oil tanker on the unauthorized southern route struck a mine, caught fire and was forced to stop\n\ud83d\udd34 A second supertanker caught fire and was stopped while exiting the same route east of the strait\n\ud83d\udd34 A tugboat that rushed in to help fight the blaze also caught fire\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T05:45:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1Iran warns next US-Israeli attack will trigger retaliation without geographical limits\nIran will respond to any renewed military aggression with strikes extending beyond the location of the initial attack, Hamidreza Moqadamfar, adviser to the IRGC commander, warned.\n\ud83d\udcac \u00abOur responses will no longer be proportionate or commensurate; we will set their assets ablaze \u2014 beyond the point of attack, and regardless of time or location,\u00bb he said, outlining Iran\u2019s new military doctrine.\nMoqadamfar also warned that attacks on Iranian commanders would bring retaliation against enemy military and political leaders.\nSpeaking on the anniversary of the 1979 US embassy takeover in Tehran, he claimed that American military power in the region had suffered major setbacks, citing the downing of 56 advanced US drones.\nThe adviser also linked Republicans\u2019 midterm defeat to the economic fallout from the Iran war, describing the election as \u00aba major referendum against Trump\u2019s policies\u00bb in which Iran \u00abplayed a key role.\u00bb\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T05:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7US Treasury issues new Iran-linked sanctions, continuing escalatory actions\nIndividuals and companies in India and Turkey have been hit with US economic sanctions as part of President Donald Trump\u2019s \u201cOperation Economic Outcast\u201d for allegedly aiding Iran, just a day after Democrats\u2019 victory in the midterm elections.\n\ud83d\udcac \u201cWe know where you are, and we will sanction those who continue supporting the Iranian regime, whether by land, sea, or air,\u201d Treasury Secretary Scott Bessent said.\nSuniel Kumar Sharma, his wife Jaspreet Preeti Shahid, and two other Indian citizens allegedly defrauded maritime regulatory authorities in several countries, including Guyana, Eswatini and Laos, by claiming to represent them and issuing flags and certifications. This allowed vessels operating on behalf of the Iranian military and its proxies to evade international restrictions and continue operating, according to the US Treasury.\nThe department also sanctioned Turkey-based Fugo Ground Services Inc. for its support of Iran\u2019s aviation sector.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T02:40:02+00:00",
+      "timestamp": "2026-11-05T16:06:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
+        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Fine print in must-pass defense bill gives Israel unprecedented power over US military \u2013 ex-national security insider\nTwo amendments in the House and Senate versions of the 2027 National Defense Authorization Act (NDAA) effectively \u201clegalize the treason that Jonathan Pollard got put into jail for,\u201d retired US Army Col. [Lawrence Wilkerson](https://t.me/geopolitics_prime/57260), the former chief of staff to Secretary of State Colin Powell, told Clayton Morris.\n\ud83d\udde3\u201cThey legalize Israel being inside Lockheed Martin, inside Grumman, inside Boeing, and inside our national security complex like no other person or entity in the world,\u201d Wilkerson said, emphasizing that even among top US officials, only a handful enjoy the same level of access.\nFormer congressman Dennis Kucinich warned in June that the Israel intel-sharing and defense cooperation language in the NDAA risks tying the US military to future Israeli wars, including potential conflicts against regional US and NATO allies, as part of Tel Aviv\u2019s [\u2018Greater Israel\u2019 ambitions](https://t.me/geopolitics_prime/71695).\nThe bill narrowly passed the House in July, but got stalled in the Senate due to procedural hurdles. The Senate will now try to advance the must-pass legislation before January, or have to start over and pass it ASAP in the new year when the new Congress comes in.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-05T14:53:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddf8\ud83c\uddfe Saudi Arabia courts Syria for regional security role amid shipping crisis\n\u00a0\nSaudi Arabia\u2019s crown prince has met with the Syrian president in Riyadh to discuss financial aid, defense cooperation and regional security issues, including maritime access, energy and the safety of navigation.\nThe two leaders \u201ccalled for an immediate halt to activities threatening maritime security and shipping routes in the Red Sea, Bab Al-Mandab Strait and Strait of Hormuz,\u201d and \u201cstressed the need to strengthen regional and international efforts to deescalate tensions, contain crises, prioritize dialogue and diplomacy,\u201d according to an official readout cited by ArabNews.\n\ud83d\udc49 MBS and Sharaa urged \u201cintensified diplomatic efforts to prevent further military escalation, warning that renewed hostilities could have serious consequences for regional security, international shipping, energy supplies and the global economy.\u201d\nWednesday\u2019s Riyadh visit was Sharaa\u2019s second in a month. In October, a trip officially discussing strategic roadmaps and funding for Syria\u2019s reconstruction reportedly also included behind-the-scenes negotiations on the potential deployment of [Syrian forces ](https://t.me/geopolitics_prime/76014)in Yemen against the Houthis.\nDamascus at the time denied reports that it may be planning a military deployment, but has since confirmed that it\u2019s considering [joining the new Mecca Pact](https://t.me/geopolitics_prime/77085), whose other members have been asked assist Riyadh in its Yemen war.\n\ud83d\udc49 Saudi Arabia is looking to supply ~20-30% of Syria\u2019s oil needs, but has had difficulty exporting its energy amid Iran\u2019s closure of Hormuz to its east, and the Houthis\u2019 closure of the Red Sea to Saudi shipping in the West after July\u2019s escalation of a decade-old proxy war.\nSaudi Arabia, Turkey, Qatar and US intel provided substantial financial and weapons assistance to Syrian rebel and jihadist forces in a dirty war against Assad which ultimately toppled his government in late 2024. During Sharaa\u2019s latest visit, the Saudi Development Fund handed out $403M in loans to Syria, a drop in the bucket compared to the hundreds of billions the country needs to rebuild.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-05T12:58:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
