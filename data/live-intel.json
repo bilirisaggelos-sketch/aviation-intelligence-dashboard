@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-06T07:14:30.347337+00:00",
+  "generated_at": "2026-11-06T15:11:36.618469+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSocorro, NM, Monday, November 9, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/06/2026",
+      "location": "ZAB NM",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, November 6, 2026 through Sunday, November 8, 2026 Local\nFacility: ZAB",
@@ -211,6 +230,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3768\r\nIssue Time: 2026 Nov 06 1056 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3767\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 2197 pfu\nMax time: 2026 Nov 05 1700 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-06 10:56:56.870",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP2\r",
       "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1533\r\nIssue Time: 2026 Nov 05 1857 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Nov 05 1828 UTC\nEstimate Velocity: 609 km/s\nComment:",
       "source": "NOAA Space Weather",
@@ -287,21 +325,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3766\r\nIssue Time: 2026 Nov 04 1447 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3765\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 4077 pfu\nMax time: 2026 Nov 03 1620 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-04 14:47:27.263",
+      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
+      "text": "Major construction ongoing near Iran missile bases, satellite images suggest\nEvidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-06T07:33:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -321,6 +359,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Since the beginning of the war, Iran has shot down 56 American MQ-9 \u2018Reaper\u2019 drones and 16 MQ-1 \u2018Grey Eagle\u2019 drones",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-06T14:28:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The IRGC shot down another American MQ-1 \u2018Grey Eagle\u2019 drone over Qeshm Island",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-06T14:24:46+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -364,51 +440,33 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: The IRGC released footage of shooting down an American MQ-9 drone in the Strait of Hormuz last night",
+      "publisher": "Clash Report",
+      "text": "Iran's IRGC says it shot down a U.S. MQ-1 drone over Qeshm Island using an advanced air defense system, claiming it was the 16th American drone intercepted and destroyed.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-03T16:49:28+00:00",
+      "timestamp": "2026-11-06T14:00:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Brazilian President Lula:\nSomething else is important: in the same week that I won, Netanyahu lost in Israel, and it seems that my friend Trump is losing in the United States.\nSo it was an extraordinary victory for the Brazilian people. It was a lesson to the world.\nThe Brazilian people woke up to say: \"Brazil does not accept being anyone's backyard.\"",
+      "text": "NATO's Rutte:\nYou must not forget that Ukraine currently has an army of around 800,000 soldiers. \nThe entire German armed forces are about one-sixth of that.\nUkraine has a very strong military, fully adapted to drone warfare. But look at the sheer scale of what Russia is building up behind that.\nAnd you are dealing with a leader who is prepared to send more than a million of his own people to their destruction.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T04:03:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Abdul El-Sayed on Israel:\nI want us to step back and ask: How do you get to equal rights to peace, dignity, and self-determination for these peoples?\nHow do you make sure our tax dollars aren't spent doing genocide and apartheid or making war we have no business fighting?\nHow do we take those equal rights seriously? And how do we make sure that we're holding ourselves accountable to international law?\nAnd it's not just about Israel. I take the same approach to Egypt, where my family immigrated from. I take the same approach to Pakistan and to Jordan.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T03:53:00+00:00",
+      "timestamp": "2026-11-06T13:12:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -459,20 +517,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3\ud83c\uddf7\ud83c\uddfa \u2014 A Pentagon intelligence report finds that Iran remains an \"emerging\" space power despite recent U.S. strikes on its space facilities, according to Axios.\nThe Defense Intelligence Agency (DIA) says Tehran used GPS jamming and electronic warfare to disrupt U.S. space operations during Operation Epic Fury. The report also notes that Iran acquired Chinese satellite imagery to enhance military targeting, while Russia has assisted in launching Iranian satellites.\nDespite operating roughly a dozen satellites, analysts are questioning U.S. claims of space superiority, pointing to Iran's continued jamming capabilities.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\udde9\ud83c\uddea Lufthansa is reducing its flight operations in Israel amid growing regional tensions, with flight crews no longer staying overnight in the country, reports Channel 12.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-05T13:15:52+00:00",
+      "timestamp": "2026-11-06T08:40:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -511,6 +569,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine says its air defenses downed or suppressed 196 of 227 Russian drones overnight on November 6, including 70 jet-powered drones. The attack included 86 jet-powered drones in total. Hits were recorded at 14 locations and falling debris at eight.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-06T07:32:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The Afipsky refinery is on fire as Ukrainian drones keep attacking it in new waves since early morning.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-06T07:32:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -573,20 +669,116 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "#Pakistan \ud83c\uddf5\ud83c\uddf0: Baloch Liberation Army (#BLA) carried out FPV Drone strikes against Pakistani Forces in several districts in #Balochistan.\nBLA used numerous FPV Kamikaze Drones armed with PG-7V and Type 69-1 HEAT (Anti-Tank) RPGs \u2014 quite significant development.\nhttps://x.com/war_noir/status/2118379700774903857",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcac \ud83c\uddee\ud83c\uddf7 Basij chief predicts further turmoil in the US and Israel as Trump and Netanyahu mull new Iran offensive\nThe US-Israeli war against Iran has backfired, dealing electoral setbacks to both US President Donald Trump and Israeli Prime Minister Benjamin Netanyahu, Basij head Hossein Taeb said, as cited by Press TV.\nWashington had long sought to subjugate the Middle East and reshape the region's political, economic, and social landscape into its own \"global village,\" [imposing](https://t.me/geopolitics_prime/77375) its values on the region. But this project has instead triggered serious contradictions and social upheaval within the US and Israel, he said.\n\ud83d\udd0a\u201cToday, we say that change has begun in America and Israel, and we will soon see it across different areas,\u201d Taeb stressed.\nTaeb's remarks came amid Netanyahu's coalition losing its [majority in the Knesset](https://t.me/geopolitics_prime/77371) and Republicans ceding both chambers of the US Congress to their [Democratic rivals](https://t.me/geopolitics_prime/77335).\n\ud83d\udcd1 Taeb's remarks are more than mere rhetoric\nAlthough the Basij is just a sub-branch of the IRGC, its leader is no ordinary figure: Taeb is both a cleric and a seasoned intelligence officer who headed the IRGC Intelligence Organization from 2009 to 2022.\nHe briefly led the Basij from 2008 to 2009 and has been recently appointed by Iranian Supreme Leader Mojtaba Khamenei to lead and modernize the force in response to evolving threats and emerging technologies, signaling Iran's heightened state of alert.\n\u2753Two lame ducks\nTehran's concerns are not without basis, argues Israeli publication Ynet News, describing Trump and Netanyahu as two \"lame duck\" leaders who could use a renewed war against Iran to shore up their political standing and reshape their historical legacies.\nThe publication points to Netanyahu's inflammatory rhetoric against domestic Muslim leaders, his declarations about preparing for diplomatic isolation and an economic siege under a \"super-Sparta\" model, as well as Trump's upcoming meeting with Chinese President Xi Jinping, as potential opportunities for a show of force.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T04:46:35+00:00",
+      "timestamp": "2026-11-06T15:01:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83d\ude80 IRGC shoots down 16th US MQ-1 drone over Qeshm Island\nIran's Islamic Revolutionary Guard Corps announced that its air defense system, operating under the country's integrated air defense network, intercepted and shot down an American MQ-1 Gray Eagle reconnaissance-combat drone. \nAir defense grid spotted the aircraft violating airspace over the strategic island, according to an official statement.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-06T14:14:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude80 Iran\u2019s missile coverage will extend to Europe if US resumes war, senior lawmaker warns\n\u00a0\n\ud83d\udcac \u201cAny act of sabotage or military aggression by the US and Israel would trigger an Iranian response, with missiles capable of reaching targets in Europe,\u201d Hossein-Ali Haji Deligani, a veteran hardline lawmaker in Iran\u2019s parliament, said Friday, warning \u201csuch an escalation could drive oil prices above $150 per barrel.\u201d\nHaji Deligani\u2019s comments were echoed by Brig. Gen. Ali Belali, a top advisor to the commander of the IRGC\u2019s Aerospace Force, who warned that \u201cany force or country that assists the US in its aggression against us could become a legitimate target for us,\u201d depending on \u201cthe extent to which it cooperates and coordinates with the US.\u201d\nThe remarks follow last week\u2019s directive by Supreme Leader Mojtaba Khamenei ordering Iran\u2019s top commanders to be ready for any new aggression with a \u201cgeographically unrestricted response.\u201d\n\u00a0\nIran has several missile and drone classes with range capabilities sufficient to reach European targets, including:\n\ud83d\udd34 Khorramshahr-series ballistic missiles (2-3k km)\n\ud83d\udd34 Emad, Sejjil and Ghadr-series MRBMs (estimated range ~2k km, extendable with smaller payload configuration)\n\ud83d\udd34 some variants of Shahed-136 drones (2.5k km)\n\u00a0\nIf fired from northwestern Iran, [these weapons could easily reach the US and US-used army, air and naval bases and logistical facilities](https://t.me/geopolitics_prime/70371) from Southeastern Europe and the Balkans to British installations in Cyprus, and even facilities as far as southern Italy or Poland.\n[Iran voluntarily restricted the range of its missiles in 2017](https://t.me/geopolitics_prime/70371), deeming a two thousand kilometer range a sufficient deterrent that can reach any location in the Middle East, including all regional US bases.\nThe restrictions were lifted in late 2025 in the wake of that summer\u2019s Israeli-US surprise attacks. As [a major regional space power with domestic space-launch capabilities, Iran](https://t.me/geopolitics_prime/71206) has the theoretical knowledge base to easily create [a missile with an intercontinental range if it wanted to](https://t.me/geopolitics_prime/55541).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-06T12:51:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 US-Israel alliance faces its biggest crisis in decades as political support crumbles\nThe US midterm election results and growing signals from the White House are pushing the US-Israeli alliance toward its most severe test in decades, The WSJ reports, citing analysts.\nDemocrats have gained control of both chambers of Congress, strengthening a faction that wants to restrict military assistance to Israel and impose tighter oversight of how American weapons are used. But the pressure is no longer coming from Democrats alone. \nPresident Donald Trump has unexpectedly announced plans to end nearly $4 billion in annual military aid to Israel by the end of 2026, while Vice President JD Vance linked Republican electoral losses to public frustration over the Iran war and US support for Israel.\nThe crisis also threatens Prime Minister Benjamin Netanyahu, whose close ties with Republicans have come at the expense of relations with Democrats. Israel\u2019s inconclusive elections have further weakened his position.\nThe consequences could extend beyond military aid, with Washington potentially becoming less willing to shield Israel from criticism at the UN or support Israeli military operations.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-06T12:14:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 Zelensky\u2019s loose lips cost South Korean defense startup its Ukrainian testing ground\n\u00a0\nVolodymyr Zelensky\u2019s disclosure at the UN that Ukraine transferred two North Korean PoWs to South Korea unexpectedly triggered a major diplomatic rift, and forced Newtype Industries, a Seoul-based firm testing an AI artillery software package with the Ukrainian military, to pack up its bags and go home.\n\u201cThe main reason for ending the cooperation was the diplomatic conflict between South Korea and Ukraine,\u201d Newtype CEO Sengwon Cho told The Diplomat. \u201cVirtually all the partnerships and the local network of contacts our company had built have stopped functioning.\u201d\nThe order to halt came down \u201cfrom above\u201d in mid-October, three weeks after Zelensky\u2019s September 23 speech, which began as a dispute over confidentiality and escalated into a full-blown fissure. [Trials, feedback from the field and talks on the software\u2019s potential adoption](https://t.me/geopolitics_prime/75369) were canceled, and Newtype says it\u2019s no longer interested in working in Ukraine.\nNewtype was the first South Korean defense firm to gain access to Ukraine, doing so thanks to an introduction to local officers by Reaktion Group, a Canada-based consulting group. South Korea formally prohibits weapons makers from sending military equipment to Ukraine, despite attempts by Zelensky to procure air defenses and strike drones, and pressure from the US, Poland and other NATO allies to lift restrictions.\nThe Ukraine-South Korea rift over Zelensky\u2019s UN remarks snowballed after Kiev refused to apologize for violating a strict confidentiality agreement on the POW transfer.\nIn October, South Korea recalled its ambassador and reduced its diplomatic presence in Kiev. Ukraine\u2019s government is considering a \u201ccomprehensive review\u201d of investment talks in ventures ranging from weapons to \u2018green energy\u2019 and \u2018digital innovation\u2019.\nKiev has squashed reports on a potential [complete severing of diplomatic ties.](https://t.me/geopolitics_prime/49685) Ukraine previously severed relations with North Korea in July 2022.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-06T11:36:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Gulf's aviation empire faces unprecedented security crisis\nOver the past few months, at least 28 incidents involving missiles and drones striking or landing near airports have been recorded across the Gulf, with every country except Oman affected, the WSJ reports, citing conflict tracker Acled. \nAir traffic has fallen by as much as a third in some cases as the consequences are already mounting:\n\ud83d\udd34 An Iranian drone struck a fuel tank at Dubai International Airport, triggering a fire and hitting several parked aircraft \n\ud83d\udd34 Houthi attacks on Riyadh's international airport caused serious damage, with some terminals requiring months of repairs. Work on the planned King Salman International Airport has reportedly been put on hold.\n\ud83d\udd34 Virgin Atlantic plans to resume Dubai flights only in late 2027, subject to safety assessments and demand. United Airlines is targeting next March, while Lufthansa has postponed its return until at least late November.\n\ud83d\udd34 The UAE, Saudi Arabia and Qatar have invested heavily in aviation as a cornerstone of their economic diversification strategies, seeking to attract global business, tourism, finance and technology.\nBut repeated attacks are undermining the Gulf's reputation as a safe and reliable international transit hub. Higher insurance costs, flight disruptions and security concerns are making airlines increasingly reluctant to return.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-06T07:43:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
