@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:36:48.431686+00:00",
+  "generated_at": "2026-11-07T22:20:22.042836+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -192,6 +192,82 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2061\r\nIssue Time: 2026 Nov 07 1945 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Nov 07 1945 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-07 19:45:37.330",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5450\r\nIssue Time: 2026 Nov 07 1940 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5449\nValid From: 2026 Nov 07 0056 UTC\nNow Valid Until: 2026 Nov 08 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-07 19:40:51.927",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2275\r\nIssue Time: 2026 Nov 07 1935 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Nov 07 1935 UTC\nValid To: 2026 Nov 08 2100 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-07 19:35:10.147",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2697\r\nIssue Time: 2026 Nov 07 1920 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Nov 07 1920 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-07 19:20:43.007",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WARK04\r",
       "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5449\r\nIssue Time: 2026 Nov 07 1155 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5448\nValid From: 2026 Nov 07 0056 UTC\nNow Valid Until: 2026 Nov 07 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
@@ -211,80 +287,83 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WATA20\r",
-      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1137\r\nIssue Time: 2026 Nov 07 0626 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 07: G1 (Minor) Nov 08: G1 (Minor) Nov 09: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Iran has launched anti-ship ballistic missiles at U.S. Navy vessels in the Arabian Sea",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-07 06:26:14.357",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T19:53:52+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Geopolitics Prime",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "There likely won\u2019t be a resumption of full-scale war unless Tehran gets hit.\nIranian decisionmakers have apparently chosen to tolerate attacks in the South for now. In my opinion, this is a fatal mistake which risks the \u2018Lebanon model\u2019 being implemented in Iran. \nHowever, I do expect Iran to run out of patience relatively soon if these airstrikes against coastal launchers keep happening on a regular basis. \nWe may see at least some kind of limited retaliation against U.S. bases in Jordan or the Persian Gulf.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T19:43:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5448\r\nIssue Time: 2026 Nov 07 0056 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Nov 07 0056 UTC\nValid To: 2026 Nov 07 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Initial reports that the U.S. carried out an airstrike in Jask, southern Iran, after several anti-ship cruise missiles were launched at the Strait of Hormuz",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-07 00:56:27.930",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T19:37:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3768\r\nIssue Time: 2026 Nov 06 1056 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3767\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 2197 pfu\nMax time: 2026 Nov 05 1700 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1 NEW: Opposition leader Gadi Eisenkot has received permission from Israeli President Isaac Herzog to form a government\nBenjamin Netanyahu\u2019s era as Israel\u2019s Prime Minister has come to an end.",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-06 10:56:56.870",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T19:31:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTTP2\r",
-      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1533\r\nIssue Time: 2026 Nov 05 1857 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Nov 05 1828 UTC\nEstimate Velocity: 609 km/s\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-05 18:57:32.737",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -298,14 +377,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -323,101 +400,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Footage from earlier shows Iranian surface-to-air missiles being launched at an American fighter jet that violated the airspace of Qeshm Island\nSome sources report that two U.S. \u2018Tomahawk\u2019 cruise missiles struck Souza Port, Qeshm, in response.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T22:48:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: According to my sources, Iranian air defenses on Qeshm launched a surface-to-air missile at an American F/A-18 \u2018Hornet\u2019 intruding Iran\u2019s airspace",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T21:24:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Since the beginning of the war, Iran has shot down 56 American MQ-9 \u2018Reaper\u2019 drones and 16 MQ-1 \u2018Grey Eagle\u2019 drones",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T14:28:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Congressional Democrats are discussing a new security assistance package for Ukraine worth about $15 billion, according to the Financial Times.\nPossible NDAA amendments covers sanctions, intelligence support and interceptor missiles.\n[READ MORE](https://clashreport.com/world/articles/democrats-ukraine-security-aid-package-svi641ud2jc)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T17:02:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Paris prosecutors are examining whether email bomb hoaxes targeting flights over France have links to \u201cforeign powers.\u201d \n[READ MORE](https://clashreport.com/world/articles/paris-prosecutor-airline-bomb-alerts-h51jd9yn0v)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T16:23:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -443,6 +425,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\udde8\ud83c\uddf4 In Santa Rosa, Bol\u00edvar Department, kamikaze drones attacked a military facility of the 48th Jungle Battalion of the Colombian National Army. According to the latest reports, three soldiers were killed and 20 were injured in the attack.\nAccording to Colombian media, the attack was carried out by members of the armed group ELN as retaliation for the arrest of an alleged leader of this organization in the region.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T21:39:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 This morning, at least four U.S. Air Force KC-135R/T tanker aircraft arrived in Israel, likely as part of a routine rotation, while about three aircraft left Ben Gurion Airport. Another aircraft with the callsign MOTOWN3 arrived at Sigonella Air Base.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T21:32:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 A USAF drone is flying near Iran\u2019s southern coastline.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -461,62 +481,44 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Iraqi FM Fuad Hussein to Al Jazeera:\nCurrent circumstances indicate the possibility of renewed war in the region.\nWe have lost approximately $60 billion due to the suspension of oil exports through the Strait of Hormuz.\nWe have resumed oil exports through the Strait of Hormuz following understandings reached with Washington and Tehran.\nWashington has formally requested that we close all our border crossings with Iran, except for two.\nWe have informed Iran that we welcome friendship and alliance with it, but reject its interference in our internal affairs.\nWe have information indicating that foreign entities are using Iraqi territory to launch attacks against neighboring countries.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Iran has also launched anti ship missiles likely in response to the attacks.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T14:29:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Iran has lifted restrictions on the range of its missiles, Islamic Revolutionary Guard Corps (IRGC) Spokesman Brigadier General Hossein Mohebi said.\nAccording to Mohebi, Iran will demonstrate its ability to respond to threats in practice and, in asymmetric warfare, can strike an adversary where it least expects it.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T12:04:55+00:00",
+      "timestamp": "2026-11-07T19:44:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime",
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 3
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 An Iranian Air Force Yak-130 combat trainer aircraft that rammed an enemy UAV during the \"40-day war.\" The UAV's debris became stuck in the wing.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1 NEW: Opposition leader Gadi Eisenkot has received permission from Israeli President Isaac Herzog to form a government\nBenjamin Netanyahu\u2019s era as Israel\u2019s Prime Minister has come to an end.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T11:57:10+00:00",
+      "timestamp": "2026-11-07T19:33:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -673,6 +675,46 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Bolsonaro's escape: Abandoned by his own advisers, investigated for Mossad help\nThe fallout from Fl\u00e1vio Bolsonaro\u2019s frantic flight to the US is getting messy. Not only is he facing legal jeopardy in Brazil, but his own inner circle is turning on him, the Washington Post reported.\nHis advisers are furious. One called him \"soft\" and said running away was \"the worst thing he could have done\" if he wanted to challenge the election results. \nAnother described the escape as shockingly impulsive, noting he was emotionally shaken by the loss: \"He thought he was going to win, and he didn\u2019t.\"\nBrazilian authorities are now investigating whether foreign agents helped him flee. A senior Brazilian security official told The Washington Post that a former Mossad agent was reportedly seen following Bolsonaro\u2019s vehicle toward the Argentine border.\nBrazil is checking for involvement from US, Argentine, and Israeli agents. Fl\u00e1vio is refusing to disclose his escape route.\nThe Bolsonaro family built its brand on macho nationalism and calling their opponents traitors. Now, the heir to the throne is hiding out in Florida, deemed a coward by his own team, while Brazil investigates if he needed foreign spies to smuggle him across the border.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T22:06:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 US strikes Iran, IRGC fires ballistic missiles at US Navy\nUS forces hit the port of Jask and two locations on Qeshm Island in southern Iran, according to local reports.\nIn response, Iran launched anti-ship ballistic missiles at US Navy vessels in the Arabian Sea.\nIranian systems in Bandar Abbas are currently engaging a US drone, while interceptors and drones target violating ships and aircraft in the strait.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T20:21:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\u2694\ufe0f\u2708\ufe0fHouthis launch six waves of strikes in wake of Saudi terror bombings\n\u00a0\n\ud83d\udde3\ufe0f\u201cIn response to the brutal Saudi aggression against our country and its heinous crimes\u2026the Yemeni Armed Forces carried out six qualitative military operations using a large number of ballistic and cruise missiles and drones,\u201d Ansar Allah-aligned Armed Forces spokesman Yahya Saree announced Saturday.\nThe strikes follow Friday\u2019s Saudi attack on a market in Taiz governorate, which killed at least 30 people, and Saturday\u2019s strike on a settlement in the outskirts of Sanaa, in which over 50 civilians, mostly children, women, and first responders were killed and wounded in a quadruple-tap [attack.](https://t.me/geopolitics_prime/77439)\n\u00a0\nThe retaliatory campaign included:\n\u00a0\n\u27a1\ufe0f strikes targeting King Khalid International Airport and Saudi Aramco infrastructure in Riyadh\n\u27a1\ufe0f an attack on Aramco facilities in Khurais\n\u27a1\ufe0f a strike on a pumping station in Riyadh province along the kingdom\u2019s strategic East-West Crude Oil Pipeline\n\u27a1\ufe0f an attack on a Saudi National Guard camp in Najran near the Yemeni border (direct hit, \u201clarge number of dead and wounded,\u201d according to Saree)\n\u27a1\ufe0f a three-phase strike targeting enemy formations in Al-Jawf province, \u201cdozens\u201d of enemy troops under the command of Saudi Brig. Gen. Faris Al-Shammari reported killed or injured\n\u27a1\ufe0f a strike targeting enemy forces commanded by Saudi Brig. Gen. Faris Al-Shammari in Raghwan and Madghal, Marib province\n\u00a0\nSaudi Arabia will be made to \u201cpay a heavy price for every crime and act of aggression,\u201d Saree said, warning that operations \u201cdeep inside Saudi territory\u201d will continue based on the \u201csiege for siege, escalation for escalation\u201d calculus.\nHouthi-aligned Supreme Political Council chairman and de-facto president Mahdi al-Mashat warned separately on Saturday that Yemen\u2019s dead would be \u201cavenged,\u201d and that the Saudi \u201cHorn of Satan\u201d would be \u201cpunished\u201d for its targeting of markets and civilian homes \u201cjust as the Zionist does.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -698,46 +740,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-07T14:12:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran lifts restrictions on missile range \u2014 IRGC spox\n\"These restrictions have been lifted for us, but we still have to demonstrate these capabilities in practice,\" IRGC spokesman Hossein Mohebi said, responding to an ISNA correspondent's question about the lifting of missile range restrictions.\n\ud83d\udc49 Iranian MP Manouchehr Mottaki earlier said Iran could attack US bases in Europe if aggression against the Islamic Republic resumes. \nIran's Supreme Leader Mojtaba Khamenei on October 31 instructed the military to respond effectively to any threats, noting that the response should have no geographical limits.\n\ud83d\udd0a Iranian Foreign Minister Abbas Araghchi noted in February \u2014 before the conflict with the US began \u2014 that Tehran had deliberately limited missile range to 2,000 km, and that the missiles themselves were designed for defensive purposes and deterrence and did not pose a global threat.\nHowever, Iranian military officials have recently stated that the military doctrine has changed from defensive to offensive.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T09:48:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf1 Saudi Arabia wants Netanyahu out before normalization \u2013 reports\n\u201cSaudi Arabia wants peace, negotiations, and for the Israeli-Palestinian issue to be closed via a two-state solution. But Netanyahu is not there,\u201d a source told Israel\u2019s KAN broadcaster amid the ongoing political deadlock in Israel following [elections](https://t.me/geopolitics_prime/77371) in late October.\nThe problem is policy, not personality, the source said.\n\ud83d\udd0a\u201c[Riyadh] has no interest in the identity of the prime minister of Israel\u2026Netanyahu, in our view, only wants to cause problems. He does not want peace; he wants escalation. As long as Netanyahu is in power with the current government, normalization is not on the agenda.\u201d\nThis is the second time in a year that anonymous Saudi sources have told Israeli media Netanyahu needs to go.\nLast month, Netanyahu made a security presentation labeling Saudi Arabia, Egypt, Turkey and Pakistan as members of a \u201cSunni Diamond Alliance,\u201d standing in opposition to Iran\u2019s Axis of Resistance, and to an Israel-UAE \u201c[Hexagon Alliance](https://t.me/geopolitics_prime/76469).\u201d\nRiyadh\u2019s semi-public denunciation comes amid reports that the IDF has been feeding the kingdom \u201cexceptional\u201d intelligence against the Houthis in Yemen, notwithstanding MSB\u2019s rejection of direct Israeli military assistance against the [Yemeni fighters](https://t.me/geopolitics_prime/76662).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T06:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
