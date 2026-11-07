@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-07T00:49:57.842906+00:00",
+  "generated_at": "2026-11-07T06:58:22.689189+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nKaneohe, HI, Monday, November 9, 2026 through Monday, November 9, 2026 Local\nFacility: ZHN",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/07/2026",
+      "location": "ZHN HI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nSocorro, NM, Monday, November 9, 2026 Local\nFacility: ZAB",
@@ -98,44 +117,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nHOMESTEAD, FL, Friday, November 6, 2026 through Friday, November 6, 2026 Local\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/05/2026",
-      "location": "ZMA FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nCape Canaveral, FL, Friday, November 6, 2026 through Friday, November 6, 2026 Local\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/04/2026",
-      "location": "ZMA FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, November 6, 2026 through Sunday, November 8, 2026 Local\nFacility: ZMA",
       "source": "FAA",
       "source_type": "official",
@@ -174,25 +155,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, November 2, 2026 through Saturday, November 7, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/01/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nGRAND FORKS AFB, ND, Sunday, November 1, 2026 through Sunday, March 14, 2027 Local\nFacility: ZMP",
       "source": "FAA",
       "source_type": "official",
@@ -207,6 +169,44 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1137\r\nIssue Time: 2026 Nov 07 0626 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 07: G1 (Minor) Nov 08: G1 (Minor) Nov 09: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-07 06:26:14.357",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5448\r\nIssue Time: 2026 Nov 07 0056 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Nov 07 0056 UTC\nValid To: 2026 Nov 07 1200 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-07 00:56:27.930",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -264,63 +264,6 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3767\r\nIssue Time: 2026 Nov 05 1254 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3766\nBegin Time: 2026 Nov 01 1302 UTC\nYesterday Maximum 2MeV Flux: 1477 pfu\nMax time: 2026 Nov 04 1425 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-05 12:54:05.130",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WATA20\r",
-      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1135\r\nIssue Time: 2026 Nov 04 1904 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 05: None (Below G1) Nov 06: G1 (Minor) Nov 07: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-04 19:04:07.743",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-      "text": "Major construction ongoing near Iran missile bases, satellite images suggest\nEvidence of digging and new buildings are visible in satellite imagery taken in November, satellite images suggest.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-06T07:33:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -444,12 +387,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran\u2019s military says it shot down a U.S. MQ-9 drone over Qeshm Island using its air defense systems.",
+      "text": "Russia\u2019s Saratov oil refinery, one of the country\u2019s oldest, was targeted by drones, with explosions, fires and air defense activity reported in the area.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T23:01:07+00:00",
+      "timestamp": "2026-11-07T05:30:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -616,12 +559,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine says its air defenses downed or suppressed 196 of 227 Russian drones overnight on November 6, including 70 jet-powered drones. The attack included 86 jet-powered drones in total. Hits were recorded at 14 locations and falling debris at eight.",
+      "text": "Proton plant engulfed in flames after FP-5 cruise missile attacks. Two missiles hit the facility.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T07:32:16+00:00",
+      "timestamp": "2026-11-07T06:44:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -635,12 +578,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The Afipsky refinery is on fire as Ukrainian drones keep attacking it in new waves since early morning.",
+      "text": "Many footage now appearing of the Proton Plant in Oryol, burning. Missiles struck it, tomorrow you will get to know the details.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T07:32:05+00:00",
+      "timestamp": "2026-11-07T06:44:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -654,12 +597,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8[Axios](https://www.axios.com/2026/11/05/iran-space-threats-pentagon-report): U.S. Defense Intelligence Agency (DIA) assesses that Iran is an emerging space power capable of challenging U.S. military operations in the Middle East, despite American strikes on key Iranian space facilities.\nIran has around a dozen operational satellites, compared with a US fleet more than 1,000 times larger. Nevertheless, the DIA warns that Tehran is expanding both civilian and military space programmes to strengthen its national prestige, economic development and military capabilities.\nThe DIA report says Iran took offensive action against U.S. space capabilities during Operation Epic Fury, including using ground-based electronic warfare systems to disrupt satellite-based GPS and navigation signals.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u2757\ufe0fA fire broke out at Russia's Proton electronics plant in Oryol after an FP-5 cruise missile attack. The facility makes semiconductor and power electronics used in Russian weapons, including Iskander-M missiles and Pantsir-S1 systems. One or two of five missiles reportedly hit.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T05:14:49+00:00",
+      "timestamp": "2026-11-07T06:44:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -673,12 +616,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde9\ud83c\uddf8\ud83c\udde9 RSF drone attacks across Sudan have killed at least 14 civilians and injured several others.\nIn West Kordofan, 8 civilians were killed and 3 were injured, while South Kordofan saw another 4 deaths and 10 injuries. In the Blue Nile region, another 2 were killed, including a mother of three.\nContinued drone strikes on power infrastructure across multiple states have caused widespread blackouts, fuel shortages, and disruptions to clean water supplies.\n[\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Aftermath in Oryol, Russia, following an attack with FP-5 cruise missiles. According to our information, five missiles targeted the city, with one or possibly two hitting their intended targets. Damage assessment is ongoing.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T05:09:13+00:00",
+      "timestamp": "2026-11-07T06:40:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -692,12 +635,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\udde8\ud83c\udde6 Canada plans C$451 billion in military spending over five years, including C$2.3 billion for drones. Its 2026 budget also allocates C$6 billion over 10 years to expand domestic intelligence capabilities and reduce reliance on foreign partners, reports Global News.",
+      "text": "Moment of the FP-5 Flamingo cruise missile strike in Oryol,",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T05:07:05+00:00",
+      "timestamp": "2026-11-07T06:40:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -705,6 +648,234 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Explosions are reported in Oryol, Russia. Preliminary info indicate Ukraine used FP-5 Flamingo cruise missiles in the attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T06:40:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A total of 8 RM-48U ballistic missiles launched from two Russian S-400 systems struck the same location on Kyiv's left bank. Further missile strikes may follow after midnight..",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T06:35:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's General Staff reports strikes on four Russian military targets on November 5 and overnight into November 6. Two ammunition depots were targeted near Melitopol and Khliborobne in Zaporizhzhia region. In Donetsk region, Ukrainian forces also struck a Russian drone control post near Chasiv Yar and a fuel and lubricants depot near Luhanske.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T06:32:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's steel production has been brought close to a standstill for the first time in a century, RaiNews24 reports. Five Russian ballistic missiles struck the Kamianske steelworks on September 5, destroying blast furnaces, killing five workers and forcing the facility to close. Mining and metallurgy account for more than 6% of Ukraine's GDP and 30% of its exports. Around 70,000 people work directly in the industry, while up to 500,000 could lose income including related businesses.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T06:30:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Footage shows the aftermath of a November 4 Ukrainian drone strike on an Ozon logistics hub in Adygeysk, Russia. The 107,000-square-meter dual-use complex was reportedly used by Russia's Defense Ministry.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T06:30:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Aftermath of Ukrainian drone strikes on a data center in occupied Donetsk.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T06:29:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's Mirage 2000-5F fighter Blue 45, serving with the 107th Aviation Wing, was seen in September 2026 carrying at least one French Matra R550 Magic 2 short-range infrared-guided missile. France has delivered five Mirage 2000-5F jets to Ukraine: three in February 2025 and two in March 2026. One crashed in July 2025 due to a technical malfunction, with the pilot ejecting safely, leaving four operational aircraft as of November 2026.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T06:28:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's 63rd Mechanized Brigade drone operators found Russian artillery guns hidden in covered positions and struck them.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T06:28:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddee\ud83c\uddf1 Saudi Arabia wants Netanyahu out before normalization \u2013 reports\n\u201cSaudi Arabia wants peace, negotiations, and for the Israeli-Palestinian issue to be closed via a two-state solution. But Netanyahu is not there,\u201d a source told Israel\u2019s KAN broadcaster amid the ongoing political deadlock in Israel following [elections](https://t.me/geopolitics_prime/77371) in late October.\nThe problem is policy, not personality, the source said.\n\ud83d\udd0a\u201c[Riyadh] has no interest in the identity of the prime minister of Israel\u2026Netanyahu, in our view, only wants to cause problems. He does not want peace; he wants escalation. As long as Netanyahu is in power with the current government, normalization is not on the agenda.\u201d\nThis is the second time in a year that anonymous Saudi sources have told Israeli media Netanyahu needs to go.\nLast month, Netanyahu made a security presentation labeling Saudi Arabia, Egypt, Turkey and Pakistan as members of a \u201cSunni Diamond Alliance,\u201d standing in opposition to Iran\u2019s Axis of Resistance, and to an Israel-UAE \u201c[Hexagon Alliance](https://t.me/geopolitics_prime/76469).\u201d\nRiyadh\u2019s semi-public denunciation comes amid reports that the IDF has been feeding the kingdom \u201cexceptional\u201d intelligence against the Houthis in Yemen, notwithstanding MSB\u2019s rejection of direct Israeli military assistance against the [Yemeni fighters](https://t.me/geopolitics_prime/76662).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T06:02:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Netanyahu's 'reelection strike' on Iran was thwarted only by a US intervention \u2014 report\nAn explosive report from Israel\u2019s Channel 12 alleges that Prime Minister Benjamin Netanyahu and his loyalist Mossad chief, Roman Gofman, planned a military operation against Iran on the eve of the October 27 election. The plot was reportedly stopped only by accident when the White House found out.\nIDF Chief of Staff Eyal Zamir had already been resisting the PM's demands for military action, requiring signed legal documentation. He reportedly warned the US that renewed fighting could derail the vote.\nThe plans moved forward anyway\u2014until an Israeli security operative made a mistake that tipped off the US. Washington quickly intervened to quash the operation.\nNetanyahu's office denies the report, claiming \"an attack before the Israeli elections was not on the agenda.\" However, this aligns with earlier reports that Netanyahu urged Trump to resume strikes on Iran immediately after the US midterms, hoping to blow up the diplomatic track.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T05:19:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Over 30 Russian missiles slam Kiev power grid overnight\nReported targets:\n \n\ud83d\udd34 750 kV Kievskaya, 330 kV Novokievskaya and 330 kV Brovarskaya substations\n \n\ud83d\udd34 Area around Tripolskaya thermal power plant\n \n\ud83d\udd34 Several sites in Kiev\u2019s Brovary and Solomensky districts\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T04:30:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\u2694\ufe0f\ud83c\uddfe\ud83c\uddea Saudi Arabia Runs Short of Options Against Houthi Missiles\nSaudi Arabia faces shrinking options for stopping Houthi attacks on its oil facilities, airports and shipping because airstrikes have failed to halt the pressure, while potential allies remain unwilling to join an offensive inside Yemen.\nThe Wall Street Journal reports that the Houthis sought $51B in compensation for Saudi airstrikes and the blockade, plus recognition as Yemen\u2019s rulers, citing people briefed on discussions. Saudi Deputy Minister Rayed Krimly categorically denied the account on November 5; the Houthi leadership did not respond to requests for comment.\nHouthi forces have reportedly seized territory overlooking Bab al-Mandeb, the narrow passage linking the Red Sea to the Gulf of Aden, and advanced to roughly 80 km from Aden, the seat of Yemen\u2019s internationally recognized government.\nMissiles threaten the places where a Saudi-backed offensive would have to assemble troops and command staff. Retired US Army colonel David Des Roches argues that Houthi strikes around Aden make bringing reinforcements into Yemen harder, obstructing the ground pressure Saudi Arabia needs to strengthen its negotiating position.\nAirstrikes offer no straightforward solution against entrenched forces, while sending more Saudi troops risks casualties and anger at home. Saudi officials say Crown Prince Mohammed bin Salman wants battlefield gains before negotiating fully but fears the cost of securing them.\nPakistan has refused to join strikes inside Yemen, Egypt has limited its proposed mission to defense, and the US has declined direct support, according to the same account. The United Arab Emirates\u2019 withdrawal from the campaign has further weakened the coalition, with Saudi and Emirati allies pursuing conflicting goals for Yemen.\nRice University researcher Kristian Coates Ulrichsen warns that attacks on civilian and energy infrastructure also undermine investor confidence, raising the economic cost of a prolonged conflict.\nThe Houthis can exert pressure without matching Saudi spending because their missiles threaten both revenue-producing infrastructure and preparations for a ground offensive. Without forces able to disrupt those attacks at their source, Saudi Arabia faces continued economic damage while struggling to build leverage for negotiations.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T02:27:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -832,44 +1003,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-06T19:11:04+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israeli intelligence firm warns Iranian vessels may be mapping undersea cables\nAt least four Iran-linked vessels have been spotted taking unusual routes and loitering near undersea communications cables in the Gulf of Oman in recent weeks, the Financial Times reports.\nIsraeli maritime intelligence company Windward said three of the vessels are US-sanctioned oil tankers, while the fourth is a small Iranian fishing boat.\n\ud83d\udd0a\"They sailed normally until they reached a specific cable corridor and only then slowed, looped, turned back, loitered, or went dark,\" Windward told the publication.\n\ud83d\udd34 A fishing vessel reportedly lingered over the Europe-India Gateway and Transworld cables\n\ud83d\udd34 Three tankers slowed over several cable routes, including 2Africa, which connects Gulf countries to Africa via the Red Sea\n\ud83d\udd34 The vessels also allegedly operated above the Falcon cable, which connects Gulf countries to India and Africa\nWindward claims the vessels' behavior \"fits the profile of mapping the cable routes or placing charges or mines on them while dark.\"\nIran has repeatedly warned it could target undersea cables in the Strait of Hormuz in response to heightened aggression against the Islamic Republic. The first warning [came in April](https://t.me/geopolitics_prime/68935), with the latest issued in late October, when Iranian security officials told Reuters that Tehran had detailed plans to attack the cables and block repairs, prolonging internet disruptions if the US and Israel renew their [war against Iran](https://t.me/geopolitics_prime/76684).[\n](https://t.me/geopolitics_prime/76684)\n\ud83d\udd34 At least seven undersea cables cross the Strait of Hormuz, carrying internet traffic and financial and commercial data [between countries](https://t.me/geopolitics_prime/69879) \n\ud83d\udd34 Satellites are no substitute: they offer less capacity, higher latency, and higher costs, WANA said in an October report\n\ud83d\udd34 Tech giants including Google, Microsoft, Amazon, and Meta rely on these cables to connect local networks to global infrastructure\n\ud83d\udd34 Disruptions could hit connectivity across the Middle East, Europe, and Asia, as well as cloud services such as Microsoft Azure and [Amazon Web Services](https://t.me/geopolitics_prime/72522).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T18:35:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f \ud83c\uddf8\ud83c\udde6 Houthis ramp up assault on Saudi-backed forces and infrastructure\n\u00a0\nYemen\u2019s Ansar Allah has released new combat footage of operations against the enemy in the Kahbub Mountain Range east of the Bab al-Mandab Strait.\nThe footage shows attacks on enemy vehicles, from Toyota pickups to heavily-armored US-made Oshkosh and BATT UMG MRAPs and Jordanian-made Al-Wahsh APCs, firefights with troops, and the use of man-portable anti-tank weapons.\nFriday\u2019s release included a 45 second preview, plus a 35-minute video showing fighters scaling mountains, ambushing armored convoys in narrow mountain passes, and fighting in rocky desert areas. The footage provides hints on how the region\u2019s difficult geography helps nullify Saudi Arabia\u2019s overwhelming technological, financial and air power advantage.\nSeparately on Friday, social media footage showed a large black plume of smoke rising over an unidentified industrial site somewhere in Saudi Arabia.\nThe Saudi-led coalition reported that it intercepted drones over Mecca and Medina, and two missiles over Najran province. Ansar Allah has repeatedly denied targeting the Islamic holy cities, accusing Riyadh of trying to spark a [religious war](https://t.me/geopolitics_prime/76337).\nSeparately, Houthi-aligned Yemeni Armed Forces spokesman Yahya Saree said a Saudi F-15 carried out three airstrikes on the Al-Hadara Market in Taiz governorate\u2019s Al-Waziiyah district, resulting in \u201cdozens of civilian casualties \u2013 both killed and wounded.\u201d These \u201cbrutal crimes will not go unanswered or unpunished,\u201d he warned.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T17:49:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
