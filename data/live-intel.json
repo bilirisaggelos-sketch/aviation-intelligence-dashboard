@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:20:22.042836+00:00",
+  "generated_at": "2026-11-08T01:44:32.691600+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -87,25 +87,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/05/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nBATON ROUGE, LA, Saturday, November 7, 2026 through Saturday, November 7, 2026 Local\nFacility: ZHU",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/05/2026",
-      "location": "ZHU LA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -287,6 +268,27 @@
       "verified_source_count": 1
     },
     {
+      "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+      "text": "Israel's president tasks opposition leader Eisenkot with forming government\nNeither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-07T22:19:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "BBC World News",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Iran has launched anti-ship ballistic missiles at U.S. Navy vessels in the Arabian Sea",
@@ -298,14 +300,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Geopolitics Prime",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -357,13 +358,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "BBC World News",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -405,6 +407,25 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Russia secretly strengthened Iran\u2019s missile capabilities ahead of its war with the U.S., according to internal Russian defense documents obtained by Dallas Analytics.\nThe records reveal a contract for 90 launchers capable of firing precision-guided missiles, with production shipments scheduled between late 2024 and December 2025. \nHowever, they do not confirm whether the launchers reached Iran.\nThe revelations contradict Trump's repeated claims that Russia was not helping Iran.\nSource: Fox News",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T22:58:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[The push to replace Schumer as Senate leader; 94% of Gaza\u2019s population needs shelter assistance; Paraguay\u2019s president resigns](https://www.dropsitenews.com/p/schumer-senate-leader-gaza-shelter-israel-paraguay-resignation-protests)\nFriday, November 6, 2026 \u2013Iran: President Donald Trump threatens to \u201cdestroy what is left\u201d of Iran, says decision on new strikes coming soon. Iran says two oil tankers caught fire after striking mines in Strait of Hormuz.Palestine: Two Palestinians die from wounds sustained in Israeli airstrikes on Gaza. 94% of Gaza\u2019s population needs shelter assistance, UN says. Israel destroys 100,000 olive trees this year in the occupied West Bank; Gaza faces \u201cecocide.\u201d Israeli forces arrest 17 during olive harvest as settlers attack Palestinians across occupied West Bank. Israeli P... \n[Read More in Full Article](https://www.dropsitenews.com/p/schumer-senate-leader-gaza-shelter-israel-paraguay-resignation-protests)\nDrop Site News | dropsitenews\u200b.com \u2022 Nov 6, 2026",
       "source": "Telegram",
@@ -425,6 +446,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\udde8\ud83c\uddf3 China\u2019s Ceres-2 rocket placed four satellites into a 535-km sun-synchronous orbit after lifting off from Jiuquan, developer Galactic Energy reported. \nIts maiden launch having failed in January, this launch verified fixes to the upper-stage engine, electrical systems, and launch equipment. \nThe medium-lift rocket can carry 1.3 metric tons to a 500-km orbit.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T23:49:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ud83c\udde8\ud83c\uddf4 In Santa Rosa, Bol\u00edvar Department, kamikaze drones attacked a military facility of the 48th Jungle Battalion of the Colombian National Army. According to the latest reports, three soldiers were killed and 20 were injured in the attack.\nAccording to Colombian media, the attack was carried out by members of the armed group ELN as retaliation for the arrest of an alleged leader of this organization in the region.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -434,50 +474,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "CASELS"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 This morning, at least four U.S. Air Force KC-135R/T tanker aircraft arrived in Israel, likely as part of a routine rotation, while about three aircraft left Ben Gurion Airport. Another aircraft with the callsign MOTOWN3 arrived at Sigonella Air Base.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T21:32:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 A USAF drone is flying near Iran\u2019s southern coastline.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T14:43:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -491,14 +494,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -512,13 +513,14 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
+        "BBC World News",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
@@ -561,12 +563,32 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The moment a ballistic missile was shot down over Kyiv overnight.",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 The 1st Division of the Colombian Army reports that three Colombian soldiers were killed and eight wounded by a drone strike on a military facility in Santa Rosa, Bolivar Department. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T09:43:37+00:00",
+      "timestamp": "2026-11-07T23:51:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A Russian mobile air defense group tries to shoot down an incoming Ukrainian drone until the very last moment, another of the crew can be seen jumping off the vehicle while it is speeding down the path.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-07T23:42:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -580,12 +602,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\uddfe\ud83c\uddea The United States has issued security alerts dated November 7, 2026, through multiple diplomatic missions across the Middle East, including its embassies in Jordan, Lebanon, and Qatar, as well as its virtual embassy for Iran.\nThe security alerts cover the following countries:\n\ud83c\uddef\ud83c\uddf4 Jordan \u2014 US Embassy Amman\n\ud83c\uddf1\ud83c\udde7 Lebanon \u2014 US Embassy Beirut\n\ud83c\uddf6\ud83c\udde6 Qatar \u2014 US Embassy Doha\n\ud83c\uddee\ud83c\uddf7 Iran \u2014 US Virtual Embassy Iran\n\ud83c\uddee\ud83c\uddf6 Iraq \u2014 US Mission Iraq\n\ud83c\uddee\ud83c\uddf1 Israel \u2014 US Embassy Jerusalem\n\ud83c\udde7\ud83c\udded Bahrain \u2014 US Embassy Manama\n\ud83c\uddf4\ud83c\uddf2 Oman \u2014 US Embassy Muscat\n\ud83c\uddf8\ud83c\udde6 Saudi Arabia \u2014 US Mission Saudi Arabia\n\ud83c\udde6\ud83c\uddea United Arab Emirates \u2014 US Mission UAE\n\ud83c\uddfe\ud83c\uddea Yemen \u2014 US Mission Yemen\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Another angle of the same missile launch from Bandar Abbas. It appears to be a surface-to-air missile (SAM) fired at a U.S. fighter jet or drone.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T08:17:43+00:00",
+      "timestamp": "2026-11-07T23:33:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -599,12 +621,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkraine struck the Proton electronic components plant in Oryol, near the Ukrainian border, this evening. \nReports indicate FP-5 flamingo ballistic missiles were used in the strike. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The IRGC launched a missile from Bandar Abbas in southern Iran.\nIt is unclear whether it was a surface-to-air missile (SAM) or a ballistic/cruise missile.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T08:14:55+00:00",
+      "timestamp": "2026-11-07T23:33:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -618,50 +640,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaRussia is currently launching a combined drone and missile strike on Ukraine, primarily targeting energy infrastructure in Kyiv. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f \u2014 A Russian RM-48U ballistic missile was intercepted by a Ukrainian-operated Patriot air defense system over Kyiv last night.\nMore than 15 ballistic missiles targeted Kyiv, striking energy infrastructure, an industrial zone in the eastern part of the city, and the Pivnichnyi Bridge (Northern Bridge).",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T08:14:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Rostov region was under a drone attack today. A warehouse near the Almaz plant in Rostov-on-Don, which makes military equipment and communication systems.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T08:06:32+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russians attacked Kyiv overnight, leaving three people injured, including a child. Several missiles hit the Pivnichnyi bridge, damaging the road surface, trolleybus contact line and a power line, Klitschko says. Fires broke out in Solomianskyi district, damaging homes and a kindergarten.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T08:06:26+00:00",
+      "timestamp": "2026-11-07T23:33:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -703,14 +687,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Geopolitics Prime",
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -721,25 +704,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-07T17:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80\ud83c\uddf7\ud83c\uddfa Russian UAVs wipe out entire platoon of Ukrainian ground-based drones in massive bot battle\n\u00a0\nWhat may have been the biggest robot battle of the entire Russia-NATO proxy war in Ukraine just took place in northern Donetsk region, with Russian FPV and quadcopter drones deployed to stop an attack by over two dozen heavily-armed ground-based enemy bots.\nThe engagement between forces belonging to the 3rd Motor Rifle Division and Ukraine\u2019s 3rd Army Corps took place on October 28, and saw the Ukrainian side attacking with:\n\u27a1\ufe0f 18 tracked robots fitted with twin Saab AT-4 RPGs\n\u27a1\ufe0f eight suicide drones strapped with explosives, presumably meant to charge enemy positions\n\u27a1\ufe0f two fitted with US-made Mk-19 automatic grenade launchers\n\u00a0\nRussian forces spotted the drones on approach and targeted them relentlessly using kamikaze FPV drones and bomb-dropping quadcopters, destroying the entire enemy platoon.\nThe make and model of the enemy equipment is unclear, although some of it looks suspiciously similar to the AI-generated tracked bots featured in ex-Ukrainian defense minister Mykhailo Fedorov\u2019s \u201cArmy of Drones\u201d presentation in late September. After being ousted as minister, Fedorov partnered with Palantir\u2019s Alex Karp, promising to create [next-gen drone](https://t.me/geopolitics_prime/75237) armies.\nSome Russian observers pointed to the \u201cclumsiness\u201d of the attempted Ukrainian ground drone assault, but stressed that tanks looked similarly awkward when first deployed in the Battle of the Somme in 1916, only to emerge as war-winning technology 25 years later. Accordingly, today, the factories producing more, better and cheaper drones could decide the outcome of the wars of the future.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T14:12:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
