@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-08T01:44:32.691600+00:00",
+  "generated_at": "2026-11-08T08:03:28.599177+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Tuesday, November 10, 2026 through Thursday, November 12, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/08/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, November 9, 2026 through Wednesday, November 11, 2026 Local\nFacility: ZJX",
@@ -98,25 +117,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nHOMESTEAD, FL, Saturday, November 7, 2026 through Saturday, November 7, 2026 Local\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/05/2026",
-      "location": "ZMA FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nPalm Beach, FL, Friday, November 6, 2026 through Sunday, November 8, 2026 Local\nFacility: ZMA",
       "source": "FAA",
       "source_type": "official",
@@ -169,6 +169,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2062\r\nIssue Time: 2026 Nov 08 0203 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Nov 08 0203 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-08 02:03:49.380",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -238,25 +257,6 @@
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
       "timestamp": "2026-11-07 19:20:43.007",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5449\r\nIssue Time: 2026 Nov 07 1155 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5448\nValid From: 2026 Nov 07 0056 UTC\nNow Valid Until: 2026 Nov 07 2359 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-07 11:55:30.917",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -446,6 +446,26 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6 Saudi Arabia says its air defences intercepted two ballistic missiles heading towards Riyadh.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-08T07:19:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ud83c\udde8\ud83c\uddf3 China\u2019s Ceres-2 rocket placed four satellites into a 535-km sun-synchronous orbit after lifting off from Jiuquan, developer Galactic Energy reported. \nIts maiden launch having failed in January, this launch verified fixes to the upper-stage engine, electrical systems, and launch equipment. \nThe medium-lift rocket can carry 1.3 metric tons to a 500-km orbit.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -524,39 +544,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf2\ud83c\uddfd The U.S State Department has approved a request from the Mexican Government to purchase the following:\n\u2022 x11 UH-60M Blackhawk multipurpose helicopters\n\u2022 x27 Spare engines, GPS/INS devices, radio & encryption systems, replacement avionics, etc.\n\u2022 Undisclosed \u2018related\u2019 equipment.\nFor a total cost of $1.075 Billion (USD).",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf8\ud83c\uddf4 U.S. AFRICOM and Somali forces conducted an airstrike targeting al-Shabaab near Jamaame, Somalia on November 5.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T15:28:13+00:00",
+      "timestamp": "2026-11-08T02:33:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddef\ud83c\uddf4 The U.S State Dept has approved a purchase request from the Jordanian Armed Forces to purchase/acquire 1,500 Advanced Precision Kill Weapon System II (APKWS II) missiles + related equipment at the estimated cost of $100,000,000 ($100 Million USD) total.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T15:25:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -620,39 +621,59 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The IRGC launched a missile from Bandar Abbas in southern Iran.\nIt is unclear whether it was a surface-to-air missile (SAM) or a ballistic/cruise missile.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Saudi Arabia intercepts ballistic missiles fired towards Riyadh \u2013 report\nThe Saudi-led coalition said it intercepted and destroyed two ballistic missiles fired by Houthis on Sunday, Reuters reported.\nShortly before loud explosions were heard in the Riyadh region, Saudi Civil Defense had issued an alert and later announced that the risk of danger had passed, the report added. \nThis comes the next day after Houthis carried out a military operation in response to[ Saudi Arabia\u2019s deadly strikes in Taiz and Sanaa. ](https://t.me/geopolitics_prime/77447) \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T23:33:26+00:00",
+      "timestamp": "2026-11-08T06:41:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Saudi forces launch 105 strikes on Yemen in 24 hours\nYemeni Armed Forces Spokesman Brig. Gen. Yahya Sare'e reports that Saudi forces hit the capital Sana\u2019a and the provinces of Al-Jawf, Taiz, Amran, Hajjah, Sa'adah, Marib, and Lahj, killing dozens of civilians.\nHe noted that the total number of Saudi air and missile attacks since the latest escalation began has now reached 4,369.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-08T04:40:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f \u2014 A Russian RM-48U ballistic missile was intercepted by a Ukrainian-operated Patriot air defense system over Kyiv last night.\nMore than 15 ballistic missiles targeted Kyiv, striking energy infrastructure, an industrial zone in the eastern part of the city, and the Pivnichnyi Bridge (Northern Bridge).",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Apple Maps blurs Saudi oil sites and airports \u2014 while Iran's nuclear facilities stay wide open\nA glaring double standard in commercial satellite mapping has been exposed, showing that Saudi energy infrastructure and major airports\u2014including Riyadh's King Khalid International Airport\u2014have been obscured on Apple Maps. Meanwhile, Iranian nuclear facilities remain fully visible.\nThe blurring is a defensive measure by Riyadh to shield its critical oil infrastructure and airports from the ongoing Houthi drone and missile attacks.\nBut the situation is far more complex when it comes to Iran. Its forces aren't relying on commercial apps to monitor its adversaries.\n\ud83d\udd34 Iran doesn't need Apple Maps to gather intelligence on US military assets in the region.\n\ud83d\udd34 Iran has developed and deployed its own military reconnaissance satellites, giving it independent, high-resolution orbital imagery.\n\ud83d\udd34 This allows Iran to bypass any commercial map restrictions or US attempts to obscure its own bases, ships, and regional deployments.\nBlurring civilian maps is pure security theater. The US is trying to hide its ally's critical infrastructure from the public eye, but it offers zero protection on the battlefield.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T23:33:17+00:00",
+      "timestamp": "2026-11-08T03:03:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -694,25 +715,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f\u2708\ufe0fHouthis launch six waves of strikes in wake of Saudi terror bombings\n\u00a0\n\ud83d\udde3\ufe0f\u201cIn response to the brutal Saudi aggression against our country and its heinous crimes\u2026the Yemeni Armed Forces carried out six qualitative military operations using a large number of ballistic and cruise missiles and drones,\u201d Ansar Allah-aligned Armed Forces spokesman Yahya Saree announced Saturday.\nThe strikes follow Friday\u2019s Saudi attack on a market in Taiz governorate, which killed at least 30 people, and Saturday\u2019s strike on a settlement in the outskirts of Sanaa, in which over 50 civilians, mostly children, women, and first responders were killed and wounded in a quadruple-tap [attack.](https://t.me/geopolitics_prime/77439)\n\u00a0\nThe retaliatory campaign included:\n\u00a0\n\u27a1\ufe0f strikes targeting King Khalid International Airport and Saudi Aramco infrastructure in Riyadh\n\u27a1\ufe0f an attack on Aramco facilities in Khurais\n\u27a1\ufe0f a strike on a pumping station in Riyadh province along the kingdom\u2019s strategic East-West Crude Oil Pipeline\n\u27a1\ufe0f an attack on a Saudi National Guard camp in Najran near the Yemeni border (direct hit, \u201clarge number of dead and wounded,\u201d according to Saree)\n\u27a1\ufe0f a three-phase strike targeting enemy formations in Al-Jawf province, \u201cdozens\u201d of enemy troops under the command of Saudi Brig. Gen. Faris Al-Shammari reported killed or injured\n\u27a1\ufe0f a strike targeting enemy forces commanded by Saudi Brig. Gen. Faris Al-Shammari in Raghwan and Madghal, Marib province\n\u00a0\nSaudi Arabia will be made to \u201cpay a heavy price for every crime and act of aggression,\u201d Saree said, warning that operations \u201cdeep inside Saudi territory\u201d will continue based on the \u201csiege for siege, escalation for escalation\u201d calculus.\nHouthi-aligned Supreme Political Council chairman and de-facto president Mahdi al-Mashat warned separately on Saturday that Yemen\u2019s dead would be \u201cavenged,\u201d and that the Saudi \u201cHorn of Satan\u201d would be \u201cpunished\u201d for its targeting of markets and civilian homes \u201cjust as the Zionist does.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T17:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
