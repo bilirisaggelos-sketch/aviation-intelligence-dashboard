@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T19:54:14.411494+00:00",
+  "generated_at": "2026-11-08T23:33:35.358342+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -154,6 +154,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3769\r\nIssue Time: 2026 Nov 08 2324 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Nov 08 2245 UTC\nStation: GOES-19\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-08 23:24:59.403",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTK05\r",
       "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2062\r\nIssue Time: 2026 Nov 08 0203 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Nov 08 0203 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -230,23 +249,24 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2697\r\nIssue Time: 2026 Nov 07 1920 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Nov 07 1920 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Iranian Shahed-136 drones struck multiple locations in Iraqi Kurdistan, including Khor Mor Gas & Oilfield\nThe strikes led to electricity outages in parts of Sulaimaniyeh and Duhok.",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-07 19:20:43.007",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-08T22:33:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -279,13 +299,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -346,64 +365,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf7 IRGC Spokesman: \u2018The self-imposed range limit on our ballistic missiles has been lifted\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T13:17:09+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: Trump says renewed U.S. strikes on Iran are \u201chighly unlikely\u201d if Tehran makes progress toward a nuclear deal and reopening the Strait of Hormuz.\n\u201cIt depends on whether or not they sign a very strong agreement,\u201d Trump told CNN, adding, \u201cI would if necessary, but we hit them really hard.\u201d \nHe warned that U.S. forces remain ready, saying, \u201cI\u2019ve got three aircraft carriers here. They\u2019re fully locked and loaded.\u201d\nTrump also claimed the U.S. could destroy 38 Iranian bridges within an hour and that Iran retains only 10% of its missile capacity and 15% of its drone capabilities. \nDespite the threats, he insisted, \u201cMost likely it will not be necessary. They want to make a deal so badly.\u201d\nSource: CNN",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T17:34:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "House Democratic Leader Hakeem Jeffries:\nI'm a hard yes on the Hegseth resolution.\nThe so-called Secretary of Defense has abused his power, undermined our national security, and engineered this reckless and costly war of choice in Iran, which has skyrocketed prices on the American people and made the country less safe. \nPete Hegseth has got to go.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T16:22:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[The push to replace Schumer as Senate leader; 94% of Gaza\u2019s population needs shelter assistance; Paraguay\u2019s president resigns](https://www.dropsitenews.com/p/schumer-senate-leader-gaza-shelter-israel-paraguay-resignation-protests)\nFriday, November 6, 2026 \u2013Iran: President Donald Trump threatens to \u201cdestroy what is left\u201d of Iran, says decision on new strikes coming soon. Iran says two oil tankers caught fire after striking mines in Strait of Hormuz.Palestine: Two Palestinians die from wounds sustained in Israeli airstrikes on Gaza. 94% of Gaza\u2019s population needs shelter assistance, UN says. Israel destroys 100,000 olive trees this year in the occupied West Bank; Gaza faces \u201cecocide.\u201d Israeli forces arrest 17 during olive harvest as settlers attack Palestinians across occupied West Bank. Israeli P... \n[Read More in Full Article](https://www.dropsitenews.com/p/schumer-senate-leader-gaza-shelter-israel-paraguay-resignation-protests)\nDrop Site News | dropsitenews\u200b.com \u2022 Nov 6, 2026",
       "source": "Telegram",
@@ -424,6 +385,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1 The Joint List, a coalition of Arab parties that has won 19 seat in Israel\u2019s parliament, is ready to cooperate with the opposition Israeli leader Gadi Eisenkot, who has been mandated to form a new government, Joint List leader Yousef Jabareen said.\n\u201cWe held informal consultations and heard positive remarks from Eisenkot's representatives in response to the issues of concern to the Arab population,\u201d he told the Al Jazeera television channel. \u201cWe will cooperate with him, but we will not join the government.\u201d\nAccording to Jabareen, the Israeli opposition will need the Arab lawmakers\u2019 support not to let Benjamin Netanyahu take office as prime minister again. Israel is now seeing a historic moment that may open up a path to serious political changes.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-08T20:47:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 President Trump stated that new U.S. strikes on Iran are \"highly unlikely\" provided Tehran makes progress toward a nuclear agreement and reopens the Strait of Hormuz, according to CNN.\nTrump told the outlet that any military action depends on whether Iran signs a \"very strong agreement,\" adding, \"I would if necessary, but we hit them really hard.\"\nHe emphasized American military readiness, noting he has three aircraft carriers in the region that are \"fully locked and loaded.\" He also claimed U.S. forces could destroy 38 Iranian bridges within an hour and that Iran has been reduced to only 10% of its missile capacity and 15% of its drone capabilities.\nDespite the warnings, he maintained that renewed strikes are \"most likely\" not going to be necessary, stating: \"They want to make a deal so badly.\"",
       "source": "Telegram",
       "source_type": "telegram",
@@ -437,38 +417,19 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report"
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8 The results of the midterm congressional elections have sent the United States back in time, US President Donald Trump said.\n\u201cAmerica took a giant step back in history with the results of the last election \u2014 even the stock market, which has been a \u201crocketship\u201d under \u201cTrump,\u201d took a one day, 3 trillion dollar loss. But have no fear, we will be back, bigger and stronger than ever before!\u201d he wrote on his Truth Social platform.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T14:54:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Iran has also launched anti ship missiles likely in response to the attacks.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Khor mor gasfield in Iraqi Kurdistan has been targeted by an Iranian drone moments ago. Flames seen raising.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T19:44:33+00:00",
+      "timestamp": "2026-11-08T20:58:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -477,6 +438,26 @@
       "verified_sources": [
         "Mediterranean Man",
         "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 These explosions were antiship cruise missile launches towards the Strait of Hormuz.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-08T20:18:53+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
@@ -540,6 +521,44 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd1d Barzani hosts Iranian delegation to discuss security cooperation\nKurdistan Region President Nechirvan Barzani hosted a delegation from Iran, with the two sides focusing on security cooperation and regional stability. They discussed existing security agreements between Iraq, the Kurdistan Region, and Iran.\nIran wants the Kurdish leadership to crack down on anti-Iran separatist movements (like the KDPI and Komala) operating in the region. Barzani's priority is to stop the Iranian missile and drone strikes on Kurdish soil.\nErbil is now doing what it has to do to survive. If the US won't protect the skies, the Kurds have to negotiate with the neighbor dropping the bombs. The post-American era in Iraq is already here.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-08T22:45:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Explosive drone attack ignites Iraq's largest gas field\nA massive fire has erupted at the Kurmur oil and gas field in Sulaymaniyah province following an attack by explosive-laden drones.\nKurmur is Iraq's largest non-associated natural gas field. It supplies the fuel that powers a staggering 75% to 80% of the Kurdistan Region's entire electricity generation.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-08T21:03:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83d\udde3Eisenkot says \u2018creative and extraordinary political moves\u2019 needed to form new Israeli government\n\ud83d\udd34No one will be able to keep every promise they made,\ud83d\udd34 said Gadi Eisenkot, leader of the Yashar! party, who was given a mandate to form the new Israeli government by President Isaac Herzog.\nEisenkot, who insists that forming a \u201cnational emergency government\u201d takes priority, has received Herzog\u2019s approval after securing recommendations of 67 Knesset members, with his rival Benjamin Netanyahu only managing to garner 46 recommendations.\n\u00abA stable government is needed; now is the time to reach out a hand,\u00bb Herzog himself has remarked, as quoted by Israel\u2019s Channel 13.\nEisenkot is now expected to meet with the Yisrael Beiteinu party leader Avigdor Lieberman to discuss the new government\u2019s formation.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -584,25 +603,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-08T15:08:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 A video has emerged online showing what appears to be damage to the Saudi Aramco Tower in Riyadh's financial district following the interception of two missiles launched by the Houthis.\nThere has been limited damage to the building and no casualties, the Saudi energy ministry said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T09:13:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
