@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T11:39:27.090354+00:00",
+  "generated_at": "2026-11-09T21:38:34.977000+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -59,40 +59,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSocorro, NM, Monday, November 9, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5452\r\nIssue Time: 2026 Nov 09 1755 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5451\nValid From: 2026 Nov 09 0556 UTC\nNow Valid Until: 2026 Nov 10 0600 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
       "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/06/2026",
-      "location": "ZAB NM",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-09 17:55:46.807",
+      "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
       "verification_confidence": 100,
       "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSanta Rosa Island, FL, Monday, November 9, 2026 through Tuesday, November 10, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/05/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -173,21 +154,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2061\r\nIssue Time: 2026 Nov 07 1945 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Nov 07 1945 UTC\nSynoptic Period: 1800-2100\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: The IRGC carried out ballistic missile test launches in Khuzestan Province, southwestern Iran",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-07 19:45:37.330",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-09T17:35:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -203,12 +184,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "CASELS",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -327,32 +309,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\udde6\u274c\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian drones struck one of Russia's largest oil refineries in Kirishi overnight, triggering massive explosions and fires at the facility in the Leningrad Oblast.\n\u27a1\ufe0f The refinery has a processing capacity of more than 20 million tons of oil per year.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemen's Armed Forces spokesperson Yahya Saree says air defenses shot down a Saudi CH4 reconnaissance aircraft over Al-Jawf province while it was conducting what he described as hostile operations.\nSaree added that the drone was brought down with appropriate weaponry, marking the fourth aircraft of this type destroyed since the escalation began.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T08:37:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 \u2014 President Trump told Prime Minister Benjamin Netanyahu during a phone call on Thursday that he wants him to take steps to implement his Gaza peace plan, regardless of whether Netanyahu or his opposition forms the next government, according to two sources cited by Axios.\nThe roadmap calls for disarming Hamas, demilitarizing Gaza, and transferring responsibility for governing the enclave to a new Palestinian technocratic government. The plan had been on hold for months because of the Israeli elections on October 27, as the administration did not want it to become a politically explosive issue during the campaign.\nA year ago, Israel and Hamas agreed to the first phase of Trump's 20-point plan, leading to a ceasefire and the release of the last 20 living hostages. The Board of Peace has been working on an implementation plan, and last July reached a 15-point agreement with Hamas to disarm armed groups and transfer civilian and security control to a new Palestinian government. Since then, Netanyahu's government has largely refused to move forward, mostly for domestic political reasons.\nJared Kushner told Netanyahu during an August visit that Hamas had for the first time agreed to disarm, urging him to test whether the commitment was real. Netanyahu remains extremely skeptical that Hamas will ever demilitarize, saying the group is reconstituting and rearming in Gaza.\nOver the past three months, the Board of Peace has worked with the Israeli government and military to refine details and address concerns, with a U.S. official saying the process would be gradual and reconstruction would only begin after progress in disarming Hamas had been verified. The Board unveiled a six-month, $2.45 billion initial recovery plan at the UN General Assembly in September.\nSecretary of State Marco Rubio, Kushner, and envoy Steve Witkoff also participated in the call, which Netanyahu initiated and a source described as constructive. It also addressed the war in Iran. A day later, Tony Blair visited Israel and met with Netanyahu and his opponent Gadi Eisenkot, urging Israeli political leaders to give the plan a chance.\n\"The implementation will be difficult but we believe it is a good plan for Israel. Nevertheless we can't do it with one hand tied behind our back,\" a U.S. official said. \"We want to move forward collaboratively and we need full cooperation and partnership from the Israeli government.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T07:53:13+00:00",
+      "timestamp": "2026-11-09T20:52:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -366,12 +328,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf1 The Joint List, a coalition of Arab parties that has won 19 seat in Israel\u2019s parliament, is ready to cooperate with the opposition Israeli leader Gadi Eisenkot, who has been mandated to form a new government, Joint List leader Yousef Jabareen said.\n\u201cWe held informal consultations and heard positive remarks from Eisenkot's representatives in response to the issues of concern to the Arab population,\u201d he told the Al Jazeera television channel. \u201cWe will cooperate with him, but we will not join the government.\u201d\nAccording to Jabareen, the Israeli opposition will need the Arab lawmakers\u2019 support not to let Benjamin Netanyahu take office as prime minister again. Israel is now seeing a historic moment that may open up a path to serious political changes.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Per capita income from oil exports in Iran has fallen by 88%, while people\u2019s purchasing power is weakening due to inflation and the sharp rise in the dollar exchange rate. This trend is expanding the circle of poverty and threatening the future of the middle class.\nMonthly per capita income from oil exports has dropped from 347 dollars in 1974 and 175 dollars in 2011 to about 40 dollars in recent years.\nAt the same time, the rise of the dollar on the open market has outpaced wage growth, and the value of the minimum monthly wage has fallen from roughly 232 dollars in 2016 to about 83 dollars in 2026.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T20:47:13+00:00",
+      "timestamp": "2026-11-09T15:04:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -385,22 +347,40 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 President Trump stated that new U.S. strikes on Iran are \"highly unlikely\" provided Tehran makes progress toward a nuclear agreement and reopens the Strait of Hormuz, according to CNN.\nTrump told the outlet that any military action depends on whether Iran signs a \"very strong agreement,\" adding, \"I would if necessary, but we hit them really hard.\"\nHe emphasized American military readiness, noting he has three aircraft carriers in the region that are \"fully locked and loaded.\" He also claimed U.S. forces could destroy 38 Iranian bridges within an hour and that Iran has been reduced to only 10% of its missile capacity and 15% of its drone capabilities.\nDespite the warnings, he maintained that renewed strikes are \"most likely\" not going to be necessary, stating: \"They want to make a deal so badly.\"",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 The Iranian navy has announced that over the past ten days its forces have come into contact with and disabled at least 11 commercial tankers that were attempting to make an unauthorized passage through the Strait of Hormuz.\nIn a statement on naval operations published by Tasnim, it is confirmed that Iranian forces have completely disabled the tankers\u2019 power plants and their electronic navigation systems.\nThis announcement follows reports from the Islamic Revolutionary Guard Corps (IRGC) about major fires and explosions on board several vessels that failed to comply with navigation rules in the area, including three ships that on Sunday attempted to bypass the maritime protocols of the Persian Gulf.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T19:49:48+00:00",
+      "timestamp": "2026-11-09T15:03:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Israel Hayom reports that US President Donald Trump is expected to meet Qatar\u2019s Prime Minister today to discuss an Iranian proposal to reopen the Strait of Hormuz in exchange for the release of $8 billion in frozen Iranian assets.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-09T13:53:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -433,13 +413,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -453,13 +432,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -473,13 +451,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -531,12 +508,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -560,12 +538,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian strikes rain down on Ukraine overnight\nIn Kryvoy Rog, power surges are being reported following strikes on energy infrastructure.\nGeran drones targeted sites in the Rovno region, with explosions reported in Sarny, Berezno and Rafalovka. \nA major fire broke out in Sarny following the strike.\nIn Poltava region, an industrial facility and the hotel \u201cPantagruel\u201d were hit.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2694\ufe0f\ud83d\udcf9 Houthi snipers harass Saudi-backed forces near Taiz\nAnsar Allah fighters have targeted coalition troops in the Taiz area, footage from the movement shows.\nTaiz is Yemen's third-largest city, which sits at a strategic crossroads. It has been the last major urban stronghold of anti-Houthi forces in Yemen's southern highlands. The Houthis tightened their encirclement of Taiz in recent weeks by cutting the main road south to Aden.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T05:22:01+00:00",
+      "timestamp": "2026-11-09T19:26:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -579,12 +557,50 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Russian drones strike key substation in Dnepropetrovsk region\nRussian Geran-2 loitering munitions have targeted and struck the 330 kV Yuzhnaya substation in Radushnoye, Dnepropetrovsk region.\nThe strike is part of a sustained Russian campaign against Ukraine's energy grid as a response to Ukrainian attacks on civilian infrastructure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel builds up its ground forces for possible two-front war with Iran and Lebanon\nIsrael is broadening its infantry brigades with new specialized combat units, and its air force has rehearsed a rapid response to a large-scale ground infiltration from Lebanon, Maariv reported.\n\ud83d\udd34 Combat engineering battalions have begun operating under several frontline brigades. These units will focus on drones, robotics, surveillance systems, advanced weapons, and precision-guided munitions\n\ud83d\udd34 In addition, Israeli fighter jets carried out an unusually extensive low-altitude exercise over Nahariya and the western Galilee. Squadrons on immediate alert were activated and pilots were asked to assess whether a ground incursion was underway from the north, according to the source\nThe preparations come amid rising tension over a possible renewal of US military action against Iran. Reports in recent weeks have suggested that President Donald Trump may launch a new full-scale war on Iran now that the US midterm elections have passed, reducing the political cost.\nIsraeli security officials expect that in the event of war with Iran, the military would immediately mobilize all reserve divisions and move most forces north, with the stated aim of completely destroying the Hezbollah movement.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T04:39:58+00:00",
+      "timestamp": "2026-11-09T17:04:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u269b\ufe0f\ud83d\udcca Palantir veterans raise $300mn to weaponize Europe\u2019s arms supply chain\nTwo former [Palantir](https://t.me/geopolitics_prime/74041) employees have positioned themselves to profit from Europe's aggressive military build-up, reports the Financial Times.\nThe co-founders of Dutch start-up Onodrim, which recently raised $300mn at its $1.3 billion valuation, include Aistis Simaitis \u2013 one of Palantir\u2019s earliest European hires, and Alexander Blessing, who helped build and deploy the firm\u2019s [flagship Foundry platform](https://t.me/geopolitics_prime/70382).\nThe new vehicle plans to use its funding to:\n\ud83c\udf0f acquire controlling stakes in smaller, often family-owned manufacturers with strategically important technologies\n\ud83c\udf0f inject capital, software and management expertise to increase production capacity\n\ud83c\udf0f address critical supply-chain bottlenecks, including drone propulsion, radar and sensing systems, explosives materials and aerospace structures\nWhile the latest financing round was led by Lux Capital, an earlier initial $45mn seed round included Founders Fund, established by Palantir co-founder [Peter Thiel](https://t.me/geopolitics_prime/73660).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-09T14:05:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran announces halt to all \u2018illegal oil smuggling\u2019 through Strait of Hormuz\nIran's destruction of \u201cnavigational aid systems\u201d that were located on the \u201csouthern rocks\u201d of the strait resulted in the complete cessation of unauthorized oil shipping through the waterway, IRIB News Agency reports, citing an IRGC Navy official.\n\ud83d\udd0a \u201cIllicit vessels were able to enter the illegal passage last night, and the smuggling of oil through this route has been brought to a complete halt,\u201d the official states.\nFollowing the US-Israeli attack on Iran on February 28, Iran moved to de facto take control of all maritime traffic through the Strait of Hormuz.\nVessels that wish to navigate the strait must do so via a route designated by Iranian authorities, with violators risking attacks by Iranian forces.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-09T11:50:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
