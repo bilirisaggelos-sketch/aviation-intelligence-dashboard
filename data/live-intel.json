@@ -1,6 +1,82 @@
 {
-  "generated_at": "2026-11-10T12:24:32.911511+00:00",
+  "generated_at": "2026-11-10T19:56:50.924134+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNORTHWEST FIELD, GU, Friday, November 13, 2026 through Sunday, December 20, 2026 Local\nFacility: ZUA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/10/2026",
+      "location": "ZUA GU",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\ndisneyland theme park anaheim, CA\nFacility: ZLA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/10/2026",
+      "location": "ZLA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nDISNEY WORLD THEME PARK, ORLANDO, FL\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/10/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNEW YORK, NY, Tuesday, November 10, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/10/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Tuesday, November 10, 2026 through Thursday, November 12, 2026 Local\nFacility: ZAB",
@@ -135,14 +211,33 @@
       "verified_source_count": 1
     },
     {
+      "title": "Israel's new parliament sworn in as leaders compete to form government",
+      "text": "Israel's new parliament sworn in as leaders compete to form government\nBenjamin Netanyahu's main political rival, Gadi Eisenkot, has first chance to build a new government and oust the prime minister.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-10T17:03:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf4\ud83c\uddf2/\ud83c\uddfa\ud83c\uddf8 CONFIRMED: In recent weeks, Iran struck Oman\u2019s \u2018Didamar Island\u2019 in the As-Salamah Archipelago, with ballistic missiles\nThe island houses U.S. and Omani radar installations and maritime surveillance equipment used for facilitating illegal traffic through the Strait of Hormuz.",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf7\ud83c\uddfa/\ud83c\udde8\ud83c\uddf3 NEW: Iran now has more ballistic missiles in its inventory than Russia and China combined",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T05:14:14+00:00",
+      "timestamp": "2026-11-10T13:46:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -156,12 +251,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: The IRGC carried out ballistic missile test launches in Khuzestan Province, southwestern Iran",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran carries out ballistic missile and air defense exercises",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T17:35:47+00:00",
+      "timestamp": "2026-11-10T13:44:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -175,12 +270,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf6 NEW: Iranian Shahed-136 drones struck multiple locations in Iraqi Kurdistan, including Khor Mor Gas & Oilfield\nThe strikes led to electricity outages in parts of Sulaimaniyeh and Duhok.",
+      "text": "\u2014 Likely a stealth missile prototype",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T22:33:50+00:00",
+      "timestamp": "2026-11-10T13:40:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -194,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Footage shows direct damage to the King Abdullah tower, ARAMCO\u2019s headquarters in Riyadh, after a Yemeni drone attack",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Some images from one of Iran\u2019s underground missile bases\nNew cruise missile variants, low-detection missiles, and other various new equipment can be seen.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T18:30:04+00:00",
+      "timestamp": "2026-11-10T13:31:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -212,33 +307,52 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: A new missile city belonging to the Islamic Revolutionary Guard Corps (IRGC) Aerospace Force has been inaugurated, in the presence of Major General Abdollahi, Chief of Staff of the Iranian Armed Forces, and Brigadier General Mojtaba Mousavi, Commander of the IRGC Aerospace Force.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 WATCH: Iran\u2019s IRGC Aerospace Force uploaded footage from one of the new underground missile bases",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T10:56:49+00:00",
+      "timestamp": "2026-11-10T13:30:15+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemen's Armed Forces spokesperson Yahya Saree says air defenses shot down a Saudi CH4 reconnaissance aircraft over Al-Jawf province while it was conducting what he described as hostile operations.\nSaree added that the drone was brought down with appropriate weaponry, marking the fourth aircraft of this type destroyed since the escalation began.\n\u2b50\ufe0f Follow",
+      "publisher": "Clash Report",
+      "text": "The U.S. plans to halve direct military aid to Israel under a new agreement, with assistance gradually phased out over five years starting in 2028.\nThe proposed deal would cut military financing from $33 billion over 10 years to $16.5 billion over five years, while increasing funding for joint missile defense projects.\nBoth countries aim to finalize the agreement by December 2026, before Republicans lose control of Congress in January. \nIsraeli officials fear the incoming Congress could obstruct future aid, particularly if Netanyahu remains prime minister.\nSource: ynet",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T20:52:20+00:00",
+      "timestamp": "2026-11-10T19:33:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The Islamic Revolutionary Guard Corps Navy has reported that two commercial oil tankers burst into flames following explosions while attempting to transit the Strait of Hormuz.\nAccording to the IRGC, one supertanker struck a naval mine in the waterway.\nThe second tanker, which the IRGC alleged was being escorted by U.S. fighter jets, also suffered an explosion and ignited.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T12:59:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -246,6 +360,25 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8 Israeli Prime Minister Benjamin Netanyahu calls US President Donald Trump every day to urge him to resume military operations against Iran, the Financial Times reported, citing a source.\nAccording to the newspaper\u2019s source, those inside or outside the White House who don\u2019t want war are trying to push back against this.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T16:44:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -264,48 +397,10 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Khor mor gasfield in Iraqi Kurdistan has been targeted by an Iranian drone moments ago. Flames seen raising.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T20:58:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 These explosions were antiship cruise missile launches towards the Strait of Hormuz.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-08T20:18:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -424,88 +519,69 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran tells US it is time to surrender to Tehran\u2019s seven conditions\nIran's Supreme National Security Council Secretary Mohsen Rezaei said that it's time for Washington to accept Tehran's seven conditions for ending the war and reopening the Strait of Hormuz, while dismissing reports of potential US-Iran negotiations as fabricated.\nIn a November 9 social media statement, Rezaei urged the US to stop denying the emergence of a new regional order and abandon what he described as attempts to manufacture news about imaginary peace talks.\nIran's seven conditions include:\n\ud83d\udd34 Ending hostilities across the region, including in Lebanon, Gaza and Yemen\n\ud83d\udd34 Releasing Iran's frozen assets\n\ud83d\udd34 Completely lifting the US naval blockade\n\ud83d\udd34 Removing economic and political sanctions\n\ud83d\udd34 Withdrawing US naval and air forces from the region\n\ud83d\udd34 Paying war reparations\n\ud83d\udd34 Ending threats and hostile rhetoric against Iran\nAccording to Press TV, Tehran insists that these conditions must be implemented before negotiations resume or the Strait of Hormuz reopens. Iranian officials say previous US responses have been insufficient.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T16:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf2\ud83c\udde6 Israel expands military footprint in North Africa & opens permanent defense mission in Morocco\nIsrael is deepening defense ties with Morocco as a delegation led by Defense Ministry Director General Amir Baram met senior Moroccan defense officials on November 10.\nBaram is due to inaugurate Israel's permanent Defense Attach\u00e9 office in Rabat, led by Col. Sharon Itach \u2013 the country's first permanent defense attach\u00e9 to Morocco. Israel is also reportedly seeking to establish military manufacturing facilities inside [the North African kingdom](https://t.me/geopolitics_prime/75897).\nIsrael's expansion of military ties in North Africa and the establishment of a permanent defense mission in Rabat are seen as part of Tel Aviv's methodical efforts to expand its Hexagon Alliance and strengthen its footprint across Africa.\nMorocco's neighbor Algeria views Israel's growing presence as[ a security threat](https://t.me/geopolitics_prime/74356), while providing support for [the Polisario Front](https://t.me/geopolitics_prime/73937), which challenges Morocco's claim to[ Western Sahara](https://t.me/geopolitics_prime/73083). Israel and the US recognized Morocco\u2019s sovereignty over Western Sahara in exchange for Rabat\u2019s normalization of relations with Tel Aviv.\nIn 2020, Morocco and Israel signed the Abraham Accords, while the cornerstone of their defense ties became the November 2021 Defense Memorandum of Understanding, which:\n\ud83c\udf0f marked the first time Israel established a formal defense framework with an Arab nation\n\ud83c\udf0f laid the groundwork for direct intelligence sharing and established joint military committees\n\ud83c\udf0f opened the door to Israeli defense companies entering the Moroccan market and established a framework for[ industrial cooperation ](https://t.me/geopolitics_prime/76011)\nOver the years, Morocco has acquired a wide range of Israeli military equipment through government-to-government contracts. These include:\n\u27a1\ufe0f The $500 million Barak MX air and missile defense system (2022)\n\u27a1\ufe0f A $1 billion, five-year contract to replace existing Airbus and Thales space-based surveillance systems with Israel's Ofek-13 spy satellites (2024)\n\u27a1\ufe0f A $200 million contract for 36 Atmos 2000 self-propelled artillery systems manufactured by Elbit Systems (2025)\n\u27a1\ufe0f Israeli-made drones, including Elbit Systems' Hermes 450 and Hermes 900, as well as IAI's Heron 1.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T15:59:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 US Marines risk isolation and paralysis in any western Pacific clash with China, officers warn\nForward-deployed US Marines along the first island chain could find themselves cut off, immobile and short of supplies if conflict erupts with China, according to assessments by a retired three-star general and a serving lieutenant colonel.\nChina\u2019s anti-access/area-denial systems and precision strike networks could turn dispersed Marine units into fixed targets rather than a maneuver force, argue retired Lt. Gen. Stephen Sklenka and Lt. Col. Merritt Mitchell, writing separately in the US Naval Institute\u2019s Proceedings.\nSklenka argues that:\n\ud83d\udd34 mobilization would have to occur from bases under simultaneous cyber and missile attack \n\ud83d\udd34 force closure would take place at the edge of contested zones rather than secure ports or airfields\n\ud83d\udd34 marines would need to sustain themselves for up to 75 days without traditional air or sea superiority \n\ud83d\udd34 if reinforcements cannot punch through, Marines already positioned along the first island chain risk being left to fight an isolated, terminal engagement\nMitchell focuses on the political and operational constraints of the stand-in force:\n\ud83d\udd34 detection increasingly equals destruction: units that cannot reposition faster than Chinese retargeting cycles become fixed targets\n\ud83d\udd34 many potential operating sites lie in allied territory where governments may withhold permission for offensive operations\n\ud83d\udd34 without those permissions in place before crisis, the stand-in force cannot maneuver when it matters\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T14:49:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udcf9 Iran unveils a new IRGC missile base and teases a military surprise - Tasnim\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-10T11:52:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf6\ud83c\udde6 Qatar looks to Iran for power lifeline after strikes expose Gulf vulnerabilities \nQatar is exploring securing a power cable from Iran as a crucial backup amid regional tensions, reports The Cradle.\nTalks on connecting the two countries\u2019 power grids began years before the recent US-Israeli war on Iran. \nRetaliatory Iranian missile [strikes](https://t.me/geopolitics_prime/76289) on Ras Laffan damaged Qatar\u2019s gas facilities and the power-desalination plant that turns turbine heat into drinking water - lending the project new urgency.\n\ud83d\udd34 Qatar\u2019s Kahramaa awarded a $1.7M feasibility study contract to Energoprojekt Entel in June 2025\n\ud83d\udd34 Iran\u2019s energy minister said in 2026 that the study was nearing completion \n\ud83d\udd34 Qatar and Iran have yet to clarify proposed capacity, financing, electricity trade arrangements & emergency supply commitments\nQatar already has strategic water reservoirs and access to the Gulf Cooperation Council\u2019s shared electricity network via the UAE. An Iranian connection could add another source of electricity.\nIran already has experience with cross-border power deals: it signed an operating agreement with Turkey for the 400-kV Van\u2013Khoy link in 2024, while Pakistan\u2019s 2023 Polan\u2013Gabd line was designed to deliver an additional 100 MW of Iranian electricity. \nAny new deal would need clear rules on electricity volumes, prices and emergency transfers - including how much power Iran can guarantee. \nIn 2023, Iran itself faced summer peak electricity demand exceeding available supply by 12 GW.\nUS sanctions could further complicate payments, insurance and equipment supplies.\nUltimately, the project could turn a long-discussed energy partnership into a practical regional resilience mechanism, argues the publication.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T11:42:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Saudi Arabia strikes oil and gas facilities in Yemen's capital - reports \nSaudi airstrikes targeted the Yemen Oil and Gas Corporation in Sana'a, triggering fires at the site, Press TV reports.\nSaudi aircraft also struck a gas station in the capital, according to the report.\nThe attacks came hours after Houthi air defenses detected and shot down a Saudi reconnaissance drone over northern Yemen.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T07:29:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Israel bent on dragging US into endless Iran war - Ghalibaf\nThe US and its allies face a \u201cdark age\u201d unless the American administration abandons its \u2018Israel First\u2019 policy, Iranian Parliament Speaker Mohammad Bagher Ghalibaf wrote on X.\n\ud83d\udcac \u201cIsraelis are working overtime to drag the US into an endless war with Iran, a quagmire that no president, now or in the future, Republican or Democrat, could escape,\u201d he noted.\nBenjamin Netanyahu, serving as caretaker PM after Israel\u2019s elections, has been pushing hard for a new round of US-Israeli strikes to bring about regime change in Iran, reports the FT.\nNetanyahu calls Trump \u201cevery day to urge him to resume the war,\u201d the publication cited an insider as saying, adding that there has been pushback to this both inside the administration and outside.\n\ud83d\udc49 Regional leaders are also reportedly urging the US president to \u201cprioritize negotiations.\u201d\nAfter meeting with Qatari PM Sheikh Mohammed bin Abdulrahman al-Thani, whose government is mediating an interim deal, Trump said there was \u201cpositive momentum\u201d towards ending the conflict.\nHe added that a resumption of strikes is \u201cquite unlikely\u201d, and declared the war on Iran \u201ceffectively over\u201d.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T06:48:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8 US evacuates aircraft from UK airbase amid Iranian threat - report\nThe US has moved several military aircraft, including aerial refueling tankers, from RAF Mildenhall in England to Germany and other locations following a threat from Iran, according to The Wall Street Journal.\n\ud83d\udd34 The exact nature of the threat remains unclear, but US officials have raised concerns about possible attacks on American aircraft and personnel\n\ud83d\udd34 Security at RAF Mildenhall and RAF Lakenheath has been raised to FPCON Charlie, indicating intelligence of a likely terrorist threat\n\ud83d\udd34 The move follows the withdrawal of B-1 bombers from another UK base last month amid concerns over an alleged Iranian-backed plot involving drones\n\ud83d\udd34 The developments come as Trump weighs further strikes on Iran. However, he said Monday that renewed military action was not currently necessary, citing progress in negotiations\nThe US president warned that Washington remained ready to act if the situation changed.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T06:07:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
