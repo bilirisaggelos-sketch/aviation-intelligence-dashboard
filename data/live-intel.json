@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T03:50:36.110847+00:00",
+  "generated_at": "2026-11-10T12:24:32.911511+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -36,6 +36,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3771\r\nIssue Time: 2026 Nov 10 0501 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3770\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 4674 pfu\nMax time: 2026 Nov 09 1630 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-10 05:01:21.150",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -116,21 +135,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3769\r\nIssue Time: 2026 Nov 08 2324 UTC\r\n\r\nALERT: Electron 2MeV Integral Flux exceeded 1,000pfu \nThreshold Reached: 2026 Nov 08 2245 UTC\nStation: GOES-19\nComment:",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf4\ud83c\uddf2/\ud83c\uddfa\ud83c\uddf8 CONFIRMED: In recent weeks, Iran struck Oman\u2019s \u2018Didamar Island\u2019 in the As-Salamah Archipelago, with ballistic missiles\nThe island houses U.S. and Omani radar installations and maritime surveillance equipment used for facilitating illegal traffic through the Strait of Hormuz.",
+      "source": "Telegram",
+      "source_type": "telegram",
       "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-08 23:24:59.403",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T05:14:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -165,13 +184,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -194,98 +212,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Iran has launched anti-ship ballistic missiles at U.S. Navy vessels in the Arabian Sea",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: A new missile city belonging to the Islamic Revolutionary Guard Corps (IRGC) Aerospace Force has been inaugurated, in the presence of Major General Abdollahi, Chief of Staff of the Iranian Armed Forces, and Brigadier General Mojtaba Mousavi, Commander of the IRGC Aerospace Force.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T19:53:52+00:00",
+      "timestamp": "2026-11-10T10:56:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Middle East Spectator"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "There likely won\u2019t be a resumption of full-scale war unless Tehran gets hit.\nIranian decisionmakers have apparently chosen to tolerate attacks in the South for now. In my opinion, this is a fatal mistake which risks the \u2018Lebanon model\u2019 being implemented in Iran. \nHowever, I do expect Iran to run out of patience relatively soon if these airstrikes against coastal launchers keep happening on a regular basis. \nWe may see at least some kind of limited retaliation against U.S. bases in Jordan or the Persian Gulf.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T19:43:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Initial reports that the U.S. carried out an airstrike in Jask, southern Iran, after several anti-ship cruise missiles were launched at the Strait of Hormuz",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T19:37:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1 NEW: Opposition leader Gadi Eisenkot has received permission from Israeli President Isaac Herzog to form a government\nBenjamin Netanyahu\u2019s era as Israel\u2019s Prime Minister has come to an end.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-07T19:31:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[The push to replace Schumer as Senate leader; 94% of Gaza\u2019s population needs shelter assistance; Paraguay\u2019s president resigns](https://www.dropsitenews.com/p/schumer-senate-leader-gaza-shelter-israel-paraguay-resignation-protests)\nFriday, November 6, 2026 \u2013Iran: President Donald Trump threatens to \u201cdestroy what is left\u201d of Iran, says decision on new strikes coming soon. Iran says two oil tankers caught fire after striking mines in Strait of Hormuz.Palestine: Two Palestinians die from wounds sustained in Israeli airstrikes on Gaza. 94% of Gaza\u2019s population needs shelter assistance, UN says. Israel destroys 100,000 olive trees this year in the occupied West Bank; Gaza faces \u201cecocide.\u201d Israeli forces arrest 17 during olive harvest as settlers attack Palestinians across occupied West Bank. Israeli P... \n[Read More in Full Article](https://www.dropsitenews.com/p/schumer-senate-leader-gaza-shelter-israel-paraguay-resignation-protests)\nDrop Site News | dropsitenews\u200b.com \u2022 Nov 6, 2026",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-06T16:25:47+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Our Wars Today"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -308,41 +251,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 Per capita income from oil exports in Iran has fallen by 88%, while people\u2019s purchasing power is weakening due to inflation and the sharp rise in the dollar exchange rate. This trend is expanding the circle of poverty and threatening the future of the middle class.\nMonthly per capita income from oil exports has dropped from 347 dollars in 1974 and 175 dollars in 2011 to about 40 dollars in recent years.\nAt the same time, the rise of the dollar on the open market has outpaced wage growth, and the value of the minimum monthly wage has fallen from roughly 232 dollars in 2016 to about 83 dollars in 2026.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Iran unveiled a new underground missile city\nMajor General Ali Abdollahi, Chief of Staff of Iran\u2019s Armed Forces, accompanied by IRGC Aerospace Force Commander Brigadier General Seyyed Majid Mousavi, visited the newly established missile city operated by the IRGC Aerospace Force.\nThe underground complex notably houses a wide range of weapons, including medium-range ballistic missiles and long-range cruise missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T15:04:33+00:00",
+      "timestamp": "2026-11-10T11:40:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 The Iranian navy has announced that over the past ten days its forces have come into contact with and disabled at least 11 commercial tankers that were attempting to make an unauthorized passage through the Strait of Hormuz.\nIn a statement on naval operations published by Tasnim, it is confirmed that Iranian forces have completely disabled the tankers\u2019 power plants and their electronic navigation systems.\nThis announcement follows reports from the Islamic Revolutionary Guard Corps (IRGC) about major fires and explosions on board several vessels that failed to comply with navigation rules in the area, including three ships that on Sunday attempted to bypass the maritime protocols of the Persian Gulf.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T15:03:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -356,13 +281,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -386,12 +310,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "#Colombia \ud83c\udde8\ud83c\uddf4: Revolutionary Armed Forces of Colombia (#FARC-EP) carried out Drone strikes against Colombian soldiers in Jamund\u00ed, Valle del Cauca.\nFARC-EP fighters used COTS Drones (likely DJI Mavic / Matrice UAVs) armed with possible Improvised Air-Dropped Bombs.\nhttps://x.com/war_noir/status/2119926493904007266",
+      "text": "\u26a1\ufe0f\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddeaThe Saudi backed Coalition Forces released footage of strikes on three sites that manufactured components for Houthi ballistic missiles in Yemen. \nThe sites include an assembly factory, a chemical plant, and an electronics workshop.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T03:37:36+00:00",
+      "timestamp": "2026-11-10T04:27:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -405,12 +329,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "#Sudan \ud83c\uddf8\ud83c\udde9: Sudanese Forces (#SAF) struck \u201cRapid Support Forces\u201d (#RSF) convoy by using COTS Drone with Air-Dropped Munition.\nSAF fighters apparently used a DJI Mavic / Matrice Drons armed with air-dropped O-832-DU (MMY02) pattern HE-Frag mortar bomb.\nhttps://x.com/war_noir/status/2119819514103644182",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 The Colombian President announced that a military operation authorized in a rural area of Tib\u00fa, Norte de Santander, targeted the FARC dissident 33rd Front, part of the faction led by alias \"Calarc\u00e1.\"\nThe operation resulted in six arrests and four deaths during ongoing military operations. Among those captured was alias \"Barba Chivo,\" also known as \"Coste\u00f1o,\" identified as a commission leader and close associate of 33rd Front commander Andrey Avenda\u00f1o. Authorities also seized seven rifles and 15 grenades intended for use with drones, and struck three camps.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T03:37:24+00:00",
+      "timestamp": "2026-11-10T04:21:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -424,12 +348,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddf8\ud83c\udde9 #SUDAN: The paramilitary Rapid Support Forces (RSF) struck the Blue Nile capital of Ed Damazin with drones. The strikes came as the RSF and allied fighters seized the town of Sali to the south.\nLocal media reported explosions overnight on November 3rd and 4th. Yale researchers found signs of an impact at a market in Ed Damazin\u2019s Al-Zuhur neighbourhood. Satellite images also showed damage at a Sudanese army artillery compound.\nYale corroborated the capture of Sali by the RSF and the Sudan People\u2019s Liberation Movement\u2013North. Images showed widespread damage at an army camp near the town. Sali sits on the road from Ed Damazin to the Ethiopian border.\nYale counted more than 800 new temporary shelters at a displacement camp in Ed Damazin in the month to November 4th.",
+      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\udde7\ud83c\uddf6\ud83c\udde6 An RAF KC2 Voyager, operating under callsign ASCOT9958, flew from RAF Akrotiri in Cyprus to Dukhan Air Base in Qatar.\nThe RAF deployed Typhoon fighters to Qatar in March 2026 to reinforce regional air defences amid the US-Iran war.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T03:36:03+00:00",
+      "timestamp": "2026-11-10T04:16:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -443,12 +367,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russian forces are suffering heavier losses because autumn conditions favor Ukrainian drones, according to Joint Forces spokesperson Viktor Trehubov. Trees have shed their leaves, reducing concealment, while clear weather and manageable temperatures allow reconnaissance and strike drones to operate at full capacity. Trehubov described these as particularly productive months for Ukrainian drone units, but said it was uncertain whether conditions would remain favorable in December.",
+      "text": "NOW: The US State Department just raised the Travel Advisory level to 4, \u201cDo Not Travel\u201d, in 23 countries:\n- Afghanistan \ud83c\udde6\ud83c\uddeb \n- Iran \ud83c\uddee\ud83c\uddf7 \n- Burma \ud83c\uddf2\ud83c\uddf2 \n- DRC \ud83c\udde8\ud83c\udde9\n- Iraq \ud83c\uddee\ud83c\uddf6 \n- Mali \ud83c\uddf2\ud83c\uddf1 \n- Russia \ud83c\uddf7\ud83c\uddfa \n- Sudan \ud83c\uddf8\ud83c\udde9 \n- Ukraine \ud83c\uddfa\ud83c\udde6 \n- Belarus \ud83c\udde7\ud83c\uddfe \n- CAR \ud83c\udde8\ud83c\uddeb\n- Haiti \ud83c\udded\ud83c\uddf9 \n- Lebanon \ud83c\uddf1\ud83c\udde7 \n- Niger \ud83c\uddf3\ud83c\uddea \n- Somalia\n- Syria \ud83c\uddf8\ud83c\uddfe \n- Yemen \ud83c\uddfe\ud83c\uddea \n- Burkina Faso \ud83c\udde7\ud83c\uddeb \n- Chad \ud83c\uddf9\ud83c\udde9 \n- Libya \ud83c\uddf1\ud83c\uddfe \n- DPRK \ud83c\uddf0\ud83c\uddf5 \n- South Sudan \ud83c\uddf8\ud83c\uddf8\n- Uganda \ud83c\uddfa\ud83c\uddec",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T03:35:20+00:00",
+      "timestamp": "2026-11-10T04:03:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -462,12 +386,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine's 413th Regiment says its drone operators struck a shelter containing a Russian TOS-1A Solntsepyok in occupied Donetsk region. The 220 mm thermobaric rocket launcher, built on a T-72 tank chassis, reportedly belonged to Russia's 76th Air Assault Division.",
+      "text": "A drone killed a Zaporizhzhya Nuclear Power Plant employee today, the IAEA reports. Another drone killed a worker at the nearby Zaporizhzhya Thermal Power Plant.\nDays earlier, a different ZNPP employee was reportedly killed the same way.\nIAEA Director General Rafael Grossi condemned the strikes and called for an immediate end to attacks on nuclear plant staff.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T03:34:29+00:00",
+      "timestamp": "2026-11-10T04:00:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -481,31 +405,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russia uses optical and radar seekers to improve the accuracy of Iskander missile strikes on Ukrainian bridges, according to presidential adviser Serhii \"Flash\". He says the missiles can adjust their trajectory during the final stage of flight despite widespread navigation jamming.",
+      "text": "A Russian military jet landed in Israel Sunday night, and who was on board is still a mystery.\nThe aircraft is a Tupolev TU-154, used to fly senior officials and military personnel. It took off from Chkalovsky air base near Moscow and touched down at Ben Gurion Airport around 9 p.m. Flight trackers caught it first. It is expected to depart at noon. No comparable flight has landed in Israel in recent years.\nIDF contacts with the Russian military have mostly focused on Russian forces in Syria. Russia thinned out its Syria presence after invading Ukraine and recently began moving forces back to a base near Latakia.\n5 days ago, Mohsen Rezaei, secretary of Iran's Supreme National Security Council, met Putin in Moscow. The U.S.-Iran campaign was among the topics. Russia is set to supply Iran with Sukhoi Su-35 fighter jets.\nIDF and Russian Embassy in Israel: \"No response.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T03:33:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine's parliament passed legislation to establish Space Forces within the Armed Forces, with 252 votes in favor. The proposed branch aims to develop Ukrainian reconnaissance satellites, independent communications and defenses against missiles such as Oreshnik.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T03:32:36+00:00",
+      "timestamp": "2026-11-10T03:55:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -519,12 +424,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Houthis strike Riyadh \u2014 explosions rock the Saudi capital\nExplosions have been heard in Riyadh following a ballistic missile attack launched by Yemen's armed forces, according to local media.\nEarlier, the Ansarallah representative Muhammad al-Farh described the recent Saudi attacks on civilians as \"a dangerous turning point in the war\" and announced an \"escalation phase.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udcf9 Iran unveils a new IRGC missile base and teases a military surprise - Tasnim\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T01:25:14+00:00",
+      "timestamp": "2026-11-10T11:52:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,12 +443,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0a Hegseth was 'very effective at killing schoolchildren in Iran' \u2014 Massie\nRepublican Congressman Thomas Massie made it clear that the impeachment is not about Hegseth\u2019s competence, but his criminality.\n\ud83d\udcac \"He was very effective at extrajudicial killings. There's no argument in these impeachment articles that he's ineffective. The argument here is that he's broken laws and he's violated the Constitution.\"\nOn February 28, 2026 \u2014 the first day of the US-Israeli war on Iran \u2014 [a missile struck a girls' primary school in Minab.](https://t.me/geopolitics_prime/70851) According to Iranian authorities, 168 people were killed, the vast majority of them children.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf6\ud83c\udde6 Qatar looks to Iran for power lifeline after strikes expose Gulf vulnerabilities \nQatar is exploring securing a power cable from Iran as a crucial backup amid regional tensions, reports The Cradle.\nTalks on connecting the two countries\u2019 power grids began years before the recent US-Israeli war on Iran. \nRetaliatory Iranian missile [strikes](https://t.me/geopolitics_prime/76289) on Ras Laffan damaged Qatar\u2019s gas facilities and the power-desalination plant that turns turbine heat into drinking water - lending the project new urgency.\n\ud83d\udd34 Qatar\u2019s Kahramaa awarded a $1.7M feasibility study contract to Energoprojekt Entel in June 2025\n\ud83d\udd34 Iran\u2019s energy minister said in 2026 that the study was nearing completion \n\ud83d\udd34 Qatar and Iran have yet to clarify proposed capacity, financing, electricity trade arrangements & emergency supply commitments\nQatar already has strategic water reservoirs and access to the Gulf Cooperation Council\u2019s shared electricity network via the UAE. An Iranian connection could add another source of electricity.\nIran already has experience with cross-border power deals: it signed an operating agreement with Turkey for the 400-kV Van\u2013Khoy link in 2024, while Pakistan\u2019s 2023 Polan\u2013Gabd line was designed to deliver an additional 100 MW of Iranian electricity. \nAny new deal would need clear rules on electricity volumes, prices and emergency transfers - including how much power Iran can guarantee. \nIn 2023, Iran itself faced summer peak electricity demand exceeding available supply by 12 GW.\nUS sanctions could further complicate payments, insurance and equipment supplies.\nUltimately, the project could turn a long-discussed energy partnership into a practical regional resilience mechanism, argues the publication.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T22:01:01+00:00",
+      "timestamp": "2026-11-10T11:42:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -557,12 +462,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f\ud83d\udcf9 Houthi snipers harass Saudi-backed forces near Taiz\nAnsar Allah fighters have targeted coalition troops in the Taiz area, footage from the movement shows.\nTaiz is Yemen's third-largest city, which sits at a strategic crossroads. It has been the last major urban stronghold of anti-Houthi forces in Yemen's southern highlands. The Houthis tightened their encirclement of Taiz in recent weeks by cutting the main road south to Aden.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Saudi Arabia strikes oil and gas facilities in Yemen's capital - reports \nSaudi airstrikes targeted the Yemen Oil and Gas Corporation in Sana'a, triggering fires at the site, Press TV reports.\nSaudi aircraft also struck a gas station in the capital, according to the report.\nThe attacks came hours after Houthi air defenses detected and shot down a Saudi reconnaissance drone over northern Yemen.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T19:26:01+00:00",
+      "timestamp": "2026-11-10T07:29:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -576,12 +481,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel builds up its ground forces for possible two-front war with Iran and Lebanon\nIsrael is broadening its infantry brigades with new specialized combat units, and its air force has rehearsed a rapid response to a large-scale ground infiltration from Lebanon, Maariv reported.\n\ud83d\udd34 Combat engineering battalions have begun operating under several frontline brigades. These units will focus on drones, robotics, surveillance systems, advanced weapons, and precision-guided munitions\n\ud83d\udd34 In addition, Israeli fighter jets carried out an unusually extensive low-altitude exercise over Nahariya and the western Galilee. Squadrons on immediate alert were activated and pilots were asked to assess whether a ground incursion was underway from the north, according to the source\nThe preparations come amid rising tension over a possible renewal of US military action against Iran. Reports in recent weeks have suggested that President Donald Trump may launch a new full-scale war on Iran now that the US midterm elections have passed, reducing the political cost.\nIsraeli security officials expect that in the event of war with Iran, the military would immediately mobilize all reserve divisions and move most forces north, with the stated aim of completely destroying the Hezbollah movement.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Israel bent on dragging US into endless Iran war - Ghalibaf\nThe US and its allies face a \u201cdark age\u201d unless the American administration abandons its \u2018Israel First\u2019 policy, Iranian Parliament Speaker Mohammad Bagher Ghalibaf wrote on X.\n\ud83d\udcac \u201cIsraelis are working overtime to drag the US into an endless war with Iran, a quagmire that no president, now or in the future, Republican or Democrat, could escape,\u201d he noted.\nBenjamin Netanyahu, serving as caretaker PM after Israel\u2019s elections, has been pushing hard for a new round of US-Israeli strikes to bring about regime change in Iran, reports the FT.\nNetanyahu calls Trump \u201cevery day to urge him to resume the war,\u201d the publication cited an insider as saying, adding that there has been pushback to this both inside the administration and outside.\n\ud83d\udc49 Regional leaders are also reportedly urging the US president to \u201cprioritize negotiations.\u201d\nAfter meeting with Qatari PM Sheikh Mohammed bin Abdulrahman al-Thani, whose government is mediating an interim deal, Trump said there was \u201cpositive momentum\u201d towards ending the conflict.\nHe added that a resumption of strikes is \u201cquite unlikely\u201d, and declared the war on Iran \u201ceffectively over\u201d.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T17:04:01+00:00",
+      "timestamp": "2026-11-10T06:48:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -595,12 +500,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u269b\ufe0f\ud83d\udcca Palantir veterans raise $300mn to weaponize Europe\u2019s arms supply chain\nTwo former [Palantir](https://t.me/geopolitics_prime/74041) employees have positioned themselves to profit from Europe's aggressive military build-up, reports the Financial Times.\nThe co-founders of Dutch start-up Onodrim, which recently raised $300mn at its $1.3 billion valuation, include Aistis Simaitis \u2013 one of Palantir\u2019s earliest European hires, and Alexander Blessing, who helped build and deploy the firm\u2019s [flagship Foundry platform](https://t.me/geopolitics_prime/70382).\nThe new vehicle plans to use its funding to:\n\ud83c\udf0f acquire controlling stakes in smaller, often family-owned manufacturers with strategically important technologies\n\ud83c\udf0f inject capital, software and management expertise to increase production capacity\n\ud83c\udf0f address critical supply-chain bottlenecks, including drone propulsion, radar and sensing systems, explosives materials and aerospace structures\nWhile the latest financing round was led by Lux Capital, an earlier initial $45mn seed round included Founders Fund, established by Palantir co-founder [Peter Thiel](https://t.me/geopolitics_prime/73660).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8 US evacuates aircraft from UK airbase amid Iranian threat - report\nThe US has moved several military aircraft, including aerial refueling tankers, from RAF Mildenhall in England to Germany and other locations following a threat from Iran, according to The Wall Street Journal.\n\ud83d\udd34 The exact nature of the threat remains unclear, but US officials have raised concerns about possible attacks on American aircraft and personnel\n\ud83d\udd34 Security at RAF Mildenhall and RAF Lakenheath has been raised to FPCON Charlie, indicating intelligence of a likely terrorist threat\n\ud83d\udd34 The move follows the withdrawal of B-1 bombers from another UK base last month amid concerns over an alleged Iranian-backed plot involving drones\n\ud83d\udd34 The developments come as Trump weighs further strikes on Iran. However, he said Monday that renewed military action was not currently necessary, citing progress in negotiations\nThe US president warned that Washington remained ready to act if the situation changed.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T14:05:00+00:00",
+      "timestamp": "2026-11-10T06:07:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
