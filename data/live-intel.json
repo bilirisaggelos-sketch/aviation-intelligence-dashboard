@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T21:38:34.977000+00:00",
+  "generated_at": "2026-11-10T03:50:36.110847+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -40,21 +40,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKaneohe, HI, Monday, November 9, 2026 through Monday, November 9, 2026 Local\nFacility: ZHN",
-      "source": "FAA",
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5453\r\nIssue Time: 2026 Nov 10 0302 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5452\nValid From: 2026 Nov 09 0556 UTC\nNow Valid Until: 2026 Nov 10 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
       "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/07/2026",
-      "location": "ZHN HI",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-10 03:02:27.917",
+      "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
       "verification_confidence": 100,
       "verified_sources": [
-        "Federal Aviation Administration"
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -135,25 +135,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2062\r\nIssue Time: 2026 Nov 08 0203 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Nov 08 0203 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-08 02:03:49.380",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: The IRGC carried out ballistic missile test launches in Khuzestan Province, southwestern Iran",
@@ -187,7 +168,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -365,25 +346,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddf6\ud83c\udde6\ud83c\uddee\ud83c\uddf7 \u2014 Israel Hayom reports that US President Donald Trump is expected to meet Qatar\u2019s Prime Minister today to discuss an Iranian proposal to reopen the Strait of Hormuz in exchange for the release of $8 billion in frozen Iranian assets.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T13:53:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf6 Khor mor gasfield in Iraqi Kurdistan has been targeted by an Iranian drone moments ago. Flames seen raising.",
       "source": "Telegram",
@@ -394,12 +356,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -423,12 +386,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted the Kirishi Oil Refinery, in Russia's Leningrad region, this Sunday. \nThe is one of the lsrgest oil refineries in on of the largest in Russia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "#Colombia \ud83c\udde8\ud83c\uddf4: Revolutionary Armed Forces of Colombia (#FARC-EP) carried out Drone strikes against Colombian soldiers in Jamund\u00ed, Valle del Cauca.\nFARC-EP fighters used COTS Drones (likely DJI Mavic / Matrice UAVs) armed with possible Improvised Air-Dropped Bombs.\nhttps://x.com/war_noir/status/2119926493904007266",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T05:59:06+00:00",
+      "timestamp": "2026-11-10T03:37:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -442,12 +405,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian drones struck Russia's Kirishi oil refinery, the country's second-largest, causing a fire at the facility. Via",
+      "text": "#Sudan \ud83c\uddf8\ud83c\udde9: Sudanese Forces (#SAF) struck \u201cRapid Support Forces\u201d (#RSF) convoy by using COTS Drone with Air-Dropped Munition.\nSAF fighters apparently used a DJI Mavic / Matrice Drons armed with air-dropped O-832-DU (MMY02) pattern HE-Frag mortar bomb.\nhttps://x.com/war_noir/status/2119819514103644182",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T03:16:19+00:00",
+      "timestamp": "2026-11-10T03:37:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -461,12 +424,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddee\ud83c\uddf1 The aircraft does indeed appear to be a Russian government plane. \nIt\u2019s possible that Russia is using it to evacuate the families of its diplomats from Israel, though the purpose of the flight remains unclear.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\ud83c\uddf8\ud83c\udde9 #SUDAN: The paramilitary Rapid Support Forces (RSF) struck the Blue Nile capital of Ed Damazin with drones. The strikes came as the RSF and allied fighters seized the town of Sali to the south.\nLocal media reported explosions overnight on November 3rd and 4th. Yale researchers found signs of an impact at a market in Ed Damazin\u2019s Al-Zuhur neighbourhood. Satellite images also showed damage at a Sudanese army artillery compound.\nYale corroborated the capture of Sali by the RSF and the Sudan People\u2019s Liberation Movement\u2013North. Images showed widespread damage at an army camp near the town. Sali sits on the road from Ed Damazin to the Ethiopian border.\nYale counted more than 800 new temporary shelters at a displacement camp in Ed Damazin in the month to November 4th.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T03:05:52+00:00",
+      "timestamp": "2026-11-10T03:36:03+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -480,12 +443,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf7\u2600\ufe0f Reports suggesting direct Iranian involvement are false; the drone strike was likely carried out by Iraqi militia groups against the KRI as part of internal Iraqi politics, as it threatens key projects in the region.\nLast year the field was also struck allegedly by the PMF's Turkmen Brigades stationed on the frontier.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Russian forces are suffering heavier losses because autumn conditions favor Ukrainian drones, according to Joint Forces spokesperson Viktor Trehubov. Trees have shed their leaves, reducing concealment, while clear weather and manageable temperatures allow reconnaissance and strike drones to operate at full capacity. Trehubov described these as particularly productive months for Ukrainian drone units, but said it was uncertain whether conditions would remain favorable in December.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T03:04:02+00:00",
+      "timestamp": "2026-11-10T03:35:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -499,32 +462,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6 Additional Imagery documenting the aftermath of Iranian drone strikes on the Khormor gas field in Iraqi Kurdistan.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Ukraine's 413th Regiment says its drone operators struck a shelter containing a Russian TOS-1A Solntsepyok in occupied Donetsk region. The 220 mm thermobaric rocket launcher, built on a T-72 tank chassis, reportedly belonged to Russia's 76th Air Assault Division.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T03:03:23+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\ud83c\uddee\ud83c\uddf6 Footage of smoke rising from the Khormor Gas field following Iranian drone strikes.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T03:01:43+00:00",
+      "timestamp": "2026-11-10T03:34:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -532,6 +475,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia uses optical and radar seekers to improve the accuracy of Iskander missile strikes on Ukrainian bridges, according to presidential adviser Serhii \"Flash\". He says the missiles can adjust their trajectory during the final stage of flight despite widespread navigation jamming.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T03:33:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's parliament passed legislation to establish Space Forces within the Armed Forces, with 252 votes in favor. The proposed branch aims to develop Ukrainian reconnaissance satellites, independent communications and defenses against missiles such as Oreshnik.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T03:32:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Houthis strike Riyadh \u2014 explosions rock the Saudi capital\nExplosions have been heard in Riyadh following a ballistic missile attack launched by Yemen's armed forces, according to local media.\nEarlier, the Ansarallah representative Muhammad al-Farh described the recent Saudi attacks on civilians as \"a dangerous turning point in the war\" and announced an \"escalation phase.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T01:25:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0a Hegseth was 'very effective at killing schoolchildren in Iran' \u2014 Massie\nRepublican Congressman Thomas Massie made it clear that the impeachment is not about Hegseth\u2019s competence, but his criminality.\n\ud83d\udcac \"He was very effective at extrajudicial killings. There's no argument in these impeachment articles that he's ineffective. The argument here is that he's broken laws and he's violated the Constitution.\"\nOn February 28, 2026 \u2014 the first day of the US-Israeli war on Iran \u2014 [a missile struck a girls' primary school in Minab.](https://t.me/geopolitics_prime/70851) According to Iranian authorities, 168 people were killed, the vast majority of them children.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-09T22:01:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -582,25 +601,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-09T14:05:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran announces halt to all \u2018illegal oil smuggling\u2019 through Strait of Hormuz\nIran's destruction of \u201cnavigational aid systems\u201d that were located on the \u201csouthern rocks\u201d of the strait resulted in the complete cessation of unauthorized oil shipping through the waterway, IRIB News Agency reports, citing an IRGC Navy official.\n\ud83d\udd0a \u201cIllicit vessels were able to enter the illegal passage last night, and the smuggling of oil through this route has been brought to a complete halt,\u201d the official states.\nFollowing the US-Israeli attack on Iran on February 28, Iran moved to de facto take control of all maritime traffic through the Strait of Hormuz.\nVessels that wish to navigate the strait must do so via a route designated by Iranian authorities, with violators risking attacks by Iranian forces.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-09T11:50:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
