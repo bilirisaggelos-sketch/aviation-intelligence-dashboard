@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-11-10T19:56:50.924134+00:00",
+  "generated_at": "2026-11-11T00:33:27.128039+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nHUNTSVILLE, AL, Tuesday, November 17, 2026 through Thursday, November 19, 2026 Local\nFacility: ZME",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/10/2026",
+      "location": "ZME AL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nSANTA ROSA ISLAND, FL, Monday, November 16, 2026 through Friday, November 20, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/10/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNEW YORK, NY, Wednesday, November 11, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/10/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNORTHWEST FIELD, GU, Friday, November 13, 2026 through Sunday, December 20, 2026 Local\nFacility: ZUA",
@@ -49,25 +106,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/10/2026",
       "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNEW YORK, NY, Tuesday, November 10, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/10/2026",
-      "location": "ZNY NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -232,6 +270,82 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddf7\ud83c\uddfa/\ud83c\uddfa\ud83c\udde6 UPDATE: It is possible the drones are Ukrainian, on their way to St. Petersburg",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-11T00:06:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf7\ud83c\uddfa/\ud83c\uddf1\ud83c\uddfb/\ud83c\uddea\ud83c\uddfa BREAKING: Orange alert in Balvi, eastern Latvia, due to Russian drone threat",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T23:32:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf7\ud83c\uddfa/\ud83c\uddf1\ud83c\uddf9/\ud83c\uddf5\ud83c\uddf1/\ud83c\uddea\ud83c\uddfa NEW: The drones are reportedly headed for Suwalki in Poland, near Russia\u2019s Kaliningrad Oblast\nIt is unclear if the drones are still on their way, have been intercepted, or headed for a different target.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T23:27:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf7\ud83c\uddfa/\ud83c\uddf1\ud83c\uddf9/\ud83c\uddf5\ud83c\uddf1/\ud83c\uddea\ud83c\uddfa BREAKING: Red alerts have been activated in several areas of southern Lithuania\nRussian drones entered the country\u2019s airspace from Belarus. According to Lithuanian authorities, one of the drones has now left Lithuanian airspace, entering Poland.\nNATO fighter jets have been scrambled to intercept them.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T23:24:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf7\ud83c\uddfa/\ud83c\udde8\ud83c\uddf3 NEW: Iran now has more ballistic missiles in its inventory than Russia and China combined",
       "source": "Telegram",
       "source_type": "telegram",
@@ -288,52 +402,32 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Some images from one of Iran\u2019s underground missile bases\nNew cruise missile variants, low-detection missiles, and other various new equipment can be seen.",
+      "publisher": "Clash Report",
+      "text": "Renewed Ukrainian drone strikes have reduced Russia\u2019s oil refining capacity by around 30% since late October. \nNine of Russia\u2019s 35 major refineries were disrupted over the past week, with attacks affecting facilities capable of processing 2.2 million barrels per day.\nSource: Reuters",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T13:31:13+00:00",
+      "timestamp": "2026-11-10T22:38:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 WATCH: Iran\u2019s IRGC Aerospace Force uploaded footage from one of the new underground missile bases",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T13:30:15+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The U.S. plans to halve direct military aid to Israel under a new agreement, with assistance gradually phased out over five years starting in 2028.\nThe proposed deal would cut military financing from $33 billion over 10 years to $16.5 billion over five years, while increasing funding for joint missile defense projects.\nBoth countries aim to finalize the agreement by December 2026, before Republicans lose control of Congress in January. \nIsraeli officials fear the incoming Congress could obstruct future aid, particularly if Netanyahu remains prime minister.\nSource: ynet",
+      "text": "BIG: A Western intelligence estimate cited by Bloomberg says Iran can still produce about 50 ballistic missiles a month, roughly half its prewar rate, and likely has at least 1,700 ballistic missiles in its arsenal.\n[READ MORE](https://clashreport.com/defense/articles/iran-still-produces-50-ballistic-missiles-a-month-western-estimate-says-ch7i3k8ir5)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T19:33:48+00:00",
+      "timestamp": "2026-11-10T20:21:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -347,12 +441,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The Islamic Revolutionary Guard Corps Navy has reported that two commercial oil tankers burst into flames following explosions while attempting to transit the Strait of Hormuz.\nAccording to the IRGC, one supertanker struck a naval mine in the waterway.\nThe second tanker, which the IRGC alleged was being escorted by U.S. fighter jets, also suffered an explosion and ignited.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 N12 reports a surfaced disagreement between Israeli Prime Minister Benjamin Netanyahu and IDF Chief of Staff Lt. Gen. Eyal Zamir over the approach to Iran, as negotiations for a new government continue.\nZamir and senior political officials reportedly fear that Netanyahu's proposed actions lack caution and risk triggering a direct confrontation. The Chief of Staff is said to be stressing the need for restraint, especially given Washington's current reluctance for another escalation.\nThe dispute reportedly does not center on whether Iran requires action, but rather on the timing, scope, and potential risks of Israel's next steps.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T12:59:36+00:00",
+      "timestamp": "2026-11-10T23:17:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -360,6 +454,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddfa\ud83c\udde6\ud83c\uddea\ud83c\uddf9 Ukrainian mercenaries in Ethiopia.\nDrone operator instructors are training locals from the Tigray province and neighboring terrorists.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T22:57:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf1\ud83c\uddf9\ud83c\uddfa\ud83c\udde6 it is now basically confirmed that these are Ukrainian drones that suffered from EW and went off course towards Lithuania through Belarus everything is quiet in the Baltic states currently",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-11T00:12:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddf1\ud83c\uddf9 There is currently air raid sirens going off in Lithuania because of incoming drones I\u2019m almost 90% sure it\u2019s just one or two that flew off course unless more come up it\u2019s a nothing burger",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-10T23:28:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -394,13 +545,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man",
-        "Middle East Spectator"
+        "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -563,25 +713,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-10T14:49:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udcf9 Iran unveils a new IRGC missile base and teases a military surprise - Tasnim\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T11:52:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
