@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T03:05:13.647385+00:00",
+  "generated_at": "2026-11-12T11:21:28.402319+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -97,21 +97,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Tuesday, November 10, 2026 through Thursday, November 12, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3773\r\nIssue Time: 2026 Nov 12 0633 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3772\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 7897 pfu\nMax time: 2026 Nov 11 1555 UTC",
+      "source": "NOAA Space Weather",
       "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/08/2026",
-      "location": "ZAB AZ",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-12 06:33:05.873",
+      "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
       "verification_confidence": 100,
       "verified_sources": [
-        "Federal Aviation Administration"
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -192,21 +192,21 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3770\r\nIssue Time: 2026 Nov 09 1001 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3769\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 1228 pfu\nMax time: 2026 Nov 08 2335 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-09 10:01:44.480",
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "text": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says\nWitnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-12T09:43:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "NOAA Space Weather Prediction Center"
+        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -364,6 +364,82 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Zelensky says Starshield, SpaceX\u2019s military satellite service, is again under a systematic 161 km/h speed cap, complicating the interception of Russian jet-powered drones.\n[READ MORE](https://clashreport.com/world/articles/zelensky-says-starshield-speed-cap-returns-hindering-interceptors-uwcs0fo6fv)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T10:05:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Netanyahu says Israel not to blame for flood crisis in Gaza](https://apnews.com/article/mideast-news-israel-gaza-iran-november-11-2026-50075bc97e07d41fa3b66fc28858c06b)\nIsraeli Prime Minister Benjamin Netanyahu dismisses claims \u2014 including from the U.S.-backed Board of Peace \u2014 that Israel is blocking winter supplies to Gaza. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/mideast-news-israel-gaza-iran-november-11-2026-50075bc97e07d41fa3b66fc28858c06b)\nThe Associated Press | apnews\u200b.com \u2022 Nov 11, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T03:30:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Gaza struck by deadly storm; Israel debates rare coalition with Palestinian citizens](https://www.npr.org/2026/11/11/nx-s1-6037848/gaza-struck-by-deadly-storm-israel-debates-rare-coalition-with-palestinian-citizens)\nOpponents of Israel\u2019s hardline prime minister, Benjamin Netanyahu, are trying to oust him by building a new coalition. To do so, they may have to cross a red line drawn by most Israeli parties: work with Arab colleagues. A devastating single storm compounds the suffering of Gaza\u2019s fourth winter of war. Gaza authorities say more than 20,00 tents were flooded in just two days.Support public media with NPR+ and enjoy perks for over 25 podcasts like this one. This show\u2019s perks include sponsor-free listening. Learn more at plus.npr.org. \u2013 Join Telegrams: t.me/ourwarstoday... \n[Read More in Full Article](https://www.npr.org/2026/11/11/nx-s1-6037848/gaza-struck-by-deadly-storm-israel-debates-rare-coalition-with-palestinian-citizens)\nLauren Frayer | npr\u200b.org \u2022 Nov 12, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T03:29:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 IRGC Commander-in-Chief Maj. Gen. Ahmad Vahidi issued a message marking National Aerospace Day, honoring Martyr Hassan Tehrani Moghaddam, the architect of Iran's missile program.\nVahidi credited Moghaddam with building Iran's first missiles with \"empty hands,\" noting that the force now builds its military power \"deep within the mountains and the earth.\" He emphasized that the IRGC's progress is guided by faith and the Guardianship of the Jurist, vowing that threats and sanctions will not stop their path.\nThe statement concluded by saluting Moghaddam alongside Martyrs Amir Ali Hajizadeh and Mahmoud Bagheri, assuring the troops that victory is theirs.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T08:52:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces spokesperson Yahya Saree says his forces launched three winged missiles at King Khalid International Airport in Riyadh, claiming the strikes successfully achieved their objectives.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
@@ -459,44 +535,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Secretary of State Marco Rubio told G7 counterparts in Paris on Tuesday that President Trump had weighed resuming the war with Iran or cutting a deal, but ultimately chose a third path: strangling the Iranian regime economically, according to three people who attended the meeting, cited by Axios.\n\u27a1\ufe0f After meeting Qatari Prime Minister Sheikh Mohammed bin Abdulrahman Al Thani on Monday, Trump said a new round of strikes is \"quite unlikely\" and \"doesn't seem to be necessary.\" He instead favors continuing the economic crackdown and naval blockade, alongside a new operation dubbed \"Iron Gate\" to cut off land routes Iran uses to move advanced weaponry and other technology.\n\u27a1\ufe0f Rubio explained the policy in the closed-door meeting: \"The President doesn't just have two options. It's not just return to war or sign a ridiculous peace deal. We won't do a stupid deal. The third option we have is to continue to do what we do now.\" He added that the U.S. is imposing devastating costs on Iran's economy and there is no end date: \"The President is not under false time pressure, the Iranians are inflicting major damage on their own economy.\"\n\u27a1\ufe0f U.S. officials say Rubio pushed for the \"strangulation\" strategy along with Treasury Secretary Scott Bessent, CIA Director John Ratcliffe, and Jared Kushner. That group opposed resuming war, doubted Iran's current positions could lead to an acceptable deal, and lobbied for the third option.\n\u27a1\ufe0f Rubio remains deeply skeptical of a diplomatic breakthrough: \"Iran would love a deal. The problem is the conditions they continue to place are absurd. Like, they're not even serious right now.\" He suggested that could change with more economic pain: \"Eventually you have to eat. Eventually the economic realities penetrate the skull of even the most radical lunatic.\"\n\u27a1\ufe0f Several U.S. allies \u2014 including Turkey, Iraq, and Pakistan \u2014 are concerned that prolonging the economic squeeze will create instability in their own countries, a U.S. official said, as Washington pressures them to stop doing business with Iran, including halting flights and closing borders.\n\u27a1\ufe0f The chosen course contradicts a directive from Iran's Supreme Leader Mojtaba Khamenei, who ordered an end to the \"no war, no deal\" status quo and demanded a clear conclusion to the war. If the stalemate continues and pressure intensifies, analysts warn the IRGC could see it as a green light for more aggressive regional attacks to break the status quo, risking another military confrontation neither side necessarily wants.\n\u27a1\ufe0f The Qatari prime minister briefed the G7 on mediation efforts and said he came away from his meeting with Trump believing there is more breathing room for diplomacy. Sticking points remain over which side takes the first de-escalation step, and he wants to bring in China and European countries as guarantors to ease Iranian suspicions that Trump will break any agreement.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-11T09:43:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Iranian President Masoud Pezeshkian questioned \"who threatens global peace and security\" ahead of the UN COP31 climate summit, stating adversaries initiated conflict under claims to \"prevent Iran from acquiring nuclear weapons\" \u2014 X.\nStatement cited the initial use of \"PrSM\" missiles in Lamerd alongside subsequent deployment of the \"mother of all bombs\" as a \"disgrace\" intended to conduct \"diplomacy through threats\".\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-11T08:16:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The Rotating Villain Strategy. An important note regarding the 11 Democrats who failed to show up to vote to impeach US Secretary of War Pete Hegseth:\nHaley Stevens (MI)\nLaura Gillen (NY)\nMarilyn Strickland (WA)\nSteven Horsford (NV)\nNancy Pelosi (CA)\nJulia Brownley (CA)\nBrittany Pettersen (CO)\nLou Correa (CA)\nFrederica Wilson (FL)\nMelanie Stansbury (NM)\nJonathan Jackson (IL)\nThe final vote was 204 yes to 211 no. Their votes would have made the difference. \n204 + 11 = 215 \n215 > 211\nAll 11 of these people received money from the pro-Israel lobby. Expect this same type of sabotage to occur on a regular basis on every single important issue inside of Washington, DC when the new congress is sworn in on January 1st. One week it\u2019ll be one group. The next week a new group will fill the same role.",
       "source": "Telegram",
@@ -517,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u2757\ufe0fAs we reported going into the night, Ukrainian drones struck Russia's Ust-Luga port on the Baltic Sea overnight into November 11, starting a major fire at one of the country's main oil and petroleum export hubs. Leningrad region Governor Aleksandr Drozdenko confirmed a blaze in the port area, reported three workers injured and said a power station was cut off. NASA FIRMS detected several fire hotspots, while the flames were visible across the border from Estonia.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Additional footage of the site of the drone attack.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T03:04:50+00:00",
+      "timestamp": "2026-11-12T06:52:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -536,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine's Air Force reports Russia launched 163 drones and one Kh-59/69 missile overnight, including 91 jet-powered drones and S8000 Banderol weapons. Air defenses neutralized 144 targets: 130 drones and 14 Banderols. Impacts were recorded at 17 sites.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa [FT](https://www.ft.com/content/68c11e35-8347-4ceb-812a-d3f195978249?syn-25a6b1a6=1): Romanian President Nicu\u0219or Dan has offered to pay the United States to maintain and expand its military presence in Romania, proposing cost-sharing arrangements as Russian drone incursions and attacks on commercial shipping raise security concerns in the Black Sea region.\nThe U.S. currently has 1,172 troops stationed in the country, down from 1,700. Bucharest is considering an offer similar to Poland's proposal to pay for a permanent U.S. military base and provide annual payments for each American soldier stationed there.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T03:04:46+00:00",
+      "timestamp": "2026-11-12T06:52:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukrainian media, citing the \"[I Want to Live](https://t.me/c/1616052141/5098)\" project, report that Ukrainian forces have captured a citizen of Indonesia fighting for the RF for the first time. The 49-year-old native of Java was deployed to the Zaporizhzhia direction to participate in assaults. Following a Ukrainian drone strike on the unit, he managed to reach Ukrainian-controlled territory on his own and surrendered.\nAccording to data from the \"I Want to Live\" project, in the first nine months of 2026, the Russian Federation recruited 283 Indonesian citizens through a network of human traffickers who promised them jobs in logistics.",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 A Russian Geran drone struck a a nine-story building in Kyiv, triggering a fire that spread from the third to the sixth floor.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T03:01:38+00:00",
+      "timestamp": "2026-11-12T06:51:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,12 +612,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "The [Ministry](https://www.army.md/index.php/ro/comunicate-de-presa/informeaza-37) of Defense of Moldova reported that amidst massive attacks on Ukraine, two cruise missiles of the \"Banderol\" type crossed Moldovan airspace.",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddf4\ud83c\udde7\ud83c\uddec\ud83c\uddfa\ud83c\uddf8 [WSJ](https://www.wsj.com/world/this-shipping-lane-is-now-the-worlds-deadliest-it-isnt-hormuz-c3acdcaa): The Black Sea has become the world's deadliest maritime corridor this year, with more than 300 attacks on commercial vessels killing over 30 seafarers and leaving more than 20 missing, according to maritime security data and shipping industry figures.\nRussian forces have targeted commercial ships carrying Ukrainian food exports, while Ukraine has attacked Russian shipping with drones. Recent strikes have also spread to waters near Romania and Bulgaria, both NATO members, raising concerns about the alliance's eastern flank. Some European leaders have linked the attacks to Russia, which denies involvement.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T02:59:21+00:00",
+      "timestamp": "2026-11-12T06:51:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,12 +631,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Tonight, Ukrainian UAVs struck an oil terminal in the port of Ust-Luga, Russia. According to reports, a fire broke out there that is visible even from Estonia.",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Explosive-laden drones have targeted toll facilities along the Pan-American Highway, in the municipality of Santander de Quilichao, Cauca Department, Colombia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T02:59:00+00:00",
+      "timestamp": "2026-11-12T03:49:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -611,20 +649,96 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Fighter Bomber (Russian Ex-pilot) says Ukrainian drones managed to hit several helicopters mid-air during last night's attack, and he says that three, not two, helicopters/aircraft were lost during the night (one Ka-52 with both pilots killed, an Mi-8 with its crew and 3rd unknown helicopter), he also says it appears that 7 Russian pilots and onboard crew were killed too.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 \u2018They saw the consequences\u2019: Ghalibaf boasts US carriers pulled back because of Iran \n\ud83d\udcac \"Why have American aircraft carriers moved away from the operational area today? Because they saw the threat with their own eyes and experienced the consequences of our actions,\" Iran\u2019s Parliament Speaker Mohammad Bagher Ghalibaf said.\nHe also took aim at Washington's approach to the conflict, claiming that Trump's \"America First\" policy had effectively become what he called \"Israel First,\" with the US accepting Israeli intelligence and military plans that led to serious political, economic, and military repercussions.\n\ud83d\udc49 Turning to the Strait of Hormuz, Ghalibaf insisted the strategic waterway would never return to its pre-war conditions, noting that Iran and Oman had reached an agreement on maritime traffic. He stressed that Iran's seven conditions must be met before negotiations can advance and the strait can reopen, while dismissing US Secretary of State Marco Rubio's criticism of Tehran's demands.\nGhalibaf warned that Iran would neither accept an indefinite state of neither war nor peace nor allow itself to be drawn into a prolonged war of attrition.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T02:55:31+00:00",
+      "timestamp": "2026-11-12T09:46:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udee2 Two oil supertankers hit by blasts in Strait of Hormuz after ignoring Iranian warnings \u2013 IRGC\nExplosions disabled a pair of supertankers carrying a combined total of more than 4 million barrels of crude oil as they attempted to cross the Strait of Hormuz via an unauthorized shipping route, Iran's Islamic Revolutionary Guard Corps (IRGC) announced.\nAccording to the IRGC, the incident occurred overnight after both vessels ignored repeated warnings from Iranian naval traffic controllers that the southern passage was unsafe.\nShipping through the Strait of Hormuz has been restricted since US-Israeli military hostilities against Iran erupted on February 28. Tehran has vowed to keep the restrictions in place until its conditions are met, including the lifting of the US blockade and sanctions.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T09:05:27+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddef\ud83c\uddf5 Japan\u2019s rearmament dreams crash into supply roadblocks\nTokyo is pushing ahead with plans to beef up its armed forces and sharpen its strike capabilities, an expansion that's raised eyebrows across the region over just how far its military ambitions will go. Yet the buildup faces serious obstacles, the SCMP reports:\n\ud83d\udd36 Japan has 118 outstanding orders for US military equipment to the tune of about $7.2 billion, some delayed by five years or more.\n\ud83d\udd36 Deliveries of up to 400 Tomahawk missiles could be pushed back as far as two years while the US replenishes its depleted stocks\n\ud83d\udd36 Spare-parts shortages have reportedly left only about 12 of Japan's roughly 40 Kawasaki P-1 patrol aircraft mission-ready\n\ud83d\udd36 F-35 deliveries are also behind schedule, with 34 of the 42 ordered jets still outstanding as of late March\nEven with these challenges, Tokyo is reworking its defense strategy \u2014 pursuing expanded counterstrike capabilities and closer military-industrial ties with Washington. This effort marks another step away from Japan's traditionally defensive posture.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T07:43:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde8\ud83c\uddf3 China trains infantry to fight and survive in drone-dominated battlefield\nChina's infantry units are reworking their training, equipment, and tactics around the threat from drones after exercises exposed how vulnerable traditional camouflage has become, the South China Morning Post reports.\nThe army responded by writing new instructional manuals, building dedicated counter-drone training facilities including simulation rooms, and shifting the focus of exercises toward detecting and disrupting hostile drones with specialized weapons and coordinated infantry responses. Officers are now required to demonstrate proficiency with counter-drone equipment and tactics, not just conventional infantry skills.\nThe shift is visible across much of the force:\n\ud83c\udf0f A 71st Group Army brigade ordered compulsory training on concealing heat sources and lights at night, including covering the hot parts of rocket launchers\n\ud83c\udf0f A 72nd Group Army amphibious armored company worked with multiple manufacturers to improve its use of uncrewed systems and counter-drone equipment\n\ud83c\udf0f Troops from the 78th Group Army trained to evade reconnaissance drones\n\ud83c\udf0f 81st Group Army reconnaissance units used insulating blankets, damp soil, and turf to reduce the heat signatures that give away their positions\nChinese manufacturers have produced handheld and vehicle-mounted counter-drone systems and detection equipment, while individual formations experiment with their own solutions, including protective cages fitted to armored vehicles.\nRecent conflicts in the Middle East and Ukraine have highlighted the dominance of drones across battlefields, raising the need to adapt troops to the new rules of modern warfare.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T06:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5 Gulf economies face nearly $1 trillion price tag from US war on Iran\nThe US-Israeli war targeting Iran turned into a[ costly gamble ](https://t.me/geopolitics_prime/77198)on many fronts.\nIt has already cost Persian Gulf economies more than $200 billion in physical destruction - especially in energy infrastructure, according to a report by insurance firm Allianz Trade.\nBy 2030, the fallout threatens to wipe out an estimated $790 billion in expected economic growth.\nThe report notes that:\n\ud83d\udd34 over 80 energy facilities have been hit in retaliatory Iranian strikes on US assets across the Gulf, primarily in Kuwait, Qatar and Bahrain; around a third suffered heavy damage; airports, seaports and tourist landmarks were also affected\n\ud83d\udd34 Gulf economies could lose the equivalent of 5.9% of their combined GDP over 2026\u20132030 compared with pre-war forecasts\n\ud83d\udd34 damage is expected to weigh on tourism and real estate\n\ud83d\udd34 governments are likely to redirect around $120 billion from sovereign wealth funds into domestic investment to support recovery - slashing capital for overseas investments\n\ud83d\udd34 surplus income from trade and foreign holdings could plummet by half\n\ud83d\udd34 spending priorities are shifting from ambitious mega-projects toward infrastructure, defense and economic resilience\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T05:41:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -637,82 +751,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-12T01:45:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\ude80 Israel unveils own \u2018Tomahawk\u2019 amid speculation over renewed strikes on Iran\nRafael Advanced Defense Systems has presented Super Ice, a new long-range cruise missile designed to penetrate advanced air defense systems and strike high-value targets with very short warning time, Maariv reported.\n\ud83d\udd34 The warhead weighs roughly 450 kilograms, four times the size of its predecessor and comparable to a Tomahawk missile\n\ud83d\udd34 It can be launched from air, land, and sea platforms, and Rafael says it integrates across a wide range of aircraft without requiring significant modifications to the platforms themselves\n\ud83d\udd34 The missile flies at low altitude and follows the terrain, maintaining a high subsonic speed\nSuper Ice entered development after Israel discovered it lacks military capabilities to seriously damage Iran's nuclear program. Israeli sources indicate it could reach operational status around early 2027.\nThe announcement came a day after Iran showcased a new underground \"[missile city](https://t.me/geopolitics_prime/77574)\" with an [arsenal of upgraded ballistic and cruise missiles](https://t.me/geopolitics_prime/77627).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-11T19:51:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc41 Anduril takes warfighting ambitions into space with new satellite surveillance tech\n[Pentagon-linked](https://t.me/geopolitics_prime/74041) drone [maker Anduril](https://t.me/geopolitics_prime/75099) is expanding into space warfare, unveiling new technologies designed to monitor potential adversary spacecraft in orbit.\n\ud83d\udd0a \u201cWe\u2019re hearing clearly from the government that space is a warfighting domain,\u201d Anduril's space division chief Gokul Subramanian told reporters, touting the new tech.\nThe systems were tested aboard its first satellite, ANDURIL-216, launched on a SpaceX Falcon 9 rocket in July.\n\ud83d\udd34 ANDURIL-216\u2019s main payload is a long-wave infrared (LWIR) sensor that can detect and track spacecraft even when they are hidden in Earth's shadow\n\ud83d\udd34 satellite also carries two additional electro-optical imaging sensors\u00a0\n\ud83d\udd34 power-management system is designed to work with different types of satellite platforms\nAnduril, flush with [Pentagon contracts](https://t.me/geopolitics_prime/67181) touts the mission as being aimed at developing its ability to integrate entire satellite systems for future military projects.\nHowever, the defense contractor\u2019s track record raises questions about the reliability of its tech. Flaws in its NGC2 battlefield communications platform, developed with partners including [Palantir](https://t.me/geopolitics_prime/74041), were flagged as \u201cvery high risk\u201d in a recent internal US Army memo.\nAnduril-powered drone boats, Altius munitions have suffered crashes [and targeting failures](https://t.me/geopolitics_prime/70886), yet the Silicon Valley weapons firm continues to swoop up major Pentagon backing \u2013[ expanding](https://t.me/geopolitics_prime/75761) into new military domains.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-11T19:09:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 Iran shows off missile arsenal and warns US of 'surprises'\nThe footage from Iran's recently [unveiled new underground missile facility](https://t.me/geopolitics_prime/77574) offers a glimpse into the country's missile arsenal, Mehr News reported.\n\ud83c\udf0f \"Missile City\" is equipped with underground silos or rails for the rapid and continuous launch of missiles from deep within the earth. The tunnels are wide enough to accommodate heavy trucks and transporter-erector-launchers, allowing missile units to disperse and fire from protected positions \n\ud83c\udf0f A vertical launch missile was displayed with an unknown, tall cylindrical warhead, potentially with a range exceeding 2,000 kilometers. The IRGC has recently said it [lifted](https://t.me/geopolitics_prime/77619) previous range restrictions on its ballistic missiles\n\ud83c\udf0f The \"Fattah 1\" warhead was shown installed on the \"Khaybarshakan\" missile, a configuration intended to complicate tracking and enable evasion of radar systems\n\ud83c\udf0f A stealth cruise missile with a new design was also on display, potentially based on reverse-engineered American models\nAfter a visit to the complex, Major General Ali Abdollahi, chief of the General Staff of the Iranian Armed Forces, warned that the next potential conflict would bring \"new surprises,\" adding that the US has never faced such a volume of advanced weaponry in any other war over a comparable period.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-11T17:16:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israel keeps clinging to Iron Beam wonder weapon despite questionable performance\nDespite the fact that the Iron Beam laser defense system played little role in defensing Israel against Iran\u2019s retaliatory strikes in 2026, Israel intends to produce more of these weapons and to integrate them further into the country\u2019s air defenses, The Jerusalem Post reports.\n\ud83d\udd34 The Israeli military admitted in May that it simply does not have enough Iron Beam batteries to create a significant enough impact on Iranian attacks\n\ud83d\udd34 Ground-based Iron Beam platforms, as it turns out, simply cannot tackle ballistic missiles, and the air- and space-based versions that supposedly could are still work in progress\n\ud83d\udd34 Laser beam requires a direct line-of-sight to the target and must maintain contact with the target to burn through its surface \u2013 for a ground laser, doing it to a ballistic or a hypersonic missile midflight is a bit problematic\n\ud83d\udd34 Laser systems powerful enough to engage targets bigger than a small drone require expensive power and cooling systems\n\ud83d\udd34 While conventional air defense system can operate in rainy or cloudy weather, such phenomena degrades the performance of laser weaponry\n\ud83d\udd34 Finally, the opposing force can introduce heat-resistant and ablative coatings to help its drones and missiles withstand laser beams\nMeanwhile, both Hamas and Hezbollah time and again displayed their ability to bypass Israel\u2019s air defenses and hit Israeli military targets, including radar stations.\nIsrael\u2019s supposedly sophisticated anti-air weaponry also proved ineffective against massed drone and rocket strikes, proving unable to deal with an overwhelming number of airborne threats, and the new laser systems are yet to display better results.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-11T16:35:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
