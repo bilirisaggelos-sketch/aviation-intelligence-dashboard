@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-12T11:21:28.402319+00:00",
+  "generated_at": "2026-11-12T19:03:44.335848+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nCeiba, PR, Saturday, November 14, 2026 Local\nFacility: ZSU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/12/2026",
+      "location": "ZSU PR",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMorgan Hill, CA, Friday, November 13, 2026 Local\nFacility: ZOA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/12/2026",
+      "location": "ZOA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNORTHWEST FIELD, GU, Friday, November 13, 2026 through Sunday, December 20, 2026 Local\nFacility: ZUA",
@@ -192,14 +230,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-      "text": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says\nWitnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "text": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat\nDan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-12T09:43:11+00:00",
+      "timestamp": "2026-11-12T13:02:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -207,6 +245,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "text": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says\nWitnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-12T16:54:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 Ballistic missile / AD exercises in Iran took place again",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T17:11:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Iran launched a large salvo of anti-ship missiles at U.S. Navy warships in the Arabian Sea",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T17:08:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Israel\u2019s Prime Minister, Benjamin Netanyahu, held a security consultation with the upcoming Prime Minister, Gadi Eisenkot, about Iran\nThe meeting lasted over 2 hours and just ended.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T17:07:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -307,70 +421,70 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf7\ud83c\uddfa/\ud83c\udde8\ud83c\uddf3 NEW: Iran now has more ballistic missiles in its inventory than Russia and China combined",
+      "publisher": "Clash Report",
+      "text": "NEW: Syria\u2019s Defense and Foreign Ministries said they had recovered an Ilyushin air force aircraft from Benina International Airport in Benghazi, after coordination with authorities in eastern Libya.\n[READ MORE](https://clashreport.com/defense/articles/syria-recovers-air-force-ilyushin-from-libya-s-benghazi-airport-f86zpau4iv6)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T13:46:26+00:00",
+      "timestamp": "2026-11-12T19:02:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Iran carries out ballistic missile and air defense exercises",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T13:44:51+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 Likely a stealth missile prototype",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-10T13:40:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky says Starshield, SpaceX\u2019s military satellite service, is again under a systematic 161 km/h speed cap, complicating the interception of Russian jet-powered drones.\n[READ MORE](https://clashreport.com/world/articles/zelensky-says-starshield-speed-cap-returns-hindering-interceptors-uwcs0fo6fv)",
+      "text": "WATCH: The moment Iranian missile was fired from beneath an enemy fighter jet, with one of the launchers being hit.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T10:05:12+00:00",
+      "timestamp": "2026-11-12T17:44:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian missile-launch commander:\nThey made a lot of efforts, but at most they could only drop a bomb right in front of a tunnel\u2019s entrance.\nNo damage was inflicted on either the tunnels or our missiles.\nAll intact, praise be to God, thank God.\n[READ MORE](https://clashreport.com/defense/articles/irgc-launch-commander-says-iran-s-missile-tunnels-remain-intact-x6x4f9i0np)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T17:38:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iranian missile-launch commander says Iran fired missiles from the \u201c80s and 90s\u201d while the Americans\u2019 failed missiles are from 2026.\n[READ MORE](https://clashreport.com/defense/articles/irgc-launch-commander-says-iran-s-missile-tunnels-remain-intact-x6x4f9i0np)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T17:34:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -422,6 +536,63 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces spokesperson Yahya Saree announced a series of military operations against Saudi targets, alongside reporting a new wave of Saudi airstrikes.\nSaudi Strikes: Saree stated that Saudi warplanes conducted 98 airstrikes over the past 24 hours, targeting civilian sites in Lahij, Taiz, Saada, Al-Jawf, and Marib. The strikes brought the total number of coalition raids since the escalation began to 4,863.\nYemeni Operations: In response, Saree detailed multiple attacks:\n\u2014 Six ballistic missiles struck Saudi troop concentrations overseen by officer Bader Al-Harbi at the Kharaz camp and Ras Al-Ara in Lahij, reportedly causing dozens of casualties.\n\u2014 A drone targeted pumping station 7 on the East-West pipeline, and a ballistic missile struck the Yanbu oil facility.\n\u2014 A drone hit a military cargo plane at Sharurah airport, while a ballistic missile targeted Khamis Mushait air base.\n\u2014 A drone successfully struck the Saudi Aramco facility in Riyadh.\nDenial: Saree also dismissed Saudi claims of intercepting missiles over Mecca, accusing Riyadh of fabricating narratives to cover up its failures in interception attempts.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T18:02:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddeb\ud83c\uddf7 \u2014 French Presidential Candidate Jean-Luc M\u00e9lenchon:\n\"We had warned them back in 2008 when they began saying they would bring Ukraine and Georgia into NATO. We told them: 'If you do that, you will have war.' And they got war. But we were no longer allowed to say that, because otherwise you become an agent of Putin.\"\n\u27a1\ufe0f On Russia and security guarantees: \"We demand the following guarantee: no intermediate-range missiles deployed on either side. Missiles with ranges between 500 and 5,000 kilometers would be aimed at us. Therefore, we do not want them, and we commit ourselves not to deploy any on our territory either.\" He added that Russia spans eleven time zones and has one of the world's most capable armies: \"These are not video games.\"\n\u27a1\ufe0f On selective outrage: \"When a certain Mr. Netanyahu enters Syrian territory, nobody has anything to say. When he occupies the Golan Heights, nobody has anything to say. When he invades southern Lebanon, nobody says anything. And when he shoots at everyone, nobody says anything.\"\n\u27a1\ufe0f On NATO and Germany: \"I do not agree with Germany's claim that it wants to have the largest conventional army in Europe. Because if it does, I ask the question: to wage war against whom?\" He noted NATO countries account for 80% of the world's military spending, stating: \"What is true is that we belong to a coalition that threatens everyone.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T17:43:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83d\udea8\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces Spokesperson Yahya Saree: \nThe Yemeni armed forces targeted a military cargo plane at Sharurah airport with a drone.\nThanks to God, the operation achieved its goal.\nMeanwhile, another operation was carried out targeting the Khamis Mushait airbase with a ballistic missile, and the hit was direct, thanks to God. \n\u2b50\ufe0f Follow",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-12T17:36:32+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 IRGC Commander-in-Chief Maj. Gen. Ahmad Vahidi issued a message marking National Aerospace Day, honoring Martyr Hassan Tehrani Moghaddam, the architect of Iran's missile program.\nVahidi credited Moghaddam with building Iran's first missiles with \"empty hands,\" noting that the force now builds its military power \"deep within the mountains and the earth.\" He emphasized that the IRGC's progress is guided by faith and the Guardianship of the Jurist, vowing that threats and sanctions will not stop their path.\nThe statement concluded by saluting Moghaddam alongside Martyrs Amir Ali Hajizadeh and Mahmoud Bagheri, assuring the troops that victory is theirs.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
@@ -466,63 +637,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-11T18:02:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 IRGC Spokesperson Hossein Mohebbi visited the home of Martyr Hassan Tehrani Moghaddam to promote a new three-volume book titled \"Immortal Man,\" which chronicles the life of the \"father of Iran's missile program.\"\nMohebbi said the book highlights Moghaddam's expertise, management skills, and moral character, noting he was known among colleagues as an \"unassuming mystic\" while leading the missile program.\nThe spokesman recommended the public read the book and join the ongoing reading campaign, inviting people to learn more about a figure he described as a true role model.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-11T17:57:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 \u2014 A human rights group has accused Israel of ignoring the deteriorating medical condition of detained Palestinian doctor and Gaza hospital director Hussam Abu Safiya, and of refusing to allow him to undergo an independent medical examination, according to Haaretz.\nA newly released medical report highlights severe weight loss and abnormal blood test results for Abu Safiya that were left uninvestigated, directly contradicting recent Israeli court findings that had cleared his medical care.\nThe findings raise fresh concerns over the treatment of Palestinian detainees as human rights advocates demand immediate, independent oversight of his health status.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-11T13:42:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 \u2014 Iran\u2019s SNSC Secretary, General Mohsen Rezaei:\nAny new US attack will be met with strikes against distant US military bases as well.\nEnding the war on all fronts across West Asia, particularly in Lebanon, is one of our key conditions.\nWe will not remove a single particle of enriched nuclear material from Iran.\nWe have informed our Russian friends that the enriched materials will remain in Iran and that we will use them ourselves.\nWe need enriched materials to design nuclear-powered ships and submarines.\nWe have reached an advanced level in electronic warfare that enables us to take control of US drones and bring them down.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-11T11:05:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -650,12 +764,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 \u2018They saw the consequences\u2019: Ghalibaf boasts US carriers pulled back because of Iran \n\ud83d\udcac \"Why have American aircraft carriers moved away from the operational area today? Because they saw the threat with their own eyes and experienced the consequences of our actions,\" Iran\u2019s Parliament Speaker Mohammad Bagher Ghalibaf said.\nHe also took aim at Washington's approach to the conflict, claiming that Trump's \"America First\" policy had effectively become what he called \"Israel First,\" with the US accepting Israeli intelligence and military plans that led to serious political, economic, and military repercussions.\n\ud83d\udc49 Turning to the Strait of Hormuz, Ghalibaf insisted the strategic waterway would never return to its pre-war conditions, noting that Iran and Oman had reached an agreement on maritime traffic. He stressed that Iran's seven conditions must be met before negotiations can advance and the strait can reopen, while dismissing US Secretary of State Marco Rubio's criticism of Tehran's demands.\nGhalibaf warned that Iran would neither accept an indefinite state of neither war nor peace nor allow itself to be drawn into a prolonged war of attrition.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude80 IRGC says sanctions can\u2019t stop missile production \u2013 Western intel confirms capacity intact, growing\n\u00a0\nIRGC chief Ahmad Vahidi has issued a message of defiance to Iran\u2019s enemies, warning that \u201cthe path of Martyr Hassan Tehrani Moqaddam [the late father of Iran\u2019s missile program, ed.] is one that cannot be halted by threats or sanctions.\u201d\n\ud83d\udd0a \u201cToday,\u201d the IRGC Aerospace Force is \u201cbuilding power in the heart of mountains and deep underground to make the country stronger,\u201d Vahidi said, referencing [growing firepower at Iran\u2019s underground \u2018missile cities\u2019](https://t.me/geopolitics_prime/77627) \u2013 which have [proven largely impregnable to US-Israeli strikes](https://t.me/geopolitics_prime/75210).\nSecretary of War Pete Hegseth maintains US strikes have crippled Iran\u2019s ability to produce missiles and that the country\u2019s defense industrial base is essentially \u201cgone.\u201d\nBut an unnamed Western official told Bloomberg this week that Western intelligence believes Iran possesses at least 1.7k ballistic missiles in its inventory, and is producing more at a rate of ~50 per month, about half of its prewar rate, after firing off ~2.2k since February. \nIran has not disclosed the number of missiles it has, or its capacity to produce new ones. However, Iranian political commentator Mohammad Marandi said recently that Iran had converted its industries to a wartime economy, and been replenishing its arsenal so quickly it\u2019s running out of places to store new weapons \u2013 directly countering US claims.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T09:46:01+00:00",
+      "timestamp": "2026-11-12T17:55:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -669,12 +783,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee2 Two oil supertankers hit by blasts in Strait of Hormuz after ignoring Iranian warnings \u2013 IRGC\nExplosions disabled a pair of supertankers carrying a combined total of more than 4 million barrels of crude oil as they attempted to cross the Strait of Hormuz via an unauthorized shipping route, Iran's Islamic Revolutionary Guard Corps (IRGC) announced.\nAccording to the IRGC, the incident occurred overnight after both vessels ignored repeated warnings from Iranian naval traffic controllers that the southern passage was unsafe.\nShipping through the Strait of Hormuz has been restricted since US-Israeli military hostilities against Iran erupted on February 28. Tehran has vowed to keep the restrictions in place until its conditions are met, including the lifting of the US blockade and sanctions.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, we\u2019ve been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow us to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T09:05:27+00:00",
+      "timestamp": "2026-11-12T16:32:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -688,12 +802,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddef\ud83c\uddf5 Japan\u2019s rearmament dreams crash into supply roadblocks\nTokyo is pushing ahead with plans to beef up its armed forces and sharpen its strike capabilities, an expansion that's raised eyebrows across the region over just how far its military ambitions will go. Yet the buildup faces serious obstacles, the SCMP reports:\n\ud83d\udd36 Japan has 118 outstanding orders for US military equipment to the tune of about $7.2 billion, some delayed by five years or more.\n\ud83d\udd36 Deliveries of up to 400 Tomahawk missiles could be pushed back as far as two years while the US replenishes its depleted stocks\n\ud83d\udd36 Spare-parts shortages have reportedly left only about 12 of Japan's roughly 40 Kawasaki P-1 patrol aircraft mission-ready\n\ud83d\udd36 F-35 deliveries are also behind schedule, with 34 of the 42 ordered jets still outstanding as of late March\nEven with these challenges, Tokyo is reworking its defense strategy \u2014 pursuing expanded counterstrike capabilities and closer military-industrial ties with Washington. This effort marks another step away from Japan's traditionally defensive posture.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udcb5 Pentagon Inc: Trump\u2019s Department of War taking control of private industry\nThe Department of War\u2019s growing number of investments, purchases and hostile takeovers of private companies threatens to \u201ctransform\u201d the agency from a \u201cpower unto itself within the government to something that transcends it \u2013 an independent economic behemoth\u201d rivalling the structure of some Middle Eastern militaries, a new report highlighted by The Intercept suggests.\nExploring this modern-day version of Oliver North\u2019s Iran-Contra era \u201cEnterprise,\u201d which endowed the stand-alone Reagan-era covert action cut out with immense, oversight-free economic power, Rebecca Gordon of TomDispatch argues that the modern Pentagon equivalent may be [much worse](https://t.me/geopolitics_prime/49581).\n\u00a0\nIn the past 22 months alone, the DoW has:\n\ud83d\udd34 been granted a 35% ownership stake in[ North American Blue Energy Partners (NABEP)](https://t.me/geopolitics_prime/76664), a new company given a 100-year concession to extract ~65B barrels of crude from Venezuela, plus exclusive rights to buy 20% of NABEP\u2019s output \u2018at cost\u2019, following January\u2019s soft coup\n\ud83d\udd34 invested heavily into rare earth minerals mining, processing and recycling, including Vulcan Elements ($620M loan, $50M equity stake), [MP Materials](https://t.me/geopolitics_prime/72006) ($400M for 15% stake), Korea Zinc ($1.9B, 40% ownership), ReElement ($80M for stock rights) and Trilogy Metals (equity stake for $35.6M)\n\ud83d\udd34 other industrial investments, including in steelmaker Hertha Metals ($65M + unknown number of shares), tungsten producer Elmet Group ($450M equity) and iron producer Hertha Metals ($65M equity)\n\ud83d\udd34 direct investments into defense contractors themselves, including a $1B equity deal with missile maker L3Harris, a 40% ownership stake in[ Anduril Industries\u2019 new sub shipyard](https://t.me/geopolitics_prime/75761), and a $450M loan to drone maker Neros Technologies in exchange for non-voting equity stake.\n\u00a0\n[The DoD\u2019s new policy](https://t.me/geopolitics_prime/74322) has been made possible by the Office of Strategic Capital, the Economic Defense Unit and the Office of Industrial Base Policy. These offices have major reported links to Trump donors and allies, including billionaire Stephen Feinberg (DoD undersecretary), and[ the Trump family itself](https://t.me/geopolitics_prime/70348) (which invested in Vulcan Elements and MP Materials before their Pentagon buy-ins, for example).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T07:43:14+00:00",
+      "timestamp": "2026-11-12T13:51:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -707,50 +821,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde8\ud83c\uddf3 China trains infantry to fight and survive in drone-dominated battlefield\nChina's infantry units are reworking their training, equipment, and tactics around the threat from drones after exercises exposed how vulnerable traditional camouflage has become, the South China Morning Post reports.\nThe army responded by writing new instructional manuals, building dedicated counter-drone training facilities including simulation rooms, and shifting the focus of exercises toward detecting and disrupting hostile drones with specialized weapons and coordinated infantry responses. Officers are now required to demonstrate proficiency with counter-drone equipment and tactics, not just conventional infantry skills.\nThe shift is visible across much of the force:\n\ud83c\udf0f A 71st Group Army brigade ordered compulsory training on concealing heat sources and lights at night, including covering the hot parts of rocket launchers\n\ud83c\udf0f A 72nd Group Army amphibious armored company worked with multiple manufacturers to improve its use of uncrewed systems and counter-drone equipment\n\ud83c\udf0f Troops from the 78th Group Army trained to evade reconnaissance drones\n\ud83c\udf0f 81st Group Army reconnaissance units used insulating blankets, damp soil, and turf to reduce the heat signatures that give away their positions\nChinese manufacturers have produced handheld and vehicle-mounted counter-drone systems and detection equipment, while individual formations experiment with their own solutions, including protective cages fitted to armored vehicles.\nRecent conflicts in the Middle East and Ukraine have highlighted the dominance of drones across battlefields, raising the need to adapt troops to the new rules of modern warfare.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udcb5 Argentina threatens British oil executive with jail over disputed Falklands drilling\nBuenos Aires has warned Rockhopper Exploration CEO Sam Moody and the company's CFO that they could face [criminal prosecution](https://t.me/geopolitics_prime/77605), imprisonment, and fines over the Sea Lion offshore oil project near the Malvinas Islands, which Britain calls the Falklands, The Guardian reports.\nArgentina is seeking an international tribunal order to halt the project, developed by British and Israeli companies, arguing that unilateral oil exploitation violates its rights amid the unresolved sovereignty dispute.\nBuenos Aires has also banned Israeli partner Navitas from operating in Argentina for 20 years, while US oilfield services giant Halliburton has withdrawn from the project following discussions with Argentine authorities.\nThe International Tribunal for the Law of the Sea is expected to rule on November 28.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T06:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb5 Gulf economies face nearly $1 trillion price tag from US war on Iran\nThe US-Israeli war targeting Iran turned into a[ costly gamble ](https://t.me/geopolitics_prime/77198)on many fronts.\nIt has already cost Persian Gulf economies more than $200 billion in physical destruction - especially in energy infrastructure, according to a report by insurance firm Allianz Trade.\nBy 2030, the fallout threatens to wipe out an estimated $790 billion in expected economic growth.\nThe report notes that:\n\ud83d\udd34 over 80 energy facilities have been hit in retaliatory Iranian strikes on US assets across the Gulf, primarily in Kuwait, Qatar and Bahrain; around a third suffered heavy damage; airports, seaports and tourist landmarks were also affected\n\ud83d\udd34 Gulf economies could lose the equivalent of 5.9% of their combined GDP over 2026\u20132030 compared with pre-war forecasts\n\ud83d\udd34 damage is expected to weigh on tourism and real estate\n\ud83d\udd34 governments are likely to redirect around $120 billion from sovereign wealth funds into domestic investment to support recovery - slashing capital for overseas investments\n\ud83d\udd34 surplus income from trade and foreign holdings could plummet by half\n\ud83d\udd34 spending priorities are shifting from ambitious mega-projects toward infrastructure, defense and economic resilience\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T05:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddea\ud83c\uddfa\ud83d\udee2\ud83d\udcc9 How Europeans Will Pay for US-Israel War on Iran\nEurope is approaching winter with depleted gas reserves and prices near three times their February level, leaving households and factories exposed if temperatures plunge. The US-Israeli war against Iran has disrupted supplies just as the continent needs enough fuel to cover its peak heating demand.\nThe European gas benchmark crossed \u20ac100 per megawatt-hour on October 28 for the first time since 2022. EU storage was only 75% full on October 21, according to EU energy regulator ACER, leaving a much thinner cushion against cold weather and interruptions to imports.\nEurope\u2019s growing reliance on liquefied natural gas, cooled for transport by ship, makes a cold spell in Asia a European problem too. Buyers compete for available cargoes, so higher Asian demand can push up the price Europe must pay even when its own weather stays mild.\nACER says no significant volumes of Qatari liquefied gas reached the EU over the summer. US supplies now account for roughly 30% of the bloc\u2019s total gas supply, as Qatari and Russian deliveries have fallen. Reducing dependence on Russia has left Europe more exposed to American exports and competition in global shipping markets.\nThe cost reaches well beyond heating bills. European Commission President Ursula von der Leyen says the closure of the Strait of Hormuz has added \u20ac127B to Europe\u2019s fossil fuel import bill without buying any additional energy. Governments already carrying heavy debts face pressure to subsidize consumers while businesses absorb higher operating costs.\nBloomberg describes a 182-year-old German porcelain factory preparing to shut its kilns and Polish fertilizer producers seeking government intervention. For industries that need large amounts of heat or gas, prolonged high prices can turn a temporary production cut into a permanent closure.\nForecasts of a broadly mild winter offer some relief, but an average seasonal temperature cannot rule out damaging cold spells. A burst of heating demand would drain storage faster; simultaneous cold in Asia would make replacement cargoes more expensive.\nEurope is paying for a war launched by its own allies. Subsidies can spread the bill, but they cannot replace missing gas. A severe winter would force European governments to spend more protecting households from the fallout while manufacturers face deeper cuts, closures and lost competitiveness.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T01:45:40+00:00",
+      "timestamp": "2026-11-12T12:41:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
