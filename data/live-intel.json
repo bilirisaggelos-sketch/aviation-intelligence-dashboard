@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T00:30:14.959526+00:00",
+  "generated_at": "2026-11-13T07:12:08.249933+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -136,6 +136,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3774\r\nIssue Time: 2026 Nov 13 0505 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3773\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 3235 pfu\nMax time: 2026 Nov 12 1515 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-13 05:05:40.730",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3773\r\nIssue Time: 2026 Nov 12 0633 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3772\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 7897 pfu\nMax time: 2026 Nov 11 1555 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -211,25 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5452\r\nIssue Time: 2026 Nov 09 1755 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5451\nValid From: 2026 Nov 09 0556 UTC\nNow Valid Until: 2026 Nov 10 0600 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-09 17:55:46.807",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
       "text": "Russian warship hit by Ukrainian drone in Gulf of Finland\nThe attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
       "source": "BBC",
@@ -260,13 +260,31 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "Clash Report"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\udde7\ud83c\udded NEW: The IRGC announces it targeted and destroyed a U.S. radar in Bahrain with suicide drones, in response to the strikes on Sirik last night",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-13T07:08:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -385,32 +403,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "An Israeli air strike on Nasser hospital in southern Gaza killed six Palestinians and injured around 30, according to Gaza\u2019s health ministry. \nAmong those killed were patients and medical staff, including surgeon Dr Rizq Abu Shaira. \nThe hospital's director said two missiles struck the surgical building, but only one exploded, and denied receiving any advance warning.",
+      "text": "Ukrainian drones struck a major Lukoil oil refinery in Volgograd and a production facility in Rostov-on-Don overnight, triggering fires and explosions.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T21:20:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Q: The Muslim Brotherhood wouldn't hesitate to blow up the world.\nTrump: That's why we fight so hard. It's not stopping at Israel. It's going to stop at San Diego and Los Angeles.\nThey have a missile that can reach Europe. If we go further, they won't have that missile.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T21:11:54+00:00",
+      "timestamp": "2026-11-13T07:00:57+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Additional footage of the site of the drone attack.",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Colombian Air Force Super Tucano aircraft are currently conducting overflights in the area of El Socorro, Tib\u00fa, following the drone attack that killed three soldiers and wounded three others.\nHelicopters are also attempting to evacuate the wounded from the area.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T06:52:22+00:00",
+      "timestamp": "2026-11-13T03:44:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -557,69 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddf4\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfa [FT](https://www.ft.com/content/68c11e35-8347-4ceb-812a-d3f195978249?syn-25a6b1a6=1): Romanian President Nicu\u0219or Dan has offered to pay the United States to maintain and expand its military presence in Romania, proposing cost-sharing arrangements as Russian drone incursions and attacks on commercial shipping raise security concerns in the Black Sea region.\nThe U.S. currently has 1,172 troops stationed in the country, down from 1,700. Bucharest is considering an offer similar to Poland's proposal to pay for a permanent U.S. military base and provide annual payments for each American soldier stationed there.",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 GRAPHIC: Three Colombian Army soldiers were killed and two others wounded in a drone attack targeting troops from the 10th Ground Operations Battalion in Campo Dos, Tib\u00fa, Norte de Santander Department.\nThe troops were attacked with seven grenades dropped by drones in the Barco La Silla sector. A non-commissioned officer and another soldier were also wounded.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T06:52:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 A Russian Geran drone struck a a nine-story building in Kyiv, triggering a fire that spread from the third to the sixth floor.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T06:51:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\ud83c\uddf7\ud83c\uddf4\ud83c\udde7\ud83c\uddec\ud83c\uddfa\ud83c\uddf8 [WSJ](https://www.wsj.com/world/this-shipping-lane-is-now-the-worlds-deadliest-it-isnt-hormuz-c3acdcaa): The Black Sea has become the world's deadliest maritime corridor this year, with more than 300 attacks on commercial vessels killing over 30 seafarers and leaving more than 20 missing, according to maritime security data and shipping industry figures.\nRussian forces have targeted commercial ships carrying Ukrainian food exports, while Ukraine has attacked Russian shipping with drones. Recent strikes have also spread to waters near Romania and Bulgaria, both NATO members, raising concerns about the alliance's eastern flank. Some European leaders have linked the attacks to Russia, which denies involvement.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T06:51:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Explosive-laden drones have targeted toll facilities along the Pan-American Highway, in the municipality of Santander de Quilichao, Cauca Department, Colombia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T03:49:40+00:00",
+      "timestamp": "2026-11-13T03:42:33+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -633,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8 Europe\u2019s independent space-based reconnaissance capabilities \u2018almost zero\u2019 without US\n\u00a0\nEuropean countries are reportedly in no condition to do deep-strike targeting without US assistance.\n\ud83d\udd0a \u201cIf we look at the space capabilities of the Europeans in terms of [Intelligence, Surveillance, and Reconnaissance, they are] not a whole lot \u2013 actually, almost zero without the US,\u201d an anonymous European NATO commander told The Times on Thursday.\nUS space assets provide some ~85% of NATO\u2019s centralized military intelligence reports, leaving European militaries essentially blind if Washington were to restrict access, the newspaper reported.\nIndividual countries like France, Germany and Italy operate their own satellites, but don\u2019t have the global scale, refresh rate or real-time presence that the US enjoys to sustain targeting. Furthermore, a March 2026 IISS report found that Europe\u2019s militaries are hopelessly dependent on US infrastructure for other things, like missile early warning, heavy-lift launches and satellite tracking.\nEurope hopes to close the gap using a number of measures, including:\n\ud83d\udd34 shaking up the European Space Agency\u2019s peaceful mandate to include defense objectives, including a ~$1.5B commitment for \u201cnon-aggressive\u201d security and dual-use capabilities, like high-res Earth observation, satellite surveillance, secure communications\n\ud83d\udd34 national investments, with Germany greenlighting ~$1.9B for a new 40-unit satellite synthetic aperture radar constellation called Spock-1, and talking to Norway about new potential ISR capabilities\n\ud83d\udd34 purchases of SAR capabilities from [Iceye](https://t.me/geopolitics_prime/76506), a private Finnish satellite operator\nEurope\u2019s search for independent satellite intelligence capabilities come in the wake of the US\u2019s temporary halting of[ intel transfers](https://t.me/geopolitics_prime/73284) to Kiev amid the Ukraine war to try to force it to the negotiating table.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf8\ud83c\udde9Sudan and Ethiopia edge closer to direct military clash, threatening new Red Sea crisis\nAt least 65 people, including 27 civilians, have been killed in recent clashes in Ethiopia's Assosa Zone, in the Benishangul-Gumuz region near the Sudanese border, France24 reports.\nEthiopian authorities blamed the Oromo Liberation Army, part of the rebel coalition known as [the Alliance for Survival](https://t.me/geopolitics_prime/74900), for the violence, but the group denied the allegations. The Alliance for Survival has been fighting the Ethiopian federal government since September, seeking regime change.\nOn October 22, Benishangul-Gumuz Regional State Police launched an operation against what they called \"Army 13,\" which they accused of operating in the region under \"the destructive agenda of the Tigray People's Liberation Front (TPLF), with support from [Sudan, Egypt, and Eritrea\"](https://t.me/geopolitics_prime/75863). The authorities based these allegations on statements by captured fighters, which could not be independently verified. Ethiopia's neighbors have repeatedly denied supporting the rebels.\nThe Sudanese-Ethiopian standoff\n\ud83d\udc49 Meanwhile, in late October, Sudan accused Ethiopia of involvement in a massive wave of drone attacks targeting civilian sites, fuel depots, and power infrastructure across several states amid the civil war that has engulfed Sudan since 2023.\nMore than 13 electricity distribution stations across Gedaref, Khartoum, Al Jazirah, the Red Sea, Sennar, the White Nile, and South Kordofan states were severely damaged, triggering widespread power outages in several cities.\nAccording to Sudanese authorities, the attacks were launched from Ethiopian territory, including Bahir Dar Airport in the Amhara Region and Assosa Airport in Benishangul-Gumuz. They documented 70 attacks between February 15 and October 27, involving 187 one-way attack drones and 82 munitions dropped from drones.\n\ud83d\udcccIn recent months, the Sudanese Armed Forces (SAF) have conducted a series of airstrikes targeting rival Rapid Support Forces (RSF) units along the southeastern border with Ethiopia and the western border with Chad.\nAdditionally, OSINT accounts on X circulated video footage on November 11 that appeared to show riot police from Ethiopia's Benishangul-Gumuz region operating alongside the RSF.\u00a0\nObservers warn that the civil wars in Sudan and Ethiopia risk drawing in other countries across the region. The involvement of other East and Central African countries in the conflict carries serious risks, including further destabilization of the already volatile [Red Sea region](https://t.me/geopolitics_prime/75528), refugee crisis, famine, and wider spillover beyond the continent.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T19:17:01+00:00",
+      "timestamp": "2026-11-13T06:46:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -652,50 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude80 IRGC says sanctions can\u2019t stop missile production \u2013 Western intel confirms capacity intact, growing\n\u00a0\nIRGC chief Ahmad Vahidi has issued a message of defiance to Iran\u2019s enemies, warning that \u201cthe path of Martyr Hassan Tehrani Moqaddam [the late father of Iran\u2019s missile program, ed.] is one that cannot be halted by threats or sanctions.\u201d\n\ud83d\udd0a \u201cToday,\u201d the IRGC Aerospace Force is \u201cbuilding power in the heart of mountains and deep underground to make the country stronger,\u201d Vahidi said, referencing [growing firepower at Iran\u2019s underground \u2018missile cities\u2019](https://t.me/geopolitics_prime/77627) \u2013 which have [proven largely impregnable to US-Israeli strikes](https://t.me/geopolitics_prime/75210).\nSecretary of War Pete Hegseth maintains US strikes have crippled Iran\u2019s ability to produce missiles and that the country\u2019s defense industrial base is essentially \u201cgone.\u201d\nBut an unnamed Western official told Bloomberg this week that Western intelligence believes Iran possesses at least 1.7k ballistic missiles in its inventory, and is producing more at a rate of ~50 per month, about half of its prewar rate, after firing off ~2.2k since February. \nIran has not disclosed the number of missiles it has, or its capacity to produce new ones. However, Iranian political commentator Mohammad Marandi said recently that Iran had converted its industries to a wartime economy, and been replenishing its arsenal so quickly it\u2019s running out of places to store new weapons \u2013 directly countering US claims.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israel\u2019s \u2018duty of restraint\u2019 clause could curb caretaker government\u2019s war powers: Will Netanyahu defy it?\n\u00a0\nIn 2001, Israel\u2019s Supreme Court established that caretaker governments with diminished democratic legitimacy have a \u201cduty of restraint\u201d when it comes to decisions that could have a long-term impact on the [incoming administration.](https://t.me/geopolitics_prime/77582)\nThat theoretically includes large-scale wars of choice \u2013 offensive action that isn\u2019t about thwarting an imminent threat.\nIn practice, the Supreme Court has never found the wherewithal to constrain a caretaker administration from launching a war. In 2008, caretaker PM Ehud Olmert launched [strikes into Gaza](https://t.me/geopolitics_prime/54297) months after announcing plans to resign. In 2021 and 2022, caretaker Netanyahu and Lapid governments did the same.\nUp to now, the Court\u2019s deference on national defense and intelligence issues (but notably, not peace negotiations), and lack of legal distinction between regular and caretaker governments\u2019 war-making powers in the Basic Law, have allowed caretaker prime ministers to act as they see fit.\nIran may be a different story. Unlike Gaza, Lebanon and Syria, which have limited counterstrike capabilities, [Iran has demonstrated](https://t.me/geopolitics_prime/72770) its ability and readiness to hit back at Israel directly using long-range missiles, and put pressure on the Israeli economy and security with the help of regional allies.\nRenewed war with Iran would risk mass civilian casualties, severe infrastructure and economic damage, and a [security quagmire](https://t.me/geopolitics_prime/77603) an incoming administration might find it hard to extricate itself from, especially amid reports of waning appetites in Washington regarding new Iran strikes.\nBesides the Court, Israel\u2019s Attorney General has the power to advise the security cabinet against offensive action if immediate urgency is not proven, with prospects of success increasing if the IDF and the intelligence community agree.\nHowever, with Netanyahu facing potential prosecution and imprisonment on [corruption charges](https://t.me/geopolitics_prime/71440), and accused repeatedly in the past of launching wars to hang on to power, it\u2019s far from certain that any legal restrictions will constrain him, even on Iran.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T17:55:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, we\u2019ve been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow us to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T16:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udcb5 Pentagon Inc: Trump\u2019s Department of War taking control of private industry\nThe Department of War\u2019s growing number of investments, purchases and hostile takeovers of private companies threatens to \u201ctransform\u201d the agency from a \u201cpower unto itself within the government to something that transcends it \u2013 an independent economic behemoth\u201d rivalling the structure of some Middle Eastern militaries, a new report highlighted by The Intercept suggests.\nExploring this modern-day version of Oliver North\u2019s Iran-Contra era \u201cEnterprise,\u201d which endowed the stand-alone Reagan-era covert action cut out with immense, oversight-free economic power, Rebecca Gordon of TomDispatch argues that the modern Pentagon equivalent may be [much worse](https://t.me/geopolitics_prime/49581).\n\u00a0\nIn the past 22 months alone, the DoW has:\n\ud83d\udd34 been granted a 35% ownership stake in[ North American Blue Energy Partners (NABEP)](https://t.me/geopolitics_prime/76664), a new company given a 100-year concession to extract ~65B barrels of crude from Venezuela, plus exclusive rights to buy 20% of NABEP\u2019s output \u2018at cost\u2019, following January\u2019s soft coup\n\ud83d\udd34 invested heavily into rare earth minerals mining, processing and recycling, including Vulcan Elements ($620M loan, $50M equity stake), [MP Materials](https://t.me/geopolitics_prime/72006) ($400M for 15% stake), Korea Zinc ($1.9B, 40% ownership), ReElement ($80M for stock rights) and Trilogy Metals (equity stake for $35.6M)\n\ud83d\udd34 other industrial investments, including in steelmaker Hertha Metals ($65M + unknown number of shares), tungsten producer Elmet Group ($450M equity) and iron producer Hertha Metals ($65M equity)\n\ud83d\udd34 direct investments into defense contractors themselves, including a $1B equity deal with missile maker L3Harris, a 40% ownership stake in[ Anduril Industries\u2019 new sub shipyard](https://t.me/geopolitics_prime/75761), and a $450M loan to drone maker Neros Technologies in exchange for non-voting equity stake.\n\u00a0\n[The DoD\u2019s new policy](https://t.me/geopolitics_prime/74322) has been made possible by the Office of Strategic Capital, the Economic Defense Unit and the Office of Industrial Base Policy. These offices have major reported links to Trump donors and allies, including billionaire Stephen Feinberg (DoD undersecretary), and[ the Trump family itself](https://t.me/geopolitics_prime/70348) (which invested in Vulcan Elements and MP Materials before their Pentagon buy-ins, for example).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T13:51:01+00:00",
+      "timestamp": "2026-11-13T06:05:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
