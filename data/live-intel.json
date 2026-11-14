@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-14T01:51:31.559489+00:00",
+  "generated_at": "2026-11-14T08:50:26.366921+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nPeoria, IL\nFacility: ZAU",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/13/2026",
-      "location": "ZAU IL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nSANTA ROSA ISLAND, FL, Wednesday, November 18, 2026 through Friday, November 20, 2026 Local\nFacility: ZJX",
@@ -136,6 +117,25 @@
     },
     {
       "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3775\r\nIssue Time: 2026 Nov 14 0503 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3774\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 5223 pfu\nMax time: 2026 Nov 13 1700 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-14 05:03:51.727",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3774\r\nIssue Time: 2026 Nov 13 0505 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3773\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 3235 pfu\nMax time: 2026 Nov 12 1515 UTC",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -211,25 +211,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5453\r\nIssue Time: 2026 Nov 10 0302 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5452\nValid From: 2026 Nov 09 0556 UTC\nNow Valid Until: 2026 Nov 10 1200 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-10 03:02:27.917",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Setback for SpaceX Starship rocket's double-catch test",
       "text": "Setback for SpaceX Starship rocket's double-catch test\nElon Musk\u2019s company aborted an attempted catch of the rocket\u2019s booster - instead it came down in the ocean.",
       "source": "BBC",
@@ -238,6 +219,25 @@
       "severity": "info",
       "icon": "\ud83d\udcf0",
       "timestamp": "2026-11-14T00:01:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "text": "'We'll get home one day' - US travellers impacted by nationwide ground stop\nPassengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as \u201csafety and communication issues\u201d.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-14T01:47:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -308,12 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Transportation Secretary Sean Duffy:\nWe've opened up the airspace. Does that mean every flight is going to fly right now? It's going to be slow.\nIt's going to take us some time to unwind what's happened this afternoon.",
+      "text": "Transportation Secretary Sean Duffy:\nI appreciate President Trump's leadership. He loves aviation. He loves the airspace.\nHe understands it very well.\n[READ MORE](https://clashreport.com/world/articles/faa-orders-nationwide-ground-stop-citing-extraordinary-circumstances-rj94ktbb7uf)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T01:45:53+00:00",
+      "timestamp": "2026-11-14T02:01:45+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -402,25 +402,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf2\ud83c\uddfe\ud83c\uddf9\ud83c\uddf7 Malaysia has chosen Turkey as its main supplier of anti-ship missiles to replace outdated missiles on Navy coast guard vessels, after Norway refused to grant an export licence for Kongsberg's Naval Strike Missile.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-13T22:50:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 After nearly 4 hours, the grounding of all flights has been lifted. Limited flights are being permitted to takeoff as systems come back online.\n\u2022 Roughly 7,000 flights were cancelled\n\u2022 Over 10,000 flights delayed\nAs of current; the following systems are still offline or experiencing mass outages in the U.S:\n\u2022 Amtrak\u2019s proprietary \u2018Trains & Planes\u2019 app\n\u2022 The FAA\u2019s radar network\n\u2022 The FAA\u2019s standard radio communications systems (currently experiencing blackouts or brownouts still, some flights may be using emergency channels)\n\u2022 Everything from Microsoft including but not limited to: Outlook (emails), proprietary Microsoft systems, and Xbox Live (obviously the most important thing from Microsoft, duh)",
       "source": "Telegram",
@@ -479,12 +460,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Colombian Air Force Super Tucano aircraft are currently conducting overflights in the area of El Socorro, Tib\u00fa, following the drone attack that killed three soldiers and wounded three others.\nHelicopters are also attempting to evacuate the wounded from the area.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8 Sky News: A US Air Force spokesperson said security forces personnel responded to suspected unauthorized drone activity over RAF Lakenheath in Suffolk, with no personnel, aircraft, or infrastructure affected. \nThe statement said they are working closely with UK counterparts to ensure the safety of service members, civilians, contractors, and families, and the report noted that nearby RAF Mildenhall was also evacuated by the US after a threat from Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-13T03:44:02+00:00",
+      "timestamp": "2026-11-14T03:17:32+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -498,12 +479,50 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 GRAPHIC: Three Colombian Army soldiers were killed and two others wounded in a drone attack targeting troops from the 10th Ground Operations Battalion in Campo Dos, Tib\u00fa, Norte de Santander Department.\nThe troops were attacked with seven grenades dropped by drones in the Barco La Silla sector. A non-commissioned officer and another soldier were also wounded.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The PLC managed to shoot down a Houthi drone northwest of the Marib Governorate a few minutes ago.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-13T03:42:33+00:00",
+      "timestamp": "2026-11-14T03:16:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 The Iranian Army claims its navy shot down a U.S. MQ-1 drone near Kohstak, off the coast of Sirik in southern Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T03:13:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Security forces at Royal Air Force Base Lakenheath in eastern England responded to suspected unauthorized drone activity, but no personnel, aircraft or infrastructure were affected, the US Air Force in Europe said in a statement.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T03:09:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,69 +536,69 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83e\ude96 Why the barefoot Houthis are a formidable force the world can no longer ignore\n\u00a0\nAnsar Allah has announced fresh attacks on Saudi oil facilities, its international airport, and pro-Saudi forces and command centers in Yemen, while continuing[ its siege of Taiz.](https://t.me/geopolitics_prime/77545)\n\u00a0\nThe Houthis continue their operations despite pressure from Saudi-led coalition forces, raising questions about the sources of their resilience and staying power.\n\u00a0\nPartisans of God's legitimacy\n\u00a0\nThe Ansar Allah movement emerged from Yemen\u2019s Zaydi Shia community in Saada governorate. Its origins are commonly traced to the founding of the Believing Youth movement in 1992, led by Zaydi cleric Sayyid Hussein Badr al-Din al-Houthi. The title \u201cSayyid\u201d denotes descent from the Prophet Muhammad. Zaydism holds that legitimate imams must descend from the Prophet through his daughter Fatima and Ali and meet specific religious and personal qualifications.\n\u00a0\nAn estimated 35% to 45% of Yemen\u2019s population is Zaydi. Furthermore, the Zaydi Imamate ruled northern Yemen for nearly a thousand years before being overthrown in 1962. This makes the Houthis presently led by Sayyid Abdul-Malik al-Houthi not simply a militant group, as some Western media portray them, but a movement with religious legitimacy in the eyes of its supporters.\n\u00a0\nBeyond its religious foundations, the movement\u2019s core ideology centers on national liberation from US, Israeli, and Saudi domination.\n\u00a0\nAl-Houthi vs. Ali Saleh\n\u00a0\nHussein al-Houthi's confrontation with Ali Abdullah Saleh's government escalated in the early 2000s over Saleh's close ties with the US and Saudi Arabia, particularly his support for Washington's \"war on terror.\" In June 2004, government forces launched a campaign to arrest al-Houthi, triggering the first Saada war. They killed him in September 2004 after months of fighting.\n\u00a0\nThat didn't stop the movement. Saleh\u2019s forces fought five more bloody wars against the Houthis from 2005 to 2010, only to see the movement grow from 200 to between 2,000 and 10,000 fighters. In 2014, the Houthis seized the Yemeni capital of Sanaa. By 2024, they had reportedly recruited 350,000 fighters.\n\u00a0\nHouthi military arsenals\n\u00a0\nOver the years, Ansar Allah has not only amassed substantial military stockpiles but also developed domestic production of drones and missiles between 2018 and 2025, according to research by the US-based Century Foundation (TCF). Since 2015, the Houthis have deployed ballistic and cruise missiles, rockets, air-defense systems, aerial and maritime drones to strike targets up to 2,600 km from their territory, as well as a [vast variety of explosives.](https://t.me/geopolitics_prime/75587)\n\u00a0\nSince 2015, a single demining group has cleared 460,000 landmines, IEDs and unexploded ordnance belonging to the group across Yemen, while maritime forces have intercepted up to 50,000 weapons and over 2 million rounds of ammunition bound for the Houthis. These figures are believed to represent only a fraction of the group\u2019s arsenal.\n\u00a0\nThe group maintains a sophisticated network of [supply channels spanning the Middle East, Africa, Asia and Europe. ](https://t.me/geopolitics_prime/75872)This suggests it is not solely dependent on Iran for weapons and supplies but has developed its own procurement networks and regional ambitions.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T05:45:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian Geran drones hit area of Ukraine's thermal power plants\nBalakleya in the Kharkov region was hit, and explosions were also reported near the Ladyzhyn thermal power plant in the Vinnitsa region.\nEmergency power outages have been introduced in several districts of the Dnepropetrovsk region, the local energy company said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T05:02:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "This is an emergency \u2014 Transportation Secretary blames legacy hardware for FAA flight stoppage\n\ud83d\udde3\u201cWhat went down was old \u2014 it was old legacy equipment, and it failed,\u201d Transportation Secretary Sean Duffy explained.\nHe added that the situation constituted an emergency and requested $50 billion in emergency funding to replace the network.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T03:27:22+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "All flights grounded following US Air Route Traffic Control Centers communications issues \n\ud83d\udcac \u201cThere has been a temporary telecommunications outage - out of an abundance of caution all flights have been halted. Every flight has been accounted for and international flights will be handled on a case by case basis,\u201d the Federal Aviation Administration announced on X. \nOver 3,300 flights have been canceled and approximately 10,000 delayed, with disruptions expected to continue into the weekend.\nThis is the second time all US Air Route Traffic Control Centers, responsible for guiding aircraft, have been grounded since 9/11. \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-14T00:21:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddea\u2694\ufe0f Houthis launch surprise blitz offensive along key coastal highway, seize areas just 80km west of Aden\n\u00a0\nYemen\u2019s Ansar Allah-aligned Armed Forces have advanced 65km+ along the strategic Aden-Hodeidah Coastal Road in Lahij governorate over the past 24 hours, liberating the towns of Dar Am Umayrah and Khour al-Umayrah, and trapping enemy fighters in the areas of Al Suqayyah and Ras al-Arah, giving them the option to surrender or withdraw without their weapons.\nOSINT reporting also indicates an advance on Ghayl al-Barir, Huwayrib and the Kharaz military camp, with Ansar Allah looking poised to pocket enemy forces to the west in areas including Ash Shuqayrah.\nSaudi jets have sought to stem the offensive by launching dozens of airstrikes.\n\ud83d\udc49 Houthi politburo member Mohammad al-Farah said the advance in Lahij has caused disarray among enemy forces. Reports suggest one local commander abandoned the front and retreated, and that Mahmoud al-Subaihi, a senior member of the Saudi-backed Presidential Leadership Council (PLC), has left Aden for Riyadh.\nThe coastal advance has driven enemy forces further from Bab al-Mandab, which they previously vowed to retake, and threatens to become the biggest rout for Aden government troops since the Houthis\u2019 surprise offensive on [Mokha](https://t.me/geopolitics_prime/74962) and the southern Red Sea coast in September, and [the encirclement of the strategic city of Taiz](https://t.me/geopolitics_prime/77545) several weeks later.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-13T19:04:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u2757\ufe0f Rights groups urge Congress to hold Hegseth accountable for Yemeni civilian casualties\nTwelve US, British and Yemeni rights and civilian protection nonprofits have signed a joint appeal expressing \u201calarm at the extent of US-caused civilian deaths and injuries in Yemen during last year\u2019s bombing campaign,\u201d and calling for \u201crigorous congressional oversight\u201d to bring the DoD to account.\nCiting the military\u2019s own estimates on civilian casualties during Operation Rough Rider, including nearly 400 deaths and injuries across just three attacks on Sanaa, Ras Isa and Saada in April 2025, the appeal pointed out that a year-and-a-half later, 15 additional incidents officially remain[ \u201cunder assessment.\u201d](https://t.me/geopolitics_prime/60400)\n\ud83d\udd0a \u201cThe Department\u2019s failure to reckon with and learn from the harms of Operation Rough Rider may be seen in their actions in the opening days of the war between the US, Israel, and Iran, in which the United States and Israel reportedly killed and injured thousands of civilians \u2013 including over 100 children in[ a school in Minab](https://t.me/geopolitics_prime/77588),\u201d the letter said.\nThe groups urged lawmakers to review the DoD\u2019s conclusions that formal apologies and compensation for civilian deaths were not warranted.\nThe appeal was signed by major US-based organizations like Amnesty and Human Rights Watch, as well as Mwatana for Human Rights, a Saana-based war monitoring group.\n\ud83d\udc49 This week, Secretary Hegseth narrowly survived[ a resolution](https://t.me/geopolitics_prime/77597) by outgoing Rep. Thomas Massie to have him impeached on abuse of power, high crimes and misdemeanors charges over Iran, the \u201cunlawful war in Yemen,\u201d extrajudicial killings in the Caribbean, and the kidnapping of Venezuela\u2019s president.\nRough Rider was the Trump administration\u2019s attempt to make up for President Biden\u2019s failed bombing operation against Yemen. Both intended to degrade Ansar Allah\u2019s ability to enforce its blockade of the Red Sea, and launch missile and drone attacks into Israel in solidarity with Gaza. Neither succeeded.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-13T17:42:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2622\ufe0f Nuclear explosion in space could disable 98% of satellites within days\nResearchers from the University of Wisconsin\u2013Madison and Princeton University modeled the consequences of a hypothetical 1-megaton nuclear explosion at an altitude of 500 km above Earth. Their simulation found that the resulting radiation belt could disable around 98% of satellites in low Earth orbit within a week, with damaging effects potentially lasting for years.\nThe findings come amid growing geopolitical tensions over the militarization of space. Russia and Belarus have jointly opposed the deployment of weapons of any kind in orbit and attempts to use space for military confrontation, including through US President Donald Trump's proposed Golden Dome missile defense system, which envisages space-based interceptors.\nThe study highlights the potential consequences of nuclear escalation in orbit, where a single detonation could threaten civilian, commercial, and military satellite infrastructure worldwide.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-13T16:19:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
