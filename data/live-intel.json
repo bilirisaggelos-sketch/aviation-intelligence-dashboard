@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T20:08:25.781044+00:00",
+  "generated_at": "2026-11-14T23:57:16.541935+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -97,6 +97,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTTP2\r",
+      "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1534\r\nIssue Time: 2026 Nov 14 2249 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Nov 14 2127 UTC\nEstimate Velocity: 1972 km/s\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-14 22:49:43.693",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTTP4\r",
+      "text": "Space Weather Message Code: ALTTP4\r\nSerial Number: 720\r\nIssue Time: 2026 Nov 14 2249 UTC\r\n\r\nALERT: Type IV Radio Emission \nBegin Time: 2026 Nov 14 2132 UTC\nComment:",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-14 22:49:14.370",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3775\r\nIssue Time: 2026 Nov 14 0503 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3774\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 5223 pfu\nMax time: 2026 Nov 13 1700 UTC",
       "source": "NOAA Space Weather",
@@ -154,52 +192,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3772\r\nIssue Time: 2026 Nov 11 0501 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3771\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 6420 pfu\nMax time: 2026 Nov 10 1550 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-11 05:01:52.690",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3771\r\nIssue Time: 2026 Nov 10 0501 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3770\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 4674 pfu\nMax time: 2026 Nov 09 1630 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-10 05:01:21.150",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Second catch attempt for SpaceX Starship rocket",
-      "text": "Second catch attempt for SpaceX Starship rocket\nThe attempt follows an unsuccessful effort to catch of the rocket\u2019s booster which instead came down in the ocean.",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\nSpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-14T14:18:41+00:00",
+      "timestamp": "2026-11-14T22:09:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -444,6 +444,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 L3 Harris, a major defense company that has close ties to the Israeli Aerospace Industries (IAI) announced that during the total grounding of aircraft yesterday, they were in the process of replacing \u2018legacy\u2019 copper telecommunication lines with fibre when a router allegedly started malfunctioning and began flooding 17 of the 22 other regional Air Traffic Control routers with false data, which MAY have aided in the orders to ground aircraft.\nA L3 Harris spokesperson also stated that L3 Harris fully supports and will cooperate as needed with federal investigations as approximately 12,000 flights were disrupted, cancelled or rescheduled on 13 Nov, 2026 due to the grounding, with commercial airlines scrambling to move crews around to (mostly) comply with labor laws, as of the reporting here, approximately 4,000 flights were cancelled in the United States today (14 Nov, 2026) with less than 2,000 being rescheduled or postponed due to the outage yesterday.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T21:01:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Mossad and CIA have warned that Iran is planning to destroy Trump and senior American officials with drones, Trump scaled back public appearances and some officials have been moved to secure locations.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -578,6 +597,25 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7Time to remove existential threat from Iran once and for all \u2014 Netanyahu\n\ud83d\udde3\u201cThe Iranian regime, which seeks to destroy Israel, is once again working to revive its nuclear program. And let this be clear: this murderous regime, which did not hesitate to murder many thousands of its own people, will not hesitate to use nuclear weapons against us,\u201d Benjamin Netanyahu wrote on X.\n\u201cWe must remove this existential threat from over our heads once and for all,\u201d he added.\n\ud83d\udc49 The statement follows a meeting with Israeli opposition leader Gadi Eisenkot, as Netanyahu seeks to establish a united government majority while excluding Arab parties. Netanyahu has previously labeled the Arab-led parties as \u201csupporters of terrorism,\u201d sparking [backlash from the opposition leade](https://t.me/geopolitics_prime/77742)r.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T21:39:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "Pentagon waters down Trump\u2019s European troop drawdown plans\n\u00a0\nThe Trump administration\u2019s ambitious plans to pull out 25k-35k of the ~80k troops the US has stationed in Europe has been pared down to the bone, sources familiar with deliberations told Bloomberg.\nAllies now expect an overall pullback of just ~5k troops - 1/5 or less of the initial estimate.\nIt won\u2019t be the first time the Pentagon or State Department have gone back on a Trump pledge for a troop drawdown.\nIn late 2020, after Trump lost his first bid for reelection, then-special representative for Syria James Jeffrey boasted that he and his team had played \u201cshell games\u201d with the president on the number of troops in Syria, and ignored withdrawal orders. US forces ultimately remained in the country until April 2026, long after Bashar Assad fled and a new, al-Qaeda-linked president was installed.\nThis week, Romania proposed that European countries [pay the US to keep and expand its troop presence](https://t.me/geopolitics_prime/77665) along NATO\u2019s eastern flank with Russia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -698,25 +736,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-14T11:19:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u26f4 Oil tanker catches fire after cruise missile strike in Hormuz\nThe IRGC Navy has released footage showing an oil tanker engulfed in flames in the Strait of Hormuz after being struck by an anti-ship cruise missile.\nEarlier, the IRGC reported that two other oil tankers attempting to use an unauthorized shipping route with their navigation systems switched off struck naval mines and exploded.\nShipping through the strategic waterway has nearly ground to a halt following the outbreak of the US-Israeli military campaign against Iran on February 28 and Tehran's subsequent retaliation.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T09:03:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
