@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T15:41:59.184015+00:00",
+  "generated_at": "2026-11-14T20:08:25.781044+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -211,6 +211,64 @@
       "verified_source_count": 1
     },
     {
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "text": "'We'll get home one day' - US travellers impacted by nationwide ground stop\nPassengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as \u201csafety and communication issues\u201d.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-14T01:47:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 A few thoughts:\n1. What would Iran gain from this? Such an attack would almost certainly fail, but would invite a massive retaliation\n2. Where would Iran even launch the drones from? There isn\u2019t enough range to launch them from Iran.\n3. This could be a false flag where Cuba is accused of being a launching pad of Iranian drones; President Trump has repeatedly envisioned Cuba as his next target for regime change.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T18:41:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\uddee\ud83c\uddf1 BREAKING: According to Israel Hayom, Iran is planning a drone attack against top U.S. officials, including President Trump himself\nThe intelligence has reportedly been verified by both Mossad and the CIA. \nSeveral senior U.S. officials have been moved from theie homes to military bases, and Trump has canceled some of his public appearances.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T18:39:07+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran\u2019s air defenses downed an American MQ-1 \u2018Grey Eagle\u2019 drone above Qeshm Island",
@@ -290,12 +348,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Former U.S. Secretary of State Antony Blinken on Iran:\nIran is four times the size of California. It's three times the size of Iraq. It has 90 million people. \nThat coastline along the Strait of Hormuz goes on forever. \nThe weapons that it continues to produce are back far enough, the range is great enough, that you can't just take everything out. \nYou'd probably have to have a land invasion of some kind to do that, which would be an absolute disaster.",
+      "text": "Romania had accrued about \u20ac100 million in delay penalties on Israeli Elbit Systems\u2019 undelivered Watchkeeper X drones.\nRomania had paid an advance of nearly 300 million lei for the first Watchkeeper X systems and had still not received a single aircraft.\n[READ MORE](https://clashreport.com/defense/articles/romania-records-100-million-in-penalties-on-undelivered-elbit-drones-k5lcwy63s0g)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T14:03:13+00:00",
+      "timestamp": "2026-11-14T16:59:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -386,6 +444,26 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Mossad and CIA have warned that Iran is planning to destroy Trump and senior American officials with drones, Trump scaled back public appearances and some officials have been moved to secure locations.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T18:54:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 After nearly 4 hours, the grounding of all flights has been lifted. Limited flights are being permitted to takeoff as systems come back online.\n\u2022 Roughly 7,000 flights were cancelled\n\u2022 Over 10,000 flights delayed\nAs of current; the following systems are still offline or experiencing mass outages in the U.S:\n\u2022 Amtrak\u2019s proprietary \u2018Trains & Planes\u2019 app\n\u2022 The FAA\u2019s radar network\n\u2022 The FAA\u2019s standard radio communications systems (currently experiencing blackouts or brownouts still, some flights may be using emergency channels)\n\u2022 Everything from Microsoft including but not limited to: Outlook (emails), proprietary Microsoft systems, and Xbox Live (obviously the most important thing from Microsoft, duh)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -411,25 +489,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-13T21:41:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8\ud83c\uddf7\ud83c\uddfaAccording to BILD, based on information provided by German diplomats, these are the conditions proposed by Russia for the Abu Dhabi negotiations:\n1) Exclusion of European troops from Ukraine\n2)Recognition of Russian control over the occupied territories and the entire Donbas\n3) Demilitarization of the Ukrainian ports of Odesa and Mykolaiv\n4)Freedom of navigation in the Black Sea and the Baltic Sea\n5) No NATO bases in the Baltic states and Finland's withdrawal from NATO\n6) Approval of Ukraine's accession to the EU, but not to NATO\n7) Transformation of Moldova into a federation including Transnistria and Gagauzia (if Moldova joined the EU, Transnistria and Gagauzia would be granted the right to hold referendums on their independence)\nIn exchange, Russia would have agreed to withdraw nuclear weapons from Belarus, withdraw its troops from Transnistria, and renounce the deployment of medium-range missiles on Belarusian territory",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-13T12:04:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -513,6 +572,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Pentagon waters down Trump\u2019s European troop drawdown plans\n\u00a0\nThe Trump administration\u2019s ambitious plans to pull out 25k-35k of the ~80k troops the US has stationed in Europe has been pared down to the bone, sources familiar with deliberations told Bloomberg.\nAllies now expect an overall pullback of just ~5k troops - 1/5 or less of the initial estimate.\nIt won\u2019t be the first time the Pentagon or State Department have gone back on a Trump pledge for a troop drawdown.\nIn late 2020, after Trump lost his first bid for reelection, then-special representative for Syria James Jeffrey boasted that he and his team had played \u201cshell games\u201d with the president on the number of troops in Syria, and ignored withdrawal orders. US forces ultimately remained in the country until April 2026, long after Bashar Assad fled and a new, al-Qaeda-linked president was installed.\nThis week, Romania proposed that European countries [pay the US to keep and expand its troop presence](https://t.me/geopolitics_prime/77665) along NATO\u2019s eastern flank with Russia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T19:32:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iran war will end up costing US $1 TRILLION, former White House economist says\n\u00a0\n\ud83d\udd0a\u201cThey\u2019re almost approaching $50B in expenditures \u2013 so the transparent things that Hegseth\u2019s been forced to say \u2013 it\u2019s close to $50B. I have estimated at the end of the day, this thing will cost a trillion dollars,\u201d Johns Hopkins economics professor Steve Hanke told the [Wealthion podcast](https://t.me/geopolitics_prime/77309).\nHanke, who served as a senior member of the Council of Economic Advisors in the first years of the Reagan administration, when it was trying to tackle the stagflationary crisis of the early 80s, bases his estimate on historical precedent, including the second Bush administration\u2019s guesstimate that the Iraq War would cost $200B, vs an actual final cost of up to $5T (25 times higher).\n\ud83d\udde3\u201cApplying that same multiple to the current conflict, if the war winds down quickly, the final direct cost for the war on Iran will likely reach at least $1 trillion,\u201d Hanke says.\nHanke isn\u2019t alone. Harvard Kennedy School lecturer Linda Bilmes, who previously accurately predicted that the Iraq War would cost trillions, estimated the Iran war\u2019s price tag would reach $1T or more. University of Michigan economist Johnathan Wolfers said in May that military costs plus energy prices, inflation, interest rate hikes and slowed growth would cost from $400B to \u201cvery possibly trillions.\u201d\nOthers predict even more extreme consequences, up to and including a housing, stock or bond market crisis, or a collapse of the dollar triggered by a vicious circle of energy price hikes, inflation, higher interest rates and higher government [borrowing costs](https://t.me/geopolitics_prime/75711).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T18:38:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\ude80 Israeli troops crash West Bank wedding, abduct groom and attack guests using tear gas\n\u00a0\nA large wedding ceremony attended by ~150 people in the central West Bank village of al-Mughayyir was broken up by armed Israeli troops on Friday night, with soldiers arresting the groom and three guests and holding them for several hours before letting them go.\nTroops fired tear gas into the reception hall, and closed the main entrance to the village. Amateur footage showed a spent tear gas cannister and empty tables and chairs, some overturned, alongside plates and food strewn over the floor at the venue site.\n\u00a0\nThe wedding raid was one of several similar operations by the IDF in the West Bank over the past 24 hours:\n\u27a1\ufe0f on Friday, IDF patrols attacked a welcoming ceremony for a freed Palestinian detainee in the Jericho and Jordan Valley area, dispersing attendees and damaging the venue\n\u27a1\ufe0f on Saturday, troops arrested 10 people in Nablus and two nearby refugee camps, beating up several young men and seizing a home, evicting its residents and setting up a base of operations\n\u27a1\ufe0f raids, searches and tightened checkpoint restrictions were also reported in Tammun, the Wadi Burqin area outside Jenin and a refugee camp outside Hebron\n\u00a0\nThe crackdown comes amid what has become the most violent year for Palestinian West Bank [residents](https://t.me/geopolitics_prime/77394) since recording began, with the UN reporting 2.1k+ settler attacks on area villages and farms, seizures of property and livestock, [sabotage and deadly beatings](https://t.me/geopolitics_prime/76606).\nMandated to stop settler violence, the IDF has often instead sided with them, while top Israeli officials have threatened a \u2018Gaza and Lebanon-style\u2019 operation in the West Bank.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T17:54:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f\ud83d\udcac Houthis warn every blow against Sanaa will be answered in Riyadh\n\u00a0\n\ud83d\udd0a\u201cSaudi Arabia should not take any pleasure in adding political, economic or security complications to the Yemeni crisis; what you sow in Sanaa, you will reap in Riyadh,\u201d Ansar Allah political bureau member and negotiator Abdulmalik al-Ajri tweeted.\nIf the crisis isn\u2019t ended, it will become a \u201cchronic drain\u201d on Saudi security, and a source of pressure on the kingdom\u2019s economy, al-Ajri said.\n\u201cYemen is not a theater managed from afar; it is a next-door neighbor. Geography shows no mercy, and investors read maps, not papers,\u201d he added, referencing Riyadh\u2019s mounting economic losses, and apparent inability to defend cities, airports and energy infrastructure using its largely American and British-[made air defense](https://t.me/geopolitics_prime/76856) systems.\nAl-Ajri\u2019s comments followed the renewed targeting of Saudi infrastructure by Houthi forces on Friday, including a strike on Riyadh\u2019s King Khalid International Airport, and an attack on Pumping Station #3 of the East-West Pipeline, amid increased Saudi targeting of infrastructure in Sanaa and other Yemeni cities this week.\nOn Saturday, the Ansar Allah-aligned Armed Forces launched ballistic missile strikes on enemy reinforcements commanded by Saudi officer Badr al-Harbi in Lahij province. On Friday, OSINT sources reported on a successful Houthi thrust deep into enemy-controlled areas along the Gulf of Aden coast, bringing them to within 80km of the Saudi-backed government\u2019s capital. Fierce fighting has been reported along this section of the front [over the past 24 hours](https://t.me/geopolitics_prime/77734).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-14T16:07:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
