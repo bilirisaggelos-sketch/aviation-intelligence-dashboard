@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T23:57:16.541935+00:00",
+  "generated_at": "2026-11-15T06:10:27.203584+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -97,6 +97,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3776\r\nIssue Time: 2026 Nov 15 0516 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3775\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 5837 pfu\nMax time: 2026 Nov 14 1300 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-15 05:16:57.317",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTTP2\r",
       "text": "Space Weather Message Code: ALTTP2\r\nSerial Number: 1534\r\nIssue Time: 2026 Nov 14 2249 UTC\r\n\r\nALERT: Type II Radio Emission \nBegin Time: 2026 Nov 14 2127 UTC\nEstimate Velocity: 1972 km/s\nComment:",
       "source": "NOAA Space Weather",
@@ -173,25 +192,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3773\r\nIssue Time: 2026 Nov 12 0633 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3772\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 7897 pfu\nMax time: 2026 Nov 11 1555 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-12 06:33:05.873",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
       "text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\nSpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "source": "BBC",
@@ -226,6 +226,105 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: U.S. intelligence assesses that Iran still has up to 2,500 ballistic missiles in storage, according to the Wall Street Journal\nWhile the number is reportedly a low-confidence estimate, U.S. officials said it was clear Iran retained a \u2018formidable stockpile\u2019.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T04:42:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\udde7\ud83c\udded/\ud83c\uddee\ud83c\uddf7 IRGC: \u2018In response to the most recent U.S. aggression, we targeted an American air defense radar at the Al-Rifaa helicopter base in Bahrain with six drones\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T04:19:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded/\ud83c\uddfa\ud83c\uddf8 NEW: Cruise missile launches from Iran to Bahrain",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T04:13:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\udde7\ud83c\udded/\ud83c\uddee\ud83c\uddf7 BREAKING: Heavy explosions heard at an industrial zone in Bahrain; possible drone impacts",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T04:08:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded NEW: About an hour ago, sirens sounded in Bahrain, and several Iranian drones were intercepted",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T02:34:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -328,20 +427,80 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Around 13 minutes ago, an explosion was heard in Sirik, coastal southern Iran. This comes amidst American UAV activity in the area.",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s IRGC says it targeted a U.S. air defense radar at Bahrain\u2019s Al Riffa base with six drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T21:50:39+00:00",
+      "timestamp": "2026-11-15T04:27:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukrainian drones struck an oil refinery in Russia's Nizhnekamsk.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T03:51:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A newly installed router in Arkansas triggered a nationwide U.S. flight disruption, affecting hundreds of thousands of travelers. \nThe router, installed by defense contractor L3Harris, flooded the FAA\u2019s outdated communications network with data, disrupting 17 of 22 air-traffic control centers. \nThe FAA restored operations by disconnecting routers in Arkansas and Texas. \nOfficials are investigating whether faulty equipment or improper installation caused the failure, warning that further outages are possible until the network is modernized by 2028.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T03:49:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: U.S. intelligence estimates Iran still has 1,500\u20132,500 missiles despite U.S.-Israeli strikes, contradicting Trump administration claims that Tehran\u2019s military has been decimated. \nIran is rebuilding its arsenal and improving its missile and drone attacks, partly with Russian assistance.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T02:40:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -385,22 +544,23 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[Netanyahu says Israel not to blame for flood crisis in Gaza](https://apnews.com/article/mideast-news-israel-gaza-iran-november-11-2026-50075bc97e07d41fa3b66fc28858c06b)\nIsraeli Prime Minister Benjamin Netanyahu dismisses claims \u2014 including from the U.S.-backed Board of Peace \u2014 that Israel is blocking winter supplies to Gaza. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://apnews.com/article/mideast-news-israel-gaza-iran-november-11-2026-50075bc97e07d41fa3b66fc28858c06b)\nThe Associated Press | apnews\u200b.com \u2022 Nov 11, 2026",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran's IRGC Navy says two oil tankers exploded and caught fire after striking naval mines in the southern Strait of Hormuz. The vessels had disabled their navigation and identification systems and were transiting an unauthorized route.\nFollowing the explosions, two additional tankers reportedly heeded warnings from the IRGC's traffic control center and turned back toward the Persian Gulf.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-12T03:30:52+00:00",
+      "timestamp": "2026-11-15T00:01:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Our Wars Today"
+        "Alsaa Plus EN",
+        "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -438,6 +598,85 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \ud83c\udde7\ud83c\udded The IRGC released a statement: \u2018In response to the most recent U.S. aggression, we targeted an American air defense radar at the Al-Rifaa helicopter base in Bahrain with six drones\u2019.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T04:28:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\udde7\ud83c\udded Massive explosions heard in Bahrain.\nPossible drone and missile impacts.\nAlerts were issued earlier.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T04:13:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Dallas Love Field Airport, Texas, USA has suspended flight operations due to a potential bomb threat.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T02:53:30+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 DEVELOPING: a United Parcel Services (UPS) Boeing-767 has reported collided with a Copa Airlines Boeing-737 while taxiing on the runways of Miami International Airport. \nFirst responders are on scene, no information such as flight info/tail numbers, crew/passengers or cargo onboard for either have been released at this time.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T02:53:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -501,98 +740,180 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 For the third time since the 9/11/01 terror attacks; the FAA has issued a full stop on all aircrafts & flights in the US due to a nationwide inertial tracking system, radar & communications outage.",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8[WSJ:](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c) The technical failure taht resulted in the grounding of all flights in the U.S. was traced to two locations: an FAA radio site in El Dorado, Arkansas, and a radar site in Amarillo, Texas. \nA newly installed Juniper router at the Arkansas facility began transmitting an unusually high volume of data, overwhelming the FAA\u2019s ageing telecommunications network.\nThe FAA is investigating whether the incident resulted from faulty equipment, incorrect installation or improper configuration by defence contractor L3Harris Technologies.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-13T21:41:49+00:00",
+      "timestamp": "2026-11-15T05:51:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Unconfirmed reports indicate a possible missile launch from Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T05:50:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\udde7\ud83c\udded Reports suggest that Bahrain's air defense systems intercepted a drone over the country, following reports of an explosion heard earlier.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T05:49:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "CASELS"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 Palestinian reports indicate that an Israeli drone strike targeted a \"tent sheltering displaced Palestinians\" in the Al-Mawasi area of Khan Younis, southern Gaza, killing one person and injuring two others.\nThe person killed has reportedly been identified as Samir Abu Younis, also known as \"Abu Mahmoud\", the commander of Hamas's Al-Qassam Brigades in Rafah, who succeeded the slain commander Abu Atiya Abu Ubaid.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T05:48:19+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "CASELS",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Houthis say they downed a Saudi reconnaissance drone\n\"Our armed forces shot down a hostile Saudi combat reconnaissance drone this morning as it was conducting hostile activity in the airspace of Al-Jawf province, using appropriate weapons,\" the group's military spokesman Yahya Saree said, as quoted by Yemen's Saba news agency.\nSaudi authorities have not commented on the announcement so far.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T05:36:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddec\ud83c\udde7\ud83c\uddfa\ud83c\uddf8 Sky News: A US Air Force spokesperson said security forces personnel responded to suspected unauthorized drone activity over RAF Lakenheath in Suffolk, with no personnel, aircraft, or infrastructure affected. \nThe statement said they are working closely with UK counterparts to ensure the safety of service members, civilians, contractors, and families, and the report noted that nearby RAF Mildenhall was also evacuated by the US after a threat from Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 IRGC attacks US military base in Bahrain\nIran's IRGC says six one-way attack drones hit a US air defense site and radar system at Riffa Air Base in Bahrain, calling it a response to repeated US strikes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T03:17:32+00:00",
+      "timestamp": "2026-11-15T04:37:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea The PLC managed to shoot down a Houthi drone northwest of the Marib Governorate a few minutes ago.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "Iran maintains missile capacity despite US strikes \u2014 report\nUS intelligence estimates that Iran possesses between 1,500 and 2,500 missiles in its arsenal, leaving it with significant capacity to conduct strikes if the war resumes, The Wall Street Journal reports, citing US officials.\nDespite uncertainty over the exact number of missiles, US officials warn that Iran has retained a significant arsenal.\nEarlier this month, the [IRGC vowed to respond](https://t.me/geopolitics_prime/77096) to any threat without \u201cgeographical limitations,\u201d amid concerns that the US and Israel could resume their attacks.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T03:16:10+00:00",
+      "timestamp": "2026-11-15T03:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "Two tankers explode in the Strait of Hormuz \u2014 IRGC\nTwo tankers attempting to cross the strait without authorization from Iran struck mines and subsequently caught fire, the Islamic Revolutionary Guard Corps (IRGC) stated.\n\ud83d\udde3 \u201cFollowing the explosions involving these two tankers, two other vessels attempting to transit secretly heeded warnings from the Naval Force\u2019s traffic control center in the Strait of Hormuz and returned to the waters of the Persian Gulf,\u201d the IRGC added.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T02:44:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 The Iranian Army claims its navy shot down a U.S. MQ-1 drone near Kohstak, off the coast of Sirik in southern Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "Senior Hamas official killed by IDF \u2014 report\nSamir Abu Younis, a senior commander of the Rafah Brigade, was killed in an Israeli airstrike on Khan Younis in the southern Gaza Strip, Reuters reports.\nHamas said Abu Younis joined its armed wing in 1991 and held several senior operational roles in Rafah before becoming commander of the brigade.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T03:13:00+00:00",
+      "timestamp": "2026-11-15T01:29:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "CASELS"
+        "CASELS",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Security forces at Royal Air Force Base Lakenheath in eastern England responded to suspected unauthorized drone activity, but no personnel, aircraft or infrastructure were affected, the US Air Force in Europe said in a statement.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T03:09:11+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -679,63 +1000,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-14T16:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80\ud83c\uddee\ud83c\uddf7 Iran shoots down its 17th US MQ-1C drone\n\u00a0\nIRGC air defenses shot down a MQ-1C Gray Eagle over Qeshm Island on Saturday, bringing the total number of downed drones of this class to 17.\nThe Gray Eagle is a $14-21.5M apiece ISR and precision strike platform.\nBesides MQ-1Cs, the IRGC said its tally includes 56 MQ-9 Reaper-series drones ($30-56M apiece, hunter-killer, ISR and CAS roles).\nIf its figures are correct, that means Iran has shot down $1.8-$2B-worth of these two American drone series alone, not counting other US and Israeli drone platforms reported brought down over the course of the 2026 war, including an MQ-4C Triton ($220-$250M each), Elbit Hermes and IAI Heron-series UAVs, and tactical [MQM-170 drones](https://t.me/geopolitics_prime/77225).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T13:51:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddea How the UAE builds a mercenary empire on Sudanese blood\nA recent investigation by The Cradle reveals how the UAE has built a transnational recruitment network that moves Colombian veterans into Sudan to fight alongside the Rapid Support Forces, the paramilitary group accused of genocide in Darfur.\n\ud83d\udd34 A confidential UN report submitted to the Security Council in November 2026 found that an Emirati security company, Global Security Services Group, with close ties to the government, moved the Colombians through territory controlled by Emirati proxies in Libya and Somalia\n\ud83d\udd34 The recruits were told they were taking security jobs. A decent part, however, ended up on the front lines operating drones, artillery, and military vehicles, and some trained RSF fighters, including children\n\ud83d\udd34 Despite promised high salaries and safe working conditions, many mercenaries faced delayed wages, deadly tasks, and torture for disobedience of orders\nInvestigators estimated that as many as 2,000 former Colombian military personnel were recruited through these [networks](https://t.me/geopolitics_prime/54772). Most of them transited through the UAE without border checks and official registration, indicating state backing.\nThe ownership trail also leads into the Emirati political establishment. The recruiting company's founder, Ahmed Mohammed al-Humairi, served as secretary-general of the UAE Presidential Court.\nThe Sudan operation is a continuation of a long history of the UAE using foreign military contractors.\n\ud83d\udd36 The UAE used mercenaries in Yemen and Libya. In Libya, companies linked to Prince participated in Project Opus (2019), supporting Haftar's forces with foreign fighters, attack helicopters, drones, and intelligence\n\ud83d\udd36 In Ethiopia, with UAE support, a military camp for 10,000 people was opened, where RSF fighters undergo [military training ](https://t.me/geopolitics_prime/64367)\nSpecifically in Sudan, the UAE is interested in gaining access to Sudan's Red Sea port to control an important trade artery, as well as access to vast gold reserves controlled by the anti-government RSF forces. In addition, the UAE is countering [the influence of Turkey](https://t.me/geopolitics_prime/53600) and Saudi Arabia, which are helping the government in Khartoum.\nAt the same time, the UAE is trying to silence its critics on all fronts. Both [the ICC](https://t.me/geopolitics_prime/71593) and [the UK](https://t.me/geopolitics_prime/71320) face their own corruption allegations and accusations of ignoring UAE crimes. Meanwhile, Lana Zaki Nusseibeh, the UAE's candidate for UN secretary-general, has spent years dismissing evidence of her country's role in Sudan.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T13:02:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d\ud83d\udc41\ufe0f Tech firm that deployed AI dashboard into FAA systems days before outage insists it\u2019s not to blame\n\u00a0\n\ud83d\udd0a\u201cThe current ground stop is not based on or a result of the SMART system, any product of Air Space Intelligence or our integration with the Federal Aviation Administration and Air Traffic Control,\u201d the company tweeted after the FAA issued a four-hour nationwide grounding of all flights on Friday, citing a \u201ctemporary [telecommunications outage.\u201d](https://t.me/geopolitics_prime/77743)\nTransportation Secretary Sean Duffy blamed \u201cold legacy equipment\u201d for the stoppage and asked for $50B to [fix the problem](https://t.me/geopolitics_prime/77746).\nThe timing of the stop \u2013 three days after SMART was introduced across all 22 US Air Route Traffic Control Centers on November 10, has raised red flags.\nIn October, federal lawmakers asked the Government Accountability Office to conduct an independent review of the new AI system, expressing concerns about a potential lack of input from controllers, and insufficient safety testing.\nSean Duffy insisted Friday that the new equipment was not to blame, saying \u201cSMART is completely disconnected [and] not even plugged in.\u201d\nSMART, or Strategic Management of Airspace, Routes and Trajectories, is a cloud-based software package providing a predictive planning layer for controllers, synthesizing data pulled from ~200 data streams on factors like weather, flight schedules, runway capacity and controller staffing into a single dashboard.\nThe government assures human beings are left in charge of actual air traffic control functions. But the system\u2019s reliance on external network connections has raised concerns about the potential to feed it distorted or \u2018poisoned\u2019 data to adversely impact human decision-making.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T11:19:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
