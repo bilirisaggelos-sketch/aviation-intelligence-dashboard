@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-15T06:10:27.203584+00:00",
+  "generated_at": "2026-11-15T13:59:35.865827+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nKaneohe, HI, Tuesday, November 17, 2026 through Friday, November 20, 2026 Local\nFacility: ZHN",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/15/2026",
+      "location": "ZHN HI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nSANTA ROSA ISLAND, FL, Wednesday, November 18, 2026 through Friday, November 20, 2026 Local\nFacility: ZJX",
@@ -97,6 +116,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1138\r\nIssue Time: 2026 Nov 15 1334 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 16: None (Below G1) Nov 17: G1 (Minor) Nov 18: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-15 13:34:32.160",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: ALTEF3\r",
       "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3776\r\nIssue Time: 2026 Nov 15 0516 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3775\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 5837 pfu\nMax time: 2026 Nov 14 1300 UTC",
       "source": "NOAA Space Weather",
@@ -173,61 +211,24 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3774\r\nIssue Time: 2026 Nov 13 0505 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3773\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 3235 pfu\nMax time: 2026 Nov 12 1515 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-13 05:05:40.730",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\nSpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "text": "Israel kills Hamas commander in strike on Gaza camp, officials say\nBoth Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-14T22:09:40+00:00",
+      "timestamp": "2026-11-15T08:17:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News"
+        "BBC World News",
+        "CASELS"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
-      "text": "'We'll get home one day' - US travellers impacted by nationwide ground stop\nPassengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as \u201csafety and communication issues\u201d.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-14T01:47:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -264,7 +265,7 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "Clash Report",
+        "Geopolitics Prime",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
@@ -428,33 +429,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Iran\u2019s IRGC says it targeted a U.S. air defense radar at Bahrain\u2019s Al Riffa base with six drones.",
+      "text": "Trump:\nThe Biden Administration was an FAA disaster. Everything they touched turned bad. Big money spent unwisely, making an old and broken system worse than when they began. \nWe have the knowledge and plan for the Flight Control Systems, we need Congress to give the money, FAST! \nOur FAA is doing a great job, and is ready to go.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T04:27:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Clash Report",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian drones struck an oil refinery in Russia's Nizhnekamsk.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T03:51:40+00:00",
+      "timestamp": "2026-11-15T13:20:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -468,32 +448,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "A newly installed router in Arkansas triggered a nationwide U.S. flight disruption, affecting hundreds of thousands of travelers. \nThe router, installed by defense contractor L3Harris, flooded the FAA\u2019s outdated communications network with data, disrupting 17 of 22 air-traffic control centers. \nThe FAA restored operations by disconnecting routers in Arkansas and Texas. \nOfficials are investigating whether faulty equipment or improper installation caused the failure, warning that further outages are possible until the network is modernized by 2028.\nSource: WSJ",
+      "text": "The Trump administration fired about 400 Federal Aviation Administration (FAA) employees beginning February 14, 2025, as part of sweeping federal workforce cuts led by Elon Musk\u2019s Department of Government Efficiency (DOGE), raising concerns about aviation safety. \nAmong those fired were 26 aviation safety assistants, each typically supporting 10 inspectors, as well as maintenance mechanics at 18 air traffic control facilities. \nUnion representatives warned that the cuts would increase workloads for remaining staff, potentially affecting radar maintenance, flight navigation updates and safety inspections.\nSource: AP",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T03:49:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "NEW: U.S. intelligence estimates Iran still has 1,500\u20132,500 missiles despite U.S.-Israeli strikes, contradicting Trump administration claims that Tehran\u2019s military has been decimated. \nIran is rebuilding its arsenal and improving its missile and drone attacks, partly with Russian assistance.\nSource: WSJ",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T02:40:35+00:00",
+      "timestamp": "2026-11-15T12:16:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -507,12 +467,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Romania had accrued about \u20ac100 million in delay penalties on Israeli Elbit Systems\u2019 undelivered Watchkeeper X drones.\nRomania had paid an advance of nearly 300 million lei for the first Watchkeeper X systems and had still not received a single aircraft.\n[READ MORE](https://clashreport.com/defense/articles/romania-records-100-million-in-penalties-on-undelivered-elbit-drones-k5lcwy63s0g)",
+      "text": "ASELSAN says its EJDERHA high-power electromagnetic system neutralized 51 drones launched at the same time, without missiles or munitions.\nASELSAN describes the swarm trial as a world first for a directed-energy system of this kind.\n[READ MORE](https://clashreport.com/defense/articles/aselsan-says-ejderha-neutralizes-51-drones-in-anniversary-test-3dd6ltqgmyr)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T16:59:51+00:00",
+      "timestamp": "2026-11-15T10:13:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "China\u2019s CE-25A, a 10-tonne electric airliner built by COMAC, has completed its first manned flight, carrying two pilots and a flight-test engineer.\nIt has a maximum takeoff weight of 10 tonnes, a cruise speed of 300 km/h, a cruise altitude of 2,400 meters, and a range of 400 km.\n[READ MORE](https://clashreport.com/world/articles/china-s-ce-25a-electric-aircraft-completes-its-first-manned-flight-qvueixy8c7f)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T10:10:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -545,12 +524,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran's IRGC Navy says two oil tankers exploded and caught fire after striking naval mines in the southern Strait of Hormuz. The vessels had disabled their navigation and identification systems and were transiting an unauthorized route.\nFollowing the explosions, two additional tankers reportedly heeded warnings from the IRGC's traffic control center and turned back toward the Persian Gulf.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\udded \u2014 The IRGC Aerospace Force struck a U.S. air defense radar site at the Al-Rafaa helicopter base in Bahrain using six drones.\nThe IRGC stated this was the second phase of a \"decisive and crushing response\" to blatant U.S. military transgressions, adding that the precise strikes were heard across various areas of Bahrain.\nThe statement accused Washington of failing in its \"oil smuggling\" program and attempting to divert global attention from the Strait of Hormuz, which the IRGC reiterated is firmly closed.\nThe IRGC warned that any further American actions will be met with an even harsher response, noting they deployed a larger number of drones in this phase compared to the last, while \"expensive American drones are being shot down one after another.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T00:01:12+00:00",
+      "timestamp": "2026-11-15T11:49:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -561,6 +540,25 @@
         "CASELS"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 Iran's IRGC Navy says two oil tankers exploded and caught fire after striking naval mines in the southern Strait of Hormuz. The vessels had disabled their navigation and identification systems and were transiting an unauthorized route.\nFollowing the explosions, two additional tankers reportedly heeded warnings from the IRGC's traffic control center and turned back toward the Persian Gulf.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T00:01:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -584,25 +582,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8Transportation Secretary Sean Duffy:\nWe've opened up the airspace. Does that mean every flight is going to fly right now? It's going to be slow.\nIt's going to take us some time to unwind what's happened this afternoon.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T10:09:55+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \ud83c\udde7\ud83c\udded The IRGC released a statement: \u2018In response to the most recent U.S. aggression, we targeted an American air defense radar at the Al-Rifaa helicopter base in Bahrain with six drones\u2019.",
       "source": "Telegram",
@@ -616,7 +595,7 @@
       "verification_status": "VERIFIED",
       "verification_confidence": 90,
       "verified_sources": [
-        "Clash Report",
+        "Geopolitics Prime",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
@@ -750,13 +729,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "CASELS",
-        "Clash Report"
+        "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -813,10 +791,88 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "CASELS",
-        "Geopolitics Prime"
+        "BBC World News",
+        "CASELS"
       ],
       "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran says it\u2019s in \u2018neither-war-nor-peace\u2019 state: what does that mean?\n\u00a0\n[Iran\u2019s parliament speaker reiterated](https://t.me/geopolitics_prime/77797) Sunday that Tehran would not be bullied by Washington into a binary choice of talks on US terms or war, and that the prevailing third option \u2013 a \u201cstate of neither war nor peace,\u201d could be brought to an end if the US meets Iran\u2019s criteria for negotiations.\nIran\u2019s [usage of the \u201cneither war nor peace\u201d ](https://t.me/geopolitics_prime/69980)(na jang, na solh) concept dates back to the Iran-Iraq War of 1980-1988, and the 1988 ceasefire that saw a halt in fighting without a formal peace treaty or resolution of underlying disputes. However, the \u2018cold war\u2019-style dynamics of armed truces combined with localized fighting goes back thousands of years to the ancient Persian-Roman rivalry spanning from the late first century BC through the seventh century AD.\nSupreme Leader Ali Khamenei revived the concept and the related idea of \u201cno war, [no negotiation\u201d during Trump\u2019s 2018-2020 \u2018maximum pressure\u2019 campaign](https://t.me/geopolitics_prime/69009), which saw the US withdraw from the nuclear deal, reintroduction of tough sanctions, tit-for-tat tanker seizures, proxy attacks, terror designations, the downing of an American spy drone over Hormuz, the US assassination of one of the IRGC\u2019s top commanders, and retaliatory Iranian missile strikes on US bases in Iraq.\n\u201cNeither war nor peace\u201d returned after the breakdown of the Iran-US MoU in July 2026. In current realities, it means:\n\u2666\ufe0f a lack of full-scale warfare, combined with mutual hostility and occasional back-and-forth strikes\n\u2666\ufe0f a dual-blockade war of attrition in and around Hormuz\n\u2666\ufe0f[ an Iranian \u201cseven conditions\u201d ultimatum ](https://t.me/geopolitics_prime/77587)(an end to hostilities across the region, lifting of US sanctions, withdrawal of US forces, war reparations) before talks can resume, given how many times the US and Israel have struck in the middle of negotiations\n\u2666\ufe0f[ ](https://t.me/geopolitics_prime/77587)the prospect of expanding the war\u2019s geography, scope and sophistication if the [US attacks again](https://t.me/geopolitics_prime/77405) or rejects and honorable peace\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T12:12:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian aerial bombs pound Ukrainian drone deployment site\nVideo footage has appeared online showing Russian forces dropping FAB aerial bombs on a deployment site of a Ukrainian drone operator near Slavyansk in the Donetsk People's Republic.\nThis area is a key transport link that has been used to move Ukrainian reinforcements, including by suburban rail.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T11:32:26+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 \ud83c\udde7\ud83c\udded Iran releases footage of drone strike on US base in Bahrain\nThe video shows attack drones being launched against a US air defense radar at Bahrain's Al-Rifaa [helicopter base](https://t.me/geopolitics_prime/77790).\nThe attack came in response to an airstrike on a telecommunications tower in the city of Sirik, southern Iran, the statement says.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T09:42:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde6\ud83c\uddfa Australia and the Philippines upgrade defense ties with a focus on China\nAustralia and the Philippines signed a new Defense Cooperation Arrangement on Sunday, upgrading a 1995 pact, Bloomberg reports.\nThe deal, signed in Manila with Australian PM Anthony Albanese in attendance, covers maritime awareness and information sharing, joint exercises, disaster response, training and defense infrastructure. Albanese also announced new Australian investment in maritime domain awareness, including drone technology and training. \nAustralia has been taking part in building defense infrastructure at a series of bases across the Philippines in recent years, making claims about China\u2019s \u201caggressive tactics\u201d in the South China Sea. \nChina, for its part, has repeatedly rejected such allegations, noting that Australia was in \u201cno position to interfere in the maritime issues between countries concerned.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T06:15:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -875,140 +931,6 @@
         "Middle East Spectator"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Two tankers explode in the Strait of Hormuz \u2014 IRGC\nTwo tankers attempting to cross the strait without authorization from Iran struck mines and subsequently caught fire, the Islamic Revolutionary Guard Corps (IRGC) stated.\n\ud83d\udde3 \u201cFollowing the explosions involving these two tankers, two other vessels attempting to transit secretly heeded warnings from the Naval Force\u2019s traffic control center in the Strait of Hormuz and returned to the waters of the Persian Gulf,\u201d the IRGC added.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T02:44:22+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Senior Hamas official killed by IDF \u2014 report\nSamir Abu Younis, a senior commander of the Rafah Brigade, was killed in an Israeli airstrike on Khan Younis in the southern Gaza Strip, Reuters reports.\nHamas said Abu Younis joined its armed wing in 1991 and held several senior operational roles in Rafah before becoming commander of the brigade.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T01:29:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "CASELS",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7Time to remove existential threat from Iran once and for all \u2014 Netanyahu\n\ud83d\udde3\u201cThe Iranian regime, which seeks to destroy Israel, is once again working to revive its nuclear program. And let this be clear: this murderous regime, which did not hesitate to murder many thousands of its own people, will not hesitate to use nuclear weapons against us,\u201d Benjamin Netanyahu wrote on X.\n\u201cWe must remove this existential threat from over our heads once and for all,\u201d he added.\n\ud83d\udc49 The statement follows a meeting with Israeli opposition leader Gadi Eisenkot, as Netanyahu seeks to establish a united government majority while excluding Arab parties. Netanyahu has previously labeled the Arab-led parties as \u201csupporters of terrorism,\u201d sparking [backlash from the opposition leade](https://t.me/geopolitics_prime/77742)r.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T21:39:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "Pentagon waters down Trump\u2019s European troop drawdown plans\n\u00a0\nThe Trump administration\u2019s ambitious plans to pull out 25k-35k of the ~80k troops the US has stationed in Europe has been pared down to the bone, sources familiar with deliberations told Bloomberg.\nAllies now expect an overall pullback of just ~5k troops - 1/5 or less of the initial estimate.\nIt won\u2019t be the first time the Pentagon or State Department have gone back on a Trump pledge for a troop drawdown.\nIn late 2020, after Trump lost his first bid for reelection, then-special representative for Syria James Jeffrey boasted that he and his team had played \u201cshell games\u201d with the president on the number of troops in Syria, and ignored withdrawal orders. US forces ultimately remained in the country until April 2026, long after Bashar Assad fled and a new, al-Qaeda-linked president was installed.\nThis week, Romania proposed that European countries [pay the US to keep and expand its troop presence](https://t.me/geopolitics_prime/77665) along NATO\u2019s eastern flank with Russia.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T19:32:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran war will end up costing US $1 TRILLION, former White House economist says\n\u00a0\n\ud83d\udd0a\u201cThey\u2019re almost approaching $50B in expenditures \u2013 so the transparent things that Hegseth\u2019s been forced to say \u2013 it\u2019s close to $50B. I have estimated at the end of the day, this thing will cost a trillion dollars,\u201d Johns Hopkins economics professor Steve Hanke told the [Wealthion podcast](https://t.me/geopolitics_prime/77309).\nHanke, who served as a senior member of the Council of Economic Advisors in the first years of the Reagan administration, when it was trying to tackle the stagflationary crisis of the early 80s, bases his estimate on historical precedent, including the second Bush administration\u2019s guesstimate that the Iraq War would cost $200B, vs an actual final cost of up to $5T (25 times higher).\n\ud83d\udde3\u201cApplying that same multiple to the current conflict, if the war winds down quickly, the final direct cost for the war on Iran will likely reach at least $1 trillion,\u201d Hanke says.\nHanke isn\u2019t alone. Harvard Kennedy School lecturer Linda Bilmes, who previously accurately predicted that the Iraq War would cost trillions, estimated the Iran war\u2019s price tag would reach $1T or more. University of Michigan economist Johnathan Wolfers said in May that military costs plus energy prices, inflation, interest rate hikes and slowed growth would cost from $400B to \u201cvery possibly trillions.\u201d\nOthers predict even more extreme consequences, up to and including a housing, stock or bond market crisis, or a collapse of the dollar triggered by a vicious circle of energy price hikes, inflation, higher interest rates and higher government [borrowing costs](https://t.me/geopolitics_prime/75711).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T18:38:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83d\ude80 Israeli troops crash West Bank wedding, abduct groom and attack guests using tear gas\n\u00a0\nA large wedding ceremony attended by ~150 people in the central West Bank village of al-Mughayyir was broken up by armed Israeli troops on Friday night, with soldiers arresting the groom and three guests and holding them for several hours before letting them go.\nTroops fired tear gas into the reception hall, and closed the main entrance to the village. Amateur footage showed a spent tear gas cannister and empty tables and chairs, some overturned, alongside plates and food strewn over the floor at the venue site.\n\u00a0\nThe wedding raid was one of several similar operations by the IDF in the West Bank over the past 24 hours:\n\u27a1\ufe0f on Friday, IDF patrols attacked a welcoming ceremony for a freed Palestinian detainee in the Jericho and Jordan Valley area, dispersing attendees and damaging the venue\n\u27a1\ufe0f on Saturday, troops arrested 10 people in Nablus and two nearby refugee camps, beating up several young men and seizing a home, evicting its residents and setting up a base of operations\n\u27a1\ufe0f raids, searches and tightened checkpoint restrictions were also reported in Tammun, the Wadi Burqin area outside Jenin and a refugee camp outside Hebron\n\u00a0\nThe crackdown comes amid what has become the most violent year for Palestinian West Bank [residents](https://t.me/geopolitics_prime/77394) since recording began, with the UN reporting 2.1k+ settler attacks on area villages and farms, seizures of property and livestock, [sabotage and deadly beatings](https://t.me/geopolitics_prime/76606).\nMandated to stop settler violence, the IDF has often instead sided with them, while top Israeli officials have threatened a \u2018Gaza and Lebanon-style\u2019 operation in the West Bank.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T17:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2694\ufe0f\ud83d\udcac Houthis warn every blow against Sanaa will be answered in Riyadh\n\u00a0\n\ud83d\udd0a\u201cSaudi Arabia should not take any pleasure in adding political, economic or security complications to the Yemeni crisis; what you sow in Sanaa, you will reap in Riyadh,\u201d Ansar Allah political bureau member and negotiator Abdulmalik al-Ajri tweeted.\nIf the crisis isn\u2019t ended, it will become a \u201cchronic drain\u201d on Saudi security, and a source of pressure on the kingdom\u2019s economy, al-Ajri said.\n\u201cYemen is not a theater managed from afar; it is a next-door neighbor. Geography shows no mercy, and investors read maps, not papers,\u201d he added, referencing Riyadh\u2019s mounting economic losses, and apparent inability to defend cities, airports and energy infrastructure using its largely American and British-[made air defense](https://t.me/geopolitics_prime/76856) systems.\nAl-Ajri\u2019s comments followed the renewed targeting of Saudi infrastructure by Houthi forces on Friday, including a strike on Riyadh\u2019s King Khalid International Airport, and an attack on Pumping Station #3 of the East-West Pipeline, amid increased Saudi targeting of infrastructure in Sanaa and other Yemeni cities this week.\nOn Saturday, the Ansar Allah-aligned Armed Forces launched ballistic missile strikes on enemy reinforcements commanded by Saudi officer Badr al-Harbi in Lahij province. On Friday, OSINT sources reported on a successful Houthi thrust deep into enemy-controlled areas along the Gulf of Aden coast, bringing them to within 80km of the Saudi-backed government\u2019s capital. Fierce fighting has been reported along this section of the front [over the past 24 hours](https://t.me/geopolitics_prime/77734).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T16:07:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
