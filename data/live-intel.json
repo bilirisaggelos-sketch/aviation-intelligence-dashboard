@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-15T19:42:43.893861+00:00",
+  "generated_at": "2026-11-15T23:33:15.942511+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, November 16, 2026 through Saturday, November 21, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/15/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nKaneohe, HI, Tuesday, November 17, 2026 through Friday, November 20, 2026 Local\nFacility: ZHN",
@@ -230,24 +249,61 @@
       "verified_source_count": 1
     },
     {
-      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
-      "text": "Israel kills Hamas commander in strike on Gaza camp, officials say\nBoth Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\nSpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-15T08:17:41+00:00",
+      "timestamp": "2026-11-14T22:09:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "CASELS"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: The IRGC uploaded a compilation of downing U.S. drones",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T20:01:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Missile launches from Iran towards the U.S. Navy",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T19:51:48+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -337,14 +393,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -387,44 +442,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded NEW: About an hour ago, sirens sounded in Bahrain, and several Iranian drones were intercepted",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T02:34:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 A few thoughts:\n1. What would Iran gain from this? Such an attack would almost certainly fail, but would invite a massive retaliation\n2. Where would Iran even launch the drones from? There isn\u2019t enough range to launch them from Iran.\n3. This could be a false flag where Cuba is accused of being a launching pad of Iranian drones; President Trump has repeatedly envisioned Cuba as his next target for regime change.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T18:41:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[FAA issues nationwide ground stop for all U.S. airports](https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports)\nThe FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports)\nNPR Staff | npr\u200b.org \u2022 Nov 13, 2026",
       "source": "Telegram",
@@ -439,6 +456,65 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Our Wars Today"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 An Israeli investigation alleges that Prime Minister Benjamin Netanyahu's office helped coordinate the election-day arrests of three Arab political activists to bolster claims of Arab election interference, according to a report by N12.\nThe report states that Netanyahu's chief of staff directed police to an intelligence source\u2014who was a former Prime Minister's Office employee\u2014prompting raids based on allegations that were later found to be unsubstantiated. Netanyahu reportedly amplified news of the arrests throughout election day.\nAdditionally, Shin Bet chief David Zini sought to wiretap five Arab lawmakers over suspected foreign election interference, but the attorney general's office blocked the request. Investigators are now examining whether the intelligence was deliberately planted to facilitate the arrests.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T21:23:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\udded\ud83c\uddfe\ud83c\uddea\ud83c\uddee\ud83c\uddf7 Warning for U.S. citizens in Bahrain:\n\"There is an increased risk of armed attacks that may be carried out by the Houthis, as well as threats from Iran against senior U.S. officials and government institutions in the region.\nFlight cancellations, airspace closures, and disruptions to transportation are possible.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T21:07:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\udde7\ud83c\udded\ud83c\uddee\ud83c\uddf7 The Ministry of Foreign Affairs of Bahrain published a statement in which it strongly condemns a series of drone strikes carried out by Iran against the kingdom, including one that occurred this morning and was repelled by air defense systems, and another carried out at dawn on Friday, during which two drones were intercepted.\nThe statement says that Bahrain reserves the right to self-defense in accordance with Article 51, in coordination with the Gulf Cooperation Council and its allies.\nThe statement also calls on the Security Council to take decisive measures to force Iran to comply with international norms.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T20:57:15+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -463,40 +539,42 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 President Trump via Truth Social:\nThe Biden Administration was an FAA disaster. Everything they touched turned bad. Big money spent unwisely, making an old and broken system worse than when they began. \nWe have the knowledge and plan for the Flight Control Systems, we need Congress to give the money, FAST! \nOur FAA is doing a great job, and is ready to go.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 BIG: An Israeli N12 investigation has alleged that Prime Minister Benjamin Netanyahu's office helped orchestrate the Election Day arrests of three Arab political activists to fuel claims that Arabs were stealing the election, according to The Jerusalem Post and Ynet.\n\u27a1\ufe0f Netanyahu's chief of staff, Ido Norden, reportedly called police the day before the election and directed them to a purported intelligence source \u2014 a former Prime Minister's Office employee close to ex-director-general Yossi Shelley. The information he provided led to raids and arrests without warrants on Election Day, and later proved unfounded. Investigators are examining whether the intelligence was deliberately planted.\n\u27a1\ufe0f The report also says Shin Bet chief David Zini sought to wiretap five Arab lawmakers over suspected foreign election interference, but the Attorney General's office blocked the request. Zini reportedly told opposition leader Gadi Eisenkot two days after the vote that he had evidence dating back to 2018 of Arabs \"stealing elections\" that previous Shin Bet chiefs had ignored.\n\u27a1\ufe0f Netanyahu repeatedly amplified news of the arrests throughout Election Day, and his office has dismissed the report as \"false\" and \"grounds for defamation,\" insisting Norden merely connected a source with criminal information to police.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T14:47:03+00:00",
+      "timestamp": "2026-11-15T21:32:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Mediterranean Man"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\udde7\ud83c\udded \u2014 The IRGC Aerospace Force struck a U.S. air defense radar site at the Al-Rafaa helicopter base in Bahrain using six drones.\nThe IRGC stated this was the second phase of a \"decisive and crushing response\" to blatant U.S. military transgressions, adding that the precise strikes were heard across various areas of Bahrain.\nThe statement accused Washington of failing in its \"oil smuggling\" program and attempting to divert global attention from the Strait of Hormuz, which the IRGC reiterated is firmly closed.\nThe IRGC warned that any further American actions will be met with an even harsher response, noting they deployed a larger number of drones in this phase compared to the last, while \"expensive American drones are being shot down one after another.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Missile launches from Iran towards the Strait of Hormuz.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T11:49:44+00:00",
+      "timestamp": "2026-11-15T19:52:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
+        "Geopolitics Prime",
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
@@ -512,14 +590,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
         "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -648,13 +725,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -668,13 +744,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -688,11 +763,70 @@
       "location": "Global",
       "lat": null,
       "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcd1 Netanyahu's office linked to Election Day arrests of Arab activists \u2014 report\nPeople close to Prime Minister Benjamin Netanyahu orchestrated the politically motivated arrest of 3 Ra'am activists on Election Day to bolster his claims of election fraud, N12 reported.\nHow the setup worked:\n\ud83c\udf0f On the eve of the vote, Netanyahu's Chief of Staff Ido Norden called police to complain about activists in southern Israel.\n\ud83c\udf0f He directed them to a source close to the PMO who provided allegedly incriminating intel. N12 reports this information turned out to be completely baseless.\n\ud83c\udf0f Police raided the activists' homes on Election Day without search or arrest warrants.\nShin Bet chief David Zini even requested to wiretap 5 Arab MKs under the guise of investigating \"foreign interference.\" The Attorney-General's Office rejected the request.\n\ud83d\udcac \"There will be no more fair elections here. Once the Shin Bet and the police act this way... we will not be able to guarantee that the next election will be fair,\" N12 quoted a senior law enforcement official as saying.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T21:25:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcac\ud83d\udcca African airlines face painful jet fuel shortages as West hoards shrinking supplies\n\u00a0\nAirMozambique is bracing for critical jet fuel shortages, warning of reduced seating capacity, timetable changes and \u201cpossible flight cancellations over the coming days\u201d due to circumstances beyond its ability to control.\nThe flag carrier is the latest African airline to report critical A-1 fuel shortages, with carriers in neighboring South Africa, Zimbabwe, Zambia and Malawi grappling with their own supply shocks, and price hikes up to 500%, over the course of the Iran war.\nElsewhere on the continent, nations with large commercial fleets including Ethiopia, Kenya and Nigeria have faced their own operational disruptions, route cuts, price hikes and losses (in the spring, Ethiopian Airlines reported haemorrhaging $137M in a single week due to extensive flight suspensions).\nBesides interruptions to supplies sourced in the Gulf, which accounted for ~70% of imports before the Iran war, Africa\u2019s own refiners have been incentivized to prioritize European clients over their fellow Africans, with European countries simply outbidding regional competitors for shrinking supplies.\nNigeria\u2019s massive Dangote Petroleum Refinery became Europe\u2019s top foreign source of jet fuel in June, exporting 466k metric tons. Exports account for 87% of production, with the remainder left over for domestic carriers.\nThe situation in Africa has been echoed in South Asia and Latin America, and matched in other categories, including gasoline, diesel and fertilizers.\nThis creates a curious paradox: the US launched a war in a critical energy-producing region without consulting the Global South, and its NATO allies are now hoarding supplies, leaving the developing world facing the brunt of the economic fallout.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T20:34:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Iranian missiles spotted over Qeshm Island\nAt least 3 missiles have been seen tearing through the sky over Qeshm Island, reportedly heading directly toward the Strait of Hormuz.\nQeshm sits right at the mouth of the waterway, where US jets and Iranian air defenses have been trading fire in recent weeks.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T19:43:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "BBC World News",
-        "CASELS"
+        "Geopolitics Prime",
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
@@ -790,65 +924,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran says it\u2019s in \u2018neither-war-nor-peace\u2019 state: what does that mean?\n\u00a0\n[Iran\u2019s parliament speaker reiterated](https://t.me/geopolitics_prime/77797) Sunday that Tehran would not be bullied by Washington into a binary choice of talks on US terms or war, and that the prevailing third option \u2013 a \u201cstate of neither war nor peace,\u201d could be brought to an end if the US meets Iran\u2019s criteria for negotiations.\nIran\u2019s [usage of the \u201cneither war nor peace\u201d ](https://t.me/geopolitics_prime/69980)(na jang, na solh) concept dates back to the Iran-Iraq War of 1980-1988, and the 1988 ceasefire that saw a halt in fighting without a formal peace treaty or resolution of underlying disputes. However, the \u2018cold war\u2019-style dynamics of armed truces combined with localized fighting goes back thousands of years to the ancient Persian-Roman rivalry spanning from the late first century BC through the seventh century AD.\nSupreme Leader Ali Khamenei revived the concept and the related idea of \u201cno war, [no negotiation\u201d during Trump\u2019s 2018-2020 \u2018maximum pressure\u2019 campaign](https://t.me/geopolitics_prime/69009), which saw the US withdraw from the nuclear deal, reintroduction of tough sanctions, tit-for-tat tanker seizures, proxy attacks, terror designations, the downing of an American spy drone over Hormuz, the US assassination of one of the IRGC\u2019s top commanders, and retaliatory Iranian missile strikes on US bases in Iraq.\n\u201cNeither war nor peace\u201d returned after the breakdown of the Iran-US MoU in July 2026. In current realities, it means:\n\u2666\ufe0f a lack of full-scale warfare, combined with mutual hostility and occasional back-and-forth strikes\n\u2666\ufe0f a dual-blockade war of attrition in and around Hormuz\n\u2666\ufe0f[ an Iranian \u201cseven conditions\u201d ultimatum ](https://t.me/geopolitics_prime/77587)(an end to hostilities across the region, lifting of US sanctions, withdrawal of US forces, war reparations) before talks can resume, given how many times the US and Israel have struck in the middle of negotiations\n\u2666\ufe0f[ ](https://t.me/geopolitics_prime/77587)the prospect of expanding the war\u2019s geography, scope and sophistication if the [US attacks again](https://t.me/geopolitics_prime/77405) or rejects and honorable peace\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T12:12:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian aerial bombs pound Ukrainian drone deployment site\nVideo footage has appeared online showing Russian forces dropping FAB aerial bombs on a deployment site of a Ukrainian drone operator near Slavyansk in the Donetsk People's Republic.\nThis area is a key transport link that has been used to move Ukrainian reinforcements, including by suburban rail.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T11:32:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 \ud83c\udde7\ud83c\udded Iran releases footage of drone strike on US base in Bahrain\nThe video shows attack drones being launched against a US air defense radar at Bahrain's Al-Rifaa [helicopter base](https://t.me/geopolitics_prime/77790).\nThe attack came in response to an airstrike on a telecommunications tower in the city of Sirik, southern Iran, the statement says.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T09:42:43+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
     },
     {
       "title": "Telegram",
