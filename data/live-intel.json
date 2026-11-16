@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T03:12:48.084908+00:00",
+  "generated_at": "2026-11-16T11:41:14.944348+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -135,6 +135,25 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTEF3\r",
+      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3777\r\nIssue Time: 2026 Nov 16 0628 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3776\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 3378 pfu\nMax time: 2026 Nov 15 1405 UTC",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-16 06:28:16.430",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1138\r\nIssue Time: 2026 Nov 15 1334 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 16: None (Below G1) Nov 17: G1 (Minor) Nov 18: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -207,44 +226,6 @@
       "verification_confidence": 100,
       "verified_sources": [
         "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3775\r\nIssue Time: 2026 Nov 14 0503 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3774\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 5223 pfu\nMax time: 2026 Nov 13 1700 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-14 05:03:51.727",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
-      "text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\nSpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-14T22:09:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
       ],
       "verified_source_count": 1
     },
@@ -424,6 +405,45 @@
     },
     {
       "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran's IRGC Navy claims it captured a fourth U.S. MQM-170 drone intact through electronic warfare south of Qeshm Island.\nThe IRGC says it seized control of the drone, allegedly spying on Iranian air defense and electronic warfare systems, and landed it intact.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T09:37:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s IRGC Navy says two oil tankers escorted by U.S. fighter jets struck naval mines in the Strait of Hormuz, triggering massive explosions.\nIt claims six tankers have caught fire and are sinking since yesterday, causing widespread pollution.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T05:58:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
       "publisher": "Our Wars Today",
       "text": "[FAA issues nationwide ground stop for all U.S. airports](https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports)\nThe FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports)\nNPR Staff | npr\u200b.org \u2022 Nov 13, 2026",
       "source": "Telegram",
@@ -453,14 +473,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -502,25 +521,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Ansar Allah (the Houthis) spokesperson: We targeted two oil pumping stations along the East-West Pipeline in the Riyadh region with two drones.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T19:22:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\udde7\ud83c\udded The American embassy in Manama, Bahrain, has issued a warning to American citizens in Bahrain to exercise heightened caution due to Houthi-Saudi tensions or that the situation with Iran will escalate, and asked citizens to be aware as flight cancellations and or delays will happen.",
       "source": "Telegram",
@@ -550,14 +550,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Mediterranean Man"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -678,25 +677,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Mossad and CIA have warned that Iran is planning to destroy Trump and senior American officials with drones, Trump scaled back public appearances and some officials have been moved to secure locations.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-14T18:54:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
       "text": "Houthi media reports that Saudi Arabia has struck Hodeida airport in Yemen, with no immediate reports of casualties or damage.",
       "source": "Telegram",
@@ -773,39 +753,78 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Ukraine's Phoenix drone unit reports a week of strikes against Russian forces across the Dobropillia, Lyman and Toretsk sectors. Targets included tanks, a T-62M, armored vehicles, artillery, trucks, FPV ambush positions and infantry, including soldiers attempting to conceal themselves under camouflage cloaks.",
+      "publisher": "Geopolitics Prime",
+      "text": "\u26a1\ufe0fIRGC captures US drone intact\nIran's IRGC Navy said it captured a fourth US MQM-170 drone intact through electronic warfare south of Qeshm Island.\n\u00a0\n\ud83d\udd0aIt seized control of the drone, which it believes was spying on Iranian air defense and electronic warfare systems, and brought it down safely, the IRGC added.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T02:12:23+00:00",
+      "timestamp": "2026-11-16T09:54:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udf0f Gulf oil pivots to Asia: How the Hormuz crisis is redrawing the global energy map\nAs attacks on UAE and Saudi oil infrastructure turn the Strait of Hormuz into a combat zone, Gulf producers and Asian consumers are fundamentally restructuring the global energy supply chain by building reserves directly in Southeast Asia.\n\ud83d\udd36 Before the conflict, over half of Southeast Asia\u2019s crude and 90% of Japan\u2019s oil came from the Persian Gulf.\n\ud83d\udd36 With oil >$100 a barrel and shipping lanes threatened by mines and missiles, relying on long-haul tankers is no longer viable.\n\ud83d\udd36 Saudi Arabia and the UAE are now backing a Japan-led initiative to store oil reserves across ASEAN nations, including Singapore, Indonesia, Malaysia, and the Philippines.\nBy shifting reserves to Asia, Gulf states seek to secure guaranteed market access without risking their tankers in contested waters, while Asian nations buffer themselves against supply shocks.\nThe Gulf's economic future is being firmly anchored to Asia. By physically relocating their oil reserves eastward, Gulf producers are insulating themselves from Western-led blockades and proving that the \"West Asian New Order\" is inextricably linked to the East.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T05:21:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Three commercial ships were reportedly attacked by drones in Romanian territorial waters near the Danube Delta on November 14. The vessels were Evia Petrol V, Marsol and Ali Najafov, with a fire reported aboard Marsol. Romania's Air Force reportedly scrambled fighter jets twice.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8\ud83c\uddf7\ud83c\uddfa Russian Geran drones hit targets across Ukraine\nMore videos have emerged online showing strikes on Ukrainian military and industrial infrastructure in the Kharkov, Poltava and Sumy regions.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T02:11:45+00:00",
+      "timestamp": "2026-11-16T04:55:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\ude80 40 Amazon satellites wiped out as US rocket suffers mission failure\nA United Launch Alliance (ULA) Vulcan rocket suffered an anomaly around 10 minutes after liftoff from Cape Canaveral, failing to deliver its payload of 40 Amazon Leo satellites into orbit.\nThe cause of the malfunction remains unclear, with ULA and engine supplier Blue Origin expected to investigate.\nThe failure is another setback for Amazon's efforts to challenge SpaceX's Starlink network, as launch disruptions continue to delay deployment of its satellite constellation.\n\ud83d\udd34 The incident is particularly damaging for ULA, a joint venture between Boeing and Lockheed Martin, which had touted a 100% mission success record since its formation in 2006\n\ud83d\udd34 It was only Vulcan's fifth flight since its 2024 debut - previous technical investigations into its solid rocket boosters and BE-4 engines had already delayed its launch schedule\n\ud83d\udd34 Latest failure could trigger another lengthy grounding, further tightening US launch capacity \n\ud83d\udd34 ULA had also yet to regain full approval for national security launches following earlier booster problems\nAmazon has deployed 398 Leo satellites across 14 launches since 2025, just 12% of the 3,236 required for global coverage. \nSpaceX, by comparison, operates a network of more than 11,000 Starlink satellites, and, unlike Amazon, controls its own launch infrastructure rather than depending on outside providers.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T04:40:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -818,160 +837,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-16T02:33:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u26f4 USS Theodore Roosevelt arrives in Middle East\nThe US Navy aircraft carrier USS Theodore Roosevelt arrived in the Middle East on Sunday evening, according to reports.\nThe carrier strike group CSG-9 includes F-35C stealth fighters, Super Hornets, guided-missile cruisers, destroyers, and an unmanned surface vessel.\n\ud83e\ude96 This brings the total number of US aircraft carrier strike groups deployed within the Central Command area of responsibility to 3.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T00:54:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Eisenkot demands probe into Netanyahu's election interference\nThe man holding the mandate to form Israel's next government has accused outgoing Prime Minister Benjamin Netanyahu of posing a \"direct and immediate threat\" to Israeli democracy.\nEisenkot says the warrantless raids on three Ra'am activists follow the \"Qatargate\" affair and amounts to an attempt to rig the election by planting evidence.\n\"No part of Israel has been left uncorrupted, distorted or subjugated to serve Netanyahu\u2019s personal political survival... Under no circumstances must Netanyahu remain at the helm of government for even one more minute,\" Eisenkot wrote on X.\n\ud83d\udc49 Eisenkot explicitly linked the scandal to his ongoing coalition negotiations, vowing that as long as Netanyahu remains in office, \"no more fair and legitimate elections will take place in Israel.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T00:03:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcd1 Netanyahu's office linked to Election Day arrests of Arab activists \u2014 report\nPeople close to Prime Minister Benjamin Netanyahu orchestrated the politically motivated arrest of 3 Ra'am activists on Election Day to bolster his claims of election fraud, N12 reported.\nHow the setup worked:\n\ud83c\udf0f On the eve of the vote, Netanyahu's Chief of Staff Ido Norden called police to complain about activists in southern Israel.\n\ud83c\udf0f He directed them to a source close to the PMO who provided allegedly incriminating intel. N12 reports this information turned out to be completely baseless.\n\ud83c\udf0f Police raided the activists' homes on Election Day without search or arrest warrants.\nShin Bet chief David Zini even requested to wiretap 5 Arab MKs under the guise of investigating \"foreign interference.\" The Attorney-General's Office rejected the request.\n\ud83d\udcac \"There will be no more fair elections here. Once the Shin Bet and the police act this way... we will not be able to guarantee that the next election will be fair,\" N12 quoted a senior law enforcement official as saying.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T21:25:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcac\ud83d\udcca African airlines face painful jet fuel shortages as West hoards shrinking supplies\n\u00a0\nAirMozambique is bracing for critical jet fuel shortages, warning of reduced seating capacity, timetable changes and \u201cpossible flight cancellations over the coming days\u201d due to circumstances beyond its ability to control.\nThe flag carrier is the latest African airline to report critical A-1 fuel shortages, with carriers in neighboring South Africa, Zimbabwe, Zambia and Malawi grappling with their own supply shocks, and price hikes up to 500%, over the course of the Iran war.\nElsewhere on the continent, nations with large commercial fleets including Ethiopia, Kenya and Nigeria have faced their own operational disruptions, route cuts, price hikes and losses (in the spring, Ethiopian Airlines reported haemorrhaging $137M in a single week due to extensive flight suspensions).\nBesides interruptions to supplies sourced in the Gulf, which accounted for ~70% of imports before the Iran war, Africa\u2019s own refiners have been incentivized to prioritize European clients over their fellow Africans, with European countries simply outbidding regional competitors for shrinking supplies.\nNigeria\u2019s massive Dangote Petroleum Refinery became Europe\u2019s top foreign source of jet fuel in June, exporting 466k metric tons. Exports account for 87% of production, with the remainder left over for domestic carriers.\nThe situation in Africa has been echoed in South Asia and Latin America, and matched in other categories, including gasoline, diesel and fertilizers.\nThis creates a curious paradox: the US launched a war in a critical energy-producing region without consulting the Global South, and its NATO allies are now hoarding supplies, leaving the developing world facing the brunt of the economic fallout.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T20:34:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Iranian missiles spotted over Qeshm Island\nAt least 3 missiles have been seen tearing through the sky over Qeshm Island, reportedly heading directly toward the Strait of Hormuz.\nQeshm sits right at the mouth of the waterway, where US jets and Iranian air defenses have been trading fire in recent weeks.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T19:43:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9Yemen's Saudi-backed forces withdraw from Bab al-Mandab as Houthis tighten their grip on the strait\nYemen's Southern Armed Forces announced that they were withdrawing from Dhubab Airport and the Bab al-Mandab area west of Taiz province, redeploying toward Aden as Houthi forces press south along the Red Sea coast.\nThe force described the move as a military adjustment to reinforce Aden's defenses and reorganize front lines, though it effectively cedes the strategic chokepoint connecting the Red Sea to the Gulf of Aden.\nThe withdrawal follows weeks of fighting after Ansar Allah launched an offensive along Yemen's western coast in September. Government forces had attempted a [counteroffensive](https://t.me/geopolitics_prime/75636) in October to retake coastal territory, but the advances around [Taiz undermined](https://t.me/geopolitics_prime/76362) that effort.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T18:09:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Netanyahu and Eisenkot hold unity talks as Israeli coalition deadline looms\nNegotiating teams for Benjamin Netanyahu's Likud and Gadi Eisenkot's Yashar party met on Sunday evening to discuss a potential national unity government, even as the two leaders traded accusations over who was playing politics with the offer, Ynet reports.\nNetanyahu publicly urged Eisenkot to enter talks \"without preconditions,\" while Eisenkot dismissed the appeal as \"another spin\" and pointed out that the meeting had already been scheduled before Netanyahu's statement. He added Likud could join an emergency government under his leadership, but only if it accepts his principles and distances itself from right-wing forces.\nThe talks come with a hard deadline, as Eisenkot has 28 days to assemble a ruling coalition, with a possible 14-day extension. If he fails, another lawmaker could be given the chance, and a new election remains possible. Neither Eisenkot nor Netanyahu has enough seats to form a government without a coalition with other parties.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T16:41:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Russia launches widespread strikes across Ukraine\nRussian forces deployed Geran-4 and Geran-5 jet-powered drones alongside Banderol missiles in coordinated attacks on Ukrainian targets.\nLocations hit:\n\ud83c\udf0f Odessa and surrounding areas\n\ud83c\udf0f Dnepropetrovsk\n\ud83c\udf0f Kremenchug (Poltava region)\n\ud83c\udf0f Chernigov region\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T16:00:42+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
