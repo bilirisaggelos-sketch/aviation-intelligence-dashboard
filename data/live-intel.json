@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T23:33:15.942511+00:00",
+  "generated_at": "2026-11-16T03:12:48.084908+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -230,25 +230,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Iran targets US military base in Bahrain with drone attack",
-      "text": "Iran targets US military base in Bahrain with drone attack\nIt marks the second attack on the country in three days and comes as the US and Iran remain locked in a stand-off over the Strait of Hormuz.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-15T13:42:58+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
       "text": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth\nSpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
       "source": "BBC",
@@ -298,12 +279,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Mediterranean Man",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -540,6 +522,25 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\udde7\ud83c\udded The American embassy in Manama, Bahrain, has issued a warning to American citizens in Bahrain to exercise heightened caution due to Houthi-Saudi tensions or that the situation with Iran will escalate, and asked citizens to be aware as flight cancellations and or delays will happen.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-15T23:48:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
       "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 BIG: An Israeli N12 investigation has alleged that Prime Minister Benjamin Netanyahu's office helped orchestrate the Election Day arrests of three Arab political activists to fuel claims that Arabs were stealing the election, according to The Jerusalem Post and Ynet.\n\u27a1\ufe0f Netanyahu's chief of staff, Ido Norden, reportedly called police the day before the election and directed them to a purported intelligence source \u2014 a former Prime Minister's Office employee close to ex-director-general Yossi Shelley. The information he provided led to raids and arrests without warrants on Election Day, and later proved unfounded. Investigators are examining whether the intelligence was deliberately planted.\n\u27a1\ufe0f The report also says Shin Bet chief David Zini sought to wiretap five Arab lawmakers over suspected foreign election interference, but the Attorney General's office blocked the request. Zini reportedly told opposition leader Gadi Eisenkot two days after the vote that he had evidence dating back to 2018 of Arabs \"stealing elections\" that previous Shin Bet chiefs had ignored.\n\u27a1\ufe0f Netanyahu repeatedly amplified news of the arrests throughout Election Day, and his office has dismissed the report as \"false\" and \"grounds for defamation,\" insisting Norden merely connected a source with criminal information to police.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -573,8 +574,8 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
+        "Mediterranean Man",
+        "Middle East Spectator"
       ],
       "verified_source_count": 2
     },
@@ -697,12 +698,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8[WSJ:](https://www.wsj.com/business/airlines/the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt-eedc326c) The technical failure taht resulted in the grounding of all flights in the U.S. was traced to two locations: an FAA radio site in El Dorado, Arkansas, and a radar site in Amarillo, Texas. \nA newly installed Juniper router at the Arkansas facility began transmitting an unusually high volume of data, overwhelming the FAA\u2019s ageing telecommunications network.\nThe FAA is investigating whether the incident resulted from faulty equipment, incorrect installation or improper configuration by defence contractor L3Harris Technologies.",
+      "text": "Houthi media reports that Saudi Arabia has struck Hodeida airport in Yemen, with no immediate reports of casualties or damage.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T05:51:01+00:00",
+      "timestamp": "2026-11-16T02:40:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -716,12 +717,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Unconfirmed reports indicate a possible missile launch from Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "New drone attack reported against a house in El Tarra, Norte de Santander\nA drone attack involving explosives struck a house in the Filo El Gringo area, within the municipality of El Tarra in the Catatumbo region of Norte de Santander. The incident was reported in the past few hours.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T05:50:41+00:00",
+      "timestamp": "2026-11-16T02:19:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -735,12 +736,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde7\ud83c\udded Reports suggest that Bahrain's air defense systems intercepted a drone over the country, following reports of an explosion heard earlier.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Several Russian regions are under drone attack right now. Airports in Kaluga and Moscow's Vnukovo are not operating.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T05:49:50+00:00",
+      "timestamp": "2026-11-16T02:19:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -754,12 +755,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 Palestinian reports indicate that an Israeli drone strike targeted a \"tent sheltering displaced Palestinians\" in the Al-Mawasi area of Khan Younis, southern Gaza, killing one person and injuring two others.\nThe person killed has reportedly been identified as Samir Abu Younis, also known as \"Abu Mahmoud\", the commander of Hamas's Al-Qassam Brigades in Rafah, who succeeded the slain commander Abu Atiya Abu Ubaid.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "Drones hit several Russian regions overnight. Early info points to a petrochemical plant in Nizhnekamsk, two substations and a bridge in Taganrog, and a Defense Ministry flight test center in Akhtubinsk. Russian MoD says air defense downed 533 Ukrainian drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T05:48:19+00:00",
+      "timestamp": "2026-11-16T02:15:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -767,6 +768,101 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Ukraine's Phoenix drone unit reports a week of strikes against Russian forces across the Dobropillia, Lyman and Toretsk sectors. Targets included tanks, a T-62M, armored vehicles, artillery, trucks, FPV ambush positions and infantry, including soldiers attempting to conceal themselves under camouflage cloaks.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T02:12:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Three commercial ships were reportedly attacked by drones in Romanian territorial waters near the Danube Delta on November 14. The vessels were Evia Petrol V, Marsol and Ali Najafov, with a fire reported aboard Marsol. Romania's Air Force reportedly scrambled fighter jets twice.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T02:11:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 'They were googling hospitals': US troops left scrambling after Iranian drone strike in Kuwait\nA CBS investigative report has exposed the shocking reality of US military readiness in the Middle East. When an Iranian drone struck a US command post in Kuwait, Master Sgt. Nicole Amor was critically wounded.\nInstead of a coordinated medical evacuation, fellow soldiers loaded her into an SUV and began Googling local hospitals to find a place to take her.\n\ud83d\udd34 The Shuaiba base, a strategic US outpost, had zero additional medical personnel, equipment, or supplies when the 103rd unit deployed.\n\ud83d\udd34 The entire medical gear available was limited to the contents of one single ambulance.\n\ud83d\udd34 Medic Tanner Carson warned that the resources were only enough to keep a maximum of 2 people alive during mass casualties.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T02:33:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u26f4 USS Theodore Roosevelt arrives in Middle East\nThe US Navy aircraft carrier USS Theodore Roosevelt arrived in the Middle East on Sunday evening, according to reports.\nThe carrier strike group CSG-9 includes F-35C stealth fighters, Super Hornets, guided-missile cruisers, destroyers, and an unmanned surface vessel.\n\ud83e\ude96 This brings the total number of US aircraft carrier strike groups deployed within the Central Command area of responsibility to 3.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T00:54:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd0d Eisenkot demands probe into Netanyahu's election interference\nThe man holding the mandate to form Israel's next government has accused outgoing Prime Minister Benjamin Netanyahu of posing a \"direct and immediate threat\" to Israeli democracy.\nEisenkot says the warrantless raids on three Ra'am activists follow the \"Qatargate\" affair and amounts to an attempt to rig the election by planting evidence.\n\"No part of Israel has been left uncorrupted, distorted or subjugated to serve Netanyahu\u2019s personal political survival... Under no circumstances must Netanyahu remain at the helm of government for even one more minute,\" Eisenkot wrote on X.\n\ud83d\udc49 Eisenkot explicitly linked the scandal to his ongoing coalition negotiations, vowing that as long as Netanyahu remains in office, \"no more fair and legitimate elections will take place in Israel.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T00:03:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -822,13 +918,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Geopolitics Prime",
-        "Mediterranean Man"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -877,44 +972,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-15T16:00:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Two tankers catch fire after striking naval mines in Hormuz \u2013 IRGC\nIran\u2019s Islamic Revolutionary Guard Corps (IRGC) Navy released footage showing two oil tankers exploding after striking naval mines in the Strait of Hormuz. Both vessels caught fire, and one, a supertanker carrying more than 2 million barrels of crude oil, sank in the southern Persian Gulf.\nThe IRGC said the tankers switched off their tracking and identification systems and tried to cross via the southern route without Iranian clearance. It accused the US military of supporting the attempt.\nEarlier in the day, the IRGC said [the two tankers struck mines](https://t.me/geopolitics_prime/77786) and caught fire, and that two other vessels turned back into the Persian Gulf after their naval traffic control center warned them in the wake of the blasts. The blasts are the latest in a series of incidents in which vessels have struck mines or been forced to turn back since Iran imposed its transit restrictions.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T15:05:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96\ud83c\uddee\ud83c\uddf1 Israeli military activity in Syria surges, with dozens of incursions reported in recent weeks\nA war monitor has counted at least 70 IDF incursions in southern Syria in the first two weeks of November, including probing patrols, construction of checkpoints, blocking of local roads using earthen barriers and behavior matching that of an occupying administration, including searches of homes and civilian ID checks.\n\ud83d\udc49Since November 1,[ IDF activity has been reported in Quneitra and Daraa provinces](https://t.me/geopolitics_prime/74362), and the strategic Mount Hermon in the Damascus countryside, according to the so-called Syrian Observatory for Human Rights.\nQuneitra residents held a protest Friday demanding the release of kidnapped relatives held in Israeli prisons. Ex-detainees and relatives have told LA Times captives face beatings, threats and harsh conditions, with no explanation about why they\u2019re being held.\n\u27a1\ufe0f Separately on Friday, SANA reported that Israeli forces had entered the town of Jabata al-Khashab, Quneitra, temporarily detaining three people, searching homes and damaging shops.\nOn Sunday, Israeli tanks opened fire on agricultural lands and fields in the western Daraa countryside. No casualties were reported, and no details given about what caused the incident.\nSyria\u2019s government has formally demanded that Israel withdraw from its internationally-recognized territories, but not issued any new statements on November\u2019s escalating incursions. Families told LA Times their appeals to the government about getting their loved ones back \u201chave fallen on deaf ears.\u201d\nDecember will mark the second anniversary of the surprise collapse of the Assad government and its replacement by rebel forces. During the chaos in 2024, Israel launched hundreds of air, artillery and drone attacks to destroy Syria\u2019s air defense, air force, navy and missile forces, and added ~400 sq. km to the territories it\u2019s occupied since 1967. Last month, Etana Syria estimated that Israeli incursions take place across an additional ~1,160 sq km.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T14:16:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
