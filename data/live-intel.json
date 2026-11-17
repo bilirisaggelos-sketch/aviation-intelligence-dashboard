@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-16T21:15:59.161700+00:00",
+  "generated_at": "2026-11-17T04:07:40.417950+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nNORFOLK, VA, Saturday, November 21, 2026 through Saturday, November 21, 2026 Local\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/17/2026",
+      "location": "ZDC VA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPARK CITY, UT, Wednesday, November 18, 2026 through Wednesday, November 18, 2026 Local\nFacility: ZLC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/17/2026",
+      "location": "ZLC UT",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLas Vegas, NV, Thursday, November 19, 2026 through Saturday, November 21, 2026 Local\nFacility: ZLA",
@@ -308,6 +346,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NOTE: Today, the New York Times also wrote an article justifying the targeting of Iranian dams and vital civilian infastructure\nThey claimed that the dams were somehow related to Iran\u2019s ballistic missile program\u2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T23:37:18+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\ud83c\uddee\ud83c\uddf7| NOW: Air defense activity over Isfahan, central Iran. \n(Likely micro drones)",
       "source": "Telegram",
       "source_type": "telegram",
@@ -345,89 +402,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf6/\ud83c\uddee\ud83c\uddf6 NEW: The Iraqi resistance movement \u2018Kataib Hezbollah\u2019 has officially announced the introduction of FPV drone units among its ranks",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T15:50:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfe\ud83c\uddea Ansarallah fighters advancing somewhere in Yemen",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T15:05:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: The IRGC uploaded a compilation of downing U.S. drones",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T20:01:56+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Missile launches from Iran towards the U.S. Navy",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-15T19:51:48+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Russian Foreign Minister Sergei Lavrov on Germany:\nThree days later they announced to us that they are closing our consulate general in Bonn and the Russian House in Berlin.\nNo one proved that it was a Russian drone.\nAren't you taking rather long to investigate Nord Stream, where you found not something unexploded, but where you were simply blown up, spat in the face, and you wiped it off, and you have been investigating for four years?",
+      "text": "Ted Cruz:\nI have long been warning that I think we are going to see drones used to commit assassinations. \nI think we're going to see drones used to commit murder.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T20:34:21+00:00",
+      "timestamp": "2026-11-16T23:36:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -456,6 +437,140 @@
         "Our Wars Today"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 BREAKING: United Airlines says a widespread system outage is affecting its departing flights. Flights already in the air and United Express services are unaffected, and the carrier says it is working to resolve the issue.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T22:32:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The Islamic Revolutionary Guard Corps (IRGC) announced the capture of a U.S. MQM-170 drone over southern Qeshm Island using electronic warfare, marking the ninth such seizure, according to the IRGC's Public Relations Department.\nThe IRGC Aerospace Force reportedly seized control of the drone's systems and safely landed it. The statement claimed that the number of U.S. equipment losses has grown so high that CENTCOM commanders have \"lost count.\"\nThe IRGC asserted that the operation demonstrates the failure of U.S. technological superiority against Iran's indigenous electronic warfare capabilities.\nThe statement concluded with a warning that Iranian airspace will not be a testing ground for aggressors, and that any hostile action will be met with a decisive response.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T22:23:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f \ud83c\uddee\ud83c\uddf7 \ud83c\uddee\ud83c\uddf1 A video has appeared showing Iranian missiles striking Israel during the latest war.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T21:41:13+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f \ud83c\uddee\ud83c\uddf1 \ud83c\uddf5\ud83c\uddf8 Today, IDF forces arrived in the Ein HaShlosha area after balloons were found on the ground.\nAs a result of the search, the balloons were located. Suspicious objects were found attached to them, which did not contain explosives, and were seized by the military.\nA component with GPS was found on the balloons, which apparently serves as test equipment for Hamas.\nThe IDF is maintaining constant contact with the local authorities and the regional council.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T21:39:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f \ud83c\uddf8\ud83c\udde6 \ud83c\uddfe\ud83c\uddea Satellite images show direct hits on the positions of the Saudi border guard in Jizan.\nYemeni drones and missiles carried out strikes on these sites, but Saudi Arabia is keeping the results quiet, now claiming that it intercepts most of the raids on its positions.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T21:38:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f \ud83c\uddee\ud83c\uddf1 The Israeli arms manufacturer Rafael Advanced Defense Systems has unveiled a new long\u2011range cruise missile called \u201cSUPER ICE,\u201d designed to penetrate modern air defense systems and carry out long\u2011distance strikes.\nAccording to a report in the Israeli newspaper Maariv, development of the missile family began in 2021, after former Prime Minister Naftali Bennett discovered that the Israeli armed forces lacked operational plans and specialized munitions to strike Iran\u2019s nuclear infrastructure.\nIn response, Bennett instructed the defense industry to accelerate the production of deep\u2011strike capabilities, which led to the creation of the ICE system, a cruise missile that can be launched from air, land, and sea platforms.\nThe upgraded SUPER ICE version features increased range, higher speed, and a warhead weighing 454 kg (1,000 pounds).\nThe report notes that earlier versions of the \u201cICE\u201d missile have already been used operationally in attacks on Iran, Syria, Lebanon, Yemen, and Qatar.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T21:38:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8 According to multiple American sources, currently, a number of American banks including Wells Fargo, Chase, and multiple others are experiencing an outage, with customers unable to access their accounts.\nAside from this, United Airlines has grounded flights throughout the United States due to a major outage.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T22:34:50+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -498,12 +613,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Houthi media reports that Saudi Arabia has struck Hodeida airport in Yemen, with no immediate reports of casualties or damage.",
+      "text": "Northrop Grumman won a new $1.6B multi-year order, announced today, to ramp production of solid rocket motors and ignition safety devices for the Army's PAC-3 MSE interceptor program. Part of the broader $3B agreements from August.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T02:40:22+00:00",
+      "timestamp": "2026-11-17T03:59:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -517,12 +632,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "New drone attack reported against a house in El Tarra, Norte de Santander\nA drone attack involving explosives struck a house in the Filo El Gringo area, within the municipality of El Tarra in the Catatumbo region of Norte de Santander. The incident was reported in the past few hours.",
+      "text": "Iraq's Kataeb Hezbollah: Our weapons are a legitimate right and will stay with our fighters.\nBaghdad is pushing to bring all arms under state control.\nImages show the group's fighters flying FPV drones in the desert.\nIraq and Jordan blocked Telegram the same day over extremism and security concerns.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T02:19:22+00:00",
+      "timestamp": "2026-11-17T03:51:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -536,12 +651,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Several Russian regions are under drone attack right now. Airports in Kaluga and Moscow's Vnukovo are not operating.",
+      "text": "ULA's Vulcan rocket failed about 10 minutes after liftoff from Cape Canaveral.\nAll 40 Amazon Leo satellites on board were lost. ULA had not lost a mission outright in 20 years.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T02:19:16+00:00",
+      "timestamp": "2026-11-17T03:51:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,12 +670,50 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Drones hit several Russian regions overnight. Early info points to a petrochemical plant in Nizhnekamsk, two substations and a bridge in Taganrog, and a Defense Ministry flight test center in Akhtubinsk. Russian MoD says air defense downed 533 Ukrainian drones.",
+      "text": "\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\u26a1\ufe0f \u2014 Russia targeted Kyiv's Pivnichnyi Bridge (Northern Bridge) in retaliation for Ukrainian UAV attacks on the Crimean Bridge.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T02:15:16+00:00",
+      "timestamp": "2026-11-17T03:39:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddee\ud83c\uddf6\u26a1\ufe0f \u2014 Air raid sirens have sounded at the Khor Mor Oil and Gas Field in Iraq's Kurdistan Region, in Sulaymaniyah Governorate, amid a threat of an incoming drone attack.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-17T03:38:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u203c\ufe0fPreliminary reports suggest a mix of drones and missiles struck the Crimean Bridge during tonight's attack. The bridge may not be completely destroyed, but the extent of structural damage and how long repairs will take could determine how severely traffic is affected.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-17T03:37:38+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,12 +727,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d\ud83d\udcf9Pentagon budget reveals first new US nuclear bomb designation since Cold War\nThe Senate Appropriations Committee has disclosed the designation for the newest air-dropped nuclear gravity bomb prototype, the B94, according to a TWZ report.\nThe weapon is believed to be intended to destroy bunkers buried deep underground, with authorities requesting roughly $77 million in funding. The only weapon fitting that description that is known to be in development is the Nuclear Deterrent System-Air-delivered, or NDS-A.\nThe B94 development follows the W93 warhead for Trident II missiles. Before it, the last new nuclear bomb to receive a designation was the B90, a nuclear depth and strike bomb canceled in September 1991 as the Soviet Union collapsed.\nThe current US stockpile has one bomb specifically designed for deeply buried targets, [the B61-11](https://t.me/geopolitics_prime/77236), with a reported yield of 340 to 400 kilotons and fewer than 100 units in service. NDS-A could be planned as a potential replacement, though no further details were provided.\nThe recent war in Iran has become the reference case for conventional targeting limits. Iran's Pickaxe Mountain site turned out to be too deep and too hardened for non-nuclear penetrators, and the US stockpile of conventional bunker-busting munitions has been significantly depleted by sustained operations in [the Middle East](https://t.me/geopolitics_prime/76452).\nThe B94 is part of a broader modernization of the US nuclear triad that includes new air- and sea-launched nuclear cruise missiles, the Sentinel ICBM, the B-21 bomber, and the Columbia-class submarine program.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\ude80 CENTCOM is scrambling for concrete bunkers after Iran's strikes on US bases\nAs the conflict with Iran drags on, the Pentagon is facing a grim reality: US soldiers deployed across the Middle East have been sheltering in converted steel shipping containers this entire time.\nThe Army just posted a contracting notice demanding 17 reinforced concrete bunkers: 10 in Israel, 5 in Saudi Arabia, and 2 in Lebanon, the War Zone reported.\nCompanies are being given only 8 days to respond and 3 days to quote a price, with a mandatory construction window of just 45 days.\nEarlier in the war, [six American soldiers were killed in Kuwait](https://t.me/geopolitics_prime/75826) when an Iranian drone struck an operations center set up inside a converted trailer.\nThis urgent bunker scramble comes just [days before a 60 Minutes interview](https://t.me/geopolitics_prime/77832) airs with the families of those killed, raising questions about why basic force protection wasn't provided.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T18:53:02+00:00",
+      "timestamp": "2026-11-17T03:10:08+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -593,12 +746,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 'Nvidia effect' doubles Israel's economic growth\nIsrael's economy grew at an annualized 8% in the third quarter, beating forecasts. But roughly half of that figure came from \"overseas production,\" revenue traced back to Nvidia's taxes. Without it, the economy would have grown by only 3.4%, according to Bloomberg.\n\ud83d\udc49 Nvidia's presence in Israel began with Mellanox, the semiconductor firm it acquired in 2020 and turned into a major engineering hub. The intellectual property developed there stayed attributed to Israel, so a share of Nvidia's chip revenue lands in Israel's national accounts, even though the chips are fabricated elsewhere. The company employs about 6,000 people in Israel and has become the country's largest revenue-generating operation by a wide margin.\nHowever, the AI boom that made the Nvidia effect possible is the same thing that makes Israel's headline growth vulnerable to a single company's fortunes. Jensen Huang's [resignation](https://t.me/geopolitics_prime/77728?single) last week sent Nvidia's shares plunging, potentially disrupting the flow of tax revenue to Israel as well. Beyond that, this revenue does little to boost local investment or job creation, analysts stress.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25 Kiev Southern and Northern bridges hit by ballistic missiles\nThe capital's key transit arteries were struck, leaving the left bank of Kiev facing severe heat and water supply disruptions, Mayor Klitschko said.\nAccording to Russia's Defense Ministry, the bridges were feeding military logistics \u2014 troops, weapons, and supplies \u2014 straight to the front.\nThe strikes are part of a broader Russian campaign against Ukrainian rear infrastructure \u2014 railways, warehouses, data centers, industrial sites, and the power grid used by Ukrainian troops.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T16:42:01+00:00",
+      "timestamp": "2026-11-17T00:28:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -612,12 +765,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc79 Netanyahu\u2019s office, Shin Bet and Likud under spotlight over alleged election interference\nIsraeli police and the attorney general are reportedly investigating efforts by Prime Minister Benjamin Netanyahu\u2019s office to undermine the election, The Times of Israel reports, providing further details.\n\ud83c\udf0f Netanyahu\u2019s chief of staff, Ido Norden, accused Ra\u2019am activists of buying votes and alerted police ahead of the October 27 election. Acting solely on his information, 14 officers raided the homes of three Bedouin men in southern Israel without warrants. All three were arrested, but the investigation produced no substantive evidence or indictments. The raids nevertheless were later used by Netanyahu to challenge the election results. Netanyahu's office denies the allegations.\n\ud83c\udf0f On election day, domestic intelligence agency Shin Bet's chief David Zini sought authorization to wiretap five Arab lawmakers over alleged foreign interference in the vote. The Attorney General\u2019s Office rejected the request. Yet the foreign-interference allegation surfaced publicly just two days after Zini\u2019s attempt with Central Elections Committee Chairman Justice Noam Sohlberg officially asking the Shin Bet to investigate the matter in the wake of the vote\n\ud83c\udf0f The Shin Bet chief subsequently approached Gadi Eisenkot, head of the Yashar party and Netanyahu\u2019s leading rival, declaring that \u201csince 2018, the Arabs have been stealing the election in Israel\u201d and adding that this would be the last time\n\ud83c\udf0f The recent revelations shed new light on earlier controversy reported by The Times of Israel. The newspaper, citing unnamed security sources, reported that the Shin Bet had launched an investigation into alleged foreign interference in the election days, or even weeks, before the allegation was made public\n\ud83c\udf0f Netanyahu\u2019s Likud party and its coalition allies sought to prevent the ratification and certification of the election results to stop President Isaac Herzog from tasking Eisenkot with forming a new government, according to media reports. Likud is still preparing to appeal the election results, with the deadline for filing an appeal set for November 18.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udd25 Massive Russian ballistic missile strikes hit Kiev\nUkrainian airspace is under heavy attack tonight as Russian forces launch ballistic missiles toward the capital and multiple other regions.\nLocal media have reported direct hits on bridges in Kiev, as well as at least six impacts in Zaporozhye. A series of explosions were also heard in Dnipro and Pavlohrad.\nThese strikes are part of Russia's massive, multi-pronged aerial campaign targeting Ukraine's critical military infrastructure and transit nodes.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T15:08:51+00:00",
+      "timestamp": "2026-11-16T22:36:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -627,6 +780,26 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5 Major US banks hit by nationwide outage \u2014 branches unable to dispense cash\nA massive technical failure is paralyzing the US banking system, with Chase, Bank of America, Wells Fargo, JP Morgan, and US Bank all reportedly experiencing major outages.\n\ud83c\udf0f Downdetector is showing a massive spike in user-reported problems.\n\ud83c\udf0f Some physical bank branches are completely incapable of giving customers their money in-person. Staff are turning people away, unable to access accounts or issue cashier's checks.\n\ud83c\udf0f Chase is insisting that customers \"still have access to their accounts and funds,\" blaming a \"technical issue\" for the slow transactions.\nThis banking collapse comes just days after the FAA triggered a nationwide ground stop that canceled thousands of flights. US's most critical infrastructure is failing\u2014and officials are content to just wave it off as a \"technical issue.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-16T21:45:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
