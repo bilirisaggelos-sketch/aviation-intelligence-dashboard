@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-11-17T13:31:05.313093+00:00",
+  "generated_at": "2026-11-17T21:55:17.285201+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Thursday, November 19, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/17/2026",
+      "location": "ZAB NM",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMorgan Hill, CA, Wednesday, November 18, 2026 Local\nFacility: ZOA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/17/2026",
+      "location": "ZOA CA",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMidway, UT, Wednesday, November 18, 2026 through Wednesday, November 18, 2026 Local\nFacility: ZLC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/17/2026",
+      "location": "ZLC UT",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Friday, November 20, 2026 Local\nFacility: ZAB",
@@ -325,6 +382,102 @@
       "verified_source_count": 1
     },
     {
+      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+      "text": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine\nUkraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-17T21:24:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf0\ud83c\uddfc NEW: Iran has launched drones at U.S. facilities in Kuwait in retaliation for today\u2019s airstrikes in Qeshm",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-17T21:44:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Israeli Prime Minister Benjamin Netanyahu and Defense Minister Yisrael Katz suddenly left the Knesset session after receiving an \u2018urgent phone call\u2019",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-17T21:36:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: A poster by Iran\u2019s Supreme Leader Office hints at extending ballistic missile ranges to 5,000 kilometers and beyond",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-17T18:33:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 NOTE: No ballistic missiles have been launched from Iran yet, contrary to some unconfirmed reports.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-17T13:47:16+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 WATCH: The IRGC uploaded footage showing the launching of drones at a U.S. base in Bahrain",
@@ -365,12 +518,32 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "U.S. Homeland Security Secretary Markwayne Mullin flew on a government jet to attend the Texas-LSU football game on Saturday, a day after a nationwide FAA system failure caused nearly 7,000 flight cancellations and 8,000 delays. \nMullin watched the game from the private box of Ben Bordelon, whose company holds billions of dollars in DHS contracts, including a recent $2.2 billion icebreaker deal. \nDHS said Mullin was required to use a government aircraft for security reasons, paid for the personal trip and complied with ethics rules.\nSource: New York Post",
+      "text": "NEW: Kuwait's army says its air defenses are currently intercepting \"hostile drones.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T13:10:55+00:00",
+      "timestamp": "2026-11-17T21:42:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Matan Kahana of Gadi Eisenkot\u2019s Yashar party was elected Speaker of Israel\u2019s Knesset with 66 votes, defeating Likud\u2019s Ofir Katz.\nHe replaces Likud\u2019s Amir Ohana.\nKahana, a former fighter pilot and religious services minister, had rejected a Netanyahu camp offer of support conditional on blocking Arab deputy speakers.\nAhmad Tibi and Walid Taha were approved as deputy speakers. \nThe win gives Eisenkot\u2019s bloc control of the Knesset agenda while he tries to form a government.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-17T21:24:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -384,12 +557,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Hungary has suspended rail traffic with Ukraine for November 17\u201318 after a Russian drone struck near Mukachevo railway station in western Ukraine, about 300 meters from a train carrying a Hungarian crew.",
+      "text": "House Democratic Leader Hakeem Jeffries:\nWhat is clear is that the reckless and costly war of choice in Iran needs to end. \nIt should end today.\nIt's been a disaster for the American people. \nIt's skyrocketed costs, including gas prices on the American people, food prices on the American people, diesel prices on the American people. It's unacceptable. \nAnd the American people completely and totally rejected it.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T12:50:47+00:00",
+      "timestamp": "2026-11-17T18:36:14+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -402,32 +575,32 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Our Wars Today",
-      "text": "[FAA issues nationwide ground stop for all U.S. airports](https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports)\nThe FAA has issued a nationwide ground stop for all U.S. airports following a \"communication issue impacting all Air Route Traffic Control Centers,\" according to Transportation Secretary Sean Duffy. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.npr.org/2026/11/13/nx-s1-6040403/faa-nationwide-groundstop-airports)\nNPR Staff | npr\u200b.org \u2022 Nov 13, 2026",
+      "publisher": "Clash Report",
+      "text": "Zelensky:\nEurope can help us with this, not just with interceptors against ballistic missiles, but also with missiles that can put Russia in its place and force it to de-escalate.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-13T22:12:00+00:00",
+      "timestamp": "2026-11-17T18:32:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Our Wars Today"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 Senate Republicans have introduced a nearly $1.1 trillion defense spending bill for 2027, according to The Hill.\nThe proposal shifts $69 billion from a proposed $350 billion Pentagon package into the base budget.\nKey allocations include:\n\u2014 $750 million for Ukraine security assistance\n\u2014 $47.2 billion for munitions\n\u2014 $42 billion for shipbuilding\n\u2014 $35.6 billion for air and missile defense\n\u2014 Approximately $1 billion to strengthen security partnerships with Taiwan and the Philippines\nThe bill was unveiled ahead of a December 11 deadline to avert a government shutdown.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc \u2014 Kuwaiti Army: Our air defenses are currently intercepting attacks by \u201chostile\u201d drones.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T09:40:02+00:00",
+      "timestamp": "2026-11-17T21:48:10+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -435,134 +608,19 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Clash Report"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 A company-wide technology outage at United Airlines disrupted multiple pilot applications and crew communications, according to an internal union memo seen by Reuters.\nThe system failure also prevented the airline from providing final aircraft weight data for departing flights, leaving pilots stranded at the gates awaiting airport guidance.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 A source in the U.S. Central Command: We struck a facility used for launching missiles on Qeshm Island in response to the Islamic Revolutionary Guard Corps' aggression against American military personnel and civilians.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T05:27:06+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 \u2014 BREAKING: United Airlines says a widespread system outage is affecting its departing flights. Flights already in the air and United Express services are unaffected, and the carrier says it is working to resolve the issue.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T22:32:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The Islamic Revolutionary Guard Corps (IRGC) announced the capture of a U.S. MQM-170 drone over southern Qeshm Island using electronic warfare, marking the ninth such seizure, according to the IRGC's Public Relations Department.\nThe IRGC Aerospace Force reportedly seized control of the drone's systems and safely landed it. The statement claimed that the number of U.S. equipment losses has grown so high that CENTCOM commanders have \"lost count.\"\nThe IRGC asserted that the operation demonstrates the failure of U.S. technological superiority against Iran's indigenous electronic warfare capabilities.\nThe statement concluded with a warning that Iranian airspace will not be a testing ground for aggressors, and that any hostile action will be met with a decisive response.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T22:23:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f \ud83c\uddee\ud83c\uddf7 \ud83c\uddee\ud83c\uddf1 A video has appeared showing Iranian missiles striking Israel during the latest war.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T21:41:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f \ud83c\uddee\ud83c\uddf1 \ud83c\uddf5\ud83c\uddf8 Today, IDF forces arrived in the Ein HaShlosha area after balloons were found on the ground.\nAs a result of the search, the balloons were located. Suspicious objects were found attached to them, which did not contain explosives, and were seized by the military.\nA component with GPS was found on the balloons, which apparently serves as test equipment for Hamas.\nThe IDF is maintaining constant contact with the local authorities and the regional council.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T21:39:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f \ud83c\uddf8\ud83c\udde6 \ud83c\uddfe\ud83c\uddea Satellite images show direct hits on the positions of the Saudi border guard in Jizan.\nYemeni drones and missiles carried out strikes on these sites, but Saudi Arabia is keeping the results quiet, now claiming that it intercepts most of the raids on its positions.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T21:38:31+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f \ud83c\uddee\ud83c\uddf1 The Israeli arms manufacturer Rafael Advanced Defense Systems has unveiled a new long\u2011range cruise missile called \u201cSUPER ICE,\u201d designed to penetrate modern air defense systems and carry out long\u2011distance strikes.\nAccording to a report in the Israeli newspaper Maariv, development of the missile family began in 2021, after former Prime Minister Naftali Bennett discovered that the Israeli armed forces lacked operational plans and specialized munitions to strike Iran\u2019s nuclear infrastructure.\nIn response, Bennett instructed the defense industry to accelerate the production of deep\u2011strike capabilities, which led to the creation of the ICE system, a cruise missile that can be launched from air, land, and sea platforms.\nThe upgraded SUPER ICE version features increased range, higher speed, and a warhead weighing 454 kg (1,000 pounds).\nThe report notes that earlier versions of the \u201cICE\u201d missile have already been used operationally in attacks on Iran, Syria, Lebanon, Yemen, and Qatar.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T21:38:31+00:00",
+      "timestamp": "2026-11-17T21:30:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -576,12 +634,32 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8 According to multiple American sources, currently, a number of American banks including Wells Fargo, Chase, and multiple others are experiencing an outage, with customers unable to access their accounts.\nAside from this, United Airlines has grounded flights throughout the United States due to a major outage.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddf0\ud83c\uddfc Iran launched a drone attack on Kuwait in retaliation for the airstrikes on Qeshm.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T22:34:50+00:00",
+      "timestamp": "2026-11-17T21:51:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Mediterranean Man",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc\ud83c\uddee\ud83c\uddf7 Possible drone attack ongoing on Kuwait.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-17T21:43:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -595,31 +673,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8Footage released for the first time shows the moment an American F-15 fighter jet was shot down by a specialized Iranian air defense system.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 Missile launches being reported from Iran.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T17:53:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "It is I, Med Man, and contrary to popular belief, a Houthi missile has yet not made impact on my location.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-16T16:34:59+00:00",
+      "timestamp": "2026-11-17T15:32:11+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -728,12 +787,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Why Mecca pact could further destabilize Syria and drag it deeper into regional conflicts\nSyria is set to join the Mecca Pact that was formed by Saudi Arabia, Pakistan and Turkey. While the move could open up new opportunities for Damascus, it also carries significant risks, international observers warn.\n\ud83c\udf0f Joining the military alliance could help Syria strengthen its legitimacy and standing within the Middle Eastern security architecture in the aftermath of the civil war\n\ud83c\udf0f It could also bolster Syria's military capabilities and deepen its partnerships with influential regional powers through intelligence sharing, military training and financial support\n\ud83c\udf0f The alliance could potentially also serve as a shield against further [Israeli land grabs in southwestern Syria ](https://t.me/geopolitics_prime/77886)\nGround troops to fight the Houthis\nSyria was invited to join the Mecca Pact primarily because Saudi Arabia needs ground forces to [fight Ansar Allah (the Houthis), experts say. Estimates](https://t.me/geopolitics_prime/77409) of the potential Syrian deployment range from 600 special forces personnel to as many as 20,000 troops. Various reports claim that a significant contingent has already been deployed to Saudi Arabia, although Damascus has denied the reports.\nNotably, on November 4, Syrian de facto leader Ahmed al-Sharaa visited Riyadh and signed [six loan agreements worth $403 million](https://t.me/geopolitics_prime/77345).\nSaudi Arabia reportedly began seeking Syria's [military assistance](https://t.me/geopolitics_prime/75882) as early as October 6. Although al-Sharaa had previously rejected a US proposal for Syria to fight Hezbollah in Lebanon, he appears to have agreed to Riyadh's request. Turkey had previously used Syrian fighters as proxies in Libya, while Al Jazeera reported that Syrians also took part in Azerbaijan's 2020 war against Armenia.\nNevertheless, Foreign Policy, Al-Monitor and other outlets warn that al-Sharaa was making a grave mistake that could come at the cost of his country.\n\ud83d\udd34 Syria's \"fractured and under-equipped military\" is unlikely to change the course of the war in Yemen\n\ud83d\udd34 A deployment could expose Damascus to retaliation not only from Ansar Allah and its network of allies, but potentially from the wider Axis of Resistance\n\ud83d\udd34 It could undermine al-Sharaa's promise to keep Syria out of foreign conflicts and jeopardize the country's economic recovery\n\ud83d\udd34 Most Syrians view Israel as a major threat, not the Yemenis. Moreover, they have not forgotten how Gulf states funded ISIS and al-Qaeda affiliates during the Syrian civil war, while Turkish forces looted Syrian industrial equipment and burned agricultural fields.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udcf9 New footage shows another oil tanker struck in the Strait of Hormuz\nIran is systematically enforcing its authority over the waterway, striking vessels that attempt to bypass its transit rules under the promise of US protection.\nMines and missiles are actively maintaining Tehran's blockade of unauthorized routes. The Pentagon is scrambling to stabilize the global energy security crisis it broke when Trump launched this war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T13:05:31+00:00",
+      "timestamp": "2026-11-17T21:44:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -747,12 +806,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran vows to drive US forces \u2018all the way to the South Pole\u2019\nIran has successfully challenged US military dominance at sea, said it's Chief of Staff Major General Ali Abdollahi.\nHe highlighted Iran\u2019s strategic achievements during the US-Israeli aggression:\n\ud83c\udf0f The US Navy, with its aircraft carriers and destroyers, was forced to \u201cwithdraw to a considerable distance\n\ud83c\udf0f Iran will \u201ccertainly push the Americans out of the region to the South Pole... and they should wait for it\u201d\n\ud83c\udf0f Iran's air defenses have made major advances, allowing it to engage enemy fighter jets and aircraft with greater strength and precision; progress can be credited to Iranian scientists and researchers\n\ud83c\udf0f superior military hardware alone cannot guarantee victory against a determined population and armed forces\nIran will \u201ctake revenge\u201d for its martyred leader, civilians and the children killed in Minab, said the general, warning that limited retaliation would no longer suffice.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddec\ud83c\udde7\ud83d\ude80 Britain pledges more than 1,000 air defense missiles for Ukraine\nThe UK has announced a new military aid package for Ukraine worth approximately $316 million. It includes over 1,000 short-range air defense missiles, launchers and more than a dozen radars.\nAccording to the British government's announcement, deliveries to the Ukrainian Armed Forces are expected to begin in mid-December. The package builds on the 400 surface-to-air missiles the UK already supplied to Ukraine ahead of winter. The missiles are intended to help counter Russia's jet-powered Geran drones.\nMedia reports suggest that the weapons in question are Thales Lightweight Multirole Missiles (LMMs), also known as Martlet. Although 1,000 missiles may sound like a substantial number, the stockpile could prove relatively modest given the scale of Russia's drone campaign. Moreover, not every engagement requires just one missile.\nRussia launched approximately 1,500 jet-powered drones in July 2026 and more than 2,500 in August, according to Ukraine's Ministry of Defense.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T12:10:30+00:00",
+      "timestamp": "2026-11-17T19:14:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -766,12 +825,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd1d Why Europe resists a Ukraine peace deal and new security order with Russia\nThe EU has criticized US-Russia peace talks on Ukraine and pledged to deploy troops there once hostilities end \u2013 a move that could reignite the conflict. So does Europe want peace?\nSome economic commentators point to \u201cMilitary Keynesianism\u201d \u2014 using billions in defense spending to stimulate a waning economy under the pretext of an imminent security threat.\nEurope's energy crisis, coupled with weakening demand, growing competition from China, the costs of its green transition, sanctions on Russia and, more recently, US tariffs, has accelerated de-industrialization across the bloc, particularly in Germany, its industrial powerhouse.\nIn October 2025, the EU unveiled its ambitious ReArm Europe Plan/Readiness 2030, envisaging \u20ac800 billion ($881 billion) in additional defense spending.\nWhy five years? Because while such spending will fuel public debt in the short term, its proponents expect it to pay off over time. The perceived Russian threat must remain central throughout this period: it's the key justification for the bloc\u2019s relentless military spending.\nWhy Europe is embracing Military Keynesianism\n\ud83d\udd34 Government funding for arms production can boost aggregate demand, create jobs and stimulate economic activity, particularly when financed through additional public spending\n\ud83d\udd34 Defense contracts can absorb idle industrial capacity, put underused facilities and workers back to work, and generate wages without flooding consumer markets with goods or directly competing with private businesses\n\ud83d\udd34 Military equipment requires regular maintenance, upgrades and replacement. It can also be destroyed or depleted in conflict, creating recurring procurement orders\n\ud83d\udd34 Politically, security threats make it easier for governments to justify rapid increases in defense production and borrowing\nGermany is a glaring example: it is re-purposing a struggling transport sector for military production. For instance:\n\ud83d\udd34 Volkswagen has agreed to sell its Osnabruck plant to Aurelius for [air defense production with Israel\u2019s Rafael ](https://t.me/geopolitics_prime/71037)\n\ud83d\udd34 Alstom\u2019s former rail plant in Gorlitz has been converted into a defense production site by KNDS\n\ud83d\udd34 Schaeffler has struck a deal with [defense technology firm Helsing ](https://t.me/geopolitics_prime/58892)to scale up drone production.\nSimilar shifts are underway across the EU, with billions pouring into defense contracts. A Ukraine peace deal or a lasting European security framework could undermine this momentum by removing Russia as a convenient security threat \u2013 and [jeopardizing the interests built around it.](https://t.me/geopolitics_prime/77866)\nMeanwhile, economists warn that Military Keynesianism comes with significant risks for Europe, including structural problems, soaring inflation and a potential debt crisis.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iranian Parliament speaker dismisses US 'dirty bomb' plot report\n\ud83d\udd0a\u201cSame false flags, same war mongering, new logos. The right\u2019s credibility deficit is maxed out, so the messaging operation pivoted to NYT and CNN,\u201d Iran's Parliament Speaker Mohammad Bagher Ghalibaf wrote on X. \nEarlier in the day, American media reported fresh US intelligence suggesting Iran was working on plans to strike top Trump administration figures in Washington, D.C., possibly using a radiological \"dirty\" bomb or chemical weapon.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T07:55:18+00:00",
+      "timestamp": "2026-11-17T17:51:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -785,12 +844,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 IRGC strikes US radar system at Bahrain's Sheikh Isa air base\nIran's Islamic Revolutionary Guard Corps says its combat drones struck a US radar system at the Sheikh Isa air base in Bahrain in a precise operation.\nThe strike followed continued violations of Iranian airspace by US drones, the IRGC said.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\ude80 IRGC downs another US Predator drone near Iran's Qeshm\nThe Islamic Revolutionary Guard Corps (IRGC) has shot down another US-made General Atomics MQ-1 Predator drone near Qeshm Island, bringing the number of such aircraft destroyed by Iran to 18, Tasnim News Agency reports.\nThe MQ-1 Predator is primarily used for intelligence gathering but can also engage targets. According to the IRGC Aerospace Force, its air defense units intercepted and destroyed the drone at 13:45 local time using a new, advanced air defense system.\nMeanwhile, the reported number of US-made MQM-170 drones shot down or seized by Iran has risen to nine.\nUS and Iranian figures for downed American drones differ. However, the Pentagon has acknowledged losing dozens of UAVs, while CNN reported in October that the US had lost at least 81 military aircraft worth up to $3.3 billion.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T07:27:56+00:00",
+      "timestamp": "2026-11-17T17:09:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -804,42 +863,21 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb5 Republicans earmark $6.2 billion for drone warfare in defense bill\nSenate Republicans have unveiled a sweeping $1.07 trillion defense spending proposal for fiscal year 2027.\nThe bill allocates $6.2 billion for continued research, development and procurement of drones and systems designed to counter them.\nOther major spending priorities include:\n\ud83d\udd34 $47.2 billion for munitions procurement and accelerated investment across the Pentagon\n\ud83d\udd34 $35.6 billion for air and missile defense, including Donald Trump's proposed[ Golden Dome system](https://t.me/geopolitics_prime/75757)\n\ud83d\udd34 $11.1 billion for aircraft procurement, upgrades and maintenance\n\ud83d\udd34 $42 billion for shipbuilding, including nearly $2 billion in additional funding for an Arleigh Burke-class guided-missile destroyer\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8\ud83c\uddee\ud83c\uddf7 Iran shoots down US LUCAS drone over Strait of Hormuz\nThe UAV was shot down by a domestically made air defense system, the Iranian army announced.\nIt is not the first time a [LUCAS drone gets shot down](https://t.me/geopolitics_prime/76773) or[ seized by Iran over its territory ](https://t.me/geopolitics_prime/77326)or the Strait of Hormuz.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T05:43:01+00:00",
+      "timestamp": "2026-11-17T14:18:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Geopolitics Prime"
       ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 CENTCOM is scrambling for concrete bunkers after Iran's strikes on US bases\nAs the conflict with Iran drags on, the Pentagon is facing a grim reality: US soldiers deployed across the Middle East have been sheltering in converted steel shipping containers this entire time.\nThe Army just posted a contracting notice demanding 17 reinforced concrete bunkers: 10 in Israel, 5 in Saudi Arabia, and 2 in Lebanon, the War Zone reported.\nCompanies are being given only 8 days to respond and 3 days to quote a price, with a mandatory construction window of just 45 days.\nEarlier in the war, [six American soldiers were killed in Kuwait](https://t.me/geopolitics_prime/75826) when an Iranian drone struck an operations center set up inside a converted trailer.\nThis urgent bunker scramble comes just [days before a 60 Minutes interview](https://t.me/geopolitics_prime/77832) airs with the families of those killed, raising questions about why basic force protection wasn't provided.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T03:10:08+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
