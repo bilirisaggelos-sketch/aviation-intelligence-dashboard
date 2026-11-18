@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-18T12:18:21.986213+00:00",
+  "generated_at": "2026-11-18T20:50:43.257991+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nKaneohe, HI, Saturday, November 21, 2026 Local\nFacility: ZHN",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/18/2026",
+      "location": "ZHN HI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nKaneohe, HI, Monday, November 23, 2026 Local\nFacility: ZHN",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/18/2026",
+      "location": "ZHN HI",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Thursday, November 19, 2026 Local\nFacility: ZAB",
@@ -193,25 +231,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSANTA ROSA ISLAND, FL, Wednesday, November 18, 2026 through Friday, November 20, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/13/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nNORTHWEST FIELD, GU, Friday, November 13, 2026 through Sunday, December 20, 2026 Local\nFacility: ZUA",
       "source": "FAA",
       "source_type": "official",
@@ -283,6 +302,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5455\r\nIssue Time: 2026 Nov 18 1432 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5454\nValid From: 2026 Nov 18 0555 UTC\nNow Valid Until: 2026 Nov 18 1800 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-18 14:32:13.287",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -363,33 +401,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3776\r\nIssue Time: 2026 Nov 15 0516 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3775\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 5837 pfu\nMax time: 2026 Nov 14 1300 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-15 05:16:57.317",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-      "text": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine\nUkraine says the missile and drone attack on the strategic bridge in the Russian-annexed Crimea took weeks to plan.",
+      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+      "text": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia\nWatch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-17T21:24:35+00:00",
+      "timestamp": "2026-11-18T17:00:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -397,6 +416,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+      "text": "'The drones don't fly here' - BBC reports from Ukraine's new front line\nUkrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-18T17:00:04+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iranian air defenses shot down an American MQ-9 \u2018Reaper\u2019 drone with an anti-drone UAV",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-18T13:33:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Iran\u2019s air defenses shot down an American MQ-1 \u2018Grey Eagle\u2019 drone",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-18T13:33:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -498,12 +574,31 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Saudi-Led Coalition Says It Struck 60 Houthi Military Targets in Yemen\nThe coalition said it sought to weaken Houthi missile and drone capabilities and counter maritime threats after the group gained ground near Bab el-Mandeb, a vital shipping route.\n[READ MORE](https://clashreport.com/world/articles/saudi-led-coalition-says-it-struck-60-houthi-military-targets-in-yemen-t7yz3umu6np)",
+      "text": "EXCLUSIVE: Sudan Army\u2019s AKINCI drone shot down a Chinese-made CH-95 drone used by the UAE-backed RSF terror group over Kulbus.\nThe drone was subsequently hit again on the ground and completely destroyed.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T08:53:34+00:00",
+      "timestamp": "2026-11-18T19:44:33+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Ukraine used domestically developed \u201cflying modems\u201d to help strike and partially collapse Russia\u2019s Kerch Bridge, bypassing Elon Musk\u2019s Starlink network.\nThe airborne communication relays allowed Ukrainian operators to guide drones and missiles toward the bridge despite Russian electronic warfare defenses. \nUkrainian forces avoided Starshield after its connections were reportedly restricted to speeds of 161 km/h.\nSource: FT",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-18T19:33:06+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -526,107 +621,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "CASELS"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc \u2014 Kuwaiti Army: Our air defenses are currently intercepting attacks by \u201chostile\u201d drones.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T21:48:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 A source in the U.S. Central Command: We struck a facility used for launching missiles on Qeshm Island in response to the Islamic Revolutionary Guard Corps' aggression against American military personnel and civilians.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T21:30:12+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8 The U.S Senate in it\u2019s upcoming reconciliation bill has SIGNIFICANTLY funded missile procurement requests for the US Navy, US Air Force & US Army.\nYou can see the photo below with initial requests + what the Senate is providing for funding allocations, which is a near 900% increase from the base request for funding for FY2027.\nPhoto credit to NatSecLedger on Twitter/X.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T05:01:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\udde7\ud83c\udded It has been confirmed that there was a second wave. There are reports of multiple explosions from Iranian suicide drone strikes at US military sites in Bahrain. Fires have broken out.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T01:30:44+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7\ud83c\udde7\ud83c\udded Multiple explosions once more reported in Bahrain, with Iranian drones targeting Isa airbase.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T23:24:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -640,12 +641,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -659,12 +661,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Alsaa Plus EN",
         "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -764,12 +767,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udca5 Iran shoots down another US MQ-9 drone near Strait of Hormuz\n \nIran's Army says its air defense systems downed another American MQ-9 unmanned aircraft east of the Strait of Hormuz, Press TV reports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\ude80 NATO gambles on private contractors as space arms race heats up\nIn a push to beef up its military satellite constellation, NATO is drafting private rockets and spaceports into the effort\u2014and getting ready to dole out billions in new contracts. The alliance has just unveiled two programs designed to draw industry deeper into the fold, Bloomberg reports.\n\ud83d\udd34 The first, Starlift, will act as a brokerage that aggregates military demand and matches it with commercial launch providers operating from spaceports in NATO countries and South Korea. It will also develop and test procedures for short-notice launches\u2014a capability that a crisis could demand.\n\ud83d\udd34 The second program, the Global Data Marketplace, is a joint effort with the US Space Force. Alliance members will use it to purchase commercial space data and services. More than 200 companies are already on board, and roughly 300 others have been flagged as possible participants\nNATO Deputy Secretary General Radmila Shekerinska presented both initiatives at the opening of the the bloc\u2019s Edge technology conference in Izmir, Turkey. A NATO official said the alliance has handled spaceports much like civilian labs or commercial airports until now, and needs to start treating them as strategic infrastructure on par with military air bases, with protection and backup capacity to match.\nThe commercial shift reaches beyond launch. The NATO Communications and Information Agency intends to award about $3.1 billion in private contracts over the next two years, some of it to commercial space firms. The rest will go toward cloud, artificial intelligence, cyber, command-and-control and network systems.\nThe initiatives arrive as space becomes an increasingly contested [military domain](https://t.me/geopolitics_prime/77727). The US acknowledged in September that it operates weapons [in orbit](https://t.me/geopolitics_prime/76712), and Russia, China and India have all demonstrated anti-satellite capabilities. NATO itself declared space an operational domain in 2019 and has said attacks to, from or within space could trigger its Article 5 collective-defense clause.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T10:50:25+00:00",
+      "timestamp": "2026-11-18T18:09:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -783,12 +786,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8 US tech outages expose fragile infrastructure \u2014 and a fumbling official response\nThe Trump administration is under fire from both allies and opponents over its handling of a string of major [technology disruptions](https://t.me/geopolitics_prime/77902) across the country, the WSJ reported.\nOfficials claim there is no evidence of a coordinated cyberattack. Secretary of State Mark Rubio said there is \u201czero evidence\u201d that any of these incidents were related. Yet this has done little to prevent a surge of speculation online over the faltering response from top officials, notes the publication.\n\ud83d\udd34 Microsoft\u2019s global outage disrupted email and other services\n\ud83d\udd34 [ An FAA ground stop](https://t.me/geopolitics_prime/77746) led to nearly 20,000 flight cancellations, with officials pointing to problems involving outdated air-traffic control technology\u00a0\n\ud83d\udd34 [JPMorgan Chase](https://t.me/geopolitics_prime/77876) reported a software bug disrupting transactions\n\ud83d\udd34 NSA\u2019s classified internal communications network reportedly went offline amid a software update\nDemocratic lawmakers and prominent conservatives have slammed the administration\u2019s handling of the incidents.\n\u27a1\ufe0f Transportation Secretary Sean Duffy and DHS Secretary Markwayne Mullin initially blamed outdated US air-traffic control technology but failed to identify the precise cause\n\u27a1\ufe0f Mullin said there was no evidence of a cyberattack, while acknowledging that nothing could be ruled out\n\u27a1\ufe0f Brian Harrell, who served as DHS infrastructure protection chief under Trump, said the officials\u2019 muddled explanations and media strategy were eroding public confidence.\nThe outages laid bare the country\u2019s excessive reliance on aging systems, the report noted, and how easily technical failures can be read as something sinister when official communication lags.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udee2\ud83c\uddfa\ud83c\uddf8 Iran keeps US forces at bay in Hormuz, turning blockade into costly standoff\nIran is widening its strikes across the Gulf, targeting Bahrain, home to the US Navy\u2019s 5th Fleet, and an American airbase in Kuwait.\nThe escalation follows nearly two months of relative calm, according to the Associated Press. The recent strikes followed US attacks on what media reports describe as an IRGC missile launch site on Qeshm Island. The US has also targeted Iranian communications towers and continued drone surveillance across the region \u2013 at a growing cost, with the IRGC reporting an increasing number of [downed American UAVs](https://t.me/geopolitics_prime/77920).\n\ud83d\udc49 Strait of Hormuz\nTankers continue to catch fire in the Strait of Hormuz. On November 16, two oil tankers reportedly struck naval mines while attempting to cross a route Iran had not authorized.\nBetween March 1 and November 11, the UN\u2019s International Maritime Organization recorded 136 security incidents involving vessels in the Strait of Hormuz and the wider Middle East. Meanwhile, the Strait of Hormuz Live Tracker shows oil and petroleum product flows through the strategic waterway continuing to [shrink](https://t.me/geopolitics_prime/77856).\n\ud83d\udc49 US naval presence\nIsrael\u2019s Institute for National Security Studies (INSS) says the US naval presence across the Gulf of Oman, Arabian Sea, Red Sea and Mediterranean now exceeds the levels seen during Operation Epic Fury.\nThe USS Theodore Roosevelt has joined the USS George H.W. Bush and USS George Washington in the region. Remarkably, however, the Israeli think tank\u2019s interactive map shows no US warships currently deployed in the Persian Gulf or Strait of Hormuz \u2013 a picture that supports Iranian statements that American vessels are keeping their distance from Iranian missiles.\n\ud83d\udc49 Calibrated escalation?\nIran appears to be pursuing a strategy of \u201cdeliberate, calibrated escalation\u201d to \u201csteadily increase the military, economic, and political costs of maintaining the blockade,\u201d INSS\u2019s Danny Citrinowicz wrote on X. He outlined two possible paths to de-escalation: a negotiated agreement or a US decision to lift the blockade.\nMeanwhile, geopolitical analyst Brandon Weichert warns on X that claims of an alleged Iranian dirty-bomb plot is likely an Israeli attempt to reignite the war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T09:39:02+00:00",
+      "timestamp": "2026-11-18T17:28:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -802,12 +805,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc Iran claims kamikaze drone strike on US Patriot systems in Kuwait\nIran\u2019s Army says its combat drones struck American air-defense systems and launch platforms at a major US military hub in Kuwait, according to an official statement carried by IRNA.\nThe Public Relations Office of the Army of the Islamic Republic of Iran stated:\n\ud83d\udd34 combat suicide drones targeted Patriot air-defense systems as well as drone and missile launchers belonging to the US military at Ali Al-Salem Air Base\n\ud83d\udd34 the base is described as a primary air-transport hub and the main entry point for military forces into the West Asia region, playing a central role in US military and logistical strategy\n\ud83d\udd34 Iran \u201cwill not bow to any power,\u201d and its response to any threat or act of aggression \u201cwill be decisive, crushing, and without geographical limitations\u201d\nKuwait\u2019s army separately said its air defenses were \u201ccountering hostile drone attacks,\u201d without reporting any damage or confirming hits on the base.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf5\ud83c\uddf0 Pakistan test-fires Fatah-3 supersonic cruise missile\nThe missile is designed for long-range precision strikes and will extend the reach of Pakistan\u2019s Army Rocket Force Command, the military\u2019s media wing said after the successful Nov. 18 launch.\nDefense outlet Quwa sees the Fatah-3 as Pakistan\u2019s counterpart to India\u2019s BrahMos and identifies land attack and potential anti-ship roles. It estimates a cruise speed of Mach 2.2\u20133.5, using China\u2019s HD-1A as a benchmark. Pakistan\u2019s launch announcement described the missile as supersonic and gave no exact speed or range.\nThe launch follows an October [test of the Fatah-2 hypersonic ballistic missile](https://t.me/geopolitics_prime/77266) and a flight test earlier this month of the Fa\u2019az, Pakistan\u2019s first domestically developed air-to-air missile.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T08:17:02+00:00",
+      "timestamp": "2026-11-18T16:47:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -821,50 +824,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8 US Patriot missile crisis exposes decades of industrial decay\nThe Pentagon is struggling to ramp up Patriot interceptor production as stockpiles shrink, with a critical component exposing deep vulnerabilities in America\u2019s munitions industry, reports WSJ.\nThe US had burned through roughly 35% of its already [strained missile inventory ](https://t.me/geopolitics_prime/76997)by the end of July amid the war on Iran (CSIS).\nYet decades of consolidation and offshoring have left US weapons production vulnerable, notes the report.\n\ud83d\udd34 advanced PAC-3 MSE interceptors rely on carbonized rayon, a heat-resistant material used to line rocket nozzles\n\ud83d\udd34 the only supplier whose product is qualified for the missiles is France's ArianeGroup - its fabric is processed by US company Park Aerospace before reaching L3Harris and ultimately Lockheed Martin\n\ud83d\udd34 extreme qualification standards make rapid substitution nearly impossible; any alternative can take years of testing and still fail at the final stage\n\ud83d\udd34 post-Cold War cuts reduced major contractors from 51 to just five, and eliminated most domestic aerospace-grade rayon production\n\ud83d\udd34 heavy overlap among second- and third-tier suppliers across Patriot, THAAD and other systems means disruption at one node risks multiple programs\n\ud83d\udd34 French authorities and industry favor domestic military needs, limiting extra allocations for the US\nPAC-3 MSE missiles cost around $4 million, take approximately two years to manufacture and contain hundreds of components.\nThe Pentagon has signed multiyear agreements to boost PAC-3 MSE output to around 2,000 annually by the end of 2030, and is pursuing alternative rayon sources.\nBut new materials must undergo lengthy qualification tests - while ArianeGroup plans to expand French production only by 2028, and potentially establish a US facility around 2030.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\ude80 Missile test amid handshakes: Did the US send a nuclear-capable message to Xi and Putin at APEC?\nThe Trump administration scheduled a test launch of an unarmed, nuclear-capable Minuteman III ICBM for 5:01 am Pacific Time on November 18 \u2013 coinciding with the opening of the APEC summit, attended by the leaders of the US, China and Russia.\nAlthough the official announcement stressed that the \u201croutine test, designated Glory Trip 257, was scheduled years in advance and was not a response to world events,\u201d some observers saw it as a show of force. The intended audience is apparently the Chinese and Russian presidents.\nHowever, while remaining an operational component of the US nuclear arsenal the Minuteman III is an ageing, legacy missile system. Observers doubt it will inspire much awe.\nWith an estimated 5,042 nuclear warheads, the US has the world\u2019s second-largest nuclear arsenal, trailing Russia (5,420). China, with an estimated 620 warheads, ranks third but is rapidly expanding[ its nuclear capabilities](https://t.me/geopolitics_prime/77745).\n\ud83d\udc49 Flexing military muscle?\nWhen Donald Trump welcomed Vladimir Putin in Anchorage in August 2025, the cameras captured a flyby of a B-2 Spirit stealth bomber escorted by four F-35 Lightning II fighter jets.\nXi Jinping\u2019s arrival in the US in September 2026 came with two flyovers featuring B-2 and B-1B Lancer bombers and F-22 Raptor fighters. Officially, these were ceremonial honors. In reality, critics saw a calculated show of military muscle.\nPutin and Xi\u2019s facial expressions and body language during the flyovers sparked plenty of media commentary, with both leaders being remarkably calm. Putin, a man who has flown and piloted various types of military aircraft, politely acknowledged the American planes. Xi, meanwhile, looked thoroughly unimpressed.\n\ud83d\udc49 Why is it needed?\nThe US has yet to resolve the Strait of Hormuz dilemma with Iran. The bombing campaign appears to have achieved little, while Washington\u2019s strategy of economically strangling Tehran is [riddled with holes](https://t.me/geopolitics_prime/77704).\nTrump\u2019s party [lost the midterms](https://t.me/geopolitics_prime/77518), turning him into a \u201clame-duck\u201d president in the eyes of many domestic and foreign politicians.\nMeanwhile, over the past week, the US has suffered a string of unexplained infrastructure outages. Microsoft\u2019s Outlook, Teams, and Copilot went down for more than 24 hours on November 12; the FAA ordered a nationwide ground stop on November 13 amid telecom and radar problems; and customers of major US banks were unable to access their accounts on November 16. Officials deny that the outages were caused by an external cyberattack. Whatever the underlying causes, the US does not seem to be at the peak of its power.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T07:35:49+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25 Trump has weaponized the Treasury \u2013 but at what cost to the US dollar?\nUS Treasury Secretary Scott Bessent is at the forefront of President Donald Trump's economic war against Canada, Cuba and Iran \u2013 a campaign that, as Responsible Statecraft argues, can be no less ruthless than a shooting war.\n\ud83d\udd36 After Trump suggested that Canada could become the US' 51st state, he dispatched Bessent to wield \u201ceconomic force\u201d to \u201cget rid of that artificially drawn line\u201d between the two countries. Bessent also sought to pit Alberta against Ottawa and even backed Alberta's independence referendum, which was ultimately defeated\n\ud83d\udd36 Rather than send US troops into Cuba, Trump put Bessent in charge of the island's economic strangulation. The campaign has failed to bring about regime change but has inflicted considerable hardship on ordinary Cubans, leaving many without electricity, water, food and medicine. The UN has highlighted Washington's actions as being \u201cincompatible with basic principles of international human rights law,\u201d leading to deaths among Cuban civilians and children\n\ud83d\udd36 Iran has become another target. Secretary of State Marco Rubio recently boasted that \u201cthe economic pain that is being inflicted on Iran right now is extraordinary.\u201d He argued that Washington did not need to launch broader military strikes against Iran because it was \u201cachieving the same objective through economic means and economic pressure.\u201d Yet despite reports that Iran's economy could contract by 25%, the Islamic Republic has shown considerable resilience and continues to maintain control over the Strait of Hormuz.\nResponsible Statecraft argues that the Trump administration has turned the dollar and economic sanctions into far more powerful weapons than previous US administrations. But economic experts warn that the more Washington weaponizes its economic leverage, the more countries around the world will look to move away from the US dollar.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T05:57:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udee9 US tests autonomous drone swarms and unmanned carriers in Germany\nThe US Army has conducted a live-fire demonstration at the Grafenw\u00f6hr Training Area in Germany.\nAn unmanned ground vehicle (R3NEGADE) emerged from a standard shipping container and launched an 18-drone autonomous swarm. According to reports, a second R3NEGADE was equipped with remotely operated Javelin missiles.\nThe Pentagon is aggressively testing these decentralized, low-cost tactics because it is scrambling to keep up with the realities of modern combat. Meanwhile, Russia is constantly upgrading, adapting, and testing its drone technology in real time.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T04:29:58+00:00",
+      "timestamp": "2026-11-18T14:13:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
