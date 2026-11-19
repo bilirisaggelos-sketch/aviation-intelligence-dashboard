@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T20:50:43.257991+00:00",
+  "generated_at": "2026-11-19T02:27:22.120652+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -49,25 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/17/2026",
       "location": "ZAB NM",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMorgan Hill, CA, Wednesday, November 18, 2026 Local\nFacility: ZOA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/17/2026",
-      "location": "ZOA CA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -144,25 +125,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/17/2026",
       "location": "ZDC VA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nPARK CITY, UT, Wednesday, November 18, 2026 through Wednesday, November 18, 2026 Local\nFacility: ZLC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/17/2026",
-      "location": "ZLC UT",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -307,13 +269,70 @@
     },
     {
       "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5455\r\nIssue Time: 2026 Nov 18 1432 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5454\nValid From: 2026 Nov 18 0555 UTC\nNow Valid Until: 2026 Nov 18 1800 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5457\r\nIssue Time: 2026 Nov 19 0118 UTC\r\n\r\nEXTENDED WARNING: Geomagnetic K-index of 4 expected\nExtension to Serial Number: 5456\nValid From: 2026 Nov 19 0040 UTC\nNow Valid Until: 2026 Nov 19 0900 UTC\nWarning Condition: Persistence\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-18 14:32:13.287",
+      "timestamp": "2026-11-19 01:18:16.670",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK05\r",
+      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2063\r\nIssue Time: 2026 Nov 19 0108 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Nov 19 0105 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-19 01:08:54.450",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK05\r",
+      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2276\r\nIssue Time: 2026 Nov 19 0100 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Nov 19 0055 UTC\nValid To: 2026 Nov 19 0300 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-19 01:00:25.897",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2698\r\nIssue Time: 2026 Nov 19 0046 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Nov 19 0042 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-19 00:46:31.780",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -326,70 +345,13 @@
     },
     {
       "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5454\r\nIssue Time: 2026 Nov 18 0556 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Nov 18 0555 UTC\nValid To: 2026 Nov 18 1500 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5456\r\nIssue Time: 2026 Nov 19 0041 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Nov 19 0040 UTC\nValid To: 2026 Nov 19 0300 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
       "source": "NOAA Space Weather",
       "source_type": "official",
       "publisher": "NOAA Space Weather Prediction Center",
       "severity": "warning",
       "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-18 05:56:07.553",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3778\r\nIssue Time: 2026 Nov 17 0848 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3777\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 4744 pfu\nMax time: 2026 Nov 16 1500 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-17 08:48:14.700",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: ALTEF3\r",
-      "text": "Space Weather Message Code: ALTEF3\r\nSerial Number: 3777\r\nIssue Time: 2026 Nov 16 0628 UTC\r\n\r\nCONTINUED ALERT: Electron 2MeV Integral Flux exceeded 1,000pfu\nContinuation of Serial Number: 3776\nBegin Time: 2026 Nov 08 2245 UTC\nYesterday Maximum 2MeV Flux: 3378 pfu\nMax time: 2026 Nov 15 1405 UTC",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-16 06:28:16.430",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WATA20\r",
-      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1138\r\nIssue Time: 2026 Nov 15 1334 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 16: None (Below G1) Nov 17: G1 (Minor) Nov 18: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-15 13:34:32.160",
+      "timestamp": "2026-11-19 00:41:06.337",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -450,12 +412,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -469,12 +432,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -612,72 +576,50 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc \u2014 An Iranian drone targeted a site belonging to the US military at the US base in Kuwait.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddf2\ud83c\uddf1 Mali has received a new batch of military aviation equipment from Russia.\nIn particular, four Mi-8MTV-5 transport helicopters, two Mi-24P attack helicopters, and one Il-76MD military transport aircraft.\nThe leadership of the African country's armed forces announced the acquisition of this equipment.\nThe details of the agreements, including the cost of the delivery, are not being disclosed.\nAt the same time, the scale of this delivery is noteworthy, since previously Mali's military aviation had only two Mi-24 helicopters and five Mi-8s.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T23:44:11+00:00",
+      "timestamp": "2026-11-18T23:52:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "https://x.com/Ricardo_1934/status/2123102202285940912?a=4SCoZ2_khAaqcy_P6pI&s=19\n\u26a1\ud83c\uddf8\ud83c\uddfb\ud83c\udded\ud83c\uddf9 Footage circulating online shows FPV kamikaze drone strikes against armed gangs in Haiti, where President Nayib Bukele has deployed approximately 2,500 Salvadoran troops.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-18T23:34:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddeb\ud83c\uddf7[WSJ:](https://www.wsj.com/world/europe/patriot-missile-rayon-problem-3f39dc98) A shortage of specialised carbonised rayon used in advanced Patriot missiles is emerging is a major bottleneck in U.S. efforts to replenish dwindling interceptor stockpiles.\nThe only supplier of the approved material for the latest PAC-3 missiles is France\u2019s ArianeGroup, shipping it to Park Aerospace in the U.S. for processing. Park warned that Ariane\u2019s limited output cannot meet surging demand, and that shiping it the U.S. means fewer supplies to priority European customers. \nThe shortage highlights the vulnerability of a defence supply chain reliant on a small number of specialised suppliers, with more than 70% of second-tier suppliers for the PAC-3 also serve the THAAD missile system, and five major missile programmes sharing 69% of their third-tier suppliers.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddf5\ud83c\uddf9\ud83c\uddfa\ud83c\udde6 [Kyiv Post:](https://www.kyivpost.com/post/90515) Portugal has ruled out transferring F-16 fighter jets to Ukraine, citing the need to maintain its fleet to protect its own airspace and maritime territory, Foreign Minister Paulo Rangel said.\nRangel stated that Portugal remains open to training Ukrainian pilots and supplying ammunition, with any renewed training cooperation requiring approval from the country's military authorities.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T05:37:25+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8\ud83c\uddf0\ud83c\uddfc Footage shows the moment an Iranian drone was intercepted over Kuwait.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T05:35:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddea\ud83c\udded\ud83c\uddf2\ud83c\udde6 The Polisario Front has announced a general mobilization following an emergency meeting chaired by its leader, Brahim Ghali, citing an alleged Moroccan military buildup along the berm in Western Sahara.\nThe group accused Morocco of escalating military activity through the deployment of troops, weapons and equipment along the fortified defensive wall. Algeria remains the Polisario Front\u2019s main backer.\nThe attached video is from a recent military parade held by the group featuring BTR-60PB APCs, locally modified MLRS, Tornado-G rocket systems and technicals armed with ZU-23-2 anti-aircraft guns. \n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T05:35:34+00:00",
+      "timestamp": "2026-11-19T02:14:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -691,12 +633,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf2 The Iranian Armed Forces announced that their air defenses were able to shoot down an American LUCAS kamikaze drone near the Strait of Hormuz.\n[\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddea\ud83c\uddfa\ud83c\uddf8 [BBC News](https://www.bbc.co.uk/news/articles/cwd01jjl5zzzo): Irish activist Daithi O'Corrain, 48, has been charged in New York with destroying a US Air National Guard C\u2011130 Hercules worth about $60 \u202fmillion that was parked at Shannon Airport, Ireland.\nProsecutors say he spent months researching the aircraft, broke the locking mechanism, and used chemicals, gallium, ball\u2011bearing fuel contamination, an axe and other tools to cut hydraulic and liquid\u2011oxygen lines, destroy cockpit gauges and puncture the air\u2011ducts, actions they describe as a deliberate, planned attack that jeopardised US national security.\nThe indictment estimates tens of millions of dollars in damage, carries a maximum ten\u2011year prison term, and FBI Assistant Director James Barnacle Jr warned the sabotage was not spontaneous vandalism.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T05:31:54+00:00",
+      "timestamp": "2026-11-19T02:09:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -710,12 +652,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Greek intelligence examined secret meetings held in third countries by an Iranian network that attempted an assassination in Greece. The same network also met inside Iran, according to Greek media.",
+      "text": "DHS Secretary Markwayne Mullin: Iran and Tehran-backed actors have gone after U.S. critical infrastructure.\nHis testimony for Wednesday's worldwide threats hearing doesn't specifically mention the recent email outages or the nationwide flight ground stop.\nBloomberg",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T05:27:22+00:00",
+      "timestamp": "2026-11-19T02:03:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -729,12 +671,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddf7\ud83c\uddfa\u274c\ud83c\uddfa\ud83c\udde6 \u2014 Ukrainian monitoring channels have issued a \u201cred\u201d ballistic missile threat alert for the next 48 hours, warning that Russia may be planning strikes against bridges in Kyiv and critical energy infrastructure.\nAccording to preliminary information, the potential targets include:\n\u2022 Bridges: Northern (Pivnichnyi), Southern (Pivdennyi), and Darnytskyi Bridges.\n\u2022 Power plants: Kyiv TPP-2, TPP-4, TPP-5, and TPP-6.\n\u2022 Substation: Nyvky electrical substation.\nThe monitoring channels warn that such strikes could cause widespread disruptions to electricity, heating, and water supplies across the capital.",
+      "text": "On November 17, 2026, a military transport aircraft, An-12, belonging to the Russian Aerospace Forces crashed near Kemerovo.\n17 military personnel were killed.\nCrew:\n\u2022 Captain: M.G. Abuladze;\n\u2022 First Officer: D.V. Nazarenko;\n\u2022 Navigator: I.A. Gorshkov;\n\u2022 Senior Radio Operator: I.V. Korovaev;\n\u2022 Senior Flight Technician: I.N. Shevelev;\n\u2022 Technician: A.K. Sinitsyn\nThis comes as 7 pilots of a Mi-8, Ka-52, and an SU fighter jet crashed and destroyed in friendly fire during drone interception mission, also less than a month ago a Russian Tu-95MS strategic bomber also crashed and killing everyone on board approximately 8 highly trained pilots and coordinators for ballistic air-launched missiles. All these losses in less than few months.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T05:22:13+00:00",
+      "timestamp": "2026-11-19T01:53:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -748,12 +690,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 Speaking at a US-ASEAN dinner reception in Manila, Philippines, following the 49th ASEAN Summit, Donald Trump said that defense contractors are currently building more than 22 new production facilities to manufacture Patriot and THAAD systems, Tomahawk missiles, and other weapons, aiming to expand production capacity and fulfill orders more quickly.",
+      "text": "\ud83c\uddf8\ud83c\udde9\ud83c\udde6\ud83c\uddea\u26a1\ufe0f \u2014 The Sudanese Armed Forces (SAF) shot down an FH-95 (CH-95) unmanned combat aerial vehicle (UCAV) operated by the UAE-backed Rapid Support Forces (RSF) southwest of Kornoi, North Darfur State.\nThe drone was intercepted using a Turkish-made Eren air-to-air loitering munition launched from a Bayraktar Ak\u0131nc\u0131 UCAV.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T05:21:59+00:00",
+      "timestamp": "2026-11-19T01:52:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -761,6 +703,63 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\ud83c\udde6\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\u26a1\ufe0f \u2014 The U.S. State Department has approved a possible $210 million Foreign Military Sale (FMS) to Albania for two M142 High Mobility Artillery Rocket Systems (HIMARS).\nThe proposed package includes:\n\u2022 2 \u00d7 M142 HIMARS launchers;\n\u2022 6 \u00d7 M31A2 Guided Multiple Launch Rocket System (GMLRS) Unitary Pods;\n\u2022 6 \u00d7 M30A2 GMLRS Alternative Warhead (AW) Pods;\n\u2022 8 \u00d7 International Field Artillery Tactical Data Systems (IFATDS);\n\u2022 2 \u00d7 M1152A1 High Mobility Multipurpose Wheeled Vehicles (HMMWVs);\n\u2022 Associated communications equipment, support vehicles, spare parts, maintenance equipment, training and logistical support.\nAlbania will finance the purchase using Foreign Military Financing (FMF) loan funds.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T01:52:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Locals reported a total of 8 explosions near the Kerch Bridge and missiles passing overhead. These are very likely jet-powered drones.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T01:51:49+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 Yemeni forces claim direct strikes on Jizan and Khamis Mushait air base\nYemeni Armed Forces Spokesman Brig. Gen. Yahya Sare'e has announced 2 successful military operations against targets deep inside Saudi Arabia:\n\ud83d\udd34 Jizan region: Targeted a \"vital and sensitive site\" using a number of ballistic missiles.\n\ud83d\udd34 Khamis Mushait air base: Targeted a sensitive site using a drone.\nThe Houthis are continuing to penetrate Saudi airspace and strike strategic military and economic hubs. Khamis Mushait is a major Royal Saudi Air Force base, and Jizan is home to critical energy infrastructure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-18T22:15:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -795,12 +794,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -811,25 +811,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-18T16:47:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\ude80 Missile test amid handshakes: Did the US send a nuclear-capable message to Xi and Putin at APEC?\nThe Trump administration scheduled a test launch of an unarmed, nuclear-capable Minuteman III ICBM for 5:01 am Pacific Time on November 18 \u2013 coinciding with the opening of the APEC summit, attended by the leaders of the US, China and Russia.\nAlthough the official announcement stressed that the \u201croutine test, designated Glory Trip 257, was scheduled years in advance and was not a response to world events,\u201d some observers saw it as a show of force. The intended audience is apparently the Chinese and Russian presidents.\nHowever, while remaining an operational component of the US nuclear arsenal the Minuteman III is an ageing, legacy missile system. Observers doubt it will inspire much awe.\nWith an estimated 5,042 nuclear warheads, the US has the world\u2019s second-largest nuclear arsenal, trailing Russia (5,420). China, with an estimated 620 warheads, ranks third but is rapidly expanding[ its nuclear capabilities](https://t.me/geopolitics_prime/77745).\n\ud83d\udc49 Flexing military muscle?\nWhen Donald Trump welcomed Vladimir Putin in Anchorage in August 2025, the cameras captured a flyby of a B-2 Spirit stealth bomber escorted by four F-35 Lightning II fighter jets.\nXi Jinping\u2019s arrival in the US in September 2026 came with two flyovers featuring B-2 and B-1B Lancer bombers and F-22 Raptor fighters. Officially, these were ceremonial honors. In reality, critics saw a calculated show of military muscle.\nPutin and Xi\u2019s facial expressions and body language during the flyovers sparked plenty of media commentary, with both leaders being remarkably calm. Putin, a man who has flown and piloted various types of military aircraft, politely acknowledged the American planes. Xi, meanwhile, looked thoroughly unimpressed.\n\ud83d\udc49 Why is it needed?\nThe US has yet to resolve the Strait of Hormuz dilemma with Iran. The bombing campaign appears to have achieved little, while Washington\u2019s strategy of economically strangling Tehran is [riddled with holes](https://t.me/geopolitics_prime/77704).\nTrump\u2019s party [lost the midterms](https://t.me/geopolitics_prime/77518), turning him into a \u201clame-duck\u201d president in the eyes of many domestic and foreign politicians.\nMeanwhile, over the past week, the US has suffered a string of unexplained infrastructure outages. Microsoft\u2019s Outlook, Teams, and Copilot went down for more than 24 hours on November 12; the FAA ordered a nationwide ground stop on November 13 amid telecom and radar problems; and customers of major US banks were unable to access their accounts on November 16. Officials deny that the outages were caused by an external cyberattack. Whatever the underlying causes, the US does not seem to be at the peak of its power.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T14:13:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
