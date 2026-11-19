@@ -1,25 +1,6 @@
 {
-  "generated_at": "2026-11-19T10:42:27.800616+00:00",
+  "generated_at": "2026-11-19T19:11:24.479658+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKaneohe, HI, Saturday, November 21, 2026 Local\nFacility: ZHN",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/18/2026",
-      "location": "ZHN HI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nKaneohe, HI, Monday, November 23, 2026 Local\nFacility: ZHN",
@@ -41,14 +22,14 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Thursday, November 19, 2026 Local\nFacility: ZAB",
+      "text": "FAA SECURITY TFR\nKaneohe, HI, Saturday, November 21, 2026 Local\nFacility: ZHN",
       "source": "FAA",
       "source_type": "official",
       "publisher": "Federal Aviation Administration",
       "severity": "critical",
       "icon": "\ud83d\udea8",
-      "timestamp": "11/17/2026",
-      "location": "ZAB NM",
+      "timestamp": "11/18/2026",
+      "location": "ZHN HI",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -346,6 +327,67 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "It was a cruise missile, not ballistic.\nTherefore relatively minor damage.\nSaudis got lucky.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T18:27:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Footage of the Yemeni ballistic missile impacting the PIF tower in Riyadh, Saudi Arabia",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T18:15:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Last night, a Houthi ballistic missile directly impacted the tallest skyscraper in Riyadh, where the headquarters of Saudi Arabia\u2019s PIF (Public Investment Fund) is located",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T18:14:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iranian air defenses shot down an American MQ-9 \u2018Reaper\u2019 drone with an anti-drone UAV",
       "source": "Telegram",
       "source_type": "telegram",
@@ -421,90 +463,34 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf1/\ud83c\uddee\ud83c\uddf7 NEW: Israeli Prime Minister Benjamin Netanyahu and Defense Minister Yisrael Katz suddenly left the Knesset session after receiving an \u2018urgent phone call\u2019",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T21:36:33+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7 NEW: A poster by Iran\u2019s Supreme Leader Office hints at extending ballistic missile ranges to 5,000 kilometers and beyond",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T18:33:34+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 NOTE: No ballistic missiles have been launched from Iran yet, contrary to some unconfirmed reports.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T13:47:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 Prime Minister Benjamin Netanyahu is pressing President Trump to join Israel in a four- to seven-day campaign of intensive airstrikes against Iran, according to the NYT.\nTrump has yet to make a final decision on the proposal.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 BREAKING: The Public Investment Fund (PIF) Tower, the tallest skyscraper in Riyadh, sustained damage earlier today following a ballistic missile strike launched by Ansarallah (Houthi) forces targeting the Saudi capital.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T08:04:50+00:00",
+      "timestamp": "2026-11-19T16:14:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddf2\ud83c\uddf1 Mali has received a new batch of military aviation equipment from Russia.\nIn particular, four Mi-8MTV-5 transport helicopters, two Mi-24P attack helicopters, and one Il-76MD military transport aircraft.\nThe leadership of the African country's armed forces announced the acquisition of this equipment.\nThe details of the agreements, including the cost of the delivery, are not being disclosed.\nAt the same time, the scale of this delivery is noteworthy, since previously Mali's military aviation had only two Mi-24 helicopters and five Mi-8s.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ud83c\uddec\ud83c\udde7\ud83c\uddee\ud83c\uddf3\ud83c\uddf5\ud83c\uddf0 According to estimates published by the British aviation magazine FlightGlobal, the Indian Air Force currently has 32 French\u2011made Rafale fighter jets in service \u2014 fewer than the 36 units it had before the conflict with Pakistan in May 2025.\nThis data supports Islamabad\u2019s claim that several Indian Rafale fighter jets were shot down during the conflict.\nIn its annual handbook dedicated to the air forces of different countries around the world, the publication Flight International stated that the active forces of the Indian Air Force include 32 Rafale aircraft.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T23:52:53+00:00",
+      "timestamp": "2026-11-19T15:43:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -651,60 +637,61 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25 Trump weighs renewed war on Iran as Israel lobbies for days-long bombing campaign\nEven after Donald Trump signaled last week that a major new round of strikes on Iran was \"quite unlikely,\" discussions about a joint attack with Israel are expected to intensify after his return from Asia, reports Axios.\nTrump is reportedly weighing a military campaign targeting suspected nuclear sites such as Pickaxe Mountain, along with bridges, power infrastructure, and Iranian military and civilian leadership.\nThe US president is under competing pressures, notes the publication:\n\ud83d\udc49 Benjamin Netanyahu, facing domestic political challenges, is pushing hard for rapid resumption of hostilities\n\ud83d\udc49 Gulf leaders, concerned about potential Iranian retaliation against their energy facilities, are urging continued economic pressure instead of open conflict\n\ud83d\udc49 some senior administration figures favor military action; the WH has publicly emphasized the impact of sanctions, yet insisted all options remain available \nTrump has reportedly sought detailed assessments from the Pentagon and intel community on how Iran might respond to various strike scenarios, specifically asking whether any of them could avoid catastrophic retaliation against Gulf oil and gas infrastructure.\nIsrael\u2019s Mossad chief Roman Gofman is described as having recently visited the US for talks with CIA leadership, conveying concerns about allegedly expanded Iranian work on chemical and biological weapons.\nUS and Israeli officials are said to disagree on how imminent any actual capability is.\nA NTY report also claims that Trump is considering a new wave of military strikes on Iran, with Israel pressing the US to launch a four-to-seven-day bombing campaign.\nHe is reportedly sensitive to accusations that the US has lost the Iran war and sees renewed military action as one way to demonstrate strength.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83e\udd16 Anduril founder promotes AI-driven autonomous weapons to target \u2018Russian tanks\u2019\nPalmer Luckey, founder of defense-tech startup Anduril, has recently advocated the use of autonomous weapons, arguing that a system capable of distinguishing a \"Russian tank\" from a school bus full of children is preferable to a \"dumb mine.\"\nIn response, Walter Isaacson, who interviewed Luckey, pointed to current US policy requiring human oversight of drone strikes. Luckey countered by saying that this is not a permanent moral principle and [could be changed](https://t.me/geopolitics_prime/77636).\nBeyond the inflammatory framing \u2013 Russia is not at war with the United States \u2013 Luckey\u2019s argument overlooks several serious [problems](https://t.me/geopolitics_prime/76660) that critics have repeatedly raised:\n\ud83d\udd34 AI can get targets wrong. The [destruction of a school in Minab](https://t.me/geopolitics_prime/75462), Iran, killing children, has highlighted the risks of flawed targeting, outdated intelligence and over-reliance on automated systems\n\ud83d\udd34 Can Anduril actually control its autonomous systems? Reports of AI agents escaping test environments and [breaching other companies\u2019 digital infrastructure](https://t.me/geopolitics_prime/77995) raise questions about whether Anduril and other defense-tech firms can reliably control increasingly autonomous AI models and robotic systems\n\ud83d\udd34 Who is legally responsible? If an autonomous weapon kills the wrong target, who bears responsibility? With a conventional mine, accountability can be traced to those who planted it. Autonomous systems make that chain of responsibility far less clear\n\ud83d\udd34 How does AI identify a tank\u2019s nationality? Weapons platforms are often shared across countries, and national insignia can be obscured by mud or removed altogether. The challenge becomes even greater when forces use captured equipment \u2013 as the Houthis have done with Saudi weapons, or Russian forces with NATO-made equipment captured in Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T08:29:01+00:00",
+      "timestamp": "2026-11-19T18:38:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 New footage shows US-Israeli attack on Iran\u2019s petrochemical hub\nSeveral plants in southern Iran shut down or cut production after April 6 strikes disrupted shared electricity, water, and oxygen supplies. Newly released footage published by Fars News shows the attack on Jam Petrochemical, one of the facilities hit in Asaluyeh.\n\ud83d\udc49 Asaluyeh is home to Iran\u2019s largest concentration of gas processing and petrochemical plants. It accounted for about 75% of the country\u2019s methanol production capacity at the time, according to industry data provider ICIS. Methanol is one of Iran\u2019s major chemical exports. After strikes on Asaluyeh and another hub in Mahshahr, Iran suspended petrochemical exports in April to prevent shortages at home.\nMore than seven months later, work is still underway at Jam. The company said this week that debris removal and preparations to rebuild its damaged butadiene unit were ahead of schedule.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T15:44:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi wealth fund headquarters damaged in Riyadh missile attack\nWindows were blown out across several floors of Riyadh\u2019s tallest skyscraper early Thursday. The 80-story tower houses Saudi Arabia\u2019s Public Investment Fund, the sovereign wealth fund chaired by Crown Prince Mohammed bin Salman and central to his plans to diversify the economy beyond oil.\nThree sources told Reuters an incoming Houthi missile hit the tower. The Saudi-led coalition said falling debris caused damage in Riyadh and gave no location. The Houthis have yet to claim responsibility, but there were no immediate reports of casualties.\nIt was the second attack to damage a major building in Riyadh\u2019s financial district in less than two weeks. A November 8 attack damaged an office used by state oil giant Saudi Aramco. Houthi attacks on Saudi airports and oil infrastructure have intensified since fighting in Yemen resumed this summer.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T14:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Four theories behind US outages \u2013 from an AI giants\u2019 plot to a Netanyahu false flag\nUS outages remain unexplained, with the Trump administration and the US intelligence community struggling to calm Americans.\n\ud83d\udcac US President Donald Trump said, \u201cIt\u2019s life, it\u2019s life,\u201d effectively downplaying the troubling trend. US Secretary of State Marco Rubio acknowledged growing fears among Americans but sought to reassure the public, saying there was \"zero evidence\" the incidents were connected or that a cyberattack was underway.\n\ud83d\udc49 Director of National Intelligence Jay Clayton claimed the disruptions were caused by maintenance and technical changes, but failed to dispel concerns over the strange coincidence of so many incidents occurring within just one week.\nObservers say the incidents bear all the hallmarks of a systemic attack targeting vital nodes of US digital infrastructure and communications.\n1\ufe0f\u20e3Some netizens point to earlier warnings by Anthropic and other tech giants that artificial intelligence could independently escape a test sandbox and wreak havoc. Some unexplained hacking operations of this kind have already taken place.\n2\ufe0f\u20e3 Others speculate that supposedly rogue AI agents causing chaos could actually be directed by tech billionaires themselves. The idea is that they create the problem so they can sell the solution, consolidate control over the industry and delay the looming AI bubble burst.\n3\ufe0f\u20e3 Some media personalities have blamed Iran and possibly Russia, suggesting they could have launched a cyberattack against the US. They predict that after disruptions to America's water systems, flights and banks, the power grid could be the next target.\n4\ufe0f\u20e3 Another theory points to Israel. Israeli intelligence agencies are known for their hacking operations, and Israeli Prime Minister Benjamin Netanyahu recently identified AI as a field in which Israel aims to become a global leader. Tel Aviv also has a potential motive: unhappy that the US has not resumed the war against Iran, Israel could be lashing out and creating chaos to send a message, particularly as reports of an alleged Iranian dirty bomb appear to be gaining little traction.\nThe flurry of speculation makes one thing clear: few believe this is merely a coincidence or simply a combination of incompetence and America's crumbling, aging infrastructure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T06:05:16+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 Prince Harry offers to return to military service amid 'growing Russia threat'\nThe Duke of Sussex has declared he is willing to return to military service if Britain needs him, warning that the threat from Russia means \"we should all be nervous.\"\nHarry also suggested that Britain has effectively been in conflict with Russia for the past decade.\n\"Just because there\u2019s not drones, bullets, and rockets flying at us, it doesn\u2019t mean that we\u2019re not at war,\" he told The Telegraph.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T04:40:10+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
