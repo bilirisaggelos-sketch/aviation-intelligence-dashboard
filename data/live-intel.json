@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-20T17:51:19.365896+00:00",
+  "generated_at": "2026-11-20T23:53:52.864089+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nMAYPORT, FL, Saturday, November 21, 2026 through Sunday, November 22, 2026 Local\nFacility: ZJX",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/20/2026",
+      "location": "ZJX FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, November 20, 2026 through Sunday, November 22, 2026 Local\nFacility: ZAB",
@@ -192,21 +211,40 @@
       "verified_source_count": 1
     },
     {
-      "title": "What we know about the latest Russian missile strikes on Ukraine",
-      "text": "What we know about the latest Russian missile strikes on Ukraine\nWhat we know about the latest Russian missile strikes on Ukraine.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-20T15:14:01+00:00",
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\udde6\ud83c\uddea/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: A U.S. F-16C fighter jet squawked 7700 (general emergency) after trying to enter Iranian airspace\nIt quickly left the Strait of Hormuz and attempted to make an emergency landing in Al-Dhafra Airbase, United Arab Emirates, while rapidly losing altitude and speed.\nThe fate of the aircraft is unclear.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-20T20:48:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News"
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Ansarallah have struck the Shuqaiq Powerplant in Jazan, Saudi Arabia, with ballistic missiles, leading to widespread power outages in the city",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-20T18:50:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
       ],
       "verified_source_count": 1
     },
@@ -307,20 +345,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\udde7\ud83c\udded/\ud83c\uddee\ud83c\uddf7 BREAKING: Drone alerts in Bahrain; heavy explosions reported",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 \u2014 President Trump made a wide-ranging series of remarks to reporters, covering the war with Iran, the midterm elections, the economy, and foreign policy.\nOn Iran:\n\"They want to make a deal, but they don't want to make a deal that's acceptable to me. We want to make a real deal, not a fake deal. They've been bullshitting people for 51 years.\"\nOn the military campaign: \"It was a little bit of a military move.\"\nOn the reported dirty bomb threat: \"I don't know. I'm not sure. There's a rumor that they are building a dirty bomb. We know a lot about what's happening in Iran. We know who they are, where they are.\"\nOn the midterms and economy:\n\"We've lost $4 trillion since the election because the world is not happy about the people that did well in the election. I wasn't on the ballot. I hope you remember that.\"\n\"Interest rates are too high because we have a very political Fed. Every time we have a good number, they raise the rate.\"\n\"We're going to fight very hard for the data centers. We're not going to allow our companies to build data centers outside of our country.\"\nOn Jensen Huang and the ICC:\n\"I'd like to see Jensen make a big apology and go back. I would love to see Jensen be given a second chance. We're a country of second chances.\"\n\"We agreed to condemn the abuses and overreach of the International Criminal Court... They think they can go in and arrest the heads of countries. They can't do that.\"\nOn foreign leaders:\n\"President Xi is a great man. He runs 1.4 billion people. And when you look at those cities, they're clean and they're nice, and there's no crime. Our cities are dirty and disgusting.\"\n\"Putin clearly expressed his desire to see the war between Russia and Ukraine end by diplomatic means. I actually asked Putin, 'Would you have gone in if I was president?' He said, 'No.'\"\n\"The Iraqi prime minister was in 10th place. I endorsed him, and he won in a very big upset. I could say the same thing for Poland.\"\nOn JD Vance and his staff:\n\"I didn't say I was unhappy. I thought the statement was fine. My job is to support the president.\" [referring to Vance's remarks]\n\"We have the most powerful man in the world here, Chief of Staff Stephen Miller. He was better than Rubio and Vance. You want to run for president? Go ahead.\"\nOn the FAA system outage:\n\"The air traffic control system, it's not because of upgrades. It's 55 years old. It's ancient.\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T23:16:38+00:00",
+      "timestamp": "2026-11-20T20:30:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -352,25 +390,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-20T15:58:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 \u2014 The United States and Israel are evaluating a potential new joint military offensive against Iran, according to defense sources cited by CBS News.\nIsraeli leadership is reportedly alarmed by the rapid pace at which Tehran is restoring its ballistic missile production capabilities and hardening its military and nuclear infrastructure underground\nU.S. CENTCOM commander Adm. Brad Cooper conducted strategic planning in Tel Aviv with senior Israeli officials, including IDF Director General Eyal Zamir and Mossad Director Roman Gofman.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T13:11:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -574,88 +593,50 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83e\ude96 With Gulf bases gone, US eyes foothold in the Horn of Africa\n\u00a0\nThe US has taken a security interest in two of the UAE\u2019s three illegal military bases in war-torn Somalia, making use of the facilities for troop transits and even setting up a limited special operations presence, NYT reports.\n\ud83d\udc49 The Berbera facility, situated in the Somaliland breakaway and built up and [expanded by the UAE](https://t.me/geopolitics_prime/62031) over the past decade, was used twice by the US over the past year, according to flight tracking data, including to transit special operations commandos from Djibouti to Bosaso, Puntland for \u2018counterterror cooperation\u2019-related operations (at least two dozen US troops present).\nThe UAE\u2019s network of bases in Berbera, Bosaso and Kismayo (Jubaland) gives the Gulf sheikdom the ability to project power across east Africa in Somalia, Ethiopia and Sudan, and back to the Middle East (Houthi-controlled Yemen is as little as 300 km north of the Berbera base).\nThe US is \u201cexploring using these bases as low-profile options\u201d for its war with Iran, NYT said, citing US officials\u2019 plans to \u201cwork with local partners in the region to defend US interests and provide\u2026unique capabilities only the US has.\u201d\n\ud83d\udc49 Somalia\u2019s federal authorities, formally listed as a counterterrorism and maritime security partner to the US, protested the UAE\u2019s construction of its [unauthorized bases ](https://t.me/geopolitics_prime/78001)in breakaway areas this week. Earlier this year, Mogadishu formally cut off cooperation with the UAE and signed defense pacts with Saudi Arabia and Qatar.\nUAE \u2018Hexagon Alliance\u2019 partner[ Israel ](https://t.me/geopolitics_prime/76469)recognized Somaliland\u2019s \u2018independence\u2019 last December, with the territory\u2019s self-proclaimed president declaring readiness to both host foreign military forces and offer the US and its allies lucrative mineral and energy deals.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-20T21:18:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80 Houthis hammer Saudi power plant and port\nAnsar Allah says it struck the Al-Shuqaiq power plant and Jazan port after [previously warning](https://t.me/geopolitics_prime/78058) that Saudi energy and port infrastructure would become targets if attacks on Yemen continued.\nHouthi military spokesman Yahya Saree said the operation came in response to Saudi strikes on power facilities in Saada and Mocha and the attack on Hodeidah port, Xinhua reported.\n\u2705 Footage reportedly from Al-Shuqaiq shows a major fire and huge columns of smoke rising from the area.\nRiyadh was quick to say that two ballistic missiles were intercepted over Jazan, with debris falling in Al-Shuqaiq.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-20T19:46:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Trump may be looking to wind down Iran conflict behind smokescreen of military options\nThe US seems to be scaling back its naval presence in the Arabian Sea, raising questions about President Donald Trump's alternative plans for the region.\n\ud83d\udc49 [The USS George Washington ](https://t.me/geopolitics_prime/77978)aircraft carrier left the Middle East on November 18 after spending three months on station. It is returning to Yokosuka, Japan, with its strike group. Yokosuka is home to the US 7th Fleet. Previously, it had been deployed[ in the Arabian Sea](https://t.me/geopolitics_prime/77830) alongside the USS Theodore Roosevelt, which arrived in the region on November 15, and the USS George H.W. Bush, which arrived in April. Judging by the INSS interactive map, American warships are keeping their distance from the Strait of Hormuz and the Persian Gulf.\nReducing the US carrier presence in the region is an interesting choice after Washington assembled its largest naval force there since 2003, US analyst Brandon Weichert writes.\nThe departure of the USS George Washington also coincided with the APEC summit, where US President Donald Trump joined his Russian and Chinese counterparts at [the negotiating table](https://t.me/geopolitics_prime/78007.).\n\u2757\ufe0fBoth Russia and China have long advocated a diplomatic solution to the Gulf crisis. At the summit, Trump signaled his interest in lasting peace in the region, prompting some observers to believe that he is considering \"an alternative to massive escalation.\"\nMeanwhile, US hawks and Israeli politicians are pressing him to resume the war with Iran. Last week in Washington, Gofman advocated joint US-Israeli strikes on Iran during meetings with CIA Director John Ratcliffe and US envoy Steve Witkoff.\n\ud83d\udc49 On November 18, US CENTCOM commander Admiral Brad Cooper held a trilateral meeting with IDF Chief of Staff Gen. Eyal Zamir and Mossad Director Roman Gofman in Tel Aviv to conduct an Iran threat assessment. On November 19, Axios reported that Trump had tasked the Pentagon and US intelligence agencies with assessing Iran\u2019s possible responses to CENTCOM\u2019s military strike scenarios.\nStill, Weichert believes Trump is using security discussions as a smokescreen while scaling back the US naval presence and delaying any major escalation, largely due to depleted military stockpiles and incapability of decisively winning a war with Iran.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-20T17:42:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udee2 Iran war sets the stage for permanently high oil prices\n\u00a0\nPerpetually higher crude prices of $85-95 a barrel are \u201cpoised to be the reality for the foreseeable future\u201d thanks to the never-ending security crisis in the Persian Gulf, according to a new WSJ report citing production, inventory and price data correlated with tanker attacks, rising shipping costs, and efforts by producers to bypass the Hormuz Strait.\n\u00a0\nThe data shows:\n\ud83d\udd34 a growing number of attacks on tankers trying to slip past Iran\u2019s Hormuz maritime traffic control regimen, with November\u2019s figures already the highest among any month except October and a week-and-a-half still left in the month\n\ud83d\udd34 skyrocketing shipping costs for Gulf oil (five times prewar levels)\n\ud83d\udd34 month after month of falling global crude inventories\n\ud83d\udd34 mega-buyer[ China\u2019s return](https://t.me/geopolitics_prime/77207) to the market after months of self-imposed restrictions on crude purchases intended to stabilize prices and inventories\n\u00a0\nLong term, permanently high oil prices mean[ \u2018higher everything prices\u2019 ](https://t.me/geopolitics_prime/75711)for consumers, industrial and agricultural producers, plus inflation and higher interest rates, slowing demand and trade. For net energy importers like Europe, the Iran war adds fuel to the process of deindustrialization going on since 2022 and the start of the Ukraine conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T16:19:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, they've been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow them to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T16:18:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 New underground missile city spotted in central Iran\n\u00a0\nOSINT observers looking at commercial geospatial satellite data have spotted the construction of a new underground facility burrowed deep into a mountain range in Isfahan province, central Iran.\nA PlanetLabs timelapse from January through November 2026 shows the creation of roads, a construction support camp, concrete production and materials storage sites, and excavation of at least five tunnels, together with large spoil pile.\nArmsControlWonk says judging by the construction activity and local geography, the site appears to be a new IRGC missile base, with potential for tunnels up to 150-200M deep \u2013 [unreachable](https://t.me/geopolitics_prime/76457) even by direct hits using all known conventional and nuclear weapons.\nOSINT evidence on the new facility follows Iran\u2019s unveiling of a separate new missile city equipped with heavy ballistic, cruise and hypersonic missiles, drones and[ a \u201csurprise\u201d weapon](https://t.me/geopolitics_prime/77627) blurred in reporting, and underground roads wide enough to comfortably fit multiple tractor trailers side by side.\nIran\u2019s Zagros Mountains, missile cities and equally sophisticated [undersea tunnels](https://t.me/geopolitics_prime/68832) and coastal staging areas have been credited as the big reasons the US and Israel have proven unable to substantively degrade the nation\u2019s counterstrike capabilities in the course of the 2025 and 2026 wars.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T15:38:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfe\ud83c\uddeaHouthis reveal their next targets: five pieces of critical Saudi economic infrastructure\n\u00a0\nYemen\u2019s Ansar Allah fighters painted large red targeting reticles on infrastructure across Saudi Arabia on Friday, including:\n\u27a1\ufe0f four of the kingdom\u2019s biggest ports (King Fahd Industrial Port, Jazan Port, Yanbu Port, Jeddah Port)\n\u27a1\ufe0f The King Abdullah Financial District in Riyadh ([already subject to repeated attacks this week](https://t.me/geopolitics_prime/78028))\nThe Ansar Allah-aligned Yemeni Armed Forces warned in a statement that Saudi ports would \u201cbecome targets for our forces should the enemy carry out its threats to bombard the Port of Hodeidah.\u201d\n\ud83d\udcac\u201cWe warn all staff, workers and those present in or near these facilities to evacuate immediately and keep their distance. Furthermore, we call on all shipping companies to remove their vessels from these ports without delay,\u201d the Houthis urged.\nDeclaring Riyadh\u2019s Financial Center a legitimate military target, the group similarly advised \u201call employees, workers and citizens\u201d to evacuate to avoid harm.\nSeparately, the fighters warned that \u201cin response to the Saudi enemy\u2019s targeting of power stations in Saada and Mokha\u2026the Al Shuqaiq Power Station will be a legitimate target of our forces in the coming hours.\u201d A similar advisory to evacuate was given.\nFinally, Ansar Allah warned commercial airlines that Saudi airspace is unsafe and \u201cwill become a theater for our operations in the coming hours \u2013 with the exception of the sacred airspace over Mecca and Medina.\u201d\nThe Houthis\u2019 new strategy of warning about the enemy sites they plan to hit echoes that of Iran during recent wars with Israel and the US, when the IRGC issued advisories in locations where targets were situated near civilian areas. The advance warning also appears to signal a newfound confidence in its missile and drone operations\u2019 ability to reach their intended targets amid [dwindling enemy air defenses](https://t.me/geopolitics_prime/76454).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T14:16:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
