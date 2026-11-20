@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T09:03:26.506384+00:00",
+  "generated_at": "2026-11-20T17:51:19.365896+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -11,44 +11,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/20/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Friday, November 20, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/17/2026",
-      "location": "ZAB NM",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nSocorro, NM, Friday, November 20, 2026 Local\nFacility: ZAB",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/17/2026",
-      "location": "ZAB NM",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -211,24 +173,42 @@
       "verified_source_count": 1
     },
     {
-      "title": "Three Kyiv bridges hit during major Russian missile attack",
-      "text": "Three Kyiv bridges hit during major Russian missile attack\nFive people were killed in a wave of strikes which follow Ukraine's successful targeting of the Crimean Bridge.",
+      "title": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+      "text": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk\nNobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-20T09:01:06+00:00",
+      "timestamp": "2026-11-20T16:54:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "Clash Report"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "text": "What we know about the latest Russian missile strikes on Ukraine\nWhat we know about the latest Russian missile strikes on Ukraine.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-20T15:14:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -261,14 +241,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -282,14 +260,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -350,52 +326,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddf0\ud83c\uddfc NEW: Iran has launched drones at U.S. facilities in Kuwait in retaliation for today\u2019s airstrikes in Qeshm",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-17T21:44:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Russian ballistic missile strikes hit three major bridges across Kyiv\u2019s Dnipro River on Friday, killing three people and injuring 15, Mayor Vitali Klitschko said. \nThe attacks forced bridge closures and traffic restrictions, damaged critical infrastructure and sparked fires. \nThe strikes followed Putin\u2019s warning of retaliation after Ukraine attacked the Crimean Bridge for a third time this week. \nApartment buildings in Dnipropetrovsk, a hospital in Kharkiv and a tram in Zaporizhzhia were also struck, local officials said.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T06:40:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "Clash Report"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Yemen\u2019s Houthi rebels from the Ansar Allah movement said they had struck four sites in Saudi Arabia, including in Riyadh, and urged foreign investors to leave the kingdom immediately.\nThe group\u2019s spokesman, Yahya Saree, stated that the strikes hit the financial center and King Khalid International Airport in Riyadh, the Sadaf petrochemical company in Jubail in the east of the kingdom, and an air base in Khamis Mushait in southern Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 \u2014 Israel has upgraded its David\u2019s Sling air defense system to expand its ability to intercept a broader range of Iranian ballistic missiles while reducing interception costs, according to Bloomberg. \nThe system's Stunner interceptors cost approximately $1 million per unit, significantly less than the $3 million cost of an Arrow 3 interceptor and the more than $4 million price tag of a U.S. Patriot PAC-3 missile.\nThe upgrade comes after Iranian missile strikes exposed vulnerabilities in Israel's air defense network and placed increasing pressure on its stockpiles of interceptors.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T21:02:38+00:00",
+      "timestamp": "2026-11-20T17:13:59+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -409,52 +346,50 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 BREAKING: The Public Investment Fund (PIF) Tower, the tallest skyscraper in Riyadh, sustained damage earlier today following a ballistic missile strike launched by Ansarallah (Houthi) forces targeting the Saudi capital.\n\u2b50\ufe0f Follow",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 Iranian Tasnim News Agency: A missile has fallen on Qeshm Island in southern Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T16:14:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf1\ud83c\udde7\ud83c\uddee\ud83c\uddf1A number of interceptor missiles were launched a short time ago from the Galilee Panhandle towards an unknown target in Lebanese airspace.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T10:22:05+00:00",
+      "timestamp": "2026-11-20T15:58:54+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 \u2014 The United States and Israel are evaluating a potential new joint military offensive against Iran, according to defense sources cited by CBS News.\nIsraeli leadership is reportedly alarmed by the rapid pace at which Tehran is restoring its ballistic missile production capabilities and hardening its military and nuclear infrastructure underground\nU.S. CENTCOM commander Adm. Brad Cooper conducted strategic planning in Tel Aviv with senior Israeli officials, including IDF Director General Eyal Zamir and Mossad Director Roman Gofman.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-20T13:11:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "https://x.com/Ricardo_1934/status/2123102202285940912?a=4SCoZ2_khAaqcy_P6pI&s=19\n\u26a1\ud83c\uddf8\ud83c\uddfb\ud83c\udded\ud83c\uddf9 Footage circulating online shows FPV kamikaze drone strikes against armed gangs in Haiti, where President Nayib Bukele has deployed approximately 2,500 Salvadoran troops.",
+      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Possible downing of an UAV over Qeshm island.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T23:34:42+00:00",
+      "timestamp": "2026-11-20T15:46:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -639,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iranian state TV airs previously unseen drone footage\nIRIB aired the footage during an interview with an IRGC Aerospace Force drone unit member about Iran\u2019s operations in the 40-day war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf7 Trump may be looking to wind down Iran conflict behind smokescreen of military options\nThe US seems to be scaling back its naval presence in the Arabian Sea, raising questions about President Donald Trump's alternative plans for the region.\n\ud83d\udc49 [The USS George Washington ](https://t.me/geopolitics_prime/77978)aircraft carrier left the Middle East on November 18 after spending three months on station. It is returning to Yokosuka, Japan, with its strike group. Yokosuka is home to the US 7th Fleet. Previously, it had been deployed[ in the Arabian Sea](https://t.me/geopolitics_prime/77830) alongside the USS Theodore Roosevelt, which arrived in the region on November 15, and the USS George H.W. Bush, which arrived in April. Judging by the INSS interactive map, American warships are keeping their distance from the Strait of Hormuz and the Persian Gulf.\nReducing the US carrier presence in the region is an interesting choice after Washington assembled its largest naval force there since 2003, US analyst Brandon Weichert writes.\nThe departure of the USS George Washington also coincided with the APEC summit, where US President Donald Trump joined his Russian and Chinese counterparts at [the negotiating table](https://t.me/geopolitics_prime/78007.).\n\u2757\ufe0fBoth Russia and China have long advocated a diplomatic solution to the Gulf crisis. At the summit, Trump signaled his interest in lasting peace in the region, prompting some observers to believe that he is considering \"an alternative to massive escalation.\"\nMeanwhile, US hawks and Israeli politicians are pressing him to resume the war with Iran. Last week in Washington, Gofman advocated joint US-Israeli strikes on Iran during meetings with CIA Director John Ratcliffe and US envoy Steve Witkoff.\n\ud83d\udc49 On November 18, US CENTCOM commander Admiral Brad Cooper held a trilateral meeting with IDF Chief of Staff Gen. Eyal Zamir and Mossad Director Roman Gofman in Tel Aviv to conduct an Iran threat assessment. On November 19, Axios reported that Trump had tasked the Pentagon and US intelligence agencies with assessing Iran\u2019s possible responses to CENTCOM\u2019s military strike scenarios.\nStill, Weichert believes Trump is using security discussions as a smokescreen while scaling back the US naval presence and delaying any major escalation, largely due to depleted military stockpiles and incapability of decisively winning a war with Iran.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T06:13:24+00:00",
+      "timestamp": "2026-11-20T17:42:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -658,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0a FBI Director says US tech outages are inevitable \u2014 blames previous administrations\nFBI Director Kash Patel is addressing the catastrophic string of nationwide system failures by claiming that \"technical disruptions\" are simply unavoidable, while pointing the finger at the previous administration for leaving behind \"legacy\" systems.\n\ud83d\udcac \"There will be some technical disruptions like what we've seen... Legacy meaning other administrations could have made these updates, but they didn't. We are. We are staying ahead of the curve and making up for lost time.\"\nIt has taken the current administration nearly two years to even begin updating the nation's critical infrastructure. The timing is brutally ironic: they finally start patching the network, and the entire country's banking and aviation systems immediately crash.\nThe FAA grounded thousands of flights because of a router bought in 2001. Banks froze because of ancient backend systems. Yet, instead of taking responsibility for a crumbling domestic grid, Patel is deflecting to the private sector and vowing to \"hunt down nefarious actors\" all over the world.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udee2 Iran war sets the stage for permanently high oil prices\n\u00a0\nPerpetually higher crude prices of $85-95 a barrel are \u201cpoised to be the reality for the foreseeable future\u201d thanks to the never-ending security crisis in the Persian Gulf, according to a new WSJ report citing production, inventory and price data correlated with tanker attacks, rising shipping costs, and efforts by producers to bypass the Hormuz Strait.\n\u00a0\nThe data shows:\n\ud83d\udd34 a growing number of attacks on tankers trying to slip past Iran\u2019s Hormuz maritime traffic control regimen, with November\u2019s figures already the highest among any month except October and a week-and-a-half still left in the month\n\ud83d\udd34 skyrocketing shipping costs for Gulf oil (five times prewar levels)\n\ud83d\udd34 month after month of falling global crude inventories\n\ud83d\udd34 mega-buyer[ China\u2019s return](https://t.me/geopolitics_prime/77207) to the market after months of self-imposed restrictions on crude purchases intended to stabilize prices and inventories\n\u00a0\nLong term, permanently high oil prices mean[ \u2018higher everything prices\u2019 ](https://t.me/geopolitics_prime/75711)for consumers, industrial and agricultural producers, plus inflation and higher interest rates, slowing demand and trade. For net energy importers like Europe, the Iran war adds fuel to the process of deindustrialization going on since 2022 and the start of the Ukraine conflict.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T03:58:57+00:00",
+      "timestamp": "2026-11-20T16:19:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -677,12 +612,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udde3 'Things have changed, just not visibly': US Energy Secretary is playing word games on Hormuz\nEnergy Secretary Chris Wright was asked a simple question: How can gas prices improve if oil tankers are still hitting mines in the Strait of Hormuz?\nHis answer was peak bureaucratic gaslighting:\n\ud83d\udcac \"Things actually have changed. They're just not visibly changed.\"\nWright claims that more oil, gasoline, diesel, and jet fuel are now making it out of the strait.\nIn reality, Iran still firmly controls the waterway. Tankers are still being blown up by mines and struck by Iranian missiles, with the number of hit ships growing night after night.\nThe oil might be moving \"invisibly,\" but the burning tankers, the mines in the water, and the high prices at the pump are very visible to the rest of the world.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, they've been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow them to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T03:07:57+00:00",
+      "timestamp": "2026-11-20T16:18:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -696,12 +631,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8 Massive Russian strike: Missiles hit Kiev's Northern Bridge, cruise missiles inbound\nA massive coordinated Russian missile and drone strike is underway across Ukraine, with the capital and critical infrastructure taking direct hits.\n\ud83d\udd34 Up to 4 Iskander-M ballistic missiles were launched at the capital, according to local reports. At least 2 struck the Northern Bridge.\n\ud83d\udd34 Geran drones targeted electrical substations, causing power outages in the northern district.\n\ud83d\udd34 Iskander missiles were launched from Crimea, striking Odessa and Nikolaev regions.\nRussia is launching a highly coordinated, multi-layered aerial assault, combining hypersonic missiles, ballistic strikes, and strategic bombers.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\ude80 New underground missile city spotted in central Iran\n\u00a0\nOSINT observers looking at commercial geospatial satellite data have spotted the construction of a new underground facility burrowed deep into a mountain range in Isfahan province, central Iran.\nA PlanetLabs timelapse from January through November 2026 shows the creation of roads, a construction support camp, concrete production and materials storage sites, and excavation of at least five tunnels, together with large spoil pile.\nArmsControlWonk says judging by the construction activity and local geography, the site appears to be a new IRGC missile base, with potential for tunnels up to 150-200M deep \u2013 [unreachable](https://t.me/geopolitics_prime/76457) even by direct hits using all known conventional and nuclear weapons.\nOSINT evidence on the new facility follows Iran\u2019s unveiling of a separate new missile city equipped with heavy ballistic, cruise and hypersonic missiles, drones and[ a \u201csurprise\u201d weapon](https://t.me/geopolitics_prime/77627) blurred in reporting, and underground roads wide enough to comfortably fit multiple tractor trailers side by side.\nIran\u2019s Zagros Mountains, missile cities and equally sophisticated [undersea tunnels](https://t.me/geopolitics_prime/68832) and coastal staging areas have been credited as the big reasons the US and Israel have proven unable to substantively degrade the nation\u2019s counterstrike capabilities in the course of the 2025 and 2026 wars.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T00:32:57+00:00",
+      "timestamp": "2026-11-20T15:38:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -715,12 +650,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd1d Iraq reaches deal with Kataib Hezbollah \u2014 without the US\nIraq\u2019s government has reached a last-minute agreement with Kataib Hezbollah instead of forcing the militia out of a key town south of Baghdad it has controlled since 2014, according to Al Jazeera.\n\ud83d\udd34 Officials had accused the group of stealing hundreds of millions in state oil.\n\ud83d\udd34 Facing threats of armed resistance and intervention by Iran\u2019s Quds Force commander, Baghdad opted for a compromise rather than a confrontation.\n\ud83d\udd34 The deal establishes a shared security presence starting tomorrow afternoon, mixing army, police, and militia fighters under a new command.\nIraqi government didn't get a total military victory\u2014the militia keeps its role. But Iraq proved a much larger point: it is capable of managing its own complex web of factions and security challenges through internal consensus and regional diplomacy, without US interference.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfe\ud83c\uddeaHouthis reveal their next targets: five pieces of critical Saudi economic infrastructure\n\u00a0\nYemen\u2019s Ansar Allah fighters painted large red targeting reticles on infrastructure across Saudi Arabia on Friday, including:\n\u27a1\ufe0f four of the kingdom\u2019s biggest ports (King Fahd Industrial Port, Jazan Port, Yanbu Port, Jeddah Port)\n\u27a1\ufe0f The King Abdullah Financial District in Riyadh ([already subject to repeated attacks this week](https://t.me/geopolitics_prime/78028))\nThe Ansar Allah-aligned Yemeni Armed Forces warned in a statement that Saudi ports would \u201cbecome targets for our forces should the enemy carry out its threats to bombard the Port of Hodeidah.\u201d\n\ud83d\udcac\u201cWe warn all staff, workers and those present in or near these facilities to evacuate immediately and keep their distance. Furthermore, we call on all shipping companies to remove their vessels from these ports without delay,\u201d the Houthis urged.\nDeclaring Riyadh\u2019s Financial Center a legitimate military target, the group similarly advised \u201call employees, workers and citizens\u201d to evacuate to avoid harm.\nSeparately, the fighters warned that \u201cin response to the Saudi enemy\u2019s targeting of power stations in Saada and Mokha\u2026the Al Shuqaiq Power Station will be a legitimate target of our forces in the coming hours.\u201d A similar advisory to evacuate was given.\nFinally, Ansar Allah warned commercial airlines that Saudi airspace is unsafe and \u201cwill become a theater for our operations in the coming hours \u2013 with the exception of the sacred airspace over Mecca and Medina.\u201d\nThe Houthis\u2019 new strategy of warning about the enemy sites they plan to hit echoes that of Iran during recent wars with Israel and the US, when the IRGC issued advisories in locations where targets were situated near civilian areas. The advance warning also appears to signal a newfound confidence in its missile and drone operations\u2019 ability to reach their intended targets amid [dwindling enemy air defenses](https://t.me/geopolitics_prime/76454).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T22:52:57+00:00",
+      "timestamp": "2026-11-20T14:16:02+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -730,27 +665,6 @@
         "Geopolitics Prime"
       ],
       "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcf9 Yemeni missile hits financial center in Riyadh\nThe Houthis have claimed a new missile attack on the General Investment Fund tower in Riyadh, Saudi Arabia.\nThe kingdom's civil defense service reported that several floors of one of the towers in the center of the capital were destroyed following the missile strike.\nThe damage is no longer limited to border regions or energy infrastructure; it is now reaching the headquarters of the kingdom's sovereign wealth funds.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T21:10:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 3
     },
     {
       "title": "Telegram",
