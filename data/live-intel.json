@@ -1,44 +1,6 @@
 {
-  "generated_at": "2026-11-19T19:11:24.479658+00:00",
+  "generated_at": "2026-11-20T01:18:49.199600+00:00",
   "events": [
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKaneohe, HI, Monday, November 23, 2026 Local\nFacility: ZHN",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/18/2026",
-      "location": "ZHN HI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKaneohe, HI, Saturday, November 21, 2026 Local\nFacility: ZHN",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/18/2026",
-      "location": "ZHN HI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nALAMOGORDO, NM, Friday, November 20, 2026 Local\nFacility: ZAB",
@@ -124,82 +86,6 @@
       "severity": "critical",
       "icon": "\ud83d\udea8",
       "timestamp": "11/15/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nKaneohe, HI, Tuesday, November 17, 2026 through Friday, November 20, 2026 Local\nFacility: ZHN",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/15/2026",
-      "location": "ZHN HI",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nHUNTSVILLE, AL, Tuesday, November 17, 2026 through Thursday, November 19, 2026 Local\nFacility: ZME",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/10/2026",
-      "location": "ZME AL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\ndisneyland theme park anaheim, CA\nFacility: ZLA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/10/2026",
-      "location": "ZLA CA",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nDISNEY WORLD THEME PARK, ORLANDO, FL\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/10/2026",
       "location": "ZJX FL",
       "lat": null,
       "lon": null,
@@ -306,25 +192,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-      "text": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia\nWatch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-18T17:00:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "It was a cruise missile, not ballistic.\nTherefore relatively minor damage.\nSaudis got lucky.",
@@ -355,14 +222,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -376,14 +242,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -464,6 +329,25 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddfe\ud83c\uddea\ud83c\uddf8\ud83c\udde6 Yemen\u2019s Houthi rebels from the Ansar Allah movement said they had struck four sites in Saudi Arabia, including in Riyadh, and urged foreign investors to leave the kingdom immediately.\nThe group\u2019s spokesman, Yahya Saree, stated that the strikes hit the financial center and King Khalid International Airport in Riyadh, the Sadaf petrochemical company in Jubail in the east of the kingdom, and an air base in Khamis Mushait in southern Saudi Arabia.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T21:02:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 BREAKING: The Public Investment Fund (PIF) Tower, the tallest skyscraper in Riyadh, sustained damage earlier today following a ballistic missile strike launched by Ansarallah (Houthi) forces targeting the Saudi capital.\n\u2b50\ufe0f Follow",
       "source": "Telegram",
       "source_type": "telegram",
@@ -473,14 +357,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime",
         "Middle East Spectator"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -637,6 +520,63 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Massive Russian strike: Missiles hit Kiev's Northern Bridge, cruise missiles inbound\nA massive coordinated Russian missile and drone strike is underway across Ukraine, with the capital and critical infrastructure taking direct hits.\n\ud83d\udd34 Up to 4 Iskander-M ballistic missiles were launched at the capital, according to local reports. At least 2 struck the Northern Bridge.\n\ud83d\udd34 Geran drones targeted electrical substations, causing power outages in the northern district.\n\ud83d\udd34 Iskander missiles were launched from Crimea, striking Odessa and Nikolaev regions.\nRussia is launching a highly coordinated, multi-layered aerial assault, combining hypersonic missiles, ballistic strikes, and strategic bombers.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-20T00:32:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83e\udd1d Iraq reaches deal with Kataib Hezbollah \u2014 without the US\nIraq\u2019s government has reached a last-minute agreement with Kataib Hezbollah instead of forcing the militia out of a key town south of Baghdad it has controlled since 2014, according to Al Jazeera.\n\ud83d\udd34 Officials had accused the group of stealing hundreds of millions in state oil.\n\ud83d\udd34 Facing threats of armed resistance and intervention by Iran\u2019s Quds Force commander, Baghdad opted for a compromise rather than a confrontation.\n\ud83d\udd34 The deal establishes a shared security presence starting tomorrow afternoon, mixing army, police, and militia fighters under a new command.\nIraqi government didn't get a total military victory\u2014the militia keeps its role. But Iraq proved a much larger point: it is capable of managing its own complex web of factions and security challenges through internal consensus and regional diplomacy, without US interference.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T22:52:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Yemeni missile hits financial center in Riyadh\nThe Houthis have claimed a new missile attack on the General Investment Fund tower in Riyadh, Saudi Arabia.\nThe kingdom's civil defense service reported that several floors of one of the towers in the center of the capital were destroyed following the missile strike.\nThe damage is no longer limited to border regions or energy infrastructure; it is now reaching the headquarters of the kingdom's sovereign wealth funds.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-19T21:10:57+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
       "text": "\ud83e\udd16 Anduril founder promotes AI-driven autonomous weapons to target \u2018Russian tanks\u2019\nPalmer Luckey, founder of defense-tech startup Anduril, has recently advocated the use of autonomous weapons, arguing that a system capable of distinguishing a \"Russian tank\" from a school bus full of children is preferable to a \"dumb mine.\"\nIn response, Walter Isaacson, who interviewed Luckey, pointed to current US policy requiring human oversight of drone strikes. Luckey countered by saying that this is not a permanent moral principle and [could be changed](https://t.me/geopolitics_prime/77636).\nBeyond the inflammatory framing \u2013 Russia is not at war with the United States \u2013 Luckey\u2019s argument overlooks several serious [problems](https://t.me/geopolitics_prime/76660) that critics have repeatedly raised:\n\ud83d\udd34 AI can get targets wrong. The [destruction of a school in Minab](https://t.me/geopolitics_prime/75462), Iran, killing children, has highlighted the risks of flawed targeting, outdated intelligence and over-reliance on automated systems\n\ud83d\udd34 Can Anduril actually control its autonomous systems? Reports of AI agents escaping test environments and [breaching other companies\u2019 digital infrastructure](https://t.me/geopolitics_prime/77995) raise questions about whether Anduril and other defense-tech firms can reliably control increasingly autonomous AI models and robotic systems\n\ud83d\udd34 Who is legally responsible? If an autonomous weapon kills the wrong target, who bears responsibility? With a conventional mine, accountability can be traced to those who planted it. Autonomous systems make that chain of responsibility far less clear\n\ud83d\udd34 How does AI identify a tank\u2019s nationality? Weapons platforms are often shared across countries, and national insignia can be obscured by mud or removed altogether. The challenge becomes even greater when forces use captured equipment \u2013 as the Houthis have done with Saudi weapons, or Russian forces with NATO-made equipment captured in Ukraine.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
@@ -684,14 +624,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime",
-        "Middle East Spectator"
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
