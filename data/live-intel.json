@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T06:44:48.555100+00:00",
+  "generated_at": "2026-11-21T14:57:44.697363+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -68,25 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/16/2026",
       "location": "ZLA NV",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, November 16, 2026 through Saturday, November 21, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/15/2026",
-      "location": "ZJX FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -194,6 +175,84 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iran has shot down 3 American drones today which tried to violate its airspace\n1x MQ-1 \u2018Grey Eagle\u2019\n1x MQ-9 \u2018Reaper\u2019\n1x Unidentified",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T14:03:09+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 One of Iran\u2019s many underground missile bases, fully stocked with ballistic missiles",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T13:52:51+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: A rare image frome one of Iran\u2019s underground missile bases shows that Rezwan MRBMs have been given dual launchers\nWe also see a new variant of the missile, outfitted with a large submunition cone (cluster warhead) that carries about ~100kg each.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T13:49:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: Iran\u2019s Army announces targeting a U.S. F-16C fighter jet in the Persian Gulf yesterday evening while attempting to violate Iranian airspace\nThe jet was targeted with a surface-to-air missile tipped with a proximity fuse; it exploded near the jet, causing it to be damaged and forcing it to make an emergency landing in the UAE.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T13:32:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\udde6\ud83c\uddea/\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 BREAKING: A U.S. F-16C fighter jet squawked 7700 (general emergency) after trying to enter Iranian airspace\nIt quickly left the Strait of Hormuz and attempted to make an emergency landing in Al-Dhafra Airbase, United Arab Emirates, while rapidly losing altitude and speed.\nThe fate of the aircraft is unclear.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -231,96 +290,117 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "It was a cruise missile, not ballistic.\nTherefore relatively minor damage.\nSaudis got lucky.",
+      "publisher": "Clash Report",
+      "text": "CENTCOM:\nIran did not attack a U.S. F-16 fighter aircraft yesterday \u2014 at all.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T18:27:12+00:00",
+      "timestamp": "2026-11-21T14:46:34+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "Iran\u2019s army released a video claiming its air defense systems fired a missile at a U.S. F-16 over the Persian Gulf on November 20.\nIt claims the missile damaged the aircraft, forcing the pilot to abort the mission and make an emergency landing.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T13:29:08+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "A Russian cargo ship, Sparta II, caught fire in the Gulf of Finland after reportedly being struck by two drones. \nThe vessel, which Ukraine says has transported military equipment and is under U.S. sanctions, drifted into Finnish territorial waters.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T12:29:48+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea WATCH: Footage of the Yemeni ballistic missile impacting the PIF tower in Riyadh, Saudi Arabia",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The Iranian Army announces that it targeted a U.S. Air Force F-16 fighter jet over the Persian Gulf yesterday, causing damage to the aircraft and forcing it to make an emergency landing in one of the Gulf countries.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T18:15:36+00:00",
+      "timestamp": "2026-11-21T13:26:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddf8\ud83c\udde6/\ud83c\uddfe\ud83c\uddea NEW: Last night, a Houthi ballistic missile directly impacted the tallest skyscraper in Riyadh, where the headquarters of Saudi Arabia\u2019s PIF (Public Investment Fund) is located",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Iran's IRGC says its air defenses intercepted and destroyed a U.S. MQ-1 drone over Sirik Island using a new advanced system, marking the 19th downing of this model.\nThe force stated the operation was a direct response to U.S. airspace violations and followed the recent downing of an MQ-9 drone. The statement also invoked a quote from Imam Ali: \n\"Return the stone to the place from which it came, for evil can only be repelled by evil.\"",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-19T18:14:09+00:00",
+      "timestamp": "2026-11-21T11:36:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: Iranian air defenses shot down an American MQ-9 \u2018Reaper\u2019 drone with an anti-drone UAV",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Intense confrontation in the Strait of Hormuz: the IRGC reports damage to oil tankers and U.S. equipment following Trump's statements.\nThe U.S. military attempted to escort violating oil tankers and facilitate fuel smuggling through the strait, deploying extensive air cover including F-16, F/A-18, and F-35 jets, P-8 Poseidon patrol aircraft, helicopters, and MQ-series drones.\nTwo oil tankers suffered explosions and severe fires after colliding with naval mines\u2014one near the port of Khassab, and another roughly 3 km off the coast of Ghannum Island.\nThe IRGC's advanced air defense system destroyed a U.S. MQ-9 drone that was providing air cover for the operation in the western part of the strait.\nThe IRGC Navy warned that any vessel transiting with navigation systems turned off, using unauthorized routes, or uncoordinated with its traffic control center will be considered a violator cooperating with the \"aggressive U.S. military\" and dealt with decisively.\n\ufeff",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T13:33:09+00:00",
+      "timestamp": "2026-11-21T10:20:51+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8 NEW: Iran\u2019s air defenses shot down an American MQ-1 \u2018Grey Eagle\u2019 drone",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-18T13:33:05+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
+        "Alsaa Plus EN"
       ],
       "verified_source_count": 1
     },
@@ -383,25 +463,6 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 \u2014 Iranian Tasnim News Agency: A missile has fallen on Qeshm Island in southern Iran.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-20T15:58:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Mediterranean Man",
       "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Possible downing of an UAV over Qeshm island.",
       "source": "Telegram",
@@ -421,13 +482,109 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 OSINT sleuths spot Patriots protecting Saudi royals\u2019 sprawling Red Sea resort compound\n\u00a0\nA lush artificial oasis retreat in Saudi Arabia\u2019s remote northwestern province of Tabuk features exquisite manicured gardens and tree-lined boulevards, mansions, guest villas, servants\u2019 quarters, a full-size, 18-hole golf coast, private yacht marina and numerous helipads for VIP guests.\nIt also has what OSINT observers say resembles an MIM-104 Patriot missile battery of the kind ordinarily reserved for guarding cities, critical infrastructure and important military sites.\n\ud83d\udc49 Satellite images shot by Airbus this summer shows clusters of vehicles bearing the unmistakable US military-standard Tan/Desert camo color scheme spread across a vast barren area north of the resort, including vehicles bearing the Patriot\u2019s characteristic boxy launch containers and support equipment.\nRecent months have been rife with reports that the kingdom is running low on Patriot interceptor stocks \u2013 once the world\u2019s largest stockpile after the US, amid unrelenting Houthi drone and missile attacks targeting infrastructure, airports, and prestige projects like Riyadh\u2019s Financial District.\nThe royal compound is situated ~75km east of the popular Egyptian resort city of Sharm el Sheikh, and 15km northwest of the NEOM Bay Airport. It\u2019s also roughly 1.5k km away from the closest Houthi-governed area of Yemen.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "publisher": "CASELS",
+      "text": "Russian strikes have caused casualties and damage across several Ukrainian regions. In Kryvyi Rih, the number of injured has risen to 58, including 6 children, according to local authorities. In Solonytsivka, Kharkiv region, a drone struck a five-story apartment building, injuring 11 people, including 2 children, and causing a 250 m\u00b2 fire. A woman was injured in Vinnytsia region, where civilian buildings and a power line were damaged. In Kyiv, 2 people were injured during the morning attack.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T04:58:01+00:00",
+      "timestamp": "2026-11-21T07:54:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u203c\ufe0fUp to 10 Russian aerial objects may have violated Polish airspace overnight Thursday to Friday, according to Radio ZET. Three have been confirmed so far. Polish military officials are examining whether at least two were heading toward the Nowa D\u0119ba training ground, where approximately 5,000 troops from 11 countries are participating in exercises. NATO electronic jamming systems deployed near Rzesz\u00f3w-Jasionka airport may have altered their trajectories, causing them to crash, the report says.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T07:54:31+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Russia launched 3 ballistic missiles and 148 drones at Ukraine overnight, including 87 jet-powered drones. Ukrainian air defenses shot down or suppressed 117 drones, including 67 jet-powered ones. Strikes were recorded at 19 locations. Around 10 drones remained airborne at 08:00.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T07:54:25+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Due to possible drone interception operations off the coast of Kotka, Finland, the Finnish Defence Force has introduced a temporary airspace and maritime restriction for eastern portions of the Gulf of Finland.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T07:53:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\ude80 Double the punch, double the deterrence: IRGC unveils twin-missile launcher at new missile city\n\u00a0\nIRGC commander-in-chief Ahmad Vahidi\u2019s tour of a new fortified underground military facility included images of a never-before-seen twin-missile launcher.\nIRIB footage and photos from inside the site shows a transporter erector launcher (TEL) platform married to a heavy five-axle truck carrying two missiles. IRIB says the launcher uses liquid-fueled missiles (typically meaning increased preparation time, but higher fuel efficiency and greater payload and range).\nThe report did not mention the system\u2019s name or the types of missiles it can carry, but judging by the ridges on the missile body and its nose cones\u2019 geometry, they may be variants of Qiam and Shabab-series designs.\n\ud83d\udde3 \u201cWhat happens to the enemy is just the beginning,\u201d Vahid told assembled missile crews during his visit. \u201cWe will see the enemy\u2019s humiliation and disgrace more than ever before,\u201d he said. \u201cAll of NATO stood against Iran, yet by the grace of God, they failed to prevail,\u201d he added, referencing alliance estimates that 4-5k US military flights were launched from bases across Europe for attacks on Iran.\n\ud83d\udde3 \u201cOur capabilities have increased in the period between the two wars; \u2018surprises\u2019 and highly effective assets possessing both deterrent and destructive qualities have been integrated into our combat structure,\u201d IRGC Aerospace Force chief Majid Mousavi said.\n[The \u2018missile city\u2019](https://t.me/geopolitics_prime/77627) complex shown off during the tour looks different from the one unveiled last week. \nIran\u2019s asymmetric strategy of using geography to build heavily fortified [underground missile, drone and speedboat launch sites](https://t.me/geopolitics_prime/78064) has proven highly successful in blunting US-Israeli attacks, with some DC insiders concluding that even bunker-busting[ MOABs ](https://t.me/geopolitics_prime/76457)and tactical nuclear weapons can\u2019t penetrate the facilities, leaving enemies unable to significantly degrade Iran\u2019s strike power.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T14:35:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Geopolitics Prime",
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2620\ufe0f THROWBACK: \u2018Every system can be hacked\u2019 \u2014 Netanyahu admits to cyber warfare capabilities \n\ud83d\udde3 \u201cWith a click of a button, you can bring down nations to their knees very rapidly, if you so desire,\u201d Prime Minister Benjamin Netanyahu said at CyberTech 2017. \n\ud83d\udd0a \u201cOur airplanes, our hospitals, our cars, our banks \u2014 most importantly, our data banks \u2014 they can be hacked,\u201d he emphasized. \nThis month alone, following the Democratic victory in the midterms, the US has faced a series of large-scale disruptions, including the FAA, FBI, National Security Agency, and banking systems.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T13:54:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,12 +598,32 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\u2705 Fire tears through Kiev complex housing Nova Poshta branch\nA major fire ripped through a commercial complex in Kiev\u2019s Solomianskyi district, almost completely destroying the building within about half an hour, Ukrainian media reported.\nThe complex housed a Nova Poshta branch. Nova Poshta facilities have been known to serve as key logistics hubs for Ukrainian forces, handling shipments of weapons, ammunition, and drones.\nThe cause of the fire has not yet been established.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddee\ud83c\uddf7 US-Israel military action against Iran back on the table \u2013 report \nIsraeli Prime Minister Benjamin Netanyahu\u2019s government prefers a joint operation with the US \u201cin the short term,\u201d but it remains unclear whether President Trump is prepared to authorize further strikes on Iran, CBS News reports.\nIsrael\u2019s military is ready for another round of fighting and remains on high alert, as US forces in the Middle East include tens of thousands of personnel, two aircraft carriers and their strike groups.\n\ud83d\udc49 A possible new US offensive could be launched within two to four days if Trump gives the order, given the American military assets already deployed in the region amid an exchange of strikes between Iran and the US, including an attack on Iran\u2019s strategic Qeshm Island earlier this week.\nThe US president previously sent mixed signals, threatening to use force against Iran while also saying that he is not rushing into a decision and that the standoff could continue into 2027.\nMonths of the Iran-US indirect talks have failed to produce a deal on reopening the Strait of Hormuz. Tehran has refused to discuss its nuclear program unless Washington lifts its naval blockade and accepts six other conditions, including an end to hostilities on all fronts in the Middle East. \nIran also warned that any renewed attack would trigger a broader response, threatening to target Israel and US military installations across the Gulf and Europe, as well as energy infrastructure and undersea internet cables.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T02:52:02+00:00",
+      "timestamp": "2026-11-21T09:47:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7 Iranian military downs 58th MQ-9 drone over the Strait of Hormuz\nThe IRGC has released video from its air defense system showing the interception of a reconnaissance drone, Press TV reports.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-21T08:25:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
