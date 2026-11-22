@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T16:19:17.345655+00:00",
+  "generated_at": "2026-11-22T21:57:48.472080+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -116,14 +116,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say",
-      "text": "Explosion on Russian ship at Libya port likely caused by drone attack, officials say\nLibya's eastern rival government says it is working with Russia to investigate the incident.",
+      "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+      "text": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say\nLibya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-22T16:05:25+00:00",
+      "timestamp": "2026-11-22T20:28:09+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -135,24 +135,42 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russia-bound ship still on fire after attack in Gulf of Finland",
-      "text": "Russia-bound ship still on fire after attack in Gulf of Finland\nFinnish defence forces say that Ukraine was likely behind the drone attack on the vessel.",
+      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
+      "text": "Russia-bound ship towed away after it was attacked in Gulf of Finland\nFinnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-22T11:25:14+00:00",
+      "timestamp": "2026-11-22T17:18:26+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "BBC World News",
-        "CASELS"
+        "BBC World News"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
+      "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 - President Donald Trump:\n Iranian ships that try to break the blockade will meet the same fate as the rest of the Iranian navy",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T17:46:14+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -223,13 +241,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Middle East Spectator"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -290,135 +307,98 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "Others say it\u2019s a direct impact of an Iranian drone at a Bahraini industrial or military site. We await the details.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T18:43:14+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW: Greece and Israel are discussing up to \u20ac1 billion in new defense deals, covering electronic warfare, long-range missiles and a bigger Elbit-run pilot training center in Kalamata, Kathimerini reports.\n[READ MORE](https://clashreport.com/defense/articles/greece-israel-new-defense-deals-j8kfoe7w82k)",
+      "text": "WATCH: A sea drone, reportedly Ukrainian, slamming into a Russian cargo ship and exploding off the coast of Benghazi, Libya today.\nThe ship has been identified as sanctioned Russian Ro-Ro vessel Ascalon, which has carried military cargo for Russia and was documented loading armored vehicles at Kaliningrad's Baltiysk naval base in October.\nThe evening strike followed a suspected sea-drone attack at dawn on the Russian corvette Merkury, docked at Benghazi naval base.\nLibyan military sources told AP and Reuters that Ukrainian naval drones launched from western Libya were used, and Libyan forces said they intercepted more than a dozen drone boats.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T12:05:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukraine\u2019s rapidly expanding defense industry is struggling with funding shortages, labor constraints and Russian attacks, threatening to stall its growth. \nUkraine expects to produce more than 7 million drones this year, up from 2.2 million in 2024, but remains far behind Russia in missile production. \nIts more than 1,300 defense companies compete for limited funding, while bombardment makes factory expansion difficult. \nAs a result, Ukrainian manufacturers are increasingly shifting production abroad and seeking foreign investment to sustain growth.\nSource: WSJ\n[READ MORE](https://clashreport.com/defense/articles/ukraine-defense-industry-growth-limits-i9uqav5j5jj)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T09:40:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Iran's Revolutionary Guard Corps (IRGC) Spokesperson Sardar Hossein Mohebbi:\nThe last image that the operator of an MQ-9 drone sees on the screen before the aircraft is destroyed...\n\ufeff\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T15:20:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7 In Iran, drones are being displayed on the streets of Tehran and ballistic missiles on the streets of Isfahan.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T11:35:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udde7\ud83c\udded\ud83c\uddfa\ud83c\uddf8\u2014 Iran's IRGC has released video footage showing its aerospace forces retaliating against recent airspace violations and an attack on the radar station located on Hengam Island.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T21:35:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\udde7\ud83c\udded\ud83c\uddfa\ud83c\uddf8 \u2014 Iran's IRGC says its Aerospace Force launched a combined missile and drone operation, codenamed \"Ya Um al-Baneen,\" targeting U.S. military positions at the Al-Rifa' and Awali bases in Bahrain.\nAccording to the force, the strikes destroyed two radar systems belonging to the U.S. military's Patriot air defense system. The operation was in retaliation for ongoing airspace violations and a recent attack on a radar on Hengam Island.\nThe IRGC claimed that U.S. escort and air cover operations in the region have failed to achieve their goals and have resulted in significant damage to U.S. equipment and the vessels they are protecting. The force also stated the attack was a direct response to violations by U.S. MQ-1 and MQ-9 drones, warning that Iranian airspace is a red line.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T21:32:00+00:00",
+      "timestamp": "2026-11-22T18:29:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Middle East Spectator"
+        "Clash Report",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddf5\ud83c\uddf0\ud83c\udde6\ud83c\uddeb Pakistani tanks on the border with Afghanistan have also been fitted with anti-drone nets.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T21:48:20+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Footage released by IRGC of the destruction of the 20th advanced American MQ-1 reconnaissance and combat drone in the eastern waters of the Strait of Hormuz.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T20:33:37+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 The IRGC's air defense forces have shot down a 20th advanced American MQ-1 extended-range (ER) reconnaissance-combat drone east of the Strait of Hormuz.\nThe drone was downed using a new, advanced air defense system, marking the fourth U.S. drone intercepted by Iranian forces in the past 24 hours.\nThe IRGC reaffirmed that Iranian airspace is a red line, warning that any violation will be met with a firm and decisive response.\nForces remain on high alert and warned that they are fully prepared to target the source of the flights if continued aggression occurs.\n\ufeff\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T20:31:56+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddf1\ud83c\uddfe\ud83c\uddfa\ud83c\udde6A Russian navy corvette docked at the Benghazi naval base \u200bin eastern Libya was hit by a suspected Ukrainian sea drone, the strike severely damaged the warship and ignited a fire at the facility.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T20:31:44+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Clash Report",
+        "Mediterranean Man"
       ],
       "verified_source_count": 2
     },
@@ -520,32 +500,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Finnish and Estonian rescue ships fought the fire on Sparta II, the sanctioned Russian ship that hauled weapons for Russia's MoD and was hit by drones in the Gulf of Finland. Russia never officially asked for help.\nSanctioned Russian rescue ship Murman also joined at Finland's request. All 16 crew left Sparta II on lifeboats and rafts. It drifted into Finnish waters, so Finland had to save the crew but not fight the fire.",
+      "text": "Officials in Poland have now confirmed and notified other members of NATO that a total of three Russian Kh-101 air-launched cruise missiles struck Eastern Poland on Friday during a Russian attack against Ukraine, identifying fragments of the missiles as Russian-made and produced in late 2026. NATO will hold an emergency meeting to discuss the situation on Monday.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T08:05:26+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "BBC World News",
-        "CASELS"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Drones attacked the Afipsky refinery in Russia's Krasnodar region overnight, with explosions and smoke near the plant.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T08:02:00+00:00",
+      "timestamp": "2026-11-22T19:57:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -559,12 +519,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ud83c\uddf5\ud83c\uddf0\ud83c\udde6\ud83c\uddeb The Tehreek-e-Taliban Pakistan (TTP) released a video of an alleged drone strike targeting a military position in Pakistan's Bannu region, claiming that several security forces were killed.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "The Finnish Border Guard has announced that it has completed towing operations for the Russian military-linked cargo vessel, M/V SPARTA II (IMO: 9160994), which is now outside of Finland\u2019s Exclusive Economic Zone in the Gulf of Finland, likely awaiting further towing to St. Petersburg by Russia.\nThe Sparta ll remains without power and abandoned following a suspected drone attack by Ukraine yesterday off the coast of Finland, with the Finnish Border Guard and Coast Guard abiding by international maritime law and assisting the vessel, evacuating the crew and extinguishing fires onboard, before towing it out of Finland\u2019s EEZ.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T04:49:31+00:00",
+      "timestamp": "2026-11-22T19:56:28+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -578,12 +538,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Enhanced GPS interference is being reported over the Gulf of Finland, the Baltic States and the Russian exclave of Kaliningrad, following yesterday\u2019s suspected drone attack by Ukraine against a Russian military-linked cargo ship and the Headquarters of the Baltic Fleet in Kaliningrad.",
+      "text": "New satellite imagery captured by shows the Russian Navy\u2019s Steregushchiy-class corvette Merkury entirely destroyed and partially sunk at the Port of Benghazi in Eastern Libya, following last night\u2019s unmanned surface drone attack against the naval vessel by Ukraine.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T04:44:18+00:00",
+      "timestamp": "2026-11-22T19:56:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -597,12 +557,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Currently, a tanker loaded off Kharg island with Iranian crude via ship to ship transfer is bound for the U.S. blockade line, likely prompting this announcement clarifying the U.S. position. This leads to the possibility of U.S. action against this vessel in the coming days.\nAs previously reported, Iran says that if the vessel is stopped, they will resume regional missile attacks. In reality drone and missile attacks continue in certain areas of CENTCOM daily.\nFaytuks Network (\nCENTCOM expanded its Iran blockade enforcement on November 18, warning that vessels receiving Iranian cargo through s2s transfers may be stopped, boarded, diverted or seized, even without entering Iranian ports.",
+      "text": "Moment that a Ukrainian surface drone struck a Russian military-linked cargo vessel earlier off the coast of Benghazi, filmed from a helicopter with the Libyan National Army\u2019s Air Force.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T04:17:39+00:00",
+      "timestamp": "2026-11-22T19:56:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -610,6 +570,158 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Last night\u2019s attack on the Russian Navy\u2019s Steregushchiy-class corvette Merkury at the Port of Benghazi in Eastern Libya, which had been conducting escort operations for Russian military-linked cargo vessels in the Mediterranean, was carried out by the Security Service of Ukraine (SBU) utilizing several unmanned surface drones launched from an unidentified location, sources familiar with the operation have told Defender Media.\nAccording to sources, over a dozen drones were launched at the Russian corvette during the operation, including several decoys meant to overwhelm any Libyan or Russian defensive assets, with only one of two explosive-laden surface drones able to successfully strike the ship, setting munitions and fuel onboard ablaze and resulting in its total destruction while still docked at the Port of Benghazi.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T19:56:17+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Video footage from an overhead camera captured the moment a Ukrainian unmanned surface drone struck a Russian military-linked cargo ship this afternoon off the coast of Benghazi, Libya.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T19:56:06+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Additional footage showing the detonation of munitions and fires burning onboard the Russian Steregushchiy-class corvette Merkury last night at the Port of Benghazi, Libya, following an operation utilizing several unmanned surface drone carried out by the Security Service of Ukraine (SBU).",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T19:56:03+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Libyan state-run media channels have published footage allegedly showing the Libyan National Army\u2019s Air Force and Navy neutralizing several unmanned surface drones earlier today off the coast of Benghazi.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T19:56:00+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Another Russian military-linked shipping vessel is currently burning off the coast of Banghazi, Libya this evening, after reportedly being attacked by several unmanned surface drones, in a major operation against the Russian Navy and shipping over the last 24 hours by the Security Service of Ukraine (SBU). The Russian Navy's Steregushchiy-class corvette Merkury exploded and was totally destroyed last night in a Ukrainian strike on the Port of Benghazi.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T19:55:55+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udca5 Houthi drones pound Saudi forces and armor\nHouthi media released footage showing Rajoom attack drones striking Saudi forces and equipment across several fronts.\nThe videos show direct hits on tanks and other armored vehicles, along with strikes on barracks and weapons depots.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T21:43:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "IDF fears unilateral attack on Iran could trigger multi-front war\nIsraeli Military Intelligence has reportedly rejected Prime Minister Netanyahu and Mossad chief Gofman\u2019s assessment that Israel could launch a \u2018limited\u2019 3-5 day operation against Iran and get away with it without any repercussions.\nInstead, a new escalation could spark a regional war pulling in Lebanon, Syria and Gaza, Israel\u2019s Channel 12 reports, citing a closed-door security cabinet meeting at which the IDF\u2019s intelligence service made its position clear to Netanyahu and top defense officials.\nSeparately on Sunday, a source told Israel\u2019s Kan broadcaster that Netanyahu continues[ to lobby President Trump to hit Iran \u201cas soon as possible\u201d](https://t.me/geopolitics_prime/78112) despite reported reluctance on Trump\u2019s part.\nIranian officials, military and IRGC leaders have said they\u2019re prepared for any escalation, and indicated that a resumption of full-scale fighting could mean Iranian attacks on previously not-targeted infrastructure like [internet data cables](https://t.me/geopolitics_prime/77405) and Big Tech interests, and may even expand the conflict beyond the borders of the Middle East.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T20:47:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Saudi Arabia bets on al-Qaeda-linked militants to destabilize Yemen - minister\nRiyadh has used such tactics since 2015 and is now seeking to expand activities of al-Qaeda-linked groups, Yemeni Deputy Information Minister of Sanaa's government Mohammed Mansour told Al-Masirah.\nHis other key statements:\n\ud83c\udf0f Saudi Arabia could recruit additional fighters to fuel internal chaos, then eliminate them to conceal those responsible for organizing and deploying them.\n\ud83c\udf0f Markets, factories, schools, and other civilian infrastructure in Yemen have increasingly come under attack\n\ud83c\udf0f Despite years of military operations, Riyadh has failed to weaken Yemen's resistance, while Yemeni military capabilities and the precision of its strikes have improved significantly\n\ud83c\udf0f Reports of companies leaving Saudi Arabia's financial center and declining activity around the King Abdullah complex point to growing economic pressure\n\ud83c\udf0f Continued Saudi attacks and the blockade risk pushing the conflict into a new and more dangerous phase of military confrontation\n\ud83c\udf0f Yemen would never surrender its sovereignty or independence\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T18:01:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -622,82 +734,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-22T15:47:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd0d Hack attacks, digital disruptions are \u2018new normal\u2019 \u2013 former NSA chief\nThe wave of high-profile digital outages and [cyberattacks](https://t.me/geopolitics_prime/78097) rocking companies, banks, the FAA, and even [the FBI and NSA](https://t.me/geopolitics_prime/78036) are only the start, with AI tools\u2019 ability to uncover vulnerabilities, and aging infrastructure designed to handle less complex threats characterized as a toxic combination.\n\ud83d\udd0a\u201cWhat we are seeing is a new normal,\u201d ex-NSA and US Cyber Command chief Paul Nakasone said at a conference this week.\n\u201cIndustries and agencies are trying to rapidly modernize, and at the same time, defend themselves\u201d against \u201cthe most disruptive technology\u201d in history, Nakasone, who now sits on the board of OpenAI \u2013 one of the tech giants making such attacks possible, explained.\nBig Tech blames aging hardware and software for the spike in issues, with Google head of global risk Jeanette Manfra telling WaPo \u201ccritical systems are deeply interconnected, and many still rely on brittle legacy architectures where a single vendor misconfiguration, hardware failure or cyberattack can trigger cascading failures.\u201d\nCybersecurity experts told the paper there\u2019s enough \u201ctechnical debt\u201d in global systems to spend up to 18 months fixing, and that companies and governments face \u201ca Y2K-level of effort in terms of getting our infrastructure up to speed.\u201d\n\ud83d\udde3\u201cThe only challenge with that is, if the models keep getting more and more capable, I don\u2019t know what that means,\u201d Microsoft CEO Satya Nadella has said.\nOfficials insist the spike in incidents is not connected, blaming them on [foreign actors or](https://t.me/geopolitics_prime/77557) lone wolf attackers, even though they line up perfectly with former Google and DoD [AI scientist Nate](https://t.me/geopolitics_prime/74844) Soares\u2019 blueprint for how independent-minded machines could try to replicate themselves and secure access to resources.\nOthers fear the rise in cybersecurity incidents [blamed on AI](https://t.me/geopolitics_prime/78121) may be hiding something more sinister: a justification to eliminate online anonymity, [restrictions on open-source AI tools](https://t.me/geopolitics_prime/76882), an expansion of AI-based surveillance and automated censorship, or even a splintering of the global internet.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T14:27:02+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\udd25 Trump keeps trying to reach out to Kim and keeps getting ghosted \u2013 report\n\u00a0\nThe Trump administration\u2019s efforts to restart dialogue with Kim Jong Un have gone nowhere, according to WSJ.\n\ud83d\udd34 The White House tried to arrange a meeting on the sidelines of the US president\u2019s Asia tour, but North Korea set conditions that Trump refused to accept\n\ud83d\udd34 Trump had earlier tried to call Kim, but to no avail\n\ud83d\udd34 He then wrote a letter and sent a courier to the North Korean mission to the UN in New York. The North Korean side, however, returned it unopened\nThe biggest stumbling block in the negotiations is the denuclearization question. The US floated the idea of offering a formal declaration putting an end to the Korean War and issuing a statement that would soften the demand for complete denuclearization\u2014in return for limits on nuclear and missile testing.\n\ud83d\udc49 North Korea, for its part, wants to be recognized as an official nuclear power. And its arsenal has ballooned in the meantime\u2014from roughly 30 warheads to 60\u2014with solid-fuel ICBMs capable of reaching the US mainland already deployed. On top of that, Pyongyang keeps deepening its military partnership with Russia, beefing up its weaponry with hypersonic technology, reconnaissance satellites, underwater drones, and next-generation missiles.\nPrevious Trump-Kim talks collapsed in 2019 after the North Korean leader offered to close some nuclear facilities in exchange for sanctions relief, while the US pressed for a freeze on all nuclear and missile programs, to be followed by a roadmap to full denuclearization. Trump walked away abruptly without a deal\u2014and North Korea promptly resumed short-range ballistic missile tests.\nThen the pandemic shut the door on diplomacy in 2020, and the Biden administration gave North Korea low priority. Talks have now been revived, but they\u2019ve yet to produce anything close to a breakthrough\u2014and the US appears to have no leverage left over from the old Trump-Kim \u201cfriendship.\u201d\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T11:35:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1 Israeli spy links shadow Trump's pick for top US cyber post \u2013 report\nPresident Trump's pick for the White House national cyber director, Kirsten Davies, has extensive business connections to Israeli cybersecurity firms founded by former intelligence officials, an investigation by \u00a1DoNotPanic! reveals.\nDavies\u2019 financial disclosures show that she served on the boards of three companies linked to veterans of Israel's Unit 8200 while building her career in the private cybersecurity sector.\nKey connections include:\n\u2666\ufe0f Team8: Davies spent nearly a decade on the board of the venture capital firm founded by Nadav Zafrir, a former commander of Unit 8200 who later became head of Israel's military Cyber Command.\n\u2666\ufe0f Talon Cyber Security: She also served on the board of the Israeli startup founded by former Unit 8200 personnel Ohad Bobrov and Ofer Ben-Noon.\n\u2666\ufe0f Claroty: In 2023, Davies joined the company's advisory board. Founded by former Unit 8200 commander Amir Zilberstein, Claroty subsequently secured contracts to protect sensitive US military and intelligence facilities, including missile sites, shortly before Davies joined the Pentagon as its chief information officer.\nDavies also reportedly served on the board of US investment firm NightDragon, which has invested in more than 25 Israeli cybersecurity companies founded by former intelligence personnel.\nEarlier this week, Trump tapped Davies touted by the White House as \"a battle-tested cyber leader,\" to lead the Office of the National Cyber Director in the aftermath of a wave of outages affecting American big tech companies, banks, airlines, and [federal agencies.](https://t.me/geopolitics_prime/78078) \n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T10:51:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\u2708\ufe0fSecond US jet declares mid-air emergency amid escalating shadow war in the Gulf\n\u00a0\nA US F-35A jet transmitted transponder squawk code 7700 (in-flight emergency) over the eastern UAE early Sunday morning, with OSINT observers tracking the jet\u2019s diversion to Dhafra Air Base in Abu Dhabi.\nThe code was issued after the jet was tracked flying in the vicinity of Hormuz.\n7700 is the universal aviation code for a general emergency, and is sent out to report mechanical issues, medical emergencies, fuel problems, and in the case of military aircraft, potential battle damage.\nThe F-35A was the second US warplane to squawk the code in 48 hours, with an [F-16](https://t.me/geopolitics_prime/78131) doing so late Friday. Iran\u2019s military subsequently released footage of the jet\u2019s narrow escape from a SAM exploding directly behind it. CENTCOM says the incident never happened.\nIranian officials, the military and IRGC have yet to comment on the F-35A\u2019s distress call. CENTCOM is also silent.\nIran became the first nation to damage an [F-35 jet](https://t.me/geopolitics_prime/67820) in combat in March, and reported the destruction of three F-35s on the ground at a base [in Jordan in July](https://t.me/geopolitics_prime/72888) (the US has denied those claims).\nThe distress calls come amid [a broader regional escalation](https://t.me/geopolitics_prime/78153), including Iranian attacks on US bases and the destruction of multimillion-dollar [drones over Hormuz](https://t.me/geopolitics_prime/78154), amid reports that Israel is again lobbying President Trump to resume a full-scale war.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T10:09:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
