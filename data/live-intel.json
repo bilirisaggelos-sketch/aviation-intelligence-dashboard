@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:06:46.802205+00:00",
+  "generated_at": "2026-11-22T08:02:08.631964+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -22,25 +22,6 @@
     },
     {
       "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nMAYPORT, FL, Saturday, November 21, 2026 through Sunday, November 22, 2026 Local\nFacility: ZJX",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/20/2026",
-      "location": "ZJX FL",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Friday, November 20, 2026 through Sunday, November 22, 2026 Local\nFacility: ZAB",
       "source": "FAA",
       "source_type": "official",
@@ -49,25 +30,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/20/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nNORFOLK, VA, Saturday, November 21, 2026 through Saturday, November 21, 2026 Local\nFacility: ZDC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/17/2026",
-      "location": "ZDC VA",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -302,7 +264,7 @@
       "verification_status": "PARTIALLY VERIFIED",
       "verification_confidence": 65,
       "verified_sources": [
-        "Clash Report",
+        "Geopolitics Prime",
         "Middle East Spectator"
       ],
       "verified_source_count": 2
@@ -386,6 +348,25 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
+      "text": "Last year, Trump tried reaching Kim Jong Un through established phone lines and communications channels. Nobody called back.\nTrump next wrote a letter. White House officials hatched a plan for a group to wait outside the Manhattan office of North Korea\u2019s permanent mission to the United Nations. When a North Korean diplomat walked past, the group swooped in and thrust the letter into his hands.\nAt a UN meeting, the diplomat later tossed the unopened letter in front of a U.S. representative.\nTrump also sought a meeting with Kim during his latest Asia trip, but the North Korean leader reportedly set conditions Washington could not accept.\nSince their last meeting in 2019, North Korea\u2019s nuclear arsenal has grown from an estimated 20\u201330 warheads to around 60, while Pyongyang has developed intercontinental ballistic missiles capable of reaching the U.S.\nKim is now pushing for Washington to recognize North Korea as a nuclear power.\nSource: WSJ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T07:11:47+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
       "text": "Iran\u2019s IRGC says it targeted two U.S. Patriot air defense radars at military bases in Bahrain with missiles and drones.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -395,13 +376,12 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Clash Report",
-        "Middle East Spectator"
+        "Clash Report"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -635,12 +615,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russian strikes have caused casualties and damage across several Ukrainian regions. In Kryvyi Rih, the number of injured has risen to 58, including 6 children, according to local authorities. In Solonytsivka, Kharkiv region, a drone struck a five-story apartment building, injuring 11 people, including 2 children, and causing a 250 m\u00b2 fire. A woman was injured in Vinnytsia region, where civilian buildings and a power line were damaged. In Kyiv, 2 people were injured during the morning attack.",
+      "text": "Drones attacked the Afipsky refinery in Russia's Krasnodar region overnight, with explosions and smoke near the plant.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T07:54:35+00:00",
+      "timestamp": "2026-11-22T08:02:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -654,12 +634,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u203c\ufe0fUp to 10 Russian aerial objects may have violated Polish airspace overnight Thursday to Friday, according to Radio ZET. Three have been confirmed so far. Polish military officials are examining whether at least two were heading toward the Nowa D\u0119ba training ground, where approximately 5,000 troops from 11 countries are participating in exercises. NATO electronic jamming systems deployed near Rzesz\u00f3w-Jasionka airport may have altered their trajectories, causing them to crash, the report says.",
+      "text": "\u26a1\ud83c\uddf5\ud83c\uddf0\ud83c\udde6\ud83c\uddeb The Tehreek-e-Taliban Pakistan (TTP) released a video of an alleged drone strike targeting a military position in Pakistan's Bannu region, claiming that several security forces were killed.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T07:54:31+00:00",
+      "timestamp": "2026-11-22T04:49:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -673,12 +653,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russia launched 3 ballistic missiles and 148 drones at Ukraine overnight, including 87 jet-powered drones. Ukrainian air defenses shot down or suppressed 117 drones, including 67 jet-powered ones. Strikes were recorded at 19 locations. Around 10 drones remained airborne at 08:00.",
+      "text": "Enhanced GPS interference is being reported over the Gulf of Finland, the Baltic States and the Russian exclave of Kaliningrad, following yesterday\u2019s suspected drone attack by Ukraine against a Russian military-linked cargo ship and the Headquarters of the Baltic Fleet in Kaliningrad.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T07:54:25+00:00",
+      "timestamp": "2026-11-22T04:44:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -692,12 +672,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Due to possible drone interception operations off the coast of Kotka, Finland, the Finnish Defence Force has introduced a temporary airspace and maritime restriction for eastern portions of the Gulf of Finland.",
+      "text": "Currently, a tanker loaded off Kharg island with Iranian crude via ship to ship transfer is bound for the U.S. blockade line, likely prompting this announcement clarifying the U.S. position. This leads to the possibility of U.S. action against this vessel in the coming days.\nAs previously reported, Iran says that if the vessel is stopped, they will resume regional missile attacks. In reality drone and missile attacks continue in certain areas of CENTCOM daily.\nFaytuks Network (\nCENTCOM expanded its Iran blockade enforcement on November 18, warning that vessels receiving Iranian cargo through s2s transfers may be stopped, boarded, diverted or seized, even without entering Iranian ports.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T07:53:11+00:00",
+      "timestamp": "2026-11-22T04:17:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -705,6 +685,44 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8 Satellite images show extent of damage to Israeli drone factory hit by Iranian missile\nNew satellite imagery reveals the extensive damage caused by an Iranian ballistic [missile strike on an Aero Sol facility in Petah Tikva](https://t.me/geopolitics_prime/67675), near Tel Aviv, in April. \nThe company's CEO said the destruction was so severe that the factory would be unable to resume operations, with the blast wrecking infrastructure, production equipment and administrative offices.\nAero Sol designs and manufactures drones for Israeli military and government clients. The facility also produced composite components for F-15 and F-16 fighter jet pilot helmets, making it part of Israel's military aviation supply chain.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T07:54:38+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udca3 US military still short on weapons \u2014 and Pentagon has no master plan to fix it\nThe Pentagon is still struggling with persistent munitions shortages \u2014 yet has no department-wide plan linking weapons production and funding to what the US military actually needs, the Government Accountability Office reported.\nThe 2026 war against Iran has only increased pressure on already strained US stockpiles and the defense industrial base.\nGAO\u2019s findings paint a chaotic picture:\n\ud83c\udf0f No master plan: DOD has no overarching strategy with long-term goals, implementation plans or metrics to measure whether shortages are actually being fixed.\n\ud83c\udf0f Reactive production: the Army ramped up 155mm artillery shell production after shortages worsened through US support for allies \u2014 but the increase was not based on the Pentagon\u2019s total munitions requirement.\n\ud83c\udf0f $25 billion, still no roadmap: Congress appropriated at least $25bn in 2025 for munitions, while GAO warns the Pentagon risks both continuing shortages and spending on weapons beyond actual requirements.\n\ud83c\udf0f Nobody fully in charge: no single Pentagon office has department-wide authority over the problem. The Munitions Acceleration Council, created in July 2025 to boost missile production, still had no formally signed charter in November 2026.\n\ud83c\udf0f Even the inventory data is shaky: DOD\u2019s Munitions Readiness Initiative draws from 37 data sources, but inventories are not consistently reconciled and the system has no documented data-management plan or data dictionary.\n\ud83c\udf0f Aging industrial base: many Army ammunition facilities still rely on buildings, equipment and production processes dating back to the World War II era.\nAt the same time, GAO withheld classified details on persistent shortages and how they have affected US war plans.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-22T04:18:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -777,31 +795,13 @@
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Geopolitics Prime"
+        "Geopolitics Prime",
+        "Middle East Spectator"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83c\udde7\ud83c\udded Smoke rises over Bahrain following security alert\nConflicting reports suggest an aerial interception incident, with some accounts claiming a US interceptor malfunctioned and crashed, while others attribute the incident to falling debris from an intercepted Iranian drone.\nNeither explanation has been confirmed, and the cause remains unclear.\nEarlier, Bahrain's Interior Ministry warned of a potential threat and urged residents to seek shelter. Iran has targeted US military facilities in Bahrain in recent days.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T18:59:03+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
