@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-23T11:18:37.114092+00:00",
+  "generated_at": "2026-11-23T22:52:41.239649+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLaurel, MD, Tuesday, November 24, 2026 Local\nFacility: ZDC",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/23/2026",
+      "location": "ZDC MD",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPALM BEACH, FL, Tuesday, November 24, 2026 through Tuesday, November 24, 2026 Local\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/23/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nMAYPORT, FL, Monday, November 23, 2026 through Thursday, November 26, 2026 Local\nFacility: ZJX",
@@ -117,32 +155,13 @@
     },
     {
       "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "text": "Russian warship hit by Ukrainian drones in Libya, Zelensky says\nLibya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+      "text": "Russian warship hit by Ukrainian drones in Libya, Zelensky says\nThe Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-23T08:36:57+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
-      "text": "Russia-bound ship towed away after it was attacked in Gulf of Finland\nFinnish defence forces say that Ukraine was likely behind the drone strike on Saturday. Kyiv has yet to comment.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-22T17:18:26+00:00",
+      "timestamp": "2026-11-23T15:41:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -231,70 +250,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "A new equation: Airspace violations will now result in direct strikes on U.S. military positions in the Persian Gulf.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T20:18:38+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded NEW: The IRGC Aerospace Force announces it targeted two U.S. radars belonging to the \u2018Patriot\u2019 AD system located in Rifaa and Awali air bases, Bahrain, with ballistic missiles and drones\nThe IRGC says the operation, codenamed \u2018Ya Umm Al-Baneen\u2019, comes in response to repeated violations of Iranian airspace by U.S. drones and warns that Iran\u2019s airspace will be treated as a red line.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T20:15:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "NOTE: Contrary to reports, there are no missile launches identified from Khuzestan / Ahvaz at this time.\nAircraft trails have been frequently misidentified as missile trails.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T19:35:27+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "WATCH: A lioness is on the loose in Istanbul's Sar\u0131yer district after a resident reported a lion in Uskumruk\u00f6y on Sunday evening and security cameras captured the animal. \nGendarmerie and wildlife teams located it in the forest with thermal-camera drones, but a tranquilizer attempt failed and the search was still underway as of Monday midday. \nAuthorities urged residents to stay indoors and said the priority is to capture the animal alive and unharmed.",
+      "text": "Ukrainian Defense Minister Yevhenii Khmara says Russia makes one ballistic missile every five hours and is speeding up.\n[READ MORE](https://clashreport.com/defense/articles/khmara-russia-ballistic-missile-every-five-hours-1hp1misfywr)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T10:23:55+00:00",
+      "timestamp": "2026-11-23T21:42:41+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -307,51 +269,71 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\uddf8\ud83c\udde9\ud83c\uddea \u2014 Western intelligence agencies assess that Russia could launch a nuclear-armed satellite into orbit before the end of 2026, according to Tagesschau.\nThe satellite, reportedly designated \"Sputnik-S,\" has allegedly been in storage near Moscow for years and could be launched as early as December.\nGermany's military warns that a nuclear detonation in space could disable large numbers of satellites, severely disrupting global GPS, communications, banking, and power systems. U.S. military intelligence notes there would be few effective countermeasures once the weapon enters orbit.\nMoscow has denied the allegations, dismissing them as part of a propaganda campaign.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Clash Report",
+      "text": "The U.S. Army is seeking to resume helicopter training flights over Washington as early as December, nearly two years after a midair collision between an Army Black Hawk and a passenger jet killed 67 people. \nThe flights were suspended in May 2025 following another close call near Reagan National Airport. \nThe Army has briefed congressional officials, but the FAA says it has received no formal request and must approve any resumption.\nSource: POLITICO\n[READ MORE](https://clashreport.com/defense/articles/us-army-resume-dc-helicopter-flights-ws2f88lvv9)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T08:23:54+00:00",
+      "timestamp": "2026-11-23T20:38:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf5\ud83c\uddf0\ud83c\udde6\ud83c\uddeb Pakistani tanks on the border with Afghanistan have also been fitted with anti-drone nets.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Our Wars Today",
+      "text": "[NATO is considering deploying additional forces in Europe after Russian missiles in Poland](https://www.pravda.com.ua/news/2026/11/23/8064302/)\nNATO is considering the option of deploying additional forces and assets in Europe in response to Russia's violation of the airspace of the Alliance member countries. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.pravda.com.ua/news/2026/11/23/8064302/)\n\u041e\u043b\u044c\u0433\u0430 \u0420\u043e\u043c\u0430\u043d\u0441\u044c\u043a\u0430,\u0422\u0435\u0442\u044f\u043d\u0430 \u041e\u043b\u0456\u0439\u043d\u0438\u043a | pravda\u200b.com\u200b.ua \u2022 Nov 23, 2026",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T21:48:20+00:00",
+      "timestamp": "2026-11-23T20:13:55+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Footage released by IRGC of the destruction of the 20th advanced American MQ-1 reconnaissance and combat drone in the eastern waters of the Strait of Hormuz.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Map by French analyst Cl\u00e9ment Molin of Ukrainian attacks carried out against Russian ships in the Mediterranean between 2025 and 2026.\nIn total, 3 Russian tankers have already been hit by Ukrainian drones in December 2025, March 2026, and September 2026. A naval drone was even found in Greece, which forced Kyiv to apologize to Athens.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T20:33:37+00:00",
+      "timestamp": "2026-11-23T18:06:10+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces Spokesperson Yahya Saree:\nOver the past 24 hours, Saudi warplanes conducted 67 air raids and missile strikes targeting civilian sites in the capital Sana'a, as well as the governorates of Lahij, Taiz, Hodeidah, Saada, and Hajjah. \nThese attacks were carried out by \"F-15\" aircraft that took off from the Khamis Mushait airbase, and the missile attacks originated from Najran, resulting in dozens of civilian casualties, including martyrs and injured.\nThis brings the total number of Saudi-led coalition air raids and missile strikes since the escalation in our country to 5648.\nThe heinous crimes committed by the Saudi enemy in Hodeidah and Lahij will not go unpunished, and they will face severe consequences, God willing.\n\ufeff",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-23T16:55:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,12 +347,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8 About 6,000 flights were cancelled or delayed in the US on November 22, according to the FlightAware portal.\nEarlier, The New York Post reported that a glitch at one of the largest US air carriers, Delta Air Lines, at Atlanta Airport (Georgia) resulted in delays for several hundred flights.",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddf1\ud83c\uddfe Satellite images from before and after the attack on the Russian Steregushchiy-class Project 20380 missile corvette Merkury, which was hit in the Libyan port of Benghazi.\nThe Vantor satellite images also show ship barricades to prevent further attacks by maritime drones.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-22T22:03:27+00:00",
+      "timestamp": "2026-11-23T15:15:30+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -380,6 +362,26 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Mediterranean Man",
+      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Map by French analyst Cl\u00e9ment Molin of Ukrainian attacks carried out against Russian ships in the Mediterranean between 2025 and 2026.\nIn total, 3 Russian tankers have already been hit by Ukrainian drones in December 2025, March 2026, and September 2026. A naval drone was even found in Greece, which forced Kyiv to apologize to Athens.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-23T15:14:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Mediterranean Man"
+      ],
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -479,12 +481,69 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udd25 Russian drone strike sets Kharkov railway station ablaze\nA UAV strike hit Lyubotin railway station in the Kharkov region, sparking a major fire across the platform and the front cars of an electric train.\nFootage shows flames engulfing the station area as passengers were reportedly evacuated.\nAnother blow to Ukraine\u2019s railway infrastructure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\ude80 Iran downs another $35,000 US LUCAS drone over Hormuz\nIran\u2019s Army Air Defense Force shot down a US LUCAS one-way attack drone over the Persian Gulf, east of the Strait of Hormuz, the Army\u2019s public relations office said.\nThe drone was destroyed by domestically developed Iranian air defense systems operating under the country\u2019s integrated air defense network.\nLUCAS is modeled on Iran\u2019s Shahed-136, and each US drone reportedly costs around $35,000.\nIt is far from the first LUCAS Iran has brought down, with previous US drones of the same type[ intercepted over southern Iran](https://t.me/geopolitics_prime/76773) and [near the Strait of Hormuz](https://t.me/geopolitics_prime/77912).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T03:32:50+00:00",
+      "timestamp": "2026-11-23T22:26:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc49 THROWBACK: Anduril co-founder boasts of inventing a VR headset designed to kill its user\nAnduril co-founder Palmer Luckey is not only a vocal proponent of AI-driven autonomous kill chains and a self-described fan of public executions: in 2022 he invented a VR headset that will kill the user if they die in the game they\u2019re playing.\n\ud83d\udd34Only the threat of serious consequences can make a game feel real to you,\" he argued.\ud83d\udd34\nLuckey was inspired by the anime Sword Art Online, in which players put on a NerveGear virtual reality headset only to find out that real life is now at stake as their gear was programmed by a mad scientist to kill them if they are killed in a virtual game.\n\u201cThe good news is that we are halfway to making a true NerveGear. The bad news is that so far, I have only figured out the half that kills you,\u201d Luckey wrote in his blog.\nHe noted he had plans for an anti-tamper mechanism \"that, like the NerveGear, will make it impossible to remove or destroy the headset.\"\nLuckey used small, modular explosive charges and connected them to a light sensor that detects when the headset displays a red screen flashing at a specific frequency.\n\u201cWhen an appropriate game-over screen is displayed, the charges fire, instantly destroying the brain of the user,\u201d he noted. \u201cIt is also, as far as I know, the first non-fiction example of a VR device that can actually kill the user. It won\u2019t be the last.\u201d\nSome say it's going too far, even for a high-tech provocateur, while others point out that Luckey's Anduril is already producing all kinds of killer drones and other military equipment.\nLuckey's provocative rhetoric bears a striking resemblance to that of Alex Karp, co-founder of [Palantir](https://t.me/geopolitics_prime/68441). Both Anduril and Palantir received financial backing from Peter Thiel, the PayPal Mafia billionaire fascinated by [The Lord of the Rings](https://t.me/geopolitics_prime/72488).\nIn Tolkien's mythology, a palant\u00edr is a seeing stone, while Anduril is a legendary sword known as the \"Flame of the West\" and a symbol of legitimate authority.\nBoth AI giants openly proclaim the \"defense of the West\" as their core mission, seemingly by any means necessary. Yet their role in creating AI-powered military targeting systems has drawn widespread criticism over ethical concerns, particularly amid mounting civilian casualties in conflicts across the [Middle East and Eastern Europe](https://t.me/geopolitics_prime/78025). This has fuelled questions about their underlying ideology, with some critics openly labeling them as \"techno-fascists.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-23T18:48:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd28 Top Iranian lawmaker rejects IAEA's 'unreasonable' inspection demands\n\ud83d\udcd1\u201cThe Comprehensive Safeguards Agreement, which falls under the NPT, does not explicitly address the status of sites that have been subjected to military attack; there is no protocol covIranian Parliament National Security Committee Spokesman: US claim about Strait of Hormuz is a \u201cLie\u201d - Pars Todayering this. Therefore, the IAEA is calling on us to take an illegal action,\u201d Hassan Ghashghavi, Iranian parliament National Security & Foreign Policy Committee spokesman, said Monday.\nThe situation is surreal, Ghashghavi suggested, pointing out that the agency is demanding cooperation from Tehran on inspections while being pressured by \u201cthe vary same parties\u201d that attacked Iran\u2019s nuclear sites in the [first place.](https://t.me/geopolitics_prime/78026)\n\u201cThe agency\u2019s demand runs counter to the NPT, to international law and to established international protocols\u2026Therefore, no matter how many times they reiterate their points, it will not yield any results for them.\u201d\nThe true purpose of the inspection demands is to achieve through diplomatic pressure what the US and Israel failed to accomplish using military means, Ghashghavi added.\nAt a recent IAEA board of governors meeting, director-general Rafael Grossi reiterated the agency\u2019s demand for immediate access to Iran\u2019s nuclear sites, saying otherwise, the agency won\u2019t be able to certify that Iran isn\u2019t diverting materials for non-peaceful purposes.\nThe IAEA has never formally condemned the US and Israel\u2019s attacks on Iran\u2019s nuclear facilities. Tehran has criticized the agency extensively over the years over the exhaustive inspection protocols applied to Iran\u2019s nuclear program, while Israel, a widely suspected nuclear weapons power, has faced no international scrutiny, sanctions or military operations against it over its [nuclear activities](https://t.me/geopolitics_prime/56811).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-23T18:06:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde6\ud83c\uddf2\ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddff Armenia bends to Trump-backed deal, grants concessions to Azerbaijan\nArmenia has begun preparatory construction on the Trump Route for International Peace and Prosperity [(TRIPP)](https://t.me/geopolitics_prime/77708), a US-backed transport corridor that will link mainland Azerbaijan to its Nakhchivan exclave and connect to Turkey, Bloomberg reports.\nThe project is a joint Armenian-US venture, yet the American side owns 74% of it. Armenian Prime Minister Nikol Pashinyan called it \u00abthe largest economic project in Armenia since independence.\u00bb\nObservers say the rapid ratification and launch of TRIPP coincide with the Trump administration\u2019s efforts to isolate Iran through a maritime blockade, secondary sanctions, and the severing of Iran\u2019s land routes. Armenia matters to Iran as a transit corridor to Georgia\u2019s Black Sea coast and Europe, and TRIPP crosses that land bridge, potentially disrupting Iran\u2019s access.\nArmenia, having lost the war with Azerbaijan over Nagorno-Karabakh, is being forced to bend. On the same day TRIPP launched, Pashinyan\u2019s government published a draft constitution removing references to the 1990 Declaration of Independence, which Baku had demanded as a condition for a final peace deal. The opposition has already accused Pashinyan of [capitulating to Azerbaijan\u2019s](https://t.me/geopolitics_prime/77992) demands.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-23T16:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
