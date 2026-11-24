@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T22:52:41.239649+00:00",
+  "generated_at": "2026-11-24T06:53:11.089397+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -154,14 +154,33 @@
       "verified_source_count": 1
     },
     {
-      "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
-      "text": "Russian warship hit by Ukrainian drones in Libya, Zelensky says\nThe Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
+      "text": "How Nvidia is reacting to Jensen Huang's return as CEO\nBBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-23T15:41:23+00:00",
+      "timestamp": "2026-11-24T01:21:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "BBC World News"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
+      "text": "Outrage after ICE arrest father and daughter at Seattle airport\nICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
+      "source": "BBC",
+      "source_type": "osint",
+      "publisher": "BBC World News",
+      "severity": "info",
+      "icon": "\ud83d\udcf0",
+      "timestamp": "2026-11-23T22:59:07+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -231,20 +250,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\ud83c\uddfa\ud83c\uddf8/\ud83c\udde7\ud83c\udded BREAKING: New alerts in Bahrain; Iranian Shahed-136 drones can be heard flying over the island",
+      "publisher": "Clash Report",
+      "text": "The Pentagon is delaying the delivery of around 60 Patriot interceptors to Ukraine, including missiles from European arsenals already paid for by Kyiv\u2019s allies.\nU.S. Defense Secretary Pete Hegseth has yet to approve the transfers, while a separate agreement allowing Ukraine to manufacture its own Patriot interceptors remains under Pentagon review. \nUkrainian officials suspect the Trump administration is withholding military assistance to pressure Kyiv into accepting territorial concessions to Russia. \nThe Pentagon insists its policy on supporting Ukraine has not changed.\nSource: FT\n[READ MORE](https://clashreport.com/defense/articles/pentagon-delays-patriot-interceptors-ukraine-ft-hbzzmqdifp)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T20:46:47+00:00",
+      "timestamp": "2026-11-24T06:22:50+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Middle East Spectator"
+        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -308,6 +327,44 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian Defense Minister Yevhenii Khmara claims Russia is producing one ballistic missile every five hours, with production continuing to accelerate.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T04:17:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Spain maintains Israeli military technology in its Armed Forces despite the arms embargo.\nMissiles, radars, weapon stations, and electronic warfare equipment from Israeli manufacturers remain integrated into Spanish platforms, according to military sources. An exception clause in the royal decree allows transfers to continue when general interests are at stake.\nThe government of Pedro S\u00e1nchez decreed a ban on the purchase and sale of weapons with Israel and placed the rupture with Benjamin Netanyahu\u2019s administration at the core of its foreign policy. However, the Spanish Armed Forces continue to rely on Israeli technology to operate, maintain, and modernise some of their weapon systems.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-23T23:29:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
       "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Map by French analyst Cl\u00e9ment Molin of Ukrainian attacks carried out against Russian ships in the Mediterranean between 2025 and 2026.\nIn total, 3 Russian tankers have already been hit by Ukrainian drones in December 2025, March 2026, and September 2026. A naval drone was even found in Greece, which forced Kyiv to apologize to Athens.",
       "source": "Telegram",
       "source_type": "telegram",
@@ -324,25 +381,6 @@
         "Mediterranean Man"
       ],
       "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfe\ud83c\uddea\u274c\ud83c\uddf8\ud83c\udde6 \u2014 Yemeni Armed Forces Spokesperson Yahya Saree:\nOver the past 24 hours, Saudi warplanes conducted 67 air raids and missile strikes targeting civilian sites in the capital Sana'a, as well as the governorates of Lahij, Taiz, Hodeidah, Saada, and Hajjah. \nThese attacks were carried out by \"F-15\" aircraft that took off from the Khamis Mushait airbase, and the missile attacks originated from Najran, resulting in dozens of civilian casualties, including martyrs and injured.\nThis brings the total number of Saudi-led coalition air raids and missile strikes since the escalation in our country to 5648.\nThe heinous crimes committed by the Saudi enemy in Hodeidah and Lahij will not go unpunished, and they will face severe consequences, God willing.\n\ufeff",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T16:55:29+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -386,12 +424,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u203c\ufe0fUkrainian drones also struck Lukoil's Permnefteorgsintez refinery in Perm, Russia, on November 23. Regional governor Dmitry Makhonin confirmed damage and a fire at the industrial site. Located more than 1,500 km from Ukraine, the refinery is one of Russia's largest, with an annual processing capacity of 13.1 million tonnes. Initial reports suggest fires near primary crude-processing equipment.",
+      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Explosive-laden drones attacked the Departmental Police Command in the Tasajero neighborhood of C\u00facuta, Colombia, causing damage to administrative areas, police accommodations, nearby homes, and a hotel.\nThree civilians were injured, a minor and two women. The explosions also damaged electricity and gas networks.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T07:28:37+00:00",
+      "timestamp": "2026-11-24T03:27:29+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -405,12 +443,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa\ud83c\uddf1\ud83c\uddfe President Volodymyr Zelenskyy has claimed Ukrainian responsibility for the attack that sank the Russian corvette Merkury off the coast of Libya using seven Ukrainian-made naval drones. \nHe said a Ka-27 helicopter was also destroyed and that a Russian cargo vessel, MV Angara, used to transport weapons was hit:\nAn exemplary Ukrainian operation in response to Russia\u2019s war. I thank the warriors of the Security Service of Ukraine and all our Defense Forces of Ukraine who took part in carrying out these tasks. I received detailed briefings on the operation\u2019s steps yesterday and today \u2013 the targets we set were achieved.\nIt all took place off the coast of Libya. Our warriors deployed seven Ukrainian-made naval drones. Despite all the enemy\u2019s efforts to counter the attack, the Russian corvette Merkury was sunk. It\u2019s one of their newest ships, commissioned in 2023, during the full-scale war. A Ka-27 combat helicopter was also destroyed along with the corvette. Our second target was the Russian dry cargo vessel MV ANGARA, which the enemy used to transport weapons. Result: target hit. \nWe continue our operations in designated waters. We are responding to Russia\u2019s aggression. We are developing Ukrainian weapons. Glory to Ukraine!",
+      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea\ud83c\uddf1\ud83c\uddf9 Reuters: Germany's army has begun its first tactical tests of kamikaze drones in Lithuania, along with Helsing's AI based targeting software Clarity. The drone tests took place on Sunday during Freedom Shield, Germany's largest military drills in the country to date.\nArmy chief Lieutenant General Christian Freuding watched loitering munitions made by German companies Helsing and Stark, fitted with inert warheads, hit main battle tanks at the Rudninkai training ground near the Belarusian border. Days earlier, troops there tested Clarity, which processes data from satellites, drones and other sensors and recommends actions to commanders. Freuding described both kinds of systems as essential to modern warfare.\nGermany only decided in 2025 to buy loitering munitions. An armoured brigade of 5,000 German troops will be stationed permanently in Lithuania by the end of 2027, with about 1,800 already deployed there.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T07:28:23+00:00",
+      "timestamp": "2026-11-24T03:23:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -424,12 +462,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u203c\ufe0fMultiple Ukrainian long-range drones struck the Novoshakhtinsk oil refinery in Russia's Rostov Oblast overnight on November 23, triggering several large fires. Flames are visible from for away. The refinery, which has a maximum annual processing capacity of 7.5 million tonnes, produces diesel, aviation kerosene and other petroleum products.",
+      "text": "FlyDubai cleared to fly between Israel and the UAE again, subject to security approval.\nIsrael's Transport Ministry signed off after officials flew to the UAE and inspected changes the airline made following last month's attempted hijacking by a copilot.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T07:28:05+00:00",
+      "timestamp": "2026-11-24T03:21:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -443,12 +481,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine's Air Force reports that Russia launched 153 drones overnight, including 60 jet-powered drones. Air defenses shot down or suppressed 134, including 42 jet-powered drones. Strikes were recorded at 11 locations, with falling debris at 7 others.",
+      "text": "Yesterday, a fire broke out on the port side of the Iranian cargo ship ALVAN after naval drones hit the vessel at anchor off Benghazi, Libya. The blaze was later contained. ALVAN is reportedly operated by Iran's state-owned shipping line IRISL.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T07:23:23+00:00",
+      "timestamp": "2026-11-24T03:14:17+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -461,20 +499,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ufe0f\ufe0f\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfaUkrainian drones targeted the Novoshakhtinsk oil refinery, in Russia's Rostov region, this evening. \nThis facility is capable of refining 7.5 million tons of oil a year.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc64\ud83d\udcb5 Nvidia market cap surges $954 billion in a day as Jensen Huang returns as CEO\nNvidia shares skyrocketed 31.48% to $165.05 on Monday, adding roughly $954 billion in market value in a single session\u2014the largest one-day gain in US stock market history.\nThe company's market capitalization jumped from $3.031 trillion to $3.985 trillion, propelling it back to second place among the world's most valuable companies, behind only Apple at $5.073 trillion.\nThe rally came after [Nvidia's board reinstated founder Jensen Huang as CEO](https://t.me/geopolitics_prime/78232), reversing its earlier position that he would not return. Huang had stepped down on November 12 amid a scandal involving extramarital affairs, including one with a woman suspected of links to Chinese intelligence.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T05:54:56+00:00",
+      "timestamp": "2026-11-24T05:25:13+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude80 Iran unveils twin-launch missile system from underground base\nIran has revealed a new underground launcher capable of firing two liquid-fueled missiles simultaneously, Newsmax reported.\nThe footage showed IRGC Commander-in-Chief Maj. Gen. Ahmad Vahidi and Aerospace Force Commander Brig. Gen. Majid Mousavi touring a subterranean complex packed with missiles, launchers and other equipment.\n\ud83d\udcac \u201cWe have integrated \u2018surprises\u2019 and highly effective assets into our combat structure,\u201d Mousavi said.\n\ud83d\udcac \u201cThe damage our enemies have suffered so far is just the beginning. We will witness them being humiliated,\u201d Vahidi stressed.\nThe display comes as Trump weighs renewed strikes on Iran, while Netanyahu has reportedly pushed for another four- to seven-day bombing campaign.\nMonths of US-Israeli strikes later, Tehran is still rolling out new missile hardware from underground.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T04:04:59+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcb5 Iranian courts order US to pay $290 billion for decades of hostile actions\nIranian courts have secured more than $290 billion in judgments against the United States over decades of hostile actions and damage inflicted on Iran, Press TV reported, citing judiciary official Hassan Abdolianpour, the head of the Judiciary\u2019s Center for Lawyers, Official Experts and Family Counselors.\n\ud83d\udcac \u201cWhen we began our activities, we had secured less than $40 billion in judgments against the United States,\u201d Abdolianpour said.\n\ud83d\udcac \u201cToday, however, we have secured more than $290 billion in judgments against the United States, some of which have already been enforced.\u201d\nDuring the recent US-Israeli wars, around 19,000 Iranian experts helped assess damage and document alleged crimes. Iran has also compiled statements, tweets and directives by US officials dating back to the 2020 assassination of General Qassem Soleimani for use in legal proceedings.\nAbdolianpour said the judgments could lead to further enforcement measures, including potentially examining the seizure of vessels. He linked part of US pressure over reopening the Strait of Hormuz to these rulings.\nIran is also preparing a November 24 hearing over[ the US attack on an elementary school in Minab](https://t.me/geopolitics_prime/75462), which killed 168 children and teachers. Legal professionals from around five countries representing five continents are expected to attend.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T00:21:12+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -506,44 +582,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-23T18:48:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udd28 Top Iranian lawmaker rejects IAEA's 'unreasonable' inspection demands\n\ud83d\udcd1\u201cThe Comprehensive Safeguards Agreement, which falls under the NPT, does not explicitly address the status of sites that have been subjected to military attack; there is no protocol covIranian Parliament National Security Committee Spokesman: US claim about Strait of Hormuz is a \u201cLie\u201d - Pars Todayering this. Therefore, the IAEA is calling on us to take an illegal action,\u201d Hassan Ghashghavi, Iranian parliament National Security & Foreign Policy Committee spokesman, said Monday.\nThe situation is surreal, Ghashghavi suggested, pointing out that the agency is demanding cooperation from Tehran on inspections while being pressured by \u201cthe vary same parties\u201d that attacked Iran\u2019s nuclear sites in the [first place.](https://t.me/geopolitics_prime/78026)\n\u201cThe agency\u2019s demand runs counter to the NPT, to international law and to established international protocols\u2026Therefore, no matter how many times they reiterate their points, it will not yield any results for them.\u201d\nThe true purpose of the inspection demands is to achieve through diplomatic pressure what the US and Israel failed to accomplish using military means, Ghashghavi added.\nAt a recent IAEA board of governors meeting, director-general Rafael Grossi reiterated the agency\u2019s demand for immediate access to Iran\u2019s nuclear sites, saying otherwise, the agency won\u2019t be able to certify that Iran isn\u2019t diverting materials for non-peaceful purposes.\nThe IAEA has never formally condemned the US and Israel\u2019s attacks on Iran\u2019s nuclear facilities. Tehran has criticized the agency extensively over the years over the exhaustive inspection protocols applied to Iran\u2019s nuclear program, while Israel, a widely suspected nuclear weapons power, has faced no international scrutiny, sanctions or military operations against it over its [nuclear activities](https://t.me/geopolitics_prime/56811).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T18:06:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddf2\ud83c\uddfa\ud83c\uddf8\ud83c\udde6\ud83c\uddff Armenia bends to Trump-backed deal, grants concessions to Azerbaijan\nArmenia has begun preparatory construction on the Trump Route for International Peace and Prosperity [(TRIPP)](https://t.me/geopolitics_prime/77708), a US-backed transport corridor that will link mainland Azerbaijan to its Nakhchivan exclave and connect to Turkey, Bloomberg reports.\nThe project is a joint Armenian-US venture, yet the American side owns 74% of it. Armenian Prime Minister Nikol Pashinyan called it \u00abthe largest economic project in Armenia since independence.\u00bb\nObservers say the rapid ratification and launch of TRIPP coincide with the Trump administration\u2019s efforts to isolate Iran through a maritime blockade, secondary sanctions, and the severing of Iran\u2019s land routes. Armenia matters to Iran as a transit corridor to Georgia\u2019s Black Sea coast and Europe, and TRIPP crosses that land bridge, potentially disrupting Iran\u2019s access.\nArmenia, having lost the war with Azerbaijan over Nagorno-Karabakh, is being forced to bend. On the same day TRIPP launched, Pashinyan\u2019s government published a draft constitution removing references to the 1990 Declaration of Independence, which Baku had demanded as a condition for a final peace deal. The opposition has already accused Pashinyan of [capitulating to Azerbaijan\u2019s](https://t.me/geopolitics_prime/77992) demands.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T16:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
