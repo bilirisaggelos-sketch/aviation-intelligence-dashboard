@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-24T06:53:11.089397+00:00",
+  "generated_at": "2026-11-24T18:46:24.841778+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nManhattan, NY, Thursday, November 26, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/24/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nManhattan, NY, Wednesday, November 25, 2026 through Wednesday, November 25, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/24/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLaurel, MD, Tuesday, November 24, 2026 Local\nFacility: ZDC",
@@ -55,6 +93,25 @@
       "verification_confidence": 100,
       "verified_sources": [
         "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1139\r\nIssue Time: 2026 Nov 24 1419 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 25: None (Below G1) Nov 26: None (Below G1) Nov 27: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: Anticipated onset of positive polarity coronal hole high speed stream\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-24 14:19:26.753",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
       ],
       "verified_source_count": 1
     },
@@ -135,52 +192,14 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: WARK04\r",
-      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5456\r\nIssue Time: 2026 Nov 19 0041 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Nov 19 0040 UTC\nValid To: 2026 Nov 19 0300 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-19 00:41:06.337",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "How Nvidia is reacting to Jensen Huang's return as CEO",
-      "text": "How Nvidia is reacting to Jensen Huang's return as CEO\nBBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.",
+      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
+      "text": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight\nSaurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
       "source": "BBC",
       "source_type": "osint",
       "publisher": "BBC World News",
       "severity": "info",
       "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-24T01:21:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Outrage after ICE arrest father and daughter at Seattle airport",
-      "text": "Outrage after ICE arrest father and daughter at Seattle airport\nICE officers arrested two passengers, a father and daughter, as they were boarding a flight in Seattle on Saturday.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-23T22:59:07+00:00",
+      "timestamp": "2026-11-24T18:07:46+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -251,50 +270,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "The Pentagon is delaying the delivery of around 60 Patriot interceptors to Ukraine, including missiles from European arsenals already paid for by Kyiv\u2019s allies.\nU.S. Defense Secretary Pete Hegseth has yet to approve the transfers, while a separate agreement allowing Ukraine to manufacture its own Patriot interceptors remains under Pentagon review. \nUkrainian officials suspect the Trump administration is withholding military assistance to pressure Kyiv into accepting territorial concessions to Russia. \nThe Pentagon insists its policy on supporting Ukraine has not changed.\nSource: FT\n[READ MORE](https://clashreport.com/defense/articles/pentagon-delays-patriot-interceptors-ukraine-ft-hbzzmqdifp)",
+      "text": "Saudi Arabia Asks Allies for More Interceptors Amid Houthi Attacks\nRiyadh has approached the U.S., the U.K., France, and other partners about buying or borrowing air defense equipment amid weeks of near-daily Houthi missile and drone attacks.\n[READ MORE](https://clashreport.com/world/articles/saudi-arabia-asks-allies-for-more-interceptors-amid-houthi-attacks-bfzhcmb9hcn)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T06:22:50+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Ukrainian Defense Minister Yevhenii Khmara says Russia makes one ballistic missile every five hours and is speeding up.\n[READ MORE](https://clashreport.com/defense/articles/khmara-russia-ballistic-missile-every-five-hours-1hp1misfywr)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T21:42:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "The U.S. Army is seeking to resume helicopter training flights over Washington as early as December, nearly two years after a midair collision between an Army Black Hawk and a passenger jet killed 67 people. \nThe flights were suspended in May 2025 following another close call near Reagan National Airport. \nThe Army has briefed congressional officials, but the FAA says it has received no formal request and must approve any resumption.\nSource: POLITICO\n[READ MORE](https://clashreport.com/defense/articles/us-army-resume-dc-helicopter-flights-ws2f88lvv9)",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T20:38:16+00:00",
+      "timestamp": "2026-11-24T15:03:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -327,12 +308,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian Defense Minister Yevhenii Khmara claims Russia is producing one ballistic missile every five hours, with production continuing to accelerate.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 \u2014 The Pentagon is withholding approval for around 60 Patriot PAC-3 and PAC-2 interceptor missiles intended for Ukraine, despite European allies funding the deliveries.\nFour batches (Sept\u2013Dec) await U.S. authorization for direct delivery or European stockpile transfers.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T04:17:52+00:00",
+      "timestamp": "2026-11-24T13:09:23+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -346,12 +327,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddea\ud83c\uddf8\ud83c\uddee\ud83c\uddf1 Spain maintains Israeli military technology in its Armed Forces despite the arms embargo.\nMissiles, radars, weapon stations, and electronic warfare equipment from Israeli manufacturers remain integrated into Spanish platforms, according to military sources. An exception clause in the royal decree allows transfers to continue when general interests are at stake.\nThe government of Pedro S\u00e1nchez decreed a ban on the purchase and sale of weapons with Israel and placed the rupture with Benjamin Netanyahu\u2019s administration at the core of its foreign policy. However, the Spanish Armed Forces continue to rely on Israeli technology to operate, maintain, and modernise some of their weapon systems.",
+      "text": "\u26a1\ud83c\uddee\ud83c\udde9 On November 21, 2026, Indonesian Armed Forces Commander General Agus Subiyanto personally inspected a demonstration of weaponized unmanned systems and technologies by the Marine Corps at the Jusman Puger firing range in South Jakarta.\nDuring the inspection, the Indonesian Armed Forces Commander was accompanied by Navy Chief of Staff Admiral Muhammad Ali, Marine Corps Commander Lieutenant General Endi Supardi, and several senior officials from the Navy Headquarters, the Navy Staff, and the Marine Corps.\nThe purpose of the event was to directly observe the readiness, capabilities, and technological development of key weapon systems intended to support Navy operational tasks in the field.\nIn the first session, the Indonesian Navy Commander observed a demonstration of a heavy long-range unmanned aerial vehicle system. This drone is specifically designed to carry heavy payloads over long distances.\nThe drone has an effective payload capacity of 20 kg, a maximum load of 26 kg, and an operating radius of 7 to 8 km.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T23:29:01+00:00",
+      "timestamp": "2026-11-24T12:00:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -365,32 +346,88 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Map by French analyst Cl\u00e9ment Molin of Ukrainian attacks carried out against Russian ships in the Mediterranean between 2025 and 2026.\nIn total, 3 Russian tankers have already been hit by Ukrainian drones in December 2025, March 2026, and September 2026. A naval drone was even found in Greece, which forced Kyiv to apologize to Athens.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nA government that depends on supporters of terrorism cannot fight terrorism.\nA government whose partners dedicate their election results at the ballot box to the Hamas Nukhba terrorists cannot fight Hamas.\nA government that wants to fight for the future of the Jewish state cannot depend on those who want to eliminate the Jewish state.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T18:06:10+00:00",
+      "timestamp": "2026-11-24T09:49:20+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Mediterranean Man"
+        "Alsaa Plus EN"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nWe must reach agreements regarding Israel as the nation-state of the Jewish people, agreements that there will be no Palestinian state, and agreements on other issues as well.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T09:47:52+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nAnyone who dismisses or downplays the immediate, difficult and serious threats surrounding us is doing so for political reasons.\nIt reminds me of how they downplayed my warnings about Iran and explained that it was all a political trick.\nThis is real. This is serious. And anyone familiar with the material knows just how serious it is.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T09:40:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nAn overwhelming majority of the country's citizens who see Israel as the nation-state of the Jewish people are longing for a unity government.\nThey are longing for a unity government because they understand a simple truth: our ability to ensure the existence of the state in the face of the great threats surrounding us depends on our unity.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T09:38:54+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6\ud83c\uddf1\ud83c\uddfe Satellite images from before and after the attack on the Russian Steregushchiy-class Project 20380 missile corvette Merkury, which was hit in the Libyan port of Benghazi.\nThe Vantor satellite images also show ship barricades to prevent further attacks by maritime drones.",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 NEW: Israeli Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz say the IDF has killed Naim Abu Nahal, whom they identified as the head of Hamas\u2019s internal security apparatus.\nIn a joint statement, Netanyahu and Katz said Abu Nahal\u2019s predecessor had been captured by Israeli forces in an operation three months earlier.\nThe two officials praised the IDF and Shin Bet for carrying out what they described as the government\u2019s offensive policy, adding that \u201cno terrorist will escape the long arm of the State of Israel.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T15:15:30+00:00",
+      "timestamp": "2026-11-24T12:06:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -404,22 +441,21 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddf7\ud83c\uddfa\ud83c\uddfa\ud83c\udde6 Map by French analyst Cl\u00e9ment Molin of Ukrainian attacks carried out against Russian ships in the Mediterranean between 2025 and 2026.\nIn total, 3 Russian tankers have already been hit by Ukrainian drones in December 2025, March 2026, and September 2026. A naval drone was even found in Greece, which forced Kyiv to apologize to Athens.",
+      "text": "\u26a1\ud83c\uddef\ud83c\uddf5\ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\udded The authorities of Japan\u2019s Okinawa banned the US Army from using an airport on one of the islands in the East China Sea. They notified Washington that the facility is intended solely for civilian aviation, the Kyodo news agency reported.\nThe US had planned to use the airport on Miyako Island to refuel heavy transport helicopters delivering cargo to US military facilities in the Philippines.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T15:14:01+00:00",
+      "timestamp": "2026-11-24T11:59:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
         "Mediterranean Man"
       ],
-      "verified_source_count": 2
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -500,12 +536,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc64\ud83d\udcb5 Nvidia market cap surges $954 billion in a day as Jensen Huang returns as CEO\nNvidia shares skyrocketed 31.48% to $165.05 on Monday, adding roughly $954 billion in market value in a single session\u2014the largest one-day gain in US stock market history.\nThe company's market capitalization jumped from $3.031 trillion to $3.985 trillion, propelling it back to second place among the world's most valuable companies, behind only Apple at $5.073 trillion.\nThe rally came after [Nvidia's board reinstated founder Jensen Huang as CEO](https://t.me/geopolitics_prime/78232), reversing its earlier position that he would not return. Huang had stepped down on November 12 amid a scandal involving extramarital affairs, including one with a woman suspected of links to Chinese intelligence.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83d\udea8\ud83d\ude80 New missile strike hits Riyadh financial district\nThe attack hit one of the towers at the King Abdullah Financial District, with some of the reports identifying the Public Investment Fund building as the target.\nSaudi authorities reported 11 injuries and blamed the Houthis for this attack.\nIn 2026, Saudi Arabia came under repeated drone and missile strikes by the Houthis. In November alone, the Riyadh financial district has come under attack at least three times.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T05:25:13+00:00",
+      "timestamp": "2026-11-24T17:29:16+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -519,12 +555,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\ude80 Iran unveils twin-launch missile system from underground base\nIran has revealed a new underground launcher capable of firing two liquid-fueled missiles simultaneously, Newsmax reported.\nThe footage showed IRGC Commander-in-Chief Maj. Gen. Ahmad Vahidi and Aerospace Force Commander Brig. Gen. Majid Mousavi touring a subterranean complex packed with missiles, launchers and other equipment.\n\ud83d\udcac \u201cWe have integrated \u2018surprises\u2019 and highly effective assets into our combat structure,\u201d Mousavi said.\n\ud83d\udcac \u201cThe damage our enemies have suffered so far is just the beginning. We will witness them being humiliated,\u201d Vahidi stressed.\nThe display comes as Trump weighs renewed strikes on Iran, while Netanyahu has reportedly pushed for another four- to seven-day bombing campaign.\nMonths of US-Israeli strikes later, Tehran is still rolling out new missile hardware from underground.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udc49 US to raise tariffs for over a dozen countries \u2013 report\nThe new wave of tariffs is expect to come in response to China, the EU and 14 other countries subsidizing their respective industries, which ostensibly is harmful to American companies, the Wall St. Journal reports, citing its sources.\nUS Trade Representative Jamieson Greer, who is expected to present the results of the investigation into this subsidies this week, claimed that these countries were thus able to flood global markets with their cheap goods.\nWhile the new tariffs reportedly will cover most of the exports of the affected nations, likely there will be exemptions for certain materials such as steel and aluminum, as well as for motor vehicles, which are \u201ctariffed under a separate national security authority.\u201d\nThe exact rates of the new tariffs are as yet unclear, though the White House supposedly aims for the level of levies similar to those imposed by the US back in 2025.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T04:04:59+00:00",
+      "timestamp": "2026-11-24T16:05:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -538,12 +574,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udcb5 Iranian courts order US to pay $290 billion for decades of hostile actions\nIranian courts have secured more than $290 billion in judgments against the United States over decades of hostile actions and damage inflicted on Iran, Press TV reported, citing judiciary official Hassan Abdolianpour, the head of the Judiciary\u2019s Center for Lawyers, Official Experts and Family Counselors.\n\ud83d\udcac \u201cWhen we began our activities, we had secured less than $40 billion in judgments against the United States,\u201d Abdolianpour said.\n\ud83d\udcac \u201cToday, however, we have secured more than $290 billion in judgments against the United States, some of which have already been enforced.\u201d\nDuring the recent US-Israeli wars, around 19,000 Iranian experts helped assess damage and document alleged crimes. Iran has also compiled statements, tweets and directives by US officials dating back to the 2020 assassination of General Qassem Soleimani for use in legal proceedings.\nAbdolianpour said the judgments could lead to further enforcement measures, including potentially examining the seizure of vessels. He linked part of US pressure over reopening the Strait of Hormuz to these rulings.\nIran is also preparing a November 24 hearing over[ the US attack on an elementary school in Minab](https://t.me/geopolitics_prime/75462), which killed 168 children and teachers. Legal professionals from around five countries representing five continents are expected to attend.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf5\ud83c\udded Philippines prepares new US military access point near Taiwan \nThe Philippines -[ a platform for an expanding US military presence in the region](https://t.me/geopolitics_prime/73756) amid its political standoff with China - is about to upgrade an airport in the northernmost province of Batanes, reports Bloomberg.\n\ud83d\udd34 Basco Airport on Batan Island lies less than 200 km from Taiwan, placing it close to a potential flashpoint in a US-China standoff\n\ud83d\udd34 the airport currently has a short runway and cannot operate in all weather conditions, limiting aircraft access\n\ud83d\udd34 it will receive infrastructure improvements to accommodate larger aircraft \n\ud83d\udd34 upgrade is intended to improve US-Philippine military access, disaster response and commercial supply routes\nThe initiative forms part of a broader push to deepen military cooperation.\nUnder the Enhanced Defense Cooperation Agreement (EDCA), the US has expanded the number of designated military sites in the country from five to nine since 2022, alongside increasingly frequent joint exercises.\nThe move also aligns with new US Army operational [warfighting guidance released in October](https://t.me/geopolitics_prime/76428?single), that calls for stronger command facilities, logistics networks and ammunition stockpiles to ensure American forces can deploy rapidly in a potential conflict.\nChina has repeatedly warned that [expanding military deployments and joint drills in the region](https://t.me/geopolitics_prime/71601) risk destabilizing the Asia-Pacific and escalating tensions.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T00:21:12+00:00",
+      "timestamp": "2026-11-24T15:14:35+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -557,12 +593,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\ude80 Iran downs another $35,000 US LUCAS drone over Hormuz\nIran\u2019s Army Air Defense Force shot down a US LUCAS one-way attack drone over the Persian Gulf, east of the Strait of Hormuz, the Army\u2019s public relations office said.\nThe drone was destroyed by domestically developed Iranian air defense systems operating under the country\u2019s integrated air defense network.\nLUCAS is modeled on Iran\u2019s Shahed-136, and each US drone reportedly costs around $35,000.\nIt is far from the first LUCAS Iran has brought down, with previous US drones of the same type[ intercepted over southern Iran](https://t.me/geopolitics_prime/76773) and [near the Strait of Hormuz](https://t.me/geopolitics_prime/77912).\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddef\ud83c\uddf5 What\u2019s steering Japan\u2019s carmakers toward massive rearmament drive?\nThe Japanese government is encouraging the country\u2019s automakers to join its biggest military buildup since World War II, Reuters reports.\n\ud83d\udc49 Prime Minister Sanae Takaichi believes that tapping into existing industrial supply chains will accelerate Japan\u2019s rearmament, which is gathering pace with US backing.\nOne striking example is Japanese manufacturer Aster, which previously supplied components for Toyota vehicles. The company has since carved out a new niche supplying electric motors for[ lethal drones developed by US defense technology company Anduril .](https://t.me/geopolitics_prime/78025)\n\u27a1\ufe0f Japan\u2019s new military doctrine justifies ramping up defense spending by pointing to alleged security \u201cthreats\u201d from North Korea, China and Russia. But China\u2019s daily, the Global Times, has pushed back against the strategy as a form of \u201cmilitary Keynesianism\u201d \u2013 employing defense spending to pump up broader economic growth. Interestingly, Germany appears to be following a similar path, increasingly redirecting[ its automotive industry towards military production.](https://t.me/geopolitics_prime/77897)\nThe problem, however, is that this strategy may not deliver the promised economic benefits. Japan faces competing demands for public spending, while Takaichi has yet to explain how she would fund further hikes in military expenditures without placing an even greater strain on the country\u2019s already stretched public finances, Reuters argued last August.\nThe Chinese media have warned that Japan is going down the same road it took prior to World War II \u2013 one that brought catastrophe to the region. Meanwhile, Beijing is tightening its rare-earth supplies to Japan, potentially throwing another obstacle in the way of [Tokyo\u2019s military buildup. ](https://t.me/geopolitics_prime/72149)\n\ud83d\udd0a Some observers have also drawn a parallel between Germany\u2019s and Japan\u2019s escalating defense budgets, seeing echoes of the geopolitical climate that preceded World War II. For them, this may point to a broader geopolitical project to remilitarize both countries.\nRemarkably, in April, America\u2019s leading technology company,[ Palantir, which has close ties to the CIA and the Pentagon](https://t.me/geopolitics_prime/68441), published a manifesto calling for precisely such a shift. It stated explicitly that the postwar neutering of Germany and Japan must be undone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T22:26:05+00:00",
+      "timestamp": "2026-11-24T14:33:18+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -576,12 +612,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc49 THROWBACK: Anduril co-founder boasts of inventing a VR headset designed to kill its user\nAnduril co-founder Palmer Luckey is not only a vocal proponent of AI-driven autonomous kill chains and a self-described fan of public executions: in 2022 he invented a VR headset that will kill the user if they die in the game they\u2019re playing.\n\ud83d\udd34Only the threat of serious consequences can make a game feel real to you,\" he argued.\ud83d\udd34\nLuckey was inspired by the anime Sword Art Online, in which players put on a NerveGear virtual reality headset only to find out that real life is now at stake as their gear was programmed by a mad scientist to kill them if they are killed in a virtual game.\n\u201cThe good news is that we are halfway to making a true NerveGear. The bad news is that so far, I have only figured out the half that kills you,\u201d Luckey wrote in his blog.\nHe noted he had plans for an anti-tamper mechanism \"that, like the NerveGear, will make it impossible to remove or destroy the headset.\"\nLuckey used small, modular explosive charges and connected them to a light sensor that detects when the headset displays a red screen flashing at a specific frequency.\n\u201cWhen an appropriate game-over screen is displayed, the charges fire, instantly destroying the brain of the user,\u201d he noted. \u201cIt is also, as far as I know, the first non-fiction example of a VR device that can actually kill the user. It won\u2019t be the last.\u201d\nSome say it's going too far, even for a high-tech provocateur, while others point out that Luckey's Anduril is already producing all kinds of killer drones and other military equipment.\nLuckey's provocative rhetoric bears a striking resemblance to that of Alex Karp, co-founder of [Palantir](https://t.me/geopolitics_prime/68441). Both Anduril and Palantir received financial backing from Peter Thiel, the PayPal Mafia billionaire fascinated by [The Lord of the Rings](https://t.me/geopolitics_prime/72488).\nIn Tolkien's mythology, a palant\u00edr is a seeing stone, while Anduril is a legendary sword known as the \"Flame of the West\" and a symbol of legitimate authority.\nBoth AI giants openly proclaim the \"defense of the West\" as their core mission, seemingly by any means necessary. Yet their role in creating AI-powered military targeting systems has drawn widespread criticism over ethical concerns, particularly amid mounting civilian casualties in conflicts across the [Middle East and Eastern Europe](https://t.me/geopolitics_prime/78025). This has fuelled questions about their underlying ideology, with some critics openly labeling them as \"techno-fascists.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, they've been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow them to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-23T18:48:01+00:00",
+      "timestamp": "2026-11-24T13:08:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\udde6\ud83c\uddea UAE granted Israel backdoor F-16 access to secure US arms deal - book\nThe UAE granted Israel access to software running its most advanced F-16 fighter jets in the late 1990s in exchange for Tel Aviv dropping it's opposition to a major US arms sale to the country, according to investigative journalist Matthew Cole's book \u201cPrinces and Thieves: Jared Kushner and Mohamed bin Zayed\u2019s Secret Plot to Remake the Middle East.\u201d\nMohamed bin Zayed, then chief of staff of the UAE Armed Forces, was seeking to acquire 80 F-16 Block 60 fighters, according to an excerpt shared on X by journalist Murtaza Hussain.\nThe deal faced a major obstacle: the US\u2019 longstanding commitment to ensuring Israel maintained a \u201cqualitative military edge\u201d over its Arab neighbors.\n\u2666\ufe0f the UAE offered to buy and install Israeli software on its new F-16s, effectively giving Israeli systems access to the aircraft's operations\n\u2666\ufe0f \u201cno Muslim nation had ever made such an offer before,\u201d per Cole \n \n\u2666\ufe0f the US reportedly facilitated secret negotiations between Emirati and Israeli representatives to overcome resistance to the sale\n\u2666\ufe0f Lockheed Martin ultimately delivered the fighters, while Israel supplied and installed the software\nThe UAE announced the planned purchase during a May 1998 visit to Washington. The formal US notification to Congress followed on April 27, 2000, putting the deal's value at $6.43 billion.\nThe account places covert UAE-Israeli military cooperation more than two decades before the 2020 Abraham Accords formally normalized relations between the two countries.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T12:27:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
