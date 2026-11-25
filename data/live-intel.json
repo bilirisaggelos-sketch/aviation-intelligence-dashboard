@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:58:39.676870+00:00",
+  "generated_at": "2026-11-25T12:37:07.162223+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -98,6 +98,25 @@
     },
     {
       "title": "Space Weather Message Code: WATA20\r",
+      "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1140\r\nIssue Time: 2026 Nov 25 0833 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 26: G1 (Minor) Nov 27: G1 (Minor) Nov 28: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: G1 (Minor) geomagnetic storms are likely by late 26 Nov and extending into the early portions of the 27 Nov UTC-day.\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-25 08:33:12.430",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1139\r\nIssue Time: 2026 Nov 24 1419 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 25: None (Below G1) Nov 26: None (Below G1) Nov 27: G1 (Minor) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: Anticipated onset of positive polarity coronal hole high speed stream\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
       "source_type": "official",
@@ -173,44 +192,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK04\r",
-      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2698\r\nIssue Time: 2026 Nov 19 0046 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Nov 19 0042 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-19 00:46:31.780",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight",
-      "text": "Indian government has 'lost the plot', says 'cockroach' leader barred from UK flight\nSaurav Das says immigration authorities at Delhi airport told him his passport had been flagged.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-24T18:07:46+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The Iranian Army announces that an American MQ-9 \u2018Reaper\u2019 drone was shot down today",
@@ -270,12 +251,12 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Zelensky:\nAs for missiles for Patriot anti-ballistic air defense systems, the document is currently in the United States.\nUnfortunately, Hegseth has not signed it yet, so it depends exclusively on him.",
+      "text": "The RAF is moving aircraft into hangars and hardened shelters at night to guard against possible drone attacks.\nTroops are also reportedly setting up anti-drone nets.\n[READ MORE](https://clashreport.com/defense/articles/raf-aircraft-hangars-night-drone-threat-sdzm8cz0p5f)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T21:22:22+00:00",
+      "timestamp": "2026-11-25T12:20:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -289,23 +270,40 @@
     {
       "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "NEW footage has surfaced reportedly showing US/Israeli strike on an Iran Air passenger Airbus at Bushehr Airport at the start of Iran War.",
+      "text": "NEW: The Italian Navy says its warship Giovanni delle Bande Nere intercepted a high-speed ballistic target with two Aster 30 missiles.\nLa Repubblica called it Europe\u2019s only operational sea-based ballistic missile shield.\n[READ MORE](https://clashreport.com/defense/articles/italian-navy-ballistic-target-intercept-aster-30-jwzks4sxky)",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T21:16:41+00:00",
+      "timestamp": "2026-11-25T11:55:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN",
-        "Clash Report",
-        "Geopolitics Prime"
+        "Clash Report"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW: Poland Asks NATO to Weigh Shooting Down Russian Missiles Over Ukraine\n[READ MORE](https://clashreport.com/world/articles/poland-nato-shoot-down-russian-missiles-ukraine-mip2wfksx6)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-25T11:42:24+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Clash Report"
+      ],
+      "verified_source_count": 1
     },
     {
       "title": "Telegram",
@@ -348,12 +346,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian drones reportedly struck two Russian oil refineries in Samara Oblast overnight, including the Kuibyshev Refinery, where footage shows multiple fires and thick smoke rising.\nThe second facility, the Syzran Refinery, was also reportedly hit, with a fire breaking out nearby. Both facilities belong to Rosneft\u2019s Samara refining hub.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\ud83c\uddee\ud83c\uddf7\u274c\ud83c\uddfa\ud83c\uddf8 \u2014 Spokesperson of the IRGC's account on X: \n\"Hey CENTCOM, how many drones and naval vessels did you lose today?\"\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-25T02:36:43+00:00",
+      "timestamp": "2026-11-25T12:19:05+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -367,23 +365,41 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf7 \u2013 New images show the moment an Iranian civilian airliner, an Iran Air Airbus A319, was destroyed while parked at Bushehr Airport on March 3, during the early days of the Iran war.\nThe strike damaged the airport terminal, but no passengers were onboard at the time of the attack.",
+      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf1\ud83c\udde7 \u2014 An Israeli drone reportedly struck a vehicle in the southern Lebanese town of Touline. \nNo casualties have been reported.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T23:05:49+00:00",
+      "timestamp": "2026-11-25T07:28:12+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian drones reportedly struck two Russian oil refineries in Samara Oblast overnight, including the Kuibyshev Refinery, where footage shows multiple fires and thick smoke rising.\nThe second facility, the Syzran Refinery, was also reportedly hit, with a fire breaking out nearby. Both facilities belong to Rosneft\u2019s Samara refining hub.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-25T02:36:43+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
-        "Geopolitics Prime"
+        "CASELS"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
@@ -406,129 +422,33 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 NEW: Israeli Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz say the IDF has killed Naim Abu Nahal, whom they identified as the head of Hamas\u2019s internal security apparatus.\nIn a joint statement, Netanyahu and Katz said Abu Nahal\u2019s predecessor had been captured by Israeli forces in an operation three months earlier.\nThe two officials praised the IDF and Shin Bet for carrying out what they described as the government\u2019s offensive policy, adding that \u201cno terrorist will escape the long arm of the State of Israel.\u201d",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T12:06:53+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Mediterranean Man"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde8\ud83c\uddf4 Explosive-laden drones attacked the Departmental Police Command in the Tasajero neighborhood of C\u00facuta, Colombia, causing damage to administrative areas, police accommodations, nearby homes, and a hotel.\nThree civilians were injured, a minor and two women. The explosions also damaged electricity and gas networks.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones targeted an oil refinery in the city of Syzran in Russia's Samara Oblast on Wednesday morning, roughly 1,000 km inside Russian territory.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T03:27:29+00:00",
+      "timestamp": "2026-11-25T04:13:31+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\udde9\ud83c\uddea\ud83c\uddf1\ud83c\uddf9 Reuters: Germany's army has begun its first tactical tests of kamikaze drones in Lithuania, along with Helsing's AI based targeting software Clarity. The drone tests took place on Sunday during Freedom Shield, Germany's largest military drills in the country to date.\nArmy chief Lieutenant General Christian Freuding watched loitering munitions made by German companies Helsing and Stark, fitted with inert warheads, hit main battle tanks at the Rudninkai training ground near the Belarusian border. Days earlier, troops there tested Clarity, which processes data from satellites, drones and other sensors and recommends actions to commanders. Freuding described both kinds of systems as essential to modern warfare.\nGermany only decided in 2025 to buy loitering munitions. An armoured brigade of 5,000 German troops will be stationed permanently in Lithuania by the end of 2027, with about 1,800 already deployed there.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T03:23:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "FlyDubai cleared to fly between Israel and the UAE again, subject to security approval.\nIsrael's Transport Ministry signed off after officials flew to the UAE and inspected changes the airline made following last month's attempted hijacking by a copilot.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T03:21:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Yesterday, a fire broke out on the port side of the Iranian cargo ship ALVAN after naval drones hit the vessel at anchor off Benghazi, Libya. The blaze was later contained. ALVAN is reportedly operated by Iran's state-owned shipping line IRISL.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T03:14:17+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "CASELS"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\u2705 WATCH: Previously unseen footage of US strike on Iranian passenger plane\nNaya has published previously unseen footage from the early days of the US-Israeli war against Iran, reportedly showing a US strike on an Iran Air Airbus passenger aircraft at Bushehr Airport in southern Iran.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T21:22:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "VERIFIED",
-      "verification_confidence": 90,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Clash Report",
-        "Geopolitics Prime"
+        "CASELS"
       ],
-      "verified_source_count": 3
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udea2 Iran bans dozens of tugboats for violating Strait of Hormuz transit rules\nThe Persian Gulf Strait Authority (PGSA), an Iranian body regulating passage through the Strait of Hormuz, has blacklisted 26 tugboats for servicing vessels that violated transit rules.\nThe blacklist was drawn up based on tip-offs from citizens in Iran\u2019s southern neighboring countries, as well as Iranian intelligence gathered through field operations and surveillance.\n\ud83d\udc49 Founded in April 2026 following the US-Israeli invasion, the PGSA was tasked with restricting cargo traffic through the strait. Since, cargo vessels have been able to pass safely only in coordination with the authority.\nIn an attempt to circumvent the restrictions, the US resorted to risky ship-to-ship transfers, with shuttle vessels operating at night, switching off their transponders and disabling their GPS signals for hours at a time.\nThe scheme has also proved costly. The daily charter rate for a Very Large Crude Carrier (VLCC) has surged from $231,400 to more than $1 million. The US must also maintain a military naval presence in the region to oversee the operation.\nYet unauthorized tankers keep catching fire in the strait.\nIran has laid out a set of conditions for reopening the waterway and is calling on the US to comply.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddee\ud83c\uddf1 Israeli judges urge prosecutors to drop bribery charge against Netanyahu\nThe judges presiding over Benjamin Netanyahu's [corruption trial](https://t.me/geopolitics_prime/60505) summoned Attorney General Gali Baharav-Miara to court and told her directly that most charges are difficult to prove, the Jerusalem Post reports.\nThey stated that the chances of conviction were low in both Case 4000 (bribery) and Case 2000 (fraud), and suggested that an agreement could be reached in Case 1000, the gifts case. The judges cited the absence of objective evidence needed to establish key facts, and serious doubt over whether Netanyahu was aware at the time that his requests were receiving unusually favorable treatment.\nThe judges had already recommended twice that the prosecution drop the bribery charge, most recently in June, but prosecutors kept it in place.\nNetanyahu has been under investigation in several criminal cases for 10 years.\n\ud83d\udd34 The most serious bribery charges were filed in the so-called [Case 4000](https://t.me/geopolitics_prime/71440), concerning lobbying for the interests of the country's largest telecommunications group, Bezeq, in exchange for favorable coverage on Walla, a popular news website controlled by the company\n\ud83d\udd34 Case 1000 concerns suspicions that Netanyahu received expensive gifts, including exclusive cigars and champagne, from Hollywood producer Arnon Milchan, with the investigation estimating their total value at nearly $300,000. Investigators believe that in exchange for the gifts, Netanyahu lobbied for Milchan's personal and business interests\n\ud83d\udd34 Case 2000 relates to the prime minister's attempts to reach an agreement with the owner of one of the country's largest media groups, Yediot Ahronot, on favorable coverage of his activities in exchange for passing a law that would limit the reach of its competitor, the free daily Israel Hayom\nIf convicted, Netanyahu faces up to 10 years in prison for bribery and up to three years each for fraud and breach of trust. He denies all charges and has called the trial a politically motivated [\"witch hunt\"](https://t.me/geopolitics_prime/78247) and \"10 years of hell.\"\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T20:02:01+00:00",
+      "timestamp": "2026-11-25T12:31:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -542,12 +462,31 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia seeks missile interceptors around the world \nThe Saudis have reached out to several countries in search of anti-drone weapon systems and missiles, Semafor reports, citing its sources.\nAmong the nations contacted by Saudi Arabia were the US, the UK and France, as well as \u201ccountries from the Americas to Asia.\u201d\nIt is unclear whether these inquiries are the result of the Saudi missile interceptor stockpiles running low or a sign of Saudi Arabia preparing for a protracted conflict in the region.\nDuring this year, Saudi Arabia came under repeated drone and missile strikes by the Houthis who seek reprisals for the brutal military campaign waged by them and their proxies in Yemen.\nThe Iranian military also carried out missile and attacks against the Prince Sultan Air Base in Saudi Arabia due to the facility being used by the US forces.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2708\ufe0f Aviation regulator pinpoints router glitch that took down US airspace\nLab tests have recreated the failure behind this [month's nationwide ground stop](https://t.me/geopolitics_prime/77746) which cost nearly 20,000 flights, reports CNN, citing sources.\n\ud83d\udc49 Investigators reportedly claim a new router at a remote radio site in El Dorado, Arkansas, had an overlooked setting that clashed with the decades-old routers the FAA is retiring and flooded the system with data, leaving gaps in radar and radio coverage.\nSoftware patches should prevent a repeat, and the ongoing probe is about 90% sure no hostile actors were involved.\n[The technical glitch](https://t.me/geopolitics_prime/78038) is only part of the problem. The investigation has raised questions about how the FAA oversees contractors maintaining critical infrastructure.\n\u2666\ufe0f maintenance work that once required at least six FAA employees is now often handled by one coordinator - only four such coordinators reportedly cover the entire country\n\u2666\ufe0f the administration's push to accelerate maintenance removed an additional layer of FAA review, including assessments of operational risks \n\u2666\ufe0f private company L3Harris is responsible for maintaining the telecommunications network, while the FAA primarily monitors service performance rather than directly supervising installations\nFAA Administrator Bryan Bedford and Transportation Secretary Sean Duffy face congressional hearings on the breakdown, with upgrades paused and Duffy asking for another $50 billion.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T19:11:01+00:00",
+      "timestamp": "2026-11-25T07:47:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udea8Houthis claim attack on Saudi Arabia\u2019s Ras Tanura oil refinery\nFootage is circulating online allegedly showing the aftermath of a Houthi drone attack on Saudi Arabia\u2019s Ras Tanura refinery on the Persian Gulf coast. \nThis comes after[ Saudi-led forces struck Houthi-held Hodeidah port and airport at night. ](https://t.me/geopolitics_prime/78305?single)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-25T07:14:25+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
