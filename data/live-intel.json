@@ -1,6 +1,44 @@
 {
-  "generated_at": "2026-11-24T18:46:24.841778+00:00",
+  "generated_at": "2026-11-25T02:58:39.676870+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Sunday, November 29, 2026 through Sunday, November 29, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/24/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nLibby AAF, AZ, Wednesday, November 25, 2026 Local\nFacility: ZAB",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/24/2026",
+      "location": "ZAB AZ",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nManhattan, NY, Thursday, November 26, 2026 Local\nFacility: ZNY",
@@ -30,44 +68,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/24/2026",
       "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nLaurel, MD, Tuesday, November 24, 2026 Local\nFacility: ZDC",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/23/2026",
-      "location": "ZDC MD",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nPALM BEACH, FL, Tuesday, November 24, 2026 through Tuesday, November 24, 2026 Local\nFacility: ZMA",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/23/2026",
-      "location": "ZMA FL",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -213,6 +213,25 @@
     {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
+      "text": "\u2014\u2757\ufe0f\ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7 NEW: The Iranian Army announces that an American MQ-9 \u2018Reaper\u2019 drone was shot down today",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T20:04:29+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Middle East Spectator"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Middle East Spectator",
       "text": "\ud83c\uddfa\ud83c\uddf8\u274c\ud83c\uddee\ud83c\uddf7 - President Donald Trump:\n Iranian ships that try to break the blockade will meet the same fate as the rest of the Iranian navy",
       "source": "Telegram",
       "source_type": "telegram",
@@ -250,32 +269,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddfa\ud83c\uddf8/\ud83c\uddee\ud83c\uddf7/\ud83c\udde7\ud83c\udded WATCH: Iran has released footage of targeting U.S. radars at Rifaa AB and Sakhir AB in Bahrain tonight with drones & missiles",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-21T21:01:30+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "Saudi Arabia Asks Allies for More Interceptors Amid Houthi Attacks\nRiyadh has approached the U.S., the U.K., France, and other partners about buying or borrowing air defense equipment amid weeks of near-daily Houthi missile and drone attacks.\n[READ MORE](https://clashreport.com/world/articles/saudi-arabia-asks-allies-for-more-interceptors-amid-houthi-attacks-bfzhcmb9hcn)",
+      "text": "Zelensky:\nAs for missiles for Patriot anti-ballistic air defense systems, the document is currently in the United States.\nUnfortunately, Hegseth has not signed it yet, so it depends exclusively on him.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T15:03:31+00:00",
+      "timestamp": "2026-11-24T21:22:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -283,6 +283,46 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Clash Report"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Clash Report",
+      "text": "NEW footage has surfaced reportedly showing US/Israeli strike on an Iran Air passenger Airbus at Bushehr Airport at the start of Iran War.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T21:16:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Our Wars Today",
+      "text": "[Lynx KF41 Fighting Vehicles, Newly Arrived In Ukraine, Will Take On Counter-Drone Mission](https://www.twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission)\nThe German-made vehicles arrive in Ukraine as the role of armor has been greatly diminished, but not eliminated. \u2013 Join Telegrams: t.me/ourwarstoday \u2013 Live: t.me/ournewsfeedtoday \u2013 Footage: t.me/ourwars \u2013 Support OWT: https://ko-fi.com/ourwarstoday \n[Read More in Full Article](https://www.twz.com/land/lynx-kf41-fighting-vehicles-newly-arrived-in-ukraine-will-take-on-counter-drone-mission)\nHoward Altman | twz\u200b.com \u2022 Nov 24, 2026",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-25T00:15:23+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Our Wars Today"
       ],
       "verified_source_count": 1
     },
@@ -308,12 +348,12 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\udde6 \u2014 The Pentagon is withholding approval for around 60 Patriot PAC-3 and PAC-2 interceptor missiles intended for Ukraine, despite European allies funding the deliveries.\nFour batches (Sept\u2013Dec) await U.S. authorization for direct delivery or European stockpile transfers.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa \u2014 Ukrainian drones reportedly struck two Russian oil refineries in Samara Oblast overnight, including the Kuibyshev Refinery, where footage shows multiple fires and thick smoke rising.\nThe second facility, the Syzran Refinery, was also reportedly hit, with a fire breaking out nearby. Both facilities belong to Rosneft\u2019s Samara refining hub.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T13:09:23+00:00",
+      "timestamp": "2026-11-25T02:36:43+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -327,107 +367,33 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\udde9 On November 21, 2026, Indonesian Armed Forces Commander General Agus Subiyanto personally inspected a demonstration of weaponized unmanned systems and technologies by the Marine Corps at the Jusman Puger firing range in South Jakarta.\nDuring the inspection, the Indonesian Armed Forces Commander was accompanied by Navy Chief of Staff Admiral Muhammad Ali, Marine Corps Commander Lieutenant General Endi Supardi, and several senior officials from the Navy Headquarters, the Navy Staff, and the Marine Corps.\nThe purpose of the event was to directly observe the readiness, capabilities, and technological development of key weapon systems intended to support Navy operational tasks in the field.\nIn the first session, the Indonesian Navy Commander observed a demonstration of a heavy long-range unmanned aerial vehicle system. This drone is specifically designed to carry heavy payloads over long distances.\nThe drone has an effective payload capacity of 20 kg, a maximum load of 26 kg, and an operating radius of 7 to 8 km.",
+      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\u274c\ud83c\uddee\ud83c\uddf7 \u2013 New images show the moment an Iranian civilian airliner, an Iran Air Airbus A319, was destroyed while parked at Bushehr Airport on March 3, during the early days of the Iran war.\nThe strike damaged the airport terminal, but no passengers were onboard at the time of the attack.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T12:00:24+00:00",
+      "timestamp": "2026-11-24T23:05:49+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
       "verified_sources": [
-        "Alsaa Plus EN"
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
       ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nA government that depends on supporters of terrorism cannot fight terrorism.\nA government whose partners dedicate their election results at the ballot box to the Hamas Nukhba terrorists cannot fight Hamas.\nA government that wants to fight for the future of the Jewish state cannot depend on those who want to eliminate the Jewish state.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T09:49:20+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nWe must reach agreements regarding Israel as the nation-state of the Jewish people, agreements that there will be no Palestinian state, and agreements on other issues as well.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T09:47:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nAnyone who dismisses or downplays the immediate, difficult and serious threats surrounding us is doing so for political reasons.\nIt reminds me of how they downplayed my warnings about Iran and explained that it was all a political trick.\nThis is real. This is serious. And anyone familiar with the material knows just how serious it is.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T09:40:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf1 \u2014 Israeli Prime Minister Benjamin Netanyahu:\nAn overwhelming majority of the country's citizens who see Israel as the nation-state of the Jewish people are longing for a unity government.\nThey are longing for a unity government because they understand a simple truth: our ability to ensure the existence of the state in the face of the great threats surrounding us depends on our unity.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T09:38:54+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
+      "verified_source_count": 3
     },
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 NEW: Israeli Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz say the IDF has killed Naim Abu Nahal, whom they identified as the head of Hamas\u2019s internal security apparatus.\nIn a joint statement, Netanyahu and Katz said Abu Nahal\u2019s predecessor had been captured by Israeli forces in an operation three months earlier.\nThe two officials praised the IDF and Shin Bet for carrying out what they described as the government\u2019s offensive policy, adding that \u201cno terrorist will escape the long arm of the State of Israel.\u201d",
+      "text": "\u26a1\ud83c\uddfa\ud83c\uddf8\ud83c\uddee\ud83c\uddf1\ud83c\uddf5\ud83c\uddf8 Israeli Prime Minister Benjamin Netanyahu is impeding the implementation of US President Donald Trump's peace plan for the Gaza Strip, White House Senior Adviser Josh Gruenbaum said.\n\"These are things we're asking Prime Minister Netanyahu to stop obstructing. If he no longer wishes to continue on with President Trump's plan, then he should let the President know that directly, so immense time and efforts can be spared,\" Gruenbaum told Bloomberg.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T12:06:53+00:00",
+      "timestamp": "2026-11-24T20:55:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -441,12 +407,12 @@
     {
       "title": "Telegram",
       "publisher": "Mediterranean Man",
-      "text": "\u26a1\ud83c\uddef\ud83c\uddf5\ud83c\uddfa\ud83c\uddf8\ud83c\uddf5\ud83c\udded The authorities of Japan\u2019s Okinawa banned the US Army from using an airport on one of the islands in the East China Sea. They notified Washington that the facility is intended solely for civilian aviation, the Kyodo news agency reported.\nThe US had planned to use the airport on Miyako Island to refuel heavy transport helicopters delivering cargo to US military facilities in the Philippines.",
+      "text": "\u2014 \ud83c\uddee\ud83c\uddf1/\ud83c\uddf5\ud83c\uddf8 NEW: Israeli Prime Minister Benjamin Netanyahu and Defense Minister Israel Katz say the IDF has killed Naim Abu Nahal, whom they identified as the head of Hamas\u2019s internal security apparatus.\nIn a joint statement, Netanyahu and Katz said Abu Nahal\u2019s predecessor had been captured by Israeli forces in an operation three months earlier.\nThe two officials praised the IDF and Shin Bet for carrying out what they described as the government\u2019s offensive policy, adding that \u201cno terrorist will escape the long arm of the State of Israel.\u201d",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T11:59:01+00:00",
+      "timestamp": "2026-11-24T12:06:53+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -536,12 +502,33 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udea8\ud83d\ude80 New missile strike hits Riyadh financial district\nThe attack hit one of the towers at the King Abdullah Financial District, with some of the reports identifying the Public Investment Fund building as the target.\nSaudi authorities reported 11 injuries and blamed the Houthis for this attack.\nIn 2026, Saudi Arabia came under repeated drone and missile strikes by the Houthis. In November alone, the Riyadh financial district has come under attack at least three times.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\u2705 WATCH: Previously unseen footage of US strike on Iranian passenger plane\nNaya has published previously unseen footage from the early days of the US-Israeli war against Iran, reportedly showing a US strike on an Iran Air Airbus passenger aircraft at Bushehr Airport in southern Iran.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T17:29:16+00:00",
+      "timestamp": "2026-11-24T21:22:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "VERIFIED",
+      "verification_confidence": 90,
+      "verified_sources": [
+        "Alsaa Plus EN",
+        "Clash Report",
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 3
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf7\ud83d\udea2 Iran bans dozens of tugboats for violating Strait of Hormuz transit rules\nThe Persian Gulf Strait Authority (PGSA), an Iranian body regulating passage through the Strait of Hormuz, has blacklisted 26 tugboats for servicing vessels that violated transit rules.\nThe blacklist was drawn up based on tip-offs from citizens in Iran\u2019s southern neighboring countries, as well as Iranian intelligence gathered through field operations and surveillance.\n\ud83d\udc49 Founded in April 2026 following the US-Israeli invasion, the PGSA was tasked with restricting cargo traffic through the strait. Since, cargo vessels have been able to pass safely only in coordination with the authority.\nIn an attempt to circumvent the restrictions, the US resorted to risky ship-to-ship transfers, with shuttle vessels operating at night, switching off their transponders and disabling their GPS signals for hours at a time.\nThe scheme has also proved costly. The daily charter rate for a Very Large Crude Carrier (VLCC) has surged from $231,400 to more than $1 million. The US must also maintain a military naval presence in the region to oversee the operation.\nYet unauthorized tankers keep catching fire in the strait.\nIran has laid out a set of conditions for reopening the waterway and is calling on the US to comply.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-24T20:02:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -555,88 +542,12 @@
     {
       "title": "Telegram",
       "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83d\udc49 US to raise tariffs for over a dozen countries \u2013 report\nThe new wave of tariffs is expect to come in response to China, the EU and 14 other countries subsidizing their respective industries, which ostensibly is harmful to American companies, the Wall St. Journal reports, citing its sources.\nUS Trade Representative Jamieson Greer, who is expected to present the results of the investigation into this subsidies this week, claimed that these countries were thus able to flood global markets with their cheap goods.\nWhile the new tariffs reportedly will cover most of the exports of the affected nations, likely there will be exemptions for certain materials such as steel and aluminum, as well as for motor vehicles, which are \u201ctariffed under a separate national security authority.\u201d\nThe exact rates of the new tariffs are as yet unclear, though the White House supposedly aims for the level of levies similar to those imposed by the US back in 2025.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "text": "\ud83c\uddf8\ud83c\udde6 Saudi Arabia seeks missile interceptors around the world \nThe Saudis have reached out to several countries in search of anti-drone weapon systems and missiles, Semafor reports, citing its sources.\nAmong the nations contacted by Saudi Arabia were the US, the UK and France, as well as \u201ccountries from the Americas to Asia.\u201d\nIt is unclear whether these inquiries are the result of the Saudi missile interceptor stockpiles running low or a sign of Saudi Arabia preparing for a protracted conflict in the region.\nDuring this year, Saudi Arabia came under repeated drone and missile strikes by the Houthis who seek reprisals for the brutal military campaign waged by them and their proxies in Yemen.\nThe Iranian military also carried out missile and attacks against the Prince Sultan Air Base in Saudi Arabia due to the facility being used by the US forces.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T16:05:40+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf5\ud83c\udded Philippines prepares new US military access point near Taiwan \nThe Philippines -[ a platform for an expanding US military presence in the region](https://t.me/geopolitics_prime/73756) amid its political standoff with China - is about to upgrade an airport in the northernmost province of Batanes, reports Bloomberg.\n\ud83d\udd34 Basco Airport on Batan Island lies less than 200 km from Taiwan, placing it close to a potential flashpoint in a US-China standoff\n\ud83d\udd34 the airport currently has a short runway and cannot operate in all weather conditions, limiting aircraft access\n\ud83d\udd34 it will receive infrastructure improvements to accommodate larger aircraft \n\ud83d\udd34 upgrade is intended to improve US-Philippine military access, disaster response and commercial supply routes\nThe initiative forms part of a broader push to deepen military cooperation.\nUnder the Enhanced Defense Cooperation Agreement (EDCA), the US has expanded the number of designated military sites in the country from five to nine since 2022, alongside increasingly frequent joint exercises.\nThe move also aligns with new US Army operational [warfighting guidance released in October](https://t.me/geopolitics_prime/76428?single), that calls for stronger command facilities, logistics networks and ammunition stockpiles to ensure American forces can deploy rapidly in a potential conflict.\nChina has repeatedly warned that [expanding military deployments and joint drills in the region](https://t.me/geopolitics_prime/71601) risk destabilizing the Asia-Pacific and escalating tensions.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T15:14:35+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddef\ud83c\uddf5 What\u2019s steering Japan\u2019s carmakers toward massive rearmament drive?\nThe Japanese government is encouraging the country\u2019s automakers to join its biggest military buildup since World War II, Reuters reports.\n\ud83d\udc49 Prime Minister Sanae Takaichi believes that tapping into existing industrial supply chains will accelerate Japan\u2019s rearmament, which is gathering pace with US backing.\nOne striking example is Japanese manufacturer Aster, which previously supplied components for Toyota vehicles. The company has since carved out a new niche supplying electric motors for[ lethal drones developed by US defense technology company Anduril .](https://t.me/geopolitics_prime/78025)\n\u27a1\ufe0f Japan\u2019s new military doctrine justifies ramping up defense spending by pointing to alleged security \u201cthreats\u201d from North Korea, China and Russia. But China\u2019s daily, the Global Times, has pushed back against the strategy as a form of \u201cmilitary Keynesianism\u201d \u2013 employing defense spending to pump up broader economic growth. Interestingly, Germany appears to be following a similar path, increasingly redirecting[ its automotive industry towards military production.](https://t.me/geopolitics_prime/77897)\nThe problem, however, is that this strategy may not deliver the promised economic benefits. Japan faces competing demands for public spending, while Takaichi has yet to explain how she would fund further hikes in military expenditures without placing an even greater strain on the country\u2019s already stretched public finances, Reuters argued last August.\nThe Chinese media have warned that Japan is going down the same road it took prior to World War II \u2013 one that brought catastrophe to the region. Meanwhile, Beijing is tightening its rare-earth supplies to Japan, potentially throwing another obstacle in the way of [Tokyo\u2019s military buildup. ](https://t.me/geopolitics_prime/72149)\n\ud83d\udd0a Some observers have also drawn a parallel between Germany\u2019s and Japan\u2019s escalating defense budgets, seeing echoes of the geopolitical climate that preceded World War II. For them, this may point to a broader geopolitical project to remilitarize both countries.\nRemarkably, in April, America\u2019s leading technology company,[ Palantir, which has close ties to the CIA and the Pentagon](https://t.me/geopolitics_prime/68441), published a manifesto calling for precisely such a shift. It stated explicitly that the postwar neutering of Germany and Japan must be undone.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T14:33:18+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "SURIYAKMAPS\nInteractive maps and daily tracking of conflicts in Syria, Iraq, Yemen, Libya, Ukraine, the Sahel, the Caucasus, and Gaza.\nSince 2017, they've been documenting front lines, offensives, and territorial changes using on-the-ground sources and geolocation data.\nFollow them to see the real map, not the narrative.\nFrequent, clear, and prioritized updates (they\u2019re usually posted first on Telegram).\nX: https://x.com/Suriyakmaps\nTelegram: t.me/Suriyak_maps",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T13:08:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\udde6\ud83c\uddea UAE granted Israel backdoor F-16 access to secure US arms deal - book\nThe UAE granted Israel access to software running its most advanced F-16 fighter jets in the late 1990s in exchange for Tel Aviv dropping it's opposition to a major US arms sale to the country, according to investigative journalist Matthew Cole's book \u201cPrinces and Thieves: Jared Kushner and Mohamed bin Zayed\u2019s Secret Plot to Remake the Middle East.\u201d\nMohamed bin Zayed, then chief of staff of the UAE Armed Forces, was seeking to acquire 80 F-16 Block 60 fighters, according to an excerpt shared on X by journalist Murtaza Hussain.\nThe deal faced a major obstacle: the US\u2019 longstanding commitment to ensuring Israel maintained a \u201cqualitative military edge\u201d over its Arab neighbors.\n\u2666\ufe0f the UAE offered to buy and install Israeli software on its new F-16s, effectively giving Israeli systems access to the aircraft's operations\n\u2666\ufe0f \u201cno Muslim nation had ever made such an offer before,\u201d per Cole \n \n\u2666\ufe0f the US reportedly facilitated secret negotiations between Emirati and Israeli representatives to overcome resistance to the sale\n\u2666\ufe0f Lockheed Martin ultimately delivered the fighters, while Israel supplied and installed the software\nThe UAE announced the planned purchase during a May 1998 visit to Washington. The formal US notification to Congress followed on April 27, 2000, putting the deal's value at $6.43 billion.\nThe account places covert UAE-Israeli military cooperation more than two decades before the 2020 Abraham Accords formally normalized relations between the two countries.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-24T12:27:01+00:00",
+      "timestamp": "2026-11-24T19:11:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
