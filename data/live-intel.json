@@ -1,6 +1,25 @@
 {
-  "generated_at": "2026-11-25T22:00:10.972279+00:00",
+  "generated_at": "2026-11-26T04:05:53.078722+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nCarmel, IN, Thursday, November 26, 2026 through Thursday, December 24, 2026 Local\nFacility: ZID",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/25/2026",
+      "location": "ZID IN",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nLibby AAF, AZ, Sunday, November 29, 2026 through Sunday, November 29, 2026 Local\nFacility: ZAB",
@@ -30,44 +49,6 @@
       "icon": "\ud83d\udea8",
       "timestamp": "11/24/2026",
       "location": "ZAB AZ",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nManhattan, NY, Thursday, November 26, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/24/2026",
-      "location": "ZNY NY",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "Federal Aviation Administration"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "FAA SECURITY",
-      "text": "FAA SECURITY TFR\nManhattan, NY, Wednesday, November 25, 2026 through Wednesday, November 25, 2026 Local\nFacility: ZNY",
-      "source": "FAA",
-      "source_type": "official",
-      "publisher": "Federal Aviation Administration",
-      "severity": "critical",
-      "icon": "\ud83d\udea8",
-      "timestamp": "11/24/2026",
-      "location": "ZNY NY",
       "lat": null,
       "lon": null,
       "verification_status": "OFFICIAL",
@@ -192,25 +173,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Five Russian military jets hit in airfield strike, says Ukraine",
-      "text": "Five Russian military jets hit in airfield strike, says Ukraine\nThe Savasleyka airfield hosts aircraft used by Russia to launch hypersonic missiles and glide bombs at Ukraine.",
-      "source": "BBC",
-      "source_type": "osint",
-      "publisher": "BBC World News",
-      "severity": "info",
-      "icon": "\ud83d\udcf0",
-      "timestamp": "2026-11-25T14:46:41+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "BBC World News"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014\u2757\ufe0f\ud83c\uddee\ud83c\uddf7/\u2622\ufe0f NEW: Iran has continued unusually fast development and construction at the Behjatabad underground complex, an unidentified military or nuclear site located between Esfahan Nuclear Site and Pickaxe Mountain \nThe exact purpose of the complex currently remains unknown; it could be related to ballistic missiles, but the scale and speed of construction hints at the nuclear program or strategic assets placement (ICBMs).",
@@ -327,12 +289,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfa\ud83c\udde6\ud83c\uddf7\ud83c\uddfa Ukrainian drones targeted an oil refinery in the city of Syzran in Russia's Samara Oblast on Wednesday morning, roughly 1,000 km inside Russian territory.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
+      "text": "\u26a1\ufe0f\ud83c\uddeb\ud83c\uddee\ud83c\uddf3\ud83c\uddf4\ud83c\uddf7\ud83c\uddfa\ud83c\udde9\ud83c\uddea [WSJ:](https://www.wsj.com/world/europe/inside-the-scramble-to-avert-conflict-with-russia-in-the-baltic-4ec51b82) Finnish President Stubb and Norwegian PM St\u00f8re contacted Putin on October 27 to reassure Moscow that NATO had no plans to blockade the Baltic Sea, a key route carrying more than 60% of Russia\u2019s seaborne oil exports.\nRussia has deployed warships to escortt tankers through the region. Putin has described Western efforts to intercept Russian vessels as piracy and warned of possible military retaliation.\nThe talks followed rising tensions over NATO\u2019s maritime activity and several encounters between Russian vessels and European coast guards. Finland is also said to have coordinated directly with Moscow after a Ukrainian drone strike involving a cargo ship near Finnish waters.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook +18",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-25T04:13:31+00:00",
+      "timestamp": "2026-11-26T01:33:21+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -340,6 +302,139 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "The RAF is reportedly moving to install Kevlar anti-drone netting over exposed aircraft at bases amid heightened Russian sabotage and Iran-linked drone threats. The tactic was first employed in the Ukraine War. - TWZ",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-26T01:24:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Iran backed Kataib Hezbollah reportedly folded some 2,000 fighters into allied Popular Mobilization Forces (PMF) brigades as Iraqi forces reclaimed Jurf al Sakhr. Critical equipment was evacuated to Anbar and Karbala. - ISW",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-26T01:22:42+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "A map showing scheduled Iranian missile/AA tests with public NOTAMs. \nThese tests have been ongoing for a few weeks as documented by",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-26T01:21:40+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "Poland has asked NATO to explore the possibility of shooting Russian missiles over Ukraine if they are heading towards NATO territory. \nPolish Foreign Minister Rados\u0142aw Sikorski on Polish public radio said: \n\u201cI believe that shooting down a missile over Ukraine at Ukraine\u2019s request would fall within the definition of self-defense.\u201d\n- Bloomberg",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-26T01:18:41+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "CASELS",
+      "text": "\u2757\ufe0fAround 10 explosions have been reported in Kyiv. Preliminary reports from monitoring channels suggest Russia used S-400 missiles. The threat of further attacks remains, and residents are advised to stay in shelters.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-26T01:17:36+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 Russian strikes hit shopping center in Kiev\nRussian forces have struck the \"Prospect\" shopping center in the Ukrainian capital, according to local reports. Monitoring channels indicate that additional rockets are currently being launched at the exact same location.\nThe strike comes amid a massive wave of ballistic missiles targeting the capital tonight, which already hit energy infrastructure.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-26T03:16:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udd25 UKMTO reports explosion near a tanker west of Dubai\nThe UK Maritime Trade Operations (UKMTO) agency has reported an incident approximately 92 kilometers west of Dubai, UAE.\nThe Master of a tanker reported an explosion caused by an unknown projectile in close proximity to the vessel.\nTo navigate through the Strait of Hormuz safely, ships are required to coordinate with the Iranian-established Persian Gulf Strait Authority (PGSA), secure permits, and follow specific geographic coordinates.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-25T23:36:35+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -371,25 +466,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-25T20:01:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea Saudi Arabia amasses thousands of foreign troops \u2013 will they attack Yemen?\nSaudi Crown Prince Mohammed bin Salman (MBS) is likely to use his attendance at the G20 summit in Miami to personally appeal to US President Donald Trump for military assistance, Semafor reports, citing a US official familiar with the prince's travel plans.\nMSB has already formed a multinational coalition, as regional and European allies pledge military assistance to Riyadh. However, many of them seem reluctant to participate in offensive operations in Yemen.\n\ud83d\udfe5 Sudan: The Sudanese Armed Forces (SAF) have reportedly pledged to send 10,000 fighters to Saudi Arabia over 18 months. More than 7,000, including around 2,000 Sudan Shield Forces (SSF), [may have already arrived](https://t.me/geopolitics_prime/77696) \n\ud83d\udfe5 Syria: Damascus could send 3,000\u201320,000 fighters, according to reports, but officials have confirmed only 600 special forces personnel for training and [military consultations ](https://t.me/geopolitics_prime/77907)\n\ud83d\udfe5 Egypt: Cairo pledged military support in late October, although forces had reportedly already been deployed around Jeddah, Taif and Yanbu. The contingent reportedly includes Rafale fighter jets, eight helicopters, four transport aircraft and 500 specialists, with plans to expand to 1,500 troops. Egyptian warships have also moved closer to the [Bab al-Mandab Strait ](https://t.me/geopolitics_prime/76980)\n\ud83d\udfe5 Turkey: Ankara has maintained technical teams, air defense systems and electronic warfare equipment in Saudi Arabia since 2025. Further deployments of troops, special forces and aircraft have been reportedly discussed following ratification of the trilateral Mecca Pact. Foreign Minister Hakan Fidan said on November 21 that assistance was forthcoming, but no decision had been made on deploying troops to Yemen.\n\ud83d\udfe5 Pakistan: Under a 2025 bilateral agreement, Islamabad maintains around 8,000 troops, 16 fighter jets, two drone units and a long-range air defense battery in Saudi Arabia. Pakistan has pledged to counter Houthi attacks but ruled out ground operations in Yemen\n\ud83d\udfe5 France: Paris reportedly began deploying troops, radars and air defense systems to Yanbu, a Saudi port on the Red Sea coast, around October 13 in exchange for diesel supplies. Some 2,000 French troops are presently stationed across the Gulf, including in Qatar, Kuwait and Saudi Arabia\n\ud83d\udfe5 Greece: Athens has operated a Patriot battery protecting Saudi energy infrastructure in Yanbu since 2021\n\ud83d\udfe5 United Kingdom: London has deployed RAF Typhoon fighters to protect Saudi oil infrastructure while ruling out offensive strikes against the Houthis. British refueling aircraft have nevertheless supported Saudi airstrikes in Yemen\nThe multinational coalition suggests that the Saudi-Yemeni conflict is increasingly extending beyond the Middle East, drawing in African and European powers. It remains unclear whether the US will join MBS's coalition against Yemen as Washington pursues its operations to blockade Iran. Riyadh's regional Muslim allies also appear reluctant to engage Ansar Allah in direct combat.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-25T16:26:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
