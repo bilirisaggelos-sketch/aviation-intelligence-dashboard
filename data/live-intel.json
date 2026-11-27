@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-11-27T14:51:30.592550+00:00",
+  "generated_at": "2026-11-27T23:19:49.979759+00:00",
   "events": [
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nKilleen, TX, Monday, November 30, 2026 through Friday, December 4, 2026 Local\nFacility: ZHU",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/27/2026",
+      "location": "ZHU TX",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nPalm Beach, FL, Saturday, November 28, 2026 through Sunday, November 29, 2026 Local\nFacility: ZMA",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/27/2026",
+      "location": "ZMA FL",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "FAA SECURITY",
+      "text": "FAA SECURITY TFR\nManhattan, NY, Saturday, November 28, 2026 Local\nFacility: ZNY",
+      "source": "FAA",
+      "source_type": "official",
+      "publisher": "Federal Aviation Administration",
+      "severity": "critical",
+      "icon": "\ud83d\udea8",
+      "timestamp": "11/27/2026",
+      "location": "ZNY NY",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "Federal Aviation Administration"
+      ],
+      "verified_source_count": 1
+    },
     {
       "title": "FAA SECURITY",
       "text": "FAA SECURITY TFR\nBrunswick, GA, Monday, November 30, 2026 through Friday, December 18, 2026 Local\nFacility: ZJX",
@@ -174,70 +231,13 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf0\ud83c\uddfc NEW: Iran\u2019s widely disliked Foreign Minister, Abbas Araqchi, called his Kuwaiti counterpart and expressed his willingness to conduct a joint investigation into today\u2019s drone strike",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-26T17:51:13+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Middle East Spectator",
-      "text": "\u2014 \ud83c\uddee\ud83c\uddf7/\ud83c\uddf0\ud83c\uddfc NEW: Iran denies responsibility for the drone attack on Kuwait that killed two Italians\nIn my estimation, it was probably Iraqi resistance factions that carried it out.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-26T16:35:19+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
       "publisher": "Clash Report",
-      "text": "North Korea Suspends Some Arms Shipments to Russia Over Seoul Outreach\nUkrainian intelligence says Pyongyang has temporarily suspended missile and artillery deliveries to Russia in response to Moscow\u2019s diplomatic outreach to South Korea.\n[READ MORE](https://clashreport.com/world/articles/north-korea-suspends-some-arms-shipments-to-russia-over-seoul-outreach-zqfox3iwg2j)",
+      "text": "Polish Foreign Minister Sikorski:\nRussia is hitting Ukraine the way Nazi Germany hit London with V-2 ballistic missiles.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T14:17:42+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Spanish PM Pedro S\u00e1nchez:\nIn Argentina, their friend Mr. Milei has used the chainsaw. And what has all this led to? \nAn economic recession in Argentina and absolutely skyrocketing inequality.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T13:21:51+00:00",
+      "timestamp": "2026-11-27T20:30:36+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -308,12 +308,69 @@
     {
       "title": "Telegram",
       "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 Iran\u2019s IRGC says a US F-16 retreated from Iranian airspace after Iranian forces fired warning shots near Hengam Island.\nThe jet was escorting vessels operating without authorization and was forced to change course by an advanced Iranian air defense system\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "text": "\ud83c\uddf7\ud83c\uddfa Putin states that the Yasen-M class meets current and future naval needs and remains key to Russia\u2019s Navy. \nHe says these submarines operate covertly in any ocean and carry sea-launched cruise missiles, including the hypersonic Zircon, whose strike capability and accuracy he claims are proven.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T07:37:23+00:00",
+      "timestamp": "2026-11-27T22:15:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\ud83c\uddf7\ud83c\uddfa Russian President Vladimir Putin attends the flag-raising ceremony for the nuclear-powered submarine Perm, a fourth-generation Yasen-M-class multipurpose missile submarine and the first regular submarine carrier of the hypersonic Zircon cruise missile.\nPutin states that Russia is among the few countries capable of building such powerful nuclear submarines and strategic weapons, crediting its advanced technologies, engineering expertise, shipyards, and highly qualified personnel.",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-27T22:15:11+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ud83c\uddf8\ud83c\uddf4 The State Minister of Transport and Civil Aviation of Somalia, Abdikarim Abdou Haidar, burst into the office of the Minister of Transport and Civil Aviation, Mohamed Farah Nuh, carrying a Kalashnikov assault rifle (AK\u201147) and ammunition.\nThis armed incident has raised serious concerns about security in government institutions, the behavior of high\u2011ranking officials, and respect for state institutions.\nAccording to available information, a conflict had arisen between the two officials in recent days, but the Somali cabinet did not take timely measures to resolve it \u2014 allegedly because both parties to the dispute are connected to influential figures in the federal government. The lack of response from the authorities has prompted further questions about political accountability and the government\u2019s ability to resolve internal disagreements among senior officials.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-27T21:55:45+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Alsaa Plus EN"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Alsaa Plus EN",
+      "text": "\u26a1\ufe0f\ud83c\uddf7\ud83c\uddfa\ud83c\uddf1\ud83c\uddfe \u2014 Two Russian military convoys heading for Libya have turned back in the Mediterranean following the sinking of a Russian warship in Benghazi by Ukrainian naval drones on November 22, Reuters reports.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-27T19:28:27+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -321,83 +378,26 @@
       "verification_confidence": 65,
       "verified_sources": [
         "Alsaa Plus EN",
-        "Geopolitics Prime"
+        "CASELS"
       ],
       "verified_source_count": 2
     },
     {
       "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 The sound of a drone was heard over the city of Jask in Iran, suggesting that it was likely launched towards vessels violating regulations in the Strait of Hormuz.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
+      "publisher": "Mediterranean Man",
+      "text": "I saw a guy selling flying cars and drones on Ali baba once, it doesn't make jack ma the inventor. Come on Bloomberg..",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-26T19:04:18+00:00",
+      "timestamp": "2026-11-27T15:17:56+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7 \u2014 Quds Force commander Ismail Qaani marked Basij Week by praising the late founder of the Islamic Republic for establishing the Basij and promoting the idea of a 20-million-member force.\nQaani said the late Imam\u2019s vision was advanced through support for regional resistance movements, which he described as having developed into the \u201cResistance Front.\u201d He praised Supreme Leader Ayatollah Ali Khamenei for continuing that path and called for the movement to spread across the Muslim world until the establishment of a universal government led by Imam Mahdi.\nQaani also sent greetings to Basij members in Iran and across the region, specifically mentioning Palestine and Gaza, Lebanon, Yemen and Iraq, as well as fighters in other resistance fronts.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-26T17:54:24+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "JUST IN: \ud83c\uddf0\ud83c\uddfc\ud83c\uddee\ud83c\uddf7 Kuwait\u2019s armed forces detected and dealt with hostile drones in Kuwaiti airspace, while an Iranian attack on a vital site injured four people \u2014 Kuwait\u2019s Ministry of Defense.\nFollow:",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-26T13:57:45+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Alsaa Plus EN",
-      "text": "\u26a1\ufe0f\ud83c\uddee\ud83c\uddf7\ud83c\uddfa\ud83c\uddf8 \u2014 IRGC Spokesperson Sardar Mohebbi:\nThe IRGC\u2019s missile production has not stopped at all. In terms of missiles, offensive weapons and air defense systems, we are in a much better position than the U.S.\nWe can say that they are experiencing a shortage of strategic weapons. \nHowever, we can confidently say that not only have we not experienced shortages and will not experience them.\nWe are also increasing the capabilities, accuracy and destructive power of our missiles day by day.\n\ud83d\udca7 Rainbet.com the #1 Non-KYC Crypto Casino & Sportsbook \n\u26aa\ufe0f",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-26T09:59:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Alsaa Plus EN"
+        "Mediterranean Man"
       ],
       "verified_source_count": 1
     },
@@ -422,32 +422,33 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": ">houthi drones one of our eurofighters in Saudia\n\"we're sorry, we didn't mean to hit ur plane \ud83d\udc49\ud83d\udc48\"\n>drones kills two italian rheinmetall workers in kuwait \n\"It wasn't us, we're willing to help u investigate srry\"",
+      "publisher": "CASELS",
+      "text": "Russian ships carrying military gear to Libya backed off. One convoy turned around in the Mediterranean after Ukrainian naval drones sank the corvette in Benghazi, Reuters reports. Another, escorted by the frigate Golovko, turned back near the Strait of Sicily that day, a European official says.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T00:51:50+00:00",
+      "timestamp": "2026-11-27T20:42:24+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
+      "verification_status": "PARTIALLY VERIFIED",
+      "verification_confidence": 65,
       "verified_sources": [
-        "Mediterranean Man"
+        "Alsaa Plus EN",
+        "CASELS"
       ],
-      "verified_source_count": 1
+      "verified_source_count": 2
     },
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Ukraine continued its drone strike campaign against targets in occupied Luhansk overnight. Numerous strikes were reported, with footage showing fires in several parts of the city.",
+      "text": "A Ukrainian drone with a net launcher brought down the Russian \"Sokol\" interceptor drone.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T07:35:12+00:00",
+      "timestamp": "2026-11-27T20:40:40+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -461,12 +462,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u203c\ufe0fMultiple Ukrainian attack drones struck Russia's Efremov Synthetic Rubber Plant in Tula Oblast overnight. The chemical enterprise supplies specialized materials used in solid rocket propellant for Iskander ballistic missiles, as well as components for explosives manufacturing. Explosions and fires were also reported at the adjacent Efremov Thermal Power Station. The rubber plant was previously targeted in December 2025 and September 2026.",
+      "text": "Poland isn't shooting down Russian missiles because the wreckage could scatter uncontrollably, Prosecutor General Waldemar Zurek says. If a missile is flying toward a field or forest and threatens nobody, taking it out would only create extra danger, he adds.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T07:33:43+00:00",
+      "timestamp": "2026-11-27T20:40:34+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -480,12 +481,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "Russia launched 155 drones against Ukraine overnight, including 83 jet-powered Shaheds. As of 08:00, Ukrainian air defenses had shot down or suppressed 110 drones, including 51 jet-powered Shaheds. Impacts were recorded at 27 locations and falling debris at four.",
+      "text": "General Cherry's Bullet interceptor drone destroyed 1,200 Shaheds in a month, the second most of any weapon. Its share of interceptor sales on Brave1 Market rose from 14.65% in September to 36.75% in November. General Cherry still leads drone makers in total air targets downed.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T07:33:40+00:00",
+      "timestamp": "2026-11-27T20:38:44+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -499,12 +500,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "\u26a1\ufe0f\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddea [INSS](https://www.inss.org.il/publication/mokha-yemen/): Satellite imagery comparing August 19 and October 28, 2026, reveals extensive Houthi fortification work around Al-Mokha, including trenches, earthen berms, checkpoints and roadblocks along major access routes. A double trench system has been constructed south of the city, potentially anticipating a counteroffensive from PLC forces.\nFormer PLC military camps appear largely abandoned, with no significant concentrations of new Houthi military vehicles visible. Meanwhile, Al-Mokha's airport remains damaged following reported Saudi airstrikes on September 12, and civilian activity appears to have declined.\nThe developments suggest the Houthis are consolidating their foothold near the strategically important Bab al-Mandeb Strait and preparing to defend the city against another offensive. However, satellite imagery alone cannot establish the extent of their preparations beyond the city or confirm all of their fortifications on the ground.",
+      "text": "Russia has a 10-year plan for its own military Starlink analogues, HUR deputy chief Skibitskyi says. Rassvet is to get 924 satellites by 2035 and Innoset 240 by 2036, which would let Moscow run sea drones and UAVs far beyond the Black Sea.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T07:32:50+00:00",
+      "timestamp": "2026-11-27T20:38:22+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -518,12 +519,12 @@
     {
       "title": "Telegram",
       "publisher": "CASELS",
-      "text": "During tonight\u2019s large-scale Ukrainian drone attack against the Leningrad Oblast of Northwestern Russia, targeting infrastructure and military-affiliated sites, a Russian surface-to-air missile struck a high-rise building in the city of St. Petersburg.",
+      "text": "Map of the Ukrainian drone routes overnight. Most were flying toward St. Petersburg, while others attacked the Yefremov synthetic rubber plant in Tula region, 300 km from the border.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T07:32:27+00:00",
+      "timestamp": "2026-11-27T20:35:39+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
@@ -531,6 +532,82 @@
       "verification_confidence": 30,
       "verified_sources": [
         "CASELS"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 CIA whistleblower says agency illegally spied on Tulsi Gabbard's team \u2014 and the cover-up continues\nJames Erdman III claims the agency illegally surveilled the investigative team of Tulsi Gabbard, and that the people responsible for covering up major scandals are still in power.\n\ud83d\udd34 Erdman claims the CIA spied on Gabbard\u2019s investigation into the true origins of COVID-19.\n\ud83d\udd34 He directly targets Trump's CIA Director John Ratcliffe and Deputy Director Michael Ellis, predicting they will go down as the \"worst leadership team\" in CIA history for squandering a historic opportunity to reform the agency.\n\ud83d\udd34 Erdman alleges the cover-up surrounding Havana Syndrome (involving directed energy weapons \"zapping people from afar\") is even worse than the COVID origins scandal.\n\ud83d\udcac \"They haven't cleaned house. Not one little bit,\" he noted.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-27T22:20:05+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udcf9 CENTCOM shows footage of 'silent war' against Iran\nAmerican military aircraft attacked a Palau-flagged commercial vessel on November 26 that attempted to pass through the Strait of Hormuz, US CENTCOM said in a press release.\nThe strike destroyed the ship's propulsion system, while the crew remained unharmed, the statement added.\nIn recent months, the US has tightened [its blockade](https://t.me/geopolitics_prime/78083) of Iran, targeting flights and overland trade in addition to preventing oil exports by sea.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-27T17:48:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udc41 Hackers breach US Air Force\u2019s cloud network supporting aircraft and missiles\nHackers have infiltrated Cloud One, the US Air Force\u2019s flagship cloud computing platform, Reuters reports, citing sources.\nThe breach was discovered during a system upgrade. Neither who was behind it nor whether any data was stolen is known.\nThe attackers exploited a software vulnerability to gain access to the platform's control layer, an insider is cited as saying. \nSuch access could potentially expose information on aircraft readiness and spare-parts movements.\n\ud83d\udfe5 Cloud One brings together cloud services from Microsoft, Amazon, Oracle and Alphabet to support dozens of military applications, including systems handling personnel records, logistics, aircraft maintenance and weapons inventories\n\ud83d\udfe5 it supports Cloud-Based Command and Control, which integrates air defense radar and other surveillance data from across North America\n\ud83d\udfe5 it also underpins the Theater Integrated Combat Munitions System, which tracks bombs and missiles at more than 200 US Air Force sites worldwide\nThe breach adds to[ a growing string](https://t.me/geopolitics_prime/78296) of cyber incidents, including recent attacks involving the FBI, Pentagon, Treasury Department and intelligence agencies.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-27T16:26:01+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddee\ud83c\uddf6 Iraq-Kurdistan standoff looms as Iran set to benefit from Baghdad\u2019s centralization push\nIraqi Prime Minister Ali al-Zaidi\u2019s decision to bring all the border crossings in the northern Kurdish region and oilfields in several provinces under federal control has triggered a sharp response from Erbil.\n \nThe Kurdistan Regional Government (KRG) has denounced the move as unconstitutional, accusing Baghdad of seeking to centralize power. Kurdish authorities have warned that any federal troops entering the region would face resistance from the Peshmerga forces. Al-Zaidi, however, has denied plans to deploy troops there.\n\ud83d\udee2 Oil smuggling dilemma\nBaghdad says the measures are aimed at curbing the illegal smuggling of Iraqi crude oil. It has also signaled plans to take control of oilfield operations in Kirkuk, Nineveh, Salahuddin and Diyala provinces. Al-Zaidi has demanded that the KRG refrain from issuing permits for the export of oil and petroleum products without authorization from[ Iraq\u2019s Oil Ministry.](https://t.me/geopolitics_prime/78268)\nKirkuk is home to some of Iraq\u2019s largest oilfields, which have been under Kurdish control since 2014, when Peshmerga forces seized the area amid the fight against ISIS.\nAs part of the same push, the Federal Border Ports Authority has been ordered to take control of Iraqi Kurdistan\u2019s border crossings with[ Turkey, Iran and Syria.](https://t.me/geopolitics_prime/75813) Iraq\u2019s Federal Supreme Court has upheld Baghdad\u2019s authority to take necessary security measures along all of the country\u2019s borders with neighboring states.\n\ud83e\udd14 Who benefits?\nReports suggest that al-Zaidi\u2019s initiative for greater central control over the country\u2019s oil and gas was encouraged [by the Trump administration](https://t.me/geopolitics_prime/72894). Tom Barrack, the US ambassador to Turkey and special envoy for the Middle East, has been a key advocate of the move, according to Middle East Eye.\nIran, however, could also stand to benefit, the outlet reports. Baghdad\u2019s decision may have even been coordinated with Tehran, which has long pressed Iraqi Kurdistan to crack down on Kurdish militant groups [operating against Iran](https://t.me/geopolitics_prime/76809.).\nIran has viewed the region as a rare staging ground for extremist groups seeking to foment unrest in Iranian Kurdistan. Federal control and patrols along the Iranian border could make cross-border movements more transparent, allowing Baghdad to be held accountable for any paramilitary groups crossing the border.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-27T15:04:02+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -562,102 +639,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-27T11:39:00+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf7 Iran forces US F-16 into hasty retreat\nAn American F-16 fighter jet was forced to back off after Iran\u2019s IRGC Aerospace Force activated its advanced air-defense system and fired a warning shot southeast of Hengam Island.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T08:45:52+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "PARTIALLY VERIFIED",
-      "verification_confidence": 65,
-      "verified_sources": [
-        "Alsaa Plus EN",
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 2
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddeb\ud83c\uddf7 Le Pen win could trigger Frexit, says French minister\u00a0\nA potential Marine Le Pen presidency could pull France out of the European Union, the Financial Times cites French Minister Delegate for European Affairs Benjamin Haddad as saying.\u00a0\nHe argues that France\u2019s right-wing National Rally party - where Marine Le Pen leads the parliamentary group -could lead the country toward a hidden or de facto \u201cFrexit.\u201d\u00a0\nIn his opinion, a National Rally government would inevitably set France on a collision course with Brussels, with the first major struggles likely erupting over the EU budget and financial aid to Ukraine.\u00a0\nFrance\u2019s presidential election is scheduled for April 18, 2027, with a second round set for May 2 if required.\u00a0\nLe Pen maintains a huge lead - a Toluna-Harris Interactive survey, conducted for French media outlets, put her at around 31% of voting intentions across the first-round scenarios tested.\nHer main potential challenger is Jean-Luc Melenchon, the leader of the left-wing France Unbowed (LFI) party, who is also seen as a strong contender to reach the runoff.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T08:02:37+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83e\ude96 EU seeks fresh billions to replace US military muscle\n\u00a0\nThe EU is preparing tens of billions of dollars in new loans and grants to reduce its dependence on US military capabilities, Bloomberg reports, citing sources.\n\u00a0\nAccelerating the drive towards military autonomy under the banner of countering [a mythical \u2018Russian threat\u2019](https://t.me/geopolitics_prime/76914), the proposed funding package, expected to launch in the second half of 2027, would build on last year\u2019s \u2248 $165 billion SAFE military loan scheme.\n\u00a0\nIts focus would be on capabilities European armies still heavily depend on the US to provide.\nPriority areas reportedly include:\n\u27a1\ufe0f integrated air and missile defense\n\u27a1\ufe0f intelligence, surveillance and reconnaissance\n\u27a1\ufe0f strategic transport, logistics and operational coordination needed to deploy and sustain forces\n\u00a0\nThe funding package would reportedly combine EU borrowing with allocations from the bloc\u2019s next seven-year budget.\nBrussels\u2019 plans face financial hurdles: negotiations have already cut proposed defense and space funding in the EU\u2019s 2028\u20132034 budget by 30%.\nThe original budget proposal earmarked around $152 billion for defense, with roughly half intended for strategic enablers - precisely the capabilities Europe now says it urgently needs.\nThe push comes as the[ Trump administration scales back ](https://t.me/geopolitics_prime/77780)some US rapid-reaction forces and military equipment stationed in Europe.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T06:25:21+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddfa\ud83c\uddf8\ud83c\udde8\ud83c\uddf3 US influence wanes as Southeast Asia embraces China\u2019s drone tech\nRegional countries are increasingly turning to China for affordable drone technology as they seek to diversify their defense capabilities rather than rely solely on Western suppliers, reports Bloomberg.\nChina\u2019s advantage goes beyond competitive prices: it offers technology transfers, local production partnerships and access to systems that the US has often been reluctant to export.\nSeveral regional militaries are already combining Chinese technology with Western and other foreign equipment:\n\u2666\ufe0f Thailand, a major Non-NATO Ally, operates imported American and Swedish combat aircraft and helicopters armed with South Korean guided bombs, alongside Chinese T-4 main battle tanks and VN-1 armored vehicles. It also uses Chinese-designed UAVs like the Wing Loong series and has developed domestic drones based on Chinese technology.\n\u2666\ufe0f Indonesia uses Chinese and Turkish drones while expanding its arsenal with Indian cruise missiles.\n\u2666\ufe0f The Philippines is integrating Israeli and Australian equipment into its military capabilities, including for surveillance operations in the South China Sea.\n\u2666\ufe0f Myanmar\u2019s conflict has also demonstrated the growing importance of unmanned systems on the battlefield.\nChina\u2019s influence extends well beyond finished military drones, the publication underscores. It dominates the global commercial drone market, worth over $5 billion annually, and supplies critical components underpinning the wider industry.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T05:44:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83c\uddee\ud83c\uddf1\ud83c\uddf9\ud83c\uddf7\ud83c\uddf8\ud83c\uddfeIsrael sees emerging Turkey-Syria alliance as regional threat\nThe Israeli security establishment is increasingly concerned that closer Turkish-Syrian ties could expand Ankara\u2019s regional influence at Tel Aviv\u2019s expense, The Jerusalem Post reports.\n\ud83d\udd34 Israel\u2019s Military Intelligence Directorate and Mossad are closely monitoring a series of reciprocal diplomatic visits by Syrian and Turkish officials amid rising tensions over [Israeli military operations in southern Syria.](https://t.me/geopolitics_prime/77810)\n\ud83d\udd34 The Israel Defense Forces (IDF) fears Turkey could deploy radars and air defense systems in northern Syria, restricting Israeli Air Force operations there and complicating strikes on Iran, for which Israeli aircraft [use Syrian airspace as a transit route](https://t.me/geopolitics_prime/76551).\n\ud83d\udd34 Turkey has begun clearing mines in Gaziantep Province to rehabilitate the historic Hejaz Railway and restore its link to Syria\u2019s Aleppo Province. Israeli defense officials see Ankara\u2019s infrastructure projects as an effort to re-establish Turkey as a gateway to the Middle East, threatening Israeli interests and Tel Aviv\u2019s proposed India-Middle East-Europe Economic Corridor (IMEC)\n\ud83d\udd34 Israel also views the possible expansion of the Mecca Pact to[ include Syria as a setback](https://t.me/geopolitics_prime/77907). Damascus is seeking to join the broader Arab and Muslim community and develop a railway corridor through Jordan to Saudi Arabia, potentially extending to Gulf states and Europe as part of the ambitious Hejaz Railway project\n\ud83d\udd34 Turkish President Recep Tayyip Erdogan\u2019s son Bilal Erdogan recently traveled to Beirut, a move seen by Tel Aviv as an attempt to expand Turkey\u2019s influence in Lebanon\n\ud83d\udd34 Turkey has also asked US President Donald Trump to let Ankara participate in Gaza\u2019s reconstruction \u2014 a move Israel strongly opposes\nThe Israeli press reports that these developments could prompt the IDF to reinforce its troop deployments in the region and [adjust its operational posture.](https://t.me/geopolitics_prime/78155)\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T05:03:01+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
