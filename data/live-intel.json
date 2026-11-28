@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T23:19:49.979759+00:00",
+  "generated_at": "2026-11-28T04:54:04.390637+00:00",
   "events": [
     {
       "title": "FAA SECURITY",
@@ -116,6 +116,44 @@
       "verified_source_count": 1
     },
     {
+      "title": "Space Weather Message Code: ALTK04\r",
+      "text": "Space Weather Message Code: ALTK04\r\nSerial Number: 2699\r\nIssue Time: 2026 Nov 28 0117 UTC\r\n\r\nALERT: Geomagnetic K-index of 4 \nThreshold Reached: 2026 Nov 28 0105 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-28 01:17:48.273",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Space Weather Message Code: WARK04\r",
+      "text": "Space Weather Message Code: WARK04\r\nSerial Number: 5458\r\nIssue Time: 2026 Nov 28 0057 UTC\r\n\r\nWARNING: Geomagnetic K-index of 4 expected \nValid From: 2026 Nov 28 0056 UTC\nValid To: 2026 Nov 28 2359 UTC\nWarning Conditions: Onset\nComment: \r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 65 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nAurora - Aurora may be visible at high latitudes such as Canada and Alaska.",
+      "source": "NOAA Space Weather",
+      "source_type": "official",
+      "publisher": "NOAA Space Weather Prediction Center",
+      "severity": "warning",
+      "icon": "\ud83d\udef0\ufe0f",
+      "timestamp": "2026-11-28 00:57:12.993",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "OFFICIAL",
+      "verification_confidence": 100,
+      "verified_sources": [
+        "NOAA Space Weather Prediction Center"
+      ],
+      "verified_source_count": 1
+    },
+    {
       "title": "Space Weather Message Code: WATA20\r",
       "text": "Space Weather Message Code: WATA20\r\nSerial Number: 1140\r\nIssue Time: 2026 Nov 25 0833 UTC\r\n\r\nWATCH: Geomagnetic Storm Category G1 Predicted \nHighest Storm Level Predicted by Day:\nNov 26: G1 (Minor) Nov 27: G1 (Minor) Nov 28: None (Below G1) \nTHIS SUPERSEDES ANY/ALL PRIOR WATCHES IN EFFECT\nComment: G1 (Minor) geomagnetic storms are likely by late 26 Nov and extending into the early portions of the 27 Nov UTC-day.\n\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
       "source": "NOAA Space Weather",
@@ -173,44 +211,6 @@
       "verified_source_count": 1
     },
     {
-      "title": "Space Weather Message Code: ALTK05\r",
-      "text": "Space Weather Message Code: ALTK05\r\nSerial Number: 2063\r\nIssue Time: 2026 Nov 19 0108 UTC\r\n\r\nALERT: Geomagnetic K-index of 5 \nThreshold Reached: 2026 Nov 19 0105 UTC\nSynoptic Period: 0000-0300\nActive Warning: YES\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-19 01:08:54.450",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Space Weather Message Code: WARK05\r",
-      "text": "Space Weather Message Code: WARK05\r\nSerial Number: 2276\r\nIssue Time: 2026 Nov 19 0100 UTC\r\n\r\nWARNING: Geomagnetic K-index of 5 expected \nValid From: 2026 Nov 19 0055 UTC\nValid To: 2026 Nov 19 0300 UTC\nWarning Conditions: Onset\nNoaa Scale: G1 - Minor\nComment: \r\n\r\nNOAA Scale: G1 - Minor\r\n\r\nNOAA Space Weather Scale descriptions can be found at\r\nwww.swpc.noaa.gov/noaa-scales-explanation\r\n\r\nPotential Impacts: Area of impact primarily poleward of 60 degrees Geomagnetic Latitude.\r\nInduced Currents - Weak power grid fluctuations can occur.\r\nSpacecraft - Minor impact on satellite operations possible.\r\nAurora - Aurora may be visible at high latitudes, i.e., northern tier of the U.S. such as northern Michigan and Maine.",
-      "source": "NOAA Space Weather",
-      "source_type": "official",
-      "publisher": "NOAA Space Weather Prediction Center",
-      "severity": "warning",
-      "icon": "\ud83d\udef0\ufe0f",
-      "timestamp": "2026-11-19 01:00:25.897",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "OFFICIAL",
-      "verification_confidence": 100,
-      "verified_sources": [
-        "NOAA Space Weather Prediction Center"
-      ],
-      "verified_source_count": 1
-    },
-    {
       "title": "Telegram",
       "publisher": "Middle East Spectator",
       "text": "\u2014 \ud83c\uddee\ud83c\uddf7 NEW: Widespread ballistic missile exercises in Iran, as well as launches towards the Strait of Hormuz",
@@ -226,25 +226,6 @@
       "verification_confidence": 30,
       "verified_sources": [
         "Middle East Spectator"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Clash Report",
-      "text": "Polish Foreign Minister Sikorski:\nRussia is hitting Ukraine the way Nazi Germany hit London with V-2 ballistic missiles.",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T20:30:36+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Clash Report"
       ],
       "verified_source_count": 1
     },
@@ -403,20 +384,20 @@
     },
     {
       "title": "Telegram",
-      "publisher": "Mediterranean Man",
-      "text": "I never understood why Americans, and well, not just Americans but also others from developed countries have this insatiable thirst of individualism, in the case of North America it is slightly understandable since they have no civilization to lay their weight on, but at a point it does not limit itself to new or old societies, only about the natural pridefulness of man.\nI met again an old friend, he got out based on psychiatric reasons, and as we were drinking tea we were reminding ourselves of the tales from what happened and what we saw, and he reminded me of what happened at his blockpost, we got a good laugh out of it and then I felt bad.\nWell, this guy, a Bedouin, goes to the checkpoint with his truck - a tank and two dozen guys at arms are guarding it, one asks him to submit to inspection and the Bedouin flatly says \"No.\". You have to understand that this was years in the war, and the idea that somebody would say \"No.\" to a simple thing like an inspection that would not last more than three minutes was just dumbfounded.\nThen my friend goes out in his tank top and his shorts and asks what's the matter, just let us inspect your truck, and the guy kept saying no, and this brought that and they argued and the guy had the intellect to say phrases like \"You are not going to see the tomorrows sunlight.\" and \"You are all going to die.\"\nTo this day I am unsure of why he did it, tribal pride? Was he smuggling dildos to Israel? maybe a secret smugglers to the black flags? just why? Maybe an argument with the wife that made him unpleasant in conversation?\nIt did not matter to my friend, who immediately left and returned with his automatic and shot him.\nOf course, investigation later showed this guy was no smuggler to suspicious characters, he was a local guy and belonged to so and so tribe.\nSo we return to the main question - why do people just refuse to submit? It was not like we were asking to inspect his woman or his daughter, or we were humiliating him in some way, why do Americans argue with their cops if they were at fault or when its procedures? Why are some people completely neurotic to the concept of yielding to such basic things? I cant kick his corpse back up and ask him what he was thinking, that retard.\nWell, I laughed, then I felt bad about myself because it was not proper to do so, strange how after such things you feel more meek and polite towards people instead of being irritating and aggravating.",
+      "publisher": "CASELS",
+      "text": "\u26a1\ufe0f\ud83c\uddf8\ud83c\udde6\ud83c\uddfe\ud83c\uddea\ud83c\uddfe\ud83c\uddeaA Saudi one way attack drone struck Sanaa\u2019s Al-Tahrir district one hour ago. \nResidents recorded the sound of Houthi Anti-Aircraft fire attempting to shoot it down.",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T12:55:58+00:00",
+      "timestamp": "2026-11-28T00:59:47+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "Mediterranean Man"
+        "CASELS"
       ],
       "verified_source_count": 1
     },
@@ -499,39 +480,58 @@
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Russia has a 10-year plan for its own military Starlink analogues, HUR deputy chief Skibitskyi says. Rassvet is to get 924 satellites by 2035 and Innoset 240 by 2036, which would let Moscow run sea drones and UAVs far beyond the Black Sea.",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83d\udccd Trump\u2019s Cabinet flees to secure bases \u2014 report\nRoughly half a dozen of Trump\u2019s Cabinet members are now living in heavily fortified military housing in Washington, DC\u2014a historically unprecedented number for civilian officials, CNN reported.\n\ud83d\udd34 Treasury Sec. Scott Bessent and AG Todd Blanche recently relocated to military bases, citing Iranian death threats.\n\ud83d\udd34 Chief of Staff Stephen Miller and his family fled their Virginia home after facing a stalking and doxxing campaign.\n\ud83d\udd34 Marco Rubio and Pete Hegseth are now neighbors on \"Generals' Row\" at Fort McNair, where their families share the same heavily guarded compound.\nThey are paying thousands of dollars a month to hide behind military gates to protect themselves from the foreign and domestic blowback of their own policies.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T20:38:22+00:00",
+      "timestamp": "2026-11-28T04:39:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
     {
       "title": "Telegram",
-      "publisher": "CASELS",
-      "text": "Map of the Ukrainian drone routes overnight. Most were flying toward St. Petersburg, while others attacked the Yefremov synthetic rubber plant in Tula region, 300 km from the border.",
+      "publisher": "Geopolitics Prime",
+      "text": "\u2694\ufe0f Saudi forces launch 104 strikes on Yemen in 24 hours\nYemeni Armed Forces spokesman Brig. Gen. Yahya Sare'e reports that the attacks involved F-15 and Typhoon fighter jets launched from Khamis Mushait and Taif airbases, alongside missiles fired from Najran.\nDozens of civilians were killed and injured, with the total number of Saudi air and missile attacks since the start of the latest escalation has reached 6,038.\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
       "source": "Telegram",
       "source_type": "telegram",
       "severity": "warning",
       "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T20:35:39+00:00",
+      "timestamp": "2026-11-28T03:14:58+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
       "verification_status": "UNVERIFIED",
       "verification_confidence": 30,
       "verified_sources": [
-        "CASELS"
+        "Geopolitics Prime"
+      ],
+      "verified_source_count": 1
+    },
+    {
+      "title": "Telegram",
+      "publisher": "Geopolitics Prime",
+      "text": "\ud83c\uddf5\ud83c\uddf1\ud83e\ude96\ud83d\udcc9 Poland Sinks Deeper Into Debt to Fund Military Buildup\nPoland is borrowing to equip its own army and has told NATO it will put no more money, for now, into buying US weapons for Ukraine. Prime Minister Donald Tusk gave NATO chief Mark Rutte two reasons for that decision this month. Poland already has a large budget deficit, and its own defense orders take priority.\nOne tank order shows how far those commitments run. Poland took delivery of the last of its first 180 South Korean K2 tanks in November 2025. By then it had already signed a second contract with Hyundai Rotem, worth about $6.5B, for another 180 tanks, support equipment and the technology to build some of them in Poland. Deliveries under that order are due to run through 2030.\nTo finance the deal, Poland\u2019s state development bank signed loan agreements with Santander and South Korea\u2019s export-import bank. That lets Poland place orders years ahead of delivery. It also means the country can take on debt before the equipment reaches its army.\nThe European Commission expects Poland\u2019s economy to grow 3.5% this year, yet it forecasts a deficit of 7.1% of GDP in both 2026 and 2027. Social benefits and interest payments are already weighing on the budget. By 2028, the Commission expects public debt to reach 73.5% of GDP, up from 59.6% in 2025.\nEven the revenue increases in next year\u2019s draft budget face a political hurdle. President Karol Nawrocki can veto legislation, and parliamentary elections are due in 2027. Moody\u2019s cut Poland\u2019s credit rating in September. On November 6, S&P cut its rating on Poland\u2019s local-currency debt and kept its foreign-currency rating at A\u2212, with a negative outlook.\nTusk\u2019s government still plans to spend 4.51% of GDP on defense in 2027. The spending it has put on hold is Poland\u2019s next contribution to a NATO program that pools allied money for US arms and ammunition for Kiev, including missiles for Patriot air defenses. Tusk says other Polish support for Ukraine will continue.\nThat leaves NATO\u2019s other donors with a concrete choice. If they want to keep those US weapons packages funded at the same level, they will have to cover the share Poland is now unwilling to pay.\n us on X](https://x.com/NewRulesGeo?t=6cJ2ZyQr-1f_lBvKPNggKw&s=09)",
+      "source": "Telegram",
+      "source_type": "telegram",
+      "severity": "warning",
+      "icon": "\ud83d\udce2",
+      "timestamp": "2026-11-28T00:25:58+00:00",
+      "location": "Global",
+      "lat": null,
+      "lon": null,
+      "verification_status": "UNVERIFIED",
+      "verification_confidence": 30,
+      "verified_sources": [
+        "Geopolitics Prime"
       ],
       "verified_source_count": 1
     },
@@ -620,25 +620,6 @@
       "severity": "warning",
       "icon": "\ud83d\udce2",
       "timestamp": "2026-11-27T14:23:01+00:00",
-      "location": "Global",
-      "lat": null,
-      "lon": null,
-      "verification_status": "UNVERIFIED",
-      "verification_confidence": 30,
-      "verified_sources": [
-        "Geopolitics Prime"
-      ],
-      "verified_source_count": 1
-    },
-    {
-      "title": "Telegram",
-      "publisher": "Geopolitics Prime",
-      "text": "\ud83d\udc41 AI frenzy eating into US military production & choking supply chains\nTech giants are outbidding US defense contractors for materials, factory space, energy critical supplies, and scarce workers, the FT has reported.\nThe US push to ramp up weapons and aircraft production is colliding with the AI infrastructure boom, with both competing for the same strained manufacturing capacity.\n\ud83c\udf0f defense contractors are under pressure to increase munitions production as the Iran war and [Ukraine aid drain stocks](https://t.me/geopolitics_prime/75955)\n\ud83c\udf0f contractors rely on many of the same suppliers as the booming [data center](https://t.me/geopolitics_prime/77796) industry\n\ud83c\udf0f [AI infrastructure ](https://t.me/geopolitics_prime/76666)developers are competing for everything from steel and electronic components to industrial switches, cooling systems and skilled construction workers\n\ud83c\udf0f AI demand has also driven up memory chip prices, while manufacturers prioritize advanced chips over older components still widely used in military and aerospace systems\n\ud83c\udf0f Boeing has more than 6,300 commercial aircraft awaiting delivery, while its production expansion plans are at least a year behind schedule due to rising costs and supply chain problems\n\ud83d\udc4d [Substack](https://geopoliticsprime.substack.com/) | [Chat](https://t.me/+HLrnOk92f31mYzIy) |",
-      "source": "Telegram",
-      "source_type": "telegram",
-      "severity": "warning",
-      "icon": "\ud83d\udce2",
-      "timestamp": "2026-11-27T11:39:00+00:00",
       "location": "Global",
       "lat": null,
       "lon": null,
